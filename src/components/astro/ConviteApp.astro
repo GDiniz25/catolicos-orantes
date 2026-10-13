@@ -1,0 +1,51 @@
+---
+/**
+ * Ponte do portal para o app (app.catolicosorantes.com.br) nos artigos sobre autoconhecimento e relacionamento.
+ * "quiz": temperamentos, apego, linguagens do amor. "comunidade": namoro, castidade, matrimônio, vocação.
+ */
+import { HeartHandshake } from 'lucide-react';
+
+interface Props { tipo: 'quiz' | 'comunidade'; origem: string }
+const { tipo, origem } = Astro.props;
+const APP = 'https://app.catolicosorantes.com.br';
+const utm = (conteudo: string) => `utm_source=portal&utm_medium=artigo&utm_campaign=${encodeURIComponent(origem)}&utm_content=${conteudo}`;
+const cores = ['#9A4528', '#C49A45', '#5E8C76', '#5B4E7A'];
+---
+<aside class="mt-12 rounded-2xl border border-[#E8D9B5] bg-[#F7F0DC] p-6 md:p-8" aria-labelledby="convite-app">
+  <div class="flex flex-col gap-5 sm:flex-row sm:items-start">
+    {tipo === 'quiz' ? (
+      <span class="flex shrink-0 -space-x-2.5" aria-hidden="true">
+        {cores.map((c) => <span class="h-11 w-11 rounded-full border-[3px] border-white ring-2 ring-[#F7F0DC]" style={`background:${c}`}></span>)}
+      </span>
+    ) : (
+      <span class="grid h-14 w-14 shrink-0 place-items-center rounded-full border-[3px] border-white bg-co-warm-terracotta text-white ring-2 ring-[#E8D9B5]" aria-hidden="true">
+        <HeartHandshake className="h-7 w-7" strokeWidth={1.8} />
+      </span>
+    )}
+    <div class="min-w-0">
+      {tipo === 'quiz' ? (
+        <>
+          <h2 id="convite-app" class="font-display text-2xl font-semibold leading-tight text-co-warm-brown">Descubra o seu jeito de amar</h2>
+          <p class="mt-2 text-[16px] leading-relaxed text-co-warm-brown/85">
+            No app Católicos Orantes, 10 perguntas mostram seu temperamento, seu estilo de apego e sua linguagem do amor, com um santo que viveu o mesmo caminho e a trilha de oração por onde começar. Gratuito e sem cadastro.
+          </p>
+          <div class="acoes mt-5">
+            <a href={`${APP}/quiz?${utm('fazer-quiz')}`} class="btn btn-primario">Fazer o quiz</a>
+            <a href={`${APP}/sobre?${utm('conhecer-app')}`} class="btn btn-contorno">Conhecer o app</a>
+          </div>
+        </>
+      ) : (
+        <>
+          <h2 id="convite-app" class="font-display text-2xl font-semibold leading-tight text-co-warm-brown">Quer namorar com propósito?</h2>
+          <p class="mt-2 text-[16px] leading-relaxed text-co-warm-brown/85">
+            O app Católicos Orantes reúne católicos que levam a fé a sério e querem construir família. A conversa só abre quando as duas pessoas se curtem. Comece pelo quiz afetivo, gratuito, para entender o seu jeito de amar.
+          </p>
+          <div class="acoes mt-5">
+            <a href={`${APP}/?${utm('conhecer-comunidade')}`} class="btn btn-primario">Conhecer a comunidade</a>
+            <a href={`${APP}/quiz?${utm('fazer-quiz')}`} class="btn btn-contorno">Fazer o quiz</a>
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</aside>

@@ -12,7 +12,7 @@ import { getLiturgiaJanela, type LiturgiaData } from '@/lib/data';
 import { sanitizeLiturgyServer } from '@/lib/sanitize';
 import { extractLeituras, tidyLiturgyHtml } from '@/lib/liturgy';
 import { dataSlug, formatDateFull, getTodayStr } from '@/lib/dateUtils';
-import { corDaCnbb, infoDoDia, tomLiturgico, CORES } from '@/lib/anoLiturgico';
+import { corDaCnbb, corDaLiturgia, celebracaoDaLiturgia, infoDoDia, tomLiturgico, CORES } from '@/lib/anoLiturgico';
 import { absUrl, breadcrumbSchema, clampText, publisherRef } from '@/lib/seo';
 
 export async function getStaticPaths() {
@@ -30,7 +30,7 @@ const dataLonga = formatDateFull(date);
 const leituras = extractLeituras(liturgia.leituras);
 const corpo = tidyLiturgyHtml(sanitizeLiturgyServer(liturgia.body));
 const info = infoDoDia(date);
-const corKey = corDaCnbb(liturgia.color) ?? info.tempo.cor;
+const corKey = corDaLiturgia(liturgia) ?? info.tempo.cor;
 const tom = tomLiturgico(corKey);
 
 const title = `Liturgia Diária ${dataLonga.replace(/^\S+, /, '')}: ${liturgia.title}`.slice(0, 110);
@@ -62,7 +62,7 @@ const jsonLd = [
 ---
 <BaseLayout title={title} description={description} path={path} ogType="article" jsonLd={jsonLd} publishedTime={`${date}T00:00:00-03:00`} ctaMaxWidth="max-w-3xl"
   keywords={`liturgia diária ${dataLonga.replace(/^\S+, /, '').toLowerCase()}, evangelho do dia, leituras da missa, ${liturgia.title}`}>
-  <PageHeader title={`Liturgia de ${dataLonga.replace(/ de \d{4}$/, '')}`} subtitle={liturgia.title} icon={BookOpen} crumbs={crumbs} tom={tom}>
+  <PageHeader title={`Liturgia de ${dataLonga.replace(/ de \d{4}$/, '')}`} subtitle={celebracaoDaLiturgia(liturgia) ?? liturgia.title} icon={BookOpen} crumbs={crumbs} tom={tom}>
     <p class="mt-5 inline-flex flex-wrap items-center gap-x-3 gap-y-1 rounded-full bg-white/70 px-4 py-1.5 text-[15px]">
       <span class="h-3 w-3 rounded-full" style={`background:${CORES[corKey].forte}`} aria-hidden="true"></span>
       <span>Cor litúrgica: <strong>{CORES[corKey].nome}</strong></span>

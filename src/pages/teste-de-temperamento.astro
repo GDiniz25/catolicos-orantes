@@ -4,6 +4,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import ContaProgresso from '@/components/islands/ContaProgresso';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import Faq from '@/components/astro/Faq.astro';
+import ConviteApp from '@/components/astro/ConviteApp.astro';
 import TemperamentoQuiz from '@/components/islands/TemperamentoQuiz';
 import dados from '@/data/conteudo/temperamento.json';
 import { CATEGORY_VISUAL } from '@/config/categoryVisual';
@@ -40,6 +41,7 @@ const FAQ = [
           ))}
         </ul>
         <p class="text-[15px] text-co-warm-brown/75">Para entender a origem da teoria e como usá-la bem, leia <a href="/duvidas-da-fe/os-quatro-temperamentos-e-a-vida-espiritual" class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Os quatro temperamentos e a vida espiritual</a>.</p>
+        <ConviteApp tipo="quiz" origem="teste-de-temperamento" />
         <Faq title="Perguntas frequentes" items={FAQ} />
       </div>
     </section>

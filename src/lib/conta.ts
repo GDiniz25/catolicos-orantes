@@ -6,6 +6,7 @@
  */
 import type { Session, SupabaseClient } from '@supabase/supabase-js';
 import { SUPABASE_URL } from '@/config/site';
+import { temSessaoSalva } from '@/lib/sessaoCompartilhada';
 
 let clientPromise: Promise<SupabaseClient> | null = null;
 
@@ -20,7 +21,7 @@ const projectRef = SUPABASE_URL.replace(/^https?:\/\//, '').split('.')[0];
 export function talvezLogado(): boolean {
   try {
     if (/access_token=|refresh_token=|[?&]code=|error_description=/.test(window.location.hash + window.location.search)) return true;
-    return Boolean(localStorage.getItem(`sb-${projectRef}-auth-token`));
+    return temSessaoSalva(projectRef);
   } catch {
     return false;
   }

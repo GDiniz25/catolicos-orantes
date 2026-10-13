@@ -7,6 +7,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import { imagemResponsiva } from '@/lib/imagens';
 import Breadcrumbs from '@/components/astro/Breadcrumbs.astro';
 import PrayerButton from '@/components/astro/PrayerButton.astro';
+import ConviteApp from '@/components/astro/ConviteApp.astro';
 import { getAllArticles } from '@/lib/data';
 import { categoryLabel } from '@/config/site';
 import { cleanArticleHtml, htmlToText, tabelasResponsivas } from '@/lib/sanitize';
@@ -37,6 +38,19 @@ const plain = htmlToText(clean);
 const wordCount = plain.split(/\s+/).filter(Boolean).length;
 const readingTime = Math.max(1, Math.ceil(wordCount / 200));
 const { html: htmlComIds, toc } = addHeadingIds(injectInlineLinks(clean, related));
+// Ponte para o app: autoconhecimento leva ao quiz; namoro, matrimônio e vocação levam à comunidade
+const chaveArtigo = `${article.category}/${article.slug}`;
+const CONVITE_QUIZ = /^duvidas-da-fe\/(temperamento-|os-quatro-temperamentos|estilos-de-apego|apego-|linguagens-do-amor)/;
+const CONVITE_COMUNIDADE = new Set([
+  'duvidas-da-fe/namoro-catolico-como-viver',
+  'duvidas-da-fe/castidade-no-namoro',
+  'duvidas-da-fe/namoro-com-pessoa-de-outra-religiao',
+  'duvidas-da-fe/como-discernir-a-vocacao',
+  'sacramentos/preparacao-para-o-matrimonio-catolico',
+  'sacramentos/o-sacramento-do-matrimonio-na-igreja-catolica',
+  'oracoes-do-dia-a-dia/oracao-pelo-casamento',
+]);
+const convite: 'quiz' | 'comunidade' | null = CONVITE_QUIZ.test(chaveArtigo) ? 'quiz' : CONVITE_COMUNIDADE.has(chaveArtigo) ? 'comunidade' : null;
 const contentHtml = tabelasResponsivas(htmlComIds);
 const faq = extractFaq(clean);
 const sources = extractSources(clean);
@@ -155,6 +169,7 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
         )}
 
         <div class="article-prose" data-prose set:html={contentHtml} />
+        {convite && <ConviteApp tipo={convite} origem={article.slug} />}
       </article>
 
       {toc.length >= 3 && (

@@ -189,3 +189,28 @@ export const MISTERIO_DA_SEMANA: Misterio[] = ['gloriosos', 'gozosos', 'doloroso
 /** Data de hoje em Brasília, no navegador */
 export const hojeBrasilia = () =>
   new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+
+/**
+ * Cor do dia como a CNBB mostra na estola do topo da liturgia (ex.: estolas/verde.png).
+ * O campo "color" da API às vezes traz a cor de uma memória facultativa (ex.: vermelho de um mártir
+ * num dia de semana verde); a estola é a cor oficial do dia. Sem estola, vale o campo "color".
+ */
+export function corDaLiturgia(l?: { color?: string | null; details?: string | null } | null): CorLiturgica | null {
+  const estola = (l?.details || '').match(/estolas\/([a-z]+)\.png/i)?.[1];
+  return corDaCnbb(estola) ?? corDaCnbb(l?.color);
+}
+
+/** Nome da celebração do dia a partir do cabeçalho da CNBB (ex.: "Bem-aventurada Virgem Maria do Rosário, Memória"). */
+export function celebracaoDaLiturgia(l?: { details?: string | null } | null): string | null {
+  const partes = (l?.details || '')
+    .replace(/<[^>]+>/g, '|')
+    .replace(/&nbsp;/g, ' ')
+    .split('|')
+    .map((p) => p.replace(/\s+/g, ' ').trim())
+    .filter(Boolean);
+  // partes[0] é a data; partes[1] é a celebração ou a semana do tempo
+  const nome = partes[1];
+  if (!nome || /^Leituras/i.test(nome)) return null;
+  const grau = partes[2]?.match(/^,\s*(Memória|Festa|Solenidade)/i)?.[1];
+  return grau ? `${nome}, ${grau}` : nome;
+}

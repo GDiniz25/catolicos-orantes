@@ -160,6 +160,7 @@ const graph = {
       try {
         const logado =
           /access_token=|refresh_token=|[?&]code=/.test(location.hash + location.search) ||
+          /(^|; )sb-[^=]+-auth-token\.0=/.test(document.cookie) ||
           Object.keys(localStorage).some((k) => /^sb-.+-auth-token$/.test(k));
         if (logado) import('@/lib/progresso').then((m) => m.iniciarSincronizacao());
       } catch {

@@ -7,7 +7,7 @@ import { getLiturgia, getLiturgiaJanela } from '@/lib/data';
 import { sanitizeLiturgyServer } from '@/lib/sanitize';
 import { extractLeituras, tidyLiturgyHtml } from '@/lib/liturgy';
 import { getTodayStr, formatDateFull, formatDateSimple, dataSlug } from '@/lib/dateUtils';
-import { CORES, corDaCnbb, infoDoDia, tomLiturgico } from '@/lib/anoLiturgico';
+import { CORES, corDaCnbb, corDaLiturgia, celebracaoDaLiturgia, infoDoDia, tomLiturgico } from '@/lib/anoLiturgico';
 import { absUrl, breadcrumbSchema, publisherRef } from '@/lib/seo';
 
 const today = getTodayStr();
@@ -22,7 +22,7 @@ const initial: LiturgiaView | null = raw
   ? { date: today, title: raw.title, bodyHtml: tidyLiturgyHtml(sanitizeLiturgyServer(raw.body)), leituras: extractLeituras(raw.leituras) }
   : null;
 
-const tom = tomLiturgico(corDaCnbb(raw?.color) ?? infoDoDia(today).tempo.cor);
+const tom = tomLiturgico(corDaLiturgia(raw) ?? infoDoDia(today).tempo.cor);
 const title = `Liturgia Diária de Hoje: ${formattedDate}`;
 const leiturasTxt = initial?.leituras.length ? ` ${initial.leituras.slice(0, 3).join('; ')}.` : '';
 const description = `Leituras da liturgia católica de ${formattedDate}: primeira leitura, salmo e evangelho (CNBB).${leiturasTxt}`.slice(0, 160);
@@ -81,10 +81,10 @@ const jsonLd = [
                   {g.lista.map((j) => (
                     <li>
                       <a href={`/liturgia-diaria/${dataSlug(j.date)}`} class="group flex items-start gap-3 py-2.5">
-                        <span class="mt-1.5 h-3 w-3 shrink-0 rounded-full" style={`background:${CORES[corDaCnbb(j.liturgia.color) ?? infoDoDia(j.date).tempo.cor].forte}`} aria-hidden="true"></span>
+                        <span class="mt-1.5 h-3 w-3 shrink-0 rounded-full" style={`background:${CORES[corDaLiturgia(j.liturgia) ?? infoDoDia(j.date).tempo.cor].forte}`} title={`Cor ${CORES[corDaLiturgia(j.liturgia) ?? infoDoDia(j.date).tempo.cor].nome}`} aria-hidden="true"></span>
                         <span>
                         <span class="block font-medium underline-offset-4 group-hover:text-co-warm-terracotta group-hover:underline">{formatDateFull(j.date).replace(/ de \d{4}$/, '')}</span>
-                        <span class="block text-sm text-co-warm-brown/75">{j.liturgia.title}</span>
+                        <span class="block text-sm text-co-warm-brown/75">{celebracaoDaLiturgia(j.liturgia) ?? j.liturgia.title}, cor {CORES[corDaLiturgia(j.liturgia) ?? infoDoDia(j.date).tempo.cor].nome}</span>
                         </span>
                       </a>
                     </li>
