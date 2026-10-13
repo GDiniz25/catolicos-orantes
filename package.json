@@ -19,7 +19,8 @@
     "imagens:buscar": "node --env-file=.env scripts/imagens-buscar.mjs",
     "imagens:aplicar": "node --env-file=.env scripts/imagens-aplicar.mjs",
     "conteudos:publicar": "node --env-file=.env scripts/conteudos-publicar.mjs",
-    "imagens:variantes": "node --env-file=.env scripts/imagens-variantes.mjs"
+    "imagens:variantes": "node --env-file=.env scripts/imagens-variantes.mjs",
+    "imagens:fixar": "node --env-file=.env scripts/imagens-fixar.mjs"
   },
   "dependencies": {
     "@astrojs/react": "^4.2.0",

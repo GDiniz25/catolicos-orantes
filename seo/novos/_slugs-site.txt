@@ -438,3 +438,9 @@
 /terco-guiado
 /teste-de-temperamento
 /via-sacra
+/duvidas-da-fe/estilos-de-apego-e-a-fe
+/duvidas-da-fe/apego-seguro
+/duvidas-da-fe/apego-ansioso
+/duvidas-da-fe/apego-evitativo
+/duvidas-da-fe/apego-desorganizado
+/duvidas-da-fe/linguagens-do-amor-e-a-fe

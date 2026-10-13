@@ -412,5 +412,37 @@
    "titulo_sugerido": "Temperamento fleumático: virtudes, desafios e santidade",
    "foco": "Traços (calmo, pacificador), desafios (indolência, omissão), virtudes (zelo, diligência), conselhos."
   }
+ ],
+ "Q": [
+  {
+   "slug": "estilos-de-apego-e-a-fe",
+   "category": "duvidas-da-fe",
+   "title": "Estilos de apego: o que são e como a fé ajuda a amar melhor"
+  },
+  {
+   "slug": "apego-seguro",
+   "category": "duvidas-da-fe",
+   "title": "Apego seguro: o que é, sinais no namoro e como crescer"
+  },
+  {
+   "slug": "apego-ansioso",
+   "category": "duvidas-da-fe",
+   "title": "Apego ansioso: o que é, sinais no namoro e como crescer"
+  },
+  {
+   "slug": "apego-evitativo",
+   "category": "duvidas-da-fe",
+   "title": "Apego evitativo: o que é, sinais no namoro e como crescer"
+  },
+  {
+   "slug": "apego-desorganizado",
+   "category": "duvidas-da-fe",
+   "title": "Apego desorganizado: o que é, sinais no namoro e como crescer"
+  },
+  {
+   "slug": "linguagens-do-amor-e-a-fe",
+   "category": "duvidas-da-fe",
+   "title": "Linguagens do amor: o que são e como viver cada uma à luz da fé"
+  }
  ]
 }
