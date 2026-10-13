@@ -1,0 +1,47 @@
+---
+import { CalendarDays } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import TabelaDatas from '@/components/astro/TabelaDatas.astro';
+import { ANOS_DATAS, datasDoAno, dataPorExtenso } from '@/lib/datasLiturgicas';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { getTodayStr } from '@/lib/dateUtils';
+import { absUrl, breadcrumbSchema } from '@/lib/seo';
+
+const ano = Number(getTodayStr().slice(0, 4));
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Datas litúrgicas', path: '/datas-liturgicas' }];
+const pascoas = ANOS_DATAS.map((a) => ({ a, p: datasDoAno(a).find((x) => x.id === 'pascoa')!.data, c: datasDoAno(a).find((x) => x.id === 'cinzas')!.data }));
+---
+<BaseLayout
+  title="Datas litúrgicas: Páscoa, Carnaval e Corpus Christi por ano"
+  description="Quando é a Páscoa, o Carnaval, a Quarta-feira de Cinzas, Pentecostes e Corpus Christi de 2020 a 2040, pelas regras da Igreja Católica no Brasil."
+  path="/datas-liturgicas"
+  keywords="quando é a páscoa, datas da páscoa, calendário litúrgico, data do carnaval, corpus christi, quarta-feira de cinzas"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/datas-liturgicas')}#webpage`, url: absUrl('/datas-liturgicas'), name: 'Datas litúrgicas por ano', inLanguage: 'pt-BR' }, breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Datas litúrgicas" subtitle="Páscoa, Carnaval, Cinzas, Pentecostes, Corpus Christi e as grandes festas da Igreja em cada ano." icon={CalendarDays} crumbs={crumbs} tom={CATEGORY_VISUAL['calendario-liturgico']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-5xl space-y-12 px-4">
+      <section aria-labelledby="ano-atual">
+        <div class="mb-4 flex flex-wrap items-baseline justify-between gap-2">
+          <h2 id="ano-atual" class="font-display text-2xl font-semibold md:text-3xl">Calendário de {ano}</h2>
+          <a href={`/datas-liturgicas/${ano + 1}`} class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Ver {ano + 1}</a>
+        </div>
+        <TabelaDatas ano={ano} />
+      </section>
+      <section aria-labelledby="pascoas">
+        <h2 id="pascoas" class="mb-4 font-display text-2xl font-semibold md:text-3xl">Páscoa e Cinzas de 2020 a 2040</h2>
+        <ul class="gs gs-sm2 gs-lg3 gap-3">
+          {pascoas.map(({ a, p, c }) => (
+            <li>
+              <a href={`/datas-liturgicas/${a}`} class="flex items-center gap-4 rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35">
+                <span class="font-display text-2xl font-semibold text-[#36613F]">{a}</span>
+                <span class="text-[15px] leading-snug"><span class="block">Páscoa: <strong>{dataPorExtenso(p, false)}</strong></span><span class="block text-co-warm-brown/80">Cinzas: {dataPorExtenso(c, false)}</span></span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    </div>
+  </main>
+</BaseLayout>

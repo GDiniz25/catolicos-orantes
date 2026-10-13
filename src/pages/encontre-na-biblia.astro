@@ -1,0 +1,75 @@
+---
+import { MessageCircle } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import BibleChat from '@/components/islands/BibleChat';
+import { absUrl, breadcrumbSchema, publisherRef } from '@/lib/seo';
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Encontre na Bíblia', path: '/encontre-na-biblia' },
+];
+const temas = [
+  'Passagens sobre amor',
+  'Versículos de esperança',
+  'Bíblia sobre família',
+  'Passagens sobre perdão',
+  'Versículos sobre fé',
+  'Passagens sobre gratidão',
+  'Bíblia sobre ansiedade',
+  'Versículos sobre paciência',
+  'Passagens sobre coragem',
+];
+const jsonLd = [
+  {
+    '@type': 'WebApplication',
+    name: 'Encontre na Bíblia — Católicos Orantes',
+    description: 'Busque passagens da Bíblia Sagrada por tema ou situação, com reflexões católicas.',
+    url: absUrl('/encontre-na-biblia'),
+    applicationCategory: 'ReferenceApplication',
+    operatingSystem: 'Web',
+    inLanguage: 'pt-BR',
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'BRL' },
+    publisher: publisherRef,
+  },
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title="Encontre Passagens na Bíblia por Tema"
+  description="Busque versículos da Bíblia Sagrada por tema ou situação de vida. Encontre passagens sobre amor, esperança, fé, família, perdão e mais com reflexões católicas."
+  path="/encontre-na-biblia"
+  keywords="encontre na bíblia, passagens bíblicas por tema, versículos por assunto, buscar na bíblia, passagens sobre amor, versículos sobre esperança, bíblia católica"
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader
+    title="Encontre na Bíblia"
+    subtitle="Busque versículos da Bíblia Sagrada por tema ou situação. Digite o que está no seu coração e encontre a Palavra de Deus."
+    icon={MessageCircle}
+    crumbs={crumbs}
+  />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <div class="mx-auto max-w-3xl">
+        <BibleChat client:visible />
+      </div>
+
+      <section class="mx-auto mt-12 max-w-3xl" aria-labelledby="como-encontrar">
+        <h2 id="como-encontrar" class="mb-4 font-display text-xl font-semibold">Como encontrar passagens na Bíblia por tema?</h2>
+        <p class="mb-4 leading-relaxed text-co-warm-brown/80">
+          A Bíblia Sagrada é a Palavra de Deus e contém orientação para todas as situações da vida. Com a ferramenta <strong>Encontre na Bíblia</strong> do Católicos Orantes, você pode buscar versículos e passagens bíblicas por tema — como amor, esperança, fé, perdão, família, trabalho, ansiedade e muito mais.
+        </p>
+        <p class="mb-4 leading-relaxed text-co-warm-brown/80">
+          Basta digitar o assunto ou a situação que está vivendo e nossa inteligência artificial encontra as passagens mais relevantes da Bíblia Sagrada, acompanhadas de uma breve reflexão para ajudar na meditação e oração.
+        </p>
+        <h3 class="mb-3 mt-8 font-display text-lg font-semibold">Temas mais buscados</h3>
+        <ul class="grid grid-cols-2 gap-2 text-sm text-co-warm-brown/80 sm:grid-cols-3">
+          {temas.map((t) => (
+            <li class="flex items-center gap-1.5"><span class="h-1.5 w-1.5 shrink-0 rounded-full bg-co-warm-terracotta/40"></span>{t}</li>
+          ))}
+        </ul>
+      </section>
+    </div>
+  </main>
+</BaseLayout>

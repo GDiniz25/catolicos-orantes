@@ -1,0 +1,63 @@
+---
+/**
+ * Bloco do Caminho da Fé com as 6 trilhas.
+ * Quem já estudou vê o próprio progresso (lido do navegador); quem não começou vê o convite ao teste.
+ */
+import { TRILHAS, totalLicoes } from '@/data/estudo/curso';
+const trilhas = TRILHAS.map((t) => ({ id: t.id, titulo: t.titulo, licoes: t.licoes.map((l) => l.id) }));
+---
+<div class="overflow-hidden rounded-2xl bg-[#2B2626] text-[#FCFAF8]" data-caminho-resumo>
+  <div class="grid gap-8 p-6 md:p-10 lg:grid-cols-[minmax(0,5fr)_minmax(0,6fr)] lg:items-center">
+    <div>
+      <p class="text-sm font-semibold text-[#E2C47E]">Caminho da Fé, grátis</p>
+      <h2 id="caminho-titulo" class="mt-2 font-display text-3xl font-semibold leading-tight md:text-4xl" data-caminho-titulo>Poucos minutos por dia para conhecer melhor a fé.</h2>
+      <p class="mt-3 max-w-lg text-[17px] leading-relaxed text-[#D8D0C8]" data-caminho-texto>
+        Um teste de 18 perguntas mostra o seu nível. Depois, {totalLicoes} lições curtas com referência ao Catecismo, no seu ritmo.
+      </p>
+      <a href="/aprender" class="btn mt-6 w-full bg-[#E2C47E] text-[#2B2626] hover:bg-[#EBD39B] focus-visible:ring-white sm:w-auto" data-caminho-botao>Fazer o teste de nível</a>
+    </div>
+    <ul class="grid grid-cols-1 gap-3 min-[440px]:grid-cols-2 md:grid-cols-3">
+      {trilhas.map((t) => (
+        <li class="flex flex-col gap-2.5 rounded-xl bg-[#3A3434] p-4" data-trilha={t.id} data-licoes={t.licoes.join(',')}>
+          <span class="text-[15px] font-semibold leading-snug">{t.titulo}</span>
+          <span class="mt-auto h-1.5 overflow-hidden rounded-full bg-[#554D4D]" aria-hidden="true">
+            <span class="block h-full w-0 rounded-full bg-[#E2C47E]" data-barra></span>
+          </span>
+          <span class="text-[13px] text-[#BDB3A9]" data-conta>{t.licoes.length} lições</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+</div>
+
+<script>
+  type Estado = { nivelamento?: Record<string, number>; concluidas?: Record<string, unknown> };
+  const box = document.querySelector<HTMLElement>('[data-caminho-resumo]');
+  const montar = () => {
+  let e: Estado | null = null;
+  try {
+    e = JSON.parse(localStorage.getItem('co-caminho-v1') || 'null');
+  } catch {
+    e = null;
+  }
+  if (box && e && (e.nivelamento || Object.keys(e.concluidas || {}).length)) {
+    const inicio = (a?: number) => (a === undefined || a <= 1 ? 0 : a === 2 ? 2 : 4);
+    let feitasTotal = 0;
+    box.querySelectorAll<HTMLElement>('[data-trilha]').forEach((li) => {
+      const ids = (li.dataset.licoes || '').split(',');
+      const ini = inicio(e!.nivelamento?.[li.dataset.trilha!]);
+      const feitas = ids.filter((id, i) => i < ini || e!.concluidas?.[id]).length;
+      feitasTotal += feitas;
+      (li.querySelector('[data-barra]') as HTMLElement).style.width = `${Math.round((feitas / ids.length) * 100)}%`;
+      li.querySelector('[data-conta]')!.textContent = `${feitas} de ${ids.length} lições`;
+      li.setAttribute('aria-label', `${li.querySelector('span')?.textContent}: ${feitas} de ${ids.length} lições`);
+    });
+    box.querySelector('[data-caminho-titulo]')!.textContent = 'Continue de onde parou.';
+    box.querySelector('[data-caminho-texto]')!.textContent = `Você já tem ${feitasTotal} lições no seu caminho. A próxima é curta e fica salva no seu progresso.`;
+    box.querySelector('[data-caminho-botao]')!.textContent = 'Continuar o Caminho da Fé';
+  }
+  };
+  montar();
+  // Progresso trazido da conta depois que a página abriu
+  addEventListener('co:progresso', montar);
+</script>

@@ -1,0 +1,244 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PrayerButton from '@/components/astro/PrayerButton.astro';
+import SaintsCalendar, { toSaint } from '@/components/islands/SaintsCalendar';
+import { sections } from '@/data/sections';
+import RodaLiturgica from '@/components/astro/RodaLiturgica.astro';
+import Intencoes from '@/components/astro/Intencoes.astro';
+import TercoDoDia from '@/components/astro/TercoDoDia.astro';
+import TemasGrid from '@/components/astro/TemasGrid.astro';
+import CaminhoResumo from '@/components/astro/CaminhoResumo.astro';
+import CapaArtigo from '@/components/astro/CapaArtigo.astro';
+import Medalhao from '@/components/astro/Medalhao.astro';
+import FerramentasGrid from '@/components/astro/FerramentasGrid.astro';
+import { FERRAMENTAS } from '@/data/ferramentas';
+import { CORES, corDaCnbb, infoDoDia } from '@/lib/anoLiturgico';
+import { getVersiculoDoDia } from '@/data/versiculos';
+import { getTodayStr, parseDate, formatDateSimple, dataSlug } from '@/lib/dateUtils';
+import { getSaintsWithSlug, getAllArticles, getLiturgia, getLiturgiaJanela } from '@/lib/data';
+import { extractLeituras } from '@/lib/liturgy';
+import { getShortName } from '@/lib/saints';
+import { SITE_TITLE, SITE_DESCRIPTION, categoryLabel } from '@/config/site';
+import { itemListSchema } from '@/lib/seo';
+
+const today = getTodayStr();
+const [, month, day] = today.split('-').map(Number);
+const versiculo = getVersiculoDoDia(parseDate(today));
+const allArticles = await getAllArticles();
+const saints = await getSaintsWithSlug();
+// Só as chaves de artigos ligados a algum santo (o calendário não precisa das outras)
+const chavesDeSantos = new Set(saints.map((s) => `${s.article_category}/${s.article_slug}`));
+const articleKeys = allArticles.map((a) => `${a.category}/${a.slug}`).filter((k) => chavesDeSantos.has(k));
+const monthSaints = saints.filter((s) => s.date_month === month).map((s) => ({ ...toSaint(s), slug: s.slug }));
+const todaySaints = saints.filter((s) => s.date_month === month && s.date_day === day);
+const liturgia = await getLiturgia(today);
+// Com a liturgia de hoje carregada existe a página com data (ex.: /liturgia-diaria/13-de-outubro-de-2026): o cartão aponta para ela
+const linkLiturgiaHoje = (await getLiturgiaJanela()).some((j) => j.date === today) ? `/liturgia-diaria/${dataSlug(today)}` : '/liturgia-diaria';
+const leituras = liturgia ? extractLeituras(liturgia.leituras).slice(0, 4) : [];
+const latest = allArticles.slice(0, 6);
+const counts: Record<string, number> = {};
+for (const a of allArticles) counts[a.category] = (counts[a.category] ?? 0) + 1;
+const imgArtigo = new Map(allArticles.map((a) => [`${a.category}/${a.slug}`, a.image_url || null]));
+const imgSanto = (s: { article_category?: string | null; article_slug?: string | null }) => imgArtigo.get(`${s.article_category}/${s.article_slug}`) ?? null;
+const infoHoje = infoDoDia(today);
+const corHoje = CORES[corDaCnbb(liturgia?.color) ?? infoHoje.tempo.cor];
+const inicial = (nome: string) => (getShortName(nome).replace(/^(São|Santa|Santo|S\.|Sto\.|Sta\.|Beato|Beata|Bem-aventurad[oa]|Nossa Senhora d[aeo]s?)\s*/i, '').trim()[0] || '+').toUpperCase();
+
+
+const jsonLd = [
+  {
+    '@type': 'WebPage',
+    '@id': 'https://catolicosorantes.com.br/#webpage',
+    url: 'https://catolicosorantes.com.br',
+    name: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    isPartOf: { '@id': 'https://catolicosorantes.com.br/#website' },
+    inLanguage: 'pt-BR',
+  },
+  itemListSchema(sections.map((s) => ({ name: s.title, path: s.href }))),
+];
+---
+<BaseLayout
+  title={SITE_TITLE}
+  description={SITE_DESCRIPTION}
+  path="/"
+  keywords="fé católica, liturgia diária, versículo do dia, santos católicos, orações católicas, sacramentos, catecismo, novenas"
+  jsonLd={jsonLd}
+  hidePrayerCTA
+>
+  <main id="conteudo">
+    <!-- Abertura: frase do site + roda do ano litúrgico -->
+    <section class="border-b border-co-warm-sand-dark">
+      <div class="container mx-auto grid max-w-6xl items-center gap-10 px-4 py-10 md:py-14 lg:grid-cols-[minmax(0,1fr)_minmax(0,420px)] lg:gap-14">
+        <div>
+          <p class="text-[15px] font-semibold text-co-warm-terracotta"><time datetime={today} data-data-hoje>{formatDateSimple(today)}</time></p>
+          <h1 class="mt-3 max-w-2xl font-display text-[2.4rem] font-semibold leading-[1.08] md:text-6xl">
+            A fé católica explicada com clareza, para rezar e entender.
+          </h1>
+          <p class="mt-5 max-w-xl text-lg leading-relaxed text-co-warm-brown/80 md:text-xl">
+            Liturgia do dia, santos, orações, sacramentos e catecismo, sempre com a fonte da Igreja indicada.
+          </p>
+          <div class="acoes mt-7">
+            <a href="/liturgia-diaria" class="btn btn-primario">Ler a liturgia de hoje</a>
+            <a href="/aprender" class="btn btn-contorno">Descubra seu nível na fé</a>
+          </div>
+        </div>
+        <RodaLiturgica />
+      </div>
+    </section>
+
+    <!-- Hoje -->
+    <section aria-labelledby="hoje-titulo" class="border-b border-co-warm-sand-dark">
+      <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <h2 id="hoje-titulo" class="font-display text-3xl font-semibold md:text-4xl">Hoje</h2>
+        <div class="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-5">
+          <a href={linkLiturgiaHoje} class="group flex flex-col overflow-hidden rounded-xl border border-co-warm-sand-dark bg-white transition-shadow hover:shadow-[0_10px_28px_rgba(62,56,56,0.10)]">
+            <span class="h-2" style={`background:${corHoje.forte}`} aria-hidden="true"></span>
+            <span class="flex flex-1 flex-col p-5 md:p-6">
+              <span class="text-sm font-semibold" style={`color:${corHoje.forte === '#D9BE78' ? '#7A5820' : corHoje.forte}`}>Liturgia diária, cor {corHoje.nome}</span>
+              <span class="mt-2 font-display text-xl font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta">{liturgia ? liturgia.title : 'Leituras, salmo e evangelho de hoje'}</span>
+              {leituras.length > 0 && (
+                <span class="mt-3 flex flex-wrap gap-1.5">
+                  {leituras.map((l) => <span class="rounded-full bg-co-warm-cream px-2.5 py-1 text-[13px] text-co-warm-brown/80">{l}</span>)}
+                </span>
+              )}
+              <span class="mt-auto pt-4 text-[15px] font-semibold text-co-warm-terracotta">Ler as leituras</span>
+            </span>
+          </a>
+
+          <a href="/santo-do-dia" class="group flex flex-col overflow-hidden rounded-xl border border-co-warm-sand-dark bg-white transition-shadow hover:shadow-[0_10px_28px_rgba(62,56,56,0.10)]">
+            <span class="h-2 bg-[#D9BE78]" aria-hidden="true"></span>
+            <span class="flex flex-1 gap-4 p-5 md:p-6">
+              {todaySaints.length > 0 && (
+                <Medalhao nome={todaySaints[0].saint_name} imagem={imgSanto(todaySaints[0])} />
+              )}
+              <span class="flex min-w-0 flex-col">
+                <span class="text-sm font-semibold text-[#7A5820]">Santo do dia</span>
+                <span class="mt-2 font-display text-xl font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta">
+                  {todaySaints.length ? todaySaints.map((s) => getShortName(s.saint_name)).join(', ') : 'Quem a Igreja celebra hoje'}
+                </span>
+                {todaySaints[0]?.description && <span class="mt-2 line-clamp-3 text-[15px] leading-relaxed text-co-warm-brown/80">{todaySaints[0].description}</span>}
+                <span class="mt-auto pt-4 text-[15px] font-semibold text-co-warm-terracotta">Conhecer a história</span>
+              </span>
+            </span>
+          </a>
+
+          <a href="/versiculo-do-dia" class="group flex flex-col overflow-hidden rounded-xl border border-co-warm-sand-dark bg-white transition-shadow hover:shadow-[0_10px_28px_rgba(62,56,56,0.10)] md:col-span-2 lg:col-span-1">
+            <span class="h-2 bg-co-warm-terracotta" aria-hidden="true"></span>
+            <span class="flex flex-1 flex-col p-5 md:p-6">
+              <span class="text-sm font-semibold text-co-warm-terracotta">Versículo do dia</span>
+              <blockquote class="mt-2 font-display text-xl font-semibold italic leading-snug text-co-warm-brown">“{versiculo.texto}”</blockquote>
+              <span class="mt-2 text-[15px] text-co-warm-brown/80">{versiculo.referencia}</span>
+              <span class="mt-auto pt-4 text-[15px] font-semibold text-co-warm-terracotta">Ler a reflexão</span>
+            </span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Intenções -->
+    <section id="secoes" class="scroll-mt-20 border-b border-co-warm-sand-dark" aria-labelledby="intencoes-titulo">
+      <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <h2 id="intencoes-titulo" class="mb-5 font-display text-3xl font-semibold md:text-4xl">O que você procura hoje?</h2>
+        <Intencoes articles={allArticles} />
+      </div>
+    </section>
+
+    <!-- Terço do dia -->
+    <section class="border-b border-co-warm-sand-dark bg-co-warm-cream" aria-labelledby="terco-titulo">
+      <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <TercoDoDia />
+      </div>
+    </section>
+
+    <!-- Ferramentas -->
+    <section class="border-b border-co-warm-sand-dark" aria-labelledby="ferramentas-titulo">
+      <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <div class="mb-6 flex flex-wrap items-baseline justify-between gap-3">
+          <h2 id="ferramentas-titulo" class="font-display text-3xl font-semibold md:text-4xl">Para rezar e aprender</h2>
+          <a href="/ferramentas" class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Ver todas as ferramentas</a>
+        </div>
+        <FerramentasGrid itens={['/terco-guiado', '/planejador-de-novena', '/via-sacra', '/consagracao-a-nossa-senhora', '/teste-de-temperamento', '/plano-de-leitura-da-biblia'].map((h) => FERRAMENTAS.find((f) => f.href === h)!)} />
+      </div>
+    </section>
+
+    <!-- Descubra seu santo -->
+    <section class="border-b border-co-warm-sand-dark" aria-labelledby="santo-teste-titulo">
+      <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <a href="/descubra-seu-santo" class="group grid items-center gap-6 rounded-2xl border border-[#E8D9B5] bg-[#F7F0DC] p-6 transition-colors hover:border-[#D9BE78] md:grid-cols-[auto_minmax(0,1fr)_auto] md:p-8">
+          <span class="flex -space-x-3" aria-hidden="true">
+            {[
+              ['São José', 'santos-e-oracoes/sao-jose-patrono-da-igreja-universal'],
+              ['Santa Teresinha', 'santos-e-oracoes/santa-teresinha-pequeno-caminho'],
+              ['São Francisco de Assis', 'santos-e-oracoes/sao-francisco-de-assis-vida-milagres-e-oracao'],
+            ].map(([nome, chave]) => (
+              <Medalhao nome={nome} imagem={imgArtigo.get(chave) ?? null} class="h-14 w-14 border-[3px] ring-2 ring-[#F7F0DC]" letra="text-2xl" />
+            ))}
+          </span>
+          <div>
+            <h2 id="santo-teste-titulo" class="font-display text-2xl font-semibold leading-tight md:text-3xl">Descubra seu santo</h2>
+            <span class="mt-1.5 block text-[17px] leading-relaxed text-co-warm-brown/85">Onze perguntas sobre o seu momento de vida mostram, entre 52 santos, os que mais combinam com você.</span>
+          </div>
+          <span class="btn btn-primario w-full group-hover:bg-co-warm-terracotta-light md:w-auto">Fazer o teste</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- Todas as seções -->
+    <section class="border-b border-co-warm-sand-dark" aria-labelledby="temas-titulo">
+      <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <h2 id="temas-titulo" class="font-display text-3xl font-semibold md:text-4xl">Todas as seções</h2>
+        <p class="mb-6 mt-2 text-[17px] text-co-warm-brown/75">Cada seção reúne guias revisados, com as orações completas e as fontes da Igreja.</p>
+        <TemasGrid counts={counts} />
+      </div>
+    </section>
+
+    <!-- Caminho da Fé -->
+    <section aria-labelledby="caminho-titulo">
+      <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <CaminhoResumo />
+      </div>
+    </section>
+
+    <section class="border-y border-co-warm-sand-dark" aria-labelledby="calendario-titulo">
+      <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <h2 id="calendario-titulo" class="font-display text-3xl font-semibold md:text-4xl">Calendário dos santos</h2>
+        <p class="mb-6 mt-2 text-co-warm-brown/75">Escolha um dia para ver quem a Igreja celebra.</p>
+        <SaintsCalendar client:visible buildDate={today} initialMonthSaints={monthSaints} articleKeys={articleKeys} />
+      </div>
+    </section>
+
+    {latest.length > 0 && (
+      <section class="border-b border-co-warm-sand-dark" aria-labelledby="recentes-titulo">
+        <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+          <h2 id="recentes-titulo" class="font-display text-3xl font-semibold md:text-4xl">Artigos recentes</h2>
+          <ul class="gs gs-sm2 gs-lg3 mt-6 gap-5">
+            {latest.map((a) => (
+              <li>
+                <a href={`/${a.category}/${a.slug}`} class="group flex h-full flex-col overflow-hidden rounded-lg border border-co-warm-sand-dark bg-white transition-shadow hover:shadow-[0_8px_24px_rgba(62,56,56,0.10)]">
+                  <CapaArtigo category={a.category} image_url={a.image_url} class="aspect-[16/9] w-full" />
+                  <span class="flex flex-1 flex-col p-4 md:p-5">
+                    <span class="text-[13px] font-medium text-co-warm-brown/75">{categoryLabel(a.category)}</span>
+                    <span class="mt-1 font-display text-lg font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta">{a.title}</span>
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+    )}
+
+    <section aria-labelledby="oracao-titulo">
+      <div class="container mx-auto max-w-6xl px-4 py-12 md:py-16">
+        <div class="max-w-2xl">
+          <h2 id="oracao-titulo" class="font-display text-3xl font-semibold md:text-4xl">Precisa de oração?</h2>
+          <p class="mt-2 text-[17px] text-co-warm-brown/80">Envie sua intenção. Rezamos por ela todos os dias, com discrição.</p>
+          <PrayerButton class="btn btn-primario mt-5 w-full sm:w-auto">
+            Fazer pedido de oração
+          </PrayerButton>
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

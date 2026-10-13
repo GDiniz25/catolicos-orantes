@@ -1,0 +1,40 @@
+---
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { Heart } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import PrayerRequestForm from '@/components/islands/PrayerRequestForm';
+import { absUrl, breadcrumbSchema } from '@/lib/seo';
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Pedido de Oração', path: '/pedido-de-oracao' },
+];
+const jsonLd = [
+  {
+    '@type': 'ContactPage',
+    url: absUrl('/pedido-de-oracao'),
+    name: 'Pedido de Oração',
+    description: 'Envie seu pedido de oração e compartilhe suas intenções. Nossa comunidade católica reza por você todos os dias.',
+    inLanguage: 'pt-BR',
+  },
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title="Pedido de Oração"
+  description="Envie seu pedido de oração e compartilhe suas intenções. Nossa comunidade católica reza por você todos os dias."
+  path="/pedido-de-oracao"
+  keywords="pedido de oração, oração online, intenções de oração, comunidade católica"
+  jsonLd={jsonLd}
+  hidePrayerCTA
+>
+  <PageHeader title="Pedido de Oração" subtitle="Compartilhe suas intenções. Nossa comunidade reza por você todos os dias." icon={Heart} crumbs={crumbs} tom={CATEGORY_VISUAL['oracoes-do-dia-a-dia']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <div class="mx-auto max-w-2xl rounded-md border border-co-warm-sand-dark bg-co-warm-sand p-6 md:p-10">
+        <PrayerRequestForm client:load idPrefix="pagina" />
+      </div>
+    </div>
+  </main>
+</BaseLayout>

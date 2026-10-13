@@ -1,0 +1,76 @@
+---
+import { Search } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import exames from '@/data/conteudo/exames.json';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema } from '@/lib/seo';
+
+interface Props { perfil: 'casados' | 'jovens' | 'criancas' | 'primeira-confissao' }
+const { perfil } = Astro.props;
+const e = (exames as Record<string, { titulo: string; descricao: string; intro: string; secoes: { titulo: string; perguntas: string[] }[]; conselhos: string }>)[perfil];
+const path = `/exame-de-consciencia/${perfil}`;
+const outros = Object.entries(exames).filter(([k]) => k !== perfil) as [string, { titulo: string }][];
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Exame de Consciência', path: '/exame-de-consciencia' }, { name: e.titulo, path }];
+---
+<BaseLayout title={e.titulo} description={e.descricao} path={path} keywords={`${e.titulo.toLowerCase()}, exame de consciência, confissão, preparação para confissão`}
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl(path)}#webpage`, url: absUrl(path), name: e.titulo, inLanguage: 'pt-BR' }, breadcrumbSchema(crumbs)]}>
+  <PageHeader title={e.titulo} icon={Search} crumbs={crumbs} tom={CATEGORY_VISUAL['exame-de-consciencia']} />
+  <main id="conteudo" class="py-8 md:py-12" data-exame>
+    <div class="container mx-auto grid max-w-5xl gap-10 px-4 lg:grid-cols-[minmax(0,1fr)_260px]">
+      <div class="min-w-0 space-y-8">
+        <div class="intro-prose max-w-2xl text-[17px]" set:html={e.intro} />
+        <p class="rounded-lg bg-co-warm-cream px-4 py-3 text-[15px]">Marque o que quiser lembrar na confissão. <strong>Nada é salvo nem enviado</strong>: ao fechar a página, as marcações somem.</p>
+        {e.secoes.map((s, i) => (
+          <section class="rounded-2xl border border-co-warm-sand-dark bg-white p-5 md:p-7" aria-labelledby={`s-${i}`}>
+            <h2 id={`s-${i}`} class="font-display text-xl font-semibold md:text-2xl">{s.titulo}</h2>
+            <ul class="mt-3 space-y-1">
+              {s.perguntas.map((q) => (
+                <li><label class="flex cursor-pointer items-start gap-3 rounded-md px-2 py-2 hover:bg-co-warm-cream"><input type="checkbox" class="mt-1 h-5 w-5 shrink-0 accent-[#5A3F6B]" data-q /><span class="text-[16px] leading-snug">{q}</span></label></li>
+              ))}
+            </ul>
+          </section>
+        ))}
+        <section class="rounded-2xl border-2 border-[#5A3F6B]/30 bg-[#EEE7F2] p-5 md:p-7">
+          <h2 class="font-display text-2xl font-semibold">Depois do exame</h2>
+          <div class="intro-prose mt-3 text-[17px]" set:html={e.conselhos} />
+        </section>
+      </div>
+      <aside class="space-y-4 lg:sticky lg:top-24 lg:self-start">
+        <div class="rounded-xl border border-co-warm-sand-dark bg-white p-5">
+          <p class="font-semibold"><span data-total>0</span> itens marcados</p>
+          <div class="mt-3 grid grid-cols-2 gap-2 lg:grid-cols-1">
+            <button type="button" data-ver class="btn btn-sm w-full bg-[#5A3F6B] text-white hover:bg-[#4A3359]">Ver só os marcados</button>
+            <button type="button" data-limpar class="btn btn-secundario btn-sm w-full">Limpar tudo</button>
+          </div>
+        </div>
+        <nav class="rounded-xl border border-co-warm-sand-dark bg-white p-5" aria-label="Outros exames">
+          <p class="mb-2 text-sm font-semibold text-co-warm-brown/80">Outros exames</p>
+          <ul class="space-y-1.5 text-[15px]">
+            <li><a href="/exame-de-consciencia" class="underline-offset-4 hover:text-co-warm-terracotta hover:underline">Exame de consciência completo</a></li>
+            {outros.map(([k, o]) => <li><a href={`/exame-de-consciencia/${k}`} class="underline-offset-4 hover:text-co-warm-terracotta hover:underline">{o.titulo}</a></li>)}
+          </ul>
+        </nav>
+      </aside>
+    </div>
+  </main>
+</BaseLayout>
+
+<script>
+  const root = document.querySelector<HTMLElement>('[data-exame]');
+  if (root) {
+    const qs = Array.from(root.querySelectorAll<HTMLInputElement>('[data-q]'));
+    const total = root.querySelector('[data-total]')!;
+    const ver = root.querySelector<HTMLButtonElement>('[data-ver]')!;
+    let so = false;
+    const atualizar = () => {
+      total.textContent = String(qs.filter((q) => q.checked).length);
+      qs.forEach((q) => ((q.closest('li') as HTMLElement).hidden = so && !q.checked));
+      root.querySelectorAll<HTMLElement>('section[aria-labelledby]').forEach((s) => (s.hidden = so && !s.querySelector('input:checked')));
+      ver.textContent = so ? 'Ver todas as perguntas' : 'Ver só os marcados';
+    };
+    qs.forEach((q) => q.addEventListener('change', atualizar));
+    ver.addEventListener('click', () => { so = !so; atualizar(); });
+    root.querySelector('[data-limpar]')!.addEventListener('click', () => { qs.forEach((q) => (q.checked = false)); so = false; atualizar(); });
+  }
+</script>

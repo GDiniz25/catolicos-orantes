@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Revisar imagens dos artigos</title>
+<style>
+  :root { --rubro:#994329; --papel:#FCFAF8; --linha:#E4DDD3; --creme:#F7F3EE; --tinta:#3E3838; --verde:#36613F; }
+  * { box-sizing: border-box; }
+  body { margin:0; font: 16px/1.5 system-ui, -apple-system, Segoe UI, sans-serif; background: var(--papel); color: var(--tinta); }
+  header { position: sticky; top: 0; z-index: 5; background: #fff; border-bottom: 1px solid var(--linha); }
+  .barra { max-width: 1200px; margin: 0 auto; padding: 12px 16px; display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
+  h1 { font: 600 20px/1.2 Georgia, serif; margin: 0; flex: 1 1 260px; }
+  .filtros { display: flex; flex-wrap: wrap; gap: 6px; }
+  .filtros button, .acao { height: 40px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--linha); background: #fff; font: inherit; font-size: 14px; cursor: pointer; color: var(--tinta); }
+  .filtros button[aria-pressed="true"] { background: var(--tinta); border-color: var(--tinta); color: #fff; }
+  .baixar { height: 44px; padding: 0 20px; border: 0; border-radius: 8px; background: var(--rubro); color: #fff; font: 600 15px system-ui; cursor: pointer; }
+  .resumo { font-size: 14px; color: #6b6262; width: 100%; }
+  main { max-width: 1200px; margin: 0 auto; padding: 16px; }
+  .ajuda { background: var(--creme); border-radius: 10px; padding: 14px 16px; font-size: 15px; margin-bottom: 16px; }
+  article { background: #fff; border: 1px solid var(--linha); border-radius: 12px; padding: 16px; margin-bottom: 14px; }
+  article h2 { font: 600 18px/1.3 Georgia, serif; margin: 0; }
+  .meta { font-size: 13px; color: #7a7070; margin: 2px 0 12px; }
+  .meta a { color: var(--rubro); }
+  .grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+  .op { position: relative; border: 3px solid transparent; border-radius: 10px; background: var(--creme); padding: 0; cursor: pointer; text-align: left; font: inherit; overflow: hidden; }
+  .op img { display: block; width: 100%; height: 120px; object-fit: cover; object-position: center 25%; background: #eee; }
+  .op span { display: block; padding: 6px 8px; font-size: 12px; line-height: 1.3; color: #5a5252; max-height: 4.2em; overflow: hidden; }
+  .op[aria-pressed="true"] { border-color: var(--verde); }
+  .op[aria-pressed="true"]::after { content: '✓'; position: absolute; top: 6px; right: 6px; width: 26px; height: 26px; border-radius: 50%; background: var(--verde); color: #fff; display: grid; place-items: center; font-weight: 700; }
+  .op.texto { display: grid; place-items: center; min-height: 150px; padding: 10px; text-align: center; font-size: 14px; }
+  .op .ver { position: absolute; left: 6px; top: 6px; background: rgba(255,255,255,.9); border-radius: 6px; padding: 2px 6px; font-size: 11px; color: var(--rubro); text-decoration: none; }
+  .manual { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .manual input { flex: 1 1 320px; height: 40px; border: 1px solid var(--linha); border-radius: 8px; padding: 0 10px; font: inherit; font-size: 14px; }
+  .vazio { color: #8a8080; font-size: 14px; margin: 4px 0 8px; }
+  .estado { display: inline-block; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--creme); margin-left: 6px; vertical-align: middle; }
+</style>
+</head>
+<body>
+<header>
+  <div class="barra">
+    <h1>Revisar imagens dos artigos</h1>
+    <div class="filtros" role="group" aria-label="Filtrar">
+      <button type="button" data-f="todos" aria-pressed="true">Todos</button>
+      <button type="button" data-f="sem-atual">Sem imagem hoje</button>
+      <button type="button" data-f="sem-sugestao">Sem sugestão</button>
+      <button type="button" data-f="trocar">Vão trocar</button>
+    </div>
+    <button type="button" class="baixar" id="baixar">Baixar escolhas.json</button>
+    <div class="resumo" id="resumo"></div>
+  </div>
+</header>
+<main>
+  <div class="ajuda">
+    Para cada artigo já vem marcada uma sugestão (borda verde). Clique em outra pintura para trocar, em <b>Manter a atual</b> para não mexer, ou em <b>Sem imagem</b> para usar o painel na cor da seção.
+    Se encontrar no Commons uma pintura melhor, cole o link da página do arquivo no campo do artigo.
+    Suas escolhas ficam salvas neste navegador. No fim, clique em <b>Baixar escolhas.json</b> e mova o arquivo para a pasta <code>seo/imagens</code> do site.
+  </div>
+  <div id="lista"></div>
+</main>
+<script>
+const DADOS = /*DADOS*/[];
+const KEY = 'co-revisao-imagens-v1';
+let escolhas = {};
+try { escolhas = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch {}
+// valor padrão: a sugestão; sem sugestão, manter a atual (ou sem imagem)
+for (const d of DADOS) {
+  if (escolhas[d.id]) continue;
+  escolhas[d.id] = d.sugerida ? { acao: 'trocar', arquivo: d.sugerida } : { acao: 'manter' };
+}
+const salvar = () => { try { localStorage.setItem(KEY, JSON.stringify(escolhas)); } catch {} resumo(); };
+let filtro = 'todos';
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+
+function resumo() {
+  const v = Object.values(escolhas);
+  const t = v.filter((x) => x.acao === 'trocar' || x.acao === 'manual').length;
+  const r = v.filter((x) => x.acao === 'remover').length;
+  document.getElementById('resumo').textContent = `${DADOS.length} artigos: ${t} vão receber pintura nova, ${r} ficam sem imagem, ${DADOS.length - t - r} mantêm a atual.`;
+}
+
+function render() {
+  const lista = document.getElementById('lista');
+  const itens = DADOS.filter((d) => {
+    const e = escolhas[d.id];
+    if (filtro === 'sem-atual') return !d.atual;
+    if (filtro === 'sem-sugestao') return !d.sugerida;
+    if (filtro === 'trocar') return e.acao === 'trocar' || e.acao === 'manual';
+    return true;
+  });
+  lista.innerHTML = itens.map((d) => {
+    const e = escolhas[d.id];
+    const ops = d.candidatos.map((c) => `
+      <button type="button" class="op" data-id="${d.id}" data-arquivo="${esc(c.arquivo)}" aria-pressed="${e.acao === 'trocar' && e.arquivo === c.arquivo}" title="${esc(c.credito)}">
+        <img loading="lazy" src="${esc(c.miniatura)}" alt="">
+        <span>${esc(c.obra || c.arquivo)}${c.artista ? ' · ' + esc(c.artista) : ''}</span>
+        <a class="ver" href="${esc(c.pagina)}" target="_blank" rel="noopener">ver</a>
+      </button>`).join('');
+    const atual = d.atual
+      ? `<button type="button" class="op" data-id="${d.id}" data-acao="manter" aria-pressed="${e.acao === 'manter'}"><img loading="lazy" src="${esc(d.atual)}" alt=""><span>Manter a atual</span></button>`
+      : `<button type="button" class="op texto" data-id="${d.id}" data-acao="manter" aria-pressed="${e.acao === 'manter'}">Deixar como está (sem imagem)</button>`;
+    const remover = d.atual ? `<button type="button" class="op texto" data-id="${d.id}" data-acao="remover" aria-pressed="${e.acao === 'remover'}">Sem imagem<br>(painel na cor da seção)</button>` : '';
+    const rotulo = { trocar: 'pintura nova', manual: 'link colado', manter: 'mantém', remover: 'sem imagem' }[e.acao];
+    return `<article>
+      <h2>${esc(d.titulo)} <span class="estado">${rotulo}</span></h2>
+      <p class="meta">${esc(d.categoria)} · <a href="https://catolicosorantes.com.br/${esc(d.chave)}" target="_blank" rel="noopener">abrir o artigo</a> · buscas: ${d.buscas.map(esc).join(' | ')}</p>
+      ${d.candidatos.length ? '' : '<p class="vazio">Nenhuma pintura em domínio público encontrada para este tema.</p>'}
+      <div class="grade">${atual}${remover}${ops}</div>
+      <div class="manual">
+        <input type="url" placeholder="Ou cole o link de um arquivo do Wikimedia Commons (https://commons.wikimedia.org/wiki/File:...)" data-manual="${d.id}" value="${e.acao === 'manual' ? esc(e.link) : ''}">
+      </div>
+    </article>`;
+  }).join('') || '<p class="vazio">Nenhum artigo neste filtro.</p>';
+}
+
+document.addEventListener('click', (ev) => {
+  if (ev.target.closest('a.ver')) return;
+  const b = ev.target.closest('.op');
+  if (b) {
+    const id = b.dataset.id;
+    escolhas[id] = b.dataset.acao ? { acao: b.dataset.acao } : { acao: 'trocar', arquivo: b.dataset.arquivo };
+    salvar();
+    const art = b.closest('article');
+    art.querySelectorAll('.op').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+    art.querySelector('.estado').textContent = { trocar: 'pintura nova', manter: 'mantém', remover: 'sem imagem' }[escolhas[id].acao];
+    const inp = art.querySelector('[data-manual]');
+    if (inp) inp.value = '';
+    return;
+  }
+  const f = ev.target.closest('[data-f]');
+  if (f) {
+    filtro = f.dataset.f;
+    document.querySelectorAll('[data-f]').forEach((x) => x.setAttribute('aria-pressed', String(x === f)));
+    render();
+  }
+});
+document.addEventListener('change', (ev) => {
+  const inp = ev.target.closest('[data-manual]');
+  if (!inp) return;
+  const id = inp.dataset.manual;
+  const v = inp.value.trim();
+  if (/commons\.wikimedia\.org\/wiki\/File:/i.test(v)) escolhas[id] = { acao: 'manual', link: v };
+  else if (!v && escolhas[id].acao === 'manual') escolhas[id] = { acao: 'manter' };
+  else if (v) { alert('Cole o link da página do arquivo no Wikimedia Commons (começa com https://commons.wikimedia.org/wiki/File:).'); return; }
+  salvar();
+  render();
+});
+document.getElementById('baixar').addEventListener('click', () => {
+  const porId = Object.fromEntries(DADOS.map((d) => [d.id, d]));
+  const out = {};
+  for (const [id, e] of Object.entries(escolhas)) {
+    const d = porId[id];
+    if (!d || e.acao === 'manter') continue;
+    if (e.acao === 'trocar') {
+      const c = d.candidatos.find((x) => x.arquivo === e.arquivo);
+      if (c) out[id] = { acao: 'trocar', chave: d.chave, titulo: d.titulo, url: c.url, arquivo: c.arquivo, pagina: c.pagina, credito: c.credito, alt: c.alt };
+    } else if (e.acao === 'manual') {
+      out[id] = { acao: 'manual', chave: d.chave, titulo: d.titulo, link: e.link };
+    } else if (e.acao === 'remover') {
+      out[id] = { acao: 'remover', chave: d.chave, titulo: d.titulo };
+    }
+  }
+  const blob = new Blob([JSON.stringify(out, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'escolhas.json';
+  a.click();
+});
+resumo();
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+---
+import { Cake, ChevronRight } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import { getAllSaints } from '@/lib/data';
+import { getShortName } from '@/lib/saints';
+import { MONTHS, diaMesSlug, todosOsDias } from '@/lib/dateUtils';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const saints = await getAllSaints();
+const porDia = new Map<string, string[]>();
+for (const s of saints) {
+  const k = `${s.date_month}-${s.date_day}`;
+  porDia.set(k, [...(porDia.get(k) ?? []), getShortName(s.saint_name)]);
+}
+const meses = MONTHS.map((nome, i) => ({
+  nome,
+  dias: todosOsDias().filter((d) => d.month === i + 1).map((d) => ({ ...d, nomes: porDia.get(`${d.month}-${d.day}`) ?? [] })),
+}));
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Santo do aniversário', path: '/santo-do-aniversario' }];
+const FAQ = [
+  { q: 'Como descobrir o santo do dia do meu aniversário?', a: 'Escolha o dia e o mês do seu nascimento acima. O site mostra os santos e beatos que a Igreja recorda nessa data, com a história de cada um.' },
+  { q: 'O santo do meu aniversário é o meu padroeiro?', a: 'Não necessariamente. O padroeiro costuma ser o santo do nome recebido no Batismo ou na Crisma. O santo do aniversário pode ser mais um amigo do céu a quem pedir intercessão.' },
+  { q: 'Por que há vários santos no mesmo dia?', a: 'O calendário da Igreja e o Martirológio Romano recordam muitos santos e beatos em cada data. Alguns têm celebração na liturgia; outros são lembrados pela devoção.' },
+];
+---
+<BaseLayout
+  title="Santo do aniversário: descubra o santo do seu dia"
+  description="Escolha o dia e o mês do seu aniversário e descubra quais santos a Igreja celebra nessa data, com a história de cada um e como pedir sua intercessão."
+  path="/santo-do-aniversario"
+  keywords="santo do meu aniversário, santo do dia do meu nascimento, qual santo nasceu no meu dia, santo protetor pela data de nascimento"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/santo-do-aniversario')}#webpage`, url: absUrl('/santo-do-aniversario'), name: 'Santo do aniversário', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Santo do aniversário" subtitle="Descubra quais santos a Igreja celebra no dia em que você nasceu." icon={Cake} crumbs={crumbs} tom={CATEGORY_VISUAL['santos-e-oracoes']}>
+    <form class="mt-6 grid max-w-xl grid-cols-2 items-end gap-3 sm:grid-cols-[minmax(0,1fr)_minmax(0,1.6fr)_auto]" data-aniversario>
+      <label class="flex min-w-0 flex-col gap-1 text-sm font-semibold">Dia
+        <select name="dia" class="h-12 w-full rounded-md border border-co-warm-sand-dark bg-white px-3 text-[16px] font-normal">
+          {Array.from({ length: 31 }, (_, i) => <option value={i + 1}>{i + 1}</option>)}
+        </select>
+      </label>
+      <label class="flex min-w-0 flex-col gap-1 text-sm font-semibold">Mês
+        <select name="mes" class="h-12 w-full rounded-md border border-co-warm-sand-dark bg-white px-3 text-[16px] font-normal">
+          {MONTHS.map((m, i) => <option value={i + 1}>{m}</option>)}
+        </select>
+      </label>
+      <button type="submit" class="btn btn-primario col-span-2 w-full sm:col-span-1">Ver meu santo</button>
+      <p class="col-span-2 text-sm text-co-warm-brown/80 sm:col-span-3" data-erro hidden>Essa data não existe. Confira o dia e o mês.</p>
+    </form>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-5xl space-y-12 px-4">
+      <section aria-labelledby="calendario">
+        <h2 id="calendario" class="mb-4 font-display text-2xl font-semibold md:text-3xl">Santos de cada dia do ano</h2>
+        <div class="divide-y divide-co-warm-sand-dark rounded-xl border border-co-warm-sand-dark bg-white">
+          {meses.map((m) => (
+            <details class="faq-item group px-4">
+              <summary class="flex items-center justify-between py-4"><h3 class="font-sans text-[17px] font-semibold">{m.nome}</h3><ChevronRight className="faq-chevron h-4 w-4 text-co-warm-brown/75 transition-transform" aria-hidden="true" /></summary>
+              <ul class="grid gap-x-6 pb-4 sm:grid-cols-2">
+                {m.dias.map((d) => (
+                  <li class="border-t border-co-warm-sand-dark/60 py-2">
+                    <a href={`/santo-do-dia/${diaMesSlug(d.month, d.day)}`} class="group/l flex gap-3">
+                      <span class="w-7 shrink-0 font-display text-lg font-semibold text-[#7A5820]">{d.day}</span>
+                      <span class="text-[15px] leading-snug group-hover/l:text-co-warm-terracotta">{d.nomes.length ? d.nomes.slice(0, 3).join(', ') + (d.nomes.length > 3 ? ' e outros' : '') : 'Ver santos do dia'}</span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </details>
+          ))}
+        </div>
+      </section>
+      <section class="grid gap-4 sm:grid-cols-2">
+        <a href="/descubra-seu-santo" class="rounded-xl border border-[#E8D9B5] bg-[#F7F0DC] p-5 hover:border-[#D9BE78]"><span class="font-display text-xl font-semibold">Descubra seu santo</span><span class="mt-1 block text-[15px] text-co-warm-brown/80">Teste de afinidade com 52 santos.</span></a>
+        <a href="/nomes-de-santos" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Nomes de santos</span><span class="mt-1 block text-[15px] text-co-warm-brown/80">Significado e festa de 80 nomes cristãos.</span></a>
+      </section>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>
+
+<script>
+  const MESES = ['janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+  const LIM = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  const f = document.querySelector<HTMLFormElement>('[data-aniversario]');
+  f?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const dia = Number((f.elements.namedItem('dia') as HTMLSelectElement).value);
+    const mes = Number((f.elements.namedItem('mes') as HTMLSelectElement).value);
+    const erro = f.querySelector<HTMLElement>('[data-erro]');
+    if (dia > LIM[mes - 1]) { if (erro) erro.hidden = false; return; }
+    location.href = `/santo-do-dia/${dia}-de-${MESES[mes - 1]}`;
+  });
+</script>

@@ -1,0 +1,798 @@
+[
+  {
+    "termo": "Absolvição",
+    "slug": "absolvicao",
+    "definicao": "É o ato pelo qual o sacerdote, no sacramento da Penitência, perdoa os pecados em nome de Cristo e da Igreja. Só bispos e presbíteros podem dar a absolvição sacramental. A fórmula termina com as palavras: \"Eu te absolvo dos teus pecados, em nome do Pai, e do Filho e do Espírito Santo\".",
+    "link": "/sacramentos/o-sacramento-da-confissao-guia-completo"
+  },
+  {
+    "termo": "Acólito",
+    "slug": "acolito",
+    "definicao": "É quem serve ao altar durante a celebração, ajudando o sacerdote e o diácono. Em sentido próprio, é um ministério instituído pelo bispo; na prática paroquial, o nome também se usa para leigos que servem no altar. O coroinha costuma ser a criança ou o adolescente que exerce esse serviço.",
+    "link": "/duvidas-da-fe/o-que-e-um-acolito-qual-a-diferenca-para-coroinha"
+  },
+  {
+    "termo": "Advento",
+    "slug": "advento",
+    "definicao": "É o tempo litúrgico de preparação para o Natal e abre o ano litúrgico. Começa quatro domingos antes do Natal. Tem dupla dimensão: prepara a celebração do nascimento de Jesus e volta o coração para a sua segunda vinda no fim dos tempos. A cor litúrgica é o roxo.",
+    "link": "/calendario-liturgico/o-advento-tempo-de-preparacao-e-esperanca"
+  },
+  {
+    "termo": "Água benta",
+    "slug": "agua-benta",
+    "definicao": "É a água abençoada por um sacerdote ou diácono e usada como sacramental. Lembra o Batismo e a purificação do pecado. Os fiéis a usam ao entrar na igreja, fazendo o sinal da cruz, e nas bênçãos de casas e objetos.",
+    "link": "/duvidas-da-fe/por-que-catolicos-usam-agua-benta"
+  },
+  {
+    "termo": "Aleluia",
+    "slug": "aleluia",
+    "definicao": "É uma aclamação de origem hebraica que significa \"louvai o Senhor\". Na Missa, é cantada antes do Evangelho para saudar Cristo que vai falar. Durante a Quaresma não se canta o Aleluia, que volta com alegria na Vigília Pascal."
+  },
+  {
+    "termo": "Alfa e Ômega",
+    "slug": "alfa-e-omega",
+    "definicao": "São a primeira e a última letra do alfabeto grego. No Apocalipse, o Senhor se apresenta como o Alfa e o Ômega, o princípio e o fim (Ap 22,13). Na Vigília Pascal, essas letras são gravadas no círio pascal.",
+    "link": "/duvidas-da-fe/o-que-significa-o-simbolo-alfa-e-omega"
+  },
+  {
+    "termo": "Ambão",
+    "slug": "ambao",
+    "definicao": "É o lugar elevado e fixo, no presbitério, de onde se proclama a Palavra de Deus na liturgia. Dele se leem as leituras, o salmo e o Evangelho, e também pode ser feita a homilia. Não deve ser usado para avisos ou para dirigir cantos.",
+    "link": "/duvidas-da-fe/liturgia-da-palavra-na-missa"
+  },
+  {
+    "termo": "Amém",
+    "slug": "amem",
+    "definicao": "É uma palavra hebraica que expressa firmeza e adesão: \"assim é\" ou \"assim seja\". Ao dizer amém, o fiel confirma com fé o que foi rezado. O amém que se responde ao receber a comunhão é uma profissão de fé na presença real de Cristo.",
+    "link": "/duvidas-da-fe/o-que-e-o-amem-e-por-que-dizemos-na-missa"
+  },
+  {
+    "termo": "Angelus",
+    "slug": "angelus",
+    "definicao": "É a oração mariana tradicional que recorda a Encarnação do Filho de Deus. Costuma ser rezada às 6h, ao meio-dia e às 18h, alternando versículos e Ave-Marias. No Tempo Pascal, é substituída pela antífona Rainha do Céu.",
+    "link": "/oracoes-do-dia-a-dia/o-angelus-rezando-tres-vezes-ao-dia"
+  },
+  {
+    "termo": "Ano litúrgico",
+    "slug": "ano-liturgico",
+    "definicao": "É o ciclo anual em que a Igreja celebra todo o mistério de Cristo, da espera do Advento até a solenidade de Cristo Rei. Compreende os tempos do Advento, Natal, Quaresma, Páscoa e Tempo Comum. Nos domingos, as leituras seguem um ciclo de três anos, chamados A, B e C.",
+    "link": "/duvidas-da-fe/o-que-sao-os-anos-a-b-e-c-no-ciclo-liturgico-catolico"
+  },
+  {
+    "termo": "Antífona",
+    "slug": "antifona",
+    "definicao": "É um versículo, geralmente bíblico, cantado ou recitado antes e depois de um salmo ou cântico. Na Missa existem a antífona de entrada e a antífona da comunhão. Na Liturgia das Horas, as antífonas ajudam a rezar os salmos à luz do tempo litúrgico."
+  },
+  {
+    "termo": "Apóstolo",
+    "slug": "apostolo",
+    "definicao": "É cada um dos doze homens escolhidos por Jesus para estar com Ele e enviá-los a pregar. A palavra vem do grego e significa \"enviado\". São Paulo também é chamado apóstolo, por ter sido chamado diretamente pelo Senhor ressuscitado.",
+    "link": "/duvidas-da-fe/o-que-e-a-sucessao-apostolica"
+  },
+  {
+    "termo": "Arcebispo",
+    "slug": "arcebispo",
+    "definicao": "É o bispo que governa uma arquidiocese. Em geral, o arcebispo metropolitano preside uma província eclesiástica, formada pela sua arquidiocese e por dioceses vizinhas chamadas sufragâneas. O título não indica um grau superior do sacramento da Ordem, pois todo bispo recebe a plenitude desse sacramento."
+  },
+  {
+    "termo": "Ascensão do Senhor",
+    "slug": "ascensao-do-senhor",
+    "definicao": "É a solenidade que celebra a subida de Jesus ao céu, quarenta dias depois da Páscoa (At 1,3-11). No Brasil, é celebrada no domingo seguinte, antes de Pentecostes. Ela lembra que Cristo, verdadeiro homem, está junto do Pai e voltará na glória.",
+    "link": "/calendario-liturgico/o-tempo-pascal-da-ressurreicao-a-pentecostes"
+  },
+  {
+    "termo": "Assunção de Nossa Senhora",
+    "slug": "assuncao-de-nossa-senhora",
+    "definicao": "É o dogma segundo o qual a Virgem Maria, terminado o curso da vida terrena, foi elevada em corpo e alma à glória do céu. Foi definido pelo Papa Pio XII em 1950. A solenidade é celebrada em 15 de agosto; no Brasil, no domingo seguinte quando não cai em domingo.",
+    "link": "/calendario-liturgico/a-assuncao-de-nossa-senhora-15-de-agosto"
+  },
+  {
+    "termo": "Ato de contrição",
+    "slug": "ato-de-contricao",
+    "definicao": "É a oração em que o fiel expressa arrependimento dos pecados, por amor a Deus, e o propósito de não pecar mais. É rezado na confissão depois de ouvir a penitência e também pode ser rezado todos os dias. Existem várias versões aprovadas.",
+    "link": "/exame-de-consciencia/ato-de-contricao-diferentes-versoes-e-como-rezar"
+  },
+  {
+    "termo": "Ato penitencial",
+    "slug": "ato-penitencial",
+    "definicao": "É a parte dos ritos iniciais da Missa em que a assembleia reconhece seus pecados e pede a misericórdia de Deus. Pode ser feito com o \"Confesso a Deus\", com invocações seguidas de \"Senhor, tende piedade\" ou de outras formas previstas. Não substitui a confissão dos pecados graves.",
+    "link": "/duvidas-da-fe/ato-penitencial-da-missa"
+  },
+  {
+    "termo": "Basílica",
+    "slug": "basilica",
+    "definicao": "É um título honorífico dado pelo Papa a igrejas de especial importância histórica, artística ou espiritual. Há as basílicas maiores, em Roma, e as basílicas menores, espalhadas pelo mundo. O Santuário Nacional de Aparecida é uma basílica."
+  },
+  {
+    "termo": "Batismo",
+    "slug": "batismo",
+    "definicao": "É o primeiro dos sacramentos e a porta de entrada da vida cristã. Pelo Batismo, a pessoa é libertada do pecado original e de todos os pecados, torna-se filha de Deus e membro da Igreja. É celebrado com água e com as palavras: \"Eu te batizo em nome do Pai, e do Filho e do Espírito Santo\".",
+    "link": "/sacramentos/o-batismo-significado-rito-e-gracas"
+  },
+  {
+    "termo": "Beatificação",
+    "slug": "beatificacao",
+    "definicao": "É o ato pelo qual o Papa, depois de reconhecidas as virtudes heroicas ou o martírio de uma pessoa falecida, permite seu culto público em determinados lugares ou comunidades. A pessoa passa a ser chamada de beato ou beata. Para quem não é mártir, em regra se exige um milagre reconhecido.",
+    "link": "/duvidas-da-fe/como-funciona-processo-canonizacao-santo"
+  },
+  {
+    "termo": "Bispo",
+    "slug": "bispo",
+    "definicao": "É o sucessor dos apóstolos e recebe a plenitude do sacramento da Ordem. Em comunhão com o Papa, ensina, santifica e governa a porção do povo de Deus que lhe é confiada, geralmente uma diocese. Só o bispo pode ordenar diáconos, presbíteros e outros bispos.",
+    "link": "/sacramentos/o-sacramento-da-ordem-diaconato-presbiterado-e-episcopado"
+  },
+  {
+    "termo": "Bula",
+    "slug": "bula",
+    "definicao": "É um documento papal solene, tradicionalmente selado com um selo de chumbo chamado bula, que deu nome ao documento. Hoje é usada em atos importantes, como a convocação de um Jubileu ou a nomeação de bispos."
+  },
+  {
+    "termo": "Cálice",
+    "slug": "calice",
+    "definicao": "É o vaso sagrado em que se consagra o vinho na Missa, que se torna o Sangue de Cristo. Deve ser feito de material nobre e digno. É purificado após a comunhão e guardado com respeito.",
+    "link": "/duvidas-da-fe/objetos-liturgicos-da-missa"
+  },
+  {
+    "termo": "Canonização",
+    "slug": "canonizacao",
+    "definicao": "É a declaração solene do Papa de que uma pessoa está na glória de Deus e pode ser venerada como santa por toda a Igreja. Em regra, exige-se o reconhecimento de um milagre atribuído à intercessão do beato. O santo recebe uma data de celebração e pode ter igrejas dedicadas a ele.",
+    "link": "/duvidas-da-fe/como-funciona-processo-canonizacao-santo"
+  },
+  {
+    "termo": "Capela",
+    "slug": "capela",
+    "definicao": "É um lugar de culto menor que uma igreja paroquial, destinado a uma comunidade ou a um grupo de fiéis. No Brasil, a palavra também designa as pequenas igrejas de comunidades ligadas a uma paróquia. Em hospitais, escolas e conventos, a capela muitas vezes guarda o Santíssimo Sacramento."
+  },
+  {
+    "termo": "Cardeal",
+    "slug": "cardeal",
+    "definicao": "É um membro do Colégio dos Cardeais, escolhido pelo Papa para ajudá-lo no governo da Igreja universal. A principal missão do colégio é eleger o novo Papa em conclave, tarefa reservada aos cardeais com menos de 80 anos. Os cardeais usam a cor vermelha, sinal de disposição para dar a vida pela fé."
+  },
+  {
+    "termo": "Casula",
+    "slug": "casula",
+    "definicao": "É a veste litúrgica externa que o sacerdote usa sobre a alva e a estola para celebrar a Missa. Sua cor varia conforme o tempo litúrgico ou a celebração do dia. Simboliza a caridade de Cristo que envolve o ministro.",
+    "link": "/duvidas-da-fe/vestes-liturgicas-significado"
+  },
+  {
+    "termo": "Catecismo da Igreja Católica",
+    "slug": "catecismo-da-igreja-catolica",
+    "definicao": "É o texto de referência que expõe de forma completa e orgânica a fé e a moral católicas. Foi promulgado por São João Paulo II em 1992. Está organizado em quatro partes: o Credo, os sacramentos, os mandamentos e a oração.",
+    "link": "/catecismo/o-credo-apostolico-cada-artigo-explicado"
+  },
+  {
+    "termo": "Catecúmeno",
+    "slug": "catecumeno",
+    "definicao": "É o adulto não batizado que se prepara para receber os sacramentos da iniciação cristã: Batismo, Crisma e Eucaristia. O período de preparação se chama catecumenato. O catecúmeno já está ligado à Igreja, que o acompanha com cuidado de mãe.",
+    "link": "/sacramentos/batismo-de-adulto-na-igreja-catolica-passo-a-passo"
+  },
+  {
+    "termo": "Catedral",
+    "slug": "catedral",
+    "definicao": "É a igreja principal de uma diocese, onde fica a cátedra, a cadeira do bispo. A cátedra é sinal da missão de ensinar e governar o povo de Deus. Por isso a catedral é chamada igreja mãe da diocese."
+  },
+  {
+    "termo": "Celibato",
+    "slug": "celibato",
+    "definicao": "É o estado de quem não se casa para se dedicar inteiramente a Deus e ao serviço dos irmãos. Na Igreja latina, em regra os presbíteros e bispos são escolhidos entre homens que assumem o celibato. É uma disciplina da Igreja, ligada ao exemplo de Cristo, e não um dogma.",
+    "link": "/duvidas-da-fe/por-que-os-padres-catolicos-nao-se-casam-o-celibato-sacerdotal"
+  },
+  {
+    "termo": "Cinzas",
+    "slug": "cinzas",
+    "definicao": "São impostas sobre a cabeça dos fiéis, como sinal de penitência, na Quarta-feira de Cinzas, início da Quaresma. Costumam ser obtidas queimando os ramos abençoados no Domingo de Ramos do ano anterior. O ministro diz: \"Convertei-vos e crede no Evangelho\" ou \"Lembra-te que és pó e ao pó voltarás\".",
+    "link": "/duvidas-da-fe/imposicao-das-cinzas-significado"
+  },
+  {
+    "termo": "Círio pascal",
+    "slug": "cirio-pascal",
+    "definicao": "É a grande vela abençoada e acesa no início da Vigília Pascal, símbolo de Cristo ressuscitado, luz do mundo. Fica aceso nas celebrações do Tempo Pascal, até Pentecostes. Depois é colocado junto à pia batismal e aceso nos batizados e nas exéquias."
+  },
+  {
+    "termo": "Comunhão dos santos",
+    "slug": "comunhao-dos-santos",
+    "definicao": "É a união de todos os que pertencem a Cristo: os fiéis na terra, as almas do purgatório e os santos no céu. Entre eles há partilha de bens espirituais, de oração e de caridade. Essa verdade é professada no Credo apostólico.",
+    "link": "/catecismo/a-comunhao-dos-santos-significado-e-importancia"
+  },
+  {
+    "termo": "Concílio",
+    "slug": "concilio",
+    "definicao": "É a assembleia de bispos reunidos para tratar de questões de fé, moral e disciplina. O concílio ecumênico reúne os bispos de todo o mundo em comunhão com o Papa, e suas decisões precisam ser aprovadas por ele. O último foi o Concílio Vaticano II, de 1962 a 1965.",
+    "link": "/duvidas-da-fe/o-que-e-um-concilio-ecumenico"
+  },
+  {
+    "termo": "Conclave",
+    "slug": "conclave",
+    "definicao": "É a reunião dos cardeais eleitores para eleger o novo Papa, realizada na Capela Sistina, no Vaticano. O nome vem do latim e lembra que os cardeais ficam reunidos \"com chave\", isolados do mundo. A eleição exige maioria de dois terços, e a fumaça branca anuncia que o Papa foi escolhido."
+  },
+  {
+    "termo": "Confissão",
+    "slug": "confissao",
+    "definicao": "É o nome popular do sacramento da Penitência ou Reconciliação, no qual os pecados cometidos depois do Batismo são perdoados. O fiel examina a consciência, confessa os pecados ao sacerdote, recebe a absolvição e cumpre a penitência. Também se chama confissão o próprio ato de dizer os pecados.",
+    "link": "/sacramentos/o-sacramento-da-confissao-guia-completo"
+  },
+  {
+    "termo": "Consagração",
+    "slug": "consagracao",
+    "definicao": "Na Missa, é o momento da Oração Eucarística em que o sacerdote repete as palavras de Cristo na Última Ceia sobre o pão e o vinho, que se tornam o Corpo e o Sangue do Senhor. Em sentido mais amplo, consagrar é dedicar uma pessoa ou coisa inteiramente a Deus, como na consagração a Nossa Senhora.",
+    "link": "/duvidas-da-fe/por-que-os-catolicos-se-ajoelham-durante-a-consagracao"
+  },
+  {
+    "termo": "Contrição",
+    "slug": "contricao",
+    "definicao": "É a dor da alma e a rejeição do pecado cometido, com o propósito de não pecar mais. É perfeita quando nasce do amor a Deus acima de tudo, e imperfeita, ou atrição, quando nasce de outros motivos, como o temor do castigo. É o primeiro ato do penitente na confissão.",
+    "link": "/exame-de-consciencia/o-arrependimento-perfeito-e-imperfeito"
+  },
+  {
+    "termo": "Cores litúrgicas",
+    "slug": "cores-liturgicas",
+    "definicao": "São as cores das vestes e ornamentos usados na liturgia, que expressam o caráter de cada tempo ou celebração. As principais são o branco, o vermelho, o verde e o roxo. O rosa pode ser usado no 3º domingo do Advento e no 4º da Quaresma, e o preto nas celebrações pelos fiéis defuntos.",
+    "link": "/calendario-liturgico/as-cores-liturgicas-e-seus-significados"
+  },
+  {
+    "termo": "Corpus Christi",
+    "slug": "corpus-christi",
+    "definicao": "É a solenidade do Santíssimo Corpo e Sangue de Cristo, que celebra a presença real de Jesus na Eucaristia. É celebrada na quinta-feira após a solenidade da Santíssima Trindade. No Brasil, é tradicional a procissão com o Santíssimo Sacramento e os tapetes nas ruas.",
+    "link": "/calendario-liturgico/corpus-christi-a-festa-do-corpo-e-sangue-de-cristo"
+  },
+  {
+    "termo": "Credo",
+    "slug": "credo",
+    "definicao": "É a profissão de fé que resume as principais verdades da fé cristã. Os mais conhecidos são o Símbolo dos Apóstolos e o Símbolo Niceno-Constantinopolitano. Na Missa dos domingos e solenidades, o Credo é professado depois da homilia.",
+    "link": "/oracoes-do-dia-a-dia/oracao-do-credo-niceno-constantinopolitano"
+  },
+  {
+    "termo": "Crisma",
+    "slug": "crisma",
+    "definicao": "É o sacramento da Confirmação, que completa a graça do Batismo e dá o Espírito Santo de modo especial para testemunhar a fé. O bispo, ministro ordinário, unge a fronte com o óleo do crisma. O mesmo nome designa o óleo perfumado consagrado pelo bispo na Missa do Crisma.",
+    "link": "/sacramentos/a-confirmacao-crisma-dons-do-espirito-santo"
+  },
+  {
+    "termo": "Crucifixo",
+    "slug": "crucifixo",
+    "definicao": "É a cruz com a imagem de Cristo crucificado. Lembra o preço da nossa salvação e o amor de Jesus, que deu a vida por nós. Deve haver um crucifixo sobre o altar ou perto dele na celebração da Missa.",
+    "link": "/duvidas-da-fe/crucifixo-significado-e-uso"
+  },
+  {
+    "termo": "Cúria Romana",
+    "slug": "curia-romana",
+    "definicao": "É o conjunto de dicastérios e organismos que ajudam o Papa no governo da Igreja universal. Seus órgãos trabalham em nome e com a autoridade do Papa. Cada diocese também tem sua cúria, que ajuda o bispo."
+  },
+  {
+    "termo": "Deuterocanônicos",
+    "slug": "deuterocanonicos",
+    "definicao": "São os livros do Antigo Testamento que fazem parte da Bíblia católica, mas não da Bíblia protestante: Tobias, Judite, Sabedoria, Eclesiástico, Baruc e 1 e 2 Macabeus, além de partes de Ester e Daniel. A Igreja os reconhece como inspirados por Deus. O nome indica que foram reconhecidos num segundo momento, não que tenham menor valor.",
+    "link": "/duvidas-da-fe/o-que-sao-os-livros-deuterocanonicos"
+  },
+  {
+    "termo": "Diácono",
+    "slug": "diacono",
+    "definicao": "É o ministro ordenado no primeiro grau do sacramento da Ordem, para o serviço da Palavra, da liturgia e da caridade. Pode batizar, proclamar o Evangelho, fazer a homilia, assistir a casamentos e presidir exéquias, mas não celebra a Missa nem confessa. O diaconato pode ser transitório, para quem caminha ao sacerdócio, ou permanente, que pode ser recebido também por homens casados.",
+    "link": "/duvidas-da-fe/o-que-e-um-diacono-permanente"
+  },
+  {
+    "termo": "Diocese",
+    "slug": "diocese",
+    "definicao": "É a porção do povo de Deus confiada a um bispo, com a colaboração dos presbíteros. Também se chama Igreja particular, porque nela está presente a Igreja de Cristo inteira. Em geral corresponde a um território e se divide em paróquias."
+  },
+  {
+    "termo": "Dogma",
+    "slug": "dogma",
+    "definicao": "É uma verdade contida na Revelação divina que a Igreja propõe de modo definitivo para ser crida pelos fiéis. São exemplos a Santíssima Trindade, a Imaculada Conceição e a Assunção de Maria. Os dogmas não são invenções, mas luzes que iluminam o caminho da fé."
+  },
+  {
+    "termo": "Doxologia",
+    "slug": "doxologia",
+    "definicao": "É uma fórmula de louvor à glória de Deus, especialmente à Santíssima Trindade, como o \"Glória ao Pai\". Na Missa, a doxologia final da Oração Eucarística começa com as palavras \"Por Cristo, com Cristo e em Cristo\". O povo responde com o Amém, que confirma toda a oração.",
+    "link": "/duvidas-da-fe/oracao-eucaristica-centro-da-missa"
+  },
+  {
+    "termo": "Encíclica",
+    "slug": "enciclica",
+    "definicao": "É uma carta solene do Papa dirigida a toda a Igreja, e muitas vezes a todas as pessoas de boa vontade. Trata de temas de doutrina, moral ou questões sociais. É conhecida pelas primeiras palavras do texto em latim, como Rerum novarum ou Laudato si'.",
+    "link": "/documentos-da-igreja/rerum-novarum-a-questao-operaria-e-social"
+  },
+  {
+    "termo": "Epiclese",
+    "slug": "epiclese",
+    "definicao": "É a parte da Oração Eucarística em que o sacerdote invoca o Espírito Santo sobre o pão e o vinho, para que se tornem o Corpo e o Sangue de Cristo. Depois da consagração, há uma segunda epiclese, que pede que os que comungam formem um só corpo. A palavra vem do grego e significa invocação.",
+    "link": "/duvidas-da-fe/oracao-eucaristica-centro-da-missa"
+  },
+  {
+    "termo": "Epifania",
+    "slug": "epifania",
+    "definicao": "É a solenidade da manifestação do Senhor a todos os povos, representados pelos magos que vieram do Oriente (Mt 2,1-12). Sua data é 6 de janeiro; no Brasil, é celebrada no domingo entre 2 e 8 de janeiro. A palavra vem do grego e significa manifestação.",
+    "link": "/calendario-liturgico/epifania-do-senhor-a-visita-dos-reis-magos"
+  },
+  {
+    "termo": "Escapulário",
+    "slug": "escapulario",
+    "definicao": "É um sacramental formado por dois pedaços de pano unidos por cordões, usado sobre os ombros, como sinal de consagração a Nossa Senhora. O mais conhecido é o de Nossa Senhora do Carmo. Deve ser imposto por um sacerdote ou pessoa autorizada e não é amuleto, mas compromisso de vida cristã.",
+    "link": "/devocoes-marianas/o-santo-escapulario-de-nossa-senhora-do-carmo"
+  },
+  {
+    "termo": "Estola",
+    "slug": "estola",
+    "definicao": "É a faixa de tecido usada pelos ministros ordenados como sinal do seu ministério. O bispo e o presbítero a usam ao redor do pescoço, caindo pela frente; o diácono a usa atravessada, do ombro esquerdo para o lado direito. Sua cor acompanha a celebração.",
+    "link": "/duvidas-da-fe/vestes-liturgicas-significado"
+  },
+  {
+    "termo": "Eucaristia",
+    "slug": "eucaristia",
+    "definicao": "É o sacramento em que Jesus Cristo está presente verdadeira, real e substancialmente, com seu Corpo, Sangue, alma e divindade, sob as aparências de pão e vinho. É fonte e ápice de toda a vida cristã. A palavra vem do grego e significa ação de graças.",
+    "link": "/sacramentos/a-eucaristia-presenca-real-de-cristo"
+  },
+  {
+    "termo": "Evangelho",
+    "slug": "evangelho",
+    "definicao": "A palavra significa \"boa notícia\": o anúncio da salvação trazida por Jesus Cristo. Designa também cada um dos quatro livros que narram a vida e os ensinamentos de Jesus: Mateus, Marcos, Lucas e João. Na Missa, a leitura do Evangelho é o ponto alto da Liturgia da Palavra.",
+    "link": "/duvidas-da-fe/liturgia-da-palavra-na-missa"
+  },
+  {
+    "termo": "Exéquias",
+    "slug": "exequias",
+    "definicao": "É o nome litúrgico das celebrações da Igreja por um fiel falecido, o funeral católico. Podem incluir a vigília de oração, a Missa ou celebração da Palavra e a encomendação. Expressam a fé na ressurreição e confiam o falecido à misericórdia de Deus.",
+    "link": "/duvidas-da-fe/exequias-o-funeral-catolico"
+  },
+  {
+    "termo": "Exortação apostólica",
+    "slug": "exortacao-apostolica",
+    "definicao": "É um documento do Papa que encoraja os fiéis a viver algum aspecto da fé. Muitas vezes é publicada depois de um Sínodo dos Bispos, recolhendo suas reflexões. São exemplos Evangelii gaudium, do Papa Francisco, e Dilexi te, do Papa Leão XIV.",
+    "link": "/documentos-da-igreja/evangelii-gaudium-a-alegria-do-evangelho"
+  },
+  {
+    "termo": "Festa",
+    "slug": "festa",
+    "definicao": "Além do sentido comum, é um grau de celebração no calendário litúrgico, abaixo da solenidade e acima da memória. Na festa, a Missa tem o Glória, mas em geral não tem Credo. São exemplos as festas dos apóstolos e a Apresentação do Senhor."
+  },
+  {
+    "termo": "Genuflexão",
+    "slug": "genuflexao",
+    "definicao": "É o gesto de dobrar o joelho direito até o chão, em sinal de adoração. Faz-se diante do Santíssimo Sacramento no sacrário e, na Sexta-feira Santa, diante da cruz. Quem não pode fazê-la por razão de saúde pode substituí-la por uma inclinação profunda.",
+    "link": "/duvidas-da-fe/o-que-significa-genuflexao-e-quando-fazer"
+  },
+  {
+    "termo": "Glória",
+    "slug": "gloria",
+    "definicao": "É o hino antigo que começa com o canto dos anjos em Belém: \"Glória a Deus nas alturas\" (Lc 2,14). Na Missa, é cantado ou recitado aos domingos, fora do Advento e da Quaresma, e nas solenidades e festas. O mesmo nome se usa para a oração breve do Glória ao Pai.",
+    "link": "/duvidas-da-fe/o-gloria-e-o-credo-na-missa"
+  },
+  {
+    "termo": "Graça",
+    "slug": "graca",
+    "definicao": "É o favor, o dom gratuito que Deus nos dá para que respondamos ao seu chamado e participemos da sua vida. A graça santificante é o dom estável que nos torna filhos de Deus; as graças atuais são ajudas de Deus em momentos concretos. Ninguém a merece por si mesmo: ela é sempre presente de Deus.",
+    "link": "/catecismo/a-graca-e-a-justificacao-segundo-o-catecismo"
+  },
+  {
+    "termo": "Hiperdulia",
+    "slug": "hiperdulia",
+    "definicao": "É a veneração especial devida à Virgem Maria, superior à dada aos demais santos, por ser a Mãe de Deus. Distingue-se da latria, a adoração, que é devida somente a Deus. A veneração aos santos se chama dulia.",
+    "link": "/duvidas-da-fe/diferenca-entre-adoracao-veneracao-hiperdulia"
+  },
+  {
+    "termo": "Homilia",
+    "slug": "homilia",
+    "definicao": "É a pregação feita durante a liturgia, depois da proclamação do Evangelho, para explicar a Palavra de Deus e aplicá-la à vida. Na Missa, é reservada ao ministro ordenado: bispo, presbítero ou diácono. É obrigatória nos domingos e dias de preceito."
+  },
+  {
+    "termo": "Hóstia",
+    "slug": "hostia",
+    "definicao": "É o pão ázimo, feito apenas de farinha de trigo e água, usado na Missa. Depois da consagração, já não é pão, mas o Corpo de Cristo. A palavra vem do latim e significa vítima oferecida em sacrifício.",
+    "link": "/sacramentos/a-eucaristia-presenca-real-de-cristo"
+  },
+  {
+    "termo": "Imaculada Conceição",
+    "slug": "imaculada-conceicao",
+    "definicao": "É o dogma segundo o qual a Virgem Maria foi preservada de toda mancha do pecado original desde o primeiro instante da sua concepção, por graça especial de Deus e em vista dos méritos de Cristo. Foi definido pelo Papa Pio IX em 1854. A solenidade é celebrada em 8 de dezembro.",
+    "link": "/calendario-liturgico/a-imaculada-conceicao-8-de-dezembro"
+  },
+  {
+    "termo": "Incenso",
+    "slug": "incenso",
+    "definicao": "É uma resina aromática queimada na liturgia como sinal de oração que sobe a Deus e de honra às coisas e pessoas sagradas. Pode ser usado na procissão de entrada, no Evangelho, no ofertório e na consagração. O recipiente em que é queimado chama-se turíbulo.",
+    "link": "/duvidas-da-fe/por-que-existe-incenso-na-missa"
+  },
+  {
+    "termo": "Indulgência",
+    "slug": "indulgencia",
+    "definicao": "É a remissão, diante de Deus, da pena temporal devida pelos pecados já perdoados quanto à culpa. Pode ser parcial ou plenária e pode ser aplicada a si mesmo ou aos falecidos. Para recebê-la é preciso cumprir as condições estabelecidas pela Igreja.",
+    "link": "/duvidas-da-fe/o-que-sao-as-indulgencias-e-como-obte-las"
+  },
+  {
+    "termo": "Infalibilidade papal",
+    "slug": "infalibilidade-papal",
+    "definicao": "É o dom pelo qual o Papa, quando define solenemente uma doutrina de fé ou de moral para toda a Igreja, como pastor supremo, é preservado do erro. Foi definida pelo Concílio Vaticano I em 1870. Não significa que o Papa nunca erre em suas opiniões pessoais ou que seja sem pecado.",
+    "link": "/duvidas-da-fe/o-que-e-a-infalibilidade-papal"
+  },
+  {
+    "termo": "INRI",
+    "slug": "inri",
+    "definicao": "É a sigla da inscrição em latim colocada na cruz de Jesus: Iesus Nazarenus Rex Iudaeorum. Significa \"Jesus Nazareno, Rei dos Judeus\". Segundo o Evangelho, foi escrita em hebraico, latim e grego (Jo 19,19-20).",
+    "link": "/duvidas-da-fe/o-que-significa-inri-na-cruz-de-jesus"
+  },
+  {
+    "termo": "Jaculatória",
+    "slug": "jaculatoria",
+    "definicao": "É uma oração muito breve, que pode ser repetida ao longo do dia para manter o coração unido a Deus. Exemplos: \"Jesus, eu confio em vós\" e \"Jesus, Maria e José, minha família vossa é\". O nome vem do latim e lembra uma flecha lançada ao céu."
+  },
+  {
+    "termo": "Jejum eucarístico",
+    "slug": "jejum-eucaristico",
+    "definicao": "É a abstenção de alimentos e bebidas, exceto água e remédios, durante pelo menos uma hora antes de receber a Comunhão. Os idosos, os doentes e quem cuida deles podem comungar mesmo sem guardar esse tempo. É um modo de preparar o corpo e o coração para receber o Senhor.",
+    "link": "/duvidas-da-fe/o-que-e-o-jejum-eucaristico-tempo-regras"
+  },
+  {
+    "termo": "Kyrie",
+    "slug": "kyrie",
+    "definicao": "É a invocação grega \"Kyrie, eleison\", que significa \"Senhor, tende piedade\". Na Missa, faz parte dos ritos iniciais, junto ao ato penitencial, e pode ser dito em português ou em grego. É uma das orações mais antigas da liturgia.",
+    "link": "/duvidas-da-fe/ato-penitencial-da-missa"
+  },
+  {
+    "termo": "Ladainha",
+    "slug": "ladainha",
+    "definicao": "É uma oração formada por uma série de invocações curtas, com respostas repetidas, como \"rogai por nós\" ou \"tende piedade de nós\". Existem ladainhas aprovadas para uso público, como a de Nossa Senhora e a de Todos os Santos. São adequadas para a oração em grupo.",
+    "link": "/ladainhas/ladainha-de-nossa-senhora-ladainha-lauretana"
+  },
+  {
+    "termo": "Lecionário",
+    "slug": "lecionario",
+    "definicao": "É o livro litúrgico que contém as leituras bíblicas da Missa, distribuídas ao longo do ano litúrgico. Há lecionários para os domingos, para os dias de semana e para os santos e celebrações especiais. As leituras são proclamadas a partir dele no ambão."
+  },
+  {
+    "termo": "Lectio divina",
+    "slug": "lectio-divina",
+    "definicao": "É a leitura orante da Sagrada Escritura, praticada na Igreja desde os primeiros séculos e muito cultivada nos mosteiros. Costuma seguir os passos de leitura, meditação, oração e contemplação. Ajuda a ouvir Deus que fala pela sua Palavra.",
+    "link": "/lectio-divina"
+  },
+  {
+    "termo": "Liturgia das Horas",
+    "slug": "liturgia-das-horas",
+    "definicao": "É a oração oficial da Igreja, que santifica as horas do dia com salmos, cânticos, leituras e preces. Suas horas principais são as Laudes, de manhã, e as Vésperas, à tarde. Os sacerdotes e os diáconos têm o dever de rezá-la, na medida estabelecida pela Igreja, e ela é recomendada a todos os fiéis.",
+    "link": "/duvidas-da-fe/o-que-e-a-liturgia-das-horas-e-quem-deve-rezar"
+  },
+  {
+    "termo": "Magistério",
+    "slug": "magisterio",
+    "definicao": "É a missão de ensinar autenticamente a Palavra de Deus, confiada ao Papa e aos bispos em comunhão com ele. O Magistério não está acima da Palavra de Deus, mas a serve, ensinando apenas o que foi transmitido. Ele interpreta a Escritura e a Tradição com a assistência do Espírito Santo."
+  },
+  {
+    "termo": "Magnificat",
+    "slug": "magnificat",
+    "definicao": "É o cântico de louvor da Virgem Maria na visita a Isabel, que começa com \"A minha alma engrandece o Senhor\" (Lc 1,46-55). O nome é a primeira palavra do texto em latim. É rezado todos os dias nas Vésperas da Liturgia das Horas.",
+    "link": "/oracoes-do-dia-a-dia/o-magnificat-o-cantico-de-maria"
+  },
+  {
+    "termo": "Matrimônio",
+    "slug": "matrimonio",
+    "definicao": "É o sacramento pelo qual um homem e uma mulher se unem numa aliança de vida e amor, ordenada ao bem dos esposos e à geração e educação dos filhos. Os próprios noivos são os ministros do sacramento, diante de um ministro da Igreja e de testemunhas. O matrimônio válido e consumado é indissolúvel.",
+    "link": "/sacramentos/o-sacramento-do-matrimonio-na-igreja-catolica"
+  },
+  {
+    "termo": "Medalha milagrosa",
+    "slug": "medalha-milagrosa",
+    "definicao": "É a medalha de Nossa Senhora das Graças, cunhada a partir das aparições a Santa Catarina Labouré em Paris, em 1830. Traz a inscrição \"Ó Maria concebida sem pecado, rogai por nós que recorremos a vós\". É um sacramental, e não um amuleto.",
+    "link": "/devocoes-marianas/a-medalha-milagrosa-historia-e-promessas"
+  },
+  {
+    "termo": "Memória",
+    "slug": "memoria",
+    "definicao": "É o grau mais simples de celebração dos santos no calendário litúrgico, abaixo da festa e da solenidade. Pode ser obrigatória, quando deve ser celebrada em toda a Igreja, ou facultativa. Na memória, a Missa não tem Glória nem Credo."
+  },
+  {
+    "termo": "Missa",
+    "slug": "missa",
+    "definicao": "É a celebração da Eucaristia, em que se torna presente o sacrifício de Cristo na cruz e se recebe seu Corpo e Sangue. Tem duas grandes partes: a Liturgia da Palavra e a Liturgia Eucarística, precedidas dos ritos iniciais e seguidas dos ritos finais. Os católicos têm o dever de participar da Missa aos domingos e dias de preceito.",
+    "link": "/duvidas-da-fe/como-a-missa-e-dividida-estrutura-e-partes-explicadas"
+  },
+  {
+    "termo": "Missal",
+    "slug": "missal",
+    "definicao": "É o livro litúrgico que contém as orações e os ritos da Missa usados pelo sacerdote. O atual Missal Romano foi promulgado após o Concílio Vaticano II. As leituras bíblicas ficam em outro livro, o lecionário."
+  },
+  {
+    "termo": "Mistérios do Rosário",
+    "slug": "misterios-do-rosario",
+    "definicao": "São os episódios da vida de Jesus e de Maria meditados durante o terço. Dividem-se em gozosos, luminosos, dolorosos e gloriosos. Os mistérios luminosos foram acrescentados por São João Paulo II em 2002.",
+    "link": "/como-rezar-o-terco/guia-completo-para-rezar-o-santo-terco"
+  },
+  {
+    "termo": "Motu proprio",
+    "slug": "motu-proprio",
+    "definicao": "É um documento que o Papa publica por iniciativa própria, como indica a expressão latina. Costuma tratar de normas, mudanças de leis da Igreja ou da organização da Cúria. Um exemplo é Summorum Pontificum, de Bento XVI."
+  },
+  {
+    "termo": "Novena",
+    "slug": "novena",
+    "definicao": "É a oração feita durante nove dias seguidos, pedindo uma graça ou preparando uma festa. Tradicionalmente lembra os dias em que os apóstolos, com Maria, perseveraram em oração antes de Pentecostes (At 1,14). Não é uma fórmula mágica, mas uma forma de perseverar na oração.",
+    "link": "/novenas/novena-ao-espirito-santo-completa-com-meditacoes"
+  },
+  {
+    "termo": "Núncio apostólico",
+    "slug": "nuncio-apostolico",
+    "definicao": "É o representante diplomático da Santa Sé junto a um país e junto à Igreja local. Em geral é um arcebispo. Mantém os laços entre o Papa e os bispos do país e ajuda, entre outras tarefas, no processo de escolha dos novos bispos."
+  },
+  {
+    "termo": "Ofertório",
+    "slug": "ofertorio",
+    "definicao": "É o nome tradicional da preparação das oferendas, o início da Liturgia Eucarística. O pão e o vinho são levados ao altar e apresentados a Deus, e muitas vezes se faz também a coleta para as necessidades da Igreja e dos pobres. É um bom momento para o fiel oferecer a própria vida junto com os dons.",
+    "link": "/duvidas-da-fe/o-que-fazer-durante-o-ofertorio-na-missa"
+  },
+  {
+    "termo": "Oração eucarística",
+    "slug": "oracao-eucaristica",
+    "definicao": "É o centro e o ponto alto da Missa, uma grande oração de ação de graças e santificação. Inclui o prefácio, a epiclese, o relato da instituição com a consagração, a memória da paixão e ressurreição, as intercessões e a doxologia final. O Missal Romano traz várias orações eucarísticas aprovadas.",
+    "link": "/duvidas-da-fe/oracao-eucaristica-centro-da-missa"
+  },
+  {
+    "termo": "Ordem",
+    "slug": "ordem",
+    "definicao": "É o sacramento pelo qual a missão confiada por Cristo aos apóstolos continua a ser exercida na Igreja. Tem três graus: o episcopado, o presbiterado e o diaconato. Imprime um caráter permanente e só é conferido pelo bispo.",
+    "link": "/sacramentos/o-sacramento-da-ordem-diaconato-presbiterado-e-episcopado"
+  },
+  {
+    "termo": "Ostensório",
+    "slug": "ostensorio",
+    "definicao": "É a peça litúrgica em que se expõe a hóstia consagrada para a adoração dos fiéis. Geralmente tem a forma de um sol com raios ao redor do centro, onde fica a hóstia. É usado na adoração ao Santíssimo, na bênção eucarística e na procissão de Corpus Christi.",
+    "link": "/duvidas-da-fe/o-que-e-o-santissimo-sacramento-adoracao"
+  },
+  {
+    "termo": "Papa",
+    "slug": "papa",
+    "definicao": "É o Bispo de Roma e sucessor de São Pedro, pastor supremo da Igreja universal. Ele é sinal e fundamento visível da unidade da fé e da comunhão. O atual Papa é Leão XIV, eleito em 8 de maio de 2025.",
+    "link": "/duvidas-da-fe/por-que-os-catolicos-tem-o-papa-como-lider"
+  },
+  {
+    "termo": "Paramentos",
+    "slug": "paramentos",
+    "definicao": "São as vestes e ornamentos usados pelos ministros nas celebrações litúrgicas, como a alva, a estola, a casula e a dalmática. Distinguem os ministérios e dão dignidade ao culto. Suas cores acompanham o tempo litúrgico.",
+    "link": "/duvidas-da-fe/por-que-o-padre-usa-diferentes-paramentos-na-missa"
+  },
+  {
+    "termo": "Pároco",
+    "slug": "paroco",
+    "definicao": "É o padre a quem o bispo confia uma paróquia, como seu pastor próprio. Ele é responsável por ensinar, santificar e conduzir os fiéis daquela comunidade, com a ajuda de outros padres, diáconos e leigos. Age sempre em comunhão com o bispo diocesano."
+  },
+  {
+    "termo": "Paróquia",
+    "slug": "paroquia",
+    "definicao": "É uma comunidade de fiéis estabelecida de modo estável dentro de uma diocese, confiada a um pároco. Em geral corresponde a um território, mas também pode ser pessoal, por exemplo para um grupo de língua ou de rito. É o lugar ordinário onde os fiéis recebem os sacramentos e vivem a fé em comunidade."
+  },
+  {
+    "termo": "Páscoa",
+    "slug": "pascoa",
+    "definicao": "É a maior solenidade do ano litúrgico, que celebra a Ressurreição de Jesus Cristo. Começa na Vigília Pascal e se prolonga por cinquenta dias, até Pentecostes. Todo domingo é uma pequena Páscoa, memória semanal da Ressurreição.",
+    "link": "/calendario-liturgico/o-tempo-pascal-da-ressurreicao-a-pentecostes"
+  },
+  {
+    "termo": "Patena",
+    "slug": "patena",
+    "definicao": "É o pequeno prato, de material nobre, em que se coloca a hóstia para a consagração na Missa. Também pode ser usada na distribuição da comunhão para evitar que fragmentos caiam. Assim como o cálice, é um vaso sagrado.",
+    "link": "/duvidas-da-fe/objetos-liturgicos-usados-na-missa-nomes"
+  },
+  {
+    "termo": "Pecado mortal",
+    "slug": "pecado-mortal",
+    "definicao": "É o pecado que tem matéria grave e é cometido com plena consciência e deliberado consentimento. Ele destrói a caridade no coração e afasta da graça de Deus. Para ser perdoado, exige normalmente a confissão sacramental antes de receber a comunhão.",
+    "link": "/duvidas-da-fe/qual-a-diferenca-entre-pecado-mortal-e-pecado-venial"
+  },
+  {
+    "termo": "Pecado original",
+    "slug": "pecado-original",
+    "definicao": "É o estado de privação da santidade e da justiça originais que todos herdam de Adão e Eva, por causa da desobediência dos primeiros pais. Não é um pecado pessoal cometido por nós, mas uma ferida na natureza humana. É apagado pelo Batismo, embora permaneçam suas consequências, como a inclinação ao mal.",
+    "link": "/catecismo/o-pecado-original-significado-e-consequencias"
+  },
+  {
+    "termo": "Pecado venial",
+    "slug": "pecado-venial",
+    "definicao": "É o pecado em matéria leve, ou em matéria grave sem plena consciência ou sem pleno consentimento. Não destrói a amizade com Deus, mas a enfraquece. É perdoado também pela contrição, pela Eucaristia e pelas obras de caridade, e é muito útil confessá-lo.",
+    "link": "/duvidas-da-fe/qual-a-diferenca-entre-pecado-mortal-e-pecado-venial"
+  },
+  {
+    "termo": "Penitência",
+    "slug": "penitencia",
+    "definicao": "Designa o sacramento da Confissão e também a virtude pela qual o cristão se arrepende do pecado e se converte a Deus. Na confissão, a penitência é a obra indicada pelo sacerdote, como orações ou gestos de caridade, para reparar o mal cometido. Jejum, oração e esmola são formas tradicionais de penitência.",
+    "link": "/sacramentos/o-sacramento-da-confissao-guia-completo"
+  },
+  {
+    "termo": "Pentecostes",
+    "slug": "pentecostes",
+    "definicao": "É a solenidade que celebra a vinda do Espírito Santo sobre os apóstolos reunidos com Maria, cinquenta dias depois da Páscoa (At 2,1-11). Encerra o Tempo Pascal. É considerado o nascimento da Igreja para a missão.",
+    "link": "/calendario-liturgico/pentecostes-a-vinda-do-espirito-santo"
+  },
+  {
+    "termo": "Prefácio",
+    "slug": "prefacio",
+    "definicao": "É a parte inicial da Oração Eucarística, que começa com o diálogo \"O Senhor esteja convosco\" e \"Corações ao alto\". Nele o sacerdote dá graças ao Pai por um aspecto da obra da salvação, que varia conforme o tempo ou a festa. Termina com o canto do Santo.",
+    "link": "/duvidas-da-fe/oracao-eucaristica-centro-da-missa"
+  },
+  {
+    "termo": "Prelazia",
+    "slug": "prelazia",
+    "definicao": "É uma circunscrição da Igreja semelhante a uma diocese, confiada a um prelado. A prelazia territorial é criada em regiões com circunstâncias especiais, como algumas da Amazônia. Existe também a prelazia pessoal, que não se define por território, como a do Opus Dei."
+  },
+  {
+    "termo": "Presbitério",
+    "slug": "presbiterio",
+    "definicao": "É a parte da igreja onde ficam o altar, o ambão e a cadeira de quem preside, geralmente um pouco elevada. A palavra também designa o conjunto dos presbíteros de uma diocese, unidos ao seu bispo. O sentido certo se percebe pelo contexto."
+  },
+  {
+    "termo": "Presbítero",
+    "slug": "presbitero",
+    "definicao": "É o ministro ordenado no segundo grau do sacramento da Ordem, chamado popularmente de padre. Colaborador do bispo, celebra a Missa, perdoa os pecados, administra os sacramentos e prega a Palavra. Exerce o ministério em comunhão com o bispo, a quem promete respeito e obediência.",
+    "link": "/sacramentos/o-sacramento-da-ordem-diaconato-presbiterado-e-episcopado"
+  },
+  {
+    "termo": "Procissão",
+    "slug": "procissao",
+    "definicao": "É uma caminhada de fiéis em oração, com cantos, imagens ou o Santíssimo Sacramento. Expressa a Igreja como povo de Deus a caminho da casa do Pai. São exemplos a procissão de Ramos, a de Corpus Christi e as procissões das festas dos padroeiros.",
+    "link": "/duvidas-da-fe/o-que-sao-as-processoes-e-qual-seu-significado"
+  },
+  {
+    "termo": "Promessa",
+    "slug": "promessa",
+    "definicao": "Na devoção popular, é o compromisso que o fiel assume diante de Deus, muitas vezes ligado a um pedido ou a um agradecimento. Não deve ser entendida como troca ou negociação com Deus. Quando é feita de modo deliberado e livre a Deus, sobre um bem possível e melhor, chama-se voto e obriga em consciência; na dúvida, convém conversar com um sacerdote."
+  },
+  {
+    "termo": "Purgatório",
+    "slug": "purgatorio",
+    "definicao": "É o estado de purificação final daqueles que morrem na graça e na amizade de Deus, mas ainda não estão plenamente purificados. Ali recebem a purificação necessária para entrar na alegria do céu. Por isso a Igreja reza pelos falecidos e oferece a Missa por eles.",
+    "link": "/catecismo/o-purgatorio-doutrina-e-fundamentos-biblicos"
+  },
+  {
+    "termo": "Quaresma",
+    "slug": "quaresma",
+    "definicao": "É o tempo de quarenta dias de preparação para a Páscoa, que vai da Quarta-feira de Cinzas até a Missa da Ceia do Senhor, na Quinta-feira Santa. É marcado pela oração, pelo jejum e pela esmola. A cor litúrgica é o roxo.",
+    "link": "/calendario-liturgico/a-quaresma-significado-praticas-e-tradicoes"
+  },
+  {
+    "termo": "Relíquia",
+    "slug": "reliquia",
+    "definicao": "É o corpo ou parte do corpo de um santo, ou objeto que lhe pertenceu ou que tocou seus restos. A Igreja as venera como lembrança dos santos, cujo corpo foi templo do Espírito Santo. É proibido vender relíquias."
+  },
+  {
+    "termo": "Romaria",
+    "slug": "romaria",
+    "definicao": "É a peregrinação de fiéis a um santuário ou lugar santo, por devoção, penitência ou agradecimento. No Brasil, são muito conhecidas as romarias ao Santuário Nacional de Aparecida. Quem participa é chamado de romeiro.",
+    "link": "/devocoes-marianas/nossa-senhora-aparecida-padroeira-do-brasil"
+  },
+  {
+    "termo": "Rosário",
+    "slug": "rosario",
+    "definicao": "É a oração mariana que medita os mistérios da vida de Jesus e de Maria, com Pai-Nossos, Ave-Marias e Glórias. O Rosário completo reúne os quatro grupos de mistérios: gozosos, luminosos, dolorosos e gloriosos. A palavra também designa o objeto de contas usado para rezá-lo.",
+    "link": "/duvidas-da-fe/o-que-e-o-santo-rosario-e-por-que-reza-lo"
+  },
+  {
+    "termo": "Sacramental",
+    "slug": "sacramental",
+    "definicao": "É um sinal sagrado instituído pela Igreja, que prepara para receber a graça e santifica diversas circunstâncias da vida. São exemplos a água benta, as bênçãos, as medalhas e o escapulário. Diferem dos sacramentos, que foram instituídos por Cristo.",
+    "link": "/duvidas-da-fe/o-que-sao-sacramentais"
+  },
+  {
+    "termo": "Sacramento",
+    "slug": "sacramento",
+    "definicao": "É um sinal eficaz da graça, instituído por Cristo e confiado à Igreja, pelo qual nos é dada a vida divina. São sete: Batismo, Crisma, Eucaristia, Penitência, Unção dos Enfermos, Ordem e Matrimônio. Eles agem pela força de Cristo, e não pela santidade de quem os ministra.",
+    "link": "/sacramentos/o-batismo-significado-rito-e-gracas"
+  },
+  {
+    "termo": "Sacrário",
+    "slug": "sacrario",
+    "definicao": "É o lugar digno e seguro onde se guarda a Eucaristia, para a comunhão dos doentes e para a adoração dos fiéis. Também é chamado tabernáculo. Junto dele deve permanecer acesa uma lâmpada, sinal da presença de Cristo.",
+    "link": "/duvidas-da-fe/o-que-e-o-sacrario-e-por-que-a-lampada-fica-acesa"
+  },
+  {
+    "termo": "Sacristia",
+    "slug": "sacristia",
+    "definicao": "É a sala anexa à igreja onde se guardam as vestes, os livros e os objetos litúrgicos. Ali os ministros se preparam para a celebração. Quem cuida da sacristia é chamado sacristão."
+  },
+  {
+    "termo": "Santa Sé",
+    "slug": "santa-se",
+    "definicao": "É o nome que designa o Papa e os organismos da Cúria Romana que o ajudam no governo da Igreja universal. A Santa Sé tem personalidade própria no direito internacional e mantém relações diplomáticas com os países. Não se confunde com o Estado da Cidade do Vaticano, território que garante sua independência."
+  },
+  {
+    "termo": "Santíssima Trindade",
+    "slug": "santissima-trindade",
+    "definicao": "É o mistério central da fé cristã: um só Deus em três Pessoas distintas, Pai, Filho e Espírito Santo. As três Pessoas são iguais em dignidade e possuem a mesma natureza divina. A Igreja celebra a solenidade da Santíssima Trindade no domingo depois de Pentecostes.",
+    "link": "/catecismo/a-santissima-trindade-explicada-de-forma-acessivel"
+  },
+  {
+    "termo": "Semana Santa",
+    "slug": "semana-santa",
+    "definicao": "É a semana que vai do Domingo de Ramos ao Domingo de Páscoa, quando a Igreja celebra a paixão, morte e ressurreição de Jesus. Seu ponto alto é o Tríduo Pascal. É o centro de todo o ano litúrgico.",
+    "link": "/calendario-liturgico/semana-santa-dia-a-dia-explicado"
+  },
+  {
+    "termo": "Sinal da cruz",
+    "slug": "sinal-da-cruz",
+    "definicao": "É o gesto com que o cristão traça a cruz sobre si, dizendo \"Em nome do Pai, e do Filho e do Espírito Santo. Amém\". Expressa a fé na Santíssima Trindade e na salvação pela cruz de Cristo. Costuma iniciar e terminar as orações.",
+    "link": "/duvidas-da-fe/por-que-fazemos-o-sinal-da-cruz"
+  },
+  {
+    "termo": "Solenidade",
+    "slug": "solenidade",
+    "definicao": "É o grau mais alto de celebração no calendário litúrgico, reservado aos principais mistérios do Senhor, a Nossa Senhora e a alguns santos. A Missa tem Glória e Credo e começa já na véspera, com as primeiras Vésperas. São exemplos o Natal, a Páscoa e a Imaculada Conceição."
+  },
+  {
+    "termo": "Sucessão apostólica",
+    "slug": "sucessao-apostolica",
+    "definicao": "É a transmissão ininterrupta da missão e da autoridade dos apóstolos aos bispos, pela imposição das mãos no sacramento da Ordem. Ela garante a continuidade da Igreja fundada por Cristo. Por ela, os bispos são sucessores dos apóstolos.",
+    "link": "/duvidas-da-fe/o-que-e-a-sucessao-apostolica"
+  },
+  {
+    "termo": "Tempo Comum",
+    "slug": "tempo-comum",
+    "definicao": "É o tempo litúrgico que não celebra um aspecto particular do mistério de Cristo, mas o mistério em sua plenitude, com 33 ou 34 semanas. Divide-se em duas partes: depois do Batismo do Senhor até a Quaresma, e depois de Pentecostes até o Advento. A cor litúrgica é o verde.",
+    "link": "/calendario-liturgico/o-tempo-comum-santificando-o-cotidiano"
+  },
+  {
+    "termo": "Tempo Pascal",
+    "slug": "tempo-pascal",
+    "definicao": "São os cinquenta dias que vão do Domingo da Páscoa até Pentecostes, celebrados como um único grande dia de festa. Nesse tempo se canta o Aleluia com alegria e o círio pascal permanece aceso nas celebrações. A cor litúrgica é o branco.",
+    "link": "/calendario-liturgico/o-tempo-pascal-da-ressurreicao-a-pentecostes"
+  },
+  {
+    "termo": "Terço",
+    "slug": "terco",
+    "definicao": "É a oração de cinco dezenas de Ave-Marias, cada uma precedida de um Pai-Nosso e seguida de um Glória, meditando um grupo de mistérios. O nome vem de ter sido, originalmente, a terça parte do Rosário de 150 Ave-Marias. Também designa o objeto de contas usado para rezá-lo.",
+    "link": "/como-rezar-o-terco/guia-completo-para-rezar-o-santo-terco"
+  },
+  {
+    "termo": "Tradição",
+    "slug": "tradicao",
+    "definicao": "A Sagrada Tradição é a transmissão viva da Palavra de Deus confiada por Cristo e pelo Espírito Santo aos apóstolos e a seus sucessores. Junto com a Sagrada Escritura, forma um único depósito da fé. Não se confunde com simples costumes ou tradições humanas.",
+    "link": "/documentos-da-igreja/dei-verbum-a-revelacao-divina"
+  },
+  {
+    "termo": "Transubstanciação",
+    "slug": "transubstanciacao",
+    "definicao": "É a mudança de toda a substância do pão no Corpo de Cristo e de toda a substância do vinho no seu Sangue, que acontece na consagração. Permanecem apenas as aparências de pão e vinho. O termo, já usado pelo IV Concílio de Latrão, foi confirmado pelo Concílio de Trento.",
+    "link": "/duvidas-da-fe/o-que-e-a-transubstanciacao-na-eucaristia"
+  },
+  {
+    "termo": "Tríduo Pascal",
+    "slug": "triduo-pascal",
+    "definicao": "É o centro do ano litúrgico, em que se celebra a paixão, morte e ressurreição do Senhor. Começa com a Missa da Ceia do Senhor, na quinta-feira à noite, tem seu ponto alto na Vigília Pascal e termina com as Vésperas do Domingo da Páscoa. É celebrado como uma única grande celebração em três dias.",
+    "link": "/calendario-liturgico/o-triduo-pascal-os-tres-dias-mais-sagrados"
+  },
+  {
+    "termo": "Unção dos Enfermos",
+    "slug": "uncao-dos-enfermos",
+    "definicao": "É o sacramento que dá força, paz e coragem aos que estão gravemente doentes ou enfraquecidos pela velhice. O sacerdote unge a fronte e as mãos com o óleo dos enfermos. Não é só para quem está morrendo e pode ser repetido se a doença se agravar.",
+    "link": "/sacramentos/a-uncao-dos-enfermos-conforto-e-esperanca"
+  },
+  {
+    "termo": "Via-Sacra",
+    "slug": "via-sacra",
+    "definicao": "É a devoção que acompanha Jesus no caminho do Calvário, meditando quatorze estações, da condenação à sepultura. É muito rezada nas sextas-feiras, sobretudo na Quaresma. Ajuda a unir os próprios sofrimentos à paixão de Cristo.",
+    "link": "/via-sacra"
+  },
+  {
+    "termo": "Viático",
+    "slug": "viatico",
+    "definicao": "É a Eucaristia dada a quem está em perigo de morte, como alimento para a passagem desta vida ao Pai. A palavra vem do latim e lembra a provisão para a viagem. É o último sacramento do cristão.",
+    "link": "/duvidas-da-fe/o-que-e-a-uncao-dos-enfermos-extrema-uncao"
+  },
+  {
+    "termo": "Vida consagrada",
+    "slug": "vida-consagrada",
+    "definicao": "É o estado de vida de quem se dedica totalmente a Deus pela profissão dos conselhos evangélicos de pobreza, castidade e obediência. Inclui religiosos e religiosas, monges, membros de institutos seculares e outras formas reconhecidas pela Igreja. É um sinal do Reino de Deus no mundo.",
+    "link": "/duvidas-da-fe/o-que-e-a-vida-consagrada"
+  },
+  {
+    "termo": "Vigário",
+    "slug": "vigario",
+    "definicao": "É quem age em nome de outro com autoridade dele. O vigário paroquial ajuda o pároco na paróquia, e o vigário-geral ajuda o bispo no governo da diocese. No Brasil, o povo também chama de vigário o padre da paróquia."
+  },
+  {
+    "termo": "Vigília Pascal",
+    "slug": "vigilia-pascal",
+    "definicao": "É a celebração da noite santa da Páscoa, chamada por Santo Agostinho de mãe de todas as vigílias. Tem a liturgia da luz com o círio, a longa Liturgia da Palavra, a liturgia batismal e a Eucaristia. Deve ser celebrada depois do anoitecer.",
+    "link": "/calendario-liturgico/o-triduo-pascal-os-tres-dias-mais-sagrados"
+  },
+  {
+    "termo": "Votos religiosos",
+    "slug": "votos-religiosos",
+    "definicao": "São as promessas públicas feitas a Deus pelos religiosos, geralmente de pobreza, castidade e obediência. Por eles a pessoa se consagra inteiramente a Deus numa comunidade aprovada pela Igreja. Podem ser temporários ou perpétuos.",
+    "link": "/duvidas-da-fe/o-que-sao-os-votos-religiosos-pobreza-castidade-obediencia"
+  }
+]

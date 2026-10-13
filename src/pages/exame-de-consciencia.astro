@@ -1,0 +1,148 @@
+---
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { Search } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import ArticleList from '@/components/astro/ArticleList.astro';
+import Faq from '@/components/astro/Faq.astro';
+import CategoryAside from '@/components/astro/CategoryAside.astro';
+import { CATEGORY_CONTENT } from '@/config/categoryContent';
+import ExameInterativo from '@/components/islands/ExameInterativo';
+import { categoryBySlug } from '@/config/site';
+import { getArticlesByCategory } from '@/lib/data';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const cat = categoryBySlug('exame-de-consciencia')!;
+const articles = await getArticlesByCategory('exame-de-consciencia');
+const lead = CATEGORY_CONTENT['exame-de-consciencia'].lead;
+
+const FAQ = [
+  {
+    q: "O que é o exame de consciência?",
+    a: "O exame de consciência é a revisão sincera dos próprios pensamentos, palavras, obras e omissões à luz dos mandamentos de Deus e da Igreja. Ele é a preparação necessária para uma boa confissão: sem examinar a consciência, não é possível acusar-se dos pecados diante do sacerdote. O Catecismo ensina que essa revisão deve ser feita à luz da Palavra de Deus (CIC 1454).",
+  },
+  {
+    q: "Como fazer o exame de consciência passo a passo?",
+    a: "Comece pedindo a luz do Espírito Santo. Depois percorra, com calma e sinceridade, os dez mandamentos, os mandamentos da Igreja e os deveres do seu estado de vida (filho, esposo, pai, estudante, trabalhador). Anote os pecados que reconhecer, procurando lembrar também quantas vezes, aproximadamente, cada pecado grave foi cometido. Termine com um ato de contrição e o propósito firme de não pecar mais.",
+  },
+  {
+    q: "Com que frequência devo fazer o exame de consciência?",
+    a: "O ideal é fazer um breve exame todas as noites, revisando o dia que passou, e um exame mais completo antes de cada confissão. A Igreja recomenda a confissão frequente, e os pecados graves devem ser confessados antes de receber a sagrada Comunhão (CIC 1457; cân. 916).",
+  },
+  {
+    q: "Preciso anotar os pecados para confessar?",
+    a: "Não é obrigatório, mas é muito recomendado, principalmente para quem passou muito tempo sem se confessar. Anotar ajuda a não esquecer nada diante do sacerdote e a confessar com mais tranquilidade. Nossa ferramenta gratuita acima gera essa lista para você, sem salvar nenhum dado.",
+  },
+  {
+    q: "O que devo dizer na confissão?",
+    a: "Os pecados graves devem ser confessados com a espécie e o número aproximado de vezes (CIC 1493; cân. 988). Não é preciso contar detalhes desnecessários nem nomear outras pessoas. Se você esquecer um pecado grave sem culpa, a confissão continua válida: basta confessá-lo na próxima vez.",
+  },
+  {
+    q: "Exame de consciência é só para quem vai se confessar?",
+    a: "Não. Embora seja essencial antes da confissão, o exame de consciência diário é um exercício espiritual recomendado a todos os católicos. Santos como Santo Inácio de Loyola o ensinavam como caminho de conversão contínua: reconhecer as graças recebidas, pedir perdão pelas faltas e renovar o propósito de emenda.",
+  },
+];
+
+const PASSOS = [
+  {
+    titulo: "1. Peça a luz do Espírito Santo",
+    texto:
+      "Antes de tudo, reze brevemente pedindo que Deus ilumine sua memória e seu coração. Sem a graça de Deus, tendemos a nos justificar ou a esquecer o que nos incomoda.",
+  },
+  {
+    titulo: "2. Percorra os mandamentos com calma",
+    texto:
+      "Revise sua vida à luz dos dez mandamentos, dos mandamentos da Igreja e dos deveres do seu estado de vida. Pergunte-se onde faltou amor a Deus, ao próximo e a si mesmo: em pensamentos, palavras, ações e omissões.",
+  },
+  {
+    titulo: "3. Anote o que reconhecer",
+    texto:
+      "Registre os pecados que encontrar, procurando indicar também quantas vezes, aproximadamente, cada pecado grave aconteceu. Isso torna a confissão mais completa e serena.",
+  },
+  {
+    titulo: "4. Arrependa-se de coração",
+    texto:
+      "Diante do que reconheceu, peça perdão a Deus com um ato de contrição. O arrependimento sincero, com o propósito firme de não pecar mais, é o coração do sacramento da Penitência.",
+  },
+  {
+    titulo: "5. Confesse-se com um sacerdote",
+    texto:
+      "Leve sua lista à confissão. Diga os pecados com simplicidade e humildade, receba a penitência e a absolvição, e cumpra a penitência com gratidão pela misericórdia de Deus.",
+  },
+];
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Exame de Consciência', path: '/exame-de-consciencia' },
+];
+const jsonLd = [
+  {
+    '@type': 'WebPage',
+    '@id': `${absUrl('/exame-de-consciencia')}#webpage`,
+    url: absUrl('/exame-de-consciencia'),
+    name: 'Exame de Consciência: Como Fazer + Checklist para Confissão',
+    description: cat.description,
+    inLanguage: 'pt-BR',
+  },
+  faqSchema(FAQ),
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title="Exame de Consciência: Como Fazer + Checklist para Confissão"
+  description={cat.description}
+  path="/exame-de-consciencia"
+  keywords={cat.keywords}
+  jsonLd={jsonLd}
+>
+  <PageHeader title="Exame de Consciência" subtitle={lead} icon={Search} crumbs={crumbs} tom={CATEGORY_VISUAL['exame-de-consciencia']}>
+    <nav class="mt-6" aria-label="Exames por estado de vida">
+      <p class="mb-2 text-sm font-semibold text-co-warm-brown/80">Exames por estado de vida</p>
+      <ul class="grid grid-cols-2 gap-2 sm:grid-cols-4">
+        {[['casados', 'Para casados'], ['jovens', 'Para jovens'], ['criancas', 'Para crianças'], ['primeira-confissao', 'Primeira confissão']].map(([s, t]) => (
+          <li><a href={`/exame-de-consciencia/${s}`} class="chip h-11 w-full">{t}</a></li>
+        ))}
+      </ul>
+    </nav>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <div class="grid gap-12 lg:grid-cols-[minmax(0,1fr)_280px] lg:gap-16">
+      <div class="min-w-0 space-y-12">
+      <section class="intro-prose max-w-2xl text-[17px] text-co-warm-brown/90">
+        <p>
+          O <strong>exame de consciência</strong> é a revisão sincera dos nossos pensamentos, palavras, ações e omissões à luz
+          dos mandamentos de Deus. É o primeiro passo para uma boa confissão: antes de pedir perdão, precisamos reconhecer, com
+          humildade, onde falhamos no amor a Deus e ao próximo. Nesta página você encontra um <strong>checklist interativo
+          gratuito</strong> que monta automaticamente a lista do que confessar, sem salvar nenhum dado, e um guia passo a
+          passo baseado no Catecismo da Igreja Católica.
+        </p>
+      </section>
+
+      <ExameInterativo client:visible />
+
+      <section aria-labelledby="passo-a-passo" class="max-w-2xl">
+        <h2 id="passo-a-passo" class="mb-2 font-display text-2xl font-semibold text-co-warm-brown">Como fazer o exame de consciência passo a passo</h2>
+        <p class="mb-6 text-co-warm-brown/80">Se preferir fazer o exame por conta própria, siga estes cinco passos:</p>
+        <ol class="divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+          {PASSOS.map((p) => (
+            <li class="py-5">
+              <h3 class="font-display text-lg font-semibold text-co-warm-brown">{p.titulo}</h3>
+              <p class="mt-1 leading-relaxed text-co-warm-brown/80">{p.texto}</p>
+            </li>
+          ))}
+        </ol>
+      </section>
+
+      <section aria-labelledby="artigos-exame">
+        <h2 id="artigos-exame" class="mb-4 font-display text-2xl font-semibold text-co-warm-brown">Artigos sobre exame de consciência e confissão</h2>
+        <ArticleList articles={articles} />
+      </section>
+
+      <Faq title="Perguntas frequentes sobre o exame de consciência" items={FAQ} />
+      </div>
+      <CategoryAside current="exame-de-consciencia" />
+      </div>
+    </div>
+  </main>
+</BaseLayout>

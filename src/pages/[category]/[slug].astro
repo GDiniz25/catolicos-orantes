@@ -1,0 +1,292 @@
+---
+import { Heart } from 'lucide-react';
+import CapaArtigo from '@/components/astro/CapaArtigo.astro';
+import { visualDe } from '@/config/categoryVisual';
+import { sectionIconByHref } from '@/data/sections';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { imagemResponsiva } from '@/lib/imagens';
+import Breadcrumbs from '@/components/astro/Breadcrumbs.astro';
+import PrayerButton from '@/components/astro/PrayerButton.astro';
+import { getAllArticles } from '@/lib/data';
+import { categoryLabel } from '@/config/site';
+import { cleanArticleHtml, htmlToText, tabelasResponsivas } from '@/lib/sanitize';
+import { findRelated, injectInlineLinks } from '@/lib/internalLinks';
+import { addHeadingIds } from '@/lib/toc';
+import { extractFaq, extractSources } from '@/lib/articleExtras';
+import { absUrl, breadcrumbSchema, clampText, faqSchema, isoDate, publisherRef } from '@/lib/seo';
+import type { Article } from '@/types/content';
+
+export async function getStaticPaths() {
+  const all = await getAllArticles();
+  return all.map((article) => ({
+    params: { category: article.category, slug: article.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props as { article: Article };
+const all = await getAllArticles();
+const path = `/${article.category}/${article.slug}`;
+const catLabel = categoryLabel(article.category);
+const tom = visualDe(article.category);
+const CatIcon = sectionIconByHref(`/${article.category}`);
+
+const related = findRelated(article, all, 6);
+const clean = cleanArticleHtml(article.content);
+const plain = htmlToText(clean);
+const wordCount = plain.split(/\s+/).filter(Boolean).length;
+const readingTime = Math.max(1, Math.ceil(wordCount / 200));
+const { html: htmlComIds, toc } = addHeadingIds(injectInlineLinks(clean, related));
+const contentHtml = tabelasResponsivas(htmlComIds);
+const faq = extractFaq(clean);
+const sources = extractSources(clean);
+
+const description = clampText(article.meta_description || article.excerpt || plain, 158);
+const published = isoDate(article.created_at);
+const modified = isoDate(article.updated_at) ?? published;
+const fmt = (d?: string) =>
+  d ? new Date(d).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'America/Sao_Paulo' }) : '';
+const wasUpdated = published && modified && modified.slice(0, 10) !== published.slice(0, 10);
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: catLabel, path: `/${article.category}` },
+  { name: article.title, path },
+];
+
+const relatedBottom = related.slice(2).concat(related.slice(0, 2)).slice(0, 6);
+
+const jsonLd: Record<string, unknown>[] = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl(path)}#article`,
+    headline: article.title.slice(0, 110),
+    description,
+    image: article.image_url
+      ? [article.image_credit ? { '@type': 'ImageObject', url: article.image_url, creditText: article.image_credit, license: 'https://creativecommons.org/publicdomain/mark/1.0/' } : article.image_url]
+      : [absUrl('/og-image.png')],
+    datePublished: published,
+    dateModified: modified,
+    inLanguage: 'pt-BR',
+    articleSection: catLabel,
+    wordCount,
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl(path) },
+    isPartOf: { '@id': 'https://catolicosorantes.com.br/#website' },
+    ...(sources.length ? { citation: sources.map((s) => s.href) } : {}),
+  },
+  breadcrumbSchema(crumbs),
+];
+if (faq.length >= 2) jsonLd.push(faqSchema(faq));
+const capa = article.image_url ? await imagemResponsiva(article.image_url, 960, true) : null;
+const capaSizes = '(min-width: 1024px) 736px, 100vw';
+---
+<BaseLayout
+  title={article.title}
+  description={description}
+  path={path}
+  ogType="article"
+  image={article.image_url}
+  imageAlt={article.image_alt || article.title}
+  publishedTime={published}
+  modifiedTime={modified}
+  section={catLabel}
+  jsonLd={jsonLd}
+  preloadImage={capa?.src ?? article.image_url}
+  preloadSrcset={capa?.srcset}
+  preloadSizes={capaSizes}
+  hidePrayerCTA
+>
+  <div class="fixed left-0 top-0 z-[60] h-[3px] w-full origin-left scale-x-0 bg-co-warm-terracotta" data-progresso aria-hidden="true"></div>
+  <main id="conteudo" data-artigo={`${article.category}/${article.slug}`}>
+    <header class="relative overflow-hidden border-b border-co-warm-sand-dark" style={`background:${tom.fundo}`}>
+      <span class="pointer-events-none absolute -right-10 -top-8 hidden opacity-[0.07] md:block" style={`color:${tom.tinta}`} aria-hidden="true"><CatIcon className="h-72 w-72" strokeWidth={1.1} /></span>
+      <div class="container relative mx-auto max-w-6xl px-4 pb-8 pt-6 md:pb-12 md:pt-8">
+        <Breadcrumbs crumbs={crumbs.slice(0, 2)} class="mb-5" />
+        <div class="max-w-[46rem]">
+          <a href={`/${article.category}`} class="inline-flex items-center gap-2 rounded-full bg-white/70 px-3 py-1 text-sm font-semibold hover:bg-white" style={`color:${tom.tinta}`}>
+            <CatIcon className="h-4 w-4" strokeWidth={1.8} aria-hidden="true" />{catLabel}
+          </a>
+          <h1 class="mt-4 font-display text-3xl font-semibold leading-tight md:text-[2.75rem] md:leading-[1.15]">{article.title}</h1>
+          {article.excerpt && <p class="mt-4 text-lg leading-relaxed text-co-warm-brown/85 md:text-xl">{article.excerpt}</p>}
+          <div class="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-co-warm-brown/80">
+            {published && <time datetime={published}>{fmt(published)}</time>}
+            {wasUpdated && <span>Atualizado em <time datetime={modified}>{fmt(modified)}</time></span>}
+            <span>{readingTime} min de leitura</span>
+            <span class="ml-auto inline-flex items-center gap-1" role="group" aria-label="Tamanho do texto">
+              <button type="button" data-fonte="-1" class="h-10 w-10 rounded-md border border-co-warm-brown/20 bg-white/70 text-[15px] font-bold text-co-warm-brown hover:bg-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta" aria-label="Diminuir o texto">A−</button>
+              <button type="button" data-fonte="1" class="h-10 w-10 rounded-md border border-co-warm-brown/20 bg-white/70 text-[19px] font-bold text-co-warm-brown hover:bg-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta" aria-label="Aumentar o texto">A+</button>
+            </span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="container mx-auto grid max-w-6xl gap-10 px-4 pt-8 md:pt-10 lg:grid-cols-[minmax(0,46rem)_minmax(0,1fr)] lg:gap-14">
+      <article class="min-w-0">
+        {article.image_url && (
+          <figure class="mb-10">
+            <img
+              src={capa?.src ?? article.image_url}
+              srcset={capa?.srcset}
+              sizes={capa?.srcset ? capaSizes : undefined}
+              alt={article.image_alt || article.title}
+              width="1200"
+              height="675"
+              class:list={['aspect-[16/9] w-full rounded-lg', article.image_credit ? 'bg-[#2B2626] object-contain' : 'object-cover']}
+              loading="eager"
+              fetchpriority="high"
+              decoding="async"
+            />
+            {article.image_credit && <figcaption class="mt-2 text-[13px] leading-snug text-co-warm-brown/75">{article.image_credit}</figcaption>}
+          </figure>
+        )}
+
+        {toc.length >= 3 && (
+          <nav aria-label="Nesta página" class="mb-10 rounded-lg border border-co-warm-sand-dark bg-white p-5 lg:hidden">
+            <p class="mb-2 text-sm font-semibold text-co-warm-brown/80">Nesta página</p>
+            <ol class="space-y-1.5 text-[15px]">
+              {toc.map((t) => (
+                <li><a href={`#${t.id}`} class="text-co-warm-brown/85 underline-offset-4 hover:text-co-warm-terracotta hover:underline">{t.text}</a></li>
+              ))}
+            </ol>
+          </nav>
+        )}
+
+        <div class="article-prose" data-prose set:html={contentHtml} />
+      </article>
+
+      {toc.length >= 3 && (
+        <aside class="hidden lg:block">
+          <nav aria-label="Nesta página (lateral)" class="sticky top-24 rounded-lg border border-co-warm-sand-dark bg-white p-5" data-toc>
+            <p class="mb-3 text-sm font-semibold text-co-warm-brown/80">Nesta página</p>
+            <ol class="space-y-0.5 text-[15px]">
+              {toc.map((t) => (
+                <li><a href={`#${t.id}`} data-toc-link={t.id} class="block rounded-md px-3 py-1.5 leading-snug text-co-warm-brown/80 transition-colors hover:bg-co-warm-cream hover:text-co-warm-terracotta aria-[current=true]:bg-co-warm-cream aria-[current=true]:font-semibold aria-[current=true]:text-co-warm-terracotta">{t.text}</a></li>
+              ))}
+            </ol>
+          </nav>
+        </aside>
+      )}
+    </div>
+
+    <div class="container mx-auto max-w-6xl px-4">
+      <div class="max-w-[46rem]">
+        <hr class="my-12 border-co-warm-sand-dark" />
+
+        {relatedBottom.length > 0 && (
+          <section class="mb-12" aria-labelledby="relacionados">
+            <h2 id="relacionados" class="mb-5 font-display text-2xl font-semibold text-co-warm-brown md:text-3xl">Leia também</h2>
+            <ul class="gs gs-sm2 gap-4">
+              {relatedBottom.map((r) => (
+                <li>
+                  <a href={`/${r.category}/${r.slug}`} class="group flex h-full gap-4 rounded-lg border border-co-warm-sand-dark bg-white p-3 transition-colors hover:border-co-warm-brown/35">
+                    <CapaArtigo category={r.category} image_url={r.image_url} variant="thumb" class="h-[72px] w-24 shrink-0 rounded-md" />
+                    <span class="min-w-0">
+                      <span class="text-[13px] text-co-warm-brown/75">{categoryLabel(r.category)}</span>
+                      <span class="mt-0.5 block font-display text-[16px] font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta">{r.title}</span>
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <section class="mb-12 rounded-lg bg-co-warm-cream p-6 md:p-8" aria-labelledby="precisa-oracao">
+          <div class="flex items-start gap-4">
+            <Heart className="mt-1 h-6 w-6 shrink-0 text-co-warm-terracotta" aria-hidden="true" />
+            <div>
+              <h2 id="precisa-oracao" class="font-display text-xl font-semibold text-co-warm-brown">Precisa de oração?</h2>
+              <p class="mt-1 text-[15px] text-co-warm-brown/80">Envie sua intenção. Rezamos por ela todos os dias.</p>
+              <PrayerButton class="btn btn-primario mt-4 w-full sm:w-auto">
+                Fazer pedido de oração
+              </PrayerButton>
+            </div>
+          </div>
+        </section>
+
+        <nav class="mb-16 flex flex-wrap gap-x-6 gap-y-2 text-[15px]" aria-label="Continuar navegando">
+          <a href={`/${article.category}`} class="font-medium text-co-warm-terracotta underline-offset-4 hover:underline">Mais em {catLabel}</a>
+          <a href="/#secoes" class="text-co-warm-brown/75 underline-offset-4 hover:text-co-warm-terracotta hover:underline">Todas as seções</a>
+        </nav>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<script>
+  // Barra de leitura, tamanho do texto, sumário ativo e "já li"
+  import { gravar, ler } from '@/lib/progresso';
+  const main = document.querySelector<HTMLElement>('[data-artigo]');
+  const prose = document.querySelector<HTMLElement>('[data-prose]');
+  const barra = document.querySelector<HTMLElement>('[data-progresso]');
+  const reduz = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  let marcado = false;
+  const marcarLido = () => {
+    if (marcado || !main) return;
+    marcado = true;
+    const k = main.dataset.artigo!;
+    const lista = ler<string[]>('co-lidos-v1', []);
+    if (Array.isArray(lista) && !lista.includes(k)) gravar('co-lidos-v1', [...lista, k].slice(-2000));
+  };
+
+  // Mede no máximo uma vez por quadro e nunca durante o carregamento (evita "reflow forçado")
+  let agendado = false;
+  const medir = () => {
+    agendado = false;
+    if (!prose) return;
+    const r = prose.getBoundingClientRect();
+    const total = r.height - window.innerHeight * 0.6;
+    const p = Math.min(1, Math.max(0, -r.top / Math.max(1, total)));
+    if (barra) barra.style.transform = `scaleX(${p})`;
+    if (p > 0.6) marcarLido();
+  };
+  const onScroll = () => {
+    if (agendado) return;
+    agendado = true;
+    requestAnimationFrame(medir);
+  };
+  window.addEventListener('scroll', onScroll, { passive: true });
+  if (!reduz && barra) barra.style.transition = 'transform 80ms linear';
+
+  // Tamanho do texto (fica salvo para os próximos artigos)
+  const ESCALAS = [0.9, 1, 1.1, 1.2, 1.3];
+  let nivel = 1;
+  try {
+    nivel = Math.min(4, Math.max(0, Number(localStorage.getItem('co-fonte') ?? 1)));
+  } catch {
+    nivel = 1;
+  }
+  const aplicar = () => prose?.style.setProperty('--prose-escala', String(ESCALAS[nivel]));
+  aplicar();
+  document.querySelectorAll<HTMLButtonElement>('[data-fonte]').forEach((b) =>
+    b.addEventListener('click', () => {
+      nivel = Math.min(4, Math.max(0, nivel + Number(b.dataset.fonte)));
+      aplicar();
+      try {
+        localStorage.setItem('co-fonte', String(nivel));
+      } catch {
+        /* nada */
+      }
+    }),
+  );
+
+  // Sumário lateral: destaca a seção que está na tela
+  const links = Array.from(document.querySelectorAll<HTMLAnchorElement>('[data-toc-link]'));
+  if (links.length && 'IntersectionObserver' in window) {
+    const alvos = links.map((a) => document.getElementById(a.dataset.tocLink!)).filter(Boolean) as HTMLElement[];
+    const io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((e) => {
+          if (!e.isIntersecting) return;
+          links.forEach((a) => a.setAttribute('aria-current', String(a.dataset.tocLink === e.target.id)));
+        });
+      },
+      { rootMargin: '-20% 0px -70% 0px' },
+    );
+    alvos.forEach((t) => io.observe(t));
+  }
+</script>

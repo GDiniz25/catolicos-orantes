@@ -1,0 +1,81 @@
+---
+import { Search } from 'lucide-react';
+import ArticleCard from '@/components/astro/ArticleCard.astro';
+import type { Article } from '@/types/content';
+interface Props {
+  articles: Article[];
+}
+const { articles } = Astro.props;
+---
+{articles.length > 0 ? (
+  <div class="space-y-5" data-article-list>
+    <div class="relative">
+      <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-co-warm-brown/40" aria-hidden="true" />
+      <label class="sr-only" for="filtro-artigos">Buscar artigo nesta categoria</label>
+      <input
+        id="filtro-artigos"
+        type="search"
+        placeholder="Filtrar artigos desta seção"
+        data-article-filter
+        class="flex h-11 w-full rounded-md border border-co-warm-sand-dark bg-white px-3 py-2 pl-10 text-[15px] placeholder:text-co-warm-brown/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta"
+      />
+    </div>
+    <ul class="divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+      {articles.map((a) => <ArticleCard article={a} />)}
+    </ul>
+    <p class="py-6 text-center text-co-warm-brown/75" hidden data-article-empty>Nenhum artigo encontrado.</p>
+  </div>
+) : (
+  <div class="rounded-md border border-dashed border-co-warm-sand-dark p-8 text-center">
+    <p class="text-co-warm-brown/80">Os primeiros artigos desta seção estão sendo preparados.</p>
+  </div>
+)}
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-article-list]').forEach((list) => {
+    const input = list.querySelector<HTMLInputElement>('[data-article-filter]');
+    const items = Array.from(list.querySelectorAll<HTMLElement>('[data-article-item]'));
+    const empty = list.querySelector<HTMLElement>('[data-article-empty]');
+    const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    const haystack = items.map((el) => norm(el.dataset.search || ''));
+    input?.addEventListener('input', () => {
+      const q = norm(input.value.trim());
+      let visible = 0;
+      items.forEach((el, i) => {
+        const show = !q || haystack[i].includes(q);
+        el.hidden = !show;
+        if (show) visible++;
+      });
+      if (empty) empty.hidden = visible > 0;
+    });
+
+    // Artigos já lidos (neste aparelho ou na conta). Refaz quando chegam dados da nuvem.
+    const marcarLidos = () => {
+      let lidos: string[] = [];
+      try {
+        lidos = JSON.parse(localStorage.getItem('co-lidos-v1') || '[]');
+      } catch {
+        lidos = [];
+      }
+      const set = new Set(lidos);
+      let n = 0;
+      items.forEach((el) => {
+        if (set.has(el.dataset.key || '')) {
+          n++;
+          const b = el.querySelector<HTMLElement>('[data-lido]');
+          if (b) b.hidden = false;
+        }
+      });
+      const resumo = document.querySelector<HTMLElement>('[data-lidos-resumo]');
+      if (resumo && n > 0) {
+        const pct = Math.round((n / items.length) * 100);
+        const anel = resumo.querySelector<HTMLElement>('[data-anel]');
+        if (anel) anel.style.background = `conic-gradient(#36613F ${pct * 3.6}deg, rgba(62,56,56,.15) 0)`;
+        resumo.querySelector('[data-lidos-n]')!.textContent = String(n);
+        resumo.hidden = false;
+      }
+    };
+    marcarLidos();
+    addEventListener('co:progresso', marcarLidos);
+  });
+</script>

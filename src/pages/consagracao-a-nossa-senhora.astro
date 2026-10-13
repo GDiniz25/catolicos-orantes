@@ -1,0 +1,35 @@
+---
+import { Heart } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ContaProgresso from '@/components/islands/ContaProgresso';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import Consagracao33 from '@/components/islands/Consagracao33';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Consagração a Nossa Senhora', path: '/consagracao-a-nossa-senhora' }];
+const FAQ = [
+  { q: 'O que é a consagração total a Jesus por Maria?', a: 'É a entrega de si mesmo a Jesus Cristo pelas mãos de Maria, ensinada por São Luís Maria Grignion de Montfort no Tratado da Verdadeira Devoção. É uma renovação consciente das promessas do Batismo.' },
+  { q: 'Por que a preparação dura 33 dias?', a: 'São Luís de Montfort propõe doze dias para se esvaziar do espírito do mundo e três semanas para o conhecimento de si mesmo, de Maria e de Jesus Cristo. A conta mais difundida soma 33 dias, terminando numa festa mariana.' },
+  { q: 'Preciso de um padre para me consagrar?', a: 'Não. A consagração é um ato pessoal. É recomendado confessar-se e comungar no dia, e muitos pedem a bênção de um sacerdote.' },
+  { q: 'Se eu perder um dia, preciso recomeçar?', a: 'Não. Retome no dia seguinte, sem escrúpulo. O que importa é a sinceridade da entrega.' },
+];
+---
+<BaseLayout
+  title="Consagração a Nossa Senhora: preparação de 33 dias"
+  description="Prepare-se para a consagração total a Jesus por Maria, segundo São Luís de Montfort: 33 dias com tema, leitura, meditação, propósito e marcação do progresso."
+  path="/consagracao-a-nossa-senhora"
+  keywords="consagração a nossa senhora, consagração 33 dias, consagração total montfort, preparação para consagração a maria"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/consagracao-a-nossa-senhora')}#webpage`, url: absUrl('/consagracao-a-nossa-senhora'), name: 'Consagração a Nossa Senhora em 33 dias', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Consagração a Nossa Senhora" subtitle="Preparação de 33 dias para a consagração total a Jesus por Maria, segundo São Luís Maria Grignion de Montfort." icon={Heart} crumbs={crumbs} tom={CATEGORY_VISUAL['devocoes-marianas']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-12 px-4">
+      <Consagracao33 client:load />
+      <div class="mx-auto mt-8 max-w-2xl"><ContaProgresso client:idle origem="consagracao" texto="Entre com seu e-mail para guardar os dias rezados e seguir a preparação em qualquer aparelho. Sem senha: enviamos um link de acesso." /></div>
+      <p class="text-[15px]">Para conhecer a história e o sentido da consagração, leia <a href="/devocoes-marianas/a-consagracao-a-nossa-senhora-segundo-sao-luis-de-montfort" class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">a consagração segundo São Luís de Montfort</a>.</p>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>

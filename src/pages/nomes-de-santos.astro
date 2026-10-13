@@ -1,0 +1,86 @@
+---
+import { Baby } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { estiloLetras } from '@/lib/simetria';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import nomes from '@/data/conteudo/nomes.json';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema, itemListSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Nomes de santos', path: '/nomes-de-santos' }];
+const letras = [...new Set(nomes.map((n) => n.nome[0].toUpperCase()))];
+const FAQ = [
+  { q: 'A Igreja exige nome de santo no Batismo?', a: 'Não exige, mas recomenda um nome cristão. O Código de Direito Canônico pede que não se dê um nome alheio ao sentido cristão (cân. 855), e o Catecismo lembra que o santo do nome oferece um modelo de vida e garante sua intercessão (n. 2156).' },
+  { q: 'Como escolher o santo padroeiro do meu filho?', a: 'O mais comum é escolher o santo do nome do Batismo. Quando um nome tem vários santos, a família pode escolher aquele cuja vida mais inspira e celebrar sua festa como o "dia do santo" da criança.' },
+  { q: 'O que é o dia do santo?', a: 'É a festa do santo de quem a pessoa recebeu o nome. Em muitas famílias católicas, é celebrado como um segundo aniversário, com Missa e oração.' },
+];
+---
+<BaseLayout
+  title="Nomes de santos para bebê: significado e dia do santo"
+  description="80 nomes cristãos masculinos e femininos com significado, origem, o santo de cada nome e a data da festa. Ideias de nomes católicos para o Batismo."
+  path="/nomes-de-santos"
+  keywords="nomes de santos, nomes católicos para bebê, nomes cristãos, significado do nome, dia do santo, nome de batismo"
+  jsonLd={[{ '@type': 'CollectionPage', '@id': `${absUrl('/nomes-de-santos')}#webpage`, url: absUrl('/nomes-de-santos'), name: 'Nomes de santos', inLanguage: 'pt-BR', mainEntity: itemListSchema(nomes.map((n) => ({ name: n.nome, path: `/nomes-de-santos/${n.slug}` }))) }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Nomes de santos" subtitle="Significado, origem e o santo de cada nome, com a data da festa. Para escolher o nome do Batismo ou conhecer o seu." icon={Baby} crumbs={crumbs} tom={CATEGORY_VISUAL['santos-e-oracoes']} />
+  <main id="conteudo" class="py-8 md:py-12" data-nomes>
+    <div class="container mx-auto max-w-5xl space-y-8 px-4">
+      <div class="grid gap-3 md:grid-cols-[minmax(0,1fr)_auto]">
+        <label class="sr-only" for="busca-nome">Buscar nome</label>
+        <input id="busca-nome" type="search" placeholder="Buscar um nome" data-busca class="h-12 w-full min-w-0 rounded-md border border-co-warm-sand-dark bg-white px-4 text-[16px]" />
+        <div class="grid grid-cols-3 gap-2" role="group" aria-label="Filtrar por gênero">
+          {[['todos', 'Todos'], ['f', 'Femininos'], ['m', 'Masculinos']].map(([v, t], i) => (
+            <button type="button" data-genero={v} aria-pressed={i === 0 ? 'true' : 'false'} class="chip h-12 w-full px-2 md:px-4">{t}</button>
+          ))}
+        </div>
+      </div>
+      <nav aria-label="Letras" class="letras" style={estiloLetras(letras.length, 20)}>
+        {letras.map((l) => <a href={`#letra-${l}`} class="flex h-10 w-10 items-center justify-center rounded-md border border-co-warm-sand-dark bg-white font-semibold hover:border-co-warm-brown/40">{l}</a>)}
+      </nav>
+      {letras.map((l) => (
+        <section id={`letra-${l}`} class="scroll-mt-24" data-grupo>
+          <h2 class="mb-3 font-display text-2xl font-semibold">{l}</h2>
+          <ul class="gs gs-sm2 gs-lg3 gap-3">
+            {nomes.filter((n) => n.nome[0].toUpperCase() === l).map((n) => (
+              <li data-item data-g={n.genero} data-t={n.nome.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')}>
+                <a href={`/nomes-de-santos/${n.slug}`} class="flex h-full flex-col rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35">
+                  <span class="font-display text-xl font-semibold">{n.nome}</span>
+                  <span class="mt-0.5 text-sm text-co-warm-brown/75">{n.significado ? `“${n.significado}”` : `Origem ${n.origem}`}</span>
+                  <span class="mt-2 text-[14px] text-[#7A5820]">{n.santos[0]?.nome}{n.santos[0]?.festa ? `, ${n.santos[0].festa}` : ''}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+      <p hidden data-vazio class="text-co-warm-brown/80">Nenhum nome encontrado. Tente outra grafia.</p>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>
+
+<script>
+  const root = document.querySelector<HTMLElement>('[data-nomes]');
+  if (root) {
+    const busca = root.querySelector<HTMLInputElement>('[data-busca]')!;
+    const itens = Array.from(root.querySelectorAll<HTMLElement>('[data-item]'));
+    const grupos = Array.from(root.querySelectorAll<HTMLElement>('[data-grupo]'));
+    const botoes = Array.from(root.querySelectorAll<HTMLButtonElement>('[data-genero]'));
+    let genero = 'todos';
+    const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    const aplicar = () => {
+      const q = norm(busca.value.trim());
+      let n = 0;
+      itens.forEach((el) => {
+        const ok = (genero === 'todos' || el.dataset.g === genero) && (!q || el.dataset.t!.includes(q));
+        el.hidden = !ok;
+        if (ok) n++;
+      });
+      grupos.forEach((g) => (g.hidden = !g.querySelector('[data-item]:not([hidden])')));
+      root.querySelector<HTMLElement>('[data-vazio]')!.hidden = n > 0;
+    };
+    busca.addEventListener('input', aplicar);
+    botoes.forEach((b) => b.addEventListener('click', () => { genero = b.dataset.genero!; botoes.forEach((x) => x.setAttribute('aria-pressed', String(x === b))); aplicar(); }));
+  }
+</script>

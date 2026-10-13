@@ -1,0 +1,36 @@
+---
+/**
+ * Coluna lateral das páginas de categoria: as outras seções e as páginas diárias.
+ * Ajuda o leitor a se localizar e cria links internos entre todas as categorias.
+ */
+import TemasGrid from '@/components/astro/TemasGrid.astro';
+interface Props {
+  current?: string;
+  counts?: Record<string, number>;
+}
+const { current, counts = {} } = Astro.props;
+const daily = [
+  { label: 'Liturgia diária', href: '/liturgia-diaria', desc: 'Leituras e evangelho de hoje' },
+  { label: 'Santo do dia', href: '/santo-do-dia', desc: 'Quem a Igreja celebra hoje' },
+  { label: 'Versículo do dia', href: '/versiculo-do-dia', desc: 'Palavra e reflexão breve' },
+];
+---
+<aside class="space-y-10 lg:border-l lg:border-co-warm-sand-dark lg:pl-8" aria-label="Navegação da seção">
+  <nav aria-labelledby="aside-hoje">
+    <h2 id="aside-hoje" class="mb-3 font-sans text-sm font-semibold text-co-warm-brown/80">Hoje</h2>
+    <ul class="space-y-3">
+      {daily.map((d) => (
+        <li>
+          <a href={d.href} class="group block">
+            <span class="font-medium text-co-warm-brown underline-offset-4 group-hover:text-co-warm-terracotta group-hover:underline">{d.label}</span>
+            <span class="block text-sm text-co-warm-brown/75">{d.desc}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+  <nav aria-labelledby="aside-secoes">
+    <h2 id="aside-secoes" class="mb-3 font-sans text-sm font-semibold text-co-warm-brown/80">Todas as seções</h2>
+    <TemasGrid counts={counts} exceto={current} compacto />
+  </nav>
+</aside>

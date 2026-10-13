@@ -1,0 +1,26 @@
+---
+import { FileText } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import TermosContent from '@/components/content/TermosContent';
+import { breadcrumbSchema } from '@/lib/seo';
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Termos de Uso', path: '/termos-de-uso' },
+];
+---
+<BaseLayout
+  title="Termos de Uso"
+  description="Termos de uso do site Católicos Orantes. Leia as condições de utilização dos nossos serviços e conteúdos."
+  path="/termos-de-uso"
+  jsonLd={[breadcrumbSchema(crumbs)]}
+  hidePrayerCTA
+>
+  <PageHeader title="Termos de Uso" icon={FileText} crumbs={crumbs} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <TermosContent />
+    </div>
+  </main>
+</BaseLayout>

@@ -1,0 +1,64 @@
+---
+import { Shield } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import padroeiros from '@/data/conteudo/padroeiros.json';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema, itemListSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Santos padroeiros', path: '/padroeiros' }];
+const grupos = [
+  { id: 'profissao', nome: 'Por profissão' },
+  { id: 'causa', nome: 'Por causa e necessidade' },
+  { id: 'lugar', nome: 'De lugares e da Igreja' },
+];
+const FAQ = [
+  { q: 'O que é um santo padroeiro?', a: 'É um santo que a Igreja ou a devoção do povo reconhece como protetor de uma profissão, de uma causa, de um lugar ou de um grupo de pessoas, e a quem se pede intercessão.' },
+  { q: 'Quem escolhe os padroeiros?', a: 'Alguns padroados foram declarados oficialmente pelo Papa; outros nasceram da tradição e da devoção popular ao longo dos séculos. Cada página indica o que se sabe.' },
+  { q: 'Rezar ao padroeiro substitui rezar a Deus?', a: 'Não. Os santos intercedem por nós junto a Deus. Toda oração aos santos é, no fundo, um pedido para que rezem conosco e por nós a Deus.' },
+];
+---
+<BaseLayout
+  title="Santos padroeiros: profissões, causas e lugares"
+  description="Quem é o padroeiro dos médicos, dos professores, dos estudantes, das causas impossíveis e do Brasil. 50 padroeiros com história, festa e como pedir intercessão."
+  path="/padroeiros"
+  keywords="santo padroeiro, padroeiro dos médicos, padroeiro dos professores, padroeiro dos estudantes, santo protetor, padroeiro das causas impossíveis"
+  jsonLd={[{ '@type': 'CollectionPage', '@id': `${absUrl('/padroeiros')}#webpage`, url: absUrl('/padroeiros'), name: 'Santos padroeiros', inLanguage: 'pt-BR', mainEntity: itemListSchema(padroeiros.map((p) => ({ name: p.titulo, path: `/padroeiros/${p.slug}` }))) }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Santos padroeiros" subtitle="Encontre o santo protetor de cada profissão, causa e lugar, com a história e a festa de cada um." icon={Shield} crumbs={crumbs} tom={CATEGORY_VISUAL['santos-e-oracoes']}>
+    <div class="mt-6 max-w-xl"><label for="busca-padroeiro" class="sr-only">Buscar padroeiro</label><input id="busca-padroeiro" type="search" data-busca placeholder="Buscar: médicos, estudantes, viagem..." class="h-12 w-full rounded-md border border-co-warm-sand-dark bg-white px-4 text-[16px]" /></div>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12" data-padroeiros>
+    <div class="container mx-auto max-w-5xl space-y-12 px-4">
+      {grupos.map((g) => (
+        <section aria-labelledby={`g-${g.id}`} data-grupo>
+          <h2 id={`g-${g.id}`} class="mb-4 font-display text-2xl font-semibold md:text-3xl">{g.nome}</h2>
+          <ul class="gs gs-sm2 gs-lg3 gap-3">
+            {padroeiros.filter((p) => p.grupo === g.id).map((p) => (
+              <li data-item data-t={`${p.titulo} ${p.santos.map((s) => s.nome).join(' ')}`.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')}>
+                <a href={`/padroeiros/${p.slug}`} class="flex h-full flex-col rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35">
+                  <span class="font-display text-lg font-semibold leading-snug">{p.titulo}</span>
+                  <span class="mt-1 text-[14px] text-[#7A5820]">{p.santos.map((s) => s.nome).join(', ')}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+      <p hidden data-vazio class="text-co-warm-brown/80">Nada encontrado. Tente outra palavra.</p>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>
+<script>
+  const busca = document.querySelector<HTMLInputElement>('[data-busca]');
+  const root = document.querySelector<HTMLElement>('[data-padroeiros]');
+  busca?.addEventListener('input', () => {
+    const q = busca.value.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').trim();
+    let n = 0;
+    root!.querySelectorAll<HTMLElement>('[data-item]').forEach((el) => { const ok = !q || el.dataset.t!.includes(q); el.hidden = !ok; if (ok) n++; });
+    root!.querySelectorAll<HTMLElement>('[data-grupo]').forEach((g) => (g.hidden = !g.querySelector('[data-item]:not([hidden])')));
+    root!.querySelector<HTMLElement>('[data-vazio]')!.hidden = n > 0;
+  });
+</script>

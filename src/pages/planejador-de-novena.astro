@@ -1,0 +1,40 @@
+---
+import { CalendarClock } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ContaProgresso from '@/components/islands/ContaProgresso';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import NovenaPlanner from '@/components/islands/NovenaPlanner';
+import { NOVENAS } from '@/data/novenasPlanner';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Planejador de novena', path: '/planejador-de-novena' }];
+const FAQ = [
+  { q: 'Quando começar uma novena?', a: 'Para terminar na véspera da festa, a novena começa 9 dias antes dela. A novena de Natal, por exemplo, vai de 16 a 24 de dezembro, e a de Nossa Senhora Aparecida de 3 a 11 de outubro.' },
+  { q: 'Posso rezar uma novena fora da data da festa?', a: 'Sim. A novena pode ser rezada em qualquer tempo, por uma intenção. A data da festa é apenas o costume mais tradicional.' },
+  { q: 'E se eu esquecer um dia da novena?', a: 'Retome no dia seguinte, sem angústia. Muitas pessoas rezam o dia esquecido junto com o seguinte. O que importa é a perseverança e a confiança.' },
+];
+---
+<BaseLayout
+  title="Planejador de novena: quando começar e lembretes"
+  description="Descubra quando começar cada novena para terminar na festa, marque os 9 dias rezados e receba lembretes no calendário do celular."
+  path="/planejador-de-novena"
+  keywords="quando começar a novena, novena de natal quando começa, novena de nossa senhora aparecida data, lembrete de novena"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/planejador-de-novena')}#webpage`, url: absUrl('/planejador-de-novena'), name: 'Planejador de novena', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Planejador de novena" subtitle="Escolha a novena, veja quando começar para terminar na festa, receba lembretes e marque os dias rezados." icon={CalendarClock} crumbs={crumbs} tom={CATEGORY_VISUAL['novenas']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-4xl space-y-12 px-4">
+      <NovenaPlanner client:load />
+      <div class="mx-auto mt-8 max-w-2xl"><ContaProgresso client:idle origem="novena" texto="Entre com seu e-mail para guardar os dias rezados da novena em qualquer aparelho. Sem senha: enviamos um link de acesso." /></div>
+      <section aria-labelledby="todas-novenas">
+        <h2 id="todas-novenas" class="mb-4 font-display text-2xl font-semibold">Todas as novenas</h2>
+        <ul class="gs gs-sm2 gap-3">
+          {NOVENAS.map((n) => <li><a href={n.artigo} class="block rounded-xl border border-co-warm-sand-dark bg-white p-4 font-semibold hover:border-co-warm-brown/35">{n.nome}</a></li>)}
+        </ul>
+      </section>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>

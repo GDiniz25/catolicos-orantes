@@ -1,0 +1,22 @@
+---
+import { ChevronRight } from 'lucide-react';
+interface Props {
+  title: string;
+  items: { q: string; a: string }[];
+}
+const { title, items } = Astro.props;
+---
+<section aria-labelledby="faq-title">
+  <h2 id="faq-title" class="mb-4 font-display text-2xl font-semibold text-co-warm-brown">{title}</h2>
+  <div class="divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+    {items.map((item) => (
+      <details class="faq-item">
+        <summary class="flex w-full items-center justify-between gap-4 py-4 text-left">
+          <h3 class="font-sans text-[17px] font-medium text-co-warm-brown">{item.q}</h3>
+          <ChevronRight className="faq-chevron h-4 w-4 shrink-0 text-co-warm-brown/75 transition-transform" aria-hidden="true" />
+        </summary>
+        <div class="max-w-2xl pb-5 text-[15px] leading-relaxed text-co-warm-brown/80">{item.a}</div>
+      </details>
+    ))}
+  </div>
+</section>

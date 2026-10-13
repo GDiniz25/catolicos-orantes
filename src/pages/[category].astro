@@ -1,0 +1,84 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import ArticleList from '@/components/astro/ArticleList.astro';
+import Faq from '@/components/astro/Faq.astro';
+import CategoryAside from '@/components/astro/CategoryAside.astro';
+import { CATEGORIES, type CategoryConfig } from '@/config/site';
+import { CATEGORY_CONTENT } from '@/config/categoryContent';
+import { sectionIconByHref } from '@/data/sections';
+import { getArticlesByCategory, getAllArticles } from '@/lib/data';
+import { visualDe } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema, itemListSchema, publisherRef } from '@/lib/seo';
+
+export async function getStaticPaths() {
+  // Exame de Consciência tem página própria (src/pages/exame-de-consciencia.astro)
+  return CATEGORIES.filter((c) => c.slug !== 'exame-de-consciencia').map((c) => ({
+    params: { category: c.slug },
+    props: { cat: c },
+  }));
+}
+
+const { cat } = Astro.props as { cat: CategoryConfig };
+const path = `/${cat.slug}`;
+const articles = await getArticlesByCategory(cat.slug);
+const content = CATEGORY_CONTENT[cat.slug];
+const Icon = sectionIconByHref(path);
+const tom = visualDe(cat.slug);
+const counts: Record<string, number> = {};
+for (const a of await getAllArticles()) counts[a.category] = (counts[a.category] ?? 0) + 1;
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: cat.title, path },
+];
+
+const jsonLd = [
+  {
+    '@type': 'CollectionPage',
+    '@id': `${absUrl(path)}#webpage`,
+    url: absUrl(path),
+    name: cat.title,
+    description: content?.lead || cat.description,
+    inLanguage: 'pt-BR',
+    isPartOf: { '@id': 'https://catolicosorantes.com.br/#website' },
+    publisher: publisherRef,
+    mainEntity: itemListSchema(articles.map((a) => ({ name: a.title, path: `/${a.category}/${a.slug}` }))),
+  },
+  breadcrumbSchema(crumbs),
+  ...(content?.faq?.length ? [faqSchema(content.faq)] : []),
+];
+---
+<BaseLayout title={cat.title} description={cat.description} path={path} keywords={cat.keywords} jsonLd={jsonLd}>
+  <PageHeader title={cat.title} subtitle={content?.lead || cat.subtitle} icon={Icon} crumbs={crumbs} tom={tom}>
+    <div class="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3 text-[15px]">
+      <span class="font-semibold" style={`color:${tom.tinta}`}>{articles.length} {articles.length === 1 ? 'guia' : 'guias'} nesta seção</span>
+      <span class="inline-flex items-center gap-3" hidden data-lidos-resumo>
+        <span class="relative h-9 w-9 rounded-full" data-anel aria-hidden="true"><span class="absolute inset-[5px] rounded-full" style={`background:${tom.fundo}`}></span></span>
+        <span>Você já leu <strong data-lidos-n>0</strong> de {articles.length}</span>
+      </span>
+    </div>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <div class="grid gap-12 lg:grid-cols-[minmax(0,1fr)_280px] lg:gap-16">
+        <div class="min-w-0 space-y-12">
+          {content?.intro && (
+            <section class="intro-prose max-w-2xl text-[17px] text-co-warm-brown/90" set:html={content.intro} />
+          )}
+
+          <section aria-labelledby="lista-artigos">
+            <div class="mb-4 flex items-baseline justify-between gap-4">
+              <h2 id="lista-artigos" class="font-display text-2xl font-semibold">Artigos</h2>
+              <span class="text-sm text-co-warm-brown/75">{articles.length} {articles.length === 1 ? 'texto' : 'textos'}</span>
+            </div>
+            <ArticleList articles={articles} />
+          </section>
+
+          {content?.faq?.length > 0 && <Faq title="Perguntas frequentes" items={content.faq} />}
+        </div>
+
+        <CategoryAside current={cat.slug} counts={counts} />
+      </div>
+    </div>
+  </main>
+</BaseLayout>

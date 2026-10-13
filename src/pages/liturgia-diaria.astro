@@ -1,0 +1,100 @@
+---
+import { BookOpen } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import LiturgiaViewer, { type LiturgiaView } from '@/components/islands/LiturgiaViewer';
+import { getLiturgia, getLiturgiaJanela } from '@/lib/data';
+import { sanitizeLiturgyServer } from '@/lib/sanitize';
+import { extractLeituras, tidyLiturgyHtml } from '@/lib/liturgy';
+import { getTodayStr, formatDateFull, formatDateSimple, dataSlug } from '@/lib/dateUtils';
+import { CORES, corDaCnbb, infoDoDia, tomLiturgico } from '@/lib/anoLiturgico';
+import { absUrl, breadcrumbSchema, publisherRef } from '@/lib/seo';
+
+const today = getTodayStr();
+const formattedDate = formatDateFull(today);
+const raw = await getLiturgia(today);
+const janelaToda = await getLiturgiaJanela();
+const temPaginaHoje = janelaToda.some((j) => j.date === today);
+const janela = janelaToda.filter((j) => j.date !== today);
+const proximos = janela.filter((j) => j.date > today).slice(0, 7);
+const anteriores = janela.filter((j) => j.date < today).reverse().slice(0, 7);
+const initial: LiturgiaView | null = raw
+  ? { date: today, title: raw.title, bodyHtml: tidyLiturgyHtml(sanitizeLiturgyServer(raw.body)), leituras: extractLeituras(raw.leituras) }
+  : null;
+
+const tom = tomLiturgico(corDaCnbb(raw?.color) ?? infoDoDia(today).tempo.cor);
+const title = `Liturgia Diária de Hoje: ${formattedDate}`;
+const leiturasTxt = initial?.leituras.length ? ` ${initial.leituras.slice(0, 3).join('; ')}.` : '';
+const description = `Leituras da liturgia católica de ${formattedDate}: primeira leitura, salmo e evangelho (CNBB).${leiturasTxt}`.slice(0, 160);
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Liturgia Diária', path: '/liturgia-diaria' },
+];
+const jsonLd = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl('/liturgia-diaria')}#article`,
+    headline: title,
+    description,
+    datePublished: `${today}T00:00:00-03:00`,
+    dateModified: `${today}T00:00:00-03:00`,
+    inLanguage: 'pt-BR',
+    image: [absUrl('/og-image.png')],
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl('/liturgia-diaria') },
+    ...(initial ? { alternativeHeadline: initial.title } : {}),
+  },
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path="/liturgia-diaria"
+  keywords="liturgia diária, leituras do dia, evangelho de hoje, primeira leitura, salmo responsorial, liturgia católica, CNBB"
+  ogType="article"
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader title="Liturgia Diária" subtitle="Leituras e orações do dia segundo o calendário litúrgico." icon={BookOpen} crumbs={crumbs} tom={tom} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <LiturgiaViewer client:load buildDate={today} initial={initial} />
+
+      {temPaginaHoje && (
+        <p class="mx-auto mt-8 max-w-3xl text-[15px] text-co-warm-brown/80">
+          Página permanente desta liturgia:
+          <a href={`/liturgia-diaria/${dataSlug(today)}`} class="font-semibold text-co-warm-terracotta underline underline-offset-4 hover:no-underline">Liturgia diária de {formatDateSimple(today)}</a>
+        </p>
+      )}
+
+      {janela.length > 0 && (
+        <section class="mx-auto mt-14 max-w-3xl border-t border-co-warm-sand-dark pt-8" aria-labelledby="outros-dias">
+          <h2 id="outros-dias" class="font-display text-2xl font-semibold">Liturgia de outros dias</h2>
+          <div class="mt-5 grid gap-8 sm:grid-cols-2">
+            {[{ titulo: 'Próximos dias', lista: proximos }, { titulo: 'Dias anteriores', lista: anteriores }].map((g) => g.lista.length > 0 && (
+              <div>
+                <h3 class="mb-2 font-sans text-sm font-semibold text-co-warm-brown/80">{g.titulo}</h3>
+                <ul class="divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+                  {g.lista.map((j) => (
+                    <li>
+                      <a href={`/liturgia-diaria/${dataSlug(j.date)}`} class="group flex items-start gap-3 py-2.5">
+                        <span class="mt-1.5 h-3 w-3 shrink-0 rounded-full" style={`background:${CORES[corDaCnbb(j.liturgia.color) ?? infoDoDia(j.date).tempo.cor].forte}`} aria-hidden="true"></span>
+                        <span>
+                        <span class="block font-medium underline-offset-4 group-hover:text-co-warm-terracotta group-hover:underline">{formatDateFull(j.date).replace(/ de \d{4}$/, '')}</span>
+                        <span class="block text-sm text-co-warm-brown/75">{j.liturgia.title}</span>
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+    </div>
+  </main>
+</BaseLayout>

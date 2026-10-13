@@ -1,0 +1,25 @@
+---
+import type { Crumb } from '@/lib/seo';
+interface Props {
+  crumbs: Crumb[];
+  tone?: 'dark' | 'light';
+  class?: string;
+}
+const { crumbs, tone = 'dark', class: className = '' } = Astro.props;
+const base = tone === 'light' ? 'text-white/75' : 'text-co-warm-brown/75';
+const hover = tone === 'light' ? 'hover:text-white' : 'hover:text-co-warm-terracotta';
+---
+<nav aria-label="Trilha de navegação" class={className}>
+  <ol class:list={['flex flex-wrap items-center gap-2 text-sm', base]}>
+    {crumbs.map((c, i) => (
+      <li class="flex items-center gap-2">
+        {i > 0 && <span aria-hidden="true">/</span>}
+        {i < crumbs.length - 1 ? (
+          <a href={c.path} class:list={['transition-colors', hover]}>{c.name}</a>
+        ) : (
+          <span aria-current="page" class="line-clamp-1">{c.name}</span>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>

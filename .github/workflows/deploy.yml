@@ -1,0 +1,62 @@
+name: Build e deploy (Hostinger)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+  # Disparado pelo botão "Publicar alterações no site" do /admin e pela publicação agendada
+  repository_dispatch:
+    types: [rebuild]
+  schedule:
+    - cron: '5 3 * * *'   # 00:05 em Brasília: liturgia, santo e versículo do novo dia
+    - cron: '0 10 * * *'  # 07:00 em Brasília: reforço
+
+concurrency:
+  group: deploy-site
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Instalar dependências
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm install; fi
+
+      - name: Build (gera o site estático em dist/)
+        env:
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          VITE_SUPABASE_PUBLISHABLE_KEY: ${{ secrets.VITE_SUPABASE_PUBLISHABLE_KEY }}
+          # Só para o build gravar o cache da liturgia (nunca vai para o site)
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          PUBLIC_LOGIN_GOOGLE: ${{ vars.PUBLIC_LOGIN_GOOGLE }}
+        run: npm run build
+
+      - name: Conferir arquivos essenciais
+        run: |
+          test -f dist/index.html
+          test -f dist/404.html
+          test -f dist/sitemap.xml
+          test -f dist/robots.txt
+          test -f dist/.htaccess
+          echo "Páginas geradas: $(find dist -name '*.html' | wc -l)"
+
+      - name: Enviar para a Hostinger (FTP)
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: ${{ secrets.FTP_SERVER_DIR || 'public_html/' }}
+
+      - name: Avisar buscadores (IndexNow)
+        continue-on-error: true
+        run: node scripts/indexnow.mjs

@@ -1,0 +1,35 @@
+---
+import { HeartHandshake } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import TercoGuiado from '@/components/islands/TercoGuiado';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Terço da Misericórdia', path: '/terco-da-misericordia' }];
+const FAQ = [
+  { q: 'O que é o Terço da Misericórdia?', a: 'É uma oração ensinada por Jesus a Santa Faustina Kowalska, rezada nas contas do terço comum, pedindo misericórdia para nós e para o mundo inteiro pelos méritos da Paixão de Cristo.' },
+  { q: 'A que horas rezar o Terço da Misericórdia?', a: 'Pode ser rezado em qualquer momento. Por devoção, muitos o rezam às 15 horas, a hora da morte de Jesus na cruz.' },
+  { q: 'Precisa de um terço especial?', a: 'Não. Usa-se o terço comum: as contas grandes para "Eterno Pai" e as pequenas para "Pela sua dolorosa Paixão".' },
+];
+---
+<BaseLayout
+  title="Terço da Misericórdia guiado: reze passo a passo"
+  description="Reze o Terço da Divina Misericórdia online, passo a passo, com as orações na tela. A oração ensinada a Santa Faustina, ideal para as 15 horas."
+  path="/terco-da-misericordia"
+  keywords="terço da misericórdia, terço da divina misericórdia, como rezar o terço da misericórdia, terço das 15 horas"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/terco-da-misericordia')}#webpage`, url: absUrl('/terco-da-misericordia'), name: 'Terço da Misericórdia guiado', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Terço da Misericórdia" subtitle="A oração da Divina Misericórdia, passo a passo, nas contas do terço." icon={HeartHandshake} crumbs={crumbs} tom={CATEGORY_VISUAL['oracoes-do-dia-a-dia']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-12 px-4">
+      <TercoGuiado client:load modo="misericordia" />
+      <section class="grid gap-4 sm:grid-cols-2">
+        <a href="/terco-guiado" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Terço mariano guiado</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">Com os mistérios do dia.</span></a>
+        <a href="/santos-e-oracoes/santa-faustina-e-a-divina-misericordia" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Santa Faustina</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">A vida da apóstola da Divina Misericórdia.</span></a>
+      </section>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>

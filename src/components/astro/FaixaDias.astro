@@ -1,0 +1,38 @@
+---
+/** Tira de dias ao redor de uma data, com links para as páginas fixas de santo do dia. */
+import { diaMesSlug, diaMesTexto, todosOsDias } from '@/lib/dateUtils';
+
+interface Props {
+  month: number;
+  day: number;
+  raio?: number;
+}
+const { month, day, raio = 3 } = Astro.props;
+const MES = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'];
+const dias = todosOsDias();
+const i = dias.findIndex((d) => d.month === month && d.day === day);
+const janela = Array.from({ length: raio * 2 + 1 }, (_, k) => dias[(i - raio + k + dias.length) % dias.length]);
+---
+<nav aria-label="Santos de outros dias">
+  <ol class="grid grid-cols-7 gap-1.5 sm:max-w-xl sm:gap-2">
+    {janela.map((d) => {
+      const atual = d.month === month && d.day === day;
+      return (
+        <li>
+          <a
+            href={`/santo-do-dia/${diaMesSlug(d.month, d.day)}`}
+            aria-current={atual ? 'date' : undefined}
+            aria-label={`Santo do dia ${diaMesTexto(d.month, d.day)}`}
+            class:list={[
+              'flex w-full min-w-0 flex-col items-center rounded-xl border py-2.5 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta',
+              atual ? 'border-co-warm-brown bg-co-warm-brown text-white' : 'border-co-warm-sand-dark bg-white text-co-warm-brown hover:border-co-warm-brown/40',
+            ]}
+          >
+            <span class="font-display text-2xl font-semibold leading-none">{d.day}</span>
+            <span class:list={['mt-1 text-[13px]', atual ? 'text-white/80' : 'text-co-warm-brown/75']}>{MES[d.month - 1]}</span>
+          </a>
+        </li>
+      );
+    })}
+  </ol>
+</nav>

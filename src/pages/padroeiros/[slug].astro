@@ -1,0 +1,43 @@
+---
+import { Shield } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import padroeiros from '@/data/conteudo/padroeiros.json';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+type P = (typeof padroeiros)[number];
+export function getStaticPaths() {
+  return padroeiros.map((p) => ({ params: { slug: p.slug }, props: { p, relacionados: padroeiros.filter((x) => x.grupo === p.grupo && x.slug !== p.slug).slice(0, 6) } }));
+}
+const { p, relacionados } = Astro.props as { p: P; relacionados: P[] };
+const path = `/padroeiros/${p.slug}`;
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Santos padroeiros', path: '/padroeiros' }, { name: p.titulo, path }];
+const FAQ = [{ q: `Quem é o ${p.titulo.charAt(0).toLowerCase() + p.titulo.slice(1)}?`, a: p.resumo }];
+---
+<BaseLayout title={`${p.titulo}: oração e intercessão`} description={p.resumo.length >= 120 ? p.resumo.slice(0, 158) : `${p.resumo} Conheça a história, a festa e como rezar.`.slice(0, 158)} path={path}
+  keywords={`${p.titulo.toLowerCase()}, santo protetor, ${p.santos.map((s) => s.nome).join(', ')}`}
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl(path)}#webpage`, url: absUrl(path), name: p.titulo, inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}>
+  <PageHeader title={p.titulo} subtitle={p.resumo} icon={Shield} crumbs={crumbs} tom={CATEGORY_VISUAL['santos-e-oracoes']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto grid max-w-5xl gap-10 px-4 lg:grid-cols-[minmax(0,1fr)_280px]">
+      <article class="min-w-0 space-y-8">
+        <ul class="gs gs-sm2 gap-3">
+          {p.santos.map((s) => (
+            <li class="rounded-xl border border-co-warm-sand-dark bg-white p-4">
+              <span class="block font-display text-lg font-semibold">{s.nome}</span>
+              {s.festa && <span class="text-sm text-co-warm-brown/80">Festa: {s.festa}</span>}
+              {s.link && <a href={s.link} class="mt-2 block font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Conhecer a vida</a>}
+            </li>
+          ))}
+        </ul>
+        <div class="intro-prose max-w-2xl text-[17px]" set:html={p.texto} />
+        <blockquote class="rounded-xl border-l-4 border-[#D9BE78] bg-[#F7F0DC] px-5 py-4 font-display text-xl italic">{p.invocacao}</blockquote>
+      </article>
+      <aside class="space-y-3">
+        <a href="/padroeiros" class="block rounded-xl border border-co-warm-sand-dark bg-white p-4 font-semibold hover:border-co-warm-brown/35">Todos os padroeiros</a>
+        {relacionados.map((r) => <a href={`/padroeiros/${r.slug}`} class="block rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35"><span class="block font-semibold">{r.titulo}</span><span class="text-sm text-[#7A5820]">{r.santos[0]?.nome}</span></a>)}
+      </aside>
+    </div>
+  </main>
+</BaseLayout>

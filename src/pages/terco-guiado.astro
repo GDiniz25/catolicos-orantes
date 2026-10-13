@@ -1,0 +1,35 @@
+---
+import { CircleDot } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import TercoGuiado from '@/components/islands/TercoGuiado';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Terço guiado', path: '/terco-guiado' }];
+const FAQ = [
+  { q: 'Quanto tempo leva para rezar o terço?', a: 'Depende do ritmo de cada um. Mais importante do que a rapidez é meditar os mistérios enquanto se reza, sem pressa.' },
+  { q: 'Quais mistérios rezar em cada dia?', a: 'Segunda e sábado, gozosos; terça e sexta, dolorosos; quarta e domingo, gloriosos; quinta, luminosos. É a distribuição proposta por São João Paulo II na carta Rosarium Virginis Mariae.' },
+  { q: 'Qual a diferença entre terço e rosário?', a: 'O terço tem cinco dezenas, com um grupo de mistérios. O rosário completo reúne os quatro grupos de mistérios, com vinte dezenas.' },
+];
+---
+<BaseLayout
+  title="Terço guiado online: reze passo a passo"
+  description="Reze o terço online, passo a passo, com todas as orações na tela e os mistérios do dia. Gozosos, dolorosos, gloriosos e luminosos."
+  path="/terco-guiado"
+  keywords="terço online, rezar o terço guiado, terço passo a passo, mistérios do dia, terço de hoje"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/terco-guiado')}#webpage`, url: absUrl('/terco-guiado'), name: 'Terço guiado', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Terço guiado" subtitle="Reze o terço passo a passo, com as orações na tela e os mistérios de hoje. Avance no seu ritmo." icon={CircleDot} crumbs={crumbs} tom={CATEGORY_VISUAL['como-rezar-o-terco']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-12 px-4">
+      <TercoGuiado client:load modo="terco" />
+      <section class="grid gap-4 sm:grid-cols-2">
+        <a href="/terco-da-misericordia" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Terço da Misericórdia</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">Também guiado, passo a passo.</span></a>
+        <a href="/como-rezar-o-terco" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Como rezar o terço</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">Guias, história e os mistérios explicados.</span></a>
+      </section>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>

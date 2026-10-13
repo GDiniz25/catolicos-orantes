@@ -1,0 +1,416 @@
+{
+ "A": [
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-para-ansiedade-e-paz-interior",
+   "titulo_sugerido": "Oração para a ansiedade: paz interior pela fé",
+   "foco": "Ansiedade à luz da fé (Fl 4,6-7; Mt 6,25-34; 1Pd 5,7). Orações tradicionais adequadas (Lembrai-vos/Memorare, Salmo 23, Jesus eu confio em vós). Deixar claro que oração não substitui tratamento médico/psicológico quando necessário."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-para-conseguir-emprego",
+   "titulo_sugerido": "Oração para conseguir emprego: fé e confiança",
+   "foco": "Dignidade do trabalho (CIC 2427-2428), São José Operário (1º de maio), devoção a São Caetano no Brasil (7 de agosto) com cuidado. Oração a São José tradicional."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-antes-de-viajar",
+   "titulo_sugerido": "Oração antes de viajar: proteção no caminho",
+   "foco": "Itinerário (oração tradicional da Igreja para viagem, citar como existente no Breviário sem reproduzir texto longo se não tiver certeza), São Rafael Arcanjo (livro de Tobias), São Cristóvão. Salmo 121."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-antes-da-prova-e-dos-estudos",
+   "titulo_sugerido": "Oração antes da prova e dos estudos",
+   "foco": "Oração de São Tomás de Aquino antes do estudo (Ante studium) só se tiver o texto tradicional; Espírito Santo (Vinde Espírito Santo); dom da sabedoria e ciência (CIC 1831); estudar com responsabilidade."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "bencao-da-casa-nova",
+   "titulo_sugerido": "Bênção da casa nova: como pedir e rezar",
+   "foco": "Bênção de casas pelo sacerdote (Ritual de Bênçãos), como pedir na paróquia, oração em família na nova casa, água benta, entronização do Sagrado Coração (devoção)."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-pelos-filhos",
+   "titulo_sugerido": "Oração pelos filhos: como rezar por eles",
+   "foco": "Missão dos pais (CIC 2221-2226), Santa Mônica como modelo, bênção dos pais aos filhos, Anjo da Guarda."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-pelo-casamento",
+   "titulo_sugerido": "Oração pelo casamento e pelo cônjuge",
+   "foco": "Matrimônio como sacramento (CIC 1601, 1641-1642), rezar juntos, Sagrada Família, Tobias e Sara (Tb 8,4-8) como oração bíblica dos esposos."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-da-noite-antes-de-dormir",
+   "titulo_sugerido": "Oração da noite: como rezar antes de dormir",
+   "foco": "Exame de consciência breve, Ato de contrição, Completas (link /liturgia-das-horas/completas-oracao-antes-de-dormir), Salmo 4 e Salmo 91 (90), Anjo da Guarda."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-da-manha-oferecimento-do-dia",
+   "titulo_sugerido": "Oração da manhã: o oferecimento do dia",
+   "foco": "Oferecimento do dia (tradição do Apostolado da Oração), Laudes, sinal da cruz ao acordar, Anjo da Guarda."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-de-gratidao-a-deus",
+   "titulo_sugerido": "Oração de gratidão: como agradecer a Deus",
+   "foco": "Ação de graças na Bíblia (1Ts 5,18; Sl 136; Lc 17,11-19 os dez leprosos), Eucaristia significa ação de graças (CIC 1360), Te Deum como hino tradicional de ação de graças."
+  }
+ ],
+ "B": [
+  {
+   "category": "duvidas-da-fe",
+   "slug": "o-que-a-igreja-ensina-sobre-a-morte",
+   "titulo_sugerido": "O que a Igreja ensina sobre a morte?",
+   "foco": "CIC 1005-1014, morte como fim da peregrinação, juízo particular (CIC 1021-1022), ressurreição da carne, esperança cristã."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "missa-de-setimo-dia-o-que-e",
+   "titulo_sugerido": "Missa de sétimo dia: o que é e por que rezar",
+   "foco": "Costume de oferecer Missa pelos falecidos, intenção de Missa, sufrágio (CIC 1032, 1371), sétimo e trigésimo dia são costumes, não obrigação; como pedir na paróquia."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-pelos-falecidos",
+   "titulo_sugerido": "Oração pelos falecidos: como rezar pelos mortos",
+   "foco": "\"Dai-lhes, Senhor, o descanso eterno\" (Requiem aeternam), 2Mc 12,46, purgatório (CIC 1030-1032), Terço pelas almas."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "a-igreja-permite-a-cremacao",
+   "titulo_sugerido": "A Igreja permite a cremação? O que diz a doutrina",
+   "foco": "Instrução Ad resurgendum cum Christo (2016, Congregação para a Doutrina da Fé): permitida, preferência pelo sepultamento, cinzas em lugar sagrado, não espalhar nem guardar em casa. CDC cân. 1176 §3."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "como-viver-o-luto-cristao",
+   "titulo_sugerido": "Como viver o luto à luz da fé cristã",
+   "foco": "Jesus chorou por Lázaro (Jo 11,35), esperança (1Ts 4,13), sufrágios, comunhão dos santos, procurar ajuda da comunidade e, se preciso, de profissionais."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "exequias-o-funeral-catolico",
+   "titulo_sugerido": "Exéquias: como é o funeral católico",
+   "foco": "Ritual de Exéquias, celebração da Palavra ou Missa de corpo presente, encomendação, quem pode presidir (leigos podem dirigir celebração em alguns casos), CIC 1684-1690."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "indulgencia-pelos-falecidos-em-finados",
+   "titulo_sugerido": "Indulgência pelos falecidos em Finados: como obter",
+   "foco": "Indulgência plenária aplicável às almas: visita ao cemitério de 1 a 8 de novembro e visita a igreja em 2 de novembro com Pai-Nosso e Credo, condições habituais (confissão, comunhão, oração pelo Papa, desapego). Manual das Indulgências. CIC 1471-1479."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "o-que-sao-sacramentais",
+   "titulo_sugerido": "O que são sacramentais? Diferença dos sacramentos",
+   "foco": "CIC 1667-1679, bênçãos, objetos, diferença em relação aos sacramentos, religiosidade popular."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "crucifixo-significado-e-uso",
+   "titulo_sugerido": "Crucifixo: significado e por que os católicos usam",
+   "foco": "Diferença entre cruz e crucifixo, 1Cor 1,23 e Gl 6,14, Sexta-feira Santa adoração da Cruz, crucifixo na casa e no altar."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "medalhas-catolicas-significado",
+   "titulo_sugerido": "Medalhas católicas: significado e uso correto",
+   "foco": "Sacramentais, não amuletos (CIC 2111 superstição), Medalha Milagrosa (link /devocoes-marianas/a-medalha-milagrosa-historia-e-promessas), medalha de São Bento (link /santos-e-oracoes/sao-bento-de-nursia-pai-do-monaquismo-ocidental), benzer a medalha."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "o-terco-precisa-ser-bento",
+   "titulo_sugerido": "O terço precisa ser bento? Como benzer objetos",
+   "foco": "Bênção de objetos por sacerdote ou diácono, valor do objeto bento, terço não bento também pode ser rezado, onde pedir a bênção."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "quem-pode-benzer-objetos-e-pessoas",
+   "titulo_sugerido": "Quem pode dar bênçãos na Igreja Católica?",
+   "foco": "CIC 1669 (todo batizado é chamado a ser bênção; quanto mais uma bênção diz respeito à vida eclesial, mais é reservada ao ministro ordenado), bênção dos pais aos filhos, bênçãos reservadas."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "imposicao-das-cinzas-significado",
+   "titulo_sugerido": "Imposição das cinzas: significado na Quarta-feira",
+   "foco": "Gn 3,19, \"Convertei-vos e crede no Evangelho\" (Mc 1,15), quem pode receber (inclusive não católicos), jejum e abstinência na Quarta-feira de Cinzas (CDC cân. 1251)."
+  }
+ ],
+ "C": [
+  {
+   "category": "duvidas-da-fe",
+   "slug": "gestos-na-missa-significado",
+   "titulo_sugerido": "Gestos na Missa: sinal da cruz, genuflexão e mais",
+   "foco": "Sinal da cruz, genuflexão, inclinação, ajoelhar, ficar de pé, bater no peito, sinal da paz. Instrução Geral do Missal Romano (IGMR 42-44, 274-275) apenas se tiver certeza dos números; caso contrário cite IGMR sem número."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "vestes-liturgicas-significado",
+   "titulo_sugerido": "Vestes litúrgicas: alva, estola, casula e mais",
+   "foco": "Alva, cíngulo, amito, estola (como o diácono usa), casula, dalmática, pluvial, cores litúrgicas (link /duvidas-da-fe/o-que-representam-as-cores-liturgicas-da-missa se existir na lista)."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "objetos-liturgicos-da-missa",
+   "titulo_sugerido": "Objetos da Missa: cálice, patena, âmbula e mais",
+   "foco": "Cálice, patena, âmbula (cibório), corporal, sanguíneo (purificador), pala, galhetas, lavabo, missal, lecionário, turíbulo, sacrário."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "ato-penitencial-da-missa",
+   "titulo_sugerido": "Ato penitencial da Missa: o que significa",
+   "foco": "Confesso a Deus todo-poderoso (texto do Missal), Senhor tende piedade (Kyrie), perdoa pecados veniais, não substitui a confissão sacramental de pecados graves."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "liturgia-da-palavra-na-missa",
+   "titulo_sugerido": "Liturgia da Palavra: leituras, salmo e homilia",
+   "foco": "Primeira leitura, salmo responsorial, segunda leitura aos domingos, aclamação, Evangelho, homilia, Credo, oração dos fiéis; ciclo A/B/C e anos pares/ímpares; link /liturgia-diaria."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "oracao-eucaristica-centro-da-missa",
+   "titulo_sugerido": "Oração Eucarística: o coração da Missa",
+   "foco": "Prefácio, Santo, epiclese, narrativa da instituição e consagração, anamnese, intercessões, doxologia e Amém; CIC 1352-1354."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "como-comungar-corretamente",
+   "titulo_sugerido": "Como comungar: na mão, na boca e as disposições",
+   "foco": "Disposições (estado de graça, jejum de uma hora CDC cân. 919), modos de receber permitidos, dizer Amém, ação de graças; links existentes sobre jejum e pecado mortal."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "o-gloria-e-o-credo-na-missa",
+   "titulo_sugerido": "Glória e Credo na Missa: quando se rezam?",
+   "foco": "Glória aos domingos fora do Advento e Quaresma, solenidades e festas; Credo aos domingos e solenidades; Credo niceno-constantinopolitano ou apostólico."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "como-rezar-com-criancas",
+   "titulo_sugerido": "Como rezar com crianças: guia para pais",
+   "foco": "Idades, orações simples, sinal da cruz, rezar antes de dormir e das refeições, exemplo dos pais, CIC 2226."
+  },
+  {
+   "category": "catecismo",
+   "slug": "igreja-domestica-familia-crista",
+   "titulo_sugerido": "Igreja doméstica: a família cristã segundo a Igreja",
+   "foco": "CIC 1655-1658, 2204-2206, Familiaris consortio (São João Paulo II, 1981), Amoris laetitia (Francisco, 2016) com cuidado."
+  },
+  {
+   "category": "sacramentos",
+   "slug": "como-preparar-os-filhos-para-a-primeira-comunhao",
+   "titulo_sugerido": "Como preparar os filhos para a Primeira Comunhão",
+   "foco": "Papel dos pais junto com a catequese paroquial, idade da razão (CDC cân. 914), primeira confissão antes, roupa, presente, festa sóbria; link /sacramentos/a-primeira-comunhao-preparacao-e-significado."
+  },
+  {
+   "category": "sacramentos",
+   "slug": "papel-dos-pais-no-batismo",
+   "titulo_sugerido": "O papel dos pais no Batismo dos filhos",
+   "foco": "Batizar nas primeiras semanas (CDC cân. 867), compromisso de educar na fé, diferença do papel dos padrinhos (link existente sobre padrinhos), escolha do nome (CDC cân. 855)."
+  },
+  {
+   "category": "catecismo",
+   "slug": "como-transmitir-a-fe-aos-adolescentes",
+   "titulo_sugerido": "Como transmitir a fé aos adolescentes",
+   "foco": "Diálogo, testemunho, grupos de jovens, Crisma, liberdade e paciência; tom pastoral, sem promessas fáceis."
+  },
+  {
+   "category": "oracoes-do-dia-a-dia",
+   "slug": "oracao-em-familia-como-comecar",
+   "titulo_sugerido": "Oração em família: como começar e manter",
+   "foco": "Momentos (refeições, noite, domingo), Terço em família (link existente), leitura do Evangelho, bênção dos filhos."
+  }
+ ],
+ "D1": [
+  {
+   "category": "duvidas-da-fe",
+   "slug": "namoro-catolico-como-viver",
+   "titulo_sugerido": "Namoro católico: o que é e como viver bem",
+   "foco": "Namoro como tempo de discernimento para o matrimônio, castidade, conhecer-se, oração juntos, Teologia do Corpo (São João Paulo II) mencionada com cuidado."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "castidade-no-namoro",
+   "titulo_sugerido": "Castidade no namoro: o que a Igreja ensina",
+   "foco": "CIC 2337-2350 (castidade), 2350 (noivos), relações sexuais reservadas ao matrimônio (CIC 2353, 2391), confissão e recomeço, tom acolhedor."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "como-discernir-a-vocacao",
+   "titulo_sugerido": "Como discernir a vocação: guia católico",
+   "foco": "Vocação universal à santidade (Lumen gentium 40; CIC 2013), matrimônio, sacerdócio, vida consagrada, oração, direção espiritual, sinais."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "o-que-e-a-vida-consagrada",
+   "titulo_sugerido": "O que é a vida consagrada na Igreja?",
+   "foco": "CIC 914-933, votos (link existente), formas: religiosos, monges, virgens consagradas, institutos seculares."
+  },
+  {
+   "category": "sacramentos",
+   "slug": "noivado-catolico-como-viver",
+   "titulo_sugerido": "Noivado católico: como viver e se preparar",
+   "foco": "Tempo de preparação, curso de noivos (link existente preparação), documentos, castidade (CIC 2350), escolher a paróquia e a data."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "namoro-com-pessoa-de-outra-religiao",
+   "titulo_sugerido": "Namoro e casamento com quem é de outra religião",
+   "foco": "Casamentos mistos e disparidade de culto (CIC 1633-1637; CDC cân. 1086 e 1124-1125), licença/dispensa do bispo, compromissos da parte católica."
+  },
+  {
+   "category": "catecismo",
+   "slug": "virtude-da-fe",
+   "titulo_sugerido": "Virtude da fé: o que é e como crescer nela",
+   "foco": "CIC 1814-1816, 142-165, Hb 11,1, pecados contra a fé (CIC 2088-2089), como cultivar."
+  },
+  {
+   "category": "catecismo",
+   "slug": "virtude-da-esperanca",
+   "titulo_sugerido": "Virtude da esperança: o que é e como viver",
+   "foco": "CIC 1817-1821, Rm 5,5, desespero e presunção (CIC 2091-2092), Spe salvi (Bento XVI, 2007)."
+  },
+  {
+   "category": "catecismo",
+   "slug": "virtude-da-caridade",
+   "titulo_sugerido": "Virtude da caridade: o maior mandamento",
+   "foco": "CIC 1822-1829, 1Cor 13, Mt 22,37-40, Deus caritas est (Bento XVI, 2005, link existente se houver na lista), obras de misericórdia (CIC 2447)."
+  }
+ ],
+ "D2": [
+  {
+   "category": "catecismo",
+   "slug": "virtude-da-prudencia",
+   "titulo_sugerido": "Prudência: a virtude que guia as decisões",
+   "foco": "CIC 1806, \"auriga virtutum\" (cocheiro das virtudes) citado no Catecismo, São Tomás, partes da prudência, pecados opostos (imprudência, astúcia)."
+  },
+  {
+   "category": "catecismo",
+   "slug": "virtude-da-justica",
+   "titulo_sugerido": "Justiça: a virtude de dar a cada um o que é seu",
+   "foco": "CIC 1807, justiça para com Deus (virtude da religião), justiça social (CIC 1928-1942), Lv 19,15."
+  },
+  {
+   "category": "catecismo",
+   "slug": "virtude-da-fortaleza",
+   "titulo_sugerido": "Fortaleza: a virtude da coragem cristã",
+   "foco": "CIC 1808, dom da fortaleza (CIC 1831), mártires, Jo 16,33, perseverança."
+  },
+  {
+   "category": "catecismo",
+   "slug": "virtude-da-temperanca",
+   "titulo_sugerido": "Temperança: a virtude do equilíbrio cristão",
+   "foco": "CIC 1809, Eclo 18,30 (Sirácida), Tt 2,12, sobriedade, castidade, mansidão."
+  },
+  {
+   "category": "catecismo",
+   "slug": "pecado-da-soberba",
+   "titulo_sugerido": "Soberba: o pecado capital e como vencê-lo",
+   "foco": "CIC 1866, 2094, humildade como remédio, Lc 18,9-14 fariseu e publicano, Pr 16,18."
+  },
+  {
+   "category": "catecismo",
+   "slug": "pecado-da-avareza",
+   "titulo_sugerido": "Avareza: o pecado capital e como vencê-lo",
+   "foco": "CIC 1866, 2536, 2544-2547, 1Tm 6,10, Lc 12,15-21, generosidade e esmola."
+  },
+  {
+   "category": "catecismo",
+   "slug": "pecado-da-luxuria",
+   "titulo_sugerido": "Luxúria: o pecado capital e como vencê-lo",
+   "foco": "CIC 2351, castidade (CIC 2337ss), pornografia (CIC 2354), misericórdia e confissão, tom pastoral e discreto."
+  },
+  {
+   "category": "catecismo",
+   "slug": "pecado-da-ira",
+   "titulo_sugerido": "Ira: o pecado capital e como vencê-lo",
+   "foco": "CIC 2302-2304, ira justa versus pecado, Ef 4,26, mansidão (Mt 11,29), perdão."
+  },
+  {
+   "category": "catecismo",
+   "slug": "pecado-da-gula",
+   "titulo_sugerido": "Gula: o pecado capital e como vencê-lo",
+   "foco": "CIC 1866, 2290 (temperança, abusos de comida, álcool), jejum, sobriedade; não confundir com transtornos alimentares, que exigem cuidado médico."
+  },
+  {
+   "category": "catecismo",
+   "slug": "pecado-da-inveja",
+   "titulo_sugerido": "Inveja: o pecado capital e como vencê-la",
+   "foco": "CIC 2538-2540, Sb 2,24, alegrar-se com o bem do outro, caridade."
+  },
+  {
+   "category": "catecismo",
+   "slug": "pecado-da-preguica-acedia",
+   "titulo_sugerido": "Preguiça (acídia): o pecado capital da alma",
+   "foco": "CIC 2094 e 2733 (acídia), diferença entre preguiça física e acídia espiritual, perseverança na oração."
+  }
+ ],
+ "E": [
+  {
+   "category": "documentos-da-igreja",
+   "slug": "papa-leao-xiv-biografia",
+   "titulo_sugerido": "Papa Leão XIV: quem é Robert Francis Prevost",
+   "foco": "Usar SOMENTE os fatos do briefing."
+  },
+  {
+   "category": "documentos-da-igreja",
+   "slug": "por-que-o-papa-escolheu-o-nome-leao-xiv",
+   "titulo_sugerido": "Por que o Papa escolheu o nome Leão XIV?",
+   "foco": "Usar SOMENTE os fatos do briefing: referência a Leão XIII e à Rerum novarum diante de nova revolução industrial e da inteligência artificial."
+  },
+  {
+   "category": "documentos-da-igreja",
+   "slug": "dilexi-te-exortacao-leao-xiv-resumo",
+   "titulo_sugerido": "Dilexi te: resumo da exortação de Leão XIV",
+   "foco": "Usar SOMENTE os fatos do briefing."
+  },
+  {
+   "category": "documentos-da-igreja",
+   "slug": "magnifica-humanitas-enciclica-resumo",
+   "titulo_sugerido": "Magnifica humanitas: resumo da encíclica sobre IA",
+   "foco": "Usar SOMENTE os fatos do briefing."
+  },
+  {
+   "category": "documentos-da-igreja",
+   "slug": "in-unitate-fidei-carta-leao-xiv-niceia",
+   "titulo_sugerido": "In unitate fidei: Leão XIV e os 1700 anos de Niceia",
+   "foco": "Carta apostólica de 23 de novembro de 2025 no 1.700º aniversário do Concílio de Niceia (325). Fatos sobre Niceia: condenou o arianismo, afirmou que o Filho é consubstancial (homoousios) ao Pai, origem do Credo niceno; ligar com /oracoes-do-dia-a-dia/oracao-do-credo-niceno-constantinopolitano e /santos-e-oracoes/santo-atanasio-defensor-fe-nicena. Não inventar conteúdo da carta além disso: descrever a carta de forma genérica."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "os-quatro-temperamentos-e-a-vida-espiritual",
+   "titulo_sugerido": "Os quatro temperamentos e a vida espiritual",
+   "foco": "Origem antiga (Hipócrates, Galeno), uso na tradição espiritual (Pe. Conrad Hock, livro \"Os quatro temperamentos\"; Art e Laraine Bennett, \"O temperamento que Deus te deu\"), deixar claro que não é doutrina da Igreja nem diagnóstico; graça supõe a natureza; link para /teste-de-temperamento."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "temperamento-colerico",
+   "titulo_sugerido": "Temperamento colérico: virtudes, desafios e santidade",
+   "foco": "Traços, forças (liderança, determinação), desafios (ira, orgulho, impaciência), virtudes a cultivar (mansidão, humildade), conselhos de oração; link /teste-de-temperamento."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "temperamento-sanguineo",
+   "titulo_sugerido": "Temperamento sanguíneo: virtudes, desafios e santidade",
+   "foco": "Traços (sociável, entusiasta), desafios (inconstância, superficialidade), virtudes (perseverança, recolhimento), conselhos."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "temperamento-melancolico",
+   "titulo_sugerido": "Temperamento melancólico: virtudes, desafios e santidade",
+   "foco": "Traços (profundo, idealista, sensível), desafios (pessimismo, escrúpulo, rancor), virtudes (confiança, magnanimidade), deixar claro que não é depressão."
+  },
+  {
+   "category": "duvidas-da-fe",
+   "slug": "temperamento-fleumatico",
+   "titulo_sugerido": "Temperamento fleumático: virtudes, desafios e santidade",
+   "foco": "Traços (calmo, pacificador), desafios (indolência, omissão), virtudes (zelo, diligência), conselhos."
+  }
+ ]
+}

@@ -1,0 +1,301 @@
+{
+  "etapas": [
+    {
+      "id": "preliminar",
+      "nome": "Doze dias de esvaziamento do espírito do mundo",
+      "dias": [
+        1,
+        12
+      ],
+      "oracoes": [
+        "Veni Creator Spiritus",
+        "Ave Maris Stella",
+        "Magnificat",
+        "Glória ao Pai"
+      ],
+      "texto": "<p>Os primeiros doze dias servem para <strong>abrir espaço para Deus</strong>. São Luís de Montfort pede que, antes de tudo, a pessoa reconheça o quanto o espírito do mundo ocupa o coração: a pressa, a vaidade, o apego ao dinheiro, a busca da aprovação dos outros. Não se trata de desprezar a vida comum, o trabalho ou a família, mas de perceber o que nos afasta do Evangelho.</p><p>Em cada dia, reze as orações indicadas, leia com calma a passagem sugerida e medite alguns minutos. Peça ao Espírito Santo a luz para ver o que precisa ser deixado para trás. O <a href=\"/oracoes-do-dia-a-dia/o-magnificat-o-cantico-de-maria\">Magnificat</a>, cântico de Maria, ensina desde o início o caminho da humildade.</p>"
+    },
+    {
+      "id": "semana1",
+      "nome": "Primeira semana: conhecimento de si mesmo",
+      "dias": [
+        13,
+        19
+      ],
+      "oracoes": [
+        "Ladainha do Espírito Santo",
+        "Ladainha de Nossa Senhora",
+        "Ave Maris Stella"
+      ],
+      "texto": "<p>Nesta semana, o pedido é <strong>conhecer a si mesmo à luz de Deus</strong>. Não é um exercício de tristeza nem de autoacusação sem fim. É olhar com sinceridade para as próprias fraquezas, os pecados habituais e as feridas, sabendo que somos amados e que a misericórdia de Deus é maior do que a nossa miséria.</p><p>Quem se conhece de verdade deixa de confiar só nas próprias forças e entende por que precisa de uma Mãe que o conduza a Jesus. Um bom exame de consciência diário e, se possível, uma <a href=\"/sacramentos/o-sacramento-da-confissao-guia-completo\">confissão</a> bem preparada ajudam muito nesta etapa. Reze a <a href=\"/ladainhas/ladainha-de-nossa-senhora-ladainha-lauretana\">Ladainha de Nossa Senhora</a> pedindo humildade.</p>"
+    },
+    {
+      "id": "semana2",
+      "nome": "Segunda semana: conhecimento da Santíssima Virgem",
+      "dias": [
+        20,
+        26
+      ],
+      "oracoes": [
+        "Ladainha do Espírito Santo",
+        "Ladainha de Nossa Senhora",
+        "Ave Maris Stella",
+        "Oração a Maria de São Luís de Montfort"
+      ],
+      "texto": "<p>A segunda semana é dedicada a <strong>conhecer a Virgem Maria</strong>: quem ela é no plano de Deus, suas virtudes e sua missão de Mãe. Quanto mais a conhecemos pelas Escrituras e pelo ensinamento da Igreja, mais a amamos, e quanto mais a amamos, mais ela nos leva ao seu Filho.</p><p>As meditações acompanham Maria nos Evangelhos: na Anunciação, na Visitação, em Belém, no Templo, em Caná, aos pés da cruz e no Cenáculo. Vale reler também <a href=\"/devocoes-marianas/maria-na-biblia-todas-as-passagens-sobre-nossa-senhora\">as passagens sobre Nossa Senhora na Bíblia</a>. O <a href=\"/como-rezar-o-terco/guia-completo-para-rezar-o-santo-terco\">terço</a> diário é um excelente companheiro destes dias.</p>"
+    },
+    {
+      "id": "semana3",
+      "nome": "Terceira semana: conhecimento de Jesus Cristo",
+      "dias": [
+        27,
+        33
+      ],
+      "oracoes": [
+        "Ladainha do Espírito Santo",
+        "Ave Maris Stella",
+        "Ladainha do Santíssimo Nome de Jesus",
+        "Oração a Jesus de São Luís de Montfort",
+        "Ó Jesus que viveis em Maria"
+      ],
+      "texto": "<p>A última semana leva ao centro de tudo: <strong>conhecer e amar Jesus Cristo</strong>. A consagração a Maria não termina nela. Ela é o caminho mais seguro para chegar a Jesus, que é o fim último de toda devoção verdadeira.</p><p>As meditações percorrem o mistério do Verbo encarnado, sua humildade, seu amor de Bom Pastor, sua Paixão e sua presença na Eucaristia. Reze a <a href=\"/ladainhas/ladainha-do-santissimo-nome-de-jesus\">Ladainha do Santíssimo Nome de Jesus</a> e, se puder, faça uma visita ao Santíssimo Sacramento durante a semana. Prepare também a confissão e a comunhão do dia da consagração.</p>"
+    }
+  ],
+  "dias": [
+    {
+      "dia": 1,
+      "tema": "O chamado à santidade",
+      "leitura": "Mt 5,1-12",
+      "meditacao": "<p>Começar a preparação para a consagração é responder a um convite que Jesus faz a todos: ser santo. As Bem-aventuranças mostram o retrato desse caminho. Não falam de sucesso, de prestígio ou de conforto. Falam dos pobres em espírito, dos mansos, dos que choram, dos que têm fome e sede de justiça, dos puros de coração e dos que promovem a paz.</p><p>O mundo costuma chamar de feliz quem tem muito, aparece muito e sofre pouco. Jesus inverte essa lógica. A verdadeira felicidade nasce de um coração que pertence a Deus. Por isso, estes primeiros dias pedem uma pergunta simples e honesta: em que eu tenho colocado a minha felicidade?</p><p>Não tenha medo de olhar para isso. Deus não chama os perfeitos; Ele aperfeiçoa os que chama. Entregue a Maria o desejo de começar bem. Ela, que viveu as Bem-aventuranças antes de todos, ensina a recomeçar sem desânimo.</p>",
+      "proposito": "Escrever em um papel uma Bem-aventurança que mais me desafia e rezar sobre ela ao longo do dia."
+    },
+    {
+      "dia": 2,
+      "tema": "Não amar o mundo",
+      "leitura": "1Jo 2,15-17",
+      "meditacao": "<p>São João escreve: não ameis o mundo nem as coisas do mundo. À primeira vista, parece estranho, pois o mundo foi criado por Deus e é bom. Mas o Apóstolo explica o que quer dizer: a concupiscência da carne, a concupiscência dos olhos e o orgulho da riqueza. É o mundo enquanto se fecha a Deus e quer ocupar o lugar d'Ele.</p><p>Esse espírito entra devagar. Aparece no desejo de ter sempre mais, na comparação constante com os outros, na necessidade de ser visto e elogiado, na busca do prazer acima de tudo. Muitas vezes nem percebemos o quanto ele nos governa.</p><p>O texto termina com uma promessa serena: o mundo passa, mas quem faz a vontade de Deus permanece para sempre. Hoje, peça a graça de distinguir o que passa do que permanece. Maria guardava todas as coisas no coração porque sabia o que realmente tinha valor.</p>",
+      "proposito": "Identificar um apego concreto ao que passa e fazer hoje uma pequena renúncia ligada a ele."
+    },
+    {
+      "dia": 3,
+      "tema": "Onde está o meu tesouro",
+      "leitura": "Mt 6,19-21",
+      "meditacao": "<p>Jesus diz: onde está o teu tesouro, aí estará também o teu coração. É um critério muito prático. Basta observar para onde vão os nossos pensamentos quando estamos livres, aquilo que mais nos preocupa, aquilo que nos tira a paz quando falta.</p><p>Os tesouros da terra são frágeis. A traça e a ferrugem os corroem, os ladrões os levam. Mesmo quando não se perdem, um dia ficam para trás. Os tesouros do céu são outros: o amor a Deus, a caridade com o próximo, a oração, o perdão oferecido, o bem feito em silêncio.</p><p>Não se trata de abandonar as responsabilidades da vida. Trabalhar, sustentar a família e cuidar dos bens é um dever. A questão é o lugar que essas coisas ocupam. Elas são meios, não o fim. Peça a Nossa Senhora um coração livre, que use as coisas da terra sem se prender a elas.</p>",
+      "proposito": "Fazer hoje um ato de caridade escondido, que ninguém veja, como tesouro guardado no céu."
+    },
+    {
+      "dia": 4,
+      "tema": "Ninguém pode servir a dois senhores",
+      "leitura": "Mt 6,24",
+      "meditacao": "<p>Jesus é direto: ninguém pode servir a dois senhores. Não dá para ser de Deus pela metade. O coração dividido vive inquieto, tentando agradar a todos e acabando sem paz.</p><p>Muitas vezes queremos Deus em algumas áreas da vida e preferimos guardar outras para nós. Rezamos, vamos à Missa, mas mantemos um ressentimento, um hábito que não queremos largar, uma forma de lidar com o dinheiro que não passa pelo Evangelho. Jesus não aceita ser apenas um compartimento da nossa vida.</p><p>A consagração que estamos preparando é justamente isto: entregar tudo, sem reservas, a Jesus pelas mãos de Maria. Antes de chegar lá, é preciso olhar com honestidade para os outros senhores que disputam o nosso coração. Pode ser o dinheiro, a opinião dos outros, o conforto ou o próprio orgulho. Dê nome a eles diante de Deus e peça a graça de escolher um só Senhor.</p>",
+      "proposito": "Reconhecer diante de Deus qual outro senhor mais disputa o meu coração e oferecê-lo a Ele em oração."
+    },
+    {
+      "dia": 5,
+      "tema": "A confiança na Providência",
+      "leitura": "Mt 6,25-34",
+      "meditacao": "<p>Olhai as aves do céu, olhai os lírios do campo. Com imagens simples, Jesus nos ensina a confiar no Pai. O espírito do mundo vive de ansiedade: o que vamos comer, o que vamos vestir, o que será do amanhã. Jesus não diz que essas coisas não importam. Diz que o Pai sabe do que precisamos.</p><p>A resposta de Jesus é uma ordem de prioridades: buscai em primeiro lugar o Reino de Deus e a sua justiça, e todas essas coisas vos serão dadas por acréscimo. Quem coloca Deus em primeiro lugar não fica livre das dificuldades, mas encontra nelas um sentido e uma paz que o mundo não dá.</p><p>Se você vive uma fase de muita preocupação, entregue-a a Deus com sinceridade. A fé não substitui a prudência nem, quando for o caso, a ajuda de um profissional. Mas ensina a viver cada dia sem carregar o peso do amanhã.</p>",
+      "proposito": "Diante de cada preocupação do dia, repetir com calma: Jesus, eu confio em vós."
+    },
+    {
+      "dia": 6,
+      "tema": "Não se conformar com este mundo",
+      "leitura": "Rm 12,1-2",
+      "meditacao": "<p>São Paulo pede que ofereçamos o nosso corpo como sacrifício vivo, santo e agradável a Deus. E acrescenta: não vos conformeis com este mundo, mas transformai-vos pela renovação da vossa mente. Conformar-se é tomar a forma de algo. O cristão é chamado a tomar a forma de Cristo, e não a forma do ambiente ao redor.</p><p>Essa transformação começa por dentro, na maneira de pensar. Quantas vezes adotamos critérios que não são do Evangelho apenas porque todos pensam assim. Julgamos as pessoas pela aparência, medimos o valor da vida pelo que se produz, achamos normal o que Deus não aprova.</p><p>Renovar a mente pede tempo de oração, leitura da Palavra e convivência com quem busca a Deus. A consagração a Maria é um caminho para essa renovação: ela é o molde em que Cristo foi formado e no qual também nós somos formados nele.</p>",
+      "proposito": "Reservar dez minutos do dia, sem celular, para ler e reler a passagem de hoje."
+    },
+    {
+      "dia": 7,
+      "tema": "A porta estreita",
+      "leitura": "Mt 7,13-14",
+      "meditacao": "<p>Jesus fala de duas portas e de dois caminhos. A porta larga é fácil, o caminho é espaçoso e muitos passam por ele. A porta estreita pede esforço, e poucos a encontram. A imagem não quer assustar, mas despertar. O caminho que leva à vida não é o caminho do menor esforço.</p><p>No dia a dia, a porta larga aparece de muitas formas: deixar a oração para depois, ceder à preguiça, falar mal de alguém porque todos estão falando, fechar os olhos para uma injustiça porque é mais cômodo. A porta estreita é feita de escolhas pequenas e fiéis, repetidas com perseverança.</p><p>Ninguém atravessa essa porta sozinho. A graça de Deus nos sustenta, e Maria caminha conosco como Mãe. São Luís de Montfort apresenta a devoção a ela como um caminho fácil, curto, perfeito e seguro para chegar a Jesus. Não fácil por ser sem cruz, mas porque nele não andamos sozinhos.</p>",
+      "proposito": "Escolher hoje, de propósito, uma tarefa que venho adiando por comodismo e cumpri-la com amor."
+    },
+    {
+      "dia": 8,
+      "tema": "Construir sobre a rocha",
+      "leitura": "Mt 7,24-27",
+      "meditacao": "<p>Duas casas foram construídas. Por fora, talvez fossem parecidas. A diferença estava no alicerce. Quando vieram a chuva, as enchentes e os ventos, uma ficou de pé e a outra desabou. Jesus explica: o homem prudente é aquele que ouve as suas palavras e as põe em prática.</p><p>Não basta ouvir. Muitos conhecem o Evangelho, sabem as orações, frequentam a igreja, mas não deixam que a Palavra mude a vida concreta. A fé que não chega às atitudes é como uma casa sobre a areia. Funciona enquanto o tempo está bom.</p><p>Todos passamos por tempestades: doença, perdas, crises na família, tentações fortes. É nelas que se revela onde está o nosso alicerce. Estes dias de preparação são uma oportunidade de reforçar a base. Peça a Maria, que ouviu a Palavra e a guardou com fidelidade, a graça de transformar em prática aquilo que você já sabe.</p>",
+      "proposito": "Escolher uma frase do Evangelho que já conheço bem e colocá-la em prática de modo concreto hoje."
+    },
+    {
+      "dia": 9,
+      "tema": "O jovem rico",
+      "leitura": "Mt 19,16-22",
+      "meditacao": "<p>Um jovem se aproxima de Jesus com uma pergunta sincera: o que devo fazer de bom para ter a vida eterna? Ele cumpria os mandamentos e queria mais. Jesus o convida: vai, vende o que tens, dá aos pobres, depois vem e segue-me. O jovem foi embora triste, porque tinha muitos bens.</p><p>A tristeza dele é um aviso. Ele tinha boa vontade, mas havia algo que não queria entregar. Os bens não eram maus em si; o problema é que o prendiam. Jesus queria dar-lhe muito mais, e ele não conseguiu soltar o que segurava.</p><p>Cada um de nós tem algo que segura com força. Pode ser dinheiro, mas também pode ser uma relação, um projeto, a própria imagem ou o controle da vida. A consagração pede justamente essa entrega: colocar tudo nas mãos de Maria para que ela o ofereça a Jesus. Peça hoje coragem para não ir embora triste.</p>",
+      "proposito": "Dar algo que tenho e de que gosto a alguém que precisa, como sinal de desapego."
+    },
+    {
+      "dia": 10,
+      "tema": "Vaidade das vaidades",
+      "leitura": "Ecl 1,2-3; Imitação de Cristo, livro I, cap. 1",
+      "meditacao": "<p>Vaidade das vaidades, tudo é vaidade. O livro do Eclesiastes não é pessimista; é realista. Tudo o que é feito apenas para esta vida acaba passando. A palavra vaidade, aqui, quer dizer algo como vapor, sopro, aquilo que não tem consistência.</p><p>A Imitação de Cristo, em seu primeiro capítulo, retoma esse ensinamento: é vaidade buscar riquezas que perecem, buscar honras, desejar viver muito sem se preocupar em viver bem. E aponta o remédio: seguir Jesus, que é a luz verdadeira.</p><p>Pense em quanta energia gastamos com coisas que, daqui a alguns anos, não terão importância nenhuma. Discussões, aparências, preocupações exageradas com a opinião alheia. Agora pense no que permanece: o amor dado, a fé vivida, o bem feito por amor a Deus. Esta meditação não é para gerar desânimo, mas liberdade. Quem sabe o que passa pode investir a vida no que é eterno.</p>",
+      "proposito": "Diminuir hoje o tempo gasto com algo que reconheço como vaidade e dedicá-lo à oração ou à família."
+    },
+    {
+      "dia": 11,
+      "tema": "O rico insensato",
+      "leitura": "Lc 12,13-21",
+      "meditacao": "<p>Um homem teve uma grande colheita e pensou: vou derrubar os meus celeiros e construir maiores, depois direi a mim mesmo que posso descansar, comer, beber e me divertir. Mas Deus lhe disse: insensato, nesta mesma noite te pedirão a tua vida, e o que acumulaste, para quem ficará?</p><p>O erro desse homem não foi trabalhar ou colher bem. Foi viver como se Deus não existisse e como se a vida estivesse sob o seu controle. Ele falava só consigo mesmo. Não havia espaço para Deus nem para os outros nos seus planos.</p><p>Jesus conclui: assim acontece com quem ajunta tesouros para si e não é rico para Deus. Ser rico para Deus é usar o que temos para amar, partilhar e servir. Hoje, pense em como você faz seus planos. Deus está neles? Os outros estão neles? Entregue a Maria seus projetos, para que sejam feitos segundo a vontade de Deus.</p>",
+      "proposito": "Rezar antes de tomar cada decisão importante de hoje, pedindo que seja segundo a vontade de Deus."
+    },
+    {
+      "dia": 12,
+      "tema": "Buscar as coisas do alto",
+      "leitura": "Cl 3,1-4",
+      "meditacao": "<p>Chegamos ao último dia desta primeira etapa. São Paulo resume tudo: se ressuscitastes com Cristo, buscai as coisas do alto, onde Cristo está sentado à direita de Deus. Pensai nas coisas do alto, e não nas da terra.</p><p>Esta não é uma fuga da realidade. Pelo Batismo, já participamos da vida nova de Cristo. A nossa vida está escondida com Cristo em Deus. Buscar as coisas do alto é viver a partir dessa verdade: somos filhos de Deus, temos uma esperança que não decepciona e caminhamos para a casa do Pai.</p><p>Olhe para trás nestes doze dias. O que você percebeu sobre o espírito do mundo em sua vida? Que apegos ficaram mais claros? Não se assuste com o que viu. Agradeça a luz recebida e entregue tudo a Nossa Senhora. Amanhã começa a semana do conhecimento de si mesmo, e ela será a guia.</p>",
+      "proposito": "Fazer um breve balanço destes doze dias e anotar um compromisso concreto para continuar."
+    },
+    {
+      "dia": 13,
+      "tema": "O fariseu e o publicano",
+      "leitura": "Lc 18,9-14; Imitação de Cristo, livro I, cap. 2",
+      "meditacao": "<p>Dois homens sobem ao Templo para rezar. O fariseu, de pé, agradece por não ser como os outros e enumera suas boas obras. O publicano fica à distância, não ousa levantar os olhos e diz apenas: meu Deus, tem piedade de mim, que sou pecador. Jesus afirma que foi este que voltou para casa justificado.</p><p>Conhecer a si mesmo começa aqui. O fariseu se conhecia mal: via apenas o que fazia de bom e comparava-se com os outros. O publicano se via diante de Deus, e por isso via a verdade. A Imitação de Cristo ensina, no segundo capítulo do primeiro livro, que a lição mais alta e mais útil é o verdadeiro conhecimento de si mesmo, unido ao humilde sentir de si.</p><p>Hoje, ao rezar, deixe de lado as comparações. Não olhe para os defeitos dos outros. Coloque-se diante de Deus como você é, com simplicidade, e repita a oração do publicano.</p>",
+      "proposito": "Repetir várias vezes durante o dia: meu Deus, tende piedade de mim, que sou pecador."
+    },
+    {
+      "dia": 14,
+      "tema": "A luta interior",
+      "leitura": "Rm 7,18-25",
+      "meditacao": "<p>São Paulo descreve uma experiência que todos conhecemos: não faço o bem que quero, mas o mal que não quero. Ele sabia o que era certo, desejava fazê-lo, e ainda assim se via arrastado por aquilo que rejeitava. Por isso exclama: quem me libertará? E responde com gratidão: graças sejam dadas a Deus, por Jesus Cristo, nosso Senhor.</p><p>Conhecer a si mesmo é reconhecer essa divisão interior. A Igreja ensina que, mesmo depois do Batismo, permanece em nós uma inclinação ao mal, que precisa ser combatida com a ajuda da graça. Não é motivo de desespero, mas de vigilância e de humildade.</p><p>Quais são as suas lutas mais repetidas? Talvez a impaciência, a língua, a preguiça, a impureza, a inveja. Dê nome a elas diante de Deus. Quem conhece o terreno sabe onde precisa se proteger. E lembre-se: a vitória não vem do esforço sozinho, mas da graça de Jesus Cristo.</p>",
+      "proposito": "Identificar o pecado que mais se repete em minha vida e escolher um meio concreto para combatê-lo."
+    },
+    {
+      "dia": 15,
+      "tema": "Um coração arrependido",
+      "leitura": "Sl 51(50)",
+      "meditacao": "<p>O Salmo 51 é a grande oração de arrependimento da Bíblia. A tradição o liga ao rei Davi depois do seu pecado. Ele não esconde nada nem procura desculpas: reconheço a minha culpa, e o meu pecado está sempre diante de mim. Mas também não se fecha na culpa. Ele pede: cria em mim, ó Deus, um coração puro.</p><p>Aqui está o equilíbrio do verdadeiro conhecimento de si. Ver o pecado com clareza e, ao mesmo tempo, confiar na misericórdia. O orgulhoso esconde o pecado; o desesperado só vê o pecado. O humilde vê o pecado e vê, ainda maior, o amor de Deus que perdoa.</p><p>O salmo também diz que Deus não despreza um coração contrito e humilhado. É o que Ele deseja de nós. Reze este salmo devagar, frase por frase. Se faz tempo que você não se confessa, esta é uma boa ocasião para marcar a sua confissão antes do dia da consagração.</p>",
+      "proposito": "Rezar o Salmo 51 com calma e, se for preciso, marcar dia e hora para me confessar."
+    },
+    {
+      "dia": 16,
+      "tema": "O filho que volta para casa",
+      "leitura": "Lc 15,11-32",
+      "meditacao": "<p>O filho mais novo pede a herança, vai para longe e gasta tudo. Quando chega à miséria, cuidando de porcos, cai em si. Esta expressão é preciosa: ele cai em si, isto é, enfim se conhece. Reconhece o que fez, lembra-se da casa do pai e decide voltar.</p><p>O mais bonito é a reação do pai. Ele o vê de longe, corre ao seu encontro, abraça-o e o beija antes mesmo de ouvir o pedido de perdão. Devolve-lhe a dignidade de filho e faz festa. Assim é Deus com cada um de nós.</p><p>A parábola também fala do filho mais velho, que nunca saiu de casa, mas tinha o coração distante do pai. Talvez nos pareçamos mais com ele: cumprimos as obrigações, mas sem alegria, e com dificuldade de nos alegrar com a conversão dos outros. Conhecer a si mesmo é perguntar com sinceridade: qual dos dois filhos sou eu hoje?</p>",
+      "proposito": "Perguntar a mim mesmo com qual dos dois filhos me pareço e dar hoje um passo de volta à casa do Pai."
+    },
+    {
+      "dia": 17,
+      "tema": "Sem mim nada podeis fazer",
+      "leitura": "Jo 15,1-8",
+      "meditacao": "<p>Jesus usa a imagem da videira: eu sou a videira, vós os ramos. Quem permanece em mim, e eu nele, dá muito fruto, porque sem mim nada podeis fazer. Um ramo separado do tronco seca, por mais bonito que pareça por algum tempo.</p><p>Conhecer a si mesmo é também reconhecer essa dependência. Por natureza queremos ser autossuficientes, resolver tudo sozinhos, mostrar que damos conta. Mas no caminho da santidade, a nossa força sozinha não leva longe. Tudo o que é verdadeiramente bom em nós vem da graça.</p><p>Essa verdade não humilha, liberta. Não precisamos carregar o peso de ser perfeitos por conta própria. Precisamos permanecer unidos a Jesus pela oração, pelos sacramentos e pela obediência à sua Palavra. São Luís de Montfort ensina que Maria é o meio mais seguro de permanecer nessa união, porque toda a sua vida foi uma união perfeita com o Filho.</p>",
+      "proposito": "Começar cada atividade importante de hoje com uma breve oração pedindo a ajuda de Jesus."
+    },
+    {
+      "dia": 18,
+      "tema": "As lágrimas de Pedro",
+      "leitura": "Lc 22,54-62",
+      "meditacao": "<p>Pedro tinha prometido seguir Jesus até a prisão e a morte. Poucas horas depois, no pátio do sumo sacerdote, negou três vezes que o conhecia. O galo cantou. Então o Senhor, voltando-se, olhou para Pedro. E Pedro, saindo para fora, chorou amargamente.</p><p>Pedro conheceu a si mesmo naquela noite. Descobriu que era mais fraco do que imaginava. Sua confiança estava apoiada em si mesmo, e ela desabou. Mas o olhar de Jesus não foi de condenação. Foi um olhar que o fez chorar de arrependimento, e não de desespero.</p><p>Judas também reconheceu o seu pecado, mas não voltou ao Senhor. A diferença entre os dois está no que fizeram depois da queda. Pedro deixou-se olhar por Jesus e voltou. Quando você cair, e todos caímos, não fuja. Deixe Jesus olhar para você. O arrependimento sincero, levado à confissão, é o início de uma nova fidelidade.</p>",
+      "proposito": "Depois de qualquer falta de hoje, voltar logo a Jesus com um ato de contrição, sem desanimar."
+    },
+    {
+      "dia": 19,
+      "tema": "A força na fraqueza",
+      "leitura": "2Cor 12,7-10",
+      "meditacao": "<p>São Paulo conta que pediu três vezes ao Senhor que o livrasse de um espinho na carne. A resposta foi: basta-te a minha graça, porque a força se manifesta plenamente na fraqueza. E Paulo conclui: quando sou fraco, então é que sou forte.</p><p>Esta semana nos fez olhar para nossas fraquezas, pecados e limites. A conclusão não é a tristeza, mas a confiança. Deus não espera que deixemos de ser fracos para nos amar e nos usar. Ele age precisamente através de quem reconhece que precisa d'Ele.</p><p>Há fraquezas que são pecado e devem ser combatidas. Há outras que são limites, feridas ou sofrimentos que Deus permite e que podem ser oferecidos. Peça discernimento para distinguir umas das outras. Amanhã começa a semana dedicada a Nossa Senhora. Quem se conheceu pequeno está pronto para se deixar conduzir por uma Mãe.</p>",
+      "proposito": "Oferecer a Deus, por meio de Maria, uma fraqueza ou um sofrimento que não posso mudar."
+    },
+    {
+      "dia": 20,
+      "tema": "O sim de Maria na Anunciação",
+      "leitura": "Lc 1,26-38; Tratado da Verdadeira Devoção, n. 1",
+      "meditacao": "<p>O anjo Gabriel é enviado a uma jovem de Nazaré. Ele a saúda como cheia de graça e anuncia que ela será Mãe do Filho do Altíssimo. Maria pergunta como isso acontecerá, escuta a resposta e diz: eis a serva do Senhor, faça-se em mim segundo a tua palavra.</p><p>São Luís de Montfort começa o seu Tratado lembrando que foi por meio da Santíssima Virgem que Jesus Cristo veio ao mundo, e que é também por meio dela que Ele deve reinar no mundo. Deus quis precisar do sim de Maria. Ela não é um detalhe da história da salvação, mas parte do plano de Deus desde o início.</p><p>O sim de Maria é total, humilde e confiante. Ela não entende tudo, mas confia em quem a chama. Ao nos consagrarmos a ela, queremos aprender esse mesmo sim. Pense hoje: em que área da minha vida Deus está pedindo um sim que ainda não dei?</p>",
+      "proposito": "Rezar o Angelus ou três Ave-Marias ao meio-dia, pedindo a graça de dizer sim a Deus como Maria."
+    },
+    {
+      "dia": 21,
+      "tema": "Maria leva Jesus aos outros",
+      "leitura": "Lc 1,39-56",
+      "meditacao": "<p>Logo depois da Anunciação, Maria parte apressadamente para a casa de Isabel. Leva Jesus em seu ventre e, ao chegar, a criança salta de alegria no seio de Isabel, que fica cheia do Espírito Santo. Maria não guarda para si o dom recebido. Ela o leva aos outros, servindo.</p><p>Isabel a chama de bendita entre as mulheres e feliz porque acreditou. Maria responde com o Magnificat: a minha alma engrandece o Senhor. Toda a glória ela devolve a Deus. Olhou para a humildade de sua serva, diz ela. Essa é a marca de Maria: quanto mais recebe, mais se esconde e mais aponta para Deus.</p><p>Quem se consagra a Maria aprende com ela a servir sem chamar atenção e a levar Jesus por onde passa. Não com discursos, mas com caridade concreta. Há alguém perto de você, talvez na própria família, que precisa de uma visita, de uma ajuda, de uma presença?</p>",
+      "proposito": "Visitar, ligar ou ajudar alguém que precisa, levando Jesus com a minha presença."
+    },
+    {
+      "dia": 22,
+      "tema": "Maria guardava tudo no coração",
+      "leitura": "Lc 2,1-20",
+      "meditacao": "<p>Em Belém, não havia lugar para eles na hospedaria. O Filho de Deus nasce pobre e é colocado numa manjedoura. Os pastores chegam, contam o que os anjos lhes disseram, e todos se admiram. São Lucas acrescenta: Maria, porém, conservava todas essas coisas, meditando-as em seu coração.</p><p>Maria é mulher de contemplação. Ela não entende tudo de imediato, mas guarda, medita, relaciona os acontecimentos com a Palavra de Deus. Num mundo de barulho e pressa, aprender com Maria a guardar e meditar é um grande dom.</p><p>A vida de cada um de nós também tem acontecimentos que não compreendemos: alegrias inesperadas, dificuldades, mudanças de rumo. Maria ensina a não reagir só por impulso, mas a levar tudo para a oração. O terço é uma forma simples de fazer isso: com ela, meditamos os mistérios da vida de Jesus e aprendemos a ver nossa própria vida à luz deles.</p>",
+      "proposito": "Rezar hoje um terço meditando com calma os mistérios gozosos."
+    },
+    {
+      "dia": 23,
+      "tema": "Uma espada transpassará a tua alma",
+      "leitura": "Lc 2,22-35",
+      "meditacao": "<p>Maria e José levam o Menino ao Templo para apresentá-lo ao Senhor, como mandava a Lei. O velho Simeão o toma nos braços e bendiz a Deus. Depois diz a Maria: este menino será sinal de contradição, e uma espada transpassará a tua alma.</p><p>Desde cedo, Maria sabe que seguir o Filho incluirá dor. Ela não recebeu privilégios que a afastassem do sofrimento. Ao contrário, foi a mais unida a Jesus também na cruz. A Igreja venera suas dores e a reconhece como Mãe que compreende o sofrimento dos filhos.</p><p>A apresentação no Templo é também um gesto de oferta. Maria oferece a Deus o seu Filho, que já pertencia a Ele. Na consagração, faremos algo parecido: oferecer a Deus, pelas mãos de Maria, tudo o que somos e temos. Se você vive algum sofrimento agora, coloque-o junto ao coração de Maria. Ela sabe o que é amar e sofrer ao mesmo tempo.</p>",
+      "proposito": "Rezar por alguém que está sofrendo, confiando essa pessoa às dores de Maria."
+    },
+    {
+      "dia": 24,
+      "tema": "Fazei tudo o que Ele vos disser",
+      "leitura": "Jo 2,1-11",
+      "meditacao": "<p>Numa festa de casamento em Caná, o vinho acaba. Maria percebe antes de todos e diz a Jesus: eles não têm mais vinho. Depois se volta para os serventes e diz as últimas palavras dela registradas nos Evangelhos: fazei tudo o que ele vos disser. Jesus transforma a água em vinho, e os discípulos creem nele.</p><p>Em Caná, vemos como Maria age. Ela está atenta às necessidades dos outros, mesmo as pequenas. Leva-as a Jesus com confiança. E nunca chama a atenção para si: aponta sempre para o Filho e pede que se faça o que Ele diz.</p><p>Esta é a essência da verdadeira devoção a Maria. Ela não nos prende a si mesma. Leva-nos a obedecer a Jesus. Quem ama Maria de verdade se torna mais fiel ao Evangelho. Hoje, ouça essa frase como dita a você: fazei tudo o que ele vos disser. O que Jesus está dizendo e você ainda não fez?</p>",
+      "proposito": "Apresentar a Maria uma necessidade concreta e fazer hoje o que já sei que Jesus me pede."
+    },
+    {
+      "dia": 25,
+      "tema": "Eis aí tua Mãe",
+      "leitura": "Jo 19,25-27",
+      "meditacao": "<p>Junto à cruz de Jesus estava de pé sua Mãe. Os discípulos tinham fugido, mas ela permaneceu. Vendo sua Mãe e, perto dela, o discípulo que amava, Jesus disse: mulher, eis aí teu filho. Depois disse ao discípulo: eis aí tua mãe. E desde aquela hora o discípulo a recebeu em sua casa.</p><p>No momento supremo da sua entrega, Jesus nos deu sua própria Mãe. A Igreja sempre viu nesse discípulo cada um de nós. Maria é Mãe de todos os que seguem o seu Filho, e cuida de nós com amor materno.</p><p>Receber Maria em casa é exatamente o que a consagração significa. Não é só rezar para ela de vez em quando. É dar a ela um lugar real na própria vida, nas decisões, nas lutas, na oração de cada dia. Ela permaneceu de pé junto à cruz de Jesus e permanece junto às nossas cruzes. Peça hoje a graça de recebê-la de verdade.</p>",
+      "proposito": "Dizer a Maria, com palavras simples, que a recebo como Mãe em minha casa e em minha vida."
+    },
+    {
+      "dia": 26,
+      "tema": "Maria no Cenáculo",
+      "leitura": "At 1,12-14",
+      "meditacao": "<p>Depois da Ascensão, os apóstolos voltam para Jerusalém e sobem ao Cenáculo. São Lucas registra que todos perseveravam unânimes na oração, com algumas mulheres e com Maria, a mãe de Jesus.</p><p>Ali, a Mãe de Jesus está no meio da Igreja nascente. Ela reza com os apóstolos, esperando o Espírito Santo prometido. Aquela que concebeu Jesus pelo poder do Espírito agora acompanha a Igreja que vai nascer com a vinda do mesmo Espírito em Pentecostes.</p><p>Maria continua presente na Igreja como Mãe que reza com os filhos. Quem se consagra a ela não se fecha numa devoção particular, mas se insere mais profundamente na vida da Igreja, na comunidade, nos sacramentos. Terminamos esta semana pedindo, com Maria, o Espírito Santo. Ele é quem forma Cristo em nós, como formou no seio da Virgem.</p>",
+      "proposito": "Rezar hoje o Vinde, Espírito Santo, unido a Maria, pedindo a graça de uma boa consagração."
+    },
+    {
+      "dia": 27,
+      "tema": "O Verbo se fez carne",
+      "leitura": "Jo 1,1-14",
+      "meditacao": "<p>No princípio era o Verbo, e o Verbo estava junto de Deus, e o Verbo era Deus. São João abre o seu Evangelho contemplando quem é Jesus: o Filho eterno do Pai, por quem tudo foi feito. E então anuncia o mistério mais surpreendente: o Verbo se fez carne e habitou entre nós.</p><p>Conhecer Jesus Cristo começa por aqui. Ele não é apenas um grande mestre ou um exemplo moral. É Deus verdadeiro, que se fez homem verdadeiro, sem deixar de ser Deus. Assumiu a nossa natureza para nos salvar e nos tornar filhos de Deus.</p><p>São Luís de Montfort contempla com especial amor esse mistério da Encarnação, realizado no seio de Maria. Foi nela que o Verbo se fez carne. Por isso, quem se consagra a Maria entra mais profundamente nesse mistério. Hoje, reze lentamente o início do Evangelho de João e adore em silêncio o Deus que quis estar perto de nós.</p>",
+      "proposito": "Fazer hoje um momento de adoração, em casa ou diante do Santíssimo, contemplando o Verbo encarnado."
+    },
+    {
+      "dia": 28,
+      "tema": "Jesus se esvaziou a si mesmo",
+      "leitura": "Fl 2,5-11",
+      "meditacao": "<p>São Paulo pede: tende em vós os mesmos sentimentos de Cristo Jesus. E descreve esses sentimentos num hino antigo. Jesus, sendo de condição divina, não se apegou ao ser igual a Deus. Esvaziou-se a si mesmo, assumindo a condição de servo, e humilhou-se, fazendo-se obediente até a morte, e morte de cruz. Por isso, Deus o exaltou.</p><p>O caminho de Jesus é o caminho da humildade. Ele desce para nos elevar. Nós, ao contrário, tantas vezes queremos subir, aparecer, ser reconhecidos. Conhecer Jesus é deixar-se corrigir por esse modo de ser.</p><p>Há uma ligação bonita entre os doze primeiros dias e esta semana. Lá, pedimos para nos esvaziar do espírito do mundo. Aqui, contemplamos o próprio Jesus que se esvaziou por amor. Não nos esvaziamos para ficar vazios, mas para sermos preenchidos por Ele. Peça hoje os sentimentos de Cristo: humildade, obediência e amor até o fim.</p>",
+      "proposito": "Fazer hoje um serviço humilde em casa ou no trabalho, sem esperar reconhecimento."
+    },
+    {
+      "dia": 29,
+      "tema": "O Bom Pastor",
+      "leitura": "Jo 10,11-18",
+      "meditacao": "<p>Eu sou o Bom Pastor. O bom pastor dá a vida pelas suas ovelhas. Jesus se apresenta com uma imagem de cuidado e de entrega. Ele não é como o mercenário, que foge quando vê o lobo, porque as ovelhas não lhe pertencem. Jesus conhece cada uma pelo nome, e elas conhecem a sua voz.</p><p>Conhecer Jesus é também deixar-se conhecer por Ele. Não somos para Ele uma multidão anônima. Ele conhece nossa história, nossas feridas, nossos medos e nossos desejos mais profundos. E dá a vida por nós livremente: ninguém a tira de mim, diz Ele, eu a dou por mim mesmo.</p><p>Quantas vezes procuramos segurança em outros pastores, em outras vozes que prometem muito e não cuidam de nós. Aprender a reconhecer a voz de Jesus exige silêncio, oração e leitura da Palavra. Peça hoje a graça de ouvir a voz do Bom Pastor no meio de tantas vozes e de segui-la com confiança.</p>",
+      "proposito": "Desligar por uma hora as distrações do dia e dedicar parte desse tempo a ouvir Jesus na oração."
+    },
+    {
+      "dia": 30,
+      "tema": "Jesus lava os pés dos discípulos",
+      "leitura": "Jo 13,1-15",
+      "meditacao": "<p>Tendo amado os seus que estavam no mundo, amou-os até o fim. Assim São João introduz a Última Ceia. Jesus se levanta da mesa, tira o manto, toma uma toalha e começa a lavar os pés dos discípulos. Pedro resiste, mas Jesus insiste: se eu não te lavar, não terás parte comigo.</p><p>O gesto é surpreendente. O Mestre e Senhor faz o trabalho de um servo. E depois explica: dei-vos o exemplo, para que, como eu vos fiz, também vós o façais. Conhecer Jesus é aprender que o amor verdadeiro se faz serviço concreto, especialmente a quem não merece ou não retribui.</p><p>Também precisamos, como Pedro, deixar que Jesus nos lave. Às vezes é mais fácil servir do que aceitar ser servido e perdoado. O sacramento da Confissão é esse lava-pés em nossa vida. Se ainda não se confessou nesta preparação, procure fazê-lo nestes últimos dias, antes da consagração.</p>",
+      "proposito": "Servir hoje alguém com quem tenho dificuldade de convivência e, se ainda não fiz, preparar minha confissão."
+    },
+    {
+      "dia": 31,
+      "tema": "Tomar a cruz e seguir Jesus",
+      "leitura": "Lc 9,23-24; Imitação de Cristo, livro II, cap. 12",
+      "meditacao": "<p>Se alguém quer vir após mim, renuncie a si mesmo, tome a sua cruz cada dia e siga-me. Jesus não esconde o preço do seguimento. Ele mesmo carregou a cruz por amor a nós e convida os seus discípulos a fazer o mesmo.</p><p>A Imitação de Cristo dedica um capítulo à estrada real da santa cruz. Ensina que a cruz está sempre presente na vida, e que não adianta fugir dela, porque onde quer que formos a encontraremos. Mas, levada com amor e unida à de Jesus, ela se torna caminho de vida e de paz.</p><p>A cruz de cada dia raramente é extraordinária. Está no cansaço, na doença, no temperamento difícil de alguém, nas contrariedades, na fidelidade aos deveres. São Luís de Montfort amava profundamente a cruz e ensinava a carregá-la com Maria, que esteve ao pé da cruz do Filho. Hoje, não reclame da sua cruz. Ofereça-a.</p>",
+      "proposito": "Aceitar sem reclamar uma contrariedade de hoje e oferecê-la a Jesus pelas mãos de Maria."
+    },
+    {
+      "dia": 32,
+      "tema": "O pão vivo descido do céu",
+      "leitura": "Jo 6,51-58",
+      "meditacao": "<p>Eu sou o pão vivo descido do céu. Quem come deste pão viverá eternamente. Jesus fala com clareza: a minha carne é verdadeiramente comida, e o meu sangue é verdadeiramente bebida. Quem come a minha carne e bebe o meu sangue permanece em mim, e eu nele.</p><p>A Igreja crê que na Eucaristia Jesus está verdadeira, real e substancialmente presente, com seu corpo, sangue, alma e divindade. Conhecer Jesus é também reconhecê-lo ali, escondido sob as aparências do pão e do vinho. É o mesmo Jesus que nasceu de Maria, morreu na cruz e ressuscitou.</p><p>O dia da consagração é, por excelência, um dia de comunhão. Prepare o coração para receber Jesus com fé, em estado de graça. Quem comunga se une a Jesus de modo íntimo. Maria foi o primeiro sacrário: ela trouxe Jesus em si. Peça a ela que prepare a sua alma para recebê-lo bem.</p>",
+      "proposito": "Fazer uma visita ao Santíssimo Sacramento ou, se não for possível, uma comunhão espiritual."
+    },
+    {
+      "dia": 33,
+      "tema": "Já não sou eu que vivo",
+      "leitura": "Gl 2,19-20; Tratado da Verdadeira Devoção, n. 120",
+      "meditacao": "<p>Já não sou eu que vivo, é Cristo que vive em mim. São Paulo resume nesta frase o fim de toda vida cristã. Não se trata apenas de imitar Jesus por fora, mas de deixar que Ele viva em nós, que pense, ame e aja através de nós.</p><p>São Luís de Montfort ensina no Tratado que toda a nossa perfeição consiste em sermos conformes, unidos e consagrados a Jesus Cristo. Por isso, a mais perfeita de todas as devoções é a que nos conforma, une e consagra mais perfeitamente a Ele. E como Maria é a criatura mais conformada a Jesus, a consagração a ela é a que mais perfeitamente nos consagra a Ele.</p><p>Amanhã é o dia da consagração. Olhe para estes trinta e três dias com gratidão. Não importa se houve falhas ou dias esquecidos. O que conta é o desejo sincero de pertencer inteiramente a Jesus pelas mãos de Maria. Durma hoje em paz, entregue.</p>",
+      "proposito": "Reler o ato de consagração, preparar a confissão e a comunhão de amanhã e dormir confiando em Maria."
+    }
+  ],
+  "dia_consagracao": {
+    "texto": "<p>Depois dos 33 dias de preparação, chega o <strong>dia da consagração total a Jesus por Maria</strong>. Muitos fiéis escolhem uma festa de Nossa Senhora para esse dia e contam 33 dias para trás para saber quando começar. Não é obrigatório, mas é um costume bonito e muito difundido.</p><ul><li><strong>Confissão:</strong> confesse-se durante a preparação ou nos dias próximos à consagração. Se precisar, veja <a href=\"/exame-de-consciencia/como-fazer-uma-boa-confissao-passo-a-passo\">como fazer uma boa confissão passo a passo</a>.</li><li><strong>Comunhão:</strong> participe da Missa e comungue com a intenção de entregar-se inteiramente a Jesus por meio de Maria.</li><li><strong>Ato de consagração:</strong> depois da comunhão, ou em outro momento do dia, reze o ato de consagração composto por São Luís Maria Grignion de Montfort. Muitos o rezam diante de uma imagem de Nossa Senhora e assinam o texto, guardando-o com cuidado.</li><li><strong>Gesto de oferta:</strong> ofereça algo a Jesus pelas mãos de Maria, como uma esmola, um jejum, uma mortificação ou uma obra de caridade, como sinal da entrega feita.</li></ul><p>A consagração não termina nesse dia. Ela se vive todos os dias, fazendo tudo por Maria, com Maria, em Maria e para Maria, a fim de fazer tudo mais perfeitamente por Jesus, com Jesus, em Jesus e para Jesus. Muitos a renovam todos os anos na mesma data. Para entender melhor o sentido dessa entrega, leia <a href=\"/devocoes-marianas/a-consagracao-a-nossa-senhora-segundo-sao-luis-de-montfort\">a consagração a Nossa Senhora segundo São Luís de Montfort</a>.</p>"
+  },
+  "aviso": "<p>As orações indicadas para cada etapa seguem o esquema mais difundido; edições do Tratado podem trazer pequenas variações.</p>"
+}

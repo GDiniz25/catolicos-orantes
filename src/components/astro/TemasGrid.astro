@@ -1,0 +1,42 @@
+---
+/** Grade com todas as seções do site, cada uma com ícone, cor própria e número de guias. */
+import { sections } from '@/data/sections';
+import { visualDe } from '@/config/categoryVisual';
+
+interface Props {
+  counts: Record<string, number>;
+  /** seção atual (nas páginas de categoria): continua na grade, marcada como "você está aqui" */
+  exceto?: string;
+  compacto?: boolean;
+}
+const { counts, exceto, compacto = false } = Astro.props;
+// Todas as 14 seções sempre aparecem: número par, sem card sozinho na última linha
+const itens = sections;
+---
+<ul class:list={['gs gap-3', compacto ? 'gs-sm2 gs-lg1' : 'gs-x2 gs-md3 gs-lg4']}>
+  {itens.map((s) => {
+    const Icon = s.icon;
+    const slug = s.href.slice(1);
+    const v = visualDe(slug);
+    const n = counts[slug] ?? 0;
+    const atual = slug === exceto;
+    return (
+      <li>
+        <a
+          href={s.href}
+          aria-current={atual ? 'page' : undefined}
+          class:list={['group flex h-full items-start gap-3.5 rounded-lg border bg-white transition-colors hover:border-co-warm-brown/35 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta', atual ? 'border-co-warm-brown/50 ring-1 ring-co-warm-brown/30' : 'border-co-warm-sand-dark', compacto ? 'p-3' : 'p-4 md:p-5']}
+        >
+          <span class:list={['flex shrink-0 items-center justify-center rounded-md', compacto ? 'h-9 w-9' : 'h-11 w-11']} style={`background:${v.fundo};color:${v.tinta}`}>
+            <Icon className={compacto ? 'h-[18px] w-[18px]' : 'h-[22px] w-[22px]'} strokeWidth={1.8} aria-hidden="true" />
+          </span>
+          <span class="min-w-0">
+            <span class:list={['block font-display font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta', compacto ? 'text-[16px]' : 'text-lg']}>{s.title}</span>
+            {!compacto && <span class="mt-1 block text-sm leading-snug text-co-warm-brown/75">{s.description}</span>}
+            {n > 0 && <span class="mt-1.5 block text-[13px] font-medium" style={`color:${v.tinta}`}>{n} {n === 1 ? 'guia' : 'guias'}{atual ? ' · você está aqui' : ''}</span>}
+          </span>
+        </a>
+      </li>
+    );
+  })}
+</ul>

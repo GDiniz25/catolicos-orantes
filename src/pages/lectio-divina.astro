@@ -1,0 +1,39 @@
+---
+import { BookHeart } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ContaProgresso from '@/components/islands/ContaProgresso';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import LectioGuiada from '@/components/islands/LectioGuiada';
+import { getLiturgia } from '@/lib/data';
+import { extractLeituras } from '@/lib/liturgy';
+import { getTodayStr } from '@/lib/dateUtils';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const lit = await getLiturgia(getTodayStr());
+const leituras = lit ? extractLeituras(lit.leituras) : [];
+const evangelho = [...leituras].reverse().find((l) => /^(Mt|Mc|Lc|Jo)\s/.test(l)) ?? null;
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Lectio Divina', path: '/lectio-divina' }];
+const FAQ = [
+  { q: 'O que é a Lectio Divina?', a: 'É a leitura orante da Sagrada Escritura, praticada desde os primeiros séculos e recomendada pela Igreja. Em passos simples, a pessoa lê, medita, reza e contempla a Palavra de Deus.' },
+  { q: 'Quanto tempo leva a Lectio Divina?', a: 'O tempo sugerido aqui soma cerca de 20 minutos, mas cada um pode ajustar. O importante é a escuta atenta, não o relógio.' },
+  { q: 'Qual texto usar na Lectio Divina?', a: 'O Evangelho do dia é uma ótima escolha, porque une a sua oração à de toda a Igreja. Também se pode seguir um livro da Bíblia aos poucos.' },
+];
+---
+<BaseLayout
+  title="Lectio Divina guiada: reze a Palavra passo a passo"
+  description="Faça a Lectio Divina com o Evangelho do dia: leitura, meditação, oração, contemplação e ação, com tempo sugerido e espaço para anotações."
+  path="/lectio-divina"
+  keywords="lectio divina, lectio divina passo a passo, leitura orante da bíblia, como fazer lectio divina, meditação do evangelho"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/lectio-divina')}#webpage`, url: absUrl('/lectio-divina'), name: 'Lectio Divina guiada', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Lectio Divina" subtitle="A leitura orante da Palavra de Deus, passo a passo, com o Evangelho de hoje." icon={BookHeart} crumbs={crumbs} tom={CATEGORY_VISUAL['liturgia-das-horas']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-12 px-4">
+      <LectioGuiada client:load evangelho={evangelho} />
+      <div class="mx-auto mt-8 max-w-2xl"><ContaProgresso client:idle origem="lectio" titulo="Guarde suas anotações" texto="Entre com seu e-mail para guardar suas anotações da Lectio e relê-las em qualquer aparelho. Só você vê. Sem senha: enviamos um link de acesso." /></div>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>

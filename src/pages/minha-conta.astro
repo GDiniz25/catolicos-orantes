@@ -1,0 +1,25 @@
+---
+import { User } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import MinhaConta from '@/components/islands/MinhaConta';
+import { breadcrumbSchema } from '@/lib/seo';
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Minha conta', path: '/minha-conta' },
+];
+---
+<BaseLayout
+  title="Minha conta | Católicos Orantes"
+  description="Entre com seu e-mail para guardar seu progresso no Caminho da Fé, no plano de leitura da Bíblia, nas novenas e nas demais ferramentas."
+  path="/minha-conta"
+  noIndex
+  jsonLd={[breadcrumbSchema(crumbs)]}
+  hidePrayerCTA
+>
+  <PageHeader title="Minha conta" subtitle="Seu progresso nas ferramentas do site, em qualquer aparelho." icon={User} crumbs={crumbs} />
+  <main id="conteudo" class="container mx-auto max-w-3xl px-4 py-8 md:py-12">
+    <MinhaConta client:load />
+  </main>
+</BaseLayout>

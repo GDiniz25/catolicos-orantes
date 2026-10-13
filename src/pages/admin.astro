@@ -1,0 +1,7 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AdminApp from '@/components/islands/AdminApp';
+---
+<BaseLayout title="Admin" description="Painel administrativo." path="/admin" noIndex bare>
+  <AdminApp client:only="react" />
+</BaseLayout>

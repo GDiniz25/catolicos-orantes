@@ -1,0 +1,89 @@
+---
+/**
+ * Roda do ano litúrgico: os 7 tempos em proporção real de dias, com a marca do dia de hoje.
+ * Os botões abaixo explicam cada tempo. Funciona sem JavaScript (mostra o tempo atual);
+ * com JavaScript, a marca se ajusta à data do leitor e os botões trocam a explicação.
+ */
+import { getTodayStr } from '@/lib/dateUtils';
+import { CORES, infoDoDia, segmentos, dataCurta } from '@/lib/anoLiturgico';
+
+const info = infoDoDia(getTodayStr());
+const segs = segmentos(info.tempos);
+const C = 110;
+const R1 = 104;
+const R0 = 76;
+const pt = (r: number, a: number) => {
+  const rad = ((a - 90) * Math.PI) / 180;
+  return `${(C + r * Math.cos(rad)).toFixed(2)} ${(C + r * Math.sin(rad)).toFixed(2)}`;
+};
+const arco = (a0: number, a1: number) => {
+  const big = a1 - a0 > 180 ? 1 : 0;
+  return `M ${pt(R1, a0)} A ${R1} ${R1} 0 ${big} 1 ${pt(R1, a1)} L ${pt(R0, a1)} A ${R0} ${R0} 0 ${big} 0 ${pt(R0, a0)} Z`;
+};
+const datas = (t: { inicio: string; fim: string }) => `${dataCurta(t.inicio)} a ${dataCurta(t.fim)}`;
+const atual = info.tempo;
+---
+<div class="flex flex-col items-center gap-5" data-roda>
+  <div class="relative w-full max-w-[280px] sm:max-w-[340px]">
+    <svg viewBox="0 0 220 220" class="block h-auto w-full" role="img" aria-label={`Ano litúrgico ${info.anoLiturgico}. Hoje: ${info.rotulo}.`}>
+      {segs.map((s) => (
+        <path d={arco(s.de + 0.6, s.ate - 0.6)} fill={CORES[s.tempo.cor].forte} data-seg={s.tempo.id} class="transition-opacity duration-200" />
+      ))}
+      <g data-marca transform={`rotate(${info.angulo.toFixed(2)} ${C} ${C})`}>
+        <line x1={C} y1={C - R1 - 6} x2={C} y2={C - R0 + 4} stroke="#2B2626" stroke-width="4" stroke-linecap="round" />
+        <circle cx={C} cy={C - R1 - 7} r="5" fill="#2B2626" stroke="#FCFAF8" stroke-width="2" />
+      </g>
+    </svg>
+    <div class="pointer-events-none absolute inset-[24%] flex flex-col items-center justify-center text-center">
+      <span class="text-xs text-co-warm-brown/75 md:text-[13px]">Ano litúrgico {info.anoLiturgico}</span>
+      <span class="mt-1 font-display text-xl font-semibold leading-tight text-co-warm-brown md:text-2xl" data-roda-nome>{atual.nome}</span>
+      <span class="mt-1 text-xs text-co-warm-brown/80 md:text-sm" data-roda-datas>{datas(atual)}</span>
+    </div>
+  </div>
+
+  <div class="flex w-full max-w-md flex-wrap justify-center gap-2" role="group" aria-label="Tempos do ano litúrgico">
+    {info.tempos.map((t) => (
+      <button
+        type="button"
+        data-tempo={t.id}
+        data-nome={t.nome}
+        data-datas={datas(t)}
+        data-texto={t.texto}
+        aria-pressed={t.id === atual.id ? 'true' : 'false'}
+        class="inline-flex h-14 basis-[calc(25%-0.375rem)] flex-col items-center justify-center gap-1 rounded-lg border border-co-warm-sand-dark bg-white px-1 text-[13px] font-medium leading-none text-co-warm-brown transition-colors hover:border-co-warm-brown/40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta aria-pressed:border-co-warm-brown aria-pressed:bg-co-warm-brown aria-pressed:text-white sm:h-11 sm:flex-row sm:gap-2 sm:text-sm"
+      >
+        <span class="h-2.5 w-2.5 rounded-full" style={`background:${CORES[t.cor].forte}`} aria-hidden="true"></span>
+        {t.curto}
+      </button>
+    ))}
+  </div>
+  <p class="max-w-md text-center text-[15px] leading-relaxed text-co-warm-brown/80" aria-live="polite">
+    <span data-roda-texto>{atual.texto}</span>
+    <span class="mt-1 block font-semibold text-co-warm-terracotta" data-roda-faltam>Faltam {info.proximo.dias} {info.proximo.dias === 1 ? 'dia' : 'dias'} para: {info.proximo.nome}</span>
+  </p>
+</div>
+
+<script>
+  import { infoDoDia, hojeBrasilia } from '@/lib/anoLiturgico';
+  document.querySelectorAll<HTMLElement>('[data-roda]').forEach((roda) => {
+    const info = infoDoDia(hojeBrasilia());
+    const marca = roda.querySelector('[data-marca]');
+    marca?.setAttribute('transform', `rotate(${info.angulo.toFixed(2)} 110 110)`);
+    const faltam = roda.querySelector('[data-roda-faltam]');
+    if (faltam) faltam.textContent = `Faltam ${info.proximo.dias} ${info.proximo.dias === 1 ? 'dia' : 'dias'} para: ${info.proximo.nome}`;
+    const botoes = Array.from(roda.querySelectorAll<HTMLButtonElement>('[data-tempo]'));
+    const segs = Array.from(roda.querySelectorAll<SVGPathElement>('[data-seg]'));
+    const escolher = (id: string, destacar: boolean) => {
+      const b = botoes.find((x) => x.dataset.tempo === id);
+      if (!b) return;
+      botoes.forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+      segs.forEach((s) => (s.style.opacity = destacar && s.dataset.seg !== id ? '0.35' : '1'));
+      roda.querySelector('[data-roda-nome]')!.textContent = b.dataset.nome || '';
+      roda.querySelector('[data-roda-datas]')!.textContent = b.dataset.datas || '';
+      roda.querySelector('[data-roda-texto]')!.textContent = b.dataset.texto || '';
+      if (faltam) (faltam as HTMLElement).hidden = id !== info.tempo.id;
+    };
+    escolher(info.tempo.id, false);
+    botoes.forEach((b) => b.addEventListener('click', () => escolher(b.dataset.tempo!, b.dataset.tempo !== info.tempo.id)));
+  });
+</script>

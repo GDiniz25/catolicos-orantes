@@ -1,0 +1,57 @@
+---
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { BookOpen } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import VersiculoViewer, { type VersiculoView } from '@/components/islands/VersiculoViewer';
+import { getVersiculoDoDia } from '@/data/versiculos';
+import reflexoes from '@/data/reflexoes';
+import { getTodayStr, parseDate, getDayOfYear, formatDateSimple } from '@/lib/dateUtils';
+import { absUrl, breadcrumbSchema, publisherRef } from '@/lib/seo';
+
+const today = getTodayStr();
+const d = parseDate(today);
+const v = getVersiculoDoDia(d);
+const initial: VersiculoView = { date: today, texto: v.texto, referencia: v.referencia, reflexao: reflexoes[getDayOfYear(d) % reflexoes.length] };
+const dataSimples = formatDateSimple(today);
+const title = `Versículo do Dia: ${dataSimples}`;
+const description = `${v.referencia}: "${v.texto}" Leia o versículo bíblico de hoje com reflexão espiritual diária.`.slice(0, 160);
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Versículo do Dia', path: '/versiculo-do-dia' },
+];
+const jsonLd = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl('/versiculo-do-dia')}#article`,
+    headline: title,
+    description,
+    datePublished: `${today}T00:00:00-03:00`,
+    dateModified: `${today}T00:00:00-03:00`,
+    inLanguage: 'pt-BR',
+    image: [absUrl('/og-image.png')],
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl('/versiculo-do-dia') },
+    articleBody: `${v.texto} (${v.referencia}). ${initial.reflexao}`,
+  },
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path="/versiculo-do-dia"
+  keywords={`versículo do dia, versículo de hoje, palavra de Deus hoje, reflexão bíblica diária, ${v.referencia}`}
+  ogType="article"
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-2xl"
+>
+  <PageHeader title="Versículo do Dia" subtitle={`Palavra de Deus para ${dataSimples}`} icon={BookOpen} crumbs={crumbs} tom={CATEGORY_VISUAL['oracoes-do-dia-a-dia']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <VersiculoViewer client:load initial={initial} />
+    </div>
+  </main>
+</BaseLayout>

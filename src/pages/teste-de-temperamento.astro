@@ -1,0 +1,47 @@
+---
+import { Brain } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ContaProgresso from '@/components/islands/ContaProgresso';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import TemperamentoQuiz from '@/components/islands/TemperamentoQuiz';
+import dados from '@/data/conteudo/temperamento.json';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Teste de temperamento', path: '/teste-de-temperamento' }];
+const r = dados.resultados as Record<string, { nome: string; resumo: string; artigo: string; virtude_chave: string }>;
+const FAQ = [
+  { q: 'A teoria dos temperamentos é doutrina da Igreja?', a: 'Não. É uma teoria da Antiguidade, de Hipócrates e Galeno, usada por muitos autores espirituais como ferramenta de autoconhecimento. Não é dogma, nem diagnóstico psicológico.' },
+  { q: 'Posso ter mais de um temperamento?', a: 'Sim. Quase todos têm um temperamento predominante e outro secundário. Por isso o resultado mostra a pontuação dos quatro.' },
+  { q: 'Para que serve conhecer o temperamento na vida espiritual?', a: 'Ajuda a reconhecer as forças que Deus deu e os defeitos que mais precisam de vigilância, para escolher as virtudes a cultivar e a forma de oração que mais ajuda. A graça não destrói a natureza, mas a aperfeiçoa.' },
+  { q: 'O temperamento muda com o tempo?', a: 'O fundo do temperamento tende a permanecer, mas o caráter se forma com as virtudes, a graça e as escolhas de cada dia.' },
+];
+---
+<BaseLayout
+  title="Teste de temperamento católico: descubra o seu"
+  description="Teste gratuito dos quatro temperamentos (colérico, sanguíneo, melancólico e fleumático) com forças, desafios e conselhos para a vida espiritual."
+  path="/teste-de-temperamento"
+  keywords="teste de temperamento, quatro temperamentos, colérico, sanguíneo, melancólico, fleumático, temperamento católico"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/teste-de-temperamento')}#webpage`, url: absUrl('/teste-de-temperamento'), name: 'Teste dos quatro temperamentos', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Teste de temperamento" subtitle="Conheça seu temperamento entre os quatro clássicos e veja que virtudes cultivar. Uma ferramenta de autoconhecimento a serviço da vida espiritual." icon={Brain} crumbs={crumbs} tom={CATEGORY_VISUAL['catecismo']} />
+  <main id="conteudo">
+    <section id="teste-temperamento" class="scroll-mt-24">
+      <div class="container mx-auto max-w-4xl px-4 py-8 md:py-12"><TemperamentoQuiz client:visible />
+      <div class="mx-auto mt-8 max-w-2xl"><ContaProgresso client:idle origem="temperamento" titulo="Guarde seu resultado" texto="Entre com seu e-mail para guardar seu resultado e revê-lo em qualquer aparelho. Sem senha: enviamos um link de acesso." /></div></div>
+    </section>
+    <section class="border-t border-co-warm-sand-dark">
+      <div class="container mx-auto max-w-4xl space-y-8 px-4 py-10 md:py-14">
+        <h2 class="font-display text-2xl font-semibold md:text-3xl">Os quatro temperamentos</h2>
+        <ul class="grid gap-4 sm:grid-cols-2">
+          {Object.values(r).map((t) => (
+            <li><a href={t.artigo} class="block h-full rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">{t.nome}</span><span class="mt-1 block text-[15px] text-co-warm-brown/80">Virtude para cultivar: {t.virtude_chave}</span></a></li>
+          ))}
+        </ul>
+        <p class="text-[15px] text-co-warm-brown/75">Para entender a origem da teoria e como usá-la bem, leia <a href="/duvidas-da-fe/os-quatro-temperamentos-e-a-vida-espiritual" class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Os quatro temperamentos e a vida espiritual</a>.</p>
+        <Faq title="Perguntas frequentes" items={FAQ} />
+      </div>
+    </section>
+  </main>
+</BaseLayout>

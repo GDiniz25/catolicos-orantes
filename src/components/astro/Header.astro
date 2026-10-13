@@ -1,0 +1,196 @@
+---
+import { Image } from 'astro:assets';
+import { Menu, X, Search, ChevronDown, User } from 'lucide-react';
+import logo from '@/assets/logo.png';
+import { sections, navLinks } from '@/data/sections';
+---
+<header class="sticky top-0 z-50 border-b border-co-warm-sand-dark bg-co-warm-sand" data-header>
+  <div class="container mx-auto flex items-center justify-between px-4 py-3">
+    <a href="/" class="flex shrink-0 items-center gap-2" aria-label="Católicos Orantes: página inicial">
+      <Image src={logo} alt="Católicos Orantes" width={200} height={56} class="h-9 w-auto md:h-11" loading="eager" fetchpriority="high" />
+    </a>
+
+    <nav class="hidden items-center gap-5 xl:flex" aria-label="Navegação principal">
+      {navLinks.map((l) => (
+        <a href={l.href} class="text-[15px] font-medium text-co-warm-brown/85 transition-colors hover:text-co-warm-terracotta">{l.label}</a>
+      ))}
+      <div class="group relative">
+        <button type="button" class="flex items-center gap-1 text-[15px] font-medium text-co-warm-brown/85 transition-colors hover:text-co-warm-terracotta" aria-haspopup="true">
+          Seções
+          <ChevronDown className="h-3.5 w-3.5 transition-transform group-hover:rotate-180 group-focus-within:rotate-180" />
+        </button>
+        <div class="invisible absolute right-0 top-full pt-2 opacity-0 transition-opacity group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
+          <ul class="max-h-96 w-72 overflow-y-auto rounded-md border border-co-warm-sand-dark bg-co-warm-sand p-1.5 shadow-md">
+            {sections.map((s) => {
+              const Icon = s.icon;
+              return (
+                <li>
+                  <a href={s.href} class="flex items-center gap-3 rounded px-3 py-2 text-[15px] text-co-warm-brown/85 transition-colors hover:bg-co-warm-cream hover:text-co-warm-terracotta">
+                    <Icon className="h-4 w-4 shrink-0 text-co-warm-gold" aria-hidden="true" />
+                    {s.title}
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      </div>
+      <button type="button" data-search-toggle class="flex h-8 w-8 items-center justify-center rounded-full text-co-warm-brown/75 transition-colors hover:bg-co-warm-terracotta/10 hover:text-co-warm-terracotta" aria-label="Buscar" aria-expanded="false" aria-controls="busca-site">
+        <Search className="h-4 w-4" />
+      </button>
+      <a href="/minha-conta" class="-ml-2 flex h-8 w-8 items-center justify-center rounded-full text-co-warm-brown/75 transition-colors hover:bg-co-warm-terracotta/10 hover:text-co-warm-terracotta" aria-label="Minha conta" title="Minha conta">
+        <User className="h-4 w-4" />
+      </a>
+    </nav>
+
+    <div class="flex items-center gap-2 xl:hidden">
+      <button type="button" data-search-toggle class="flex h-9 w-9 items-center justify-center rounded-full text-co-warm-brown/75 hover:bg-co-warm-terracotta/10" aria-label="Buscar" aria-expanded="false" aria-controls="busca-site">
+        <Search className="h-5 w-5" />
+      </button>
+      <a href="/minha-conta" class="flex h-9 w-9 items-center justify-center rounded-full text-co-warm-brown/75 hover:bg-co-warm-terracotta/10" aria-label="Minha conta">
+        <User className="h-5 w-5" />
+      </a>
+      <button type="button" data-menu-toggle class="text-co-warm-brown" aria-label="Abrir menu" aria-expanded="false" aria-controls="menu-mobile">
+        <span data-icon-open><Menu className="h-6 w-6" /></span>
+        <span data-icon-close hidden><X className="h-6 w-6" /></span>
+      </button>
+    </div>
+  </div>
+
+  <div id="busca-site" class="border-t border-co-warm-sand-dark bg-co-warm-sand" hidden data-search-panel>
+    <div class="container mx-auto px-4 py-3">
+      <div class="relative">
+        <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-co-warm-brown/40" aria-hidden="true" />
+        <label for="busca-input" class="sr-only">Buscar artigos</label>
+        <input id="busca-input" type="search" autocomplete="off" placeholder="Buscar no site (ex.: como rezar o terço)" data-search-input class="w-full rounded-md border border-co-warm-sand-dark bg-white px-10 py-2.5 text-[15px] text-co-warm-brown placeholder:text-co-warm-brown/50 focus:border-co-warm-terracotta focus:outline-none" />
+      </div>
+      <div class="mt-2 max-h-80 overflow-y-auto rounded-md border border-co-warm-sand-dark bg-co-warm-sand" hidden data-search-results aria-live="polite"></div>
+    </div>
+  </div>
+
+  <nav id="menu-mobile" class="flex max-h-[calc(100vh-57px)] min-h-[calc(100vh-57px)] flex-col overflow-y-auto border-t border-co-warm-sand-dark bg-co-warm-sand px-4 py-3 xl:hidden" hidden data-menu aria-label="Menu">
+    {navLinks.map((l) => (
+      <a href={l.href} class="rounded px-3 py-2.5 text-base font-medium text-co-warm-brown/90 hover:bg-co-warm-cream hover:text-co-warm-terracotta">{l.label}</a>
+    ))}
+    <div class="my-2 h-px bg-co-warm-terracotta/10"></div>
+    <p class="px-3 py-1 text-sm font-semibold text-co-warm-brown/75">Seções</p>
+    {sections.map((s) => {
+      const Icon = s.icon;
+      return (
+        <a href={s.href} class="flex items-center gap-3 rounded px-3 py-2.5 text-base text-co-warm-brown/90 hover:bg-co-warm-cream hover:text-co-warm-terracotta">
+          <Icon className="h-4 w-4 shrink-0 text-co-warm-gold" aria-hidden="true" />
+          {s.title}
+        </a>
+      );
+    })}
+  </nav>
+</header>
+
+<script>
+  import { categoryLabel } from '@/config/site';
+
+  type Entry = { t: string; s: string; c: string; e: string };
+
+  const header = document.querySelector<HTMLElement>('[data-header]');
+  const menu = header?.querySelector<HTMLElement>('[data-menu]');
+  const menuBtn = header?.querySelector<HTMLButtonElement>('[data-menu-toggle]');
+  const panel = header?.querySelector<HTMLElement>('[data-search-panel]');
+  const input = header?.querySelector<HTMLInputElement>('[data-search-input]');
+  const results = header?.querySelector<HTMLElement>('[data-search-results]');
+  const searchBtns = header?.querySelectorAll<HTMLButtonElement>('[data-search-toggle]') ?? [];
+
+  const setMenu = (open: boolean) => {
+    if (!menu || !menuBtn) return;
+    menu.hidden = !open;
+    menuBtn.setAttribute('aria-expanded', String(open));
+    menuBtn.setAttribute('aria-label', open ? 'Fechar menu' : 'Abrir menu');
+    (menuBtn.querySelector('[data-icon-open]') as HTMLElement).hidden = open;
+    (menuBtn.querySelector('[data-icon-close]') as HTMLElement).hidden = !open;
+  };
+
+  const setSearch = (open: boolean) => {
+    if (!panel) return;
+    panel.hidden = !open;
+    searchBtns.forEach((b) => b.setAttribute('aria-expanded', String(open)));
+    if (open) {
+      setMenu(false);
+      loadIndex();
+      input?.focus();
+    }
+  };
+
+  menuBtn?.addEventListener('click', () => {
+    const open = menu?.hidden ?? true;
+    setMenu(open);
+    if (open) setSearch(false);
+  });
+  searchBtns.forEach((b) => b.addEventListener('click', () => setSearch(panel?.hidden ?? true)));
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      setSearch(false);
+      setMenu(false);
+    }
+  });
+
+  // Busca: índice estático gerado no build (só artigos que existem no site)
+  let index: Entry[] | null = null;
+  let loading: Promise<void> | null = null;
+  function loadIndex() {
+    if (index || loading) return loading;
+    loading = fetch('/search-index.json')
+      .then((r) => r.json())
+      .then((d: Entry[]) => {
+        index = d;
+        render();
+      })
+      .catch(() => {
+        index = [];
+      });
+    return loading;
+  }
+
+  const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  const esc = (s: string) => s.replace(/[&<>"]/g, (ch) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[ch] as string);
+
+  function render() {
+    if (!results || !input) return;
+    const q = norm(input.value.trim());
+    if (q.length < 2) {
+      results.hidden = true;
+      results.innerHTML = '';
+      return;
+    }
+    results.hidden = false;
+    if (!index) {
+      results.innerHTML = '<p class="px-4 py-3 text-sm text-co-warm-brown/75">Buscando...</p>';
+      return;
+    }
+    const terms = q.split(/\s+/).filter(Boolean);
+    const found = index
+      .map((it) => {
+        const t = norm(it.t);
+        const e = norm(it.e);
+        if (!terms.every((w) => t.includes(w) || e.includes(w))) return null;
+        const score = terms.reduce((acc, w) => acc + (t.includes(w) ? 3 : 1), 0);
+        return { it, score };
+      })
+      .filter(Boolean)
+      .sort((a, b) => b!.score - a!.score)
+      .slice(0, 8)
+      .map((x) => x!.it);
+    results.innerHTML = found.length
+      ? found
+          .map(
+            (r) =>
+              `<a href="/${r.c}/${r.s}" class="block px-4 py-3 text-[15px] text-co-warm-brown/85 transition-colors hover:bg-co-warm-cream hover:text-co-warm-terracotta"><p class="font-medium">${esc(r.t)}</p><p class="mt-0.5 line-clamp-1 text-xs text-co-warm-brown/75">${esc(categoryLabel(r.c))}${r.e ? ' · ' + esc(r.e) : ''}</p></a>`,
+          )
+          .join('')
+      : '<p class="px-4 py-3 text-sm text-co-warm-brown/75">Nenhum artigo encontrado</p>';
+  }
+
+  let timer: ReturnType<typeof setTimeout>;
+  input?.addEventListener('input', () => {
+    clearTimeout(timer);
+    timer = setTimeout(render, 120);
+  });
+</script>

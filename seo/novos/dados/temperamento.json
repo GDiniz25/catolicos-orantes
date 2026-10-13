@@ -1,0 +1,246 @@
+{
+  "afirmacoes": [
+    {
+      "texto": "Gosto de assumir a liderança quando algo precisa ser feito.",
+      "temperamento": "colerico"
+    },
+    {
+      "texto": "Faço amizade com facilidade, mesmo com quem acabei de conhecer.",
+      "temperamento": "sanguineo"
+    },
+    {
+      "texto": "Gosto de pensar bem antes de tomar uma decisão importante.",
+      "temperamento": "melancolico"
+    },
+    {
+      "texto": "Raramente perco a calma, mesmo em situações tensas.",
+      "temperamento": "fleumatico"
+    },
+    {
+      "texto": "Quando tenho uma meta, vou atrás dela com determinação.",
+      "temperamento": "colerico"
+    },
+    {
+      "texto": "Fico animado com novidades, mas às vezes perco o interesse rápido.",
+      "temperamento": "sanguineo"
+    },
+    {
+      "texto": "Percebo detalhes que muitas pessoas deixam passar.",
+      "temperamento": "melancolico"
+    },
+    {
+      "texto": "Prefiro evitar discussões e manter o ambiente em paz.",
+      "temperamento": "fleumatico"
+    },
+    {
+      "texto": "Fico impaciente quando as coisas andam devagar.",
+      "temperamento": "colerico"
+    },
+    {
+      "texto": "Gosto de estar com muita gente e de conversar bastante.",
+      "temperamento": "sanguineo"
+    },
+    {
+      "texto": "Sinto as coisas com profundidade e demoro a esquecer uma mágoa.",
+      "temperamento": "melancolico"
+    },
+    {
+      "texto": "Gosto de rotina e me sinto bem quando tudo está tranquilo.",
+      "temperamento": "fleumatico"
+    },
+    {
+      "texto": "Tenho facilidade para organizar pessoas e dividir tarefas.",
+      "temperamento": "colerico"
+    },
+    {
+      "texto": "Costumo esquecer compromissos porque me envolvo com muitas coisas.",
+      "temperamento": "sanguineo"
+    },
+    {
+      "texto": "Gosto de fazer as coisas com perfeição, mesmo que leve mais tempo.",
+      "temperamento": "melancolico"
+    },
+    {
+      "texto": "Escuto os outros com paciência, sem pressa de dar minha opinião.",
+      "temperamento": "fleumatico"
+    },
+    {
+      "texto": "Às vezes falo de forma dura sem perceber que magoei alguém.",
+      "temperamento": "colerico"
+    },
+    {
+      "texto": "Fico alegre com facilidade e consigo animar os outros.",
+      "temperamento": "sanguineo"
+    },
+    {
+      "texto": "Prefiro poucos amigos próximos a muitos conhecidos.",
+      "temperamento": "melancolico"
+    },
+    {
+      "texto": "Tenho dificuldade de começar tarefas que exigem esforço.",
+      "temperamento": "fleumatico"
+    },
+    {
+      "texto": "Não desisto fácil diante de obstáculos.",
+      "temperamento": "colerico"
+    },
+    {
+      "texto": "Mudo de humor rápido, mas também esqueço logo uma briga.",
+      "temperamento": "sanguineo"
+    },
+    {
+      "texto": "Costumo me cobrar muito quando erro.",
+      "temperamento": "melancolico"
+    },
+    {
+      "texto": "As pessoas dizem que sou uma presença tranquila e confiável.",
+      "temperamento": "fleumatico"
+    },
+    {
+      "texto": "Gosto de ser prático e ir direto ao ponto.",
+      "temperamento": "colerico"
+    },
+    {
+      "texto": "Gosto de contar histórias e de ser ouvido.",
+      "temperamento": "sanguineo"
+    },
+    {
+      "texto": "Gosto de silêncio, de ler e de refletir sozinho.",
+      "temperamento": "melancolico"
+    },
+    {
+      "texto": "Prefiro observar a me expor em grupos grandes.",
+      "temperamento": "fleumatico"
+    },
+    {
+      "texto": "Tenho opinião forte e custo a mudar de ideia.",
+      "temperamento": "colerico"
+    },
+    {
+      "texto": "Prefiro agir na hora a ficar planejando demais.",
+      "temperamento": "sanguineo"
+    },
+    {
+      "texto": "Às vezes vejo mais o lado negativo das situações.",
+      "temperamento": "melancolico"
+    },
+    {
+      "texto": "Me adapto bem às pessoas e às situações sem reclamar.",
+      "temperamento": "fleumatico"
+    }
+  ],
+  "resultados": {
+    "colerico": {
+      "nome": "Colérico",
+      "resumo": "Como simples ferramenta de autoconhecimento, que não é doutrina da Igreja nem diagnóstico, este resultado indica traços do temperamento colérico: energia, decisão e facilidade para liderar, que pedem humildade e mansidão.",
+      "forcas": [
+        "Determinação e força de vontade",
+        "Facilidade para liderar e organizar",
+        "Coragem diante de desafios",
+        "Senso prático e rapidez nas decisões",
+        "Perseverança nos projetos"
+      ],
+      "desafios": [
+        "Impaciência com os outros",
+        "Tendência à ira e a palavras duras",
+        "Orgulho e dificuldade de admitir erros",
+        "Vontade de controlar tudo",
+        "Pouca atenção aos sentimentos alheios"
+      ],
+      "virtude_chave": "Mansidão e humildade",
+      "conselhos": [
+        "Antes de responder em um momento de raiva, faça uma pausa e reze uma jaculatória, como \"Jesus, manso e humilde de coração, fazei o meu coração semelhante ao vosso\".",
+        "No exame de consciência da noite, pergunte-se se feriu alguém com palavras ou atitudes e peça perdão no dia seguinte.",
+        "Pratique ouvir até o fim antes de dar sua opinião, especialmente em casa.",
+        "Coloque seus projetos nas mãos de Deus na oração da manhã, lembrando que a obra é dele.",
+        "Ofereça serviços escondidos, sem buscar reconhecimento, para crescer na humildade."
+      ],
+      "oracao": "Sugestão de oração: Senhor Jesus, manso e humilde de coração, dai-me a força de vontade para fazer o bem e a mansidão para tratar todos com paciência e amor. Amém.",
+      "artigo": "/duvidas-da-fe/temperamento-colerico"
+    },
+    "sanguineo": {
+      "nome": "Sanguíneo",
+      "resumo": "Como simples ferramenta de autoconhecimento, que não é doutrina da Igreja nem diagnóstico, este resultado indica traços do temperamento sanguíneo: alegria, comunicação e facilidade para se relacionar, que pedem constância e domínio de si.",
+      "forcas": [
+        "Alegria e otimismo",
+        "Facilidade para fazer amigos",
+        "Entusiasmo que anima os outros",
+        "Generosidade e espontaneidade",
+        "Capacidade de perdoar e esquecer ofensas"
+      ],
+      "desafios": [
+        "Inconstância nos propósitos",
+        "Superficialidade e distração",
+        "Dificuldade de cumprir compromissos",
+        "Busca excessiva de prazer e aprovação",
+        "Falar demais e sem pensar"
+      ],
+      "virtude_chave": "Constância e temperança",
+      "conselhos": [
+        "Escolha um horário fixo para rezar todos os dias e mantenha-o mesmo quando não sentir vontade.",
+        "Faça poucos propósitos de cada vez e acompanhe-os no exame de consciência da noite.",
+        "Reserve momentos de silêncio, como uma visita ao Santíssimo, para aprofundar a vida interior.",
+        "Antes de falar mal de alguém ou contar uma novidade, pergunte-se se aquilo é verdadeiro, bom e necessário.",
+        "Pratique pequenas renúncias, como deixar o celular de lado em um momento do dia, para fortalecer a vontade."
+      ],
+      "oracao": "Sugestão de oração: Senhor, obrigado pela alegria que colocaste em meu coração. Dai-me constância para perseverar no bem e profundidade para viver unido a ti. Amém.",
+      "artigo": "/duvidas-da-fe/temperamento-sanguineo"
+    },
+    "melancolico": {
+      "nome": "Melancólico",
+      "resumo": "Como simples ferramenta de autoconhecimento, que não é doutrina da Igreja nem diagnóstico, este resultado indica traços do temperamento melancólico: profundidade, sensibilidade e gosto pela reflexão, que pedem confiança e esperança.",
+      "forcas": [
+        "Profundidade de pensamento e de sentimentos",
+        "Gosto pela oração e pelo silêncio",
+        "Atenção aos detalhes e ao trabalho bem feito",
+        "Fidelidade nas amizades",
+        "Sensibilidade para a beleza e para o sofrimento dos outros"
+      ],
+      "desafios": [
+        "Tendência ao desânimo e ao pessimismo",
+        "Perfeccionismo e autocobrança excessiva",
+        "Dificuldade de esquecer ofensas",
+        "Indecisão por medo de errar",
+        "Inclinação a se fechar em si mesmo"
+      ],
+      "virtude_chave": "Confiança em Deus e esperança",
+      "conselhos": [
+        "Ao final do dia, agradeça a Deus por três coisas boas que aconteceram, para educar o olhar para o bem.",
+        "Lembre-se de que Deus ama você como você é e conta com seus esforços, não com a perfeição.",
+        "Quando uma mágoa voltar à memória, entregue-a a Deus em oração e reze pela pessoa que o feriu.",
+        "Diante de uma decisão, peça conselho a alguém de confiança e não adie indefinidamente.",
+        "Se o desânimo for persistente ou intenso, converse com um sacerdote e procure também ajuda médica ou psicológica, pois a fé não substitui esse cuidado."
+      ],
+      "oracao": "Sugestão de oração: Senhor, tu conheces o meu coração. Livra-me do desânimo e ensina-me a confiar em ti, sabendo que em tudo me amas e me sustentas. Amém.",
+      "artigo": "/duvidas-da-fe/temperamento-melancolico"
+    },
+    "fleumatico": {
+      "nome": "Fleumático",
+      "resumo": "Como simples ferramenta de autoconhecimento, que não é doutrina da Igreja nem diagnóstico, este resultado indica traços do temperamento fleumático: calma, paciência e equilíbrio, que pedem zelo e iniciativa.",
+      "forcas": [
+        "Calma e serenidade",
+        "Paciência com as pessoas",
+        "Capacidade de ouvir e de pacificar",
+        "Constância nas tarefas da rotina",
+        "Bom senso e equilíbrio"
+      ],
+      "desafios": [
+        "Preguiça e acomodação",
+        "Falta de iniciativa",
+        "Indiferença diante do que precisa mudar",
+        "Dificuldade de assumir compromissos novos",
+        "Tendência a evitar conflitos necessários"
+      ],
+      "virtude_chave": "Zelo e diligência",
+      "conselhos": [
+        "Comece o dia oferecendo a Deus uma tarefa concreta que você vai cumprir sem adiar.",
+        "Assuma um pequeno serviço na paróquia ou na família, para exercitar a iniciativa.",
+        "Quando perceber uma injustiça ou um erro, tenha coragem de falar com caridade em vez de se calar.",
+        "No exame de consciência, pergunte-se também pelo bem que deixou de fazer, e não só pelo mal que fez.",
+        "Leia a vida de santos missionários e de grande zelo para despertar o desejo de fazer mais por Deus."
+      ],
+      "oracao": "Sugestão de oração: Senhor, obrigado pela paz que colocaste em mim. Acende em meu coração o zelo pelo teu Reino e dá-me ânimo para fazer o bem sem demora. Amém.",
+      "artigo": "/duvidas-da-fe/temperamento-fleumatico"
+    }
+  }
+}

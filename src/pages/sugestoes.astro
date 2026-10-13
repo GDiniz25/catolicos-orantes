@@ -1,0 +1,28 @@
+---
+import { MessageSquarePlus } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import SugestoesForm from '@/components/islands/SugestoesForm';
+import { breadcrumbSchema } from '@/lib/seo';
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Sugestões e Correções', path: '/sugestoes' },
+];
+---
+<BaseLayout
+  title="Sugestões e Correções"
+  description="Envie sugestões, correções de texto, solicitações de conteúdo ou melhorias para o Católicos Orantes."
+  path="/sugestoes"
+  jsonLd={[breadcrumbSchema(crumbs)]}
+  ctaMaxWidth="max-w-2xl"
+>
+  <PageHeader title="Sugestões e Correções" subtitle="Ajude-nos a melhorar! Envie correções, sugestões de conteúdo ou solicitações." icon={MessageSquarePlus} crumbs={crumbs} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <div class="mx-auto max-w-2xl">
+        <SugestoesForm client:visible />
+      </div>
+    </div>
+  </main>
+</BaseLayout>

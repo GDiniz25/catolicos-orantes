@@ -1,0 +1,54 @@
+---
+import { BookA } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { estiloLetras } from '@/lib/simetria';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import termos from '@/data/conteudo/glossario.json';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Glossário católico', path: '/glossario' }];
+const letras = [...new Set(termos.map((t) => t.termo[0].toUpperCase().normalize('NFD').replace(/[̀-ͯ]/g, '')))];
+const letraDe = (t: string) => t[0].toUpperCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+const jsonLd = [
+  { '@type': 'DefinedTermSet', '@id': `${absUrl('/glossario')}#glossario`, name: 'Glossário católico', url: absUrl('/glossario'), inLanguage: 'pt-BR',
+    hasDefinedTerm: termos.map((t) => ({ '@type': 'DefinedTerm', name: t.termo, description: t.definicao, url: `${absUrl('/glossario')}#${t.slug}` })) },
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout title="Glossário católico: termos da fé explicados" description={`${termos.length} termos católicos explicados de forma simples: liturgia, sacramentos, hierarquia, devoções e tempos litúrgicos, de Absolvição a Viático.`} path="/glossario"
+  keywords="glossário católico, dicionário católico, o que significa, termos da missa, vocabulário católico" jsonLd={jsonLd}>
+  <PageHeader title="Glossário católico" subtitle="As palavras da fé explicadas em poucas linhas, com links para aprofundar." icon={BookA} crumbs={crumbs} tom={CATEGORY_VISUAL['catecismo']}>
+    <div class="mt-6 max-w-xl"><label for="busca-termo" class="sr-only">Buscar termo</label><input id="busca-termo" type="search" data-busca placeholder="Buscar um termo" class="h-12 w-full rounded-md border border-co-warm-sand-dark bg-white px-4 text-[16px]" /></div>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12" data-glossario>
+    <div class="container mx-auto max-w-4xl space-y-10 px-4">
+      <nav aria-label="Letras" class="letras" style={estiloLetras(letras.length, 18)}>{letras.map((l) => <a href={`#letra-${l}`} class="flex h-10 w-10 items-center justify-center rounded-md border border-co-warm-sand-dark bg-white font-semibold hover:border-co-warm-brown/40">{l}</a>)}</nav>
+      {letras.map((l) => (
+        <section id={`letra-${l}`} class="scroll-mt-24" data-grupo>
+          <h2 class="mb-3 font-display text-3xl font-semibold text-[#5A3F6B]">{l}</h2>
+          <dl class="divide-y divide-co-warm-sand-dark rounded-xl border border-co-warm-sand-dark bg-white">
+            {termos.filter((t) => letraDe(t.termo) === l).map((t) => (
+              <div id={t.slug} class="scroll-mt-24 p-4 md:p-5" data-item data-t={`${t.termo} ${t.definicao}`.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')}>
+                <dt class="font-display text-xl font-semibold">{t.termo}</dt>
+                <dd class="mt-1 text-[16px] leading-relaxed text-co-warm-brown/90">{t.definicao}{t.link && <> <a href={t.link} class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Saiba mais</a></>}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+      ))}
+      <p hidden data-vazio class="text-co-warm-brown/80">Nenhum termo encontrado.</p>
+    </div>
+  </main>
+</BaseLayout>
+<script>
+  const busca = document.querySelector<HTMLInputElement>('[data-busca]');
+  const root = document.querySelector<HTMLElement>('[data-glossario]');
+  busca?.addEventListener('input', () => {
+    const q = busca.value.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').trim();
+    let n = 0;
+    root!.querySelectorAll<HTMLElement>('[data-item]').forEach((el) => { const ok = !q || el.dataset.t!.includes(q); el.hidden = !ok; if (ok) n++; });
+    root!.querySelectorAll<HTMLElement>('[data-grupo]').forEach((g) => (g.hidden = !g.querySelector('[data-item]:not([hidden])')));
+    root!.querySelector<HTMLElement>('[data-vazio]')!.hidden = n > 0;
+  });
+</script>

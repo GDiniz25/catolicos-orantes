@@ -1,0 +1,25 @@
+---
+import { datasDoAno, dataPorExtenso } from '@/lib/datasLiturgicas';
+interface Props { ano: number }
+const { ano } = Astro.props;
+const datas = datasDoAno(ano);
+---
+<div class="overflow-hidden rounded-xl border border-co-warm-sand-dark bg-white">
+  <table class="w-full table-fixed text-left text-[15px]">
+    <thead class="bg-co-warm-cream text-sm text-co-warm-brown/80">
+      <tr><th class="px-4 py-3 font-semibold">Celebração</th><th class="w-[42%] px-4 py-3 font-semibold sm:w-56">Data em {ano}</th></tr>
+    </thead>
+    <tbody class="divide-y divide-co-warm-sand-dark">
+      {datas.map((d) => (
+        <tr id={d.id} class="align-top">
+          <td class="px-4 py-3">
+            {d.link ? <a href={d.link} class="font-semibold text-co-warm-brown underline-offset-4 hover:text-co-warm-terracotta hover:underline">{d.nome}</a> : <span class="font-semibold">{d.nome}</span>}
+            {d.movel && <span class="ml-2 rounded-full bg-[#E6EFE8] px-2 py-0.5 text-[12px] font-medium text-[#36613F]">móvel</span>}
+            {d.nota && <span class="mt-0.5 block text-[13px] leading-snug text-co-warm-brown/75">{d.nota}</span>}
+          </td>
+          <td class="px-4 py-3 font-medium sm:whitespace-nowrap"><time datetime={d.data}>{dataPorExtenso(d.data)}</time></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

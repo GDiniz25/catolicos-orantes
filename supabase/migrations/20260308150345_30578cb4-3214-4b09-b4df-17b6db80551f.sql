@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX IF NOT EXISTS saints_calendar_month_day_name_idx ON public.saints_calendar (date_month, date_day, saint_name);

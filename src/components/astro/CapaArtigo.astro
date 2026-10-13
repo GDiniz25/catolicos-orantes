@@ -1,0 +1,50 @@
+---
+/**
+ * Capa de um artigo: a imagem dele, ou (quando ainda não tem) um painel na cor da seção com o ícone.
+ * Sempre decorativa quando acompanha o título (alt vazio), para o leitor de tela não repetir.
+ */
+import { sectionIconByHref } from '@/data/sections';
+import { visualDe } from '@/config/categoryVisual';
+import { imagemResponsiva } from '@/lib/imagens';
+
+interface Props {
+  category: string;
+  image_url?: string | null;
+  /** thumb: miniatura de lista; card: cartão; */
+  variant?: 'thumb' | 'card';
+  class?: string;
+  eager?: boolean;
+  /** largura em que a imagem aparece, para o navegador escolher a versão certa */
+  sizes?: string;
+}
+const { category, image_url, variant = 'card', class: cls = '', eager = false, sizes } = Astro.props;
+// Cartões nunca passam de 640 px de largura real; miniaturas, de 240
+const img = image_url ? await imagemResponsiva(image_url, variant === 'thumb' ? 240 : 480, false, variant === 'thumb' ? 240 : 640) : null;
+const tamanhos = sizes ?? (variant === 'thumb' ? '112px' : '(min-width: 1024px) 380px, (min-width: 640px) 50vw, calc(100vw - 32px)');
+const Icon = sectionIconByHref(`/${category}`);
+const v = visualDe(category);
+---
+{img ? (
+  <img
+    src={img.src}
+    srcset={img.srcset}
+    sizes={img.srcset ? tamanhos : undefined}
+    alt=""
+    width={variant === 'thumb' ? 160 : 640}
+    height={variant === 'thumb' ? 120 : 360}
+    loading={eager ? 'eager' : 'lazy'}
+    decoding="async"
+    class:list={['block bg-co-warm-cream object-cover object-[center_25%]', cls]}
+  />
+) : (
+  <div class:list={['relative overflow-hidden', cls]} style={`background:${v.fundo};color:${v.tinta}`} aria-hidden="true">
+    {variant === 'thumb' ? (
+      <Icon className="absolute left-1/2 top-1/2 h-7 w-7 -translate-x-1/2 -translate-y-1/2" strokeWidth={1.6} />
+    ) : (
+      <>
+        <Icon className="absolute -bottom-6 -right-4 h-40 w-40 opacity-[0.16]" strokeWidth={1.2} />
+        <Icon className="absolute left-5 top-5 h-8 w-8" strokeWidth={1.6} />
+      </>
+    )}
+  </div>
+)}

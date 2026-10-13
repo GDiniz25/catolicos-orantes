@@ -1,0 +1,23 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { sections } from '@/data/sections';
+---
+<BaseLayout title="Página não encontrada" description="O conteúdo que você procura não existe ou foi movido." path="/404" noIndex hidePrayerCTA>
+  <main id="conteudo" class="flex min-h-[60vh] flex-col items-center justify-center px-4 py-16 text-center">
+    <p class="mb-4 font-display text-6xl font-bold text-co-warm-terracotta">404</p>
+    <h1 class="mb-2 text-xl font-medium">Página não encontrada</h1>
+    <p class="mb-8 text-co-warm-brown/80">O conteúdo que você procura não existe ou foi movido.</p>
+    <div class="acoes w-full max-w-xs sm:w-auto sm:max-w-none">
+      <a href="/" class="btn btn-primario">Voltar ao início</a>
+      <a href="/ferramentas" class="btn btn-secundario">Ver as ferramentas</a>
+    </div>
+    <nav aria-label="Categorias" class="mt-12 w-full max-w-3xl">
+      <p class="mb-3 text-sm font-semibold text-co-warm-brown/75">Talvez você procure</p>
+      <ul class="grid grid-cols-1 gap-2 min-[440px]:grid-cols-2">
+        {sections.map((s) => (
+          <li><a href={s.href} class="flex min-h-11 w-full items-center justify-center rounded-md border border-co-warm-sand-dark bg-white px-4 text-[15px] text-co-warm-brown/85 hover:border-co-warm-terracotta hover:text-co-warm-terracotta">{s.title}</a></li>
+        ))}
+      </ul>
+    </nav>
+  </main>
+</BaseLayout>

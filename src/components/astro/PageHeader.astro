@@ -1,0 +1,39 @@
+---
+import type { LucideIcon } from 'lucide-react';
+import Breadcrumbs from '@/components/astro/Breadcrumbs.astro';
+import type { Crumb } from '@/lib/seo';
+
+interface Props {
+  title: string;
+  /** Frase de resposta direta, logo abaixo do título */
+  subtitle?: string;
+  icon?: LucideIcon;
+  crumbs: Crumb[];
+  titleAs?: 'h1' | 'p';
+  narrow?: boolean;
+  /** cor da seção: fundo do cabeçalho e do ícone */
+  tom?: { tinta: string; fundo: string };
+}
+const { title, subtitle, icon: Icon, crumbs, titleAs = 'h1', narrow = false, tom } = Astro.props;
+const Tag = titleAs;
+const fundo = tom?.fundo ?? 'hsl(var(--co-warm-cream))';
+const tinta = tom?.tinta ?? 'hsl(var(--co-warm-terracotta))';
+---
+<header class="relative overflow-hidden border-b border-co-warm-sand-dark" style={`background:${fundo}`}>
+  {Icon && (
+    <span class="pointer-events-none absolute -right-10 -top-6 hidden opacity-[0.07] md:block" style={`color:${tinta}`} aria-hidden="true"><Icon className="h-64 w-64" strokeWidth={1.1} /></span>
+  )}
+  <div class:list={['container relative mx-auto px-4 pb-8 pt-6 md:pb-12 md:pt-8', narrow && 'max-w-5xl']}>
+    <Breadcrumbs crumbs={crumbs} class="mb-5" />
+    <div class="flex items-start gap-4">
+      {Icon && (
+        <span class="mt-1 flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-white/70 md:mt-1.5 md:h-14 md:w-14" style={`color:${tinta}`}>
+          <Icon className="h-6 w-6 md:h-7 md:w-7" strokeWidth={1.8} aria-hidden="true" />
+        </span>
+      )}
+      <Tag class="font-display text-3xl font-semibold leading-tight md:text-5xl">{title}</Tag>
+    </div>
+    {subtitle && <p class="mt-4 max-w-2xl text-lg leading-relaxed text-co-warm-brown/85">{subtitle}</p>}
+    <slot />
+  </div>
+</header>

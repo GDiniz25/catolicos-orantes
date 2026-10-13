@@ -1,0 +1,102 @@
+---
+import { HeartHandshake } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ContaProgresso from '@/components/islands/ContaProgresso';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import SantoQuiz from '@/components/islands/SantoQuiz';
+import { SANTOS, PERGUNTAS } from '@/data/santoAfinidade';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { getAllArticles } from '@/lib/data';
+import { absUrl, breadcrumbSchema, faqSchema, itemListSchema } from '@/lib/seo';
+
+const path = '/descubra-seu-santo';
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Descubra seu santo', path },
+];
+
+// Só passa para o teste os artigos que existem (com a imagem de cada um)
+const todos = await getAllArticles();
+const porChave = new Map(todos.map((a) => [`${a.category}/${a.slug}`, a]));
+const artigos: Record<string, string | null> = {};
+for (const s of SANTOS) {
+  for (const k of [s.artigo, s.oracao?.chave]) {
+    if (k && porChave.has(k)) artigos[k] = porChave.get(k)!.image_url || null;
+  }
+}
+
+const FAQ = [
+  { q: 'O teste escolhe o meu santo padroeiro?', a: 'Não. O teste sugere santos cuja vida combina com o seu momento, para você conhecer e pedir a intercessão deles. O padroeiro costuma ser o santo do nome recebido no Batismo ou na Crisma, ou um santo de quem a pessoa se torna devota livremente.' },
+  { q: 'Posso ter mais de um santo de devoção?', a: 'Sim. A Igreja ensina que os santos, unidos a Cristo, intercedem por nós junto ao Pai (Catecismo, 956). Você pode recorrer a vários santos e também à Virgem Maria, a quem a Igreja honra acima de todos os santos.' },
+  { q: 'Como pedir a intercessão de um santo?', a: 'Rezando com confiança e dirigindo o pedido a Deus por meio do santo, por exemplo: "São José, rogai por nós". Novenas e ladainhas ajudam a perseverar na oração.' },
+  { q: 'Por que o nome de Batismo tem relação com os santos?', a: 'No Batismo, o cristão recebe seu nome na Igreja, que pode ser o de um santo, um discípulo que viveu com fidelidade exemplar ao Senhor. O santo padroeiro oferece um modelo de caridade e garante sua intercessão (Catecismo, 2156).' },
+];
+
+const jsonLd = [
+  {
+    '@type': 'WebPage',
+    '@id': `${absUrl(path)}#webpage`,
+    url: absUrl(path),
+    name: 'Descubra seu santo: teste de afinidade com os santos católicos',
+    description: `Teste gratuito com ${PERGUNTAS.length} perguntas para conhecer ${SANTOS.length} santos católicos e descobrir os que mais combinam com o seu momento.`,
+    inLanguage: 'pt-BR',
+    isPartOf: { '@id': 'https://catolicosorantes.com.br/#website' },
+    about: itemListSchema(SANTOS.filter((s) => s.artigo && porChave.has(s.artigo)).map((s) => ({ name: s.nome, path: `/${s.artigo}` }))),
+  },
+  faqSchema(FAQ),
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title="Descubra seu santo: teste de afinidade com os santos"
+  description={`Responda ${PERGUNTAS.length} perguntas e conheça os santos católicos cuja vida combina com a sua, com a história de cada um e orações para pedir a intercessão.`}
+  path={path}
+  keywords="descubra seu santo, qual santo combina comigo, santo de devoção, santo protetor, teste católico, santos católicos"
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-4xl"
+>
+  <PageHeader
+    title="Descubra seu santo"
+    subtitle="Um teste rápido para conhecer santos cuja vida combina com o seu momento e começar a pedir a intercessão deles."
+    icon={HeartHandshake}
+    crumbs={crumbs}
+    tom={CATEGORY_VISUAL['santos-e-oracoes']}
+  />
+  <main id="conteudo">
+    <section id="teste-santo" class="scroll-mt-24">
+      <div class="container mx-auto max-w-4xl px-4 py-8 md:py-12">
+        <SantoQuiz client:visible artigos={artigos} />
+      <div class="mx-auto mt-8 max-w-2xl"><ContaProgresso client:idle origem="santo" titulo="Guarde seu resultado" texto="Entre com seu e-mail para guardar seu resultado e revê-lo em qualquer aparelho. Sem senha: enviamos um link de acesso." /></div>
+      </div>
+    </section>
+
+    <section class="border-t border-co-warm-sand-dark" aria-labelledby="como-funciona">
+      <div class="container mx-auto max-w-4xl px-4 py-10 md:py-14">
+        <h2 id="como-funciona" class="font-display text-2xl font-semibold md:text-3xl">Como o teste funciona</h2>
+        <div class="intro-prose mt-4 max-w-2xl text-[17px] text-co-warm-brown/90">
+          <p>Cada resposta indica um traço da sua vida espiritual: a família, o trabalho, a oração silenciosa, o cuidado com os pobres, a luta contra as tentações. O teste compara esses traços com a vida de {SANTOS.length} santos e mostra os três mais próximos.</p>
+          <p>O resultado é um convite, não uma regra. Toda a Igreja do céu reza por nós, e qualquer santo pode ser seu amigo e intercessor. Comece conhecendo a vida dele e rezando a ele com confiança.</p>
+        </div>
+        <h3 class="mt-8 font-display text-xl font-semibold">Santos que podem aparecer no resultado</h3>
+        <ul class="mt-4 grid grid-cols-2 gap-2 sm:grid-cols-4">
+          {SANTOS.map((s) => (
+            <li>
+              {s.artigo && porChave.has(s.artigo) ? (
+                <a href={`/${s.artigo}`} class="flex h-full min-h-11 items-center justify-center rounded-md border border-co-warm-sand-dark bg-white px-2 py-1.5 text-center text-[15px] leading-tight hover:border-co-warm-brown/40 hover:text-co-warm-terracotta">{s.nome}</a>
+              ) : (
+                <span class="flex h-full min-h-11 items-center justify-center rounded-md border border-co-warm-sand-dark bg-white px-2 py-1.5 text-center text-[15px] leading-tight">{s.nome}</span>
+              )}
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
+    <section class="border-t border-co-warm-sand-dark">
+      <div class="container mx-auto max-w-4xl px-4 py-10 md:py-14">
+        <Faq title="Perguntas frequentes" items={FAQ} />
+      </div>
+    </section>
+  </main>
+</BaseLayout>

@@ -1,0 +1,134 @@
+---
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { Star, ArrowLeft, Calendar } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import { markdownParaHtml } from '@/components/Markdown';
+import { getSaintsWithSlug, articleExists } from '@/lib/data';
+import { getShortName, saintIndexavel, saintBodyMarkdown, type SaintEntry } from '@/lib/saints';
+import { MONTHS } from '@/lib/dateUtils';
+import { absUrl, breadcrumbSchema, clampText, isoDate, publisherRef } from '@/lib/seo';
+
+export async function getStaticPaths() {
+  const saints = await getSaintsWithSlug();
+  // Nomes curtos que se repetem (ex.: dois "S. Agostinho") ganham a data no título
+  const contagem = new Map<string, number>();
+  saints.forEach((s) => { const k = getShortName(s.saint_name).toLowerCase(); contagem.set(k, (contagem.get(k) ?? 0) + 1); });
+  return saints.map((saint) => ({
+    params: { slug: saint.slug },
+    props: { saint, repetido: (contagem.get(getShortName(saint.saint_name).toLowerCase()) ?? 0) > 1, sameDay: saints.filter((s) => s.date_month === saint.date_month && s.date_day === saint.date_day && s.slug !== saint.slug) },
+  }));
+}
+
+type S = SaintEntry & { slug: string };
+const { saint, sameDay, repetido } = Astro.props as { saint: S; sameDay: S[]; repetido: boolean };
+
+const path = `/santos/${saint.slug}`;
+const shortName = getShortName(saint.saint_name);
+const dateLabel = `${saint.date_day} de ${MONTHS[saint.date_month - 1]}`;
+const body = saintBodyMarkdown(saint.full_content);
+const indexable = saintIndexavel(saint);
+const hasArticle = await articleExists(saint.article_category, saint.article_slug);
+
+const description = saint.description && saint.description.length >= 70
+  ? clampText(saint.description, 158)
+  : saint.description
+  ? clampText(`${saint.description} Vida e história de ${shortName}, celebrado em ${dateLabel}, e oração.`, 158)
+  : `Vida e história de ${shortName}, celebrado em ${dateLabel}. Conheça suas virtudes, legado e devoção.`;
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Santo do Dia', path: '/santo-do-dia' },
+  { name: shortName, path },
+];
+
+const jsonLd = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl(path)}#article`,
+    headline: `${shortName}: vida, história e devoção`,
+    description,
+    inLanguage: 'pt-BR',
+    datePublished: isoDate(saint.created_at || saint.scraped_at),
+    dateModified: isoDate(saint.scraped_at || saint.created_at),
+    image: saint.image_url ? [saint.image_url] : [absUrl('/og-image.png')],
+    about: { '@type': 'Person', name: shortName, description: `Santo católico celebrado em ${dateLabel}` },
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl(path) },
+  },
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title={repetido ? `${shortName} (${dateLabel}): vida e oração` : `${shortName}: vida, história e oração`}
+  description={description}
+  path={path}
+  keywords={`${saint.saint_name}, santo ${dateLabel}, santos católicos, hagiografia`}
+  ogType="article"
+  image={saint.image_url}
+  noIndex={!indexable}
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader title={shortName} subtitle={`Celebrado em ${dateLabel}`} icon={Star} crumbs={crumbs} titleAs="p" tom={CATEGORY_VISUAL['santos-e-oracoes']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <div class="mx-auto max-w-3xl">
+        <a href="/santo-do-dia" class="mb-6 inline-flex items-center gap-1.5 text-sm text-co-warm-terracotta hover:underline">
+          <ArrowLeft className="h-4 w-4" aria-hidden="true" /> Santo do Dia
+        </a>
+
+        <article class="rounded-md border border-co-warm-sand-dark bg-co-warm-cream p-8 md:p-10">
+          <header class="mb-4">
+            <h1 class="font-display text-2xl font-bold leading-tight md:text-3xl">{saint.saint_name}</h1>
+            <p class="text-sm font-medium text-co-warm-terracotta">Celebrado em {dateLabel}</p>
+          </header>
+
+          {saint.description && <p class="mb-6 text-base leading-relaxed text-co-warm-brown/80">{saint.description}</p>}
+
+          {body && <Fragment set:html={markdownParaHtml(body, "prose prose-base mb-6 max-w-none prose-headings:font-display prose-headings:font-bold prose-headings:text-co-warm-brown prose-h2:mb-4 prose-h2:mt-8 prose-h2:text-2xl prose-h3:mb-3 prose-h3:mt-6 prose-h3:text-xl prose-p:mb-5 prose-p:leading-7 prose-p:text-co-warm-brown/80 prose-strong:font-semibold prose-strong:text-co-warm-brown prose-em:text-co-warm-terracotta/90")} />}
+
+          {!indexable && <p class="mb-6 text-sm text-co-warm-brown/75">Conteúdo detalhado sobre {saint.saint_name} em breve.</p>}
+
+          {hasArticle && (
+            <a href={`/${saint.article_category}/${saint.article_slug}`} class="btn btn-primario w-full sm:w-auto">
+              Ler artigo completo
+            </a>
+          )}
+
+          {saint.vatican_url && (
+            <p class="mt-4">
+              <a href={saint.vatican_url} target="_blank" rel="noopener noreferrer" class="text-[11px] text-co-warm-brown/75 hover:text-co-warm-brown/80">Fonte: Vatican News ↗</a>
+            </p>
+          )}
+        </article>
+
+        {sameDay.length > 0 && (
+          <section class="mt-8" aria-labelledby="mesmo-dia">
+            <h2 id="mesmo-dia" class="mb-4 font-display text-lg font-semibold text-co-warm-brown">Também celebrados em {dateLabel}</h2>
+            <ul class="gs gs-sm2 gap-3">
+              {sameDay.map((s) => (
+                <li>
+                  <a href={`/santos/${s.slug}`} class="flex items-center gap-3 rounded-xl border border-co-warm-sand-dark bg-co-warm-sand p-4 transition-colors hover:border-co-warm-terracotta/30">
+                    <Star className="h-5 w-5 shrink-0 text-co-warm-terracotta" aria-hidden="true" />
+                    <span>
+                      <span class="block font-medium text-co-warm-brown">{s.saint_name}</span>
+                      {s.description && <span class="mt-0.5 line-clamp-1 block text-xs text-co-warm-brown/75">{s.description}</span>}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <div class="mt-8 flex justify-center">
+          <a href="/santo-do-dia" class="inline-flex items-center gap-2 rounded-lg border border-co-warm-sand-dark px-5 py-2.5 text-sm font-medium text-co-warm-brown transition-colors hover:border-co-warm-terracotta/30">
+            <Calendar className="h-4 w-4" aria-hidden="true" /> Ver santo do dia
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout>

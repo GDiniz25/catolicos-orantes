@@ -1,0 +1,115 @@
+---
+/**
+ * "O que você procura hoje?": abas por intenção, cada uma com 4 artigos e um atalho.
+ * Todas as listas ficam no HTML (o Google lê todos os links); o JavaScript só alterna as abas.
+ */
+import type { Article } from '@/types/content';
+import CapaArtigo from '@/components/astro/CapaArtigo.astro';
+import { categoryLabel } from '@/config/site';
+
+interface Props {
+  articles: Article[];
+}
+const { articles } = Astro.props;
+const byKey = new Map(articles.map((a) => [`${a.category}/${a.slug}`, a]));
+
+const INTENCOES = [
+  {
+    id: 'rezar',
+    nome: 'Rezar agora',
+    dica: 'Orações completas, com o texto e o significado de cada parte.',
+    atalho: { label: 'Todas as orações', href: '/oracoes-do-dia-a-dia' },
+    chaves: ['oracoes-do-dia-a-dia/o-pai-nosso-cada-frase-explicada', 'oracoes-do-dia-a-dia/a-ave-maria-significado-e-meditacao', 'oracoes-do-dia-a-dia/a-oracao-de-sao-miguel-arcanjo-protecao-espiritual', 'oracoes-do-dia-a-dia/a-salve-rainha-historia-e-significado', 'oracoes-do-dia-a-dia/o-angelus-rezando-tres-vezes-ao-dia'],
+  },
+  {
+    id: 'entender',
+    nome: 'Entender a fé',
+    dica: 'Respostas diretas às dúvidas mais comuns, com base no Catecismo.',
+    atalho: { label: 'Todas as dúvidas da fé', href: '/duvidas-da-fe' },
+    chaves: ['duvidas-da-fe/catolicos-adoram-imagens-a-verdade-sobre-a-veneracao', 'duvidas-da-fe/como-a-missa-e-dividida-estrutura-e-partes-explicadas', 'catecismo/a-comunhao-dos-santos-significado-e-importancia', 'duvidas-da-fe/o-que-e-a-infalibilidade-papal'],
+  },
+  {
+    id: 'confissao',
+    nome: 'Preparar a Confissão',
+    dica: 'Do exame de consciência ao Ato de Contrição, passo a passo.',
+    atalho: { label: 'Fazer o exame de consciência', href: '/exame-de-consciencia' },
+    chaves: ['exame-de-consciencia/como-fazer-uma-boa-confissao-passo-a-passo', 'exame-de-consciencia/ato-de-contricao-diferentes-versoes-e-como-rezar', 'sacramentos/posso-me-confessar-depois-de-muitos-anos', 'exame-de-consciencia/esqueci-um-pecado-na-confissao-o-que-fazer'],
+  },
+  {
+    id: 'graca',
+    nome: 'Pedir uma graça',
+    dica: 'Novenas para cada intenção, com as orações de todos os dias.',
+    atalho: { label: 'Todas as novenas', href: '/novenas' },
+    chaves: ['novenas/novena-a-nossa-senhora-aparecida', 'novenas/novena-a-santa-rita-de-cassia', 'novenas/novena-a-nossa-senhora-desatadora-dos-nos', 'novenas/novena-a-sao-jose-para-o-trabalho-e-a-familia'],
+  },
+  {
+    id: 'santos',
+    nome: 'Conhecer um santo',
+    dica: 'Vida, devoção e oração de santos e beatos.',
+    atalho: { label: 'Santo do dia', href: '/santo-do-dia' },
+    chaves: ['santos-e-oracoes/beato-carlo-acutis-o-jovem-santo-da-era-digital', 'santos-e-oracoes/frei-galvao-primeiro-santo-brasileiro', 'santos-e-oracoes/beata-nha-chica-a-santa-mineira', 'devocoes-marianas/nossa-senhora-de-lourdes-e-as-curas-milagrosas'],
+  },
+]
+  .map((it) => ({ ...it, itens: it.chaves.map((k) => byKey.get(k)).filter((a): a is Article => Boolean(a)).slice(0, 4) }))
+  .filter((it) => it.itens.length >= 2);
+---
+{INTENCOES.length > 0 && (
+  <div data-intencoes>
+    <div class="abas-intencoes gap-2" role="tablist" aria-label="Intenções">
+      {INTENCOES.map((it, i) => (
+        <button
+          type="button"
+          role="tab"
+          id={`int-tab-${it.id}`}
+          aria-controls={`int-${it.id}`}
+          aria-selected={i === 0 ? 'true' : 'false'}
+          tabindex={i === 0 ? 0 : -1}
+          class="flex min-h-11 w-full items-center justify-center rounded-full border-2 border-co-warm-sand-dark bg-white px-3 py-1.5 text-center text-[15px] font-semibold leading-tight text-co-warm-brown transition-colors hover:border-co-warm-brown/40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta aria-selected:border-co-warm-terracotta aria-selected:bg-co-warm-terracotta aria-selected:text-white"
+        >{it.nome}</button>
+      ))}
+    </div>
+
+    {INTENCOES.map((it, i) => (
+      <div id={`int-${it.id}`} role="tabpanel" aria-labelledby={`int-tab-${it.id}`} hidden={i !== 0} class="mt-5">
+        <p class="mb-4 text-[15px] text-co-warm-brown/75">{it.dica}</p>
+        <ul class="gs gs-sm2 gs-lg4 gap-4">
+          {it.itens.map((a) => (
+            <li>
+              <a href={`/${a.category}/${a.slug}`} class="group flex h-full flex-col overflow-hidden rounded-lg border border-co-warm-sand-dark bg-white transition-shadow hover:shadow-[0_8px_24px_rgba(62,56,56,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta">
+                <CapaArtigo category={a.category} image_url={a.image_url} class="aspect-[16/9] w-full" />
+                <span class="flex flex-1 flex-col p-4">
+                  <span class="text-[13px] font-medium text-co-warm-brown/75">{categoryLabel(a.category)}</span>
+                  <span class="mt-1 font-display text-[17px] font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta">{a.title}</span>
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        <a href={it.atalho.href} class="mt-4 inline-block font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">{it.atalho.label}</a>
+      </div>
+    ))}
+  </div>
+)}
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-intencoes]').forEach((box) => {
+    const tabs = Array.from(box.querySelectorAll<HTMLButtonElement>('[role="tab"]'));
+    const ativar = (t: HTMLButtonElement, foco = false) => {
+      tabs.forEach((x) => {
+        const on = x === t;
+        x.setAttribute('aria-selected', String(on));
+        x.tabIndex = on ? 0 : -1;
+        const p = box.querySelector<HTMLElement>(`#${x.getAttribute('aria-controls')}`);
+        if (p) p.hidden = !on;
+      });
+      if (foco) t.focus();
+    };
+    tabs.forEach((t, i) => {
+      t.addEventListener('click', () => ativar(t));
+      t.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight') ativar(tabs[(i + 1) % tabs.length], true);
+        if (e.key === 'ArrowLeft') ativar(tabs[(i - 1 + tabs.length) % tabs.length], true);
+      });
+    });
+  });
+</script>

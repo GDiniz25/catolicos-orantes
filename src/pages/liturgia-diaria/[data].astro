@@ -1,0 +1,104 @@
+---
+/**
+ * Uma página por data: de 7 dias atrás a 7 dias à frente (ex.: /liturgia-diaria/12-de-outubro-de-2026).
+ * Captura buscas como "liturgia de amanhã" e "evangelho de domingo".
+ * Páginas que saem da janela deixam de existir no próximo build.
+ */
+import { BookOpen, ChevronLeft, ChevronRight } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { estiloGrade } from '@/lib/simetria';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import { getLiturgiaJanela, type LiturgiaData } from '@/lib/data';
+import { sanitizeLiturgyServer } from '@/lib/sanitize';
+import { extractLeituras, tidyLiturgyHtml } from '@/lib/liturgy';
+import { dataSlug, formatDateFull, getTodayStr } from '@/lib/dateUtils';
+import { corDaCnbb, infoDoDia, tomLiturgico, CORES } from '@/lib/anoLiturgico';
+import { absUrl, breadcrumbSchema, clampText, publisherRef } from '@/lib/seo';
+
+export async function getStaticPaths() {
+  const janela = await getLiturgiaJanela();
+  return janela.map((item, i) => ({
+    params: { data: dataSlug(item.date) },
+    props: { ...item, anterior: janela[i - 1]?.date ?? null, proximo: janela[i + 1]?.date ?? null },
+  }));
+}
+
+const { date, liturgia, anterior, proximo } = Astro.props as { date: string; liturgia: LiturgiaData; anterior: string | null; proximo: string | null };
+const hoje = getTodayStr();
+const path = `/liturgia-diaria/${dataSlug(date)}`;
+const dataLonga = formatDateFull(date);
+const leituras = extractLeituras(liturgia.leituras);
+const corpo = tidyLiturgyHtml(sanitizeLiturgyServer(liturgia.body));
+const info = infoDoDia(date);
+const corKey = corDaCnbb(liturgia.color) ?? info.tempo.cor;
+const tom = tomLiturgico(corKey);
+
+const title = `Liturgia Diária ${dataLonga.replace(/^\S+, /, '')}: ${liturgia.title}`.slice(0, 110);
+const description = clampText(`Leituras da Missa de ${dataLonga}: ${leituras.join('; ') || liturgia.title}.`, 158);
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Liturgia Diária', path: '/liturgia-diaria' },
+  { name: dataLonga, path },
+];
+const jsonLd = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl(path)}#article`,
+    headline: title,
+    alternativeHeadline: liturgia.title,
+    description,
+    datePublished: `${date}T00:00:00-03:00`,
+    dateModified: `${date}T00:00:00-03:00`,
+    inLanguage: 'pt-BR',
+    image: [absUrl('/og-image.png')],
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl(path) },
+    citation: 'Liturgia Diária, Conferência Nacional dos Bispos do Brasil (CNBB)',
+  },
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout title={title} description={description} path={path} ogType="article" jsonLd={jsonLd} publishedTime={`${date}T00:00:00-03:00`} ctaMaxWidth="max-w-3xl"
+  keywords={`liturgia diária ${dataLonga.replace(/^\S+, /, '').toLowerCase()}, evangelho do dia, leituras da missa, ${liturgia.title}`}>
+  <PageHeader title={`Liturgia de ${dataLonga.replace(/ de \d{4}$/, '')}`} subtitle={liturgia.title} icon={BookOpen} crumbs={crumbs} tom={tom}>
+    <p class="mt-5 inline-flex flex-wrap items-center gap-x-3 gap-y-1 rounded-full bg-white/70 px-4 py-1.5 text-[15px]">
+      <span class="h-3 w-3 rounded-full" style={`background:${CORES[corKey].forte}`} aria-hidden="true"></span>
+      <span>Cor litúrgica: <strong>{CORES[corKey].nome}</strong></span>
+      <span class="text-co-warm-brown/75">{info.rotulo}</span>
+    </p>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl px-4">
+      {date === hoje && <p class="mb-6 rounded-lg bg-co-warm-cream px-4 py-3 text-[15px] font-medium">Esta é a liturgia de hoje.</p>}
+
+      {leituras.length > 0 && (
+        <section class="mb-8" aria-labelledby="leituras">
+          <h2 id="leituras" class="mb-2 font-display text-xl font-semibold">Leituras</h2>
+          <ul class="grade-n gap-2 text-[15px]" style={estiloGrade(leituras.length)}>
+            {leituras.map((l) => <li class="flex min-h-10 items-center justify-center rounded-md border border-co-warm-sand-dark bg-white px-3 py-1.5 text-center">{l}</li>)}
+          </ul>
+        </section>
+      )}
+
+      <div class="liturgia-content prose max-w-none text-[16px]" set:html={corpo} />
+
+      <p class="mt-8 text-center text-xs italic text-co-warm-brown/75">Texto litúrgico: Conferência Nacional dos Bispos do Brasil. © Todos os direitos reservados.</p>
+
+      <nav class="mt-10 flex items-center justify-between gap-4 border-t border-co-warm-sand-dark pt-6 text-[15px]" aria-label="Outros dias">
+        {anterior ? (
+          <a href={`/liturgia-diaria/${dataSlug(anterior)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">
+            <ChevronLeft className="h-4 w-4" aria-hidden="true" /> {formatDateFull(anterior).replace(/ de \d{4}$/, '')}
+          </a>
+        ) : <span />}
+        <a href="/liturgia-diaria" class="font-medium text-co-warm-terracotta underline-offset-4 hover:underline">Liturgia de hoje</a>
+        {proximo ? (
+          <a href={`/liturgia-diaria/${dataSlug(proximo)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">
+            {formatDateFull(proximo).replace(/ de \d{4}$/, '')} <ChevronRight className="h-4 w-4" aria-hidden="true" />
+          </a>
+        ) : <span />}
+      </nav>
+    </div>
+  </main>
+</BaseLayout>

@@ -1,0 +1,112 @@
+---
+import { Image } from 'astro:assets';
+import { Heart } from 'lucide-react';
+import logo from '@/assets/logo.png';
+import PrayerButton from '@/components/astro/PrayerButton.astro';
+
+interface Props {
+  hidePrayerCTA?: boolean;
+  ctaMaxWidth?: string;
+  path?: string;
+}
+const { hidePrayerCTA = false, ctaMaxWidth = 'max-w-3xl', path = '' } = Astro.props;
+const showPrayerCTA = !hidePrayerCTA && path !== '/pedido-de-oracao';
+
+const footerSections = [
+  {
+    title: 'Oração e Vida Espiritual',
+    links: [
+      { label: 'Liturgia Diária', href: '/liturgia-diaria' },
+      { label: 'Versículo do Dia', href: '/versiculo-do-dia' },
+      { label: 'Santo do Dia', href: '/santo-do-dia' },
+      { label: 'Orações do Dia a Dia', href: '/oracoes-do-dia-a-dia' },
+      { label: 'Novenas', href: '/novenas' },
+      { label: 'Ladainhas', href: '/ladainhas' },
+    ],
+  },
+  {
+    title: 'Formação Católica',
+    links: [
+      { label: 'Catecismo', href: '/catecismo' },
+      { label: 'Sacramentos', href: '/sacramentos' },
+      { label: 'Dúvidas da Fé', href: '/duvidas-da-fe' },
+      { label: 'Documentos da Igreja', href: '/documentos-da-igreja' },
+      { label: 'Exame de Consciência', href: '/exame-de-consciencia' },
+    ],
+  },
+  {
+    title: 'Devoções',
+    links: [
+      { label: 'Como Rezar o Terço', href: '/como-rezar-o-terco' },
+      { label: 'Devoções Marianas', href: '/devocoes-marianas' },
+      { label: 'Santos e Orações', href: '/santos-e-oracoes' },
+      { label: 'Milagres Eucarísticos', href: '/milagres-eucaristicos' },
+      { label: 'Calendário Litúrgico', href: '/calendario-liturgico' },
+      { label: 'Encontre na Bíblia', href: '/encontre-na-biblia' },
+    ],
+  },
+];
+const year = new Date().getFullYear();
+---
+{showPrayerCTA && (
+  <section class="pb-8" aria-labelledby="cta-oracao">
+    <div class="container mx-auto px-4">
+      <div class:list={['mx-auto w-full', ctaMaxWidth]}>
+        <div class="flex w-full flex-col gap-4 rounded-md bg-co-warm-cream p-6 sm:flex-row sm:items-center sm:justify-between md:p-8">
+          <div>
+            <h2 id="cta-oracao" class="font-display text-xl font-semibold text-co-warm-brown">Precisa de oração?</h2>
+            <p class="mt-1 text-[15px] text-co-warm-brown/80">Envie sua intenção. Rezamos por ela todos os dias.</p>
+          </div>
+          <PrayerButton class="btn btn-primario w-full shrink-0 sm:w-auto">
+            Fazer pedido de oração
+          </PrayerButton>
+        </div>
+      </div>
+    </div>
+  </section>
+)}
+
+<footer class="border-t border-co-warm-sand-dark">
+  <div class="container mx-auto px-4 py-10 md:py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+      <div>
+        <a href="/" class="inline-block" aria-label="Católicos Orantes: página inicial">
+          <Image src={logo} alt="Católicos Orantes" width={144} height={40} class="h-10 w-auto" loading="lazy" />
+        </a>
+        <p class="mt-3 text-sm leading-relaxed text-co-warm-brown/75">
+          Conteúdo católico para fortalecer sua fé e vida de oração, todos os dias.
+        </p>
+        <div class="mt-4">
+          <PrayerButton class="inline-flex items-center gap-1.5 text-[15px] font-medium text-co-warm-terracotta underline-offset-4 hover:underline">
+            <Heart className="h-4 w-4" aria-hidden="true" /> Pedido de oração
+          </PrayerButton>
+        </div>
+      </div>
+
+      {footerSections.map((section) => (
+        <nav aria-label={section.title}>
+          <h2 class="font-sans text-sm font-semibold text-co-warm-brown">{section.title}</h2>
+          <ul class="mt-3 space-y-2">
+            {section.links.map((link) => (
+              <li>
+                <a href={link.href} class="text-[15px] text-co-warm-brown/75 underline-offset-4 transition-colors hover:text-co-warm-terracotta hover:underline">{link.label}</a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      ))}
+    </div>
+
+    <hr class="mt-10 border-co-warm-sand-dark" />
+
+    <div class="mt-6 flex flex-col items-center gap-4 text-center sm:flex-row sm:justify-between sm:text-left">
+      <p class="text-sm text-co-warm-brown/75">© {year} Católicos Orantes. Conteúdo católico, com as fontes indicadas.</p>
+      <nav aria-label="Institucional" class="grid grid-cols-2 gap-x-6 gap-y-2 text-sm text-co-warm-brown/75 sm:flex sm:gap-5">
+        <a href="/minha-conta" class="transition-colors hover:text-co-warm-terracotta">Minha conta</a>
+        <a href="/sugestoes" class="transition-colors hover:text-co-warm-terracotta">Sugestões</a>
+        <a href="/termos-de-uso" class="transition-colors hover:text-co-warm-terracotta">Termos de Uso</a>
+        <a href="/politica-de-privacidade" class="transition-colors hover:text-co-warm-terracotta">Privacidade</a>
+      </nav>
+    </div>
+  </div>
+</footer>

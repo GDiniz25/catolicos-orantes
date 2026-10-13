@@ -1,0 +1,37 @@
+---
+import { BookOpenCheck } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ContaProgresso from '@/components/islands/ContaProgresso';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import PlanoLeitura from '@/components/islands/PlanoLeitura';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Plano de leitura da Bíblia', path: '/plano-de-leitura-da-biblia' }];
+const FAQ = [
+  { q: 'Por onde começar a ler a Bíblia?', a: 'Para quem está começando, os Evangelhos são o melhor ponto de partida, porque mostram a vida e as palavras de Jesus. Depois, o Novo Testamento inteiro e os Salmos.' },
+  { q: 'Quantos livros tem a Bíblia católica?', a: 'A Bíblia católica tem 73 livros: 46 no Antigo Testamento e 27 no Novo Testamento.' },
+  { q: 'Como ler a Bíblia rezando?', a: 'Antes de ler, peça a luz do Espírito Santo. Leia devagar, guarde uma frase que tocou o coração e transforme-a em oração. A Lectio Divina é um método tradicional para isso.' },
+];
+---
+<BaseLayout
+  title="Plano de leitura da Bíblia: Evangelhos, NT e 1 ano"
+  description="Planos de leitura da Bíblia católica: Evangelhos em 30 dias, Novo Testamento em 90 dias, Salmos em 30 dias e a Bíblia completa em 1 ano, com progresso salvo."
+  path="/plano-de-leitura-da-biblia"
+  keywords="plano de leitura da bíblia, bíblia em um ano, ler a bíblia católica, plano de leitura bíblica católico, evangelhos em 30 dias"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/plano-de-leitura-da-biblia')}#webpage`, url: absUrl('/plano-de-leitura-da-biblia'), name: 'Plano de leitura da Bíblia', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Plano de leitura da Bíblia" subtitle="Escolha um plano, marque o que leu e acompanhe seu progresso. Fica salvo neste aparelho e, se você entrar com seu e-mail, em qualquer aparelho." icon={BookOpenCheck} crumbs={crumbs} tom={CATEGORY_VISUAL['catecismo']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-12 px-4">
+      <PlanoLeitura client:load />
+      <div class="mx-auto mt-8 max-w-2xl"><ContaProgresso client:idle origem="plano-leitura" texto="Entre com seu e-mail para guardar os dias lidos e seguir o plano no celular ou no computador. Sem senha: enviamos um link de acesso." /></div>
+      <section class="grid gap-4 sm:grid-cols-2">
+        <a href="/lectio-divina" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Lectio Divina guiada</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">Reze a Palavra em quatro passos.</span></a>
+        <a href="/encontre-na-biblia" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Encontre na Bíblia</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">Versículos por tema e situação.</span></a>
+      </section>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>

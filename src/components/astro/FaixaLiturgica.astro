@@ -1,0 +1,45 @@
+---
+/**
+ * Faixa no topo de todas as páginas, na cor do tempo litúrgico.
+ * Gerada no build e conferida no navegador: se o site não foi reconstruído hoje, a faixa se corrige sozinha.
+ */
+import { getTodayStr } from '@/lib/dateUtils';
+import { CORES, infoDoDia } from '@/lib/anoLiturgico';
+
+const info = infoDoDia(getTodayStr());
+const cor = CORES[info.tempo.cor];
+---
+<div
+  data-faixa-liturgica
+  class="text-[13px] md:text-sm"
+  style={`background:${cor.forte};color:${cor.texto}`}
+>
+  <div class="container mx-auto flex items-center justify-center gap-x-3 gap-y-0.5 px-4 py-1.5 text-center">
+    <span data-faixa-rotulo>{info.rotulo}</span>
+    <span class="opacity-60" aria-hidden="true">|</span>
+    <a href="/liturgia-diaria" class="font-semibold underline decoration-1 underline-offset-2 hover:no-underline" style="color:inherit">Liturgia de hoje</a>
+  </div>
+</div>
+
+<script>
+  import { CORES, infoDoDia, hojeBrasilia } from '@/lib/anoLiturgico';
+  const el = document.querySelector<HTMLElement>('[data-faixa-liturgica]');
+  if (el) {
+    const info = infoDoDia(hojeBrasilia());
+    const cor = CORES[info.tempo.cor];
+    el.style.background = cor.forte;
+    el.style.color = cor.texto;
+    const r = el.querySelector('[data-faixa-rotulo]');
+    if (r) r.textContent = info.rotulo;
+    document.documentElement.style.setProperty('--tempo-forte', cor.forte);
+    document.documentElement.style.setProperty('--tempo-suave', cor.suave);
+  }
+  // Datas "de hoje" fixadas no build: corrige se o site não foi gerado hoje
+  const hoje = hojeBrasilia();
+  document.querySelectorAll<HTMLTimeElement>('[data-data-hoje]').forEach((t) => {
+    if (t.dateTime === hoje) return;
+    const [y, m, d] = hoje.split('-').map(Number);
+    t.dateTime = hoje;
+    t.textContent = new Date(y, m - 1, d).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' });
+  });
+</script>

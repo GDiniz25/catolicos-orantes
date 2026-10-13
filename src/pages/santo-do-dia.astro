@@ -1,0 +1,178 @@
+---
+import { Star, Calendar } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import FaixaDias from '@/components/astro/FaixaDias.astro';
+import Medalhao from '@/components/astro/Medalhao.astro';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { getSaintsByDate, articleExists, getAllArticles } from '@/lib/data';
+import { getShortName, saintHasContent } from '@/lib/saints';
+import { getTodayStr, offsetDate, MONTHS, diaMesSlug, diaMesTexto, todosOsDias } from '@/lib/dateUtils';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { absUrl, breadcrumbSchema, faqSchema, itemListSchema } from '@/lib/seo';
+
+const today = getTodayStr();
+const [year, month, day] = today.split('-').map(Number);
+const formattedDate = `${day} de ${MONTHS[month - 1]} de ${year}`;
+const saints = await Promise.all(
+  (await getSaintsByDate(month, day)).map(async (s) => ({
+    ...s,
+    hasArticle: await articleExists(s.article_category, s.article_slug),
+  })),
+);
+const imgArtigo = new Map((await getAllArticles()).map((a) => [`${a.category}/${a.slug}`, a.image_url || null]));
+const imgSanto = (s: { article_category?: string | null; article_slug?: string | null }) => imgArtigo.get(`${s.article_category}/${s.article_slug}`) ?? null;
+const main = saints[0];
+const tom = CATEGORY_VISUAL['santos-e-oracoes'];
+const inicial = (nome: string) => (getShortName(nome).replace(/^(São|Santa|Santo|S\.|Sto\.|Sta\.|Beato|Beata|Bem-aventurad[oa]|Nossa Senhora d[aeo]s?)\s*/i, '').trim()[0] || '+').toUpperCase();
+const [, mOntem, dOntem] = offsetDate(today, -1).split('-').map(Number);
+const [, mAmanha, dAmanha] = offsetDate(today, 1).split('-').map(Number);
+const meses = MONTHS.map((nome, i) => ({ nome, dias: todosOsDias().filter((d) => d.month === i + 1) }));
+const shortNames = saints.map((s) => getShortName(s.saint_name));
+const namesForSeo = shortNames.length <= 2 ? shortNames.join(' e ') : `${shortNames[0]} e outros`;
+
+const title = saints.length ? `Santo do Dia ${day}/${month}: ${namesForSeo}` : `Santo do Dia Católico: ${day}/${month}`;
+const description = saints.length
+  ? `Santo do dia ${formattedDate}: ${namesForSeo}. Conheça a história e peça intercessão.`
+  : `Descubra o santo católico celebrado hoje, ${formattedDate}.`;
+
+const FAQ = [
+  { q: 'Qual é o santo do dia hoje?', a: saints.length ? `Hoje, ${formattedDate}, a Igreja celebra ${shortNames.join(', ')}.` : 'O santo do dia muda diariamente conforme o calendário litúrgico da Igreja Católica. Visite esta página todos os dias para descobrir o santo celebrado hoje.' },
+  { q: 'Como é definido o santo do dia?', a: 'O santo do dia é definido pelo calendário litúrgico da Igreja Católica, que celebra a memória de santos e beatos em datas específicas ao longo do ano.' },
+  { q: 'Posso rezar para o santo do dia?', a: 'Sim! A Igreja incentiva a devoção aos santos. Você pode pedir a intercessão do santo do dia em suas orações diárias.' },
+  { q: 'Qual a diferença entre santo e beato?', a: 'O beato é alguém que passou pelo processo de beatificação, a etapa anterior à canonização. O santo já foi canonizado pela Igreja, reconhecendo oficialmente sua santidade.' },
+];
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Santo do Dia', path: '/santo-do-dia' },
+];
+
+const jsonLd = [
+  {
+    '@type': 'WebPage',
+    '@id': `${absUrl('/santo-do-dia')}#webpage`,
+    url: absUrl('/santo-do-dia'),
+    name: title,
+    description,
+    inLanguage: 'pt-BR',
+    datePublished: `${today}T00:00:00-03:00`,
+    dateModified: `${today}T00:00:00-03:00`,
+    ...(saints.length ? { mainEntity: itemListSchema(saints.map((s) => ({ name: s.saint_name, path: `/santos/${s.slug}` }))) } : {}),
+  },
+  faqSchema(FAQ),
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path="/santo-do-dia"
+  keywords="santo do dia, santo de hoje, santos católicos, calendário litúrgico dos santos, festa dos santos"
+  ogType="article"
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader title="Santo do Dia" subtitle={`Hoje, ${formattedDate}`} icon={Star} crumbs={crumbs} tom={tom}>
+    <div class="mt-6"><FaixaDias month={month} day={day} /></div>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <div class="mx-auto max-w-3xl">
+        {main ? (
+          <article class="overflow-hidden rounded-2xl border border-co-warm-sand-dark bg-white">
+            <div class="h-2 bg-[#D9BE78]" aria-hidden="true"></div>
+            <div class="flex flex-col gap-6 p-6 sm:flex-row md:p-9">
+              <Medalhao nome={main.saint_name} imagem={imgSanto(main)} class="h-24 w-24 md:h-28 md:w-28" letra="text-5xl" />
+              <div class="min-w-0">
+                <p class="text-sm font-semibold text-[#7A5820]"><time datetime={today}>{formattedDate}</time></p>
+                <h2 class="mt-1 font-display text-2xl font-semibold leading-tight md:text-[2rem]">{main.saint_name}</h2>
+                {main.description && <p class="mt-3 text-[17px] leading-relaxed text-co-warm-brown/85">{main.description}</p>}
+                <div class="acoes mt-5">
+                  {saintHasContent(main) && (
+                    <a href={`/santos/${main.slug}`} class="btn btn-primario">Ver a vida do santo</a>
+                  )}
+                  {main.hasArticle && (
+                    <a href={`/${main.article_category}/${main.article_slug}`} class="btn btn-contorno">Ler artigo completo</a>
+                  )}
+                </div>
+                {main.vatican_url && (
+                  <p class="mt-4"><a href={main.vatican_url} target="_blank" rel="noopener noreferrer" class="text-[13px] text-co-warm-brown/75 underline-offset-4 hover:underline">Fonte: Vatican News</a></p>
+                )}
+              </div>
+            </div>
+          </article>
+        ) : (
+          <div class="rounded-md border border-co-warm-sand-dark bg-co-warm-sand p-8 text-center text-co-warm-brown/75">
+            <Calendar className="mx-auto mb-3 h-10 w-10 opacity-40" aria-hidden="true" />
+            <p>Nenhum santo registrado para hoje.</p>
+          </div>
+        )}
+
+        {saints.length > 1 && (
+          <section class="mt-8" aria-labelledby="santos-hoje">
+            <h2 id="santos-hoje" class="mb-4 font-display text-lg font-semibold text-co-warm-brown">Santos celebrados hoje</h2>
+            <ul class="gs gs-sm2 gap-3">
+              {saints.map((s) => (
+                <li>
+                  <a href={`/santos/${s.slug}`} class="flex items-center gap-3 rounded-xl border border-co-warm-sand-dark bg-white p-4 transition-colors hover:border-co-warm-brown/35">
+                    <Medalhao nome={s.saint_name} imagem={imgSanto(s)} class="h-11 w-11" letra="text-xl" />
+                    <span>
+                      <span class="block font-medium text-co-warm-brown">{s.saint_name}</span>
+                      {s.description && <span class="mt-0.5 line-clamp-1 block text-[13px] text-co-warm-brown/75">{s.description}</span>}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <a href="/descubra-seu-santo" class="mt-8 flex flex-col gap-3 rounded-xl border border-[#E8D9B5] bg-[#F7F0DC] p-5 transition-colors hover:border-[#D9BE78] sm:flex-row sm:items-center sm:justify-between">
+          <span>
+            <span class="block font-display text-xl font-semibold">Qual santo combina com você?</span>
+            <span class="block text-[15px] text-co-warm-brown/80">Faça o teste de afinidade com 52 santos.</span>
+          </span>
+          <span class="btn btn-primario w-full shrink-0 sm:w-auto">Descobrir meu santo</span>
+        </a>
+
+        <nav class="mt-8 flex items-center justify-between gap-4 text-[15px]" aria-label="Outros dias">
+          <a href={`/santo-do-dia/${diaMesSlug(mOntem, dOntem)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">
+            <ChevronLeft className="h-4 w-4" aria-hidden="true" /> Ontem, {diaMesTexto(mOntem, dOntem)}
+          </a>
+          <a href={`/santo-do-dia/${diaMesSlug(mAmanha, dAmanha)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">
+            Amanhã, {diaMesTexto(mAmanha, dAmanha)} <ChevronRight className="h-4 w-4" aria-hidden="true" />
+          </a>
+        </nav>
+
+        <section class="mt-12" aria-labelledby="calendario-santos">
+          <h2 id="calendario-santos" class="mb-4 font-display text-2xl font-semibold">Santos de cada dia do ano</h2>
+          <div class="divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+            {meses.map((m, i) => (
+              <details class="faq-item" open={i + 1 === month}>
+                <summary class="flex items-center justify-between py-3">
+                  <h3 class="font-sans text-[17px] font-medium">{m.nome}</h3>
+                  <ChevronRight className="faq-chevron h-4 w-4 text-co-warm-brown/75 transition-transform" aria-hidden="true" />
+                </summary>
+                <ul class="grid grid-cols-4 gap-1 pb-4 sm:grid-cols-7">
+                  {m.dias.map((d) => (
+                    <li>
+                      <a href={`/santo-do-dia/${diaMesSlug(d.month, d.day)}`} class:list={['block rounded px-2 py-1.5 text-center text-sm underline-offset-4 hover:bg-co-warm-cream hover:text-co-warm-terracotta', d.month === month && d.day === day && 'bg-co-warm-terracotta text-white hover:bg-co-warm-terracotta hover:text-white']} aria-label={`Santo do dia ${diaMesTexto(d.month, d.day)}`}>
+                        {d.day}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            ))}
+          </div>
+        </section>
+
+        <div class="mt-12">
+          <Faq title="Perguntas frequentes" items={FAQ} />
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout>

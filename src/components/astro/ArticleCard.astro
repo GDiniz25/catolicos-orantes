@@ -1,0 +1,27 @@
+---
+import type { Article } from '@/types/content';
+import CapaArtigo from '@/components/astro/CapaArtigo.astro';
+interface Props {
+  article: Pick<Article, 'slug' | 'title' | 'excerpt' | 'image_url' | 'image_alt' | 'category'>;
+  showImage?: boolean;
+}
+const { article, showImage = true } = Astro.props;
+const key = `${article.category}/${article.slug}`;
+---
+<li data-article-item data-key={key} data-search={`${article.title} ${article.excerpt ?? ''}`.toLowerCase()}>
+  <a href={`/${key}`} class="group flex items-start gap-4 py-5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta">
+    {showImage && (
+      <CapaArtigo category={article.category} image_url={article.image_url} variant="thumb" class="h-[72px] w-24 shrink-0 rounded-md md:h-[84px] md:w-28" />
+    )}
+    <div class="min-w-0 flex-1">
+      <h3 class="font-display text-lg font-semibold leading-snug text-co-warm-brown underline-offset-4 group-hover:text-co-warm-terracotta group-hover:underline md:text-xl">
+        {article.title}
+      </h3>
+      {article.excerpt && <p class="mt-1.5 line-clamp-2 text-[15px] leading-relaxed text-co-warm-brown/80">{article.excerpt}</p>}
+      <p class="mt-2 inline-flex items-center gap-1.5 rounded-full bg-[#E4EEE6] px-2.5 py-0.5 text-[13px] font-medium text-[#36613F]" hidden data-lido>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5 9-10"></path></svg>
+        Você já leu
+      </p>
+    </div>
+  </a>
+</li>

@@ -1,0 +1,124 @@
+# =====================================================================
+#  Católicos Orantes: configuração para Hostinger (Apache / LiteSpeed)
+# =====================================================================
+
+Options -MultiViews -Indexes
+DirectorySlash Off
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+AddDefaultCharset UTF-8
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # 1) Força HTTPS e domínio sem "www" (um único 301)
+  RewriteCond %{HTTPS} off [OR]
+  RewriteCond %{HTTP_HOST} ^www\. [NC]
+  RewriteRule ^ https://catolicosorantes.com.br%{REQUEST_URI} [R=301,L]
+
+  # 2) /index.html e /pagina.html -> URL limpa
+  RewriteCond %{THE_REQUEST} \s/+index\.html[\s?] [NC]
+  RewriteRule ^ / [R=301,L]
+  RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+  RewriteRule ^ /%1 [R=301,L,NE]
+
+  # 3) Remove barra final (padrão de URL do site: sem barra)
+  RewriteCond %{REQUEST_URI} !^/$
+  RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+  # 4) Sitemaps antigos (Edge Function) continuam funcionando: agora são arquivos estáticos
+
+  # 4b) Endereços antigos que mudaram de nome (301 permanente para o endereço novo)
+  RewriteRule ^sacramentos/eucaristia\-e\-adoracao\-a\-presenca\-real\-explicada/?$ /sacramentos/a-eucaristia-presenca-real-de-cristo [R=301,L]
+  RewriteRule ^catecismo/fe\-e\-razao\-a\-harmonia\-segundo\-a\-igreja\-catolica/?$ /catecismo/fe-e-razao-harmonia-igreja-catolica [R=301,L]
+  RewriteRule ^oracoes\-do\-dia\-a\-dia/oracoes\-da\-manha\-para\-comecar\-bem\-o\-dia/?$ /oracoes-do-dia-a-dia/oracoes-da-manha-comecar-bem-dia [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/sao\-joao\-paulo\-ii\-o\-papa\-da\-familia/?$ /santos-e-oracoes/sao-joao-paulo-ii-papa-peregrino [R=301,L]
+  RewriteRule ^catecismo/as\-virtudes\-teologais\-fe\-esperanca\-e\-caridade/?$ /catecismo/as-virtudes-teologais-fe-esperanca-caridade [R=301,L]
+  RewriteRule ^duvidas\-da\-fe/qual\-a\-diferenca\-entre\-adoracao\-veneracao\-e\-hiperdulia/?$ /duvidas-da-fe/diferenca-entre-adoracao-veneracao-hiperdulia [R=301,L]
+  RewriteRule ^novenas/novena\-a\-nossa\-senhora\-das\-gracas/?$ /devocoes-marianas/nossa-senhora-das-gracas-e-a-medalha-milagrosa [R=301,L]
+  RewriteRule ^catecismo/anjos\-e\-demonios\-o\-que\-diz\-a\-doutrina\-catolica/?$ /catecismo/anjos-e-demonios-doutrina-catolica [R=301,L]
+  RewriteRule ^novenas/novena\-a\-sao\-judas\-tadeu/?$ /santos-e-oracoes/sao-judas-tadeu-santo-causas-impossiveis [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/sao\-judas\-tadeu\-o\-santo\-das\-causas\-impossiveis\-e\-desesperadas/?$ /santos-e-oracoes/sao-judas-tadeu-santo-causas-impossiveis [R=301,L]
+  RewriteRule ^documentos\-da\-igreja/deus\-caritas\-est\-o\-amor\-cristao\-segundo\-bento\-xvi/?$ /documentos-da-igreja/deus-caritas-est-amor-cristao-bento-xvi [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/sao\-joao\-paulo\-ii\-o\-papa\-peregrino/?$ /santos-e-oracoes/sao-joao-paulo-ii-papa-peregrino [R=301,L]
+  RewriteRule ^documentos\-da\-igreja/fides\-et\-ratio\-fe\-e\-razao\-segundo\-joao\-paulo\-ii/?$ /documentos-da-igreja/fides-et-ratio-fe-e-razao-joao-paulo-ii [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/sao\-jorge\-o\-soldado\-de\-cristo/?$ /santos-e-oracoes/sao-jorge-soldado-de-cristo [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/santo\-atanasio\-de\-alexandria\-defensor\-da\-fe\-nicena/?$ /santos-e-oracoes/santo-atanasio-defensor-fe-nicena [R=301,L]
+  RewriteRule ^exame\-de\-consciencia/exame\-de\-consciencia\-para\-casais\-e\-vida\-matrimonial/?$ /exame-de-consciencia [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/santa\-teresinha\-do\-menino\-jesus\-o\-pequeno\-caminho/?$ /santos-e-oracoes/santa-teresinha-pequeno-caminho [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/santa\-teresa\-de\-avila\-doutora\-da\-oracao\-mistica/?$ /santos-e-oracoes/santa-teresa-de-avila-doutora-oracao-mistica [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/sao\-lucas\-evangelista\-medico\-e\-escritor\-sagrado/?$ /santos-e-oracoes/sao-lucas-evangelista-medico-escritor [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/santa\-rosa\-de\-lima\-a\-primeira\-santa\-da\-america/?$ /santos-e-oracoes/santa-rosa-de-lima-primeira-santa-america [R=301,L]
+  RewriteRule ^liturgia\-das\-horas/como\-rezar\-vesperas\-oracao\-da\-tarde/?$ /liturgia-das-horas [R=301,L]
+  RewriteRule ^liturgia\-das\-horas/completas\-a\-oracao\-antes\-de\-dormir/?$ /liturgia-das-horas/completas-oracao-antes-de-dormir [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/sao\-bento\-e\-a\-regra\-ora\-et\-labora/?$ /santos-e-oracoes/sao-bento-de-nursia-pai-do-monaquismo-ocidental [R=301,L]
+  RewriteRule ^liturgia\-das\-horas/aplicativos\-e\-recursos\-para\-rezar\-a\-liturgia\-das\-horas/?$ /liturgia-das-horas/aplicativos-recursos-liturgia-horas [R=301,L]
+  RewriteRule ^santos\-e\-oracoes/sao\-bento\-vida\-regra\-medalha/?$ /santos-e-oracoes/sao-bento-de-nursia-pai-do-monaquismo-ocidental [R=301,L]
+  RewriteRule ^devocoes\-marianas/nossa\-senhora\-rainha\-da\-paz/?$ /devocoes-marianas [R=301,L]
+
+  # 5) Painel admin (SPA): qualquer /admin/* abre admin.html
+  RewriteRule ^admin(/.*)?$ /admin.html [L]
+
+  # 6) URL limpa -> arquivo .html gerado no build
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+)$ /$1.html [L]
+
+  # 6b) Liturgia de uma data que saiu do site: vai para a liturgia de hoje (em vez de erro 404)
+  RewriteCond %{REQUEST_FILENAME}.html !-f
+  RewriteRule ^liturgia-diaria/[0-9]{1,2}-de-[a-z]+-de-[0-9]{4}$ /liturgia-diaria [R=302,L]
+
+  # 7) Pasta sem página correspondente (ex.: /santos, /_astro) -> 404 em vez de 403
+  # (nunca vale para a página inicial "/")
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteCond %{REQUEST_FILENAME}.html !-f
+  RewriteRule ^.+$ - [R=404,L]
+</IfModule>
+
+# ---------------- Compressão ----------------
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/xml application/rss+xml application/javascript application/json image/svg+xml application/manifest+json
+</IfModule>
+
+# ---------------- Cache ----------------
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 hour"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType application/xml "access plus 1 hour"
+  ExpiresByType application/rss+xml "access plus 1 hour"
+  ExpiresByType application/json "access plus 1 hour"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/avif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 month"
+</IfModule>
+
+<IfModule mod_headers.c>
+  # (Cache "immutable" dos arquivos do build fica em /_astro/.htaccess)
+  # HTML sempre revalida (liturgia, santo e versículo mudam todo dia)
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  Header always set Strict-Transport-Security "max-age=31536000"
+  Header always set Cross-Origin-Opener-Policy "same-origin-allow-popups"
+  # CSP: só carrega scripts do próprio site e do Google Analytics; dados só do Supabase do projeto e da API da CNBB
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' https://dialdbrhpqrwilsisnkn.supabase.co wss://dialdbrhpqrwilsisnkn.supabase.co https://api-liturgia.edicoescnbb.com.br https://*.google-analytics.com https://*.analytics.google.com https://www.googletagmanager.com; frame-src https://www.youtube.com https://www.youtube-nocookie.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
+
+  <FilesMatch "^llms\.txt$">
+    Header set Content-Type "text/plain; charset=utf-8"
+  </FilesMatch>
+</IfModule>
+
+AddType application/manifest+json .webmanifest
+AddType font/woff2 .woff2

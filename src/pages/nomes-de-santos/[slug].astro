@@ -1,0 +1,60 @@
+---
+import { Baby } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import nomes from '@/data/conteudo/nomes.json';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+type Nome = (typeof nomes)[number];
+export function getStaticPaths() {
+  return nomes.map((n, i) => ({ params: { slug: n.slug }, props: { n, vizinhos: [nomes[i - 1], nomes[i + 1]].filter(Boolean) } }));
+}
+const { n, vizinhos } = Astro.props as { n: Nome; vizinhos: Nome[] };
+const path = `/nomes-de-santos/${n.slug}`;
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Nomes de santos', path: '/nomes-de-santos' }, { name: n.nome, path }];
+const santo = n.santos[0];
+const FAQ = [
+  ...(n.significado ? [{ q: `Qual o significado do nome ${n.nome}?`, a: `${n.nome} é um nome de origem ${n.origem} que significa "${n.significado}".` }] : []),
+  ...(santo ? [{ q: `Quando é o dia de ${n.nome}?`, a: `O dia do santo de quem tem o nome ${n.nome} é a festa de ${santo.nome}${santo.festa ? `, em ${santo.festa}` : ''}.` }] : []),
+  { q: `${n.nome} é um nome católico?`, a: `Sim. É o nome de ${n.santos.map((s) => s.nome).join(', ')}, e pode ser dado no Batismo como nome cristão.` },
+];
+const desc = `${n.nome}${n.significado ? `: significado "${n.significado}"` : ''}, origem ${n.origem}, ${santo ? `${santo.nome}${santo.festa ? ` (${santo.festa})` : ''}` : 'santos do nome'} e dia do santo.`.slice(0, 158);
+const descricao = desc.length < 70 ? `${desc} Veja o significado e a festa.` : desc;
+---
+<BaseLayout
+  title={`${n.nome}: significado do nome e santo do dia`}
+  description={descricao}
+  path={path}
+  keywords={`significado do nome ${n.nome}, ${n.nome} nome de santo, dia de ${n.nome}, ${santo?.nome ?? ''}`}
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl(path)}#webpage`, url: absUrl(path), name: `${n.nome}: significado do nome`, inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title={n.nome} subtitle={n.significado ? `Nome de origem ${n.origem} que significa “${n.significado}”.` : `Nome de origem ${n.origem}.`} icon={Baby} crumbs={crumbs} tom={CATEGORY_VISUAL['santos-e-oracoes']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto grid max-w-5xl gap-10 px-4 lg:grid-cols-[minmax(0,1fr)_280px]">
+      <article class="min-w-0">
+        <div class="intro-prose max-w-2xl text-[17px]" set:html={n.texto} />
+        <h2 class="mt-10 font-display text-2xl font-semibold">Santos com o nome {n.nome}</h2>
+        <ul class="mt-4 space-y-3">
+          {n.santos.map((s) => (
+            <li class="flex items-center justify-between gap-4 rounded-xl border border-co-warm-sand-dark bg-white p-4">
+              <span><span class="block font-display text-lg font-semibold">{s.nome}</span>{s.festa && <span class="text-sm text-co-warm-brown/80">Festa: {s.festa}</span>}</span>
+              {s.link && <a href={s.link} class="shrink-0 font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Ler a vida</a>}
+            </li>
+          ))}
+        </ul>
+        <section class="mt-10" aria-labelledby="faq-nome">
+          <h2 id="faq-nome" class="mb-4 font-display text-2xl font-semibold">Perguntas frequentes</h2>
+          <div class="divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+            {FAQ.map((f) => (<div class="py-4"><h3 class="font-sans text-[17px] font-semibold">{f.q}</h3><p class="mt-1 text-[15px] text-co-warm-brown/85">{f.a}</p></div>))}
+          </div>
+        </section>
+      </article>
+      <aside class="space-y-4">
+        <a href="/nomes-de-santos" class="block rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-semibold">Todos os nomes de santos</span><span class="mt-1 block text-sm text-co-warm-brown/80">80 nomes com significado e festa.</span></a>
+        {vizinhos.map((v) => <a href={`/nomes-de-santos/${v.slug}`} class="block rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35"><span class="text-sm text-co-warm-brown/75">Outro nome</span><span class="block font-display text-lg font-semibold">{v.nome}</span></a>)}
+        <a href="/sacramentos/o-batismo-significado-rito-e-gracas" class="block rounded-xl border border-co-warm-sand-dark bg-co-warm-cream p-5"><span class="font-semibold">O Batismo</span><span class="mt-1 block text-sm text-co-warm-brown/80">Significado, rito e graças.</span></a>
+      </aside>
+    </div>
+  </main>
+</BaseLayout>

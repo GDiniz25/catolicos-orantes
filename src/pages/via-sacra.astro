@@ -1,0 +1,55 @@
+---
+import { Cross } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import via from '@/data/conteudo/via-sacra.json';
+import { ORACOES } from '@/data/oracoes';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Via Sacra', path: '/via-sacra' }];
+const FAQ = [
+  { q: 'Quando rezar a Via Sacra?', a: 'É tradição rezá-la nas sextas-feiras, especialmente na Quaresma e na Sexta-feira Santa, mas pode ser rezada em qualquer dia do ano.' },
+  { q: 'Posso rezar a Via Sacra em casa?', a: 'Sim. Na igreja, caminha-se diante dos quadros das estações; em casa, basta seguir as estações com o coração, meditando cada passo da Paixão.' },
+  { q: 'Quantas estações tem a Via Sacra?', a: 'A forma tradicional tem 14 estações, da condenação de Jesus ao sepultamento. Algumas celebrações acrescentam uma 15ª, a Ressurreição.' },
+];
+---
+<BaseLayout
+  title="Via Sacra completa: as 14 estações com meditação"
+  description="Reze a Via Sacra completa: as 14 estações com leitura bíblica, meditação e oração. Para as sextas-feiras da Quaresma e a Sexta-feira Santa."
+  path="/via-sacra"
+  keywords="via sacra, via sacra completa, 14 estações da via sacra, via sacra rezada, via crucis, via sacra sexta-feira santa"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/via-sacra')}#webpage`, url: absUrl('/via-sacra'), name: 'Via Sacra', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Via Sacra" subtitle="As 14 estações do caminho de Jesus até a cruz, com leitura, meditação e oração." icon={Cross} crumbs={crumbs} tom={CATEGORY_VISUAL['exame-de-consciencia']}>
+    <nav class="mt-6" aria-label="Estações">
+      <ol class="grid max-w-3xl grid-cols-7 gap-1.5 md:grid-cols-[repeat(14,minmax(0,1fr))]">
+        {via.estacoes.map((e) => <li><a href={`#estacao-${e.n}`} class="mx-auto flex aspect-square w-full max-w-11 items-center justify-center rounded-full border border-co-warm-sand-dark bg-white text-sm font-semibold hover:border-co-warm-brown/40" aria-label={`${e.n}ª estação: ${e.titulo}`}>{e.n}</a></li>)}
+      </ol>
+    </nav>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-8 px-4">
+      <div class="intro-prose text-[17px]" set:html={via.abertura} />
+      <p class="rounded-lg bg-co-warm-cream px-4 py-3 text-[15px]">Em cada estação, reze antes da leitura: <em>“{ORACOES.viaSacraVersiculo}”</em></p>
+      {via.estacoes.map((e) => (
+        <section id={`estacao-${e.n}`} class="scroll-mt-24 overflow-hidden rounded-2xl border border-co-warm-sand-dark bg-white" aria-labelledby={`t-${e.n}`}>
+          <div class="flex items-center gap-4 border-b border-co-warm-sand-dark bg-[#EEE7F2] px-5 py-4">
+            <span class="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-white font-display text-xl font-semibold text-[#5A3F6B]">{e.n}</span>
+            <h2 id={`t-${e.n}`} class="font-display text-xl font-semibold leading-snug md:text-2xl">{e.titulo}</h2>
+          </div>
+          <div class="space-y-4 p-5 md:p-7">
+            <p class="text-[15px] italic text-co-warm-brown/80">{ORACOES.viaSacraVersiculo}</p>
+            {e.leitura && <p class="text-sm font-semibold text-[#5A3F6B]">Leitura: {e.leitura}</p>}
+            <div class="intro-prose text-[17px]" set:html={e.meditacao} />
+            <p class="rounded-lg bg-co-warm-cream px-4 py-3 text-[16px]">{e.oracao}</p>
+            <p class="text-[14px] text-co-warm-brown/80">Pai-Nosso, Ave-Maria e Glória ao Pai.</p>
+          </div>
+        </section>
+      ))}
+      <div class="intro-prose text-[17px]" set:html={via.encerramento} />
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>

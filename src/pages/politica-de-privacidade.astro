@@ -1,0 +1,26 @@
+---
+import { Shield } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import PoliticaContent from '@/components/content/PoliticaContent';
+import { breadcrumbSchema } from '@/lib/seo';
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Política de Privacidade', path: '/politica-de-privacidade' },
+];
+---
+<BaseLayout
+  title="Política de Privacidade"
+  description="Política de privacidade do site Católicos Orantes. Saiba como tratamos seus dados pessoais."
+  path="/politica-de-privacidade"
+  jsonLd={[breadcrumbSchema(crumbs)]}
+  hidePrayerCTA
+>
+  <PageHeader title="Política de Privacidade" icon={Shield} crumbs={crumbs} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto px-4">
+      <PoliticaContent />
+    </div>
+  </main>
+</BaseLayout>

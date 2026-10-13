@@ -1,0 +1,448 @@
+{
+  "casados": {
+    "titulo": "Exame de consciência para casados",
+    "descricao": "Exame de consciência para casados pelos dez mandamentos e pelos deveres de esposos e pais, com perguntas claras para preparar a confissão.",
+    "intro": "<p>O <strong>exame de consciência para casados</strong> ajuda marido e mulher a olhar a própria vida à luz dos mandamentos e da vocação que receberam no sacramento do Matrimônio. Não se trata de procurar culpados nem de alimentar escrúpulos, mas de reconhecer com sinceridade onde faltou amor a Deus, ao cônjuge, aos filhos e ao próximo.</p><p>Antes de começar, faça um momento de silêncio e peça a luz do Espírito Santo. Leia as perguntas com calma, sem pressa de passar por todas. Pense desde a sua última confissão bem feita. Anote, se ajudar, os pecados que reconhecer, especialmente os graves, e também o número aproximado de vezes. Lembre que o objetivo do exame não é a tristeza, e sim a conversão: Deus quer perdoar e renovar o amor do casal. Se tiver dúvida sobre a gravidade de algum ponto, apresente a questão ao sacerdote com simplicidade.</p>",
+    "secoes": [
+      {
+        "titulo": "1º mandamento: amar a Deus sobre todas as coisas",
+        "perguntas": [
+          "Deixei de rezar todos os dias, sozinho ou com minha família?",
+          "Coloquei o trabalho, o dinheiro, o conforto ou o lazer acima de Deus?",
+          "Duvidei voluntariamente da fé ou deixei de procurar conhecê-la melhor?",
+          "Pratiquei ou consultei superstição, horóscopo, cartomancia, simpatias ou espiritismo?",
+          "Desesperei da misericórdia de Deus ou abusei dela, pecando com a ideia de que depois me confessaria?",
+          "Recebi a Comunhão em pecado grave, sem antes me confessar?",
+          "Tive vergonha de mostrar minha fé diante de familiares, amigos ou colegas?"
+        ]
+      },
+      {
+        "titulo": "2º mandamento: não tomar seu santo nome em vão",
+        "perguntas": [
+          "Usei o nome de Deus, de Nossa Senhora ou dos santos com desrespeito, em brincadeiras ou na raiva?",
+          "Falei palavras de blasfêmia ou contra a Igreja?",
+          "Jurei falso ou jurei sem necessidade?",
+          "Deixei de cumprir uma promessa feita a Deus sem motivo justo?",
+          "Ensinei meus filhos, com palavras ou exemplo, a falar de Deus sem respeito?"
+        ]
+      },
+      {
+        "titulo": "3º mandamento: guardar domingos e festas de guarda",
+        "perguntas": [
+          "Faltei à Missa aos domingos ou nos dias de preceito por minha culpa?",
+          "Cheguei atrasado de propósito ou participei da Missa distraído e sem vontade?",
+          "Deixei de levar meus filhos à Missa ou de dar a eles o exemplo?",
+          "Trabalhei ou fiz trabalhar sem necessidade no domingo, sem tempo para Deus e para a família?",
+          "Deixei de cumprir o jejum e a abstinência nos dias marcados pela Igreja?",
+          "Deixei de me confessar ao menos uma vez por ano e de comungar no tempo pascal?"
+        ]
+      },
+      {
+        "titulo": "4º mandamento: honrar pai e mãe",
+        "perguntas": [
+          "Tratei meus pais e sogros com desprezo, impaciência ou ingratidão?",
+          "Deixei de ajudar meus pais ou sogros idosos ou doentes, quando podia fazê-lo?",
+          "Permiti interferências da família de origem que prejudicaram a união do casal?",
+          "Desrespeitei autoridades legítimas ou deixei de cumprir leis justas?",
+          "Deixei de corrigir meus filhos com firmeza e amor, ou os corrigi com violência e humilhação?"
+        ]
+      },
+      {
+        "titulo": "5º mandamento: não matar",
+        "perguntas": [
+          "Guardei ódio, rancor ou desejo de vingança contra alguém, inclusive meu cônjuge?",
+          "Agredi alguém com palavras, gestos ou violência física, em casa ou fora dela?",
+          "Pratiquei, aconselhei, facilitei ou financiei um aborto?",
+          "Coloquei em risco a minha vida ou a de outros, por exemplo dirigindo depois de beber?",
+          "Abusei de bebida alcoólica, usei drogas ou descuidei da saúde de forma grave?",
+          "Dei mau exemplo que levou outros, especialmente meus filhos, ao pecado?",
+          "Neguei o perdão a quem me pediu ou me recusei a buscar a reconciliação?"
+        ]
+      },
+      {
+        "titulo": "6º mandamento: não pecar contra a castidade",
+        "perguntas": [
+          "Fui infiel ao meu cônjuge em atos, palavras ou relacionamentos afetivos fora do casamento?",
+          "Mantive conversas, mensagens ou amizades que alimentavam uma ligação imprópria com outra pessoa?",
+          "Vi pornografia ou consumi conteúdos que ferem a castidade?",
+          "Pratiquei a masturbação?",
+          "Usei métodos contraceptivos artificiais ou recorri à esterilização, contra o ensinamento da Igreja?",
+          "Tratei meu cônjuge como objeto, sem respeito, ternura e diálogo na vida íntima?",
+          "Neguei a vida íntima ao cônjuge sem motivo justo, usando-a como castigo ou forma de pressão?"
+        ]
+      },
+      {
+        "titulo": "7º mandamento: não furtar",
+        "perguntas": [
+          "Roubei, enganei no comércio ou fiquei com o que não era meu?",
+          "Deixei de pagar dívidas, impostos justos, salários ou o que devia?",
+          "Fui desonesto no trabalho, faltando sem motivo ou não cumprindo o combinado?",
+          "Gastei de forma irresponsável o dinheiro da família, em jogos, vícios ou luxos?",
+          "Escondi gastos ou dívidas do meu cônjuge?",
+          "Deixei de ajudar os pobres e a Igreja conforme as minhas possibilidades?"
+        ]
+      },
+      {
+        "titulo": "8º mandamento: não levantar falso testemunho",
+        "perguntas": [
+          "Menti ao meu cônjuge, aos meus filhos ou a outras pessoas?",
+          "Falei mal de alguém, revelando sem necessidade defeitos ou pecados dos outros?",
+          "Caluniei, inventando ou espalhando o que não era verdade?",
+          "Expus problemas do casamento ou defeitos do cônjuge a outras pessoas, sem necessidade?",
+          "Julguei os outros de forma precipitada e sem caridade?",
+          "Compartilhei boatos ou notícias falsas nas redes sociais?"
+        ]
+      },
+      {
+        "titulo": "9º mandamento: não desejar a mulher do próximo",
+        "perguntas": [
+          "Alimentei de propósito pensamentos ou desejos impuros?",
+          "Desejei outra pessoa que não o meu cônjuge e cultivei esse desejo?",
+          "Busquei ocasiões, lugares ou conteúdos que sabia que me levariam à tentação?",
+          "Vesti-me ou comportei-me de modo a provocar o desejo de outras pessoas?",
+          "Cuidei pouco da guarda do olhar e da imaginação?"
+        ]
+      },
+      {
+        "titulo": "10º mandamento: não cobiçar as coisas alheias",
+        "perguntas": [
+          "Tive inveja do que os outros têm, inclusive de outros casais e famílias?",
+          "Vivi insatisfeito, comparando minha vida com a dos outros e me queixando de Deus?",
+          "Fui apegado demais ao dinheiro e aos bens, deixando a família em segundo plano?",
+          "Desejei ganhar dinheiro de modo desonesto ou à custa dos outros?"
+        ]
+      },
+      {
+        "titulo": "Deveres de esposos",
+        "perguntas": [
+          "Rezei pelo meu cônjuge e com ele?",
+          "Fui paciente, delicado e atento com meu cônjuge no dia a dia?",
+          "Pedi perdão quando errei e perdoei quando fui ofendido?",
+          "Dediquei tempo ao diálogo e à convivência, ou deixei o celular, a televisão e o trabalho tomarem esse espaço?",
+          "Tomei decisões importantes sem ouvir meu cônjuge?",
+          "Fui fiel também nos pequenos gestos, protegendo a intimidade e a honra do casamento?",
+          "Estive aberto à vida, vivendo a paternidade e a maternidade de forma responsável e generosa, segundo o ensinamento da Igreja?"
+        ]
+      },
+      {
+        "titulo": "Deveres de pais",
+        "perguntas": [
+          "Ensinei a fé aos meus filhos, com orações, conversas e o meu próprio exemplo?",
+          "Cuidei para que meus filhos recebessem os sacramentos no tempo certo?",
+          "Acompanhei o que meus filhos veem na internet, na televisão e nos jogos?",
+          "Fui presente na vida dos meus filhos, escutando e conhecendo seus amigos e dificuldades?",
+          "Fui duro demais ou permissivo demais, deixando de educar com amor e firmeza?",
+          "Briguei com meu cônjuge diante dos filhos ou falei mal dele para os filhos?",
+          "Respeitei a vocação e as escolhas legítimas dos meus filhos adultos?"
+        ]
+      }
+    ],
+    "conselhos": "<p>Terminado o exame, peça a Deus a graça do arrependimento sincero e faça o propósito de mudar. Procure um sacerdote e confesse todos os pecados graves de que se lembrar, dizendo a espécie e o número aproximado de vezes; os pecados veniais também podem ser confessados, e é muito recomendável fazê-lo. Ao final, reze o <a href=\"/exame-de-consciencia/ato-de-contricao-diferentes-versoes-e-como-rezar\">ato de contrição</a>, receba a absolvição e cumpra a penitência indicada. Se possível, o casal pode se confessar no mesmo dia e depois rezar junto, agradecendo a misericórdia de Deus. Para revisar cada etapa, veja <a href=\"/exame-de-consciencia/como-fazer-uma-boa-confissao-passo-a-passo\">como fazer uma boa confissão, passo a passo</a>.</p>"
+  },
+  "jovens": {
+    "titulo": "Exame de consciência para jovens",
+    "descricao": "Exame de consciência para jovens e adolescentes com perguntas sobre os mandamentos, estudos, namoro e internet para preparar uma boa confissão.",
+    "intro": "<p>O <strong>exame de consciência para jovens</strong> é um tempo de sinceridade diante de Deus. Nessa fase da vida surgem muitas decisões, amizades, descobertas e também tentações. Olhar para a própria consciência ajuda a entender onde você tem crescido e onde precisa da graça de Deus para mudar.</p><p>Escolha um lugar tranquilo, deixe o celular de lado e comece pedindo: \"Vinde, Espírito Santo, iluminai a minha consciência\". Leia as perguntas com calma, pensando desde a sua última confissão. Não tenha medo nem vergonha: o padre está ali em nome de Cristo, que acolhe e perdoa, e tudo o que for dito na confissão fica em segredo absoluto. Se alguma pergunta não se aplica à sua vida, passe para a próxima. Se tiver dúvida sobre a gravidade de algo, pergunte ao sacerdote com simplicidade. O mais importante é o desejo verdadeiro de voltar para Deus.</p>",
+    "secoes": [
+      {
+        "titulo": "1º mandamento: amar a Deus sobre todas as coisas",
+        "perguntas": [
+          "Deixei de rezar por preguiça ou falta de interesse?",
+          "Coloquei amigos, jogos, redes sociais, esporte ou estudos acima de Deus?",
+          "Duvidei da fé de propósito ou tive vergonha de dizer que sou católico?",
+          "Participei de práticas de superstição, horóscopo, tarô, simpatias ou espiritismo?",
+          "Recebi a Comunhão em pecado grave, sem me confessar antes?",
+          "Escondi pecados graves numa confissão anterior?"
+        ]
+      },
+      {
+        "titulo": "2º mandamento: não tomar seu santo nome em vão",
+        "perguntas": [
+          "Usei o nome de Deus ou dos santos em brincadeiras, xingamentos ou com raiva?",
+          "Fiz piadas ou memes desrespeitosos sobre Deus, Nossa Senhora ou coisas sagradas?",
+          "Jurei falso ou jurei por Deus sem necessidade?",
+          "Deixei de cumprir uma promessa feita a Deus?"
+        ]
+      },
+      {
+        "titulo": "3º mandamento: guardar domingos e festas de guarda",
+        "perguntas": [
+          "Faltei à Missa no domingo ou em dia de preceito por minha culpa?",
+          "Fiquei no celular ou distraído de propósito durante a Missa?",
+          "Cheguei atrasado sem motivo ou saí antes do fim?",
+          "Deixei de respeitar o jejum e a abstinência nos dias marcados pela Igreja?",
+          "Deixei de usar o domingo também para descansar, estar com a família e fazer o bem?"
+        ]
+      },
+      {
+        "titulo": "4º mandamento: honrar pai e mãe",
+        "perguntas": [
+          "Desobedeci meus pais ou responsáveis em coisas justas?",
+          "Fui grosseiro, respondi mal ou tratei meus pais com desprezo?",
+          "Menti para meus pais para sair ou esconder o que eu fazia?",
+          "Briguei com meus irmãos ou deixei de ajudar em casa?",
+          "Desrespeitei professores, catequistas ou outras pessoas mais velhas?"
+        ]
+      },
+      {
+        "titulo": "5º mandamento: não matar",
+        "perguntas": [
+          "Guardei raiva, ódio ou desejo de vingança contra alguém?",
+          "Agredi, humilhei ou pratiquei bullying com alguém, pessoalmente ou pela internet?",
+          "Bebi em excesso, usei drogas ou cigarro, ou coloquei minha saúde em risco?",
+          "Fiz algo perigoso que poderia ferir a mim ou aos outros?",
+          "Incentivei alguém a pecar ou dei mau exemplo?",
+          "Pratiquei, aconselhei ou ajudei alguém a fazer um aborto?",
+          "Fiquei sem perdoar quem me ofendeu?"
+        ]
+      },
+      {
+        "titulo": "6º mandamento: não pecar contra a castidade",
+        "perguntas": [
+          "Vi pornografia ou conteúdos impuros?",
+          "Pratiquei a masturbação?",
+          "Tive relações sexuais ou intimidades próprias do casamento fora do Matrimônio?",
+          "Enviei, pedi ou guardei fotos ou mensagens de conteúdo sexual?",
+          "Fiz piadas, conversas ou brincadeiras impuras?",
+          "Procurei situações em que sabia que cairia em tentação?"
+        ]
+      },
+      {
+        "titulo": "7º mandamento: não furtar",
+        "perguntas": [
+          "Peguei algo que não era meu, em casa, na escola, em lojas ou de amigos?",
+          "Usei dinheiro dos meus pais sem permissão?",
+          "Danifiquei de propósito coisas da escola, da rua ou de outras pessoas?",
+          "Baixei ou usei conteúdos piratas, contas ou materiais de outros sem autorização?",
+          "Deixei de devolver o que me emprestaram?"
+        ]
+      },
+      {
+        "titulo": "8º mandamento: não levantar falso testemunho",
+        "perguntas": [
+          "Menti para me livrar de problemas ou para parecer melhor?",
+          "Falei mal dos outros ou espalhei fofocas?",
+          "Inventei histórias ou acusei alguém injustamente?",
+          "Expus segredos, conversas ou fotos de outras pessoas?",
+          "Criei perfis falsos ou fingi ser outra pessoa na internet?"
+        ]
+      },
+      {
+        "titulo": "9º mandamento: não desejar a mulher do próximo",
+        "perguntas": [
+          "Alimentei de propósito pensamentos e desejos impuros?",
+          "Fiquei olhando para alguém com desejo, sem guardar o olhar?",
+          "Escolhi músicas, séries ou perfis que alimentam a impureza?",
+          "Vesti-me ou comportei-me para provocar o desejo dos outros?"
+        ]
+      },
+      {
+        "titulo": "10º mandamento: não cobiçar as coisas alheias",
+        "perguntas": [
+          "Tive inveja do que os outros têm, das roupas, do celular, das notas ou da aparência?",
+          "Vivi comparando minha vida com a dos outros nas redes sociais e me sentindo inferior?",
+          "Fiquei triste com o sucesso de um colega ou feliz com o fracasso dele?",
+          "Dei valor demais ao dinheiro, às marcas e às aparências?"
+        ]
+      },
+      {
+        "titulo": "Estudos",
+        "perguntas": [
+          "Fui preguiçoso nos estudos, deixando de fazer as tarefas e de me preparar?",
+          "Colei em provas ou copiei trabalhos de outros?",
+          "Faltei às aulas sem motivo ou enganei meus pais sobre a escola?",
+          "Atrapalhei a aula ou desrespeitei professores e colegas?",
+          "Usei os dons que Deus me deu para aprender e ajudar os outros?"
+        ]
+      },
+      {
+        "titulo": "Namoro",
+        "perguntas": [
+          "Vivi o namoro com respeito, castidade e sinceridade?",
+          "Coloquei o namoro acima de Deus, da família e das minhas responsabilidades?",
+          "Pressionei a pessoa que namoro a ultrapassar os limites da castidade?",
+          "Continuei em situações de tentação no namoro em vez de me afastar delas?",
+          "Escondi o namoro dos meus pais com mentiras?",
+          "Fui ciumento, controlador ou desrespeitoso com a pessoa que namoro?",
+          "Rezei pelo meu namoro e pensei no futuro à luz da vontade de Deus?"
+        ]
+      },
+      {
+        "titulo": "Internet e redes sociais",
+        "perguntas": [
+          "Passei tempo demais no celular, deixando de lado Deus, a família, o estudo e o descanso?",
+          "Ofendi, zombei ou fiz comentários de ódio nas redes?",
+          "Postei fotos ou conteúdos indecentes ou que expõem os outros?",
+          "Segui perfis ou consumi conteúdos que me afastam de Deus?",
+          "Usei a internet para enganar, mentir ou espalhar notícias falsas?",
+          "Usei as redes também para fazer o bem e testemunhar a fé?"
+        ]
+      }
+    ],
+    "conselhos": "<p>Depois do exame, faça um ato sincero de arrependimento e um propósito concreto, por exemplo: rezar todas as noites ou evitar uma ocasião de pecado. Procure um sacerdote, cumprimente-o e diga há quanto tempo foi sua última confissão. Conte seus pecados com simplicidade, começando pelos mais graves, sem detalhes desnecessários. Escute o conselho, reze o <a href=\"/exame-de-consciencia/ato-de-contricao-diferentes-versoes-e-como-rezar\">ato de contrição</a> e receba a absolvição. Depois, cumpra a penitência o quanto antes. Se cair de novo, não desanime: volte à confissão. Veja também <a href=\"/exame-de-consciencia/como-fazer-uma-boa-confissao-passo-a-passo\">como fazer uma boa confissão, passo a passo</a>.</p>"
+  },
+  "criancas": {
+    "titulo": "Exame de consciência para crianças",
+    "descricao": "Exame de consciência para crianças com perguntas simples e curtas sobre os mandamentos, para pais e catequistas ajudarem na confissão.",
+    "intro": "<p>O <strong>exame de consciência para crianças</strong> é uma conversa sincera com Jesus antes da confissão. É como acender uma luz no coração para ver o que estava bonito e o que precisa ser arrumado.</p><p>Para fazer o exame, procure um lugar calmo, faça o sinal da cruz e peça: \"Espírito Santo, ajudai-me a lembrar dos meus pecados e a ficar arrependido\". Depois leia as perguntas devagar. Se precisar, peça ajuda aos pais ou ao catequista para ler, mas lembre que os pecados são contados só ao padre. Pense desde a última vez que você se confessou. Não é preciso ter medo: Jesus ama você e fica muito feliz quando você volta para ele. Ele perdoa tudo o que você contar com sinceridade. Ao final, agradeça a Deus pelo amor dele e prometa se esforçar para ser cada dia melhor.</p>",
+    "secoes": [
+      {
+        "titulo": "1º mandamento: amar a Deus sobre todas as coisas",
+        "perguntas": [
+          "Deixei de rezar de manhã ou à noite por preguiça?",
+          "Rezei com pressa ou sem pensar em Deus?",
+          "Achei que brincar ou jogar era mais importante do que Deus?",
+          "Tive vergonha de rezar ou de dizer que gosto de Jesus?"
+        ]
+      },
+      {
+        "titulo": "2º mandamento: não tomar seu santo nome em vão",
+        "perguntas": [
+          "Falei o nome de Deus ou de Nossa Senhora brincando ou com raiva?",
+          "Falei palavrões?",
+          "Fiz brincadeiras com coisas sagradas, como a cruz ou as imagens?",
+          "Jurei por Deus quando não era verdade?"
+        ]
+      },
+      {
+        "titulo": "3º mandamento: guardar domingos e festas de guarda",
+        "perguntas": [
+          "Faltei à Missa no domingo por preguiça ou porque quis?",
+          "Fiquei conversando, brincando ou distraído durante a Missa?",
+          "Fiz manha ou reclamei para não ir à igreja?",
+          "Deixei de ir à catequese sem motivo?"
+        ]
+      },
+      {
+        "titulo": "4º mandamento: honrar pai e mãe",
+        "perguntas": [
+          "Desobedeci meu pai, minha mãe ou quem cuida de mim?",
+          "Respondi mal, fiz birra ou bati porta com raiva?",
+          "Briguei com meus irmãos?",
+          "Deixei de ajudar em casa quando me pediram?",
+          "Desobedeci ou desrespeitei professores e catequistas?"
+        ]
+      },
+      {
+        "titulo": "5º mandamento: não matar",
+        "perguntas": [
+          "Bati, empurrei ou machuquei alguém de propósito?",
+          "Xinguei, zombei ou deixei alguém de fora das brincadeiras para magoar?",
+          "Fiquei com raiva e não quis perdoar?",
+          "Maltratei animais?",
+          "Fiz alguma coisa perigosa que meus pais tinham proibido?"
+        ]
+      },
+      {
+        "titulo": "6º e 9º mandamentos: guardar a pureza no corpo e no coração",
+        "perguntas": [
+          "Fiz brincadeiras ou falei palavras feias sobre o corpo?",
+          "Olhei de propósito imagens, vídeos ou desenhos que eu sabia que não eram bons?",
+          "Tratei meu corpo e o corpo dos outros sem respeito?",
+          "Continuei de propósito em conversas ou brincadeiras feias, em vez de sair delas?"
+        ]
+      },
+      {
+        "titulo": "7º e 10º mandamentos: não furtar e não cobiçar as coisas alheias",
+        "perguntas": [
+          "Peguei alguma coisa sem pedir, em casa, na escola ou de um amigo?",
+          "Estraguei de propósito as coisas dos outros?",
+          "Deixei de devolver o que me emprestaram?",
+          "Fiquei com inveja dos brinquedos, das roupas ou das coisas dos outros?",
+          "Fui egoísta e não quis emprestar ou dividir?"
+        ]
+      },
+      {
+        "titulo": "8º mandamento: não levantar falso testemunho",
+        "perguntas": [
+          "Menti para meus pais, professores ou amigos?",
+          "Coloquei a culpa em outra pessoa por algo que eu fiz?",
+          "Fiz fofoca ou contei segredos dos outros?",
+          "Inventei coisas sobre alguém?"
+        ]
+      }
+    ],
+    "conselhos": "<p>Depois do exame, peça desculpas a Jesus no seu coração e prometa melhorar em alguma coisa, como obedecer mais ou não brigar com os irmãos. Na hora da confissão, faça o sinal da cruz, diga ao padre há quanto tempo se confessou e conte seus pecados com simplicidade. Escute o que o padre falar e reze o <a href=\"/exame-de-consciencia/ato-de-contricao-diferentes-versoes-e-como-rezar\">ato de contrição</a>. Quando ele der a absolvição, seus pecados estão perdoados. Depois, faça logo a penitência e agradeça a Jesus. Os pais podem ler <a href=\"/exame-de-consciencia/como-fazer-uma-boa-confissao-passo-a-passo\">como fazer uma boa confissão, passo a passo</a> para ajudar.</p>"
+  },
+  "primeira-confissao": {
+    "titulo": "Exame de consciência para a primeira confissão",
+    "descricao": "Exame de consciência para a primeira confissão com perguntas simples pelos mandamentos e dicas para a criança se preparar sem medo.",
+    "intro": "<p>O <strong>exame de consciência para a primeira confissão</strong> ajuda você a se preparar para um encontro muito especial com Jesus. No sacramento da Confissão, também chamado Reconciliação ou Penitência, Jesus perdoa os nossos pecados por meio do padre e nos dá força para sermos melhores.</p><p>Talvez você esteja um pouco ansioso, e isso é normal. Mas não precisa ter medo: o padre está acostumado a ouvir confissões, vai ajudar você e nunca vai contar a ninguém o que você disser. Antes de começar, faça o sinal da cruz e peça ao Espírito Santo que ajude você a lembrar dos seus pecados. Como é a sua primeira confissão, pense em tudo o que fez de errado desde que entendeu o que é certo e errado. Leia as perguntas devagar. Se quiser, anote num papel só para você, para não esquecer na hora. O mais importante é estar arrependido e querer amar mais a Jesus.</p>",
+    "secoes": [
+      {
+        "titulo": "1º mandamento: amar a Deus sobre todas as coisas",
+        "perguntas": [
+          "Deixei de rezar?",
+          "Rezei sem pensar em Deus, só por obrigação?",
+          "Deixei Deus de lado para brincar, ver televisão ou jogar?",
+          "Fiquei com vergonha de rezar perto dos outros?"
+        ]
+      },
+      {
+        "titulo": "2º mandamento: não tomar seu santo nome em vão",
+        "perguntas": [
+          "Falei o nome de Deus sem respeito, brincando ou com raiva?",
+          "Falei palavrões?",
+          "Ri ou fiz brincadeiras com coisas de Deus?",
+          "Prometi algo a Deus e não cumpri?"
+        ]
+      },
+      {
+        "titulo": "3º mandamento: guardar domingos e festas de guarda",
+        "perguntas": [
+          "Deixei de ir à Missa no domingo porque não quis?",
+          "Fiquei brincando ou distraído durante a Missa?",
+          "Reclamei para não ir à Missa ou à catequese?",
+          "Deixei de prestar atenção na catequese?"
+        ]
+      },
+      {
+        "titulo": "4º mandamento: honrar pai e mãe",
+        "perguntas": [
+          "Desobedeci meus pais ou quem cuida de mim?",
+          "Fui malcriado, respondi mal ou fiz birra?",
+          "Briguei com meus irmãos ou primos?",
+          "Deixei de ajudar em casa?",
+          "Desobedeci meus professores ou catequistas?"
+        ]
+      },
+      {
+        "titulo": "5º mandamento: não matar",
+        "perguntas": [
+          "Bati ou machuquei alguém de propósito?",
+          "Xinguei ou zombei de um colega?",
+          "Fiquei com raiva e não quis fazer as pazes?",
+          "Maltratei algum animal?"
+        ]
+      },
+      {
+        "titulo": "6º e 9º mandamentos: guardar a pureza no corpo e no coração",
+        "perguntas": [
+          "Falei palavras feias ou fiz brincadeiras feias sobre o corpo?",
+          "Olhei de propósito imagens ou vídeos que eu sabia que não eram bons?",
+          "Deixei de respeitar o meu corpo e o corpo dos outros?",
+          "Fiquei de propósito em conversas feias, em vez de sair delas?"
+        ]
+      },
+      {
+        "titulo": "7º e 10º mandamentos: não furtar e não cobiçar as coisas alheias",
+        "perguntas": [
+          "Peguei alguma coisa que não era minha?",
+          "Estraguei coisas dos outros?",
+          "Fui egoísta e não quis dividir?",
+          "Fiquei com inveja das coisas dos outros?"
+        ]
+      },
+      {
+        "titulo": "8º mandamento: não levantar falso testemunho",
+        "perguntas": [
+          "Menti?",
+          "Coloquei a culpa em outra pessoa?",
+          "Fiz fofoca?",
+          "Contei um segredo que me pediram para guardar?"
+        ]
+      }
+    ],
+    "conselhos": "<p>No dia da primeira confissão, chegue com calma. Quando chegar sua vez, faça o sinal da cruz e diga ao padre que é a sua primeira confissão. Ele vai ajudar você. Conte os pecados que lembrou, de forma simples. Se esquecer algum sem querer, Deus perdoa do mesmo jeito; depois você pode contar na próxima confissão. Escute o conselho do padre, reze o <a href=\"/exame-de-consciencia/ato-de-contricao-diferentes-versoes-e-como-rezar\">ato de contrição</a> e receba a absolvição. Depois, faça a penitência e agradeça a Jesus pelo perdão. Pais e catequistas encontram mais orientações em <a href=\"/exame-de-consciencia/como-fazer-uma-boa-confissao-passo-a-passo\">como fazer uma boa confissão, passo a passo</a>.</p>"
+  }
+}

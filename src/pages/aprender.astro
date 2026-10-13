@@ -1,0 +1,95 @@
+---
+import { GraduationCap } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import CaminhoApp from '@/components/islands/estudo/CaminhoApp';
+import { TRILHAS, NIVELAMENTO, totalLicoes } from '@/data/estudo/curso';
+import { absUrl, breadcrumbSchema, faqSchema, publisherRef } from '@/lib/seo';
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Caminho da Fé', path: '/aprender' },
+];
+
+const FAQ = [
+  { q: 'O Caminho da Fé é gratuito?', a: 'Sim. Todas as lições são gratuitas e não é preciso criar conta. Sem conta, o progresso fica salvo no próprio navegador. Se entrar com seu e-mail, você continua de onde parou em qualquer aparelho.' },
+  { q: 'Como funciona o nivelamento?', a: `São ${NIVELAMENTO.length} perguntas rápidas, três por tema. Pelas respostas, o plano começa pelos assuntos em que você tem mais a aprender e marca como "já domina" o que você acertou.` },
+  { q: 'De onde vem o conteúdo das lições?', a: 'Cada lição resume um ponto do Catecismo da Igreja Católica, da Sagrada Escritura ou do Código de Direito Canônico, e a referência aparece na própria lição.' },
+  { q: 'Quanto tempo leva cada lição?', a: 'De 3 a 5 minutos: uma explicação curta e quatro exercícios. Você escolhe fazer uma, duas ou três lições por dia.' },
+  { q: 'Serve para catequese ou crisma?', a: 'Pode ajudar como revisão e reforço dos temas básicos da fé, mas não substitui a catequese da sua paróquia, que acompanha a preparação para os sacramentos.' },
+];
+
+const jsonLd = [
+  {
+    '@type': 'Course',
+    '@id': `${absUrl('/aprender')}#curso`,
+    name: 'Caminho da Fé: curso interativo de doutrina católica',
+    description: `Curso gratuito com nivelamento e ${totalLicoes} lições curtas sobre Deus, Jesus Cristo, sacramentos, moral, oração e Maria, com base no Catecismo da Igreja Católica.`,
+    inLanguage: 'pt-BR',
+    provider: publisherRef,
+    isAccessibleForFree: true,
+    educationalLevel: 'Iniciante a avançado',
+    teaches: TRILHAS.map((t) => t.titulo),
+    hasCourseInstance: { '@type': 'CourseInstance', courseMode: 'online', courseWorkload: 'PT4M' },
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'BRL', category: 'Free' },
+  },
+  faqSchema(FAQ),
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title="Caminho da Fé: aprenda a doutrina católica em lições de 4 minutos"
+  description={`Faça um nivelamento rápido e siga um plano leve com ${totalLicoes} lições sobre a fé católica, baseadas no Catecismo. Gratuito e sem cadastro.`}
+  path="/aprender"
+  keywords="curso de catequese online, aprender a fé católica, catecismo para adultos, curso católico gratuito, quiz católico, doutrina católica"
+  jsonLd={jsonLd}
+  hidePrayerCTA
+>
+  <PageHeader
+    title="Caminho da Fé"
+    subtitle={`Descubra seu nível e aprofunde a fé católica com ${totalLicoes} lições curtas, baseadas no Catecismo da Igreja.`}
+    icon={GraduationCap}
+    crumbs={crumbs}
+  />
+  <main id="conteudo">
+    <section id="caminho-app" class="scroll-mt-20 border-b border-co-warm-sand-dark">
+      <div class="container mx-auto max-w-5xl px-4 py-8 md:py-12">
+        <CaminhoApp client:load />
+      </div>
+    </section>
+
+    <section class="border-b border-co-warm-sand-dark" aria-labelledby="programa">
+      <div class="container mx-auto max-w-5xl px-4 py-10 md:py-14">
+        <h2 id="programa" class="font-display text-2xl font-semibold md:text-3xl">O que você vai aprender</h2>
+        <p class="mt-2 max-w-2xl text-co-warm-brown/80">Seis trilhas, do básico ao avançado. Cada lição traz uma explicação curta com a fonte e exercícios para fixar.</p>
+        <div class="mt-8 grid gap-10 md:grid-cols-2">
+          {TRILHAS.map((t) => (
+            <div>
+              <h3 class="font-display text-xl font-semibold">{t.titulo}</h3>
+              <p class="mt-1 text-sm text-co-warm-brown/80">{t.resumo}</p>
+              <ol class="mt-4 divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+                {t.licoes.map((l) => (
+                  <li class="py-3">
+                    <details class="faq-item">
+                      <summary class="flex items-baseline justify-between gap-3">
+                        <span class="font-medium">{l.titulo}</span>
+                        <span class="shrink-0 text-xs text-co-warm-brown/75">{l.nivel === 1 ? 'Básico' : l.nivel === 2 ? 'Intermediário' : 'Avançado'}</span>
+                      </summary>
+                      <p class="mt-2 text-[15px] leading-relaxed text-co-warm-brown/80">{l.ensino}</p>
+                      <p class="mt-1 text-xs text-co-warm-brown/75">Fonte: {l.ref}</p>
+                    </details>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="container mx-auto max-w-3xl px-4 py-10 md:py-14">
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </section>
+  </main>
+</BaseLayout>

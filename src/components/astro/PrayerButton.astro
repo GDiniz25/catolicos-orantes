@@ -1,0 +1,11 @@
+---
+/**
+ * Botão que abre o modal de pedido de oração.
+ * Sem JavaScript (ou antes de carregar), funciona como link para /pedido-de-oracao.
+ */
+interface Props {
+  class?: string;
+}
+const { class: className = '' } = Astro.props;
+---
+<a href="/pedido-de-oracao" data-prayer-open class={className}><slot /></a>

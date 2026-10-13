@@ -1,0 +1,123 @@
+---
+/**
+ * 366 páginas fixas: uma para cada dia do ano (ex.: /santo-do-dia/12-de-outubro).
+ * O conteúdo se repete todo ano, então essas páginas acumulam relevância no Google.
+ */
+import { Star, ChevronLeft, ChevronRight } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import FaixaDias from '@/components/astro/FaixaDias.astro';
+import Medalhao from '@/components/astro/Medalhao.astro';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { getSaintsByDate, articleExists, getAllArticles } from '@/lib/data';
+import { getShortName, saintHasContent } from '@/lib/saints';
+import { diaMesSlug, diaMesTexto, todosOsDias, MONTHS } from '@/lib/dateUtils';
+import { absUrl, breadcrumbSchema, clampText, faqSchema, itemListSchema } from '@/lib/seo';
+
+export async function getStaticPaths() {
+  const dias = todosOsDias();
+  return dias.map((d, i) => ({
+    params: { data: diaMesSlug(d.month, d.day) },
+    props: { ...d, anterior: dias[(i - 1 + dias.length) % dias.length], proximo: dias[(i + 1) % dias.length] },
+  }));
+}
+
+type Dia = { month: number; day: number };
+const { month, day, anterior, proximo } = Astro.props as Dia & { anterior: Dia; proximo: Dia };
+const path = `/santo-do-dia/${diaMesSlug(month, day)}`;
+const dataTxt = diaMesTexto(month, day);
+const dataTitulo = `${day} de ${MONTHS[month - 1]}`;
+
+const saints = await Promise.all(
+  (await getSaintsByDate(month, day)).map(async (s) => ({ ...s, hasArticle: await articleExists(s.article_category, s.article_slug) })),
+);
+const imgArtigo = new Map((await getAllArticles()).map((a) => [`${a.category}/${a.slug}`, a.image_url || null]));
+const imgSanto = (s: { article_category?: string | null; article_slug?: string | null }) => imgArtigo.get(`${s.article_category}/${s.article_slug}`) ?? null;
+const nomes = saints.map((s) => getShortName(s.saint_name));
+// Para o título: sem repetir o mesmo nome escrito de outro jeito (ex.: maiúsculas)
+const nomesUnicos = nomes.filter((n, i) => nomes.findIndex((m) => m.toLowerCase() === n.toLowerCase()) === i);
+const tom = CATEGORY_VISUAL['santos-e-oracoes'];
+const inicial = (nome: string) => (getShortName(nome).replace(/^(São|Santa|Santo|S\.|Sto\.|Sta\.|Beato|Beata|Bem-aventurad[oa]|Nossa Senhora d[aeo]s?)\s*/i, '').trim()[0] || '+').toUpperCase();
+const nomesSeo = nomesUnicos.length === 1 ? nomesUnicos[0] : `${nomesUnicos[0]} e outros`;
+
+const title = saints.length ? `Santo do Dia ${dataTitulo}: ${nomesSeo}` : `Santo do Dia ${dataTitulo}`;
+const description = saints.length
+  ? clampText(`Santos celebrados em ${dataTxt}: ${nomes.join(', ')}. Conheça a história de cada um e peça sua intercessão.`, 158)
+  : `Santos e beatos lembrados pela Igreja em ${dataTxt}.`;
+
+const FAQ = saints.length
+  ? [
+      { q: `Qual santo é celebrado em ${dataTxt}?`, a: `Em ${dataTxt}, a Igreja celebra ${nomes.join(', ')}.` },
+      { q: 'Como é definido o santo do dia?', a: 'Pelo calendário litúrgico e pelo Martirológio Romano, que indicam a memória de santos e beatos em cada data do ano.' },
+      { q: 'Posso pedir a intercessão do santo do dia?', a: 'Sim. A Igreja incentiva a devoção aos santos e o pedido de sua intercessão, sempre dirigindo a oração a Deus.' },
+    ]
+  : [];
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Santo do Dia', path: '/santo-do-dia' },
+  { name: dataTitulo, path },
+];
+const jsonLd: Record<string, unknown>[] = [
+  {
+    '@type': 'WebPage',
+    '@id': `${absUrl(path)}#webpage`,
+    url: absUrl(path),
+    name: title,
+    description,
+    inLanguage: 'pt-BR',
+    ...(saints.length ? { mainEntity: itemListSchema(saints.map((s) => ({ name: s.saint_name, path: `/santos/${s.slug}` }))) } : {}),
+  },
+  breadcrumbSchema(crumbs),
+];
+if (FAQ.length) jsonLd.push(faqSchema(FAQ));
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path={path}
+  keywords={`santo do dia ${dataTxt}, santo de ${dataTxt}, ${nomes.slice(0, 3).join(', ')}`}
+  jsonLd={jsonLd}
+  noIndex={saints.length === 0}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader title={`Santo do Dia: ${dataTitulo}`} subtitle={saints.length ? `${saints.length === 1 ? 'Santo celebrado' : 'Santos celebrados'} pela Igreja em ${dataTxt}.` : undefined} icon={Star} crumbs={crumbs} tom={tom}>
+    <div class="mt-6"><FaixaDias month={month} day={day} /></div>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl px-4">
+      {saints.length ? (
+        <ul class="space-y-4">
+          {saints.map((s) => (
+            <li class="flex flex-col gap-5 rounded-2xl border border-co-warm-sand-dark bg-white p-5 sm:flex-row md:p-7">
+              <Medalhao nome={s.saint_name} imagem={imgSanto(s)} class="h-16 w-16" letra="text-3xl" />
+              <div class="min-w-0">
+                <h2 class="font-display text-2xl font-semibold leading-snug">{s.saint_name}</h2>
+                {s.description && <p class="mt-2 leading-relaxed text-co-warm-brown/85">{s.description}</p>}
+                <div class="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-[15px]">
+                  {saintHasContent(s) && <a href={`/santos/${s.slug}`} class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Vida e história de {getShortName(s.saint_name)}</a>}
+                  {s.hasArticle && <a href={`/${s.article_category}/${s.article_slug}`} class="text-co-warm-brown/80 underline-offset-4 hover:text-co-warm-terracotta hover:underline">Ler artigo completo</a>}
+                </div>
+              </div>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="text-co-warm-brown/75">Ainda não há santos cadastrados para esta data.</p>
+      )}
+
+      <nav class="mt-8 flex items-center justify-between gap-4 text-[15px]" aria-label="Outros dias">
+        <a href={`/santo-do-dia/${diaMesSlug(anterior.month, anterior.day)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">
+          <ChevronLeft className="h-4 w-4" aria-hidden="true" /> {diaMesTexto(anterior.month, anterior.day)}
+        </a>
+        <a href="/santo-do-dia" class="font-medium text-co-warm-terracotta underline-offset-4 hover:underline">Santo de hoje</a>
+        <a href={`/santo-do-dia/${diaMesSlug(proximo.month, proximo.day)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">
+          {diaMesTexto(proximo.month, proximo.day)} <ChevronRight className="h-4 w-4" aria-hidden="true" />
+        </a>
+      </nav>
+
+      {FAQ.length > 0 && <div class="mt-12"><Faq title="Perguntas frequentes" items={FAQ} /></div>}
+    </div>
+  </main>
+</BaseLayout>
