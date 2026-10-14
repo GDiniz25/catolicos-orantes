@@ -63,7 +63,7 @@ for (const chave of chaves) {
     const up = await db.storage.from(BUCKET).upload(caminho, buf, { contentType: tipo, upsert: true, cacheControl: '31536000' });
     if (up.error) throw new Error(`upload: ${up.error.message}`);
     const url = `${db.storage.from(BUCKET).getPublicUrl(caminho).data.publicUrl}?v=${Date.now().toString(36)}`;
-    const alt = artigo.image_alt || textoAlt(artigo, info);
+    const alt = (process.argv.includes('--alt') ? '' : artigo.image_alt) || textoAlt(artigo, info);
     const { error: e2 } = await db.from('articles').update({ image_url: url, image_alt: alt, image_credit: credito(info), updated_at: new Date().toISOString() }).eq('id', artigo.id);
     if (e2) throw new Error(e2.message);
     ok++;

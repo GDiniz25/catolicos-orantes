@@ -48,7 +48,7 @@ jobs:
         run: npm run conteudos:publicar -- --write
 
       - name: Aplicar pinturas escolhidas
-        run: npm run imagens:fixar -- --write
+        run: npm run imagens:fixar -- --write --alt
 
       - name: Gerar versões leves das imagens
         run: npm run imagens:variantes -- --write

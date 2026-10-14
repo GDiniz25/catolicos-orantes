@@ -362,5 +362,6 @@ export function credito(c) {
 /** Texto alternativo em português, ligado ao assunto do artigo */
 export function textoAlt(artigo, c) {
   const a = assunto(artigo.title);
-  return c.artista ? `${a} em obra de ${c.artista}` : `${a}, arte sacra em domínio público`;
+  const artista = semWikidata(c.artista).replace(/(Unknown author|Unknown|Anonymous)/gi, '').trim();
+  return artista ? `${a} em obra de ${artista}` : `${a}, arte sacra em domínio público`;
 }
