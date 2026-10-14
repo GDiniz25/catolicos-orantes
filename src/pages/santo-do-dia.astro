@@ -23,7 +23,7 @@ const saints = await Promise.all(
   })),
 );
 const imgArtigo = new Map((await getAllArticles()).map((a) => [`${a.category}/${a.slug}`, a.image_url || null]));
-const imgSanto = (s: { article_category?: string | null; article_slug?: string | null }) => imgArtigo.get(`${s.article_category}/${s.article_slug}`) ?? null;
+const imgSanto = (s: { article_category?: string | null; article_slug?: string | null; image_url?: string | null }) => imgArtigo.get(`${s.article_category}/${s.article_slug}`) ?? s.image_url ?? null;
 const main = saints[0];
 const tom = CATEGORY_VISUAL['santos-e-oracoes'];
 const inicial = (nome: string) => (getShortName(nome).replace(/^(São|Santa|Santo|S\.|Sto\.|Sta\.|Beato|Beata|Bem-aventurad[oa]|Nossa Senhora d[aeo]s?)\s*/i, '').trim()[0] || '+').toUpperCase();

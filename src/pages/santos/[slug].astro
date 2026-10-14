@@ -4,7 +4,8 @@ import { Star, ArrowLeft, Calendar } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import { markdownParaHtml } from '@/components/Markdown';
-import { getSaintsWithSlug, articleExists } from '@/lib/data';
+import { getSaintsWithSlug, articleExists, getAllArticles } from '@/lib/data';
+import { imagemResponsiva } from '@/lib/imagens';
 import { getShortName, saintIndexavel, saintBodyMarkdown, type SaintEntry } from '@/lib/saints';
 import { MONTHS } from '@/lib/dateUtils';
 import { absUrl, breadcrumbSchema, clampText, isoDate, publisherRef } from '@/lib/seo';
@@ -29,6 +30,11 @@ const dateLabel = `${saint.date_day} de ${MONTHS[saint.date_month - 1]}`;
 const body = saintBodyMarkdown(saint.full_content);
 const indexable = saintIndexavel(saint);
 const hasArticle = await articleExists(saint.article_category, saint.article_slug);
+// Retrato do santo: a pintura do artigo ligado (mesma obra, mesmo crédito) ou a imagem própria do santo
+const artigo = hasArticle ? (await getAllArticles()).find((a) => a.category === saint.article_category && a.slug === saint.article_slug) : null;
+const retratoUrl = artigo?.image_url || saint.image_url || null;
+const retratoCredito = artigo?.image_url ? artigo.image_credit : (saint as { image_credit?: string | null }).image_credit ?? null;
+const retrato = retratoUrl ? await imagemResponsiva(retratoUrl, 640, true) : null;
 
 const description = saint.description && saint.description.length >= 70
   ? clampText(saint.description, 158)
@@ -51,7 +57,7 @@ const jsonLd = [
     inLanguage: 'pt-BR',
     datePublished: isoDate(saint.created_at || saint.scraped_at),
     dateModified: isoDate(saint.scraped_at || saint.created_at),
-    image: saint.image_url ? [saint.image_url] : [absUrl('/og-image.png')],
+    image: retratoUrl ? [retratoUrl] : [absUrl('/og-image.png')],
     about: { '@type': 'Person', name: shortName, description: `Santo católico celebrado em ${dateLabel}` },
     author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
     publisher: publisherRef,
@@ -66,7 +72,7 @@ const jsonLd = [
   path={path}
   keywords={`${saint.saint_name}, santo ${dateLabel}, santos católicos, hagiografia`}
   ogType="article"
-  image={saint.image_url}
+  image={retratoUrl}
   noIndex={!indexable}
   jsonLd={jsonLd}
   ctaMaxWidth="max-w-3xl"
@@ -80,6 +86,12 @@ const jsonLd = [
         </a>
 
         <article class="rounded-md border border-co-warm-sand-dark bg-co-warm-cream p-8 md:p-10">
+          {retratoUrl && (
+            <figure class="-mx-8 -mt-8 mb-6 md:-mx-10 md:-mt-10">
+              <img src={retrato?.src ?? retratoUrl} srcset={retrato?.srcset} sizes={retrato?.srcset ? '(min-width: 768px) 768px, 100vw' : undefined} alt={`${shortName} em pintura de arte sacra`} width="1200" height="675" class="aspect-[16/9] w-full rounded-t-md bg-[#2B2626] object-contain" loading="eager" decoding="async" />
+              {retratoCredito && <figcaption class="px-8 pt-2 text-[12px] leading-snug text-co-warm-brown/70 md:px-10">{retratoCredito}</figcaption>}
+            </figure>
+          )}
           <header class="mb-4">
             <h1 class="font-display text-2xl font-bold leading-tight md:text-3xl">{saint.saint_name}</h1>
             <p class="text-sm font-medium text-co-warm-terracotta">Celebrado em {dateLabel}</p>

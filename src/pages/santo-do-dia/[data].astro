@@ -33,7 +33,7 @@ const saints = await Promise.all(
   (await getSaintsByDate(month, day)).map(async (s) => ({ ...s, hasArticle: await articleExists(s.article_category, s.article_slug) })),
 );
 const imgArtigo = new Map((await getAllArticles()).map((a) => [`${a.category}/${a.slug}`, a.image_url || null]));
-const imgSanto = (s: { article_category?: string | null; article_slug?: string | null }) => imgArtigo.get(`${s.article_category}/${s.article_slug}`) ?? null;
+const imgSanto = (s: { article_category?: string | null; article_slug?: string | null; image_url?: string | null }) => imgArtigo.get(`${s.article_category}/${s.article_slug}`) ?? s.image_url ?? null;
 const nomes = saints.map((s) => getShortName(s.saint_name));
 // Para o título: sem repetir o mesmo nome escrito de outro jeito (ex.: maiúsculas)
 const nomesUnicos = nomes.filter((n, i) => nomes.findIndex((m) => m.toLowerCase() === n.toLowerCase()) === i);
