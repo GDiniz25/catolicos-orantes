@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
-"""Gera as peças do Instagram (imagens, carrosséis, stories e reels) a partir de spec.py."""
-import os, sys, subprocess, shutil, math
+"""Gera as peças do Instagram a partir de spec.py.
+Direção visual "galeria": a pintura aparece sempre inteira, com moldura fina dourada, sobre uma extensão
+desfocada e escurecida dela mesma. O texto fica no campo escuro, fora da pintura, para leitura com contraste alto."""
+import os, sys, subprocess, json
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance
 
 BASE = os.path.dirname(os.path.abspath(__file__))
@@ -12,16 +14,24 @@ LORA_I = "/usr/share/fonts/truetype/google-fonts/Lora-Italic-Variable.ttf"
 INTER = "/usr/share/fonts/opentype/inter/Inter-Medium.otf"
 INTER_B = "/usr/share/fonts/opentype/inter/Inter-SemiBold.otf"
 
-# Paleta: verde litúrgico profundo, dourado de iluminura, marfim
-VERDE = (24, 46, 36)
-VERDE_ESC = (14, 28, 22)
-OURO = (214, 178, 94)
-MARFIM = (246, 241, 230)
+TINTA = (12, 22, 17)          # verde quase preto, base do campo escuro
+OURO = (218, 184, 102)
+MARFIM = (247, 242, 232)
+CINZA = (196, 200, 190)
 SITE = "catolicosorantes.com.br"
 
-ns = {}
+ns = {"__file__": os.path.join(BASE, "spec.py")}
 exec(open(os.path.join(BASE, "spec.py"), encoding="utf-8").read(), ns)
 S = ns["S"]
+cr = {}
+exec(open(os.path.join(BASE, "creditos.py"), encoding="utf-8").read(), cr)
+CRED = cr["CRED"]
+_cache = {}
+
+def abre(nome):
+    if nome not in _cache:
+        _cache[nome] = Image.open(os.path.join(IMG, nome + ".jpg")).convert("RGB")
+    return _cache[nome]
 
 def fonte(caminho, tam, var=None):
     f = ImageFont.truetype(caminho, tam)
@@ -30,291 +40,236 @@ def fonte(caminho, tam, var=None):
         except Exception: pass
     return f
 
-def quebra(txt, f, larg, draw):
+def quebra(txt, f, larg, d):
     linhas = []
     for par in txt.split("\n"):
         if not par.strip():
-            linhas.append("")
-            continue
+            linhas.append(""); continue
         atual = ""
         for w in par.split(" "):
             t = (atual + " " + w).strip()
-            if draw.textlength(t, font=f) <= larg: atual = t
+            if d.textlength(t, font=f) <= larg: atual = t
             else:
                 if atual: linhas.append(atual)
                 atual = w
         linhas.append(atual)
+    # evita palavra sozinha na última linha
+    if len(linhas) >= 2 and linhas[-1] and len(linhas[-1].split()) == 1 and linhas[-2] and len(linhas[-2].split()) > 2:
+        ult = linhas[-2].split()
+        linhas[-2] = " ".join(ult[:-1]); linhas[-1] = ult[-1] + " " + linhas[-1]
     return linhas
 
-def bloco(draw, txt, f, larg, cx, y, cor, entre=1.25, alinh="c", sombra=True):
-    """Escreve texto quebrado, centralizado em cx (ou alinhado à esquerda em cx). Devolve y final."""
-    linhas = quebra(txt, f, larg, draw)
-    asc, desc = f.getmetrics()
-    lh = int((asc + desc) * entre)
-    for ln in linhas:
-        if ln == "":
-            y += lh // 2
-            continue
-        w = draw.textlength(ln, font=f)
-        x = cx - w / 2 if alinh == "c" else cx
-        if sombra:
-            draw.text((x + 2, y + 3), ln, font=f, fill=(0, 0, 0, 150))
-        draw.text((x, y), ln, font=f, fill=cor)
-        y += lh
+def lh(f, entre): a, b = f.getmetrics(); return int((a + b) * entre)
+
+def altura(d, txt, f, larg, entre=1.22):
+    L = quebra(txt, f, larg, d); h = lh(f, entre)
+    return sum(h // 2 if l == "" else h for l in L)
+
+def escreve(d, txt, f, larg, cx, y, cor, entre=1.22):
+    h = lh(f, entre)
+    for ln in quebra(txt, f, larg, d):
+        if ln == "": y += h // 2; continue
+        d.text((cx - d.textlength(ln, font=f) / 2, y), ln, font=f, fill=cor)
+        y += h
     return y
 
-def altura(draw, txt, f, larg, entre=1.25):
-    linhas = quebra(txt, f, larg, draw)
-    asc, desc = f.getmetrics()
-    lh = int((asc + desc) * entre)
-    return sum(lh // 2 if l == "" else lh for l in linhas)
-
-def ajusta(draw, txt, caminho, var, tam, larg, alt_max, minimo=40):
+def ajusta(d, txt, caminho, var, tam, larg, alt_max, minimo=34, entre=1.22):
     while tam > minimo:
         f = fonte(caminho, tam, var)
-        if altura(draw, txt, f, larg) <= alt_max: return f
-        tam -= 4
+        if altura(d, txt, f, larg, entre) <= alt_max: return f
+        tam -= 2
     return fonte(caminho, minimo, var)
 
-LARGAS = set()
-
-def fundo(nome, W, H, escala=1.0, centro=0.36):
-    """Pintura cobrindo o quadro. Obras muito largas entram inteiras sobre fundo desfocado."""
-    if nome is None:
-        return Image.new("RGB", (W, H), (8, 8, 8))
-    im = Image.open(os.path.join(IMG, nome + ".jpg")).convert("RGB")
-    W2, H2 = int(W * escala), int(H * escala)
-    r_img = im.width / im.height
-    r_q = W2 / H2
-    if r_img > r_q * 1.45:
-        bg = cobre(im, W2, H2).filter(ImageFilter.GaussianBlur(40))
-        bg = ImageEnhance.Brightness(bg).enhance(0.45)
-        nw = W2
-        nh = int(nw / r_img)
-        fg = im.resize((nw, nh), Image.LANCZOS)
-        bg.paste(fg, (0, int(H2 * centro - nh / 2)))
-        LARGAS.add(nome)
-        return bg
-    return cobre(im, W2, H2)
-
-def cobre(im, W, H, foco_y=0.35):
+def campo(nome, W, H):
+    """Fundo: a própria pintura ampliada, desfocada e escurecida (tom verde-escuro)."""
+    im = abre(nome)
     r = max(W / im.width, H / im.height)
-    nw, nh = int(im.width * r + 0.5), int(im.height * r + 0.5)
-    im = im.resize((nw, nh), Image.LANCZOS)
-    x = (nw - W) // 2
-    y = int((nh - H) * foco_y)
-    return im.crop((x, y, x + W, y + H))
+    bg = im.resize((int(im.width * r) + 1, int(im.height * r) + 1), Image.LANCZOS)
+    x = (bg.width - W) // 2; y = (bg.height - H) // 2
+    bg = bg.crop((x, y, x + W, y + H)).filter(ImageFilter.GaussianBlur(48))
+    bg = ImageEnhance.Brightness(bg).enhance(0.58)
+    tinta = Image.new("RGB", (W, H), TINTA)
+    bg = Image.blend(bg, tinta, 0.32)
+    vin = Image.new("L", (W, H), 0); ImageDraw.Draw(vin).ellipse((-W * 0.3, -H * 0.15, W * 1.3, H * 1.15), fill=255)
+    vin = vin.filter(ImageFilter.GaussianBlur(160))
+    return Image.composite(bg, Image.blend(bg, tinta, 0.6), vin)
 
-def gradiente(W, H, ini=0.35, fim=1.0, alfa_max=235, cor=VERDE_ESC):
-    g = Image.new("L", (1, H))
-    for y in range(H):
-        t = (y / H - ini) / (fim - ini)
-        t = max(0, min(1, t))
-        g.putpixel((0, y), int(alfa_max * (t ** 1.2)))
-    g = g.resize((W, H))
-    camada = Image.new("RGBA", (W, H), cor + (0,))
-    camada.putalpha(g)
-    return camada
+def pintura(canvas, nome, caixa):
+    """Cola a pintura inteira dentro da caixa (x, y, w, h), centralizada, com sombra e moldura dourada fina."""
+    x, y, w, h = caixa
+    im = abre(nome)
+    r = min(w / im.width, h / im.height)
+    nw, nh = int(im.width * r), int(im.height * r)
+    px, py = int(x + (w - nw) / 2), int(y + (h - nh) / 2)
+    sombra = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+    ImageDraw.Draw(sombra).rectangle((px + 6, py + 14, px + nw + 6, py + nh + 14), fill=(0, 0, 0, 170))
+    sombra = sombra.filter(ImageFilter.GaussianBlur(22))
+    base = Image.alpha_composite(canvas.convert("RGBA"), sombra)
+    base.paste(im.resize((nw, nh), Image.LANCZOS), (px, py))
+    d = ImageDraw.Draw(base)
+    d.rectangle((px - 8, py - 8, px + nw + 7, py + nh + 7), outline=OURO + (255,), width=2)
+    return base, (px, py, nw, nh)
 
-def escurece(im, a=110, cor=VERDE_ESC):
-    c = Image.new("RGBA", im.size, cor + (a,))
-    return Image.alpha_composite(im.convert("RGBA"), c)
+def credito(d, nome, cx, y, larg):
+    c = CRED.get(nome, "")
+    if not c: return y
+    f = fonte(INTER, 19)
+    t = c + ". Domínio público."
+    while d.textlength(t, font=f) > larg and len(t) > 10: t = t[:-6] + "..."
+    d.text((cx - d.textlength(t, font=f) / 2, y), t, font=f, fill=CINZA)
+    return y + 26
 
-def assinatura(draw, W, y, cor=MARFIM):
-    f = fonte(INTER_B, 26)
-    w = draw.textlength(SITE, font=f)
-    draw.line((W / 2 - w / 2 - 60, y + 16, W / 2 - w / 2 - 18, y + 16), fill=OURO, width=2)
-    draw.line((W / 2 + w / 2 + 18, y + 16, W / 2 + w / 2 + 60, y + 16), fill=OURO, width=2)
-    draw.text((W / 2 - w / 2, y), SITE, font=f, fill=cor)
+def assinatura(d, W, y):
+    f = fonte(INTER_B, 25)
+    w = d.textlength(SITE, font=f)
+    d.line((W / 2 - w / 2 - 58, y + 15, W / 2 - w / 2 - 18, y + 15), fill=OURO, width=2)
+    d.line((W / 2 + w / 2 + 18, y + 15, W / 2 + w / 2 + 58, y + 15), fill=OURO, width=2)
+    d.text((W / 2 - w / 2, y), SITE, font=f, fill=MARFIM)
 
-def cruz(draw, cx, cy, s=22, cor=OURO, w=4):
-    draw.line((cx, cy - s, cx, cy + s), fill=cor, width=w)
-    draw.line((cx - s * 0.62, cy - s * 0.35, cx + s * 0.62, cy - s * 0.35), fill=cor, width=w)
+def cruz(d, cx, cy, s=16, cor=OURO, w=3):
+    d.line((cx, cy - s, cx, cy + s), fill=cor, width=w)
+    d.line((cx - s * 0.62, cy - s * 0.35, cx + s * 0.62, cy - s * 0.35), fill=cor, width=w)
+
+def composicao(W, H, nome, blocos, topo, base_lim, caixa_max_h, margem=70, gap=46):
+    """Monta pintura + blocos de texto como um grupo centralizado verticalmente entre topo e base_lim.
+    blocos: lista de (texto, caminho_fonte, variação, tam, cor, larg, alt_max)."""
+    canvas = campo(nome, W, H)
+    tmp = ImageDraw.Draw(canvas)
+    fontes, alts = [], []
+    for (txt, cam, var, tam, cor, larg, amax) in blocos:
+        f = ajusta(tmp, txt, cam, var, tam, larg, amax)
+        fontes.append(f); alts.append(altura(tmp, txt, f, larg))
+    texto_h = sum(alts) + 22 * (len(blocos) - 1)
+    disponivel = base_lim - topo - texto_h - gap - 30
+    caixa_h = max(260, min(caixa_max_h, disponivel))
+    im = abre(nome)
+    r = min((W - 2 * margem) / im.width, caixa_h / im.height)
+    nh = int(im.height * r)
+    grupo = nh + 30 + gap + texto_h
+    y0 = topo + max(0, (base_lim - topo - grupo) / 2)
+    canvas, (px, py, pw, ph) = pintura(canvas, nome, (margem, int(y0), W - 2 * margem, nh))
+    d = ImageDraw.Draw(canvas)
+    y = credito(d, nome, W / 2, py + ph + 16, W - 2 * margem)
+    y += gap
+    for (txt, cam, var, tam, cor, larg, amax), f in zip(blocos, fontes):
+        y = escreve(d, txt, f, larg, W / 2, y, cor) + 22
+    return canvas, d, y, (px, py, pw, ph)
 
 # ---------------- IMAGEM (4:5) ----------------
 def peca_imagem(p, destino):
     W, H = 1080, 1350
-    base = fundo(p["img"], W, H).convert("RGBA")
-    base = Image.alpha_composite(base, gradiente(W, H, 0.30, 0.95, 245))
-    d = ImageDraw.Draw(base)
-    cruz(d, W / 2, 820)
-    f = ajusta(d, p["titulo"], LORA, "Bold", 76, 920, 300)
-    y = 870
-    y = bloco(d, p["titulo"], f, 920, W / 2, y, MARFIM)
-    fs = fonte(INTER, 32)
-    bloco(d, p["sub"], fs, 900, W / 2, y + 24, OURO, entre=1.35)
-    assinatura(d, W, H - 70)
-    base.convert("RGB").save(destino, quality=92)
+    blocos = [(p["titulo"], LORA, "Bold", 64, MARFIM, 940, 260), (p["sub"], INTER, None, 30, OURO, 900, 140)]
+    canvas, d, y, _ = composicao(W, H, p["img"], blocos, 60, H - 110, 800)
+    assinatura(d, W, H - 72)
+    canvas.convert("RGB").save(destino, quality=93)
 
 # ---------------- CARROSSEL (4:5) ----------------
 def peca_carrossel(p, pasta):
     W, H = 1080, 1350
     n = len(p["slides"])
-    arquivos = []
+    imgs = p.get("imgs") or [p["img"]]
     for i, txt in enumerate(p["slides"]):
+        nome = imgs[i % len(imgs)]
+        partes = txt.split("\n\n")
+        principal, ref = partes[0], "\n\n".join(partes[1:])
         if i == 0:
-            base = fundo(p["img"], W, H).convert("RGBA")
-            base = Image.alpha_composite(base, gradiente(W, H, 0.25, 0.92, 245))
-            d = ImageDraw.Draw(base)
-            f = ajusta(d, txt, LORA, "Bold", 84, 940, 420)
-            h = altura(d, txt, f, 940)
-            y = H - 230 - h
-            cruz(d, W / 2, y - 60)
-            bloco(d, txt, f, 940, W / 2, y, MARFIM)
-            fs = fonte(INTER_B, 28)
-            dica = "Arraste para o lado"
-            d.text((W / 2 - d.textlength(dica, font=fs) / 2, H - 150), dica, font=fs, fill=OURO)
-            assinatura(d, W, H - 80)
+            blocos = [(principal, LORA, "Bold", 70, MARFIM, 940, 330)]
+            canvas, d, y, _ = composicao(W, H, nome, blocos, 60, H - 150, 760)
+            fs = fonte(INTER_B, 26); dica = "Arraste para o lado"
+            d.text((W / 2 - d.textlength(dica, font=fs) / 2, H - 128), dica, font=fs, fill=OURO)
         else:
-            base = Image.new("RGBA", (W, H), VERDE + (255,))
-            faixa = cobre(Image.open(os.path.join(IMG, p["img"] + ".jpg")).convert("RGB"), W, 420, foco_y=0.15 + 0.12 * (i % 5))
-            faixa = escurece(faixa, 60)
-            base.paste(faixa, (0, 0))
-            base = Image.alpha_composite(base, gradiente(W, H, 0.20, 0.33, 255, VERDE))
-            d = ImageDraw.Draw(base)
-            fc = fonte(INTER_B, 26)
-            cont = f"{i + 1}/{n}"
-            d.text((W - 70 - d.textlength(cont, font=fc), 470), cont, font=fc, fill=OURO)
-            d.line((80, 520, 200, 520), fill=OURO, width=3)
-            partes = txt.split("\n\n")
-            principal = partes[0]
-            fonte_ref = "\n\n".join(partes[1:]) if len(partes) > 1 else ""
-            f = ajusta(d, principal, LORA, "SemiBold", 66, 920, 520)
-            y = bloco(d, principal, f, 920, 80, 570, MARFIM, alinh="e", sombra=False)
-            if fonte_ref:
-                fr = fonte(INTER, 32)
-                bloco(d, fonte_ref, fr, 920, 80, y + 30, OURO, alinh="e", sombra=False)
+            blocos = [(principal, LORA, "SemiBold", 56, MARFIM, 920, 420)]
+            if ref: blocos.append((ref, INTER, None, 30, OURO, 900, 160))
             if i == n - 1:
-                fz = fonte(INTER_B, 30)
-                msg = "Salve este post e envie para alguém"
-                d.text((80, H - 190), msg, font=fz, fill=OURO)
-            assinatura(d, W, H - 80)
-        nome = os.path.join(pasta, f"slide-{i + 1:02d}.jpg")
-        base.convert("RGB").save(nome, quality=92)
-        arquivos.append(nome)
-    return arquivos
+                blocos.append(("Salve este post e envie para alguém.", INTER_B, None, 28, OURO, 900, 80))
+            canvas, d, y, _ = composicao(W, H, nome, blocos, 80, H - 110, 560)
+            fc = fonte(INTER_B, 24); cont = f"{i + 1}/{n}"
+            d.text((W - 60 - d.textlength(cont, font=fc), 26), cont, font=fc, fill=OURO)
+        assinatura(d, W, H - 72)
+        canvas.convert("RGB").save(os.path.join(pasta, f"slide-{i + 1:02d}.jpg"), quality=93)
 
 # ---------------- STORIES (9:16) ----------------
 def peca_stories(p, pasta):
     W, H = 1080, 1920
-    for i, (titulo, adesivo) in enumerate(p["quadros"]):
-        base = fundo(p["img"], W, H).convert("RGB").filter(ImageFilter.GaussianBlur(6))
-        base = escurece(base, 150)
-        d = ImageDraw.Draw(base)
-        cruz(d, W / 2, 470)
-        f = ajusta(d, titulo, LORA, "Bold", 82, 900, 420)
-        y = bloco(d, titulo, f, 900, W / 2, 540, MARFIM)
-        if adesivo:
-            caixa_y = max(y + 70, 1000)
-            ft = fonte(INTER_B, 34)
-            linhas = quebra(adesivo, ft, 760, d)
-            ch = 70 + len(linhas) * 48
-            x0, x1 = 120, W - 120
-            # moldura tracejada: lugar do adesivo do Instagram
-            for x in range(x0, x1, 28):
-                d.line((x, caixa_y, min(x + 14, x1), caixa_y), fill=OURO, width=3)
-                d.line((x, caixa_y + ch, min(x + 14, x1), caixa_y + ch), fill=OURO, width=3)
-            for yy in range(caixa_y, caixa_y + ch, 28):
-                d.line((x0, yy, x0, min(yy + 14, caixa_y + ch)), fill=OURO, width=3)
-                d.line((x1, yy, x1, min(yy + 14, caixa_y + ch)), fill=OURO, width=3)
-            yy = caixa_y + 35
-            for ln in linhas:
-                d.text((W / 2 - d.textlength(ln, font=ft) / 2, yy), ln, font=ft, fill=OURO)
-                yy += 48
-        assinatura(d, W, H - 330)
-        base.convert("RGB").save(os.path.join(pasta, f"story-{i + 1:02d}.jpg"), quality=92)
+    for i, q in enumerate(p["quadros"]):
+        titulo, sub = q[0], q[1]
+        blocos = [(titulo, LORA, "Bold", 72, MARFIM, 920, 360)]
+        if sub: blocos.append((sub, INTER, None, 34, OURO, 900, 200))
+        # topo livre para a barra do Instagram; base livre para o adesivo e a caixa de resposta
+        canvas, d, y, _ = composicao(W, H, p["img"], blocos, 230, 1480, 900)
+        assinatura(d, W, H - 250)
+        canvas.convert("RGB").save(os.path.join(pasta, f"story-{i + 1:02d}.jpg"), quality=93)
 
-# ---------------- REELS (9:16, vídeo) ----------------
-def quadro_texto(txt, estilo, W=1080, H=1920, cy=0.44):
-    """PNG transparente com o texto da cena."""
-    im = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    d = ImageDraw.Draw(im)
-    if estilo == "preto":
-        f = ajusta(d, txt, LORA, "SemiBold", 70, 900, 700)
-        h = altura(d, txt, f, 900)
-        bloco(d, txt, f, 900, W / 2, int(H * 0.40 - h / 2), MARFIM, sombra=False)
-        return im
-    if estilo == "gancho":
-        f = ajusta(d, txt, LORA, "Bold", 92, 920, 640)
-    elif estilo == "oracao":
-        f = ajusta(d, txt, LORA_I, "Bold", 74, 900, 700)
-    elif estilo == "final":
-        f = ajusta(d, txt, LORA, "Bold", 72, 920, 640)
-    else:
-        f = ajusta(d, txt, LORA, "SemiBold", 74, 920, 640)
-    h = altura(d, txt, f, 920)
-    y0 = int(H * cy - h / 2)
-    # véu atrás do texto para leitura
-    veu = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    vd = ImageDraw.Draw(veu)
-    vd.rounded_rectangle((60, y0 - 70, W - 60, y0 + h + 60), radius=28, fill=VERDE_ESC + (170,))
-    veu = veu.filter(ImageFilter.GaussianBlur(18))
-    im = Image.alpha_composite(im, veu)
-    d = ImageDraw.Draw(im)
-    if estilo == "oracao":
-        cruz(d, W / 2, y0 - 30, s=18)
-    bloco(d, txt, f, 920, W / 2, y0, MARFIM)
-    if estilo == "final":
-        assinatura(d, W, y0 + h + 90)
-    return im
+# ---------------- REELS (9:16, vídeo com trilha) ----------------
+ESTILO = {
+    "gancho": (LORA, "Bold", 74), "frase": (LORA, "SemiBold", 62), "oracao": (LORA_I, "SemiBold", 60),
+    "final": (LORA, "Bold", 62), "preto": (LORA, "SemiBold", 64),
+}
+
+def quadro(nome, txt, estilo, W=1080, H=1920):
+    cam, var, tam = ESTILO[estilo]
+    blocos = [(txt, cam, var, tam, MARFIM, 920, 470)]
+    # zona segura: abaixo da barra superior e acima da legenda e dos botões do Reels
+    canvas, d, y, rect = composicao(W, H, nome, blocos, 200, 1530, 860)
+    return canvas, rect
 
 def duracao(txt):
-    palavras = len(txt.split())
-    return round(max(2.6, 1.3 + palavras * 0.36), 2)
+    return round(max(2.8, 1.4 + len(txt.split()) * 0.38), 2)
+
+TRILHA = {"oracao": "silencio", "rel": "esperanca", "fe": "luz"}
 
 def peca_reel(p, destino_mp4, destino_capa):
     W, H = 1080, 1920
     os.makedirs(TMP, exist_ok=True)
-    clips = []
-    for k, (img, txt, estilo) in enumerate(p["cenas"]):
+    cenas = list(p["cenas"])
+    # cena sem imagem usa a pintura da cena seguinte (a imagem aparece sempre)
+    for k in range(len(cenas) - 1, -1, -1):
+        if cenas[k][0] is None:
+            prox = next((c[0] for c in cenas[k + 1:] if c[0]), None) or next(c[0] for c in cenas if c[0])
+            cenas[k] = (prox, cenas[k][1], cenas[k][2] if cenas[k][2] != "preto" else "gancho")
+    clips, total = [], 0.0
+    for k, (img, txt, estilo) in enumerate(cenas):
         dur = duracao(txt)
-        bg = fundo(img, W, H, escala=1.0, centro=0.27) if img else Image.new("RGB", (W, H), (8, 8, 8))
-        larga = img in LARGAS
-        if img:
-            bg = Image.alpha_composite(bg.convert("RGBA"), Image.new("RGBA", (W, H), (0, 0, 0, 60))).convert("RGB")
-        bgp = os.path.join(TMP, f"bg{k}.jpg"); bg.save(bgp, quality=94)
-        tx = quadro_texto(txt, estilo, cy=0.62 if larga else 0.44)
-        txp = os.path.join(TMP, f"tx{k}.png"); tx.save(txp)
-        if k == 0:
-            capa = Image.alpha_composite(bg.convert("RGBA"), tx).convert("RGB")
-            capa.save(destino_capa, quality=92)
-        cp = os.path.join(TMP, f"c{k}.mp4")
+        canvas, _ = quadro(img, txt, estilo)
+        fp = os.path.join(TMP, f"q{k}.png"); canvas.convert("RGB").save(fp)
+        if k == 0: canvas.convert("RGB").save(destino_capa, quality=93)
         fr = int(dur * 30)
-        zoom = "zoompan=z='1+0.06*on/{fr}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={fr}:s=1080x1920:fps=30".format(fr=fr) if img else "fps=30"
-        filtro = (f"[0:v]scale=1080:1920,{zoom},format=yuv420p[b];"
-                  f"[1:v]format=rgba,fade=t=in:st=0.15:d=0.45:alpha=1[t];"
-                  f"[b][t]overlay=0:0,fade=t=in:st=0:d=0.25,fade=t=out:st={dur - 0.3}:d=0.3,format=yuv420p[v]")
-        cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-t", str(dur), "-i", bgp,
-               "-loop", "1", "-t", str(dur), "-i", txp,
-               "-f", "lavfi", "-t", str(dur), "-i", "anullsrc=r=44100:cl=stereo",
-               "-filter_complex", filtro, "-map", "[v]", "-map", "2:a",
-               "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-r", "30", "-t", str(dur),
-               "-c:a", "aac", "-b:a", "96k", "-shortest", cp]
-        subprocess.run(cmd, check=True)
-        clips.append(cp)
+        cp = os.path.join(TMP, f"c{k}.mp4")
+        filtro = (f"scale=1188:2112,zoompan=z='1+0.025*on/{fr}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={fr}:s=1080x1920:fps=30,"
+                  f"fade=t=in:st=0:d=0.35,fade=t=out:st={dur - 0.35}:d=0.35,format=yuv420p")
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", fp, "-vf", filtro, "-t", str(dur),
+                        "-c:v", "libx264", "-preset", "medium", "-crf", "22", "-r", "30", cp], check=True)
+        clips.append(cp); total += dur
     lista = os.path.join(TMP, "lista.txt")
     with open(lista, "w") as fh:
         for c in clips: fh.write(f"file '{c}'\n")
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lista,
-                    "-c", "copy", "-movflags", "+faststart", destino_mp4], check=True)
+    mudo = os.path.join(TMP, "mudo.mp4")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lista, "-c", "copy", mudo], check=True)
+    trilha = os.path.join(BASE, "audio", p.get("trilha", "luz") + ".m4a")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", mudo, "-i", trilha,
+                    "-filter_complex", f"[1:a]atrim=0:{total},afade=t=in:st=0:d=1.2,afade=t=out:st={max(0, total - 2)}:d=2[a]",
+                    "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k",
+                    "-movflags", "+faststart", "-shortest", destino_mp4], check=True)
     for f in os.listdir(TMP): os.remove(os.path.join(TMP, f))
+
+def trilha_de(p):
+    estilos = [c[2] for c in p["cenas"]]
+    if "novena" in p["arquivo"] or "festa" in p["arquivo"] or estilos.count("oracao") >= 2: return "silencio"
+    return p.get("trilha") or ("esperanca" if any(k in p["arquivo"] for k in ("namor", "casal", "conjuge", "apaixone", "amor", "construir", "comunidade", "cristo-ama", "conto")) else "luz")
 
 def main(filtro=None):
     os.makedirs(OUT, exist_ok=True)
     for chave, p in sorted(S.items(), key=lambda kv: (kv[0][0], kv[0][1])):
         if filtro and filtro not in p["arquivo"]: continue
-        dia_pasta = os.path.join(OUT, p["arquivo"][:5])
-        os.makedirs(dia_pasta, exist_ok=True)
+        dia = os.path.join(OUT, p["arquivo"][:5]); os.makedirs(dia, exist_ok=True)
         if p["fmt"] == "imagem":
-            peca_imagem(p, os.path.join(dia_pasta, p["arquivo"] + ".jpg"))
-        elif p["fmt"] == "carrossel":
-            pasta = os.path.join(dia_pasta, p["arquivo"]); os.makedirs(pasta, exist_ok=True)
-            peca_carrossel(p, pasta)
-        elif p["fmt"] == "stories":
-            pasta = os.path.join(dia_pasta, p["arquivo"]); os.makedirs(pasta, exist_ok=True)
-            peca_stories(p, pasta)
-        elif p["fmt"] == "reel":
-            peca_reel(p, os.path.join(dia_pasta, p["arquivo"] + ".mp4"), os.path.join(dia_pasta, p["arquivo"] + "_capa.jpg"))
+            peca_imagem(p, os.path.join(dia, p["arquivo"] + ".jpg"))
+        elif p["fmt"] in ("carrossel", "stories"):
+            pasta = os.path.join(dia, p["arquivo"]); os.makedirs(pasta, exist_ok=True)
+            (peca_carrossel if p["fmt"] == "carrossel" else peca_stories)(p, pasta)
+        else:
+            p["trilha"] = trilha_de(p)
+            peca_reel(p, os.path.join(dia, p["arquivo"] + ".mp4"), os.path.join(dia, p["arquivo"] + "_capa.jpg"))
         print("ok", p["arquivo"], flush=True)
 
 if __name__ == "__main__":

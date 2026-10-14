@@ -30,10 +30,11 @@ S[(0, "12h00")] = dict(fmt="carrossel", arquivo="15-10_12h_carrossel_santa-teres
   "Em 1970, São Paulo VI a declarou doutora da Igreja.\n\nEm que ponto da oração você está hoje?"])
 
 S[(0, "19h30")] = dict(fmt="reel", arquivo="15-10_19h30_reel_rezar-pelo-futuro-conjuge", cenas=[
-  ("tobias", "Ela rezou 3 anos por um homem que nem conhecia.", "gancho"),
-  ("tobias", "\"Senhor, onde ele estiver,\nguarda ele.\"", "oracao"),
+  ("tobias", "E se você rezasse hoje por alguém que ainda nem conhece?", "gancho"),
+  ("tobias", "Rezar pelo futuro cônjuge não é esperar de braços cruzados.", "frase"),
+  ("sposalizio", "\"Senhor, onde estiver a pessoa que preparas para mim, guarda-a no Teu amor.\"", "oracao"),
   ("sposalizio", "Quem reza antes,\nama melhor depois.", "frase"),
-  ("sposalizio", "Você já rezou hoje pela pessoa que Deus está preparando para você?", "final")])
+  ("sposalizio", "Comente AMÉM\ne reze isso todos os dias.", "final")])
 
 S[(0, "Dia todo")] = dict(fmt="stories", arquivo="15-10_stories", img="teresa", quadros=[
   ("Você conhece Santa Teresa de Ávila?", "ENQUETE: Sim / Ainda não"),
@@ -61,7 +62,7 @@ S[(1, "19h30")] = dict(fmt="reel", arquivo="16-10_19h30_reel_nao-se-apaixone", c
   ("tobias2", "\"Pelos frutos os conhecereis.\"\nMateus 7,16", "final")])
 
 S[(1, "Dia todo")] = dict(fmt="stories", arquivo="16-10_stories", img="sagrado", quadros=[
-  ("Sexta-feira é dia de lembrar da Paixão de Jesus.", "ENQUETE: Você faz alguma penitência às sextas? Sim / Quero começar"),
+  ("Sexta-feira é dia de lembrar a Paixão de Jesus.", "ENQUETE: Você faz alguma penitência às sextas? Sim / Quero começar"),
   ("Novo post: a promessa do Sagrado Coração", "Compartilhe o reel das 7h aqui"),
   ("Sagrado Coração de Jesus, eu me entrego a Vós hoje.", ""),
   ("Por quem você quer que a gente reze hoje?", "CAIXINHA: Deixe aqui o primeiro nome"),
@@ -70,12 +71,12 @@ S[(1, "Dia todo")] = dict(fmt="stories", arquivo="16-10_stories", img="sagrado",
 # ---------- 17/10 ----------
 S[(2, "07h00")] = dict(fmt="reel", arquivo="17-10_07h_reel_sou-trigo-de-deus", cenas=[
   ("inacio", "Ele foi jogado às feras...", "gancho"),
-  ("inacio", "...e escreveu a frase mais forte sobre a Eucaristia.", "frase"),
+  ("inacio", "...e falou do próprio martírio com palavras da Eucaristia.", "frase"),
   ("eucaristia", "\"Sou trigo de Deus e serei moído pelos dentes das feras para me tornar pão puro de Cristo.\"", "oracao"),
   ("inacio", "Santo Inácio de Antioquia, bispo e mártir.\nCarta aos Romanos, por volta do ano 107.", "frase"),
   ("inacio", "Ele já chamava a Igreja de católica.", "final")])
 
-S[(2, "12h00")] = dict(fmt="carrossel", arquivo="17-10_12h_carrossel_igreja-no-ano-100", img="ceia", slides=[
+S[(2, "12h00")] = dict(fmt="carrossel", arquivo="17-10_12h_carrossel_igreja-antes-do-ano-110", img="ceia", slides=[
   "Antes do ano 110, os cristãos já faziam isso. E muita gente acha que é invenção católica.",
   "Chamavam a Igreja de católica.\n\nSanto Inácio, Carta aos Esmirnenses 8",
   "Acreditavam que a Eucaristia é a carne de Cristo.\n\nCarta aos Esmirnenses 7",
@@ -87,7 +88,7 @@ S[(2, "12h00")] = dict(fmt="carrossel", arquivo="17-10_12h_carrossel_igreja-no-a
 S[(2, "19h30")] = dict(fmt="reel", arquivo="17-10_19h30_reel_sabado-com-maria", cenas=[
   ("virgem_oracao", "Hoje é sábado.\nDia de Nossa Senhora.", "gancho"),
   ("virgem_oracao", "Sabe por quê?", "frase"),
-  ("virgem_oracao", "Porque no sábado santo, quando os discípulos fugiram, ela continuou crendo.", "frase"),
+  ("virgem_oracao", "Porque no Sábado Santo, quando os discípulos fugiram, ela continuou crendo.", "frase"),
   ("virgem_oracao", "Maria, ensina-me a esperar como tu esperaste.", "oracao"),
   ("virgem_oracao", "Reze uma Ave-Maria agora\ne comente AMÉM.", "final")])
 
@@ -100,9 +101,9 @@ S[(2, "Dia todo")] = dict(fmt="stories", arquivo="17-10_stories", img="fe_rafael
 
 # ---------- 18/10 ----------
 S[(3, "07h00")] = dict(fmt="reel", arquivo="18-10_07h_reel_dai-a-cesar", cenas=[
-  ("mateus", "Jesus caiu numa armadilha.\nE saiu dela com uma frase.", "gancho"),
+  ("mateus", "Armaram uma armadilha para Jesus.\nE Ele saiu dela com uma frase.", "gancho"),
   ("mateus", "Perguntaram se era lícito pagar imposto a César.", "frase"),
-  ("mateus", "Se dissesse sim, traía o povo.\nSe dissesse não, era preso.", "frase"),
+  ("mateus", "Se dissesse sim, trairia o povo.\nSe dissesse não, seria denunciado aos romanos.", "frase"),
   ("mateus", "\"Dai a César o que é de César,\ne a Deus o que é de Deus.\"\nMt 22,21", "oracao"),
   ("mateus", "A moeda tinha a imagem de César.\nVocê tem a imagem de quem?\nGn 1,27", "final")])
 
@@ -141,7 +142,7 @@ for i in range(9):
 S[(4, "12h00")] = dict(fmt="carrossel", arquivo="19-10_12h_carrossel_quem-e-sao-judas", img="judas", slides=[
   "Por que São Judas é o santo das causas impossíveis?",
   "Ele foi um dos doze apóstolos.\nNão é Judas Iscariotes, o traidor.",
-  "Os Evangelhos o chamam de Judas de Tiago, e a tradição o chama de Tadeu.",
+  "Lucas o chama de Judas de Tiago. Mateus e Marcos o chamam de Tadeu.",
   "A tradição o reconhece como autor da Carta de São Judas, no Novo Testamento.",
   "Por causa do nome, muitos evitavam pedir sua intercessão. Ficou conhecido como o santo esquecido.",
   "A devoção popular o tornou o santo dos casos difíceis e desesperados.",
@@ -166,7 +167,7 @@ S[(5, "12h00")] = dict(fmt="reel", arquivo="20-10_12h_reel_terco-em-60s", cenas=
   ("rosario", "Começa no crucifixo:\nsinal da cruz e Creio.", "frase"),
   ("rosario", "Conta grande: Pai-Nosso.\nTrês contas: três Ave-Marias.\nGlória.", "frase"),
   ("dolorosos", "Cada dezena: anuncie o mistério, Pai-Nosso, 10 Ave-Marias, Glória e a oração de Fátima.", "frase"),
-  ("dolorosos", "No final: Salve Rainha.\nHoje é terça: mistérios dolorosos.", "final")])
+  ("dolorosos", "No final: Salve-Rainha.\nHoje é terça: mistérios dolorosos.", "final")])
 
 S[(5, "19h30")] = dict(fmt="carrossel", arquivo="20-10_19h30_carrossel_pronto-para-namorar", img="tobias", slides=[
   "Você está pronto(a) para namorar?\nNão é sobre idade.",
@@ -213,7 +214,7 @@ S[(7, "10h00")] = dict(fmt="reel", arquivo="22-10_10h_reel_nao-tenhais-medo", ce
   ("jp2", "22 de outubro de 1978.", "gancho"),
   ("jp2", "Na Missa de início do pontificado, ele disse:", "frase"),
   ("jp2", "\"Não tenhais medo!\nAbri, ou melhor, escancarai as portas a Cristo!\"", "oracao"),
-  ("jp2", "Por isso a festa de São João Paulo II é hoje.", "frase"),
+  ("jp2", "Por isso hoje é o dia de São João Paulo II.", "frase"),
   ("jp2", "Que porta você ainda não abriu para Cristo?", "final")])
 
 S[(7, "19h30")] = dict(fmt="carrossel", arquivo="22-10_19h30_carrossel_jp2-amor", img="lava_pes", slides=[
@@ -348,12 +349,13 @@ S[(13, "06h30")] = dict(fmt="reel", arquivo="28-10_06h30_reel_festa-sao-judas", 
   [("judas", "\n".join(NOV_ORACAO[k:k+2]), "oracao") for k in range(0, len(NOV_ORACAO), 2)] +
   [("judas_greco", "Comente o seu pedido.\nÀs 21h rezamos por todos eles.", "final")])
 
-S[(13, "12h00")] = dict(fmt="carrossel", arquivo="28-10_12h_carrossel_testemunhos", img="judas", slides=[
-  "Vocês contaram. São Judas ouviu.",
-  "[TESTEMUNHO 1]\n\nPrimeiro nome, cidade",
-  "[TESTEMUNHO 2]\n\nPrimeiro nome, cidade",
-  "[TESTEMUNHO 3]\n\nPrimeiro nome, cidade",
-  "Deus age por meio da intercessão dos santos, mas toda graça vem d'Ele.\n\nCatecismo 956"], pendente=True)
+S[(13, "12h00")] = dict(fmt="carrossel", arquivo="28-10_12h_carrossel_como-pedir-uma-graca", img="judas", slides=[
+  "Você pediu uma graça a São Judas. E agora?",
+  "Os santos não substituem Deus. Eles rezam conosco e por nós, como amigos que já chegaram ao Céu.\n\nCatecismo 956",
+  "Continue pedindo com fé e perseverança.\n\n\"Orar sempre, sem desanimar.\" Lc 18,1",
+  "Acolha a resposta de Deus, mesmo quando ela for diferente do que você pediu.",
+  "Agradeça: participe da Missa e, se puder, ajude alguém em necessidade.",
+  "Conte nos comentários a graça que você recebeu."])
 
 S[(13, "19h30")] = dict(fmt="reel", arquivo="28-10_19h30_reel_como-cristo-ama-a-igreja", cenas=[
   ("lava_pes", "Nenhum homem deveria conquistar uma mulher se não estiver disposto a cuidar dela como Cristo cuida da Igreja.", "gancho"),
@@ -368,9 +370,9 @@ S[(13, "Dia todo")] = dict(fmt="stories", arquivo="28-10_stories", img="judas_gr
 
 # ---------- 29/10 ----------
 S[(14, "07h00")] = dict(fmt="reel", arquivo="29-10_07h_reel_melhor-que-conto-de-fadas", cenas=[
-  (None, "Deus vai te abençoar com um amor melhor do que os de contos de fadas.", "preto"),
+  (None, "O amor que Deus prepara é melhor do que os de contos de fadas.", "preto"),
   ("cana", "Porque conto de fadas termina no casamento.", "frase"),
-  ("cana", "O amor de Deus começa nele.", "final")])
+  ("cana", "O amor que vem de Deus começa nele.", "final")])
 
 S[(14, "12h00")] = dict(fmt="carrossel", arquivo="29-10_12h_carrossel_santos-e-finados", img="todos_santos", slides=[
   "1º e 2 de novembro não são a mesma coisa.",
@@ -384,7 +386,7 @@ S[(14, "12h00")] = dict(fmt="carrossel", arquivo="29-10_12h_carrossel_santos-e-f
 S[(14, "19h30")] = dict(fmt="reel", arquivo="29-10_19h30_reel_descubra-seu-santo", cenas=[
   ("todos_santos", "Todo católico tem um santo que parece ter sido escolhido para ele.", "gancho"),
   ("trindade", "Qual é o seu?", "frase"),
-  ("todos_santos", "[GRAVE AQUI A TELA DO TESTE NO CELULAR]\ncatolicosorantes.com.br/descubra-seu-santo", "frase"),
+  ("todos_santos", "O teste está no site:\ncatolicosorantes.com.br/descubra-seu-santo", "frase"),
   ("trindade", "Faça o teste e comente o santo que apareceu para você.", "final")])
 
 S[(14, "Dia todo")] = dict(fmt="stories", arquivo="29-10_stories", img="todos_santos", quadros=[
@@ -393,3 +395,12 @@ S[(14, "Dia todo")] = dict(fmt="stories", arquivo="29-10_stories", img="todos_sa
   ("Para continuar todo dia", "Trilhas de oração no app, um passo por dia"),
   ("Jornada de oração", "LINK: app.catolicosorantes.com.br/oracao"),
   ("Que tema você quer ver na próxima quinzena?", "CAIXINHA")])
+
+POOLS = {'15-10_12h_carrossel_santa-teresa': ['teresa', 'teresa', 'virgem_oracao', 'dolorosos', 'teresa', 'fe_rafael', 'teresa'], '17-10_12h_carrossel_igreja-antes-do-ano-110': ['ceia', 'inacio', 'eucaristia', 'missa', 'ceia', 'inacio', 'eucaristia'], '19-10_12h_carrossel_quem-e-sao-judas': ['judas', 'judas_greco', 'judas', 'judas_greco', 'judas', 'judas_greco', 'judas'], '20-10_19h30_carrossel_pronto-para-namorar': ['tobias', 'sposalizio', 'oracao_familia', 'cana', 'tobias2', 'virgem_oracao', 'sposalizio'], '21-10_19h30_carrossel_mortal-ou-venial': ['pedro_lagrimas', 'confissao', 'prodigo', 'eucaristia', 'madalena', 'confissao', 'pedro_lagrimas'], '22-10_19h30_carrossel_jp2-amor': ['jp2', 'sposalizio', 'cana', 'lava_pes', 'caridade', 'tobias'], '24-10_12h_carrossel_duvidas-confissao': ['confissao', 'prodigo', 'pedro_lagrimas', 'madalena', 'confissao', 'prodigo'], '25-10_12h_carrossel_maior-mandamento': ['trindade', 'mateus', 'fe_rafael', 'caridade', 'lava_pes', 'trindade'], '26-10_19h30_carrossel_feridas': ['madalena', 'prodigo', 'pedro_lagrimas', 'esperanca', 'sagrado', 'oracao_familia'], '28-10_12h_carrossel_como-pedir-uma-graca': ['judas', 'judas_greco', 'esperanca', 'virgem_oracao', 'eucaristia', 'judas'], '29-10_12h_carrossel_santos-e-finados': ['todos_santos', 'trindade', 'finados', 'finados', 'missa', 'todos_santos', 'trindade']}
+for _k, _p in S.items():
+    if _p.get('arquivo') in POOLS: _p['imgs'] = POOLS[_p['arquivo']]
+
+exec(open(__file__.replace('spec.py','stories.py') if '__file__' in globals() else 'stories.py', encoding='utf-8').read())
+for _d, _q in ST.items():
+    for _k, _p in S.items():
+        if _k[0] == _d and _p['fmt'] == 'stories': _p['quadros'] = _q
