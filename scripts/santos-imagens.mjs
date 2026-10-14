@@ -22,11 +22,11 @@ let ok = 0;
 const falhas = [];
 for (const id of ids) {
   try {
-    const { data: santo, error } = await db.from('saints_calendar').select('id,name').eq('id', id).maybeSingle();
+    const { data: santo, error } = await db.from('saints_calendar').select('id,saint_name').eq('id', id).maybeSingle();
     if (error) throw new Error(error.message);
     if (!santo) throw new Error('santo não existe');
     const info = await infoCommons(escolhas[id]);
-    console.log(`  ${santo.name}: ${info.arquivo}`);
+    console.log(`  ${santo.saint_name}: ${info.arquivo}`);
     if (!gravar) { ok++; continue; }
     const url = await enviarPintura(db, info, `santo--${id}`);
     const { error: e2 } = await db.from('saints_calendar').update({ image_url: url, image_credit: credito(info) }).eq('id', id);
