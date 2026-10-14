@@ -3,14 +3,14 @@ name: Auditoria de imagens (folhas de contato)
 on:
   push:
     branches: [auditoria-imagens]
-    paths: ['auditoria/atual.json', 'auditoria/buscas.json', 'auditoria/auditoria.py']
+    paths: ['auditoria/atual.json', 'auditoria/buscas.json', 'auditoria/santos.json']
 
 permissions:
   contents: write
 
 concurrency:
   group: auditoria-imagens
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   folhas:
@@ -24,13 +24,15 @@ jobs:
         run: pip install --quiet pillow
       - name: Gerar folhas
         run: |
-          rm -rf auditoria/saida
+          mkdir -p auditoria/saida
           if git diff --name-only HEAD~1 HEAD | grep -q 'auditoria/atual.json'; then python3 auditoria/auditoria.py atual; fi
           if git diff --name-only HEAD~1 HEAD | grep -q 'auditoria/buscas.json'; then python3 auditoria/auditoria.py buscas; fi
+          if git diff --name-only HEAD~1 HEAD | grep -q 'auditoria/santos.json'; then python3 auditoria/santos.py; fi
       - name: Salvar no branch
         run: |
           git config user.name "auditoria-bot"
           git config user.email "auditoria-bot@users.noreply.github.com"
           git add -f auditoria/saida
           git commit -m "Folhas de contato [skip ci]" || echo "nada novo"
+          git pull --rebase -q || true
           git push
