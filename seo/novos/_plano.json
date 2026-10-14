@@ -444,5 +444,88 @@
    "category": "duvidas-da-fe",
    "title": "Linguagens do amor: o que são e como viver cada uma à luz da fé"
   }
+ ],
+ "R1": [
+  {
+   "slug": "vesperas-oracao-da-tarde",
+   "category": "liturgia-das-horas",
+   "title": "Vésperas: como rezar a oração da tarde da Igreja"
+  },
+  {
+   "slug": "benedictus-cantico-de-zacarias",
+   "category": "liturgia-das-horas",
+   "title": "Benedictus: o cântico de Zacarias nas Laudes"
+  },
+  {
+   "slug": "salterio-da-liturgia-das-horas-semanas",
+   "category": "liturgia-das-horas",
+   "title": "Semana do saltério: como saber qual rezar hoje"
+  },
+  {
+   "slug": "medalha-de-sao-bento-significado",
+   "category": "duvidas-da-fe",
+   "title": "Medalha de São Bento: significado das letras e uso"
+  }
+ ],
+ "R2": [
+  {
+   "slug": "coroa-do-advento-significado-e-como-montar",
+   "category": "calendario-liturgico",
+   "title": "Coroa do Advento: significado e como montar em casa"
+  },
+  {
+   "slug": "antifonas-do-o-advento",
+   "category": "calendario-liturgico",
+   "title": "Antífonas do Ó: o que são e como rezar no Advento"
+  },
+  {
+   "slug": "presepio-origem-e-significado",
+   "category": "calendario-liturgico",
+   "title": "Presépio: origem, significado e como montar"
+  },
+  {
+   "slug": "oracao-para-a-ceia-de-natal",
+   "category": "oracoes-do-dia-a-dia",
+   "title": "Oração para a ceia de Natal em família"
+  }
+ ],
+ "R3": [
+  {
+   "slug": "santa-maria-mae-de-deus-1-de-janeiro",
+   "category": "calendario-liturgico",
+   "title": "Santa Maria, Mãe de Deus: a solenidade de 1º de janeiro"
+  },
+  {
+   "slug": "festa-da-sagrada-familia",
+   "category": "calendario-liturgico",
+   "title": "Festa da Sagrada Família: significado e como viver"
+  },
+  {
+   "slug": "oracao-ao-anjo-da-guarda",
+   "category": "oracoes-do-dia-a-dia",
+   "title": "Oração ao Anjo da Guarda: Santo Anjo do Senhor"
+  },
+  {
+   "slug": "lembrai-vos-oracao-memorare",
+   "category": "devocoes-marianas",
+   "title": "Lembrai-vos: a oração Memorare a Nossa Senhora"
+  }
+ ],
+ "R4": [
+  {
+   "slug": "santa-edwiges-padroeira-dos-endividados",
+   "category": "santos-e-oracoes",
+   "title": "Santa Edwiges: vida, festa e oração da padroeira"
+  },
+  {
+   "slug": "santa-dulce-dos-pobres-anjo-bom-da-bahia",
+   "category": "santos-e-oracoes",
+   "title": "Santa Dulce dos Pobres: vida do Anjo Bom da Bahia"
+  },
+  {
+   "slug": "santo-expedito-santo-das-causas-urgentes",
+   "category": "santos-e-oracoes",
+   "title": "Santo Expedito: história e devoção às causas urgentes"
+  }
  ]
 }

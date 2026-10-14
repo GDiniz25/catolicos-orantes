@@ -1,4 +1,4 @@
-import { CircleDot, HeartHandshake, Cross, CalendarClock, Heart, BookOpenCheck, BookHeart, Search, Brain, Sparkles, Cake, Baby, Shield, CalendarDays, BookA, GraduationCap, MessageCircle, BookOpen } from 'lucide-react';
+import { Sunrise, CircleDot, HeartHandshake, Cross, CalendarClock, Heart, BookOpenCheck, BookHeart, Search, Brain, Sparkles, Cake, Baby, Shield, CalendarDays, BookA, GraduationCap, MessageCircle, BookOpen } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
 
 export interface Ferramenta { href: string; titulo: string; descricao: string; icon: LucideIcon; grupo: 'rezar' | 'conhecer' | 'aprender' }
@@ -6,6 +6,7 @@ export const FERRAMENTAS: Ferramenta[] = [
   { href: '/terco-guiado', titulo: 'Terço guiado', descricao: 'Reze passo a passo, com os mistérios do dia.', icon: CircleDot, grupo: 'rezar' },
   { href: '/terco-da-misericordia', titulo: 'Terço da Misericórdia', descricao: 'A oração da Divina Misericórdia nas contas do terço.', icon: HeartHandshake, grupo: 'rezar' },
   { href: '/via-sacra', titulo: 'Via Sacra', descricao: 'As 14 estações com leitura, meditação e oração.', icon: Cross, grupo: 'rezar' },
+  { href: '/laudes-de-hoje', titulo: 'Laudes de hoje', descricao: 'Semana do saltério e salmos de Laudes, Vésperas e Completas.', icon: Sunrise, grupo: 'rezar' },
   { href: '/lectio-divina', titulo: 'Lectio Divina', descricao: 'Reze o Evangelho do dia em quatro passos.', icon: BookHeart, grupo: 'rezar' },
   { href: '/planejador-de-novena', titulo: 'Planejador de novena', descricao: 'Quando começar, lembretes e os 9 dias marcados.', icon: CalendarClock, grupo: 'rezar' },
   { href: '/consagracao-a-nossa-senhora', titulo: 'Consagração em 33 dias', descricao: 'Preparação diária segundo São Luís de Montfort.', icon: Heart, grupo: 'rezar' },

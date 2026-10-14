@@ -1,4 +1,5 @@
 ---
+import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { Cross } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
@@ -50,6 +51,7 @@ const FAQ = [
       ))}
       <div class="intro-prose text-[17px]" set:html={via.encerramento} />
       <Faq title="Perguntas frequentes" items={FAQ} />
+      <LeiturasDaFerramenta chaves={['duvidas-da-fe/como-fazer-a-via-sacra-nas-sextas-feiras-da-quaresma', 'duvidas-da-fe/o-que-e-a-quaresma-e-por-que-dura-40-dias', 'calendario-liturgico/semana-santa-dia-a-dia-explicado', 'calendario-liturgico/o-triduo-pascal-os-tres-dias-mais-sagrados']} class="mt-14" />
     </div>
   </main>
 </BaseLayout>

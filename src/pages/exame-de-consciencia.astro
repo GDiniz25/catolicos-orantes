@@ -1,4 +1,5 @@
 ---
+import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { CATEGORY_VISUAL } from '@/config/categoryVisual';
 import { Search } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
@@ -143,6 +144,7 @@ const jsonLd = [
       </div>
       <CategoryAside current="exame-de-consciencia" />
       </div>
+      <LeiturasDaFerramenta chaves={['exame-de-consciencia/ato-de-contricao-diferentes-versoes-e-como-rezar', 'exame-de-consciencia/como-fazer-uma-boa-confissao-passo-a-passo', 'sacramentos/o-sacramento-da-confissao-guia-completo', 'sacramentos/posso-me-confessar-depois-de-muitos-anos', 'duvidas-da-fe/qual-a-diferenca-entre-pecado-mortal-e-pecado-venial', 'exame-de-consciencia/frequencia-da-confissao-orientacoes-praticas']} class="mt-14" />
     </div>
   </main>
 </BaseLayout>

@@ -1,4 +1,5 @@
 ---
+import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { Heart } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ContaProgresso from '@/components/islands/ContaProgresso';
@@ -30,6 +31,7 @@ const FAQ = [
       <div class="mx-auto mt-8 max-w-2xl"><ContaProgresso client:idle origem="consagracao" texto="Entre com seu e-mail para guardar os dias rezados e seguir a preparação em qualquer aparelho. Sem senha: enviamos um link de acesso." /></div>
       <p class="text-[15px]">Para conhecer a história e o sentido da consagração, leia <a href="/devocoes-marianas/a-consagracao-a-nossa-senhora-segundo-sao-luis-de-montfort" class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">a consagração segundo São Luís de Montfort</a>.</p>
       <Faq title="Perguntas frequentes" items={FAQ} />
+      <LeiturasDaFerramenta chaves={['devocoes-marianas/a-consagracao-a-nossa-senhora-segundo-sao-luis-de-montfort', 'devocoes-marianas/o-imaculado-coracao-de-maria-devocao-e-consagracao', 'ladainhas/ladainha-de-sao-luis-maria-grignion-de-montfort', 'devocoes-marianas/lembrai-vos-oracao-memorare']} class="mt-14" />
     </div>
   </main>
 </BaseLayout>

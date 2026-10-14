@@ -29,6 +29,13 @@ AddDefaultCharset UTF-8
   # 4) Sitemaps antigos (Edge Function) continuam funcionando: agora são arquivos estáticos
 
   # 4b) Endereços antigos que mudaram de nome (301 permanente para o endereço novo)
+  # Artigos duplicados unidos ao principal (out/2026)
+  RewriteRule ^devocoes\-marianas/maria\-na\-biblia\-todas\-passagens\-sobre\-nossa\-senhora/?$ /devocoes-marianas/maria-na-biblia-todas-as-passagens-sobre-nossa-senhora [R=301,L]
+  RewriteRule ^oracoes\-do\-dia\-a\-dia/ladainha\-de\-nossa\-senhora\-significado\-oracao/?$ /ladainhas/ladainha-de-nossa-senhora-ladainha-lauretana [R=301,L]
+  RewriteRule ^duvidas\-da\-fe/por\-que\-os\-catolicos\-fazem\-o\-sinal\-da\-cruz/?$ /duvidas-da-fe/por-que-fazemos-o-sinal-da-cruz [R=301,L]
+  RewriteRule ^duvidas\-da\-fe/o\-que\-representam\-as\-cores\-liturgicas\-da\-missa/?$ /calendario-liturgico/as-cores-liturgicas-e-seus-significados [R=301,L]
+  RewriteRule ^duvidas\-da\-fe/objetos\-liturgicos\-da\-missa/?$ /duvidas-da-fe/objetos-liturgicos-usados-na-missa-nomes [R=301,L]
+  RewriteRule ^duvidas\-da\-fe/o\-que\-e\-a\-comunhao\-dos\-santos/?$ /catecismo/a-comunhao-dos-santos-significado-e-importancia [R=301,L]
   RewriteRule ^sacramentos/eucaristia\-e\-adoracao\-a\-presenca\-real\-explicada/?$ /sacramentos/a-eucaristia-presenca-real-de-cristo [R=301,L]
   RewriteRule ^catecismo/fe\-e\-razao\-a\-harmonia\-segundo\-a\-igreja\-catolica/?$ /catecismo/fe-e-razao-harmonia-igreja-catolica [R=301,L]
   RewriteRule ^oracoes\-do\-dia\-a\-dia/oracoes\-da\-manha\-para\-comecar\-bem\-o\-dia/?$ /oracoes-do-dia-a-dia/oracoes-da-manha-comecar-bem-dia [R=301,L]

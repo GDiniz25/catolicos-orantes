@@ -1,4 +1,5 @@
 ---
+import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { BookHeart } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ContaProgresso from '@/components/islands/ContaProgresso';
@@ -34,6 +35,7 @@ const FAQ = [
       <LectioGuiada client:load evangelho={evangelho} />
       <div class="mx-auto mt-8 max-w-2xl"><ContaProgresso client:idle origem="lectio" titulo="Guarde suas anotações" texto="Entre com seu e-mail para guardar suas anotações da Lectio e relê-las em qualquer aparelho. Só você vê. Sem senha: enviamos um link de acesso." /></div>
       <Faq title="Perguntas frequentes" items={FAQ} />
+      <LeiturasDaFerramenta chaves={['duvidas-da-fe/liturgia-da-palavra-na-missa', 'documentos-da-igreja/dei-verbum-a-revelacao-divina', 'duvidas-da-fe/diferenca-entre-biblia-catolica-e-protestante', 'duvidas-da-fe/o-que-sao-os-livros-deuterocanonicos']} class="mt-14" />
     </div>
   </main>
 </BaseLayout>

@@ -1,0 +1,24 @@
+---
+/** Artigos para aprofundar, no fim das páginas de ferramentas. Só mostra os que existem e estão publicados. */
+import { getAllArticles } from '@/lib/data';
+interface Props { chaves: string[]; titulo?: string; class?: string }
+const { chaves, titulo = 'Para aprofundar', class: classe = '' } = Astro.props;
+const todos = await getAllArticles();
+const porChave = new Map(todos.map((a) => [`${a.category}/${a.slug}`, a]));
+const itens = chaves.map((c) => porChave.get(c)).filter(Boolean).slice(0, 6) as typeof todos;
+---
+{itens.length > 0 && (
+  <section aria-labelledby="leituras-ferramenta" class:list={['mx-auto max-w-3xl border-t border-co-warm-sand-dark pt-8', classe]}>
+    <h2 id="leituras-ferramenta" class="font-display text-2xl font-semibold">{titulo}</h2>
+    <ul class="mt-4 gs gs-sm2 gap-3">
+      {itens.map((a) => (
+        <li>
+          <a href={`/${a.category}/${a.slug}`} class="block h-full rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35">
+            <span class="block font-semibold leading-snug">{a.title}</span>
+            {a.excerpt && <span class="mt-1 block text-sm leading-relaxed text-co-warm-brown/75">{a.excerpt.length > 110 ? `${a.excerpt.slice(0, 107).replace(/\s+\S*$/, '')}...` : a.excerpt}</span>}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

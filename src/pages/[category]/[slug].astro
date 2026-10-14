@@ -8,6 +8,8 @@ import { imagemResponsiva } from '@/lib/imagens';
 import Breadcrumbs from '@/components/astro/Breadcrumbs.astro';
 import PrayerButton from '@/components/astro/PrayerButton.astro';
 import ConviteApp from '@/components/astro/ConviteApp.astro';
+import PonteFerramenta from '@/components/astro/PonteFerramenta.astro';
+import { ferramentasDoArtigo } from '@/lib/ferramentasDoArtigo';
 import { getAllArticles } from '@/lib/data';
 import { categoryLabel } from '@/config/site';
 import { cleanArticleHtml, htmlToText, tabelasResponsivas } from '@/lib/sanitize';
@@ -52,6 +54,11 @@ const CONVITE_COMUNIDADE = new Set([
 ]);
 const convite: 'quiz' | 'comunidade' | null = CONVITE_QUIZ.test(chaveArtigo) ? 'quiz' : CONVITE_COMUNIDADE.has(chaveArtigo) ? 'comunidade' : null;
 const contentHtml = tabelasResponsivas(htmlComIds);
+// Ponte para as ferramentas: a caixa entra antes do primeiro h2 (depois da resposta direta do artigo)
+const ponte = ferramentasDoArtigo(article);
+const corte = ponte ? contentHtml.search(/<h2[\s>]/i) : -1;
+const htmlAntes = corte > 0 ? contentHtml.slice(0, corte) : contentHtml;
+const htmlDepois = corte > 0 ? contentHtml.slice(corte) : '';
 const faq = extractFaq(clean);
 const sources = extractSources(clean);
 
@@ -168,7 +175,11 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
           </nav>
         )}
 
-        <div class="article-prose" data-prose set:html={contentHtml} />
+        <div class="article-prose" data-prose>
+          <Fragment set:html={htmlAntes} />
+          {ponte && corte > 0 && <PonteFerramenta ponte={ponte} origem={article.slug} />}
+          <Fragment set:html={htmlDepois} />
+        </div>
         {convite && <ConviteApp tipo={convite} origem={article.slug} />}
       </article>
 

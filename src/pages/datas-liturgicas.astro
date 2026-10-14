@@ -1,4 +1,5 @@
 ---
+import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { CalendarDays } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
@@ -42,6 +43,7 @@ const pascoas = ANOS_DATAS.map((a) => ({ a, p: datasDoAno(a).find((x) => x.id ==
           ))}
         </ul>
       </section>
+      <LeiturasDaFerramenta chaves={['calendario-liturgico/o-advento-tempo-de-preparacao-e-esperanca', 'calendario-liturgico/coroa-do-advento-significado-e-como-montar', 'calendario-liturgico/a-quaresma-significado-praticas-e-tradicoes', 'calendario-liturgico/o-tempo-pascal-da-ressurreicao-a-pentecostes', 'calendario-liturgico/corpus-christi-a-festa-do-corpo-e-sangue-de-cristo', 'calendario-liturgico/o-tempo-comum-santificando-o-cotidiano']} class="mt-14" />
     </div>
   </main>
 </BaseLayout>

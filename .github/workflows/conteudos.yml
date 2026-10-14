@@ -1,0 +1,63 @@
+name: Publicar conteúdos e imagens
+
+# Publica artigos novos de seo/novos/lote-*.json, aplica as pinturas de seo/imagens/fixas.json,
+# gera as versões leves das imagens e, no fim, dispara o build do site.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'seo/novos/lote-*.json'
+      - 'seo/imagens/fixas.json'
+  workflow_dispatch: {}
+
+concurrency:
+  group: conteudos
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Preparar variáveis (segredos ficam só no GitHub)
+        env:
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          VITE_SUPABASE_PUBLISHABLE_KEY: ${{ secrets.VITE_SUPABASE_PUBLISHABLE_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          {
+            echo "VITE_SUPABASE_URL=$VITE_SUPABASE_URL"
+            echo "VITE_SUPABASE_PUBLISHABLE_KEY=$VITE_SUPABASE_PUBLISHABLE_KEY"
+            echo "SUPABASE_SERVICE_ROLE_KEY=$SUPABASE_SERVICE_ROLE_KEY"
+          } > .env
+
+      - name: Publicar artigos novos
+        run: npm run conteudos:publicar -- --write
+
+      - name: Aplicar pinturas escolhidas
+        run: npm run imagens:fixar -- --write
+
+      - name: Gerar versões leves das imagens
+        run: npm run imagens:variantes -- --write
+
+      - name: Apagar variáveis
+        if: always()
+        run: rm -f .env
+
+      - name: Disparar o build do site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main

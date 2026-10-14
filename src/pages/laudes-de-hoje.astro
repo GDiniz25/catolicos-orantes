@@ -1,0 +1,204 @@
+---
+import { Sunrise } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { getLiturgia } from '@/lib/data';
+import { celebracaoDaLiturgia } from '@/lib/anoLiturgico';
+import { getTodayStr, offsetDate, formatDateFull, WEEKDAYS_FULL } from '@/lib/dateUtils';
+import { oficioDoDia, grauDaCelebracao, ROMANO, BENEDICTUS, MAGNIFICAT, NUNC_DIMITTIS, type OficioDoDia } from '@/lib/salterio';
+import { absUrl, breadcrumbSchema, faqSchema, publisherRef } from '@/lib/seo';
+
+const hoje = getTodayStr();
+const dias = await Promise.all(
+  Array.from({ length: 8 }, (_, i) => offsetDate(hoje, i)).map(async (data) => {
+    const lit = await getLiturgia(data);
+    const celebracao = celebracaoDaLiturgia(lit);
+    return { data, celebracao, oficio: oficioDoDia(data, grauDaCelebracao(celebracao)) };
+  }),
+);
+const [dia, ...proximos] = dias;
+const o: OficioDoDia = dia.oficio;
+const dataExtenso = formatDateFull(hoje);
+const semanaTxt = o.semana ? `Semana ${ROMANO[o.semana]} do saltério` : 'Ofício próprio do dia';
+const nomeDia = dia.celebracao ?? o.rotulo;
+
+const title = `Laudes de hoje: salmos e semana do saltério (${dataExtenso.replace(/^[^,]+, /, '').replace(/ de \d{4}$/, '')})`;
+const description = `Laudes de hoje, ${dataExtenso}: ${semanaTxt.toLowerCase()}, salmos e cântico da oração da manhã, Vésperas e Completas, com o roteiro para rezar.`.slice(0, 158);
+const path = '/laudes-de-hoje';
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Liturgia das Horas', path: '/liturgia-das-horas' },
+  { name: 'Laudes de hoje', path },
+];
+const faq = [
+  { q: 'Qual a semana do saltério hoje?', a: o.semana ? `Hoje, ${dataExtenso}, a Liturgia das Horas segue a semana ${ROMANO[o.semana]} do saltério (${o.rotulo}).` : `Hoje, ${dataExtenso}, o ofício é próprio da celebração (${nomeDia}). Confira os salmos indicados nesta página.` },
+  { q: 'Quais são os salmos das Laudes de hoje?', a: o.laudes ? `${o.laudes.join('; ')}. Depois vem o ${BENEDICTUS}.` : (o.laudesNota ?? '') },
+  { q: 'Que horas se rezam as Laudes?', a: 'As Laudes são a oração da manhã da Igreja. Rezam-se no começo do dia, antes ou logo depois de começar as atividades.' },
+  { q: 'Leigos podem rezar as Laudes?', a: 'Sim. A Igreja recomenda que os leigos rezem a Liturgia das Horas, sobretudo as Laudes e as Vésperas, sozinhos, em família ou em grupo.' },
+];
+const jsonLd = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl(path)}#article`,
+    headline: `Laudes de hoje: ${dataExtenso}`,
+    description,
+    datePublished: `${hoje}T00:00:00-03:00`,
+    dateModified: `${hoje}T00:00:00-03:00`,
+    inLanguage: 'pt-BR',
+    image: [absUrl('/og-image.png')],
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl(path) },
+  },
+  breadcrumbSchema(crumbs),
+  faqSchema(faq),
+];
+const curto = (d: string) => formatDateFull(d).replace(/ de \d{4}$/, '');
+const leituras = [
+  { href: '/liturgia-das-horas/como-rezar-laudes-oracao-da-manha', t: 'Como rezar Laudes: guia completo da oração da manhã' },
+  { href: '/liturgia-das-horas/vesperas-oracao-da-tarde', t: 'Vésperas: como rezar a oração da tarde da Igreja' },
+  { href: '/liturgia-das-horas/completas-oracao-antes-de-dormir', t: 'Completas: a oração antes de dormir' },
+  { href: '/liturgia-das-horas/salterio-da-liturgia-das-horas-semanas', t: 'Semana do saltério: como saber qual rezar hoje' },
+  { href: '/liturgia-das-horas/benedictus-cantico-de-zacarias', t: 'Benedictus: o cântico de Zacarias nas Laudes' },
+  { href: '/liturgia-das-horas/introducao-a-liturgia-das-horas-para-leigos', t: 'Introdução à Liturgia das Horas para leigos' },
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path={path}
+  keywords="laudes de hoje, laudes, liturgia das horas hoje, semana do saltério, salmos de hoje, vésperas de hoje, completas, oração da manhã católica"
+  ogType="article"
+  jsonLd={jsonLd}
+>
+  <PageHeader title="Laudes de hoje" subtitle={`${dataExtenso}. ${semanaTxt}. Os salmos de Laudes, Vésperas e Completas e o roteiro para rezar.`} icon={Sunrise} crumbs={crumbs} tom={CATEGORY_VISUAL['liturgia-das-horas']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-12 px-4">
+
+      <section aria-labelledby="hoje" class="rounded-2xl border border-co-warm-sand-dark bg-white p-5 md:p-7">
+        <div class="flex items-start gap-5">
+          <div class="grid h-20 w-20 shrink-0 place-items-center rounded-xl text-center" style={`background:${CATEGORY_VISUAL['liturgia-das-horas'].fundo};color:${CATEGORY_VISUAL['liturgia-das-horas'].tinta}`}>
+            {o.semana ? (
+              <span><span class="block font-display text-3xl font-semibold leading-none">{ROMANO[o.semana]}</span><span class="mt-1 block text-[12px] font-semibold">semana</span></span>
+            ) : (
+              <span class="px-1 text-[13px] font-semibold leading-tight">Ofício próprio</span>
+            )}
+          </div>
+          <div class="min-w-0">
+            <h2 id="hoje" class="font-display text-2xl font-semibold leading-tight">{nomeDia}</h2>
+            <p class="mt-1 text-[15px] text-co-warm-brown/80">{dataExtenso}{dia.celebracao && o.rotulo !== dia.celebracao ? `. ${o.rotulo}` : ''}</p>
+            <p class="mt-3 text-[16px] leading-relaxed">
+              {o.semana
+                ? <>Hoje a Liturgia das Horas segue a <strong>semana {ROMANO[o.semana]} do saltério</strong>. No breviário, procure o saltério dessa semana, no dia {WEEKDAYS_FULL[o.diaSemana].toLowerCase()}.</>
+                : <>{o.laudesNota}</>}
+            </p>
+          </div>
+        </div>
+        <nav aria-label="Horas de hoje" class="mt-5 grid grid-cols-3 gap-2">
+          <a href="#laudes" class="btn-hora">Laudes</a>
+          <a href="#vesperas" class="btn-hora">Vésperas</a>
+          <a href="#completas" class="btn-hora">Completas</a>
+        </nav>
+      </section>
+
+      <section aria-labelledby="laudes" class="scroll-mt-24">
+        <h2 id="laudes" class="font-display text-2xl font-semibold md:text-3xl">Laudes: oração da manhã</h2>
+        <ol class="roteiro mt-5">
+          <li><strong>Abertura.</strong> Se as Laudes são a primeira oração do dia, começa-se pelo Invitatório: <em>Abri os meus lábios, ó Senhor. E minha boca anunciará vosso louvor.</em> Segue o Sl 94(95). Se não, reza-se: <em>Vinde, ó Deus, em meu auxílio. Socorrei-me sem demora.</em> e o Glória ao Pai.</li>
+          <li><strong>Hino</strong> do dia ou do tempo litúrgico.</li>
+          <li>
+            <strong>Salmodia de hoje</strong>, cada salmo com sua antífona e o Glória ao Pai no fim:
+            {o.laudes ? (
+              <ul class="salmos">{o.laudes.map((s) => <li>{s}</li>)}</ul>
+            ) : <p class="nota">{o.laudesNota}</p>}
+            {o.laudes && o.laudesNota && <p class="nota">{o.laudesNota}</p>}
+          </li>
+          <li><strong>Leitura breve</strong> e responsório breve.</li>
+          <li><strong>{BENEDICTUS}</strong>, com sua antífona. É rezado todos os dias nas Laudes.</li>
+          <li><strong>Preces</strong> pela consagração do dia a Deus, seguidas do <a href="/oracoes-do-dia-a-dia/o-pai-nosso-cada-frase-explicada">Pai-Nosso</a>.</li>
+          <li><strong>Oração</strong> do dia e conclusão: <em>O Senhor nos abençoe, nos livre de todo o mal e nos conduza à vida eterna. Amém.</em></li>
+        </ol>
+      </section>
+
+      <section aria-labelledby="vesperas" class="scroll-mt-24">
+        <h2 id="vesperas" class="font-display text-2xl font-semibold md:text-3xl">{o.vesperasNome}: oração da tarde</h2>
+        <ol class="roteiro mt-5">
+          <li><strong>Abertura:</strong> <em>Vinde, ó Deus, em meu auxílio. Socorrei-me sem demora.</em> Glória ao Pai. Hino.</li>
+          <li>
+            <strong>Salmodia</strong>:
+            {o.vesperas ? <ul class="salmos">{o.vesperas.map((s) => <li>{s}</li>)}</ul> : <p class="nota">{o.vesperasNota}</p>}
+            {o.vesperas && o.vesperasNota && <p class="nota">{o.vesperasNota}</p>}
+          </li>
+          <li><strong>Leitura breve</strong> e responsório breve.</li>
+          <li><strong>{MAGNIFICAT}</strong>, rezado todos os dias nas Vésperas.</li>
+          <li><strong>Preces</strong>, Pai-Nosso, oração do dia e conclusão.</li>
+        </ol>
+      </section>
+
+      <section aria-labelledby="completas" class="scroll-mt-24">
+        <h2 id="completas" class="font-display text-2xl font-semibold md:text-3xl">Completas: antes de dormir</h2>
+        <ol class="roteiro mt-5">
+          <li><strong>Abertura</strong> e um breve <a href="/exame-de-consciencia">exame de consciência</a> do dia.</li>
+          <li>
+            <strong>Salmodia de hoje</strong>:
+            <ul class="salmos">{o.completas.map((s) => <li>{s}</li>)}</ul>
+            {o.completasNota && <p class="nota">{o.completasNota}</p>}
+          </li>
+          <li><strong>Leitura breve</strong>, responsório e o {NUNC_DIMITTIS}.</li>
+          <li><strong>Oração</strong> e bênção: <em>O Senhor todo-poderoso nos conceda uma noite tranquila e, no fim da vida, uma morte santa. Amém.</em></li>
+          <li><strong>Antífona de Nossa Senhora</strong>, por exemplo a <a href="/oracoes-do-dia-a-dia/a-salve-rainha-historia-e-significado">Salve-Rainha</a>.</li>
+        </ol>
+      </section>
+
+      <section aria-labelledby="semana" class="border-t border-co-warm-sand-dark pt-8">
+        <h2 id="semana" class="font-display text-2xl font-semibold md:text-3xl">Laudes dos próximos dias</h2>
+        <ul class="mt-5 divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+          {proximos.map((p) => (
+            <li class="py-3">
+              <p class="flex flex-wrap items-baseline justify-between gap-x-3">
+                <span class="font-semibold">{curto(p.data)}</span>
+                <span class="text-sm text-co-warm-brown/75">{p.oficio.semana ? `Semana ${ROMANO[p.oficio.semana]}` : 'Ofício próprio'}</span>
+              </p>
+              <p class="text-sm text-co-warm-brown/80">{p.celebracao ?? p.oficio.rotulo}</p>
+              <p class="mt-1 text-[15px]">{p.oficio.laudes ? p.oficio.laudes.join('; ') : p.oficio.laudesNota}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section aria-labelledby="sem-livro">
+        <h2 id="sem-livro" class="font-display text-2xl font-semibold md:text-3xl">Como rezar se você não tem o breviário?</h2>
+        <p class="mt-4 text-[17px] leading-relaxed">Os textos completos da Liturgia das Horas estão no livro oficial (o breviário) e nos aplicativos autorizados. Sem o livro, dá para rezar com a Bíblia: leia devagar os salmos e o cântico indicados acima, termine cada um com o Glória ao Pai, leia o Benedictus (Lc 1,68-79) de manhã ou o Magnificat (Lc 1,46-55) à tarde, faça seus pedidos e reze o Pai-Nosso. É uma forma simples de se unir à oração de toda a Igreja.</p>
+        <p class="mt-3 text-[15px] text-co-warm-brown/80">A semana do saltério é calculada pelo calendário litúrgico. Em festas de santos com ofício próprio, em celebrações locais e no Tempo do Natal, siga sempre a indicação do breviário.</p>
+      </section>
+
+      <section aria-labelledby="perguntas">
+        <h2 id="perguntas" class="font-display text-2xl font-semibold md:text-3xl">Perguntas frequentes</h2>
+        <div class="mt-4 space-y-5">
+          {faq.map((f) => (<div><h3 class="font-display text-xl font-semibold">{f.q}</h3><p class="mt-1 text-[16px] leading-relaxed">{f.a}</p></div>))}
+        </div>
+      </section>
+
+      <section aria-labelledby="aprofundar" class="rounded-2xl border border-co-warm-sand-dark bg-co-warm-cream/60 p-5 md:p-7">
+        <h2 id="aprofundar" class="font-display text-2xl font-semibold">Para aprofundar</h2>
+        <ul class="mt-4 space-y-2">
+          {leituras.map((l) => <li><a href={l.href} class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">{l.t}</a></li>)}
+          <li><a href="/liturgia-diaria" class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Liturgia diária: as leituras da Missa de hoje</a></li>
+        </ul>
+      </section>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .btn-hora { display: flex; min-height: 2.75rem; align-items: center; justify-content: center; border-radius: 0.5rem; border: 1px solid hsl(var(--co-warm-sand-dark)); font-weight: 600; font-size: 15px; }
+  .btn-hora:hover { border-color: hsl(var(--co-warm-brown) / 0.4); }
+  .roteiro { counter-reset: passo; display: grid; gap: 0.9rem; }
+  .roteiro > li { counter-increment: passo; position: relative; padding-left: 2.4rem; font-size: 17px; line-height: 1.65; }
+  .roteiro > li::before { content: counter(passo); position: absolute; left: 0; top: 0.1rem; display: grid; place-items: center; width: 1.7rem; height: 1.7rem; border-radius: 999px; background: hsl(var(--co-warm-cream)); font-size: 14px; font-weight: 700; }
+  .roteiro a { color: hsl(var(--co-warm-terracotta)); text-decoration: underline; text-underline-offset: 3px; }
+  .salmos { margin-top: 0.5rem; display: grid; gap: 0.35rem; }
+  .salmos > li { border-left: 3px solid hsl(var(--co-warm-forest)); padding-left: 0.75rem; font-weight: 600; }
+  .nota { margin-top: 0.5rem; font-size: 15px; color: hsl(var(--co-warm-brown) / 0.8); }
+</style>

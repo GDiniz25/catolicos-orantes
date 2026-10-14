@@ -144,6 +144,7 @@ export const STATIC_PAGES = [
   { path: '/liturgia-diaria', title: 'Liturgia Diária', changefreq: 'daily', priority: 0.9 },
   { path: '/versiculo-do-dia', title: 'Versículo do Dia', changefreq: 'daily', priority: 0.9 },
   { path: '/santo-do-dia', title: 'Santo do Dia', changefreq: 'daily', priority: 0.9 },
+  { path: '/laudes-de-hoje', title: 'Laudes de hoje (Liturgia das Horas)', changefreq: 'daily', priority: 0.9 },
   { path: '/aprender', title: 'Caminho da Fé (curso interativo)', changefreq: 'weekly', priority: 0.8 },
   { path: '/descubra-seu-santo', title: 'Descubra seu santo (teste de afinidade)', changefreq: 'monthly', priority: 0.8 },
   { path: '/ferramentas', title: 'Ferramentas católicas', changefreq: 'monthly', priority: 0.8 },

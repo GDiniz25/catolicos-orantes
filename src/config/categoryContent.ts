@@ -63,7 +63,7 @@ export const CATEGORY_CONTENT: Record<string, CategoryContent> = {
     lead: 'A Liturgia das Horas é a oração oficial da Igreja, distribuída ao longo do dia em horas como Laudes (manhã), Vésperas (tarde) e Completas (noite), composta principalmente de salmos.',
     intro: `<p>A <strong>Liturgia das Horas</strong>, também chamada Ofício Divino ou Breviário, santifica as horas do dia com a oração dos salmos, leituras bíblicas, hinos e cânticos. É a oração pública da Igreja, rezada por bispos, padres, diáconos, religiosos e, cada vez mais, por leigos (Catecismo, nn. 1174-1178).</p>
 <p>As horas principais são as <strong>Laudes</strong>, ao amanhecer, e as <strong>Vésperas</strong>, ao entardecer. Completam o dia o Ofício das Leituras, a Hora Média e as <strong>Completas</strong>, antes de dormir.</p>
-<p>Aqui você aprende a estrutura de cada hora, o sentido das antífonas e dos cânticos evangélicos e como começar a rezar em casa ou em comunidade.</p>`,
+<p>Aqui você aprende a estrutura de cada hora, o sentido das antífonas e dos cânticos evangélicos e como começar a rezar em casa ou em comunidade. Para saber a semana do saltério e os salmos do dia, veja <a href="/laudes-de-hoje">Laudes de hoje</a>.</p>`,
     faq: [
       { q: 'Leigos podem rezar a Liturgia das Horas?', a: 'Sim. O Concílio Vaticano II recomenda que os leigos rezem o Ofício Divino, sobretudo Laudes e Vésperas. Para os leigos não há obrigação; para os clérigos, sim.' },
       { q: 'Quais são as horas da Liturgia das Horas?', a: 'Ofício das Leituras, Laudes (manhã), Hora Média (Tércia, Sexta ou Noa), Vésperas (tarde) e Completas (noite).' },

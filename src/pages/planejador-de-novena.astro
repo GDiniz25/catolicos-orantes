@@ -1,4 +1,5 @@
 ---
+import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { CalendarClock } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ContaProgresso from '@/components/islands/ContaProgresso';
@@ -35,6 +36,7 @@ const FAQ = [
         </ul>
       </section>
       <Faq title="Perguntas frequentes" items={FAQ} />
+      <LeiturasDaFerramenta chaves={['novenas/novena-a-santa-rita-de-cassia', 'novenas/novena-a-nossa-senhora-aparecida', 'novenas/novena-ao-espirito-santo-completa-com-meditacoes', 'novenas/novena-de-natal-preparacao-nascimento-jesus', 'novenas/novena-a-santo-antonio-de-padua', 'santos-e-oracoes/santa-edwiges-padroeira-dos-endividados']} class="mt-14" />
     </div>
   </main>
 </BaseLayout>

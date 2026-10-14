@@ -1,4 +1,5 @@
 ---
+import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { CircleDot } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
@@ -30,6 +31,7 @@ const FAQ = [
         <a href="/como-rezar-o-terco" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Como rezar o terço</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">Guias, história e os mistérios explicados.</span></a>
       </section>
       <Faq title="Perguntas frequentes" items={FAQ} />
+      <LeiturasDaFerramenta chaves={['como-rezar-o-terco/guia-completo-para-rezar-o-santo-terco', 'como-rezar-o-terco/os-misterios-gozosos-do-rosario-e-suas-meditacoes', 'como-rezar-o-terco/os-misterios-dolorosos-do-rosario-e-suas-meditacoes', 'como-rezar-o-terco/os-misterios-gloriosos-do-rosario-e-suas-meditacoes', 'como-rezar-o-terco/os-misterios-luminosos-do-rosario-e-suas-meditacoes', 'como-rezar-o-terco/como-meditar-durante-o-terco']} class="mt-14" />
     </div>
   </main>
 </BaseLayout>

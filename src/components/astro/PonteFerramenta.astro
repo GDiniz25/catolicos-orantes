@@ -1,0 +1,14 @@
+---
+/** Caixa que leva o leitor do artigo para uma ferramenta prática do site (dois botões simétricos). */
+import type { PonteFerramenta } from '@/lib/ferramentasDoArtigo';
+interface Props { ponte: PonteFerramenta; origem: string }
+const { ponte, origem } = Astro.props;
+---
+<aside class="ponte not-prose my-8 rounded-xl border border-co-warm-sand-dark bg-co-warm-cream/70 p-5 md:p-6" aria-label={ponte.titulo} data-ponte={origem}>
+  <p class="font-display text-xl font-semibold leading-snug text-co-warm-brown">{ponte.titulo}</p>
+  <p class="text-[16px] leading-relaxed text-co-warm-brown/85">{ponte.texto}</p>
+  <div class="mt-4 grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+    <a href={ponte.links[0].href} class="btn btn-primario">{ponte.links[0].rotulo}</a>
+    <a href={ponte.links[1].href} class="btn btn-contorno">{ponte.links[1].rotulo}</a>
+  </div>
+</aside>
