@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { ORACOES } from "@/data/oracoes";
 import { MISTERIOS, MISTERIO_DA_SEMANA, hojeBrasilia, type Misterio } from "@/lib/anoLiturgico";
 
-interface Passo { titulo: string; texto: string; dezena?: number; conta?: number; total?: number; aviso?: string }
+interface Passo { titulo: string; texto: string; dezena?: number; conta?: number; total?: number; aviso?: string; fonte?: string }
 
 function passosTerco(m: Misterio): Passo[] {
   const ms = MISTERIOS[m];
@@ -26,6 +26,15 @@ function passosTerco(m: Misterio): Passo[] {
   return p;
 }
 
+/** Uma reflexão por dezena, com base no Diário de Santa Faustina (paráfrase, com o número do parágrafo) */
+const REFLEXOES_DIARIO: { texto: string; fonte: string }[] = [
+  { texto: "Em 1931, em Płock, Jesus pediu a Santa Faustina que mandasse pintar a sua imagem com a inscrição \"Jesus, eu confio em Vós\". A primeira resposta à misericórdia é a confiança. Nesta dezena, entregue a Ele o que mais preocupa você.", fonte: "Diário de Santa Faustina, n. 47" },
+  { texto: "Santa Faustina explica que os dois raios da imagem, um pálido e outro vermelho, representam a água que purifica as almas e o sangue que é a vida das almas, que jorraram do Coração de Jesus aberto na cruz (Jo 19,34). Reze por quem precisa de perdão e de vida nova.", fonte: "Diário de Santa Faustina, n. 299" },
+  { texto: "Em setembro de 1935, em Vilnius, Santa Faustina recebeu esta oração para pedir misericórdia pelo mundo. Ao oferecer ao Pai o Corpo e o Sangue, a Alma e a Divindade de Jesus, você se une ao sacrifício da cruz. Reze pelo mundo inteiro.", fonte: "Diário de Santa Faustina, n. 475 e 476" },
+  { texto: "No Diário, Jesus promete grande misericórdia na hora da morte a quem rezar este terço e pede que os sacerdotes o recomendem aos pecadores como último recurso de salvação. Reze pelos que estão morrendo hoje.", fonte: "Diário de Santa Faustina, n. 687" },
+  { texto: "Jesus pediu a Santa Faustina que, às três da tarde, a hora da sua morte, implorasse a misericórdia, sobretudo pelos pecadores, e meditasse a sua Paixão, ainda que por um instante. Termine entregando a Deus os pecadores e a você mesmo.", fonte: "Diário de Santa Faustina, n. 1320" },
+];
+
 function passosMisericordia(): Passo[] {
   const p: Passo[] = [
     { titulo: "Sinal da cruz", texto: "Em nome do Pai, e do Filho e do Espírito Santo. Amém." },
@@ -34,6 +43,8 @@ function passosMisericordia(): Passo[] {
     { titulo: "Creio", texto: ORACOES.credo },
   ];
   for (let d = 1; d <= 5; d++) {
+    const r = REFLEXOES_DIARIO[d - 1];
+    p.push({ titulo: "Reflexão do Diário", texto: r.texto, fonte: r.fonte, dezena: d });
     p.push({ titulo: "Nas contas grandes", texto: ORACOES.eternoPai, dezena: d });
     for (let i = 1; i <= 10; i++) p.push({ titulo: "Nas contas pequenas", texto: ORACOES.dolorosaPaixao, dezena: d, conta: i, total: 10 });
   }
@@ -98,7 +109,8 @@ export default function TercoGuiado({ modo = "terco" }: { modo?: "terco" | "mise
           )}
           <h2 className="mt-5 font-display text-2xl font-semibold md:text-3xl">{p.titulo}{p.total ? <span className="ml-2 text-co-warm-brown/75">{p.conta} de {p.total}</span> : null}</h2>
           {p.aviso && <p className="mt-3 rounded-lg bg-[#F7F0DC] px-4 py-3 text-[16px] font-semibold text-[#7A5820]">{p.aviso}</p>}
-          {!p.aviso && <p className="mt-4 max-w-2xl font-display text-[19px] leading-relaxed md:text-[21px]">{p.texto}</p>}
+          {!p.aviso && <p className={`mt-4 max-w-2xl leading-relaxed ${p.fonte ? "text-[17px] md:text-[18px]" : "font-display text-[19px] md:text-[21px]"}`}>{p.texto}</p>}
+          {p.fonte && <p className="mt-3 text-[13px] text-co-warm-brown/75">Reflexão com base no {p.fonte} (A misericórdia divina na minha alma).</p>}
           {p.total && (
             <div className="mt-6 flex flex-wrap gap-2" aria-hidden="true">
               {Array.from({ length: p.total }, (_, k) => <span key={k} className={`h-4 w-4 rounded-full border-2 ${k < p.conta! ? "border-co-warm-terracotta bg-co-warm-terracotta" : "border-co-warm-sand-dark"}`} />)}
