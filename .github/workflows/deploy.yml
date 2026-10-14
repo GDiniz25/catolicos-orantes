@@ -57,7 +57,8 @@ jobs:
           local-dir: ./dist/
           log-level: minimal
           timeout: 120000
-          server-dir: ${{ secrets.FTP_SERVER_DIR || 'public_html/' }}
+          # A conta FTP da Hostinger já abre dentro de public_html: enviar para a raiz dela
+          server-dir: ./
 
       - name: Avisar buscadores (IndexNow)
         continue-on-error: true

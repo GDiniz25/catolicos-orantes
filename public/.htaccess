@@ -29,6 +29,8 @@ AddDefaultCharset UTF-8
   # 4) Sitemaps antigos (Edge Function) continuam funcionando: agora são arquivos estáticos
 
   # 4b) Endereços antigos que mudaram de nome (301 permanente para o endereço novo)
+  # Cópia antiga enviada por engano para public_html/public_html: manda para o endereço certo
+  RewriteRule ^public_html/?(.*)$ /$1 [R=301,L]
   # Artigos duplicados unidos ao principal (out/2026)
   RewriteRule ^devocoes\-marianas/maria\-na\-biblia\-todas\-passagens\-sobre\-nossa\-senhora/?$ /devocoes-marianas/maria-na-biblia-todas-as-passagens-sobre-nossa-senhora [R=301,L]
   RewriteRule ^oracoes\-do\-dia\-a\-dia/ladainha\-de\-nossa\-senhora\-significado\-oracao/?$ /ladainhas/ladainha-de-nossa-senhora-ladainha-lauretana [R=301,L]
