@@ -8,6 +8,7 @@ on:
     paths:
       - 'seo/novos/lote-*.json'
       - 'seo/imagens/fixas.json'
+      - 'seo/imagens/santos.json'
   workflow_dispatch: {}
 
 concurrency:
@@ -49,6 +50,9 @@ jobs:
 
       - name: Aplicar pinturas escolhidas
         run: npm run imagens:fixar -- --write --alt
+
+      - name: Aplicar retratos dos santos
+        run: npm run santos:imagens -- --write
 
       - name: Gerar versões leves das imagens
         run: npm run imagens:variantes -- --write

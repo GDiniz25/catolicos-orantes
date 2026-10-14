@@ -365,3 +365,47 @@ export function textoAlt(artigo, c) {
   const artista = semWikidata(c.artista).replace(/(Unknown author|Unknown|Anonymous)/gi, '').trim();
   return artista ? `${a} em obra de ${artista}` : `${a}, arte sacra em domínio público`;
 }
+
+
+export async function infoCommons(titulo) {
+  const params = new URLSearchParams({
+    action: 'query', format: 'json', formatversion: '2', titles: titulo, prop: 'imageinfo',
+    iiprop: 'url|size|mime|extmetadata', iiurlwidth: '1600',
+    iiextmetadatafilter: 'LicenseShortName|License|Artist|ObjectName|DateTimeOriginal',
+  });
+  const res = await fetch(`https://commons.wikimedia.org/w/api.php?${params}`, { headers: { 'User-Agent': UA } });
+  const p = (await res.json())?.query?.pages?.[0];
+  const ii = p?.imageinfo?.[0];
+  if (!ii) throw new Error('arquivo não encontrado no Commons');
+  const md = ii.extmetadata || {};
+  const lic = `${md.LicenseShortName?.value || ''} ${md.License?.value || ''}`;
+  if (!/public domain|^\s*pd\b|\bpd-|cc0|cc-zero/i.test(lic)) throw new Error(`licença não é domínio público (${md.LicenseShortName?.value || 'desconhecida'})`);
+  return {
+    arquivo: p.title.replace(/^File:/, ''),
+    url: ii.thumburl || ii.url,
+    artista: limpa(md.Artist?.value).slice(0, 120),
+    obra: limpa(md.ObjectName?.value).slice(0, 160),
+    data: limpa(md.DateTimeOriginal?.value).slice(0, 40),
+  };
+}
+
+
+/**
+ * Baixa a pintura do Commons, envia para article-images/arte/<nome>.jpg e apaga as versões
+ * menores antigas (-q60-*.webp), para o imagens:variantes gerar de novo a partir da pintura nova.
+ * Devolve a URL pública com ?v= para furar o cache.
+ */
+export async function enviarPintura(db, info, nome) {
+  const BUCKET = 'article-images';
+  const res = await fetch(info.url, { headers: { 'User-Agent': UA } });
+  if (!res.ok) throw new Error(`download ${res.status}`);
+  const tipo = res.headers.get('content-type') || 'image/jpeg';
+  const ext = tipo.includes('png') ? 'png' : 'jpg';
+  const caminho = `arte/${nome}.${ext}`;
+  const buf = Buffer.from(await res.arrayBuffer());
+  const up = await db.storage.from(BUCKET).upload(caminho, buf, { contentType: tipo, upsert: true, cacheControl: '31536000' });
+  if (up.error) throw new Error(`upload: ${up.error.message}`);
+  const velhas = ['240', '480', '640', '960'].map((w) => `arte/${nome}-q60-${w}.webp`);
+  await db.storage.from(BUCKET).remove(velhas);
+  return `${db.storage.from(BUCKET).getPublicUrl(caminho).data.publicUrl}?v=${Date.now().toString(36)}`;
+}
