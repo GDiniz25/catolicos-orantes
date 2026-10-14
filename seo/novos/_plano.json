@@ -527,5 +527,39 @@
    "category": "santos-e-oracoes",
    "title": "Santo Expedito: história e devoção às causas urgentes"
   }
+ ],
+ "N1": [
+  {
+   "slug": "novena-de-sao-judas-tadeu",
+   "category": "novenas",
+   "title": "Novena de São Judas Tadeu: orações completas dos 9 dias"
+  },
+  {
+   "slug": "novena-de-nossa-senhora-das-gracas",
+   "category": "novenas",
+   "title": "Novena de Nossa Senhora das Graças: 9 dias de oração"
+  },
+  {
+   "slug": "novena-de-cristo-rei",
+   "category": "novenas",
+   "title": "Novena de Cristo Rei: orações dos 9 dias e significado"
+  }
+ ],
+ "N2": [
+  {
+   "slug": "novena-da-imaculada-conceicao",
+   "category": "novenas",
+   "title": "Novena da Imaculada Conceição: orações dos 9 dias"
+  },
+  {
+   "slug": "novena-de-nossa-senhora-de-guadalupe",
+   "category": "novenas",
+   "title": "Novena de Nossa Senhora de Guadalupe: orações dos 9 dias"
+  },
+  {
+   "slug": "novena-de-santa-luzia",
+   "category": "novenas",
+   "title": "Novena de Santa Luzia: orações dos 9 dias e história"
+  }
  ]
 }
