@@ -18,6 +18,8 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - name: Pillow
         run: pip install --quiet pillow
       - name: Gerar folhas
