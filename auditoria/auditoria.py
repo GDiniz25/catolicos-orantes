@@ -62,7 +62,7 @@ def atual():
         folha(itens, f'atual-{p // por:02d}.jpg')
         print('folha', p // por)
 
-def commons_busca(q, limite=12):
+def commons_busca(q, limite=20):
     params = {'action': 'query', 'format': 'json', 'formatversion': '2', 'generator': 'search', 'gsrnamespace': '6',
               'gsrlimit': str(limite), 'gsrsearch': q + ' filetype:bitmap', 'prop': 'imageinfo',
               'iiprop': 'url|size|extmetadata', 'iiurlwidth': '400',
