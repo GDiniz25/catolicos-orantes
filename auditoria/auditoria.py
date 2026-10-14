@@ -93,16 +93,16 @@ def buscas():
             except Exception as e:
                 print('erro', q, e)
             time.sleep(0.3)
-        cands = cands[:ped.get('n', 10)]
+        cands = cands[:ped.get('n', 5)]
         resultado[ped['id']] = cands
     json.dump(resultado, open(os.path.join(OUT, 'buscas.json'), 'w'), ensure_ascii=False, indent=1)
     # folhas: um bloco por pedido, até 10 candidatas
     ids = list(resultado)
-    for p in range(0, len(ids), 2):
+    for p in range(0, len(ids), 4):
         itens = []
-        for pid in ids[p:p + 2]:
+        for pid in ids[p:p + 4]:
             cs = resultado[pid]
-            for k in range(10):
+            for k in range(5):
                 if k < len(cs):
                     c = cs[k]
                     try: data = get(c['thumb'])
@@ -110,8 +110,8 @@ def buscas():
                     itens.append((f'{pid[:14]} #{k}', re.sub(r'<[^>]+>', '', c['artista']) or c['arquivo'], data))
                 else:
                     itens.append((f'{pid[:14]} #{k}', '-', None))
-        folha(itens, f'busca-{p // 2:03d}.jpg')
-        print('busca folha', p // 2)
+        folha(itens, f'busca-{p // 4:03d}.jpg')
+        print('busca folha', p // 4)
 
 if __name__ == '__main__':
     modo = sys.argv[1]
