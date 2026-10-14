@@ -14,6 +14,12 @@ const ext = (s: string, ano = false) => { const d = parse(s); return `${SEM[d.ge
 function festaNoAno(n: NovenaPlano, y: number): string | null {
   if (n.festa.tipo === "fixa") return iso(new Date(Date.UTC(y, n.festa.mes - 1, n.festa.dia)));
   if (n.festa.tipo === "pascoa") return iso(add(pascoa(y), n.festa.dias));
+  if (n.festa.tipo === "cristoRei") {
+    // último domingo do Tempo Comum: o domingo antes do 1º Domingo do Advento (4 domingos antes do Natal)
+    const natal = new Date(Date.UTC(y, 11, 25));
+    const domingoAntesDoNatal = add(natal, -(natal.getUTCDay() || 7));
+    return iso(add(domingoAntesDoNatal, -28));
+  }
   return null;
 }
 /** Próxima festa a partir de hoje (este ano ou o próximo) */
