@@ -37,6 +37,7 @@ async function streamChat({
   onDone: () => void;
   signal?: AbortSignal;
 }) {
+  try { (window as unknown as { track?: (n: string, p?: Record<string, unknown>) => void }).track?.("pergunta_biblia"); } catch { /* sem GTM */ }
   const resp = await fetch(CHAT_URL, {
     method: "POST",
     headers: {

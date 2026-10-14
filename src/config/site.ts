@@ -8,6 +8,8 @@ export const SITE_TITLE = 'Católicos Orantes: oração, santos, liturgia e dout
 export const SITE_DESCRIPTION =
   'Guia completo da fé católica: liturgia diária, versículo do dia, santos, orações, sacramentos, catecismo, novenas e devoções.';
 export const GA_ID = 'G-5E1SKZTPDY';
+/** Google Tag Manager: carrega o GA4 e todos os eventos (contêiner da conta Católicos Orantes) */
+export const GTM_ID = 'GTM-MD2C4754';
 export const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.png`;
 export const LOGO_URL = `${SITE_URL}/logo.png`;
 

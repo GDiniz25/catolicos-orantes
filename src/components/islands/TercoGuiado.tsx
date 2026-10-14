@@ -64,7 +64,15 @@ export default function TercoGuiado({ modo = "terco" }: { modo?: "terco" | "mise
   }, []);
   const passos = useMemo(() => (modo === "terco" ? passosTerco(misterio) : passosMisericordia()), [modo, misterio]);
   const p = passos[i];
-  const ir = (n: number) => setI((x) => Math.max(0, Math.min(passos.length - 1, x + n)));
+  const ir = (n: number) => setI((x) => {
+    const novo = Math.max(0, Math.min(passos.length - 1, x + n));
+    const ev = (window as unknown as { track?: (n: string, p?: Record<string, unknown>) => void }).track;
+    try {
+      if (x === 0 && novo === 1) ev?.("terco_inicio", { modo });
+      if (novo === passos.length - 1 && x !== novo) ev?.("terco_concluido", { modo });
+    } catch { /* sem GTM */ }
+    return novo;
+  });
 
   useEffect(() => {
     const h = (e: KeyboardEvent) => {

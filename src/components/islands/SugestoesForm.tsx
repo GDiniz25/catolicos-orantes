@@ -59,6 +59,7 @@ export default function SugestoesForm() {
         content_reference: contentRef.trim().slice(0, 500) || null,
         message: message.trim().slice(0, 3000),
       });
+      try { (window as unknown as { track?: (n: string, p?: Record<string, unknown>) => void }).track?.("generate_lead", { form: "sugestoes" }); } catch { /* sem GTM */ }
       setSent(true);
     } catch {
       setError("Erro ao enviar. Tente novamente.");

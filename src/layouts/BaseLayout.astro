@@ -8,7 +8,7 @@ import '@/styles/global.css';
 import Header from '@/components/astro/Header.astro';
 import FaixaLiturgica from '@/components/astro/FaixaLiturgica.astro';
 import Footer from '@/components/astro/Footer.astro';
-import { SUPABASE_URL, SITE_NAME, DEFAULT_OG_IMAGE, GA_ID } from '@/config/site';
+import { SUPABASE_URL, SITE_NAME, DEFAULT_OG_IMAGE, GTM_ID } from '@/config/site';
 import { absUrl, organizationSchema, websiteSchema } from '@/lib/seo';
 
 interface Props {
@@ -120,13 +120,23 @@ const graph = {
     <!-- Imagens das pinturas vêm do Supabase: a conexão já abre junto com a página -->
     <link rel="preconnect" href={SUPABASE_URL} crossorigin />
     <link rel="dns-prefetch" href={SUPABASE_URL} />
-    <!-- Google Analytics: a fila de eventos começa já; o script (cerca de 150 KB) só baixa depois
-         que a página terminou de carregar, para não disputar banda com o conteúdo -->
-    <script is:inline define:vars={{ GA_ID }}>
+    <!-- Google Tag Manager (GA4 e eventos). A fila começa já; o script só baixa depois que a página
+         terminou de carregar ou na primeira interação, para não disputar banda com o conteúdo.
+         Eventos do site: window.track('nome', { parametros }) ou window.gtag('event', 'nome', { parametros }). -->
+    <script is:inline define:vars={{ GTM_ID }}>
       window.dataLayer = window.dataLayer || [];
-      window.gtag = function(){ window.dataLayer.push(arguments); };
-      window.gtag('js', new Date());
-      window.gtag('config', GA_ID);
+      var PARAMS = ['novena','form','santo','principal','modo','ferramenta','destino','origem','link_url','link_text','method','dia','licao','acertos','total','search_term','plano','conteudo'];
+      window.track = function (nome, params) {
+        var ev = { event: nome };
+        for (var k in (params || {})) ev[k] = params[k];
+        window.dataLayer.push(ev);
+        // limpa os parâmetros para não vazarem para o próximo evento
+        var limpa = {};
+        PARAMS.forEach(function (k) { limpa[k] = undefined; });
+        window.dataLayer.push(limpa);
+      };
+      window.gtag = function (cmd, nome, params) { if (cmd === 'event') window.track(nome, params); };
+      window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
       (function () {
         var carregado = false;
         function carregar() {
@@ -134,7 +144,7 @@ const graph = {
           carregado = true;
           var s = document.createElement('script');
           s.async = true;
-          s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+          s.src = 'https://www.googletagmanager.com/gtm.js?id=' + GTM_ID;
           document.head.appendChild(s);
         }
         ['pointerdown', 'keydown', 'scroll', 'touchstart'].forEach(function (ev) {
@@ -144,6 +154,32 @@ const graph = {
           (window.requestIdleCallback || function (f) { setTimeout(f, 1500); })(function () { setTimeout(carregar, 2500); });
         });
       })();
+      // Cliques que importam: app, ferramentas do site e chamadas dentro dos artigos
+      var FERRAMENTAS = ['/terco-guiado','/terco-da-misericordia','/laudes-de-hoje','/liturgia-diaria','/planejador-de-novena','/exame-de-consciencia','/via-sacra','/lectio-divina','/plano-de-leitura-da-biblia','/encontre-na-biblia','/santo-do-dia','/descubra-seu-santo','/padroeiros','/datas-liturgicas','/consagracao-a-nossa-senhora','/aprender','/glossario','/teste-de-temperamento','/pedido-de-oracao','/versiculo-do-dia','/santo-do-aniversario','/nomes-de-santos'];
+      document.addEventListener('click', function (e) {
+        var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+        if (!a) return;
+        var url;
+        try { url = new URL(a.getAttribute('href'), location.href); } catch (err) { return; }
+        var texto = (a.textContent || '').trim().slice(0, 80);
+        if (url.hostname === 'app.catolicosorantes.com.br') {
+          window.track('app_clique', { link_url: url.href, link_text: texto, origem: location.pathname });
+        } else if (url.hostname === location.hostname && FERRAMENTAS.indexOf(url.pathname.replace(/\/$/, '')) >= 0) {
+          window.track('ferramenta_clique', { destino: url.pathname, link_text: texto, origem: location.pathname, conteudo: a.closest('.ponte') ? 'ponte_artigo' : undefined });
+        } else if (/whatsapp\.com|wa\.me/.test(url.hostname)) {
+          window.track('whatsapp_clique', { link_url: url.href, origem: location.pathname });
+        }
+      }, true);
+      // Texto copiado (orações, versículos)
+      document.addEventListener('copy', function () { window.track('texto_copiado', { origem: location.pathname }); });
+      // Busca interna: registra o termo quando a pessoa para de digitar
+      var tBusca;
+      document.addEventListener('input', function (e) {
+        var el = e.target;
+        if (!el || !el.matches || !el.matches('[data-search-input]')) return;
+        clearTimeout(tBusca);
+        tBusca = setTimeout(function () { var t = el.value.trim(); if (t.length >= 3) window.track('search', { search_term: t.slice(0, 100) }); }, 1500);
+      });
     </script>
 
     <script type="application/ld+json" set:html={JSON.stringify(graph).replace(/</g, '\\u003c')} />
