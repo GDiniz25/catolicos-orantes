@@ -1,0 +1,29 @@
+name: Instagram - baixar imagens
+on:
+  push:
+    branches: [instagram]
+    paths: ['insta/urls.txt']
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar
+        run: |
+          mkdir -p insta/img
+          while IFS='|' read -r nome url; do
+            [ -z "$nome" ] && continue
+            [ -f "insta/img/$nome.jpg" ] && continue
+            curl -sSfL -A "CatolicosOrantes/1.0" "$url" -o "insta/img/$nome.jpg" || echo "falhou $nome"
+          done < insta/urls.txt
+          ls -la insta/img | head -60
+      - name: Gravar
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add insta/img
+          git commit -m "Imagens do Instagram [skip ci]" || exit 0
+          git push
