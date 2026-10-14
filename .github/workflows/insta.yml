@@ -2,7 +2,7 @@ name: Instagram - baixar imagens
 on:
   push:
     branches: [instagram]
-    paths: ['insta/urls.txt']
+    paths: ['insta/urls.txt', 'insta/audios.txt']
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -20,10 +20,19 @@ jobs:
             curl -sSfL -A "CatolicosOrantes/1.0" "$url" -o "insta/img/$nome.jpg" || echo "falhou $nome"
           done < insta/urls.txt
           ls -la insta/img | head -60
+          mkdir -p insta/canto
+          while IFS='|' read -r nome arq; do
+            [ -z "$nome" ] && continue
+            [ -f "insta/canto/$nome.ogg" ] && continue
+            enc=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$arq")
+            curl -sSfL -A "CatolicosOrantes/1.0 (contato@catolicosorantes.com.br)" "https://commons.wikimedia.org/wiki/Special:FilePath/$enc" -o "insta/canto/$nome.ogg" || echo "falhou $nome"
+            sleep 1
+          done < insta/audios.txt
+          ls -la insta/canto
       - name: Gravar
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add insta/img
+          git add insta/img insta/canto
           git commit -m "Imagens do Instagram [skip ci]" || exit 0
           git push

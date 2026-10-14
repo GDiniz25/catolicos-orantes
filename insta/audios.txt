@@ -1,0 +1,10 @@
+salve_regina|Petits Chanteurs de Passy - Salve Regina de Hermann Contract.ogg
+ave_maria|Schola Gregoriana-Ave Maria.ogg
+kyrie|Schola Gregoriana-Kyrie eleison.ogg
+pange_lingua|Pange Lingua Latin in Latin.ogg
+tantum_ergo|Tantum Ergo I Gregorian.ogg
+ubi_caritas|Ubicaritas.ogg
+veni_creator|Veni.creator.spiritus.ogg
+veni_sancte|Veni.sancte.spiritus.ogg
+ut_queant|Johannes.Hymnus.ogg
+gloria|GloriaGregorianChant.ogg
