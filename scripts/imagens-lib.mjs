@@ -344,8 +344,18 @@ export async function buscarCommons(q, limite = 50) {
 }
 
 /** Texto de crédito exibido abaixo da imagem */
+/** Tira os marcadores do Wikidata (label QS:..., title QS:..., date QS:...) que vêm no texto do Commons */
+const semWikidata = (t = '') =>
+  t
+    .replace(/\s*(title|label) QS:[^,]+,([a-z-]+:)?("[^"]*"|"[^",]*)/g, '')
+    .replace(/\s*date QS:.*$/, '')
+    .replace(/\s*(title|label) QS:[A-Za-z0-9]*,?/g, '')
+    .replace(/^(English|French|German|Swedish|Dutch|Italian|Spanish|Polish|Portuguese|Latin|Czech|Catalan): /, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
 export function credito(c) {
-  const partes = [c.obra || c.arquivo.replace(/\.[a-z]+$/i, ''), c.artista, c.data].filter(Boolean);
+  const partes = [semWikidata(c.obra) || c.arquivo.replace(/\.[a-z]+$/i, ''), semWikidata(c.artista), semWikidata(c.data)].filter(Boolean);
   return `${partes.join(', ')}. Domínio público, via Wikimedia Commons.`;
 }
 
