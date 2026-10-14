@@ -1,190 +1,50 @@
 [
 {
-"id": "25",
-"q": [
-"Fra Angelico Last Judgement",
-"Fra Angelico Coronation Virgin",
-"Durer Landauer Altarpiece"
-],
-"n": 5,
-"slug": "a-intercessao-dos-santos-por-que-rezamos-aos-santos"
-},
-{
-"id": "53",
-"q": [
-"Pollaiolo Hope",
-"Giotto Hope Scrovegni",
-"Raphael Hope Vatican"
-],
-"n": 5,
-"slug": "virtude-da-esperanca"
-},
-{
-"id": "56",
-"q": [
-"Pollaiolo Justice",
-"Giotto Justice Scrovegni",
-"Raphael Justice Stanza"
-],
-"n": 5,
-"slug": "virtude-da-justica"
-},
-{
-"id": "57",
-"q": [
-"Pollaiolo Prudence",
-"Giotto Prudence Scrovegni",
-"Allegory of Prudence"
-],
-"n": 5,
-"slug": "virtude-da-prudencia"
-},
-{
-"id": "62",
-"q": [
-"Murillo Virgin of the Rosary",
-"Madonna of the Rosary",
-"Sassoferrato Rosary"
-],
-"n": 5,
-"slug": "como-ensinar-criancas-a-rezar-o-terco"
-},
-{
-"id": "74",
-"q": [
-"Sassoferrato Virgin in Prayer",
-"Murillo Immaculate Conception",
-"Sassoferrato Madonna"
-],
-"n": 5,
-"slug": "a-consagracao-a-nossa-senhora-segundo-sao-luis-de-montfort"
-},
-{
-"id": "82",
-"q": [
-"Czestochowa icon",
-"Black Madonna Czestochowa",
-"Jasna Gora icon"
-],
-"n": 5,
-"slug": "nossa-senhora-de-czestochowa-virgem-negra"
-},
-{
-"id": "85",
-"q": [
-"Lourdes apparition painting",
-"Bernadette Soubirous",
-"Notre-Dame de Lourdes"
-],
-"n": 5,
-"slug": "nossa-senhora-de-lourdes-e-as-curas-milagrosas"
-},
-{
 "id": "88",
 "q": [
-"Perpetual Help icon",
-"Perpetuo Soccorso",
-"Mother of Perpetual Help"
+"Our Lady of Perpetual Help",
+"Perpetuo Socorro",
+"Madonna del Perpetuo Soccorso"
 ],
 "n": 5,
 "slug": "nossa-senhora-do-perpetuo-socorro-historia-devocao"
 },
 {
-"id": "112",
+"id": "107",
 "q": [
-"Council of Trent painting",
-"Second Vatican Council",
-"Council of Trent"
+"Millet Gleaners",
+"Bruegel Hay Harvest",
+"Millet Sower"
 ],
 "n": 5,
-"slug": "sacrosanctum-concilium-a-reforma-da-liturgia"
-},
-{
-"id": "122",
-"q": [
-"Elevation of the Host painting",
-"Jaume Huguet consecration",
-"Mass Saint Martin painting"
-],
-"n": 5,
-"slug": "como-a-missa-e-dividida-estrutura-e-partes-explicadas"
+"slug": "populorum-progressio-desenvolvimento-povos"
 },
 {
 "id": "148",
 "q": [
-"Low Mass painting",
-"priest altar Mass painting",
-"Elevation Host"
+"Jaume Huguet",
+"Mass painting altar priest",
+"Elevation Host painting"
 ],
 "n": 5,
 "slug": "o-que-e-a-missa-tridentina-forma-extraordinaria"
 },
 {
-"id": "154",
-"q": [
-"Saint Clare painting",
-"Saint Benedict rule",
-"Zurbaran monks"
-],
-"n": 5,
-"slug": "o-que-e-a-vida-consagrada"
-},
-{
 "id": "157",
 "q": [
-"Domenichino Communion Jerome",
-"Last Communion of Saint Jerome",
-"Communion of Saint Lucy"
+"Communion Saint Lucy Tiepolo",
+"Last Communion Saint Francis",
+"Communion of the Apostles"
 ],
 "n": 5,
 "slug": "o-que-e-o-jejum-eucaristico-tempo-regras"
 },
 {
-"id": "159",
-"q": [
-"tabernacle church painting",
-"Eucharistic adoration painting",
-"monstrance painting"
-],
-"n": 5,
-"slug": "o-que-e-o-sacrario-e-por-que-a-lampada-fica-acesa"
-},
-{
-"id": "163",
-"q": [
-"Fra Angelico Saint Lawrence",
-"Saint Lawrence ordination",
-"Saint Lawrence deacon painting"
-],
-"n": 5,
-"slug": "o-que-e-um-acolito-qual-a-diferenca-para-coroinha"
-},
-{
-"id": "165",
-"q": [
-"Fra Angelico Saint Stephen",
-"Saint Stephen deacon painting",
-"Carpaccio Saint Stephen"
-],
-"n": 5,
-"slug": "o-que-e-um-diacono-permanente"
-},
-{
-"id": "167",
-"q": [
-"Carracci purgatory",
-"souls in purgatory painting",
-"Saint Gregory purgatory"
-],
-"n": 5,
-"slug": "o-que-sao-as-indulgencias-e-como-obte-las"
-},
-{
 "id": "172",
 "q": [
-"Giotto Renunciation",
 "Saint Francis renounces",
-"Giotto Saint Francis"
+"Sassetta Saint Francis",
+"Francis renunciation"
 ],
 "n": 5,
 "slug": "o-que-sao-os-votos-religiosos-pobreza-castidade-obediencia"
@@ -192,129 +52,59 @@
 {
 "id": "173",
 "q": [
-"Blessing of the palms painting",
-"woman rosary painting",
-"Benediction painting"
+"Benediction Blessed Sacrament",
+"blessing of the waters painting",
+"rosary painting"
 ],
 "n": 5,
 "slug": "o-que-sao-sacramentais"
 },
 {
-"id": "174",
+"id": "175",
 "q": [
-"Adoration Blessed Sacrament painting",
-"kneeling Eucharist painting",
-"adoration Eucharist"
+"Giotto Entry into Jerusalem",
+"Entry into Jerusalem painting",
+"Palm Sunday painting"
 ],
 "n": 5,
-"slug": "o-que-significa-genuflexao-e-quando-fazer"
-},
-{
-"id": "176",
-"q": [
-"Velazquez Christ crucified",
-"Zurbaran Crucifixion",
-"Rubens Crucifixion"
-],
-"n": 5,
-"slug": "o-que-significa-inri-na-cruz-de-jesus"
-},
-{
-"id": "178",
-"q": [
-"Pantocrator mosaic",
-"Christ Pantocrator Cefalu",
-"Pantocrator Monreale"
-],
-"n": 5,
-"slug": "o-que-significa-o-simbolo-alfa-e-omega"
+"slug": "o-que-significa-hosana-nas-alturas"
 },
 {
 "id": "183",
 "q": [
-"woman praying church painting",
-"Mass women veil painting",
-"church interior women praying"
+"mantilla church painting",
+"woman veil prayer painting",
+"Breton women Mass painting"
 ],
 "n": 5,
 "slug": "por-que-algumas-mulheres-usam-veu-na-missa"
 },
 {
-"id": "188",
+"id": "192",
 "q": [
-"holy water font",
-"holy water stoup",
-"benitier"
+"Salvator Mundi",
+"Christ blessing painting",
+"Saint Dominic blessing"
 ],
 "n": 5,
-"slug": "por-que-catolicos-usam-agua-benta"
+"slug": "por-que-fazemos-o-sinal-da-cruz"
 },
 {
 "id": "201",
 "q": [
-"Mass of Saint Giles",
-"elevation host painting",
-"Mass of Bolsena"
+"Elevation of the Host",
+"Consecration Mass painting",
+"Mass of Saint Hubert"
 ],
 "n": 5,
 "slug": "por-que-os-catolicos-se-ajoelham-durante-a-consagracao"
 },
 {
-"id": "202",
-"q": [
-"Saint Luke painting the Virgin",
-"Rogier Saint Luke Virgin",
-"Guercino Saint Luke"
-],
-"n": 5,
-"slug": "por-que-os-catolicos-tem-imagens-e-estatuas-nas-igrejas"
-},
-{
-"id": "211",
-"q": [
-"Fetti Melancholy",
-"Melancholy painting",
-"Domenico Fetti Melancholy"
-],
-"n": 5,
-"slug": "temperamento-melancolico"
-},
-{
-"id": "225",
-"q": [
-"confession painting",
-"confessional painting",
-"Confession Longhi"
-],
-"n": 5,
-"slug": "frequencia-da-confissao-orientacoes-praticas"
-},
-{
-"id": "226",
-"q": [
-"Titian Penitent Magdalene",
-"Penitent Magdalene painting",
-"Magdalene penitent"
-],
-"n": 5,
-"slug": "o-arrependimento-perfeito-e-imperfeito"
-},
-{
-"id": "231",
-"q": [
-"Nossa Senhora Aparecida",
-"Aparecida",
-"Basilica Aparecida"
-],
-"n": 5,
-"slug": "ladainha-de-nossa-senhora-aparecida"
-},
-{
 "id": "237",
 "q": [
-"Therese Lisieux",
-"Therese de Lisieux",
-"Sainte Therese Lisieux"
+"Thérèse Lisieux 1896",
+"Therese Lisieux portrait",
+"Sainte Thérèse Lisieux"
 ],
 "n": 5,
 "slug": "ladainha-de-santa-teresinha-do-menino-jesus"
@@ -322,177 +112,56 @@
 {
 "id": "246",
 "q": [
-"Grignion de Montfort",
-"Louis-Marie Grignion",
-"Montfort saint"
+"Saint Louis de Montfort",
+"Montfort",
+"Grignion"
 ],
 "n": 5,
 "slug": "ladainha-de-sao-luis-maria-grignion-de-montfort"
 },
 {
-"id": "250",
-"q": [
-"Durer Landauer",
-"Adoration of the Trinity Durer",
-"Fra Angelico Forerunners"
-],
-"n": 5,
-"slug": "ladainha-de-todos-os-santos-texto-completo-e-meditacao"
-},
-{
 "id": "255",
 "q": [
-"Book of Hours miniature",
-"Bening Book of Hours",
-"Hours of Catherine of Cleves"
+"Très Riches Heures",
+"Hours of Mary of Burgundy",
+"Book of Hours prayer miniature"
 ],
 "n": 5,
 "slug": "aplicativos-recursos-liturgia-horas"
 },
 {
-"id": "257",
-"q": [
-"monks choir painting",
-"Carthusians choir",
-"choir monks"
-],
-"n": 5,
-"slug": "como-montar-grupo-oracao-liturgia-das-horas"
-},
-{
-"id": "260",
-"q": [
-"Saint Benedict painting",
-"monks praying painting",
-"Gregorian chant manuscript"
-],
-"n": 5,
-"slug": "historia-e-origem-da-liturgia-das-horas"
-},
-{
 "id": "263",
 "q": [
-"three Hebrews furnace",
-"fiery furnace painting",
-"Song of Miriam"
+"fiery furnace",
+"three young men furnace",
+"Ananias Azarias Misael"
 ],
 "n": 5,
 "slug": "os-canticos-biblicos-na-liturgia-das-horas"
 },
 {
-"id": "284",
-"q": [
-"Lourdes grotto painting",
-"Bernadette Lourdes painting",
-"Lourdes apparition"
-],
-"n": 5,
-"slug": "novena-a-nossa-senhora-de-lourdes-pela-cura"
-},
-{
-"id": "313",
-"q": [
-"Angelus Millet",
-"morning prayer painting",
-"Prayer Greuze"
-],
-"n": 5,
-"slug": "oracao-da-manha-oferecimento-do-dia"
-},
-{
-"id": "317",
-"q": [
-"Council of Nicaea",
-"First Council of Nicaea",
-"Nicaea icon"
-],
-"n": 5,
-"slug": "oracao-do-credo-niceno-constantinopolitano"
-},
-{
-"id": "327",
-"q": [
-"evening prayer painting",
-"prayer candlelight painting",
-"Schalcken candle"
-],
-"n": 5,
-"slug": "oracoes-da-noite-e-exame-de-consciencia"
-},
-{
-"id": "337",
-"q": [
-"Extreme Unction painting",
-"Last Sacrament painting",
-"Viaticum painting"
-],
-"n": 5,
-"slug": "a-uncao-dos-enfermos-conforto-e-esperanca"
-},
-{
-"id": "339",
-"q": [
-"baptism church painting",
-"christening painting",
-"baptism godparents"
-],
-"n": 5,
-"slug": "como-escolher-padrinhos-de-batismo-requisitos-da-igreja"
-},
-{
 "id": "357",
 "q": [
-"Frei Galvao",
-"Antonio Galvao",
-"Antonio de Sant'Anna Galvao"
+"Frei Galvão",
+"Galvão santo",
+"Sant'Ana Galvão"
 ],
 "n": 5,
 "slug": "frei-galvao-primeiro-santo-brasileiro"
 },
 {
-"id": "369",
-"q": [
-"Faustina Kowalska",
-"Divine Mercy Hyla",
-"Divine Mercy painting"
-],
-"n": 5,
-"slug": "santa-faustina-e-a-divina-misericordia"
-},
-{
 "id": "370",
 "q": [
-"Gianna Beretta",
-"Beretta Molla"
+"Gianna Molla"
 ],
 "n": 5,
 "slug": "santa-gianna-beretta-molla-mae-e-medica"
 },
 {
-"id": "372",
-"q": [
-"Saint Agnes painting",
-"Sant'Agnese",
-"Agnes Andrea del Sarto"
-],
-"n": 5,
-"slug": "santa-ines-virgem-e-martir"
-},
-{
-"id": "374",
-"q": [
-"Margaret Mary Alacoque",
-"Marguerite-Marie Alacoque",
-"Alacoque Sacred Heart"
-],
-"n": 5,
-"slug": "santa-margarida-maria-alacoque-e-o-sagrado-coracao"
-},
-{
 "id": "379",
 "q": [
-"Mother Teresa",
-"Teresa Calcutta"
+"Mother Teresa 1985",
+"Teresa of Calcutta"
 ],
 "n": 5,
 "slug": "santa-teresa-de-calcuta-missionaria-da-caridade"
@@ -500,9 +169,9 @@
 {
 "id": "381",
 "q": [
-"Alphonsus Liguori",
-"Alfonso Maria de Liguori",
-"Sant'Alfonso"
+"Saint Alphonsus",
+"Alfonso de Liguori",
+"Alphonsus Maria de Liguori"
 ],
 "n": 5,
 "slug": "santo-afonso-maria-ligorio-doutor-moral"
@@ -510,39 +179,19 @@
 {
 "id": "387",
 "q": [
-"Saint Expeditus",
-"Expedito",
-"Sant'Espedito"
+"Saint Expedite",
+"San Expedito",
+"Expeditus"
 ],
 "n": 5,
 "slug": "santo-expedito-santo-das-causas-urgentes"
 },
 {
-"id": "395",
-"q": [
-"Camillus de Lellis",
-"Subleyras Camillus",
-"San Camillo"
-],
-"n": 5,
-"slug": "sao-camilo-de-lellis-patrono-dos-enfermeiros"
-},
-{
-"id": "403",
-"q": [
-"Gregory the Great painting",
-"Zurbaran Gregory",
-"Saint Gregory Pope painting"
-],
-"n": 5,
-"slug": "sao-gregorio-magno-papa-e-doutor"
-},
-{
 "id": "406",
 "q": [
-"Don Bosco",
-"John Bosco",
-"Giovanni Bosco"
+"Don Bosco 1880",
+"Giovanni Bosco portrait",
+"Bosco Turin"
 ],
 "n": 5,
 "slug": "sao-joao-bosco-pai-e-mestre-da-juventude"
@@ -550,9 +199,9 @@
 {
 "id": "408",
 "q": [
-"John of the Cross",
-"Juan de la Cruz",
-"San Juan de la Cruz"
+"Juan de la Cruz Zurbaran",
+"San Juan de la Cruz",
+"John of the Cross painting"
 ],
 "n": 5,
 "slug": "sao-joao-da-cruz-a-noite-escura-da-alma"
@@ -560,28 +209,19 @@
 {
 "id": "411",
 "q": [
-"Jean-Marie Vianney",
-"Cure d'Ars",
-"Vianney"
+"Curé d'Ars",
+"Jean-Baptiste-Marie Vianney",
+"Vianney portrait"
 ],
 "n": 5,
 "slug": "sao-joao-maria-vianney-cura-d-ars"
 },
 {
-"id": "417",
-"q": [
-"Josemaria Escriva",
-"Escriva"
-],
-"n": 5,
-"slug": "sao-josemaria-escriva-fundador-do-opus-dei"
-},
-{
 "id": "424",
 "q": [
-"Martin de Porres",
-"San Martin de Porres",
-"Martin Porres painting"
+"Martín de Porres",
+"San Martín de Porres",
+"Martin de Porres colonial"
 ],
 "n": 5,
 "slug": "sao-martin-de-porres-o-santo-da-vassoura"
@@ -589,29 +229,11 @@
 {
 "id": "426",
 "q": [
-"Maximilian Kolbe",
-"Kolbe"
+"Maksymilian Kolbe",
+"Kolbe 1936",
+"Kolbe Auschwitz"
 ],
 "n": 5,
 "slug": "sao-maximiliano-kolbe-martir-auschwitz"
-},
-{
-"id": "428",
-"q": [
-"Oscar Romero",
-"Romero"
-],
-"n": 5,
-"slug": "sao-oscar-romero-martir-da-justica"
-},
-{
-"id": "432",
-"q": [
-"Pius X",
-"Pope Pius X",
-"Giuseppe Sarto"
-],
-"n": 5,
-"slug": "sao-pio-x-o-papa-da-eucaristia"
 }
 ]
