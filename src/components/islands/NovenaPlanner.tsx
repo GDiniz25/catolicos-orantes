@@ -9,6 +9,9 @@ const hoje = () => new Intl.DateTimeFormat("en-CA", { timeZone: "America/Sao_Pau
 const parse = (s: string) => { const [y, m, d] = s.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d)); };
 const iso = (d: Date) => d.toISOString().slice(0, 10);
 const add = (d: Date, n: number) => new Date(d.getTime() + n * 86400000);
+const semAcento = (t: string) => t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+/** "no domingo", "na segunda" */
+const noNa = (s: string) => { const d = parse(s).getUTCDay(); return d === 0 || d === 6 ? "no" : "na"; };
 const ext = (s: string, ano = false) => { const d = parse(s); return `${SEM[d.getUTCDay()]}, ${d.getUTCDate()} de ${MESES[d.getUTCMonth()]}${ano ? ` de ${d.getUTCFullYear()}` : ""}`; };
 
 function festaNoAno(n: NovenaPlano, y: number): string | null {
@@ -34,7 +37,20 @@ function proximaFesta(n: NovenaPlano): string | null {
 const btn = "btn";
 
 export default function NovenaPlanner() {
-  const [id, setId] = useState(NOVENAS[0].id);
+  const [id, setId] = useState(() => {
+    try { const q = new URLSearchParams(location.search).get("novena"); if (q && NOVENAS.some((x) => x.id === q)) return q; } catch { /* sem URL */ }
+    return NOVENAS[0].id;
+  });
+  const [busca, setBusca] = useState("");
+  const [aberto, setAberto] = useState(false);
+  const [ativo, setAtivo] = useState(0);
+  // lista ordenada pela próxima festa; novenas sem data fixa no fim
+  const ordenadas = useMemo(() => NOVENAS.map((x) => ({ x, f: proximaFesta(x) })).sort((a, b) => (a.f ?? "9999").localeCompare(b.f ?? "9999")), []);
+  const opcoes = useMemo(() => {
+    const q = semAcento(busca.trim());
+    return q ? ordenadas.filter(({ x }) => semAcento(`${x.nome} ${x.festaNome}`).includes(q)) : ordenadas;
+  }, [busca, ordenadas]);
+  const escolher = (novo: string) => { setId(novo); setBusca(""); setAberto(false); setAtivo(0); };
   const [inicioLivre, setInicioLivre] = useState(hoje());
   const [hora, setHora] = useState("20:00");
   const [feitos, setFeitos] = useState<boolean[]>(Array(9).fill(false));
@@ -85,15 +101,39 @@ export default function NovenaPlanner() {
   return (
     <div className="space-y-6">
       <div className="grid gap-4 rounded-2xl border border-co-warm-sand-dark bg-white p-5 md:grid-cols-2 md:p-8">
-        <label className="flex min-w-0 flex-col gap-1.5 text-sm font-semibold md:col-span-2">Escolha a novena
-          <select value={id} onChange={(e) => setId(e.target.value)} className="h-12 w-full min-w-0 rounded-md border border-co-warm-sand-dark bg-white px-3 text-[16px] font-normal">
-            {NOVENAS.map((x) => <option key={x.id} value={x.id}>{x.nome}</option>)}
-          </select>
-        </label>
+        <div className="relative flex min-w-0 flex-col gap-1.5 text-sm font-semibold md:col-span-2">
+          <label htmlFor="busca-novena">Escolha a novena</label>
+          <input id="busca-novena" type="text" role="combobox" aria-expanded={aberto} aria-controls="lista-novenas" aria-autocomplete="list" autoComplete="off"
+            placeholder={n.nome} value={busca}
+            onChange={(e) => { setBusca(e.target.value); setAberto(true); setAtivo(0); }}
+            onFocus={() => setAberto(true)}
+            onBlur={() => setTimeout(() => setAberto(false), 150)}
+            onKeyDown={(e) => {
+              if (e.key === "ArrowDown") { e.preventDefault(); setAberto(true); setAtivo((a) => Math.min(a + 1, opcoes.length - 1)); }
+              else if (e.key === "ArrowUp") { e.preventDefault(); setAtivo((a) => Math.max(a - 1, 0)); }
+              else if (e.key === "Enter" && opcoes[ativo]) { e.preventDefault(); escolher(opcoes[ativo].x.id); }
+              else if (e.key === "Escape") setAberto(false);
+            }}
+            className="h-12 w-full min-w-0 rounded-md border border-co-warm-sand-dark bg-white px-3 text-[16px] font-normal placeholder:text-co-warm-brown" />
+          <span className="text-[13px] font-normal text-co-warm-brown/75">Digite o nome do santo ou de Nossa Senhora, ou escolha na lista.</span>
+          {aberto && (
+            <ul id="lista-novenas" role="listbox" className="absolute left-0 right-0 top-[4.6rem] z-20 max-h-80 overflow-y-auto rounded-md border border-co-warm-sand-dark bg-white py-1 font-normal shadow-lg">
+              {opcoes.length ? opcoes.map(({ x, f }, i) => (
+                <li key={x.id} role="option" aria-selected={x.id === id}
+                  onMouseDown={(e) => { e.preventDefault(); escolher(x.id); }}
+                  onMouseEnter={() => setAtivo(i)}
+                  className={`flex cursor-pointer items-baseline justify-between gap-3 px-3 py-2.5 text-[15px] ${i === ativo ? "bg-co-warm-cream" : ""} ${x.id === id ? "font-semibold" : ""}`}>
+                  <span className="min-w-0">{x.nome}</span>
+                  <span className="shrink-0 text-[13px] text-co-warm-brown/70">{f ? `${parse(f).getUTCDate()} de ${MESES[parse(f).getUTCMonth()]}` : "qualquer data"}</span>
+                </li>
+              )) : <li className="px-3 py-2.5 text-[15px] text-co-warm-brown/75">Nenhuma novena com esse nome. Tente outro termo.</li>}
+            </ul>
+          )}
+        </div>
         {festa ? (
           <div className="rounded-xl bg-co-warm-cream p-4 md:col-span-2">
             <p className="text-[15px]">A próxima festa de <strong>{n.festaNome}</strong> é {ext(festa, true)}.</p>
-            <p className="mt-1 font-display text-xl font-semibold leading-snug md:text-2xl">Comece no {ext(inicio)} e termine no {ext(dias[8])}.</p>
+            <p className="mt-1 font-display text-xl font-semibold leading-snug md:text-2xl">Comece {noNa(inicio)} {ext(inicio)} e termine {noNa(dias[8])} {ext(dias[8])}.</p>
           </div>
         ) : (
           <label className="flex min-w-0 flex-col gap-1.5 text-sm font-semibold">Esta novena não tem data fixa. Quando quer começar?
