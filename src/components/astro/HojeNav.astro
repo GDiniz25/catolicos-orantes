@@ -1,0 +1,31 @@
+---
+/**
+ * Menu "Hoje": liga as páginas diárias entre si (liturgia, Evangelho, santo, terço, Liturgia das Horas, versículo).
+ * Ajuda quem chega por uma delas e mostra ao Google que formam um conjunto atualizado todo dia.
+ * 8 itens: 4 por linha no computador e 2 por linha no celular, sempre simétrico.
+ */
+import { PAGINAS_HOJE, type PaginaHoje } from '@/lib/hoje';
+
+interface Props {
+  atual?: PaginaHoje;
+  class?: string;
+}
+const { atual, class: classe } = Astro.props;
+---
+<nav aria-label="Para rezar hoje" class:list={['hoje-nav', classe]}>
+  <p class="mb-2 text-sm font-semibold text-co-warm-brown/75">Para rezar hoje</p>
+  <ul class="grid grid-cols-2 gap-2 sm:grid-cols-4">
+    {PAGINAS_HOJE.map((p) => (
+      <li>
+        <a
+          href={p.href}
+          aria-current={p.id === atual ? 'page' : undefined}
+          class:list={[
+            'flex min-h-11 w-full items-center justify-center rounded-lg border px-3 py-2 text-center text-[15px] font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta',
+            p.id === atual ? 'border-co-warm-brown bg-co-warm-brown text-white' : 'border-co-warm-sand-dark bg-white text-co-warm-brown hover:border-co-warm-brown/40',
+          ]}
+        >{p.rotulo}</a>
+      </li>
+    ))}
+  </ul>
+</nav>
