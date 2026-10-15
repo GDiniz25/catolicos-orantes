@@ -33,15 +33,3 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/m_h_port4	3984x2826	CC BY-SA 3.0	Vicenç Salvador Torres Guerola	File:Port de Silla, 4.jpg
-   DESC: Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme de Silla i a 2 quilòmetres de la població, entre l'horta i l'arrossar. Històricament, durant el segle XIII, està acreditada l'activitat pesquera. Al port, a l'època del rei Jaume hi havia unes 60 embarcacions de pesca.
-   CATS: Boats at Albufera de València | CC-BY-SA-3.0 | Canals del Parc Natural de l'Albufera | Pictures by Vicenç Salvador Torres Guerola | Port de Silla | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_h_port3	3000x3712	CC BY-SA 3.0	Vicenç Salvador Torres Guerola	File:Port de Silla, 3.jpg
-   DESC: Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme de Silla i a 2 quilòmetres de la població, entre l'horta i l'arrossar. Històricament, durant el segle XIII, està acreditada l'activitat pesquera. Al port, a l'època del rei Jaume hi havia unes 60 embarcacions de pesca.
-   CATS: Boats at Albufera de València | CC-BY-SA-3.0 | Pictures by Vicenç Salvador Torres Guerola | Port de Silla | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_h_napoli	2048x1536	Public domain	MM	File:NapoliPanoramaDaSanMartino.jpg
-   DESC: Italia, regione Campania, Napoli, panorama del centro storico, con lo sfondo del Vesuvio, da presso la certosa di San Martino
-   CATS: Ambassador's Palace Hotel | PD-self | Self-published work | Taken with Nikon Coolpix 995 | Vesuvius from Naples (W) | Views of Naples from San Martino
-   LICURL:  USAGE: Public domain
