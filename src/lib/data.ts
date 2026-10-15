@@ -153,9 +153,14 @@ async function buscarLiturgia(date: string): Promise<LiturgiaData | null> {
   }
   try {
     const res = await fetch(`https://api-liturgia.edicoescnbb.com.br/contents/in/date/${date}`, {
-      headers: { Accept: 'application/json, text/plain, */*' },
+      // A API passou a responder só a pedidos vindos de sites autorizados (o navegador manda o Origin sozinho;
+      // no build, em Node, mandamos o do próprio site). Sem isso, a liturgia some do HTML e o Google vê a página vazia.
+      headers: { Accept: 'application/json, text/plain, */*', Origin: 'https://catolicosorantes.com.br', Referer: 'https://catolicosorantes.com.br/liturgia-diaria' },
     });
-    if (!res.ok) return null;
+    if (!res.ok) {
+      console.warn(`[liturgia] ${date}: API respondeu ${res.status}`);
+      return null;
+    }
     const json = await res.json();
     const content = json?.content as LiturgiaData | undefined;
     if (!content?.body) return null;
