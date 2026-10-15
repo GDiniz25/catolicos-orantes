@@ -33,82 +33,15 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/m_g_stiph	4813x6531	CC BY-SA 4.0	Johan Bakker	File:21455 Stiphout Oude toren.jpg
-   DESC: De Oude Toren te Stipthout
-   CATS: CC-BY-SA-4.0 | Images from Wiki Loves Monuments 2017 | Images from Wiki Loves Monuments 2017 in the Netherlands | Kerktoren Van der Brugghenstraat | Netherlands photographs taken on 2017-08-28 | Rijksmonumenten with known IDs | Self-published work | Uploaded via Campaign:wlm-nl
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_g_meer1	4280x2918	CC BY-SA 4.0	Zairon	File:Meerssen Basiliek van Het Heilig Sacrament 1.jpg
-   DESC: Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
-   CATS: CC-BY-SA-4.0 | Gable cross Sint-Bartholomeuskerk, Meerssen | Mei-den Meerssen | Self-published work | Sint-Bartholomeuskerk (Meerssen)
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_g_meer2	4570x3152	CC BY-SA 4.0	Zairon	File:Meerssen Basiliek van Het Heilig Sacrament 2.jpg
-   DESC: Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
-   CATS: CC-BY-SA-4.0 | Gable cross Sint-Bartholomeuskerk, Meerssen | Self-published work | Sint-Bartholomeuskerk (Meerssen)
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_g_bord1	3888x2592	CC BY-SA 3.0	Reinhardhauke	File:Bordeaux Sainte-Eulalie 163.JPG
-   DESC: Kirche Sainte-Eulalie in Bordeaux
-   CATS: CC-BY-SA-3.0 | Files by User:GFreihalter/Bordeaux | Files by User:GFreihalter/Frankreich 2013 | Self-published work | Taken with Canon EOS 1000D | Église Sainte-Eulalie de Bordeaux
+OK	fr/m_h_port4	3984x2826	CC BY-SA 3.0	Vicenç Salvador Torres Guerola	File:Port de Silla, 4.jpg
+   DESC: Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme de Silla i a 2 quilòmetres de la població, entre l'horta i l'arrossar. Històricament, durant el segle XIII, està acreditada l'activitat pesquera. Al port, a l'època del rei Jaume hi havia unes 60 embarcacions de pesca.
+   CATS: Boats at Albufera de València | CC-BY-SA-3.0 | Canals del Parc Natural de l'Albufera | Pictures by Vicenç Salvador Torres Guerola | Port de Silla | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_g_bord2	2448x3264	CC BY-SA 3.0	User:Symac	File:Église Sainte-Eulalie 1.jpg
-   DESC: Vue d'ensemble de l'église Sainte-Eulalie à Bordeaux
-   CATS: CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | License migration redundant | Self-published work | Taken with Canon PowerShot G9 | Église Sainte-Eulalie de Bordeaux
+OK	fr/m_h_port3	3000x3712	CC BY-SA 3.0	Vicenç Salvador Torres Guerola	File:Port de Silla, 3.jpg
+   DESC: Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme de Silla i a 2 quilòmetres de la població, entre l'horta i l'arrossar. Històricament, durant el segle XIII, està acreditada l'activitat pesquera. Al port, a l'època del rei Jaume hi havia unes 60 embarcacions de pesca.
+   CATS: Boats at Albufera de València | CC-BY-SA-3.0 | Pictures by Vicenç Salvador Torres Guerola | Port de Silla | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_g_cava	2272x1704	CC BY 3.0	Andrea Durante (Cavajuolo)	File:Cava de' Tirreni - Chiesa della Madonna dell'Olmo.jpg
-   DESC: Cava de' Tirreni - Chiesa della Madonna dell'Olmo
-   CATS: CC-BY-3.0 | Madonna dell'Olmo (Cava de' Tirreni) | Self-published work | Taken with Canon PowerShot A85
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/m_g_silla2	2736x3648	CC BY-SA 3.0	B25es	File:Torre de Silla 02.JPG
-   DESC: Torre musulmana de Silla, España.
-   CATS: CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | Self-published work | Taken with Fujifilm FinePix S1500 | Torre de Silla
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_g_silla3	3648x2736	CC BY-SA 3.0	B25es	File:Torre de Silla 03.JPG
-   DESC: Torre musulmana de Silla, España.
-   CATS: CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | Self-published work | Taken with Fujifilm FinePix S1500 | Torre de Silla
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_g_silla4	2736x3648	CC BY-SA 3.0	B25es	File:Torre de Silla 04.JPG
-   DESC: Torre musulmana de Silla, España.
-   CATS: CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | Self-published work | Taken with Fujifilm FinePix S1500 | Torre de Silla
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_g_silla7	2736x3648	CC BY-SA 3.0	B25es	File:Silla Valencia 07.JPG
-   DESC: Edificio en la Plaza del Pueblo. Silla, España.
-   CATS: 2012 in the province of Valencia | Buildings in Silla | Buildings in the Land of Valencia photographed in 2012 | CC-BY-SA-3.0 | December 2012 in the Land of Valencia | Houses in Horta Sud | Self-published work | Taken with Fujifilm FinePix S1500
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-### Napoli panorama golfo Vesuvio
-5271x1358	Public domain	File:Colli di Fontanelle - Panorama.jpg	| I Colli di Fontanelle sono una frazione di Sant'Agnello, in provincia di Napoli, ubicata sulle colline della Penisola Sorrentina, a poco più
-5271x1358	CC BY 2.5	File:Colli di Fontanelle - Panorama Nord.jpg	| I Colli di Fontanelle sono una frazione di Sant'Agnello, in provincia di Napoli, ubicata sulle colline della Penisola Sorrentina, a poco più
-4019x2237	CC BY-SA 4.0	File:Sorrento, Villa Silvana .jpg	| Panorama mozzafiato da dove è possibile ammirare l'incantevole Golfo di Napoli e l'imponente Vesuvio. Le terrazze si sviluppano su tre livel
-1495x1879	Public domain	File:Atti di Accademia di archeologia, lettere e belle arti (IA gri 33125000923561).pdf	| Library's copy of nuova serie, v. 11 (1930) is imperfect; lacks p. 129-160 of parte seconda Subjects: Classical antiquities; Archaeology
-1220x1625	Public domain	File:I Campi Flegrei (IA gri 33125003016975).pdf	| Subjects: Art
-1708x2441	Public domain	File:L'Etna (IA letna00delo).pdf	| Subjects: Art
-1022x1437	Public domain	File:L'Isola di Capri (IA lisoladicapri00petr 0).pdf	| Subjects: Art
-1300x2054	Public domain	File:Prosa moderna - letture ad uso delle scuole secondarie (IA prosamodernalett01vite).pdf	| volumes ; 21 cm Subjects: Italian poetry
-2639x3597	Public domain	File:La Stampa (1868-11-06) (IA lastampa 1868-11-06).pdf	| Numero intero del giorno 1868-11-06 dall'archivio storico La Stampa. Subjects: newspapers; giornali; La Stampa; Archivio Storico La Stampa
-5152x3864	Public domain	File:Angular balcony of Gabriele D'Annunzio - Carthusian monastery and museum of San Martino in Naples (26315987418).jpg	| LA BALCONATA DI GABRIELE D'ANNUNZIO. Nel 1891 Gabriele D'Annunzio scrive l'elegia "Nella certosa di San Martino in Napoli", facente parte de
-1493x2058	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 177 (1898) (IA IlFriuli-177 1898).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
-1645x2208	Public domain	File:Il Paese - organo della Democrazia friulana n. 167 (1912) (IA IlPaese-167-1912).pdf	| Il Paese - organo della democrazia friulana Subjects: Friuli; Periodico
-4501x2531	CC BY-SA 4.0	File:Pizzo San Michele.jpg	| Parte del panorama visibile dal Pizzo di San Michele. Si può notare la valle dell'Irno, i monti Lattari, il Vesuvio e il Golfo di Napoli.
-1250x1797	Public domain	File:Il buon cuore - Anno XIII, n. 27 - 4 luglio 1914.pdf	| 
-1455x855	CC BY-SA 4.0	File:Napoli vista dall'alto. 0009.jpg	| La città di Napoli fotografata dall'alto. Il panorama.
-### Napoli centro storico panorama
-2048x1536	Public domain	File:NapoliPanoramaDaSanMartino.jpg	| Italia, regione Campania, Napoli, panorama del centro storico, con lo sfondo del Vesuvio, da presso la certosa di San Martino
-2008x2835	CC BY 3.0	File:Delle Donne - Burocrazia e fisco a Napoli, 2012.djvu	| 
-1495x1879	Public domain	File:Atti di Accademia di archeologia, lettere e belle arti (IA gri 33125000923561).pdf	| Library's copy of nuova serie, v. 11 (1930) is imperfect; lacks p. 129-160 of parte seconda Subjects: Classical antiquities; Archaeology
-1302x1889	Public domain	File:Il Buonarroti (IA ilbuonarroti1318unse).pdf	| v. : 27 cm "Scritti sopra le arti e le lettere raccolti per cura di Benvenuto Gasparoni." Imprint varies Editor: v. 1 (gennaio/luglio 1866)-
-1362x1879	Public domain	File:Relazione dei tremuoti di Basilicata del 1851 (IA relazionedeitrem00paci).pdf	| pta. 1a -- Relazione dei tremuoti di Basilicata del 1851 / pte. 2a -- Compilazione officiale / pte. 3a -- Breve narrazione dei tremuoti di c
-1089x1522	Public domain	File:Trento (IA trento00fogo).pdf	| Author's name at head of title Subjects: Art
-1266x1708	Public domain	File:All'oasi di Giove Ammone.pdf	| To the oasis of Jupiter Ammon. Luigi Robecchi Bricchetti's trip to Egypt
-1239x1754	Public domain	File:La Domenica della Gazzetta n 12-1918 (IA LaDomenicadellaGazzettan12-1918).pdf	| Giunta domenicale al Friuli - periodico storico friulano Subjects: Friuli; Periodico; Giunta domenicale al Friuli
-4883x6891	Public domain	File:La Patria del Friuli 1904-04-07 (IA LaPatriadelFriuli1904-098).pdf	| La Patria del Friuli - Quotidiano storico del Friuli Subjects: Friuli; Quotidiano; newspaper
-4883x6891	Public domain	File:La Patria del Friuli 1904-05-13 (IA LaPatriadelFriuli1904-134).pdf	| La Patria del Friuli - Quotidiano storico del Friuli Subjects: Friuli; Quotidiano; newspaper
-4883x6891	Public domain	File:La Patria del Friuli 1905-03-15 (IA LaPatriadelFriuli1905-074).pdf	| La Patria del Friuli - Quotidiano storico del Friuli Subjects: Friuli; Quotidiano; newspaper
-4883x6891	Public domain	File:La Patria del Friuli 1905-04-11 (IA LaPatriadelFriuli1905-101).pdf	| La Patria del Friuli - Quotidiano storico del Friuli Subjects: Friuli; Quotidiano; newspaper
-4883x6891	Public domain	File:La Patria del Friuli 1905-07-31 (IA LaPatriadelFriuli1905-212).pdf	| La Patria del Friuli - Quotidiano storico del Friuli Subjects: Friuli; Quotidiano; newspaper
-2963x3883	CC BY-SA 4.0	File:Ars et Labor, 1908 vol. I.djvu	| Ars et Labor, 1908 vol. I
-3003x4097	CC BY-SA 4.0	File:Rivista Minima, 1873.djvu	| Rivista Minima, 1873
-1455x855	CC BY-SA 4.0	File:Napoli vista dall'alto. 0009.jpg	| La città di Napoli fotografata dall'alto. Il panorama.
-2832x3778	CC BY-SA 4.0	File:Ricordiana, 1957.djvu	| Ricordiana, 1957
-2708x3698	CC BY-SA 4.0	File:Musica d'Oggi, 1958.djvu	| Musica d'Oggi, 1958
-2685x3779	CC BY-SA 4.0	File:Musica d'Oggi, 1964.djvu	| Musica d'Oggi, 1964
-### Immacolata Capodichino
-1500x2000	CC BY-SA 3.0	File:Immacolata Capodichino.jpg	| Chiesa dell'Immacolata a Capodichino (Napoli)
-1435x2258	Public domain	File:Poliorama pittoresco (IA polioramapittore16unse).pdf	| 19 v. : 30 cm First 13 issues of t. 1 lack vol. designation Subjects:
+OK	fr/m_h_napoli	2048x1536	Public domain	MM	File:NapoliPanoramaDaSanMartino.jpg
+   DESC: Italia, regione Campania, Napoli, panorama del centro storico, con lo sfondo del Vesuvio, da presso la certosa di San Martino
+   CATS: Ambassador's Palace Hotel | PD-self | Self-published work | Taken with Nikon Coolpix 995 | Vesuvius from Naples (W) | Views of Naples from San Martino
+   LICURL:  USAGE: Public domain
