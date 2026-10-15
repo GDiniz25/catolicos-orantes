@@ -1,7 +1,6 @@
 OK	ladainhas/ladainha-da-humildade	3000x1466	Public domain	Jacopo Tintoretto	File:Jacopo Tintoretto - Christ washing the Feet of the Disciples - Google Art Project.jpg
 OK	ladainhas/ladainha-da-humildade#reserva	6935x3404	Public domain	Jacopo Tintoretto	File:Tintoretto, Jacopo - Christ washing the Feet of the Disciples - National Gallery London.jpg
-OK	ladainhas/ladainha-do-espirito-santo	4285x4134	Public domain	
-Bohemian Master (1400 - 1425) – Artist 	File:Bohemian Master - The Pentecost - Google Art Project.jpg
+OK	ladainhas/ladainha-do-espirito-santo	4285x4134	Public domain	Bohemian Master (1400 - 1425) – Artist D	File:Bohemian Master - The Pentecost - Google Art Project.jpg
 OK	ladainhas/ladainha-do-espirito-santo#reserva	3456x5184	CC BY-SA 4.0	José Luiz	File:Pentecost, by Titian (1546) - Santa Maria della Salute - Venice 2016.jpg
 OK	ladainhas/ladainha-de-santa-luzia	1902x2001	Public domain	Lorenzo Lotto	File:Lorenzo Lotto - Pala di Santa Lucia (Pinacoteca Civica, Jesi).jpg
 OK	ladainhas/ladainha-de-santa-luzia#reserva	720x1040	Public domain	Domenico Beccafumi	File:Saint Lucy by Domenico di Pace Beccafumi.jpg
@@ -13,8 +12,708 @@ OK	ladainhas/ladainha-do-anjo-da-guarda	694x1100	Public domain	Pietro da Cortona
 OK	ladainhas/ladainha-do-anjo-da-guarda#reserva	768x1009	Public domain	Workshop of Domenichino	File:Domenichino Guardian angel.jpg
 OK	ladainhas/ladainha-de-todos-os-santos-texto-completo-e-meditacao	4969x5434	Public domain	Albrecht Dürer	File:Albrecht Dürer - Adoration of the Trinity (Landauer Altar) - Google Art Project.jpg
 OK	ladainhas/ladainha-de-todos-os-santos-texto-completo-e-meditacao#reserva	1012x436	Public domain	Fra Angelico	File:Beato angelico, predella della pala di fiesole 01.jpg
-OK	ladainhas/ladainha-de-santo-expedito	5080x6895	CC BY 4.0	undefined	File:Saint Expeditus. Oil painting by a painter of Palermo, 19th Wellcome L0027951.jpg
+OK	ladainhas/ladainha-de-santo-expedito	5080x6895	CC BY 4.0		File:Saint Expeditus. Oil painting by a painter of Palermo, 19th Wellcome L0027951.jpg
 OK	ladainhas/ladainha-de-santo-expedito#reserva	630x809	Public domain	Unknown authorUnknown author	File:San Expedito circa 1781.jpg
 OK	ladainhas/ladainha-de-sao-jorge	4152x5454	Public domain	Raphael	File:Raphael - Saint George and the Dragon - Google Art Project.jpg
 OK	ladainhas/ladainha-de-sao-jorge#reserva	3181x5062	Public domain	Paolo Uccello	File:Paolo Uccello - St George slaying the dragon - Google Art Project.jpg
 OK	x#lotto	1902x2001	Public domain	Lorenzo Lotto	File:Lorenzo Lotto 004.jpg
+### Santarém Igreja do Santíssimo Milagre
+2592x3872	CC BY-SA 3.0	File:Santarém - Igreja de Santo Estêvão.jpg	| Church of Santo Estevão or Church if the Most Hly Miracle of Santarém and little stairs of the Most Holy Miracle of Santarém
+1280x959	CC BY-SA 2.0	File:Santarém - Portugal (2476137607).jpg	| &lt;a href='http://loc.alize.us/#/flickr:2476137607'&gt;See where this picture was taken.&lt;/a&gt; &lt;a href='https://www.flickr.com/group
+1239x1475	CC BY 4.0	File:Relíquias sagradas e a construção do território cristão na Idade Moderna, Anais do Museu Paulista.pdf	| 
+2592x1944	CC BY-SA 4.0	File:Igreja do Santíssimo Milagre 01.jpg	| Church of Saint Stephen (Santarém) / Sanctuary of the Most Holy Miracle of Santarém
+1606x2142	CC BY-SA 4.0	File:Interior of Igreja de Santo Estêvão (Santo Milagre), Santarém 02.jpg	| Igreja de Santo Estêvão, ou do Santo Milagre, em Santarém
+1900x2533	CC BY-SA 4.0	File:Pintura, Igreja de Santo Estêvão (Santo Milagre), Santarém 03.jpg	| Pintura na Igreja de Santo Estêvão, ou do Santo Milagre, em Santarém
+1865x1399	CC BY-SA 4.0	File:Interior of Igreja de Santo Estêvão (Santo Milagre), Santarém 01.jpg	| Igreja de Santo Estêvão, ou do Santo Milagre, em Santarém
+2048x1568	CC BY-SA 2.0	File:Igreja do Santíssimo Milagre - Santarém - Portugal (53287770369).jpg	| A Igreja do Santíssimo Milagre situa-se num dos locais mais antigos do burgo escalabitano. Esta antiguidade é atestada pelas características
+2048x1330	CC BY-SA 2.0	File:Igreja do Santíssimo Milagre - Santarém - Portugal (53287770329).jpg	| A Igreja do Santíssimo Milagre situa-se num dos locais mais antigos do burgo escalabitano. Esta antiguidade é atestada pelas características
+1536x2048	CC BY-SA 2.0	File:Igreja do Santíssimo Milagre - Santarém - Portugal (53287770359).jpg	| A Igreja do Santíssimo Milagre situa-se num dos locais mais antigos do burgo escalabitano. Esta antiguidade é atestada pelas características
+1365x2048	CC BY-SA 2.0	File:Igreja do Santíssimo Milagre - Santarém - Portugal (53359416854).jpg	| A Igreja do Santíssimo Milagre situa-se num dos locais mais antigos do burgo escalabitano. Esta antiguidade é atestada pelas características
+1325x2048	CC BY-SA 2.0	File:Igreja do Santíssimo Milagre - Santarém - Portugal (53359545485).jpg	| A Igreja do Santíssimo Milagre situa-se num dos locais mais antigos do burgo escalabitano. Esta antiguidade é atestada pelas características
+1350x2048	CC BY-SA 2.0	File:Igreja do Santíssimo Milagre - Santarém - Portugal (53359545500).jpg	| A Igreja do Santíssimo Milagre situa-se num dos locais mais antigos do burgo escalabitano. Esta antiguidade é atestada pelas características
+3000x4000	CC BY-SA 4.0	File:Fachada principal da Igreja de Santo Estêvão (Santo Milagre).jpg	| Fachada principal da Igreja de Santo Estêvão (Santo Milagre)
+3000x4000	CC BY-SA 4.0	File:Fachada direita da Igreja de Santo Estêvão (Santo Milagre).jpg	| Fachada direita da Igreja de Santo Estêvão (Santo Milagre)
+3000x4000	CC BY-SA 4.0	File:Fachada principal e esquerda da Igreja de Santo Estêvão (Santo Milagre).jpg	| Fachada principal e esquerda da Igreja de Santo Estêvão (Santo Milagre)
+3000x4000	CC BY-SA 4.0	File:Enquadramento da Igreja de Santo Estêvão (Santo Milagre).jpg	| Enquadramento da Igreja de Santo Estêvão (Santo Milagre)
+3000x4000	CC BY-SA 4.0	File:Fachada esquerda com coruchéu visível da Igreja de Santo Estêvão (Santo Milagre).jpg	| Fachada esquerda com coruchéu visível da Igreja de Santo Estêvão (Santo Milagre)
+3000x4000	CC BY-SA 4.0	File:Vista aproximada para volume com sinos da Igreja de Santo Estêvão (Santo Milagre).jpg	| Vista aproximada para volume com sinos da Igreja de Santo Estêvão (Santo Milagre)
+3000x4000	CC BY-SA 4.0	File:Fachada direita e coruchéu da Igreja de Santo Estêvão (Santo Milagre).jpg	| Fachada direita e coruchéu da Igreja de Santo Estêvão (Santo Milagre)
+1366x768	CC BY 3.0	File:Santuário do Santíssimo Milagre, Santarém.png	| Interior of Igreja de Santo Estêvão, Santarém
+### Santissimo Milagre Santarém relicário
+1239x1475	CC BY 4.0	File:Relíquias sagradas e a construção do território cristão na Idade Moderna, Anais do Museu Paulista.pdf	| 
+### Lanciano miracolo eucaristico
+1179x1536	Public domain	File:Miracolo Eucaristico di Lanciano - foto dal vivo.JPG	| Eucharistic miracle of Lanciano - live photo.JPG Photo taken by me, with flash, as I passed in front of the blind. More photo details by cli
+2048x1536	Public domain	File:Eucharistic Miracle of Lanciano - rear-lighted panel - side.JPG	| Eucharistic Miracle of Lanciano - rear-lighted panel - side.JPG Made by myself. The panel is public for all visitors.
+2576x1952	Public domain	File:Eucharistic Miracle of Lanciano - rear-lighted panel - front.JPG	| Eucharistic Miracle of Lanciano - rear-lighted panel - front.JPG Made by myself. The panel is public for all visitors.
+1520x2040	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 18 novembre 1970.JPG	| Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 18 novembre 1970.JPG Made by myself. The panel is public
+1512x2028	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 4 marzo 1971.JPG	| Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 4 marzo 1971.JPG Made by myself. The panel is public for
+1528x2036	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - Ruggero Bertelli.JPG	| Eucharistic Miracle of Lanciano - public documentation - Ruggero Bertelli.JPG Made by myself. The panel is public for all visitors.
+1936x2564	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - L'Osservatore Romano.JPG	| Eucharistic Miracle of Lanciano - public documentation - L'Osservatore Romano Made by myself. The panel is public for all visitors.
+1150x1012	Public domain	File:Santuario Miracolo Eucaristico Lanciano.JPG	| The interior of the church of St. Francis in Lanciano, province of Chieti, Abruzzo
+2592x3888	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco, altare del miracolo eucaristico.JPG	| altare del miracolo eucaristico nella Chiesa di San Francesco a Lanciano
+2592x3888	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco, altare del miracolo eucaristico 01.JPG	| altare del miracolo eucaristico nella Chiesa di San Francesco a Lanciano
+3732x2587	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco 01.jpg	| Chiesa di San Francesco a Lanciano
+4000x3000	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco 02.jpg	| Lanciano - Chiesa di San Francesco
+3000x4000	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco 05.jpg	| Lanciano - Chiesa di San Francesco
+3000x4000	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco 10.jpg	| Lanciano - Chiesa di San Francesco
+3000x4000	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco 17.jpg	| Lanciano - Chiesa di San Francesco
+3000x4000	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco 18.jpg	| Lanciano - Chiesa di San Francesco
+3000x4000	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco 21.jpg	| Lanciano - Chiesa di San Francesco
+4896x3672	CC BY-SA 4.0	File:Lanciano, chiesa di San Francesco 02.jpg	| Lanciano (Abruzzo, Italy), Saint Francis church
+3672x4896	CC BY-SA 4.0	File:Lanciano, chiesa di San Francesco 01.jpg	| Lanciano (Abruzzo, Italy), Saint Francis church
+4896x3672	CC BY-SA 4.0	File:Lanciano, convento di San Francesco - Resti della chiesa altomedievale 02.jpg	| Lanciano (Abruzzo, Italy), Saint Francis convent - Remains of the medieval church where the eucharistic miracle took place
+4896x3672	CC BY-SA 4.0	File:Lanciano, convento di San Francesco - Resti della chiesa altomedievale 01.jpg	| Lanciano (Abruzzo, Italy), Saint Francis convent - Remains of the medieval church where the eucharistic miracle took place
+2658x3544	CC BY-SA 4.0	File:Lanciano, convento di San Francesco - Resti della chiesa altomedievale - Targa.jpg	| Lanciano (Abruzzo, Italy), Saint Francis convent - Remains of the medieval church where the eucharistic miracle took place - Plaque
+3672x4896	CC BY-SA 4.0	File:Lanciano, chiesa di San Francesco - Altare del miracolo eucaristico.jpg	| Lanciano (Abruzzo, Italy), Saint Francis church - Altar of the eucharistic miracle
+3406x4540	CC BY-SA 4.0	File:Lanciano, chiesa di San Francesco - Pulpito.jpg	| Lanciano (Abruzzo, Italy), Saint Francis church - Pulpit
+### Lanciano reliquia
+2216x3762	Public domain	File:Saggio sulla felicità.djvu	| 
+1045x1500	Public domain	File:Oreficerie, stoffe, bronzi intagli, & all'Esposizione di Arte Sacra in Orvieto (IA gri 33125011094188).pdf	| xii, 45 p., 22 leaves of plates (some folded) : 45 cm Subjects: Christian art and symbolism -- Italy -- Exhibitions; Art objects -- Italy --
+2643x3566	Public domain	File:La Stampa (1869-03-07) (IA lastampa 1869-03-07).pdf	| Numero intero del giorno 1869-03-07 dall'archivio storico La Stampa. Subjects: newspapers; giornali; La Stampa; Archivio Storico La Stampa
+1158x1635	Public domain	File:Chronologia hospitalaria, y resumen historical de la sagrada religion del glorioso patriarca San Juan de Dios - aprobada por San Pio Quinto, y confirmada por Sisto Quinto, Paulo Quinto (IA ChronologiaHospitalaria).pdf	| Chronologia Hospitalaria Y Resumen Historical De La Sagrada Religion Del Glorioso Patriarca San Juan De Dios 1716 Vol. 1: [22], 578, [14] p.
+1375x2006	Public domain	File:Il Cittadino Italiano n 261-1886 (IA CittadinoItaliano1889-2282).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1393x1985	Public domain	File:Il Cittadino Italiano n 142-1889 (IA CittadinoItaliano1891-635).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+4643x6246	Public domain	File:Turco - Oro e orpello.djvu	| "Oro e orpello" is a short story written by Jacopo Turco, alias of the Italian writer Giulia Turcati Lazzari (1848-1912). The short story wa
+### Siena San Francesco ostie
+2046x3419	Public domain	File:Hoefer - Biographie, Tome 39.djvu	| Dictionnaire biographique
+1914x2982	Public domain	File:Alfieri - Rime scelte, Sansoni, 1912.djvu	| 
+1366x1922	Public domain	File:Il Cittadino Italiano n 102-1885 (IA CittadinoItaliano1887-57).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1366x1981	Public domain	File:Il Cittadino Italiano n 45-1886 (IA CittadinoItaliano1888-2967).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1500x2083	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 266 (1899) (IA IlFriuli-266 1899).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1493x2031	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 83 (1896) (IA IlFriuli-83 1896).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1472x2077	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 146 (1892) (IA IlFriuli 146 1892).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1518x2085	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 296 (1903) (IA IlFriuli 296-1903).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1508x2147	Public domain	File:Il Nuovo Friuli - organo Partito progressista 232 (1877) (IA IlNuovoFriuli-232-1877).pdf	| Il Nuovo Friuli - organo Partito progressista Subjects: Friuli; Periodico; Il Nuovo Friuli
+1458x2129	Public domain	File:La Nostra Bandiera 44 (1915) (IA LaNostraBandiera44-1915).pdf	| La Nostra Bandiera - Propugna l'educazione e l'organizzazione cristiana della gioventu e della classe lavoratrice Subjects: Friuli; Periodic
+4883x6891	Public domain	File:La Patria del Friuli 1905-05-27 (IA LaPatriadelFriuli1905-147).pdf	| La Patria del Friuli - Quotidiano storico del Friuli Subjects: Friuli; Quotidiano; newspaper
+### Basilica di San Francesco Siena interno
+1024x681	CC BY 2.0	File:Interno san domenico di siena.jpg	| see abovesee above
+2800x2000	Public domain	File:Principali monumenti della città e provincia di Bergamo.djvu	| Scansione del libro Principali monumenti della città e provincia di Bergamo
+3528x5320	CC BY 3.0	File:Siena, san francesco, interno, altare nel transetto 02 statua di santa, forse orsola.jpg	| Basilica of San Francesco (Siena)
+1668x2548	CC BY 3.0	File:Siena, san francesco, interno, portale laterale di francesco di giorgio martini.jpg	| Basilica of San Francesco (Siena)
+1964x1880	CC BY 3.0	File:Siena, san francesco, interno, resti di una tomba gotica, xiv secolo.jpg	| Basilica of San Francesco (Siena)
+1312x2848	CC BY 3.0	File:Siena, san francesco, interno, statua di santo vescovo.jpg	| Basilica of San Francesco (Siena)
+1025x1450	Public domain	File:Atti dell'imp. regia Accademia di belle arti in Milano per la distribuzione de' premi .. (IA attidellimpregia1876acca).pdf	| Form of name of the Accademia in the title varies slightly Publisher varies Subjects: Art, Italian
+1008x1466	Public domain	File:Cento disegni di architettura d'ornato e di figure di Frà Giovanni Giocondo (IA centodisegnidiar00geym).pdf	| Subjects: Giocondo, Giovanni, approximately 1433-1515
+1160x1593	Public domain	File:Esequie dell' Altezza Reale la serenissima donna Isabella di Borbone, infanta di Spagna, arciduchessa d'Austria , celebrate in Firenze nell' imperial basilica di San Lorenzo (IA esequiedellaltez00ruce).pdf	| Binding: modern decorated paper wrappers Subjects: Isabella, of Parma, consort of Joseph II, Holy Roman Emperor, 1741-1763; Funeral rites an
+1477x1885	Public domain	File:Atti di Accademia di archeologia, lettere e belle arti (IA gri 33125000923421).pdf	| Library's copy of nuova serie, v. 11 (1930) is imperfect; lacks p. 129-160 of parte seconda Subjects: Classical antiquities; Archaeology
+1175x1545	Public domain	File:L'Album; giornale letterario e di belle arti (IA lalbumgiornalele09unse).pdf	| Subjects: Literature; Art
+1179x1550	Public domain	File:L'Album; giornale letterario e di belle arti (IA lalbumgiornalele16unse).pdf	| Subjects: Literature; Art
+1241x1664	Public domain	File:L'Album; giornale letterario e di belle arti (IA lalbumgiornalele22unse).pdf	| Subjects: Literature; Art
+1102x1558	Public domain	File:Reminiscenze di storia ed arte nel suburbio e nella città di Milano (IA reminiscenzedist02fuma 0).pdf	| pt. 1. Il suburbio -- pt. 2. La città -- pt. 3. Città e suburbio Subjects: Art, Italian; Architecture
+4065x5125	CC BY-SA 4.0	File:Gazzetta Musicale di Milano, 1895 vol. II.djvu	| Gazzetta Musicale di Milano, 1895 vol. II
+4046x5146	CC BY-SA 4.0	File:Gazzetta Musicale di Milano, 1902 vol. I.djvu	| Gazzetta Musicale di Milano, 1902 vol. I
+2816x3304	CC BY-SA 4.0	File:Siena, s.m. dei servi, interno, stemma terragno gentili, 1765.jpg	| basilica di San Clemente in Santa Maria dei Servi This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+2874x3661	CC BY-SA 4.0	File:Siena, s.m. dei servi, interno, sagrestia, stucchi del xviii secolo, busto del beato francesco patrizi.jpg	| basilica di San Clemente in Santa Maria dei Servi This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+5117x3786	CC BY 4.0	File:Siena Basilica di San Clemente in Santa Maria dei Servi Interno Transetto Sud-Ovest Affresco.jpg	| a Fresco at the South West Transept of the Basilica of St. Clement in St. Mary dei Servi, Siena, Province of Siena, Region of Tuscany, Italy
+### Bolsena Santa Cristina basilica
+1920x2560	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina1.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+2326x1838	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina2.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+2560x1920	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina3.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+2560x1920	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina4.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+2560x1920	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina-navata.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+2560x1920	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina-altare.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+2560x1920	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina-altare laterale.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+2560x1920	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina-teca sangue.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+2560x1920	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina-altari.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+2560x1920	CC BY-SA 3.0	File:Bolsena-chiesa santa cristina-impronte.jpg	| Basilica di Santa Cristina, Bolsena, Lazio, Italia
+3648x2736	CC BY-SA 3.0	File:Bolsena, s. cristina, ext. 01.JPG	| Santi Giorgio e Cristina (Bolsena)
+3648x2736	CC BY-SA 3.0	File:Bolsena, s. cristina, ext. 02.JPG	| Santi Giorgio e Cristina (Bolsena)
+3648x2736	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., lunetta di benedetto buglioni, madonna col bambino tra s. cristina e s. giorgio.JPG	| Santi Giorgio e Cristina (Bolsena)
+2736x3648	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., oratorio, portale con lunetta di benedetto buglioni 01.JPG	| Santi Giorgio e Cristina (Bolsena)
+2540x1088	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., lunetta di benedetto buglioni, madonna col bambino tra s. cristina e s. giorgio 2.jpg	| Santi Giorgio e Cristina (Bolsena)
+3648x2736	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., oratorio, portale con lunetta di benedetto buglioni 02.JPG	| Santi Giorgio e Cristina (Bolsena)
+2744x1156	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., oratorio, portale con lunetta di benedetto buglioni 04.jpg	| Santi Giorgio e Cristina (Bolsena)
+3648x2736	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., oratorio, portale con lunetta di benedetto buglioni 03.JPG	| Santi Giorgio e Cristina (Bolsena)
+2736x3648	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., rilievi di benedetto e francesco buglioni 02.JPG	| Santi Giorgio e Cristina (Bolsena)
+3468x2120	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., rilievi di benedetto e francesco buglioni 01.JPG	| Santi Giorgio e Cristina (Bolsena)
+1122x3582	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., rilievi di benedetto e francesco buglioni 05.JPG	| Santi Giorgio e Cristina (Bolsena)
+2238x3474	CC BY-SA 3.0	File:Bolsena, s. cristina, ext., rilievi di benedetto e francesco buglioni 04.JPG	| Santi Giorgio e Cristina (Bolsena)
+2244x2544	CC BY-SA 3.0	File:Bolsena, s. cristina, chiesa maggiore, int., polittico di sano di pietro 01.JPG	| 
+2083x2992	CC BY-SA 3.0	File:Bolsena, s. cristina, chiesa maggiore, int., polittico di sano di pietro 02.JPG	| 
+2970x2251	CC BY-SA 3.0	File:Bolsena - Chiesa di Santa Cristina - Agosto 2015.jpg	| Chiesa di Santa Cristina in Bolsena (VT) Italia, agosto 2015
+1112x738	CC BY-SA 4.0	File:Basilica di Sanata Cristina, Plan - Bolsena.jpg	| Basilica di Sanata Cristina, Plan
+1315x1630	Public domain	File:Bolsena porta maggiore della Collegiata di Santa Cristina.jpg	| Bolsena: porta maggiore della Collegiata di Santa Cristina (xilografia).
+4272x2848	CC BY-SA 4.0	File:Bolsena - Basilica di Santa Cristina - 2024-09-04 17-13-42 001.jpg	| Altorilievo, Resti del Tempio di dio Apollo, "Sepolcreto Longobardo" della Catacomba di S. Cristina
+2810x1844	CC0	File:Santi Giorgio e Cristina (Bolsena) - Interior12.jpg	| Santi Giorgio e Cristina (Bolsena) - Interior
+### Bolsena miracolo pietre
+1417x2041	Public domain	File:Tartufari - Il miracolo, Roma, Romagna, 1909.djvu	| 
+1043x1564	Public domain	File:Per il sesto centenario dalla fondazione del Duomo di Orvieto (IA perilsestocenten00bona).pdf	| At head of title: Accademia "La Nuova Fenice." Subjects: Duomo di Orvieto (Orvieto, Italy); Cathedrals
+1185x1668	Public domain	File:Storia dell'arte italiana (IA storiadellarteit101vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+### Orvieto Cappella del Corporale
+3648x2736	CC BY-SA 3.0	File:Duomo di orvieto, cappella del corporale 02 affreschi di ugolino di prete ilario e aiuti (1357-64).JPG	| Duomo (Orvieto)
+2736x3648	CC BY-SA 3.0	File:Duomo di orvieto, cappella del corporale 01.JPG	| Duomo (Orvieto)
+2166x2706	CC BY-SA 3.0	File:Duomo di orvieto, cappella del corporale 04 agostino cornacchini, arcangelo raffaele (1729).JPG	| Duomo (Orvieto)
+2172x2526	CC BY-SA 3.0	File:Duomo di orvieto, cappella del corporale 03 agostino cornacchini, arcangelo michele (1729).JPG	| Duomo (Orvieto)
+1417x2041	Public domain	File:Tartufari - Il miracolo, Roma, Romagna, 1909.djvu	| 
+1177x2018	Public domain	File:Vite de' più eccellenti pittori scultori e architetti (IA b29325225 0003).pdf	| 16 volumes, folded plates : (8vo) Subjects: Painters; Artists; Painters -- Italy
+1195x1977	Public domain	File:Vite de' più eccellenti pittori scultori e architetti (IA b29325225 0005).pdf	| 16 volumes, folded plates : (8vo) Subjects: Painters; Artists; Painters -- Italy
+1383x1966	Public domain	File:Il duomo di Orvieto e i suoi restauri; monografie stroriche condotte sopra i documenti (IA ilduomodiorvieto00fumi).pdf	| "Esemplare n. ." Subjects: Duomo di Orvieto (Orvieto, Italy)
+1043x1564	Public domain	File:Per il sesto centenario dalla fondazione del Duomo di Orvieto (IA perilsestocenten00bona).pdf	| At head of title: Accademia "La Nuova Fenice." Subjects: Duomo di Orvieto (Orvieto, Italy); Cathedrals
+1045x1558	Public domain	File:Storia dell'arte italiana (IA storiadellarteit04vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+1037x1652	Public domain	File:Storia dell'arte italiana (IA storiadellarteit05vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+3433x3885	PDM-owner	File:Verschiedene Reisestudien (SM bib2472i35b).png	| landscape · architecture · landscapes in the temperate zone · architecture · geographical names of countries, regions, mountains, rivers, et
+2759x3733	PDM-owner	File:Aus der Kapelle di S. Corporale im Dom zu Orvieto (SM bib2472iii133b).png	| historical narration · depiction of a saint · the Annunciation: Mary sitting
+3534x2890	CC BY 3.0	File:Ugolino di prete ilario e bottega, sinopie di affreschi dalla cappella del corporale nel duomo di orvieto, 1357-64 ca., 02.jpg	| Paintings in the Museo dell'Opera del Duomo (Orvieto)
+3522x3472	CC BY 3.0	File:Ugolino di prete ilario e bottega, sinopie di affreschi dalla cappella del corporale nel duomo di orvieto, 1357-64 ca., 01 messa di bolsena.jpg	| Paintings in the Museo dell'Opera del Duomo (Orvieto)
+1093x1752	Public domain	File:La vita e le opere di Piero della Francesca - monografia (IA lavitaeleoperedi00pich).pdf	| Includes bibliographical references Subjects: Piero, della Francesca, 1416?-1492
+### Orvieto reliquiario corporale
+2068x2848	CC0	File:Duomo orvieto - reliquario del corporale.JPG	| duomo orvieto - in reliquario del corporale
+1417x2041	Public domain	File:Tartufari - Il miracolo, Roma, Romagna, 1909.djvu	| 
+1557x2181	Public domain	File:Orvieto Duomo Reliquario del S Corporale.jpg	| Orvieto (Duomo): Reliquario del S. Corporale (xilografia).
+1177x2018	Public domain	File:Vite de' più eccellenti pittori scultori e architetti (IA b29325225 0003).pdf	| 16 volumes, folded plates : (8vo) Subjects: Painters; Artists; Painters -- Italy
+1383x1966	Public domain	File:Il duomo di Orvieto e i suoi restauri; monografie stroriche condotte sopra i documenti (IA ilduomodiorvieto00fumi).pdf	| "Esemplare n. ." Subjects: Duomo di Orvieto (Orvieto, Italy)
+1045x1558	Public domain	File:Storia dell'arte italiana (IA storiadellarteit04vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+1037x1652	Public domain	File:Storia dell'arte italiana (IA storiadellarteit05vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+3000x4000	CC BY-SA 4.0	File:Orvieto museum duomo 607.jpg	| Reliquiario del Corporale di Bolsena‎, Collections of the Museo dell'Opera del Duomo (Orvieto)
+3133x3129	Public domain	File:Reliquiario del Corporale di Bolsena, GD008820.jpg	| TitleReliquiario del Corporale di BolsenaContributordi Vieri, Ugolino (Italian sculptor, goldsmith; active 14th c.) (artist)SeriesEuroPhot. 
+### Cascia miracolo eucaristico
+1536x2048	CC BY-SA 3.0	File:Basilica inferiore di Santa Rita 3.JPG	| Basilica inferiore
+### Cascia Basilica di Santa Rita
+1728x2304	CC BY-SA 3.0	File:Basilica Santa Rita a Cascia.jpg	| basilica di Santa Rita a Cascia
+1080x1920	CC0	File:Facciata basilica di santa rita.jpg	| Facciata della Basilica di Santa Rita a Cascia.
+1536x2048	CC BY-SA 3.0	File:Basilica di Santa Rita 2.JPG	| La basilica di Santa Rita a Cascia
+2048x1536	CC BY-SA 3.0	File:Basilica di Santa Rita 1.JPG	| La basilica di Santa Rita a Cascia
+3604x2706	CC BY-SA 4.0	File:CasciaBasilicaSantaRita3.jpg	| Sanctuary and Basilica of Santa Rita in Cascia, Province of Perugia, Umbria, Italy
+1880x2816	CC BY 3.0	File:Basilica di Santa Rita da Cascia - panoramio.jpg	| Basilica di Santa Rita da Cascia
+1944x2592	CC BY-SA 4.0	File:2016 Basilica di Santa Rita (Cascia) 01.jpg	| Basilica di Santa Rita (Cascia)
+2592x1944	CC BY-SA 4.0	File:2016 Basilica di Santa Rita (Cascia) 02.jpg	| Basilica di Santa Rita (Cascia)
+1944x2592	CC BY-SA 4.0	File:2016 Basilica di Santa Rita (Cascia) 03.jpg	| Basilica di Santa Rita (Cascia)
+1944x2592	CC BY-SA 4.0	File:2016 Basilica di Santa Rita (Cascia) 04.jpg	| Basilica di Santa Rita (Cascia)
+1944x2592	CC BY-SA 4.0	File:2016 Basilica di Santa Rita (Cascia) 05.jpg	| Basilica di Santa Rita (Cascia)
+3024x4032	CC BY-SA 4.0	File:Basílica de Santa Rita de Casia.jpg	| Basílica de Santa Rita de Casia
+1908x4032	CC BY-SA 4.0	File:Chiesa di Santa Rita da Cascia.jpg	| Chiesa di Santa Rita da Cascia
+1476x3280	CC BY-SA 4.0	File:Cascia - Basilica di Santa Rita da Cascia - 2023-09-05 20-53-19 002.jpg	| basilica di Santa Rita da Cascia
+2080x4624	CC BY-SA 4.0	File:Cascia - Basilica di Santa Rita da Cascia - 2023-09-05 20-53-19 004.jpg	| basilica di Santa Rita da Cascia
+2080x4624	CC BY-SA 4.0	File:Cascia - Basilica di Santa Rita da Cascia - 2023-09-05 20-53-19 006.jpg	| basilica di Santa Rita da Cascia
+6016x4016	CC BY-SA 4.0	File:Cascia - Basilica di Santa Rita da Cascia - 2023-09-21 19-14-41 001.jpg	| basilica di Santa Rita da Cascia
+6016x4016	CC BY-SA 4.0	File:Cascia - Basilica di Santa Rita da Cascia - 2023-09-21 19-14-41 002.jpg	| basilica di Santa Rita da Cascia
+6016x4016	CC BY-SA 4.0	File:Cascia - Basilica di Santa Rita da Cascia - 2023-09-21 19-14-41 005.jpg	| basilica di Santa Rita da Cascia
+5184x3888	CC BY-SA 4.0	File:Cascia - Basilica di Santa Rita da Cascia - i colori della cupola.JPG	| Basilica di Santa Rita da Cascia - i colori della cupola
+3530x4708	CC BY-SA 4.0	File:Cascia - Basilica di Santa Rita da Cascia - La facciata.jpg	| basilica di Santa Rita da Cascia
+3702x4937	CC BY-SA 4.0	File:Basilica di Santa Rita da Cascia - La fontana.JPG	| basilica di Santa Rita da Cascia - La fontana
+3821x5094	CC BY-SA 4.0	File:Basilica di Santa Rita da Cascia - il porticato del complesso.JPG	| Basilica di Santa Rita da Cascia - il porticato del complesso
+1743x1161	CC BY-SA 4.0	File:CasciaBasilicaSantaRita4.jpg	| Basilica di Santa Rita (Cascia, Province of Perugia, Umbria, Italy)
+3060x3518	CC BY-SA 4.0	File:Basilica di Santa Rita (Cascia) 01.jpg	| Basilica di Santa Rita (Cascia)
+3060x4080	CC BY-SA 4.0	File:Basilica di Santa Rita (Cascia) 02.jpg	| Basilica di Santa Rita (Cascia)
+3060x4080	CC BY-SA 4.0	File:Basilica di Santa Rita (Cascia) 03.jpg	| Basilica di Santa Rita (Cascia)
+1932x2576	CC BY-SA 4.0	File:Basilica di Santa Rita (Cascia) 04.jpg	| Basilica di Santa Rita (Cascia)
+4080x3060	CC BY-SA 4.0	File:Basilica di Santa Rita (Cascia) 05.jpg	| Basilica di Santa Rita (Cascia)
+4080x3060	CC BY-SA 4.0	File:Basilica di Santa Rita (Cascia) 06.jpg	| Basilica di Santa Rita (Cascia)
+### Sokółka cud eucharystyczny
+### Sokółka kościół św. Antoniego
+3959x2663	CC BY-SA 3.0 pl	File:Sokółka - kościół parafialny św. Antoniego, 1840-1841 (3).jpg	| Sokółka, kościół par. p.w. św. Antoniego, 1840-1841, 1904
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 07.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 06.jpg	| Kościół św. Antoniego w Sokółce
+12000x9000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 08.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 09.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 10.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 11.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 12.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 13.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 14.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 15.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 16.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 17.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 19.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 18.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 20.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 22.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 23.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 26.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 28.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 29.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 30.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 31.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 32.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 33.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 35.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 36.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 34.jpg	| Kościół św. Antoniego w Sokółce
+4000x3000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 37.jpg	| Kościół św. Antoniego w Sokółce
+3000x4000	CC BY-SA 4.0	File:Sokółka Kościół św. Antoniego 38.jpg	| Kościół św. Antoniego w Sokółce
+### Santa María de Almagro Buenos Aires
+1239x1752	CC BY-SA 3.0	File:Mi Comuna 4 Ciudad de Buenos Aires Argentina.pdf	| La Comuna 4 de la Ciudad Autónoma de Buenos Aires
+2693x4123	Public domain	File:Guia de forasteros en la ciudad y virreynato de Buenos-Ayres - para el año de 1792.djvu	| Authorship attributed to José Joaquín Araujo in the 1992 facsim. ed. of the 1792 and 1803 eds
+1763x2204	CC BY-SA 4.0	File:ParroquiaSantaMaria Caballito BsAs.jpg	| Parroquia Santa María - Caballito - Buenos Aires - Argentina.
+1035x1562	Public domain	File:Boletín de la Sociedad Española de Excursiones (IA boletindelasocie04soci).pdf	| Title varies slightly Publication suspended 1936-1939 Subjects: Art; Architecture; Cathedrals
+1125x1612	Public domain	File:Memorias de la Real Academia de la Historia (IA memoriasdelareal011real).pdf	| The volumes are published at infrequent intervals: v. 1 is dated 1796; v. 2, 1796; v. 3, 1799; v. 4, 1805; v. 5, 1817; v. 6, 1821; v. 7, 183
+1331x1852	Public domain	File:Federal Register 1941-07-19- Vol 6 Iss 140 (IA sim federal-register-find 1941-07-19 6 140).pdf	| Federal Register 1941-07-19: Volume 6, Issue 140.Digitized from IA1532609-02.Previous issue: sim_federal-register-find_1941-07-18_6_139.Next
+### Tixtla Guerrero iglesia
+2736x3648	CC BY-SA 4.0	File:Iglesia de San Martín de Tixtla, Guerrero, México.jpg	| Vor der Kirche San Martín im Zentrum Tixtlas, Guerrero
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073223918).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073224932).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070997191).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070976957).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073218788).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073200482).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073201522).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073204546).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073208454).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070980979).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070984973).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070985325).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073213674).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073226934).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9071000167).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9071000849).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+### Tixtla parroquia San Martín
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073223918).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073224932).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070997191).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073202656).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070976957).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073200482).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073204546).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073208454).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070980979).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070984973).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070985325).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073213674).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070987631).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073226934).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9071000167).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
+1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9071000849).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollo
+### Chirattakonam
+### Finca Betania Cúa
+### Betania Venezuela santuario
+4320x3240	CC BY-SA 3.0	File:Santuario Virgen de Betania 1.JPG	| Santuario Virgen de Betania, Cua, Edo. Miranda, Venezuela
+1920x2576	CC BY-SA 3.0	File:Virgen de Betania, edo. Miranda.jpg	| Santuario de la Virgen de Betania, ubicada en el edo. Miranda.
+2576x1920	CC BY-SA 3.0	File:Iglesia del Santuario de la Virgen de Betania.jpg	| Iglesia donde se celebran las misas en el Santuario de Betania, edo. Miranda.
+1920x2576	CC BY-SA 3.0	File:Virgen María, Plaza del Santuario de la Virgen de Betania.jpg	| Virgen ubicada en una plaza del Santuario de la Virgen de Betania, edo. Miranda.
+1024x768	CC BY-SA 4.0	File:Santuario de Betania.jpg	| Sanctuaire de Betania, près de Cua, Venezuela
+1024x768	CC BY-SA 4.0	File:Santuario de Betania entrada.jpg	| Entrée du sanctuaire de Betania (Venezuela), lieu d'apparition mariale
+1024x768	CC BY-SA 4.0	File:Santuario de Betania Virgen.jpg	| Oratoire et statue de la Vierge dans le sanctuaire de Betania, sur le lieu de l'apparition
+2576x368	CC BY-SA 3.0	File:Iglesia del Santuario de la Virgen de Betania (cropped).jpg	| Iglesia donde se celebran las misas en el Santuario de Betania, edo. Miranda.
+3000x3000	CC0	File:Santuario de la Virgen de Betania Miranda Venezuela (1).jpg	| Santuario de la Virgen de Betania Miranda Venezuela
+3000x3000	CC0	File:Santuario de la Virgen de Betania Miranda Venezuela (3).jpg	| Santuario de la Virgen de Betania Miranda Venezuela
+2448x2448	CC0	File:Santuario de la Virgen de Betania Miranda Venezuela (4).jpg	| Santuario de la Virgen de Betania Miranda Venezuela
+9000x12000	CC0	File:Santuario de la Virgen de Betania Miranda Venezuela (2).jpg	| Santuario de la Virgen de Betania Miranda Venezuela
+### custodia ostensorio adoración
+3975x2678	CC BY-SA 4.0	File:Cálice, Patena e Colherinha.jpg	| * Ostensório, Cálice, Patena e Colherinha Conjunto do IV Congresso Eucarístico Nacional de 1942 em São Paulo Projeto: Eng. Prof. Cleto Luzzi
+### monstrance Blessed Sacrament exposition
+6000x3989	CC BY-SA 4.0	File:St James's Church, Spanish Place, altar.jpg	| St James's Church, Spanish Place, altar. The chancel has an apse with seven pointed arches. The centre panel shows the descent of the Holy S
+3989x6000	CC BY-SA 4.0	File:St James's Church, Spanish Place, chancel.jpg	| St James's Church, Spanish Place, chancel. The chancel has an apse with seven pointed arches. The centre panel shows the descent of the Holy
+1402x2191	Public domain	File:The drift of pinions (IA driftofpinions00keab).pdf	| Printed in Great Britain In no strange land.--Our lady's pain.--The call.--Jonathan Haynes.--Cattle money.--Father Francis.--The penitence o
+### Santuario della Spogliazione Assisi Carlo Acutis
+9316x2903	CC BY-SA 4.0	File:Assise-vue-pano-clocher-Chiesa-di-Santa-Maria-Maggiore-Santuario-della-Spogliazione+vue-sur-frazione-Santa-Maria-degli-Angeli-23-11-2025-11h05-byRundvald.jpg	| Panoramic view of Assisi in Umbria, in central Italy: you can see the bell tower and the apse of the church of Santa Maria Maggiore, also ca
+### Carlo Acutis tomb
+1350x1954	Public domain	File:Il Cittadino Italiano n 247-1889 (IA CittadinoItaliano1891-2091).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1472x2081	Public domain	File:Il Paese - organo della Democrazia friulana n. 2 (1909) (IA IlPaese-2-1909).pdf	| Il Paese - organo della democrazia friulana Subjects: Friuli; Periodico
+3906x1985	CC BY-SA 4.0	File:Kenotaf Carla Acutis.jpg	| Body of Carlo Acutis displayed in a glass-fronted tomb; Santa Maria Maggiore church in Assisi, southern nave (2020)
+### Massabielle grotto Lourdes statue
+2112x2816	CC BY 3.0	File:Ffm-MariaMG02.JPG	| Madonna Notre Dames de Lourdes Maria; Nachbildung der Mutter Gottes Statue der Lourdes-Grotte von Massabielle, wo 1858 der einheimischen Ber
+1578x1788	CC BY-SA 3.0	File:The unknown soldier prays in the grotto of lourdes 01.jpg	| taken during 2010 military pilgrimage
+4000x6000	CC BY-SA 2.0	File:France-002009 - Our Lady of Lourdes (15774765182).jpg	| The grotto where St Bernadette's visions took place is very simple and stark. Above the main recess is the niche where the apparitions took 
+4000x6000	CC BY-SA 2.0	File:France-002018 - Grotto Service (15153278134).jpg	| The grotto where St Bernadette's visions took place is very simple and stark. Above the main recess is the niche where the apparitions took 
+4000x6000	CC BY-SA 2.0	File:France-002075 - Grotto Service (15588846530).jpg	| The grotto where St Bernadette's visions took place is very simple and stark. Above the main recess is the niche where the apparitions took 
+5184x3888	CC BY-SA 4.0	File:Chéreng - Lourdes.jpg	| Dans l'église de Chéreng, en Flandre française, Sainte Bernadette prie la Vierge de Lourdes, dans la grotte de Massabielle. Devant, se trouv
+1020x1635	Public domain	File:Lourdes - yesterday, today and tomorrow (IA b2485122x).pdf	| Subjects: Miracles
+1079x1400	Public domain	File:Stamp 1958 Monaco MiNr0592 mt B002.jpg	| Stamp of Monaco; 1958; commemorative stamp of the issue "100th Anniversary of Apparition of the Virgin Mary in Lourdes"; This apparition occ
+3024x4032	CC BY-SA 4.0	File:Notre-Dame de Lourdes Statue 01.jpg	| This is the Statue of Notre-Dame de Lourdes in the Cathedral of St. Vincent de Paul in Tunis, Tunisia On Thursday, February 11, 1858, Bernad
+3024x4032	CC BY-SA 4.0	File:Notre-Dame de Lourdes Statue 02.jpg	| This is the Statue of Notre-Dame de Lourdes in the Cathedral of St. Vincent de Paul in Tunis, Tunisia On Thursday, February 11, 1858, Bernad
+3000x4000	CC0	File:Grotte de massabielle - paroisse sainte bernadette.jpg	| grosse de massabielle - paroisse sainte bernadette
+1275x1650	Public domain	File:Our Blessed Lady of Lourdes- a faithful narrative of the apparitions of the Blessed Virgin Mary, at the Rocks of Massabielle, near Lourdes, in the year 1858 (IA OurBlessedLadyOfLourdes).pdf	| CONTENTS. CHAPTER FIRST. Bernadette Soubirous — Goes with two other girls to the Rocks of Massabielle — The First Apparition in the Niche of
+### Grotte de Lourdes
+2792x1700	CC BY-SA 3.0	File:Lourdes Grotte Lieler 01.jpg	| Lourdes grotto in Lieler
+3864x5152	CC BY-SA 4.0	File:Grotte de Lourdes nuit.jpg	| La grotte de Massabielle la nuit.
+4920x3284	CC BY-SA 4.0	File:20200823 Grotte de Lourdes de Spicheren 01.jpg	| View on the Grotte de Lourdes of Spicheren. It is on the other side of the road from the church St. Laurent. To the left of it is a house.
+6016x4016	CC BY-SA 4.0	File:20200823 Grotte de Lourdes de Spicheren 02.jpg	| A statute, which depicts a kneeling Bernadette Soubirous, at the Lourdesgrotte in Spicheren. It is located across from the church Saint-Laur
+5565x3667	CC BY-SA 4.0	File:20200823 Grotte de Lourdes de Spicheren 03.jpg	| Blick auf den Altar der Lourdesgrotte von Spicheren. Sie befindet sich gegenüber der Kirche Eglise Saint-Laurent.
+6032x4032	CC BY-SA 4.0	File:20200823 Grotte de Lourdes de Spicheren 04.jpg	| Blick auf die Rückseite der Lourdesgrotte von Spicheren. Sie befindet sich gegenüber der Kirche Eglise Saint-Laurent.
+5130x3648	CC BY-SA 4.0	File:Grotte de Lourdes (Wettolsheim) (2).jpg	| Grotto of Lourdes in Wettolsheim (Haut-Rhin, France).
+5832x3645	CC BY 4.0	File:20200823 Grotte de Lourdes de Spicheren 05.jpg	| View along the road to the Grotte de Lourdes de Spicheren.
+3456x2592	CC BY-SA 4.0	File:Jallais - Grotte de Lourdes route de la Jubaudière.jpg	| Grotte de Lourdes route de la Jubaudiere @ Jallais. Une petite balade permet de redécouvrir la grotte de Lourdes de Jallais. À droite du che
+4032x2268	CC BY-SA 4.0	File:Clervaux, Lieler, grotte (102).jpg	| Lieler, commune de Clervaux. La grotte fut érigée en 1955 (inaugurée le 18/09/1955) par les habitants de Lieler en l'honneur de la Sainte Vi
+5472x3000	CC BY-SA 4.0	File:Grotte de Lourdes (Ottrott).jpg	| Cave in à Ottrott (Bas-Rhin, France).
+4608x3456	CC BY-SA 4.0	File:Grotte de Lourdes (Valay).jpg	| grotte Notre-Dame de Lourdes
+4608x3456	CC BY-SA 4.0	File:Grotte de Lourdes (Voultegon).jpg	| Réplique de la grotte de Massabielle, chemin des Coûts
+4608x3456	CC0	File:Grotte de Lourdes (Chauché)1.jpg	| Grotte Notre-Dame de Lourdes
+3456x4608	CC0	File:Grotte de Lourdes (Chauché)2.jpg	| Statue de Notre-Dame de Lourdes
+3456x4608	CC0	File:Grotte de Lourdes (Chauché)3.jpg	| Statue de Notre-Dame de Lourdes
+4608x3456	CC0	File:Grotte de Lourdes (Cirières)01.jpg	| Reproduction de la grotte de Lourdes
+4608x3456	CC0	File:Grotte de Lourdes (Cirières).jpg	| Reproduction de la grotte de Lourdes
+4608x3456	CC0	File:Grotte de Lourdes (Cirières)02.jpg	| Reproduction de la grotte de Lourdes
+3456x4608	CC0	File:Grotte de Lourdes (Cirières)05.jpg	| Statue de Notre-Dame de Lourdes
+3456x4608	CC0	File:Grotte de Lourdes (Cirières)06.jpg	| Statue de Notre-Dame de Lourdes
+4608x3456	CC0	File:Grotte de Lourdes (Marsac).jpg	| Grotte de Lourdes à Marsac
+3456x4608	CC0	File:Grotte de Lourdes (Marsac)2.jpg	| Grotte de Lourdes à Marsac
+3456x4608	CC0	File:Grotte de Lourdes (Marsac)3.jpg	| Grotte de Lourdes à Marsac
+3456x4608	CC0	File:Grotte de Lourdes (Marsac)4.jpg	| Statue de Notre-Dame de Lourdes
+6500x4600	CC BY-SA 4.0	File:Grotte de Lourdes (Still).jpg	| Our Lady's Oratory in Still (Bas-Rhin, France).
+4500x3000	CC BY-SA 4.0	File:Grotte de Lourdes (Niederhaslach).jpg	| Lourdes Grotto in Niederhaslach (Bas-Rhin, France).
+4900x2900	CC BY-SA 4.0	File:Grotte de Lourdes (Oberhaslach).jpg	| Lourdes Grotto in Oberhaslach (Bas-Rhin, France).
+### Aparecida imagem original
+1200x1600	CC BY-SA 3.0	File:Agrestina-imagem-Padre-Cícero.jpg	| Agrestina (Pernambuco), Brasil. Imagem do Padre Cícero (ao lado, em tamanho reduzido, Frei Damião e Nossa Senhora Aparecida), em exibição pú
+1600x1200	CC BY 2.5	File:Imagem NSra Basílica.JPG	| Imagem original de Nossa Senhora de Conceição Aparecida, no Santuário de Nossa Senhora, em Aparecida, São Paulo.
+2448x3264	CC BY-SA 3.0	File:Imagem Aparecida 2.JPG	| Devoção à imagem, na Basílica do Santuário Nacional de Nossa Senhora da Conceição Aparecida.
+3264x2448	CC BY-SA 3.0	File:Imagem Aparecida.JPG	| Acesso à imagem original de Nossa Senhora Aparecida, em sua Basílica.
+1280x962	CC BY-SA 3.0	File:Borboleta Nossa Senhora Aparecida - Meu nome 1280.jpg	| Borboleta com imagem de Nossa Senhora Aparecida.
+2592x1936	CC BY-SA 4.0	File:Av. Marechal Rondon, Vila N. Senhora Aparecida, Goiânia, maio de 2015.jpg	| Avenida Marechal Rondon, na região da Vila Nossa Senhora Aparecida/Urias Magalhães/Centro-Oeste. A imagem foi fotografada em 7 de maio de 20
+1280x960	CC BY-SA 4.0	File:Monumento N S Aparecida Mongaguá SP.jpg	| This is a photo of a monument in Brazil identified by the ID
+1074x1070	CC BY-SA 4.0	File:Imagem de Nossa Senhora Aparecida.png	| This is a photo of a monument in Brazil identified by the ID
+4000x3000	CC BY-SA 3.0	File:Entrada de Chácara com a imagem de Nossa Senhora Aparecida no Km 311 da Rod. Washington Luiz SP-310, perto de Matão - panoramio.jpg	| Entrada de Chácara com a imagem de Nossa Senhora Aparecida no Km 311 da Rod. Washington Luiz SP-310, perto de Matão
+4000x3000	CC BY-SA 3.0	File:Imagem de Nossa Senhora Aparecida(Padroeira de Sertãozinho) na Vicinal Otavio Verri em Sertãozinho - panoramio.jpg	| Imagem de Nossa Senhora Aparecida(Padroeira de Sertãozinho) na Vicinal Otavio Verri em Sertãozinho
+3000x4000	CC BY-SA 3.0	File:Imagem de Nossa Senhora Aparecida na Entrada de Viradouro - panoramio.jpg	| Imagem de Nossa Senhora Aparecida na Entrada de Viradouro
+3240x4320	CC BY-SA 3.0	File:VITRAL COM A IMAGEM DE JESUS CRISTO - BASÍLICA N.S. DE APARECIDA - panoramio.jpg	| VITRAL COM A IMAGEM DE JESUS CRISTO - BASÍLICA N.S. DE APARECIDA
+2592x1936	CC BY-SA 3.0	File:Imagem original aparecida no Rio Paraíba do Sul em 12 de outubro de 1717 - panoramio.jpg	| Imagem original aparecida no Rio Paraíba do Sul em 12 de outubro de 1717 *
+2048x1943	CC BY-SA 3.0	File:A Imagem de N. Sra. Aparecida exposta na Basilica nacional - Os peregrino levam até duas horas na fila para passar proximo da mesma. - panoramio.jpg	| A Imagem de N. Sra. Aparecida exposta na Basilica nacional / Os peregrino levam até duas horas na fila para passar proximo da mesma.
+4000x3000	CC BY-SA 3.0	File:Imagem de Nossa Senhora Aparecida em Sertãozinho na entrada da cidade. Ao fundo, o Portal de entrada da cidade. - panoramio.jpg	| Imagem de Nossa Senhora Aparecida em Sertãozinho na entrada da cidade. Ao fundo, o Portal de entrada da cidade.
+4000x3000	CC BY-SA 3.0	File:Imagem de Nossa Senhora Aparecida na primeira entrada de Sertãozinho.O nome da santa está diretamente ligado ao início da cidade. O primeiro nome de Sertãozinho foi Arraial de Nossa Senhora Aparecida - panoramio.jpg	| Imagem de Nossa Senhora Aparecida na primeira entrada de Sertãozinho.O nome da santa está diretamente ligado ao início da cidade. O primeiro
+3000x4000	CC BY-SA 3.0	File:Imagem de Nossa Senhora Aparecida, padroeira de Sertãozinho na primeira entrada da cidade. Um dos pioneiros de Sertãozinho, Antônio Malaquias Pedroso, fundador da cidade, era descendente de Felipe Pe - panoramio.jpg	| Imagem de Nossa Senhora Aparecida, padroeira de Sertãozinho na primeira entrada da cidade. Um dos pioneiros de Sertãozinho, Antônio Malaquia
+4000x3000	CC BY-SA 3.0	File:Imagem de Nossa Senhora Aparecida, padroeira de Sertãozinho na primeira entrada da cidade. Ao fundo, o Portal de Entrada de Sertãozinho, acesso ao Cristo Redentor de Sertãozinho. - panoramio.jpg	| Imagem de Nossa Senhora Aparecida, padroeira de Sertãozinho na primeira entrada da cidade. Ao fundo, o Portal de Entrada de Sertãozinho, ace
+3000x4000	CC BY-SA 3.0	File:Imagem de Nossa Senhora Aparecida, padroeira de Sertãozinho na primeira entrada da cidade. Um dos pioneiros de Sertãozinho, Antônio Malaquias Pedroso, fundador da cidade, era descendente de Felipe Pe - panoramio (1).jpg	| Imagem de Nossa Senhora Aparecida, padroeira de Sertãozinho na primeira entrada da cidade. Um dos pioneiros de Sertãozinho, Antônio Malaquia
+2992x2000	CC BY-SA 2.0	File:Imagem de Nossa Senhora Aparecida na Missa alusiva aos 200 Anos da Independência do Brasil - Catedral Basílica de Salvador (BA) (52339432128).jpg	| Imagem de Nossa Senhora Aparecida na Missa alusiva aos 200 Anos da Independência do Brasil - Catedral Basílica de Salvador (BA)
+4624x3468	CC BY-SA 4.0	File:Destaque da Imagem e da Sé de Nossa Senhora Aparecida.jpg	| Destaque da Imagem e da Sé de Nossa Senhora Aparecida, em Tucumã-PA, em 2021.
+1600x1525	CC0	File:Retorno da imagem restaurada.webp	| A Imagem foi restaurada e levada de volta ao Santuário Nacional de Aparecida, em um carro aberto do Corpo de Bombeiros, no dia 19 de agosto 
+3072x4096	CC BY-SA 4.0	File:IMAGEM NSA.jpg	| Capela-Imagem de N. Sra. Aparecida, em Natércia/MG
+### Basílica de Aparecida
+2480x1611	CC BY 3.0 br	File:Basilica of the National Shrine of Our Lady of Aparecida, 2007.jpg	| Santuário Nacional de Aparecida, localizado em Aparecida, SP - Brasil.National Sanctuary of Aparecida, located in Aparecida, SP - Brazil.
+3999x2666	CC BY 3.0	File:Vista da Basílica de Nossa Senhora Aparecida, Aparecida SP.JPG	| View of the Basilica of the National Shrine of Our Lady of Aparecida, in Aparecida, São Paulo, Brazil.
+3000x1997	CC BY 3.0 br	File:Papa Francisco Basílica de Aparecida 2013.jpg	| Papa Francisco chega à Basílica de Aparecida_24/7/13
+3264x2448	CC BY 2.0	File:Basílica de Nossa Senhora Aparecida.jpg	| Basilica of the National Shrine of Our Lady of Aparecida
+2859x2037	CC BY-SA 3.0	File:Buildings - Basílica de Aparecida - Aparecida 2014.JPG	| Basílica de Aparecida
+2048x3072	CC BY-SA 4.0	File:West facade - Basílica de Aparecida - Aparecida 2014 (2).jpg	| Basílica de Aparecida
+4196x2108	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida, SP em 2019.jpg	| Igreja vista dos presépios.
+3495x2192	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida em 2018.jpg	| A Basílica vista dos presépios.
+3495x2192	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida, SP em 2018.jpg	| Vista dos presépios de Aparecida.
+2790x1429	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida e a Estrela, 2019.jpg	| A Basílica vista dos presépios.
+3420x2003	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida-SP em 2019.jpg	| Vista alta lateral da Basílica.
+3399x1820	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida, 2018.jpg	| Vista da passarela da fé e da Basílica.
+3399x1820	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida 2018.jpg	| Vista da passarela da fé.
+3399x1820	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida, 2018 Preto e Branco.jpg	| Vista da passarela da fé e da Basílica em preto e branco.
+4235x2277	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida, vista dos Presépios.jpg	| Vista da Basílica.
+3701x2049	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida em 2019, SP.jpg	| Vista da Basílica não como um ponto central.
+4469x2515	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida e os Presépios.jpg	| Vista dos presépios.
+4608x3456	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida at night (June 2021) 02.jpg	| templo religioso
+4608x3456	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida at night (June 2021) 01.jpg	| templo religioso
+4608x3456	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida at night (June 2021) 05.jpg	| templo religioso
+4608x3456	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida at night (June 2021) 07.jpg	| templo religioso
+4608x3456	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida at night (June 2021) 08.jpg	| templo religioso
+4608x3456	CC BY-SA 4.0	File:Basílica de Nossa Senhora Aparecida at night (June 2021) 09.jpg	| templo religioso
+6000x4000	CC BY-SA 4.0	File:Basílica Aparecida do Norte no Estado de São Paulo.jpg	| templo religioso
+3264x2448	CC BY 2.0	File:Basílica de Nossa Senhora Aparecida (3832998599).jpg	| A Basílica de Nossa Senhora Aparecida, também conhecido como Santuário Nacional de Nossa Senhora da Conceição Aparecida, fica localizada na 
+3264x2448	CC BY 2.0	File:Basílica de Nossa Senhora Aparecida (3833748550).jpg	| A Basílica de Nossa Senhora Aparecida, também conhecido como Santuário Nacional de Nossa Senhora da Conceição Aparecida, fica localizada na 
+1024x683	CC BY 2.0	File:Basílica de Aparecida (14389617786).jpg	| Foto tirada na ponte que leva a Basílica de Aparecida. A máquina utilizada foi a compacta Casio Exilim EX-Z75
+6000x4000	CC BY 4.0	File:Catedral Basílica de Nossa Senhora Aparecida (2).jpg	| A photo of the Cathedral of Our Lady Aparecida
+6000x4000	CC BY 4.0	File:Catedral Basílica de Nossa Senhora Aparecida.jpg	| A photo of the Cathedral of Our Lady Aparecida
+### Chapelle Notre-Dame de la Médaille Miraculeuse rue du Bac
+3648x2736	CC BY 2.0	File:Chapelle de la rue du Bac 2009-08-07 n1.jpg	| chapelle de la rue du Bac (PARIS,FR75)
+3968x2232	CC BY 2.0	File:Chapelle de la rue du Bac 2009-08-07 n3.jpg	| chapelle de la rue du Bac (PARIS,FR75)
+2232x3968	CC BY 2.0	File:Chapelle de la rue du Bac 2009-08-07 n2.jpg	| chapelle de la rue du Bac (PARIS,FR75)
+3968x2232	CC BY 2.0	File:Chapelle de la rue du Bac 2009-08-07 n5.jpg	| chapelle de la rue du Bac (PARIS,FR75)
+2232x3236	CC BY 2.0	File:Chapelle de la rue du Bac 2009-08-07 n4.jpg	| chapelle de la rue du Bac (PARIS,FR75)
+2602x4691	CC BY-SA 3.0	File:Paris - Maison des Filles de la Charité - 136-140 rue du Bac - 005bis.jpg	| La maison des Filles de la charité, 136-140 rue du Bac, à Paris.
+1501x2000	CC BY-SA 3.0	File:P1240770 Paris VII rue du Bac n140 ND medaille miraculeuse rwk.jpg	| Rue du Bac (n°140 entrée de la chapelle Notre-Dame-de-la-Médaille-miraculeuse) - Paris VII This building is classé au titre des monuments hi
+1423x2100	CC BY-SA 3.0	File:P1240771 Paris VII rue du Bac n140 ND medaille miraculeuse vierge rwk.jpg	| Rue du Bac (n°140 statue au dessus de l'entrée de la chapelle Notre-Dame-de-la-Médaille-miraculeuse) - Paris VII This building is classé au 
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31429181282).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+5472x3648	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31204228810).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+5472x3648	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (30735029094).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+5472x3648	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31204221840).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+5472x3648	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31204207550).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31575613145).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31204200780).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Saint-Vincent-de-Paul @ Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31538468646).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31429901592).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (30766588483).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31538484216).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+5472x3648	CC BY 2.0	File:Nativity scene @ Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31459825911).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31538481146).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+5472x3648	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31576317585).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31460483221).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31576321335).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+1552x3000	CC0	File:Bac (rue du) Saint-Vincent de Paule (sœurs de). 1er récolet entrée de la chapelle. D.8021(900)(2).jpg	| Auteur(s): Leymonnerye, Léon (1803 - 1879), dessinateur Autre titre: Paris. Couvents. Communautés. (Titre de l'ensemble) Date de production:
+2232x3968	CC BY 2.0	File:Chapelle de la rue du Bac (PARIS,FR75) (4029882515).jpg	| chapelle de la rue du Bac (PARIS,FR75)
+2520x3776	CC BY 2.0	File:Chapelle de la rue du Bac (PARIS,FR75) (4030631998).jpg	| chapelle de la rue du Bac (PARIS,FR75)
+2232x3968	CC BY 2.0	File:Chapelle de la rue du Bac (PARIS,FR75) (4030633286).jpg	| chapelle de la rue du Bac (PARIS,FR75)
+### Médaille miraculeuse
+3768x2911	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - cornerstone, 1970.jpg	| Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - cornerstone, 1970
+2461x3934	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - statue of the Blessed Virgin Mary.jpg	| Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - statue of the Blessed Virgin Mary
+3654x2288	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - sign.jpg	| Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - sign
+4000x2255	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - exterior.jpg	| Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - exterior
+3916x2778	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - nave.jpg	| Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - nave
+2099x3736	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - Our Lady of the Scapular statue.jpg	| Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - Our Lady of the Scapular statue
+3000x4000	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - stained glass.jpg	| Stained glass windows in Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - stained glass
+3000x4000	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - stained glass 2.jpg	| Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - stained glass 2
+2270x3638	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - Sacred Heart of Jesus statue statue.jpg	| Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - Sacred Heart of Jesus statue statue
+2998x3760	CC BY-SA 4.0	File:Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - tabernacle.jpg	| Church of Our Lady of the Miraculous Medal (Columbus, Ohio) - tabernacle
+5184x3456	CC BY-SA 4.0	File:Chapelle Notre-Dame de la Médaille Miraculeuse - Ex voto.JPG	| Ex voto dans la cour
+2448x3264	CC BY-SA 4.0	File:Plaque of Right Rev Msgr John J Oppen founder inside the Our Lady of the Miraculous Medal Ridgewood Queens NY USA.JPG	| Plaque of the Right Reverend Monsignor John J. Oppel,V.F., Founder-Pastor of the Church of Our Lady of the Miraculous Medal, Ridgewood, Quee
+2448x3264	CC BY-SA 4.0	File:Plaque of Rev William J Davis Fourth Pastor Church of Our Lady of the Miraculous Medal Ridgewood Queens NY.JPG	| Plaque of Rev. William J. Davis, the fourth pastor of the Church of Our Lady of the Miraculous Medal in Ridgewood, Queens, New York. He was 
+2448x3264	CC BY-SA 4.0	File:Plaque of Rev Msgr Sylvester J Ronaghan Second Pastor Church of Our Lady of the Miraculous Medal Ridgewood Queens NY.JPG	| Plaque of Rev. Msgr. Sylvester J. Ronaghan inside the Our Lady of the Miraculous Medal Roman Catholic Church in Ridgewood, Queens, New York.
+2448x3264	CC BY-SA 4.0	File:Plaque of Rev Howard M McMonagle Third Pasotr Church of Our Lady of the Miraculous Medal Ridgewood Queens NY.JPG	| Plaque of Reverend Howard M. McMonagle, the third pastor of the Church of Our Lady of the Miraculous Medal in Ridgewood, Queens, New York. H
+5472x3648	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31204228810).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+5472x3648	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (30735029094).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+5472x3648	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31204207550).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31575613145).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Saint-Vincent-de-Paul @ Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31538468646).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31538484216).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+5472x3648	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31576317585).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3648x5472	CC BY 2.0	File:Chapelle Notre Dame de la Médaille Miraculeuse @ Paris (31460483221).jpg	| Chapel of Our Lady of the Miraculous Medal, 140 Rue du Bac, 75340 Paris, France.
+3348x5472	CC BY 2.0	File:Chapelle de la Médaille Miraculeuse, Paris 11 February 2017.jpg	| Chapelle de la Médaille Miraculeuse @ Paris
+5472x3648	CC BY 2.0	File:Chapelle de la Médaille Miraculeuse @ Paris (32963930613).jpg	| Chapelle de la Médaille Miraculeuse @ Paris
+3648x5472	CC BY 2.0	File:Chapelle de la Médaille Miraculeuse @ Paris (33777058535).jpg	| Chapelle de la Médaille Miraculeuse @ Paris
+3456x4608	CC0	File:Chapelle de la Médaille Miraculeuse (Ste Jeanne d'Arc).jpg	| Statue de Sainte Jeanne d'Arc
+3456x4608	CC0	File:Chapelle de la Médaille Miraculeuse (St Michel).jpg	| Statue de Saint Michel terrassant le dragon
+### Miraculous Medal
+2540x1800	CC BY-SA 3.0	File:Miraculous medal.jpg	| Medal of the Immaculate Conception (aka Miraculous Medal), a medal created by Saint Catherine Labouré in response to a request from the Bles
+1088x1340	CC0	File:Miraculous medal reverse symbols.jpg	| Miraculous Medal reverse symbols
+3456x4608	CC BY-SA 4.0	File:1155jfOur Lady Miraculous Medal Church Concepcion, Tarlacfvf 14.JPG	| Our Lady of the Miraculous Medal Parish Church (F-2008, 2316 Tarlac, Philippines Titular: Our Lady of the Miraculous Medal Parish, November 
+4608x3456	CC BY-SA 4.0	File:1155jfOur Lady Miraculous Medal Church Concepcion, Tarlacfvf 16.JPG	| Our Lady of the Miraculous Medal Parish Church (F-2008, 2316 Tarlac, Philippines Titular: Our Lady of the Miraculous Medal Parish, November 
+4608x3456	CC BY-SA 4.0	File:1155jfOur Lady Miraculous Medal Church Concepcion, Tarlacfvf 18.JPG	| Our Lady of the Miraculous Medal Parish Church (F-2008, 2316 Tarlac, Philippines Titular: Our Lady of the Miraculous Medal Parish, November 
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Chapel of Donacion, Angat 01.jpg	| Our Lady of the Miraculous Medal Chapel of Donacion, Angat Angat, Bulacan .
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Chapel of Donacion, Angat 08.jpg	| Our Lady of the Miraculous Medal Chapel of Donacion, Angat Angat, Bulacan .
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Chapel of Donacion, Angat 14.jpg	| Our Lady of the Miraculous Medal Chapel of Donacion, Angat Angat, Bulacan .
+5184x3888	CC BY-SA 4.0	File:Statues of Our Lady of Grace (Miraculous Medal) in the Philippines 03.jpg	| Statues of Our Lady of Grace (Miraculous Medal) in the Philippines
+3562x5162	CC BY-SA 4.0	File:Statues of Our Lady of Grace (Miraculous Medal) in the Philippines 01.jpg	| Statues of Our Lady of Grace (Miraculous Medal) in the Philippines
+3888x5184	CC BY-SA 4.0	File:Statues of Our Lady of Grace (Miraculous Medal) in the Philippines 02.jpg	| Statues of Our Lady of Grace (Miraculous Medal) in the Philippines
+5184x3888	CC BY-SA 4.0	File:Statues of Our Lady of Grace (Miraculous Medal) in the Philippines 04.jpg	| Statues of Our Lady of Grace (Miraculous Medal) in the Philippines
+3658x5115	CC BY-SA 4.0	File:Statues of Our Lady of Grace (Miraculous Medal) in the Philippines 05.jpg	| Statues of Our Lady of Grace (Miraculous Medal) in the Philippines
+5184x3888	CC BY-SA 4.0	File:Statues of Our Lady of Grace (Miraculous Medal) in the Philippines 06.jpg	| Statues of Our Lady of Grace (Miraculous Medal) in the Philippines
+4892x3787	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Parish Church 01.jpg	| Our Lady of the Miraculous Medal Parish Church (Peñabatan, Pulilan, Bulacan) Fiesta Patronales under FR. Jimmy Palaganas, Parish Priest in P
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Parish Church 02.jpg	| Our Lady of the Miraculous Medal Parish Church (Peñabatan, Pulilan, Bulacan) Fiesta Patronales under FR. Jimmy Palaganas, Parish Priest in P
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Parish Church 03.jpg	| Our Lady of the Miraculous Medal Parish Church (Peñabatan, Pulilan, Bulacan) Fiesta Patronales under FR. Jimmy Palaganas, Parish Priest in P
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Parish Church 06.jpg	| Our Lady of the Miraculous Medal Parish Church (Peñabatan, Pulilan, Bulacan) Fiesta Patronales under FR. Jimmy Palaganas, Parish Priest in P
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Parish Church 04.jpg	| Our Lady of the Miraculous Medal Parish Church (Peñabatan, Pulilan, Bulacan) Fiesta Patronales under FR. Jimmy Palaganas, Parish Priest in P
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Parish Church 05.jpg	| Our Lady of the Miraculous Medal Parish Church (Peñabatan, Pulilan, Bulacan) Fiesta Patronales under FR. Jimmy Palaganas, Parish Priest in P
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Parish Church 07.jpg	| Our Lady of the Miraculous Medal Parish Church (Peñabatan, Pulilan, Bulacan) Fiesta Patronales under FR. Jimmy Palaganas, Parish Priest in P
+5184x3888	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Parish Church 08.jpg	| Our Lady of the Miraculous Medal Parish Church (Peñabatan, Pulilan, Bulacan) Fiesta Patronales under FR. Jimmy Palaganas, Parish Priest in P
+5041x3884	CC BY-SA 4.0	File:Our Lady of the Miraculous Medal Parish Church 09.jpg	| Our Lady of the Miraculous Medal Parish Church (Peñabatan, Pulilan, Bulacan) Fiesta Patronales under FR. Jimmy Palaganas, Parish Priest in P
+3888x5184	CC BY-SA 4.0	File:Statues of Our Lady of Grace (Miraculous Medal) in the Philippines3.jpg	| Statues of Our Lady of Grace (Miraculous Medal) in the Philippines
+3888x5184	CC BY-SA 4.0	File:Statues of Our Lady of Grace (Miraculous Medal) in the Philippines5.jpg	| Statues of Our Lady of Grace (Miraculous Medal) in the Philippines
+3388x2794	CC0	File:Miraculous medal (4).jpg	| The miraculous medal, which was designed on the basis of an apparition of the Virgin Mary in 1830 by the Catholic nun Catherine Labouré. Wit
+4025x3448	CC0	File:Miraculous medal (3).jpg	| The miraculous medal, which was designed on the basis of an apparition of the Virgin Mary in 1830 by the Catholic nun Catherine Labouré. Wit
+3024x2270	CC BY-SA 4.0	File:Our Lady of Miraculous Medal Church in Itbud, Uyugan.jpg	| The Our Lady of Miraculous Medal Parish Church in Brgy. Itbud, Uyugan, Batanes
+2160x3840	CC BY-SA 4.0	File:Médaille miraculeuse.jpg	| Miraculous medal on a rosary.
+### Medjugorje St James church
+4310x2868	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694723725).jpg	| St. Jacob church in Međugorje, Bosnia.
+4310x2760	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695353176).jpg	| St. Jacob church in Međugorje, Bosnia.
+1944x3052	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694670811).jpg	| St. Jacob church in Međugorje, Bosnia.
+2136x3216	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695301974).jpg	| St. Jacob church in Međugorje, Bosnia.
+2136x3216	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694670047).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695295214).jpg	| St. Jacob church in Međugorje, Bosnia.
+1944x2793	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695291584).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695281870).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694647199).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695272958).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695276380).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695275408).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695271100).jpg	| St. Jacob church in Međugorje, Bosnia.
+1977x3072	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694635927).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694634359).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694630571).jpg	| St. Jacob church in Međugorje, Bosnia.
+2884x1915	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695261310).jpg	| St. Jacob church in Međugorje, Bosnia.
+3024x2008	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694623271).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2007	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694621821).jpg	| St. Jacob church in Međugorje, Bosnia.
+2945x1956	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695245752).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694611249).jpg	| St. Jacob church in Međugorje, Bosnia.
+2973x2016	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695244296).jpg	| St. Jacob church in Međugorje, Bosnia.
+1796x3001	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695241320).jpg	| St. Jacob church in Međugorje, Bosnia.
+2967x1971	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695242362).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2088	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694604713).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695236472).jpg	| St. Jacob church in Međugorje, Bosnia.
+2736x3648	CC BY 2.0	File:St James Church, Medjugorje (5777860517).jpg	| St James Church, Medjugorje
+1947x2596	CC BY 2.0	File:St James Church, Medjugorje (5804230453).jpg	| St James Church, Medjugorje
+2736x3648	CC BY 2.0	File:St James Church, Medjugorje (5821312494).jpg	| St James Church, Medjugorje
+2736x3648	CC BY 2.0	File:St James Church, Medjugorje (5821319112).jpg	| St James Church, Medjugorje
+### Medjugorje crkva sv. Jakova
+2048x1536	Public domain	File:Međugorje St.James Church.jpg	| St. James Church in Međugorje.
+1600x1200	Public domain	File:St. Jacob's Church, Medjugorje, Herzegovina.JPG	| St. Jacob's Church, Međugorje, Herzegovina
+1728x2304	CC BY 2.5	File:Church in Međugorje, B-H, June 4th 2007 (1).jpg	| Roman Catholic st. Jacob church in Međugorje
+1728x2304	CC BY 2.5	File:Church in Međugorje, B-H, June 4th 2007 (4).jpg	| St. Jacob church in Međugorje, Bosnia and Herzegovina
+2034x703	CC BY-SA 3.0	File:Medjugorje.Pano.jpg	| Collage of two pictures. Krizevac and Put Kriza: Mountain of the Cross and Way of the Cross, Brdo Ukazanja: Apparition site, Crkva Sv. Jakov
+3072x2304	CC BY-SA 3.0	File:Festiwal w Medjugorje.jpg	| Od 1989 młodzi z całego świata gromadzą się w Medjugorie na Międzynarodowym Festiwalu Młodych.
+4928x3264	CC BY-SA 3.0	File:Church in medjugorje.JPG	| in medjugorje
+4310x2868	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694723725).jpg	| St. Jacob church in Međugorje, Bosnia.
+2610x1734	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695341780).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694653093).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2007	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695287962).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694647199).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2079	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695267532).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694630571).jpg	| St. Jacob church in Međugorje, Bosnia.
+3168x2040	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694621061).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695252918).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694615013).jpg	| St. Jacob church in Međugorje, Bosnia.
+2739x1930	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694609557).jpg	| St. Jacob church in Međugorje, Bosnia.
+3216x2082	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4695237966).jpg	| St. Jacob church in Međugorje, Bosnia.
+2985x2136	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694605523).jpg	| St. Jacob church in Međugorje, Bosnia.
+2144x1424	CC BY 2.0	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694554905).jpg	| St. Jacob church in Međugorje, Bosnia.
+3072x2304	CC BY-SA 3.0	File:Medziugorie 01.JPG	| Miejscowość w Bośni i Hercegowinie położona w południowej części Hercegowiny na południowy zachód od Mostaru.
+3072x2304	CC BY-SA 3.0	File:Medziugorie 11.JPG	| Miejscowość w Bośni i Hercegowinie położona w południowej części Hercegowiny na południowy zachód od Mostaru.
+2560x1920	CC BY-SA 3.0	File:Medugorje14BIH23.JPG	| Okolie kostola svätého Jakuba.Začiatok výstavby v roku 1892,v roku 1897 dokončený. Pod vplyvom zemetrasení začali kostolné múry praskať, bud
+1642x2230	CC BY 2.5	File:Chiesa di S Giacomo Maggiore Megiugorie.jpg	| Chiesa di San Giacomo Maggiore, Megiugorie
+5872x3906	CC BY-SA 4.0	File:Međugorje BW 2024-10-01 14-29-19.jpg	| Bosnia and Herzegovina, Međugorje, Church of St James
+5856x4034	CC BY-SA 4.0	File:Međugorje BW 2024-10-01 14-36-02.jpg	| Bosnia and Herzegovina, Međugorje, Church of St James
+4590x3966	CC BY-SA 4.0	File:Međugorje BW 2024-10-01 14-37-48.jpg	| Bosnia and Herzegovina, Međugorje, Church of St James
+5637x3748	CC BY-SA 4.0	File:Međugorje BW 2024-10-01 15-26-04.jpg	| Bosnia and Herzegovina, Međugorje, Church of St James
+5814x3866	CC BY-SA 4.0	File:Međugorje BW 2024-10-01 14-41-37.jpg	| Bosnia and Herzegovina, Međugorje, Church of St James
+### Knock Shrine apparition
+1224x1632	CC BY-SA 2.0	File:Knock Shrine.jpg	| Knock Shrine, Ireland
+1600x1200	Public domain	File:Knock shrine.JPG	| self made, taken on 3.8.2005
+3888x2592	CC BY-SA 3.0	File:Knock Shrine ,Knock,Co.Mayo - panoramio.jpg	| Knock Shrine ,Knock,Co.Mayo
+3888x2592	CC BY-SA 3.0	File:Knock Shrine,Co.Mayo - panoramio.jpg	| Knock Shrine,Co.Mayo
+3888x2592	CC BY-SA 3.0	File:Knock Shrine,Knock,Co.Mayo - panoramio.jpg	| Knock Shrine,Knock,Co.Mayo
+3888x2592	CC BY-SA 3.0	File:Knock Shrine,Co.Mayo,Ireland - panoramio.jpg	| Knock Shrine,Co.Mayo,Ireland
+3888x2592	CC BY-SA 3.0	File:Knock Shrine,Co.Mayo,Ireland - panoramio (2).jpg	| Knock Shrine,Co.Mayo,Ireland
+3467x4568	CC BY-SA 4.0	File:Statue of Our Lady Knock Shrine.jpg	| Statue of Our Lady in the Apparition Chapel, Knock Shrine
+4035x3163	CC BY-SA 4.0	File:Apparition Chapel with Stained Window.jpg	| The Apparition Chapel at Knock Shrine, Co Mayo, Ireland
+3712x2088	CC BY-SA 2.0	File:Closeup of the Holy Family Chapel of the apparition Knock Shrine.jpg	| Closeup of the Holy Family Chapel of the apparition Knock Shrine
+3024x4032	CC BY-SA 4.0	File:Knock Shrine souvenir.jpg	| Knock Shrine souvenir in a farm house in County Carlow
+2800x1867	Public domain	File:President Joe Biden says a prayer with his rosary at Knock Shrine on April 14, 2023, in County Mayo, Ireland.jpg	| President Joe Biden says a prayer with his rosary at Knock Shrine, Friday, April 14, 2023, in County Mayo, Ireland. (Official White House Ph
+3456x4608	CC0	File:Sanctuaire de Knock (Sacré-Cœur).jpg	| Statue du Sacré-Cœur
+3456x4608	CC0	File:Sanctuaire de Knock (Sacré-Cœur) 2.jpg	| Statue du Sacré-Cœur de Jésus
+3456x4608	CC0	File:Stations of the Cross (Knock Shrine)03.jpg	| Station 3 ː Jésus tombe une première fois
+3456x4608	CC0	File:Stations of the Cross (Knock Shrine)05.jpg	| Station 5 ː Simon de Cyrène aide Jésus à porter sa croix
+3456x4608	CC0	File:Stations of the Cross (Knock Shrine)06.jpg	| Station 6 ː Véronique essuie le visage de Jésus
+3456x4608	CC0	File:Stations of the Cross (Knock Shrine)07.jpg	| Station 7 ː Jésus tombe pour la deuxième fois
+3456x4608	CC0	File:Stations of the Cross (Knock Shrine)08.jpg	| Station 8 ː Jésus console les femmes de Jérusalem
+3456x4608	CC0	File:Stations of the Cross (Knock Shrine)09.jpg	| Station 9 ː Jésus tombe pour la troisième fois
+3456x4608	CC0	File:Stations of the Cross (Knock Shrine)10.jpg	| Station 10 ː Jésus est dépouillé de ses vêtements
+3456x4608	CC0	File:Stations of the Cross (Knock Shrine)12.jpg	| Station 12 ː Jésus meurt sur la croix
+3367x2649	CC0	File:Stations of the Cross (Knock Shrine)15.jpg	| Le chemin de croix du sanctuaire de Knock
+4207x3155	CC0	File:Calvary (Knock Shrine).jpg	| Le calvaire du sanctuaire de Knock
+4192x3144	CC0	File:Calvary (Knock Shrine)2.jpg	| Calvaire du sanctuaire de Knock
+3051x4068	CC0	File:Calvary (Knock Shrine)3.jpg	| Calvaire du sanctuaire de Knock
+3456x4608	CC0	File:Celtic cross (Knock Shrine).jpg	| Croix en mémoire de la visite du pape Jean-Paul II, le 30 septembre 1979
+3456x4608	CC0	File:Celtic cross (Knock Shrine)2.jpg	| Croix en mémoire de la visite du pape Jean-Paul II, le 30 septembre 1979
+### La Salette sanctuaire
+3480x5256	CC0	File:Sanctuaire de Notre-Dame de la Salette 24072017 1.jpg	| Basilique Notre-Dame de la Salette, vue d'ensemble du sanctuaire.
+3480x5600	CC0	File:Sanctuaire de Notre-Dame de la Salette 24072017 3.jpg	| Basilique Notre-Dame de la Salette, vue d'ensemble du sanctuaire.
+5754x3618	CC0	File:Sanctuaire de Notre-Dame de la Salette Paysage 24072017.jpg	| Paysage en contrebas du sanctuaire et de la basilique Notre-Dame de la Salette.
+3008x2008	CC BY-SA 4.0	File:Sanctuaire Notre-Dame de la Salette de Vindefontaine. Statues de la Vierge et des enfants.jpg	| Vindefontaine (50)
+5196x3468	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette.jpg	| Sanctuaire de Notre-Dame de La Salette
+4608x3072	CC BY-SA 4.0	File:Sanctuaire de la Salette 2.jpg	| La Rabatelière
+3008x2000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 02.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+2000x3008	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 03.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+2000x3008	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 01.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+2000x3008	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 05.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+3008x2000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Vue.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+3008x2000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 04.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+4000x6000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 07.jpg	| Sainte Philomène au Sanctuaire de Notre-Dame de La Salette
+4000x6000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 06.jpg	| Sainte Philomène au Sanctuaire de Notre-Dame de La Salette
+6000x4000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 08.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+4000x6000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 10.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+4000x6000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 09.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+6000x4000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 11.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+4000x6000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 12.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+6000x4000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 14.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+4000x6000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 15.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+4000x6000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 13.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+6000x4000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 16.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+6000x4000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette - Statue 17.jpg	| Sanctuaire de Notre-Dame de La Salette (La Salette)
+6000x4000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette 02.jpg	| Sanctuaire de Notre-Dame de La Salette
+6000x4000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette 01.jpg	| Sanctuaire de Notre-Dame de La Salette
+6000x4000	CC BY-SA 4.0	File:Sanctuaire de Notre-Dame de La Salette 03.jpg	| Sanctuaire de Notre-Dame de La Salette
+14344x3513	CC BY-SA 4.0	File:GR50 near La Salette.jpg	| On the GR50 hiking route near the sanctuary of la Salette.
+3000x4000	CC BY-SA 4.0	File:La Salette 27072023.jpg	| Widok na La Salette 27 Lipca 2023 roku
+4608x3456	CC0	File:Chemin de croix (La Rabatelière).jpg	| Chemin de croix dans le sanctuaire Notre-Dame de la Salette
+### Banneux sanctuaire
+2592x1944	CC BY-SA 3.0	File:Banneux Maagd der armen.jpg	| The statue and source of Mary Virgin of the poor at Banneux
+4000x3000	CC BY-SA 3.0	File:Banneux Source00138.JPG	| La source de Banneux.
+3072x2048	CC BY-SA 1.0	File:Banneux 054.jpg	| Gebai vun der Hospitalté Notre-Dame.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux02.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont (esplanade).
+3872x2592	CC BY-SA 3.0	File:20140202 banneux06.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+2592x3872	CC BY-SA 3.0	File:20140202 banneux04.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux05.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux08.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux09.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux10.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+2592x3872	CC BY-SA 3.0	File:20140202 banneux12.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+2592x3872	CC BY-SA 3.0	File:20140202 banneux13.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux16.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux17.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+2592x3872	CC BY-SA 3.0	File:20140202 banneux18.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux21.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux20.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+2592x3872	CC BY-SA 3.0	File:20140202 banneux23.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont. Le mémorial de l'Église de Chine le long de l'allée Saint-Luc. Traduction du text
+3872x2592	CC BY-SA 3.0	File:20140202 banneux26.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux25.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux28.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux29.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux30.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux31.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux34.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux36.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux45.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux43.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+3872x2592	CC BY-SA 3.0	File:20140202 banneux46.JPG	| Vue du sanctuaire Notre-Dame de Banneux, près de Sprimont.
+5039x3581	CC BY-SA 4.0	File:Azulejos in Santuário Nossa Senhora da Paz (3).jpg	| Azulejos in Santuário Nossa Senhora da Paz, Ponte da Barca, Portugal.
+### Beauraing sanctuaire
+3648x2736	CC BY-SA 3.0	File:Notre Dame de Beauraing-001.JPG	| Apparitions mariales de Beauraing
+3648x2736	CC BY-SA 3.0	File:Notre Dame de Beauraing-002.JPG	| Apparitions mariales de Beauraing
+2736x3648	Public domain	File:Notre Dame de Beauraing-003.JPG	| Apparitions mariales de Beauraing
+3648x2736	Public domain	File:Notre Dame de Beauraing au Castel Sainte-Marie 1.JPG	| Notre Dame de Beauraing
+2736x3648	Public domain	File:Notre Dame de Beauraing au Castel Sainte-Marie 2.JPG	| Notre Dame de Beauraing
+3648x2736	Public domain	File:Notre Dame de Beauraing - parc du Castel Sainte-Marie 1.JPG	| Notre Dame de Beauraing
+1691x2328	CC BY 3.0	File:Beauraing 050422 (5).JPG	| Beauraing (Belgium), the Lady chapel.
+2272x1704	CC BY 3.0	File:Beauraing 050422 (1).JPG	| Beauraing (Belgium), the Lady chapel.
+4510x3482	CC BY-SA 4.0	File:Azulejos in Santuário Nossa Senhora da Paz (4).jpg	| Azulejos in Santuário Nossa Senhora da Paz, Ponte da Barca, Portugal.
+4618x3464	CC BY-SA 4.0	File:Our Lady of Beauraing 01.jpg	| Our Lady of Beauraing
+3888x5184	CC BY-SA 4.0	File:Our Lady of Beauraing 03.jpg	| Our Lady of Beauraing
+3888x5184	CC BY-SA 4.0	File:Our Lady of Beauraing 02.jpg	| Our Lady of Beauraing
+3888x5184	CC BY-SA 4.0	File:Our Lady of Beauraing 06.jpg	| Our Lady of Beauraing
+4288x2848	CC BY-SA 4.0	File:BASTIN - SANCTUAIRE PRO MARIA 2.jpg	| Sanctuaire Pro Maria de Beauraing, Roger Bastin
+4288x2848	CC BY-SA 4.0	File:BASTIN - SANCTUAIRE PRO MARIA intérieur.jpg	| L'intérieur du Sanctuaire Pro Maria, par l'architecte Roger Bastin
+4608x3456	CC0	File:Notre Dame de Beauraing-004.jpg	| La chapelle votive
+4608x3456	CC0	File:Notre Dame de Beauraing-005.jpg	| La chapelle votive
+3456x4608	CC0	File:Notre Dame de Beauraing-006.jpg	| Statue de Notre-Dame de Beauraing (chapelle votive)
+3456x4608	CC0	File:Notre Dame de Beauraing-007.jpg	| Statue de Notre-Dame de Beauraing - chapelle votive
+3456x4608	CC0	File:Notre Dame de Beauraing-008.jpg	| Icône de Notre-Dame de Beauraing dans la chapelle votive
+### Fatima Capelinha das Aparições
+2048x1536	CC BY-SA 3.0	File:Capela das aparições.JPG	| Chapel of apparitions, Fátima, Portugal
+2048x1536	CC BY-SA 4.0	File:Capela das aparições-fr.jpg	| Chapel of apparitions, Fátima, Portugal
+3460x2404	CC BY-SA 2.5	File:Chapel Fatima.jpg	| A Chapel at Fatima
+4000x3000	CC BY-SA 3.0 cz	File:Capela das Aparições (Fátima) 001.jpg	| The Chapel of Apparitions in Fatima, Ourém, Portugal.
+4000x3000	CC BY-SA 3.0 cz	File:Capela das Aparições (Fátima) 002.jpg	| The Chapel of Apparitions in Fatima, Ourém, Portugal.
+4000x3000	CC BY-SA 3.0 cz	File:Capela das Aparições (Fátima) 003.jpg	| The Chapel of Apparitions in Fatima, Ourém, Portugal.
+1641x2543	CC BY-SA 3.0 cz	File:Azulejo na parede da Capela das Aparições (Fátima) 001.jpg	| Azulejo on the northeastern wall of the Chapel of Apparitions in Fatima, Ourém, Portugal.
+2592x1944	CC BY 2.0	File:Capelinha das Aparições (1) - Jul 2008.jpg	| Capelinha das Aparições
+1944x2592	CC BY 2.0	File:Capelinha das Aparições (2) - Jul 2008.jpg	| Capelinha das Aparições
+2592x1944	CC BY 2.0	File:Capelinha das Aparições (3) - Jul 2008.jpg	| Capelinha das Aparições
+2592x1944	CC BY 2.0	File:Capelinha das Aparições (4) - Jul 2008.jpg	| Capelinha das Aparições
+1944x2592	CC BY 2.0	File:Capelinha das Aparições (5) - Jul 2008.jpg	| Capelinha das Aparições
+2592x1944	CC BY 2.0	File:Capelinha das Aparições (6) - Jul 2008.jpg	| Capelinha das Aparições
+2450x1650	CC BY 3.0 de	File:Capelinha das Aparições, 2011.jpg	| The Chapel of Apparitions, Fatima, Ourem, Portugal.
+2048x1536	CC0	File:Fátima, Capelinha das Aparições (2).jpg	| Portugal
+1648x1080	Public domain	File:Capelinha das Aparições de Fátima.jpg	| Capelinha das Aparições de Fátima
+1474x829	CC BY-SA 4.0	File:1 Capelinha das Aparições Santuário de Fátima IMG 9767 1.jpg	| Capelinha das Aparições, Santuário de Fátima
+1129x768	CC BY 3.0	File:Papa Francisco na Capelinha das Aparições (12 de Maio de 2017).png	| Pope Francis in the Chapel of Apparitions (Sanctuary of Fatima, Portugal), on 12 May 2017.
+3968x2976	CC BY-SA 4.0	File:Fátima, Capelinha das Aparições.jpg	| Fátima, Portugal.
+2256x1504	CC BY-SA 4.0	File:Capelinha das Aparições - Santuário de Fátima - 02.jpg	| Santuário de Fátima - em Portugal
+2256x1504	CC BY-SA 4.0	File:Capelinha das Aparições - Santuário de Fátima - 03.jpg	| Santuário de Fátima - em Portugal
+2256x1504	CC BY-SA 4.0	File:Capelinha das Aparições - Santuário de Fátima - 01.jpg	| Santuário de Fátima - em Portugal
+2256x1504	CC BY-SA 4.0	File:Capelinha das Aparições - Santuário de Fátima - 04.jpg	| Santuário de Fátima - em Portugal
+2256x1504	CC BY-SA 4.0	File:Capelinha das Aparições - Santuário de Fátima - 05.jpg	| Santuário de Fátima - em Portugal
+2256x1504	CC BY-SA 4.0	File:Capelinha das Aparições - Santuário de Fátima - 06.jpg	| Santuário de Fátima - em Portugal
+2256x1504	CC BY-SA 4.0	File:Capelinha das Aparições - Santuário de Fátima - 07.jpg	| Santuário de Fátima - em Portugal
+1506x1080	Public domain	File:Capelinha das Aparições dinamitada, 1922.jpg	| The Chapel of the Apparitions, in Fátima, Portugal, as it appeared after being bombed in March 1922.
+1000x671	CC BY-SA 2.0	File:Capelinha Fátima.jpg	| Chapel of the Apparitions of Fatima, Portugal
+### Guadalupe basilica
+3280x2460	CC BY-SA 3.0	File:Nueva Basilica de Guadalupe 08.jpg	| Fchada de la Nueva Basilica de Guadalupe
+3264x2448	CC BY-SA 3.0	File:Basilica de Guadalupe.jpg	| La nueva Basílica de Guadalupe
+3280x2460	CC BY-SA 3.0	File:Nueva Basilica de Guadalupe 51.jpg	| This is a photo of a monument in Mexico, identified by ID
+3280x2460	CC BY-SA 3.0	File:Nueva Basilica de Guadalupe 58.jpg	| This is a photo of a monument in Mexico, identified by ID
+2460x3280	CC BY-SA 3.0	File:Nueva Basilica de Guadalupe 03.jpg	| This is a photo of a monument in Mexico, identified by ID
+2592x1944	CC BY-SA 3.0	File:La Nueva Basílica de Guadalupe.jpg	| This is a photo of a monument in Mexico, identified by ID
+3968x2976	CC BY-SA 3.0	File:Nueva Basílica de Guadalupe.JPG	| This is a photo of a monument in Mexico, identified by ID
+5184x3456	CC BY-SA 4.0	File:Basilica of Our Lady of Guadalupe - Wiki Loves Pyramids tour 009.jpg	| Basilica of Our Lady of Guadalupe, Mexico, part of Wiki Loves Pyramids.
+4320x3240	CC BY-SA 4.0	File:Nueva Basilica de Guadalupe 83.JPG	| This is a photo of a monument in Mexico, identified by ID
+4320x3240	CC BY-SA 4.0	File:Nueva Basilica de Guadalupe 82.JPG	| This is a photo of a monument in Mexico, identified by ID
+4320x3240	CC BY-SA 4.0	File:Nueva Basilica de Guadalupe 84.JPG	| This is a photo of a monument in Mexico, identified by ID
+4032x3024	CC BY-SA 4.0	File:Basilica guadalupe interior 2022.jpg	| The photo was taken inside the Basilica of Guadalupe, showing an underside view of the portrait of the Virgin of Guadalupe.
+3776x2520	CC BY 2.0	File:Interior de la Nueva Basílica de Guadalupe 02.jpg	| Basílica de Guadalupe.
+4608x2184	CC BY-SA 4.0	File:Baptistry - New Basilica of Our Lady of Guadalupe - Mexico 2024.jpg	| New Basilica of Our Lady of Guadalupe - Mexico
+4032x1908	CC BY-SA 4.0	File:Candle burner - New Basilica of Our Lady of Guadalupe - Mexico 2024.jpg	| New Basilica of Our Lady of Guadalupe - Mexico
+1908x4032	CC BY-SA 4.0	File:Side passage and Candle Burner - New Basilica of Our Lady of Guadalupe - Mexico 2024.jpg	| New Basilica of Our Lady of Guadalupe - Mexico
+4608x2184	CC BY-SA 4.0	File:Interior - New Basilica of Our Lady of Guadalupe - Mexico 2024 (2).jpg	| New Basilica of Our Lady of Guadalupe - Mexico
+4608x2184	CC BY-SA 4.0	File:Interior - New Basilica of Our Lady of Guadalupe - Mexico 2024 (3).jpg	| New Basilica of Our Lady of Guadalupe - Mexico
+4608x2184	CC BY-SA 4.0	File:Interior - New Basilica of Our Lady of Guadalupe - Mexico 2024 (4).jpg	| New Basilica of Our Lady of Guadalupe - Mexico
+4608x2184	CC BY-SA 4.0	File:Interior - New Basilica of Our Lady of Guadalupe - Mexico 2024 (5).jpg	| New Basilica of Our Lady of Guadalupe - Mexico
+4032x1908	CC BY-SA 4.0	File:Interior - New Basilica of Our Lady of Guadalupe - Mexico 2024 (6).jpg	| New Basilica of Our Lady of Guadalupe - Mexico
+4032x1908	CC BY-SA 4.0	File:Interior - New Basilica of Our Lady of Guadalupe - Mexico 2024.jpg	| New Basilica of Our Lady of Guadalupe - Mexico
+1908x4032	CC BY-SA 4.0	File:Sacred Image of Our Lady of Guadalupe - New Basilica of Our Lady of Guadalupe - Mexico 2024.jpg	| Sacred Image of Our Lady of Guadalupe - New Basilica of Our Lady of Guadalupe - Mexico
+1908x4032	CC BY-SA 4.0	File:Sacred Image of Our Lady of Guadalupe - New Basilica of Our Lady of Guadalupe - Mexico 2024 (2).jpg	| Sacred Image of Our Lady of Guadalupe - New Basilica of Our Lady of Guadalupe - Mexico
+1908x4032	CC BY-SA 4.0	File:Our Lady of Guadalupe - Main altar - New Basilica of Our Lady of Guadalupe - Mexico 2024.jpg	| Main altar - New Basilica of Our Lady of Guadalupe - Mexico
+4032x1908	CC BY-SA 4.0	File:Main altar - New Basilica of Our Lady of Guadalupe - Mexico 2024 (4).jpg	| Main altar - New Basilica of Our Lady of Guadalupe - Mexico
+4032x1908	CC BY-SA 4.0	File:Main altar - New Basilica of Our Lady of Guadalupe - Mexico 2024 (3).jpg	| Main altar - New Basilica of Our Lady of Guadalupe - Mexico
+4032x1908	CC BY-SA 4.0	File:Main altar - New Basilica of Our Lady of Guadalupe - Mexico 2024 (5).jpg	| Main altar - New Basilica of Our Lady of Guadalupe - Mexico
