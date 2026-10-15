@@ -1,34 +1,86 @@
-OK	vida-espiritual/como-rezar-guia-para-iniciantes	7053x5864	Public domain	Jean-François Millet	File:Jean-François Millet - The Angelus - Google Art Project.jpg
-OK	vida-espiritual/por-que-nao-sinto-nada-quando-rezo	2745x4226	Public domain	Francisco de Zurbarán	File:Francisco de Zurbarán 053.jpg
-OK	vida-espiritual/como-sentir-a-presenca-de-deus	4289x5341	Public domain	
-Attributed to Dierick Bouts the Elder, 	File:Attributed to Dierick Bouts the Elder, Netherlandish (active Louvain), first securely documented 1447, died 1475 - Moses and the Burning Bush, with Moses Removing His Shoes - Google Art Project.jpg
-OK	vida-espiritual/aridez-espiritual-o-que-fazer	6000x3785	Public domain	Giovanni Bellini	File:Bellini,Giovanni - Agony in the Garden - National Gallery.jpg
-OK	vida-espiritual/noite-escura-da-alma-o-que-e	631x804	Public domain	
-Unknown authorUnknown author 	File:Zurbarán (atribuido)-John of the Cross-1656.jpg
-OK	vida-espiritual/distracoes-na-oracao-como-lidar	3459x4001	Public domain	Johannes Vermeer	File:Johannes (Jan) Vermeer - Christ in the House of Martha and Mary - Google Art Project.jpg
-OK	vida-espiritual/oracao-mental-como-meditar	1215x1203	Public domain	Peter Paul Rubens	File:Peter Paul Rubens - Hl. Therese von Avila - GG 7119 - Kunsthistorisches Museum.jpg
-OK	vida-espiritual/tipos-de-oracao-vocal-meditacao-contemplacao	4731x6000	Public domain	Antonello da Messina	File:Antonello da Messina - St Jerome in his study - National Gallery London.jpg
-OK	vida-espiritual/como-ouvir-a-voz-de-deus	2134x2363	Public domain	Joshua Reynolds	File:Reynolds, Sir Joshua - The Calling of Samuel - Google Art Project.jpg
-OK	vida-espiritual/discernimento-espiritual-santo-inacio	1880x2921	Public domain	Peter Paul Rubens	File:St. Ignatius of Loyola by Peter Paul Rubens.jpg
-OK	vida-espiritual/por-que-deus-nao-responde-minhas-oracoes	7395x9609	Public domain	Ary Scheffer	File:Saint Augustin et sa mère sainte Monique - Ary Scheffer - Musée du Louvre Peintures RF 2411.jpg
-OK	vida-espiritual/como-criar-uma-rotina-de-oracao	4138x4914	Public domain	Nicolaes Maes	File:Oude vrouw in gebed, bekend als ‘Het gebed zonder end’ Rijksmuseum SK-C-535.jpeg
-OK	vida-espiritual/direcao-espiritual-o-que-e	518x760	Public domain	Giovanni Battista Lucini	File:Giovanni Battista Lucini - St Francis de Sales.jpg
-OK	vida-espiritual/hora-santa-como-fazer-adoracao	1845x1459	Public domain	Raphael	File:Sanzio, Raffaello - Disputa del Sacramento - 1508-1511 - hi res.jpg
-OK	vida-espiritual/como-vencer-um-pecado-que-se-repete	646x669	Public domain	El Greco	File:Las lágrimas de San Pedro, de El Greco (Catedral de Toledo).jpg
-OK	vida-espiritual/me-sinto-indigno-do-amor-de-deus	22991x30000	Public domain	Rembrandt	File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg
-OK	vida-espiritual/escrupulos-o-que-sao-e-como-tratar	2515x3633	CC0	Georges de La Tour	File:The Penitent Magdalen MET DT7252.jpg
-OK	vida-espiritual/por-que-deus-permite-o-sofrimento	3696x3166	Public domain	William Blake	File:Job Rebuked by His Friends Butts set.jpg
-OK	primeiros-passos/como-se-tornar-catolico	2566x1989	Public domain	Joachim Patinir	File:Joachim Patinir - The Baptism of Christ - Google Art Project 2.jpg
-OK	primeiros-passos/como-voltar-para-a-igreja-depois-de-anos	4000x3658	CC0	Bartolomé Esteban Murillo	File:Bartolomé Esteban Murillo, The Return of the Prodigal Son, 1667-1670, NGA 34956.jpg
-OK	primeiros-passos/primeiros-passos-depois-da-conversao	6711x8817	Public domain	Caravaggio	File:Conversion on the Way to Damascus-Caravaggio (c.1600-1).jpg
-OK	primeiros-passos/o-essencial-da-fe-catolica	3231x4000	Public domain	Andrei Rublev	File:Andrey Rublev - Св. Троица - Google Art Project.jpg
-OK	primeiros-passos/primeira-vez-na-missa-o-que-fazer	3996x3000	Public domain	Raphael	File:Raphael - The Mass at Bolsena.jpg
-OK	primeiros-passos/quem-pode-comungar	9600x4800	Public domain	Leonardo da Vinci	File:The Last Supper - Leonardo Da Vinci - High Resolution 32x16.jpg
-OK	primeiros-passos/segunda-uniao-pode-comungar	3867x2603	Public domain	Paolo Veronese	File:Veronese, The Marriage at Cana (1563).jpg
-OK	primeiros-passos/rica-catecumenato-de-adultos	3401x4495	Public domain	Rembrandt	File:Rembrandt, The Baptism of the Eunuch, 1626, Museum Catharijneconvent, Utrecht.jpg
-OK	primeiros-passos/crisma-de-adulto-como-fazer	1365x2964	Public domain	El Greco	File:Pentecostés (El Greco, c. 1600) Prado.jpg
-OK	primeiros-passos/como-comecar-a-ler-a-biblia	761x1000	Public domain	Gerrit Dou	File:Gerard Dou - Portret van een lezende oude vrouw.jpg
-OK	primeiros-passos/os-mandamentos-da-igreja	4000x4990	Public domain	Rembrandt	File:Rembrandt - Moses with the Ten Commandments - Google Art Project.jpg
-OK	primeiros-passos/ter-duvidas-de-fe-e-pecado	8550x6325	Public domain	Caravaggio	File:The Incredulity of Saint Thomas-Caravaggio (1601-2).jpg
-OK	primeiros-passos/de-evangelico-para-catolico-duvidas	1377x1545	Public domain	Carl Bloch	File:Bloch-SermonOnTheMount.jpg
-OK	primeiros-passos/medo-de-se-confessar-como-vencer	1295x1600	Public domain	Giuseppe Molteni	File:Artgate Fondazione Cariplo - Molteni Giuseppe, La confessione.jpg
+### Saint John of the Cross painting
+2440x2268	Public domain	File:Stations of the Cross, 5, Saint-Jean-Baptiste au Beguinage, Brussels.jpg
+2052x2407	Public domain	File:Juan Rodríguez Juárez - The Virgin of the Carmen with Saint Theresa and Saint John of the Cross - Google Art Project.jpg
+1958x2365	Public domain	File:Diego de Sanabria - Saint John of the Cross - Google Art Project.jpg
+3987x5943	Public domain	File:Hendrick ter Brugghen The Crucifixion with the Virgin and Saint John.jpg
+4912x6848	CC BY-SA 4.0	File:Madonna dell'Orto (Venice) - Right side of the nave - John the Baptist among the saints Peter, Marco, Jerome and Paul by Cima da Conegliano 1495.jpg
+4488x7271	Public domain	File:Pieter Thijs - Visioen van de heilige Johannes van het Kruis - 355 - Royal Museum of Fine Arts Antwerp.tiff
+6054x4450	Public domain	File:Luis de Morales. Christ Carrying the Cross with the Virgin and Saint John. Kunstmuseum Basel.jpg
+1908x4032	CC BY-SA 4.0	File:Fresco of Saint John the Baptist and Saint Zachary-Monastery of the Cross.jpg
+4032x3024	CC BY-SA 4.0	File:Saint Theresa and John of the Cross, St. John of the Cross Chapel, Segovia.jpg
+4599x6653	CC BY 4.0	File:Christ on the Cross - Francesco Trevisani.jpg
+### San Juan de la Cruz Zurbarán
+### Saint Francis de Sales painting
+4000x2246	CC BY-SA 4.0	File:Saint Anthony of Padua Catholic Church (Dayton, Ohio) - mural detail, Sts. Therese of Lisieux, Francis of Assisi, Wenceslaus, Margaret Mary, & Francis de Sales.JPG
+3861x5569	CC BY-SA 4.0	File:Cathédrale Saint-Étienne de Toulouse – Saint François de Sales remet la règle à sainte Jeanne de Chantal - By Bertrand François (1756-1805) PM31001527.jpg
+4309x6066	CC BY-SA 4.0	File:Duomo (Verona) - Interior - Nave left part - Cappella Abbazia-Lazzari ‘’the Redeemer between Tobias, the Angel and the Saints Liborio and Francis de Sales’’ by Sante Prunati.jpg
+2112x2816	Public domain	File:Chapelle Saint-François-de-Paule, Saint-François de Sales (Bormes-les-Mimosas).jpg
+5068x6000	Public domain	File:Château de Bussy-Rabutin - Saint François de Sales, évêque de Genève (bgw19 0375).jpg
+3447x4329	Public domain	File:Château de Bussy-Rabutin - Saint François de Sales, évêque de Genève (bgw19 0375) (cropped).jpg
+3024x4032	Public domain	File:Corrado Giacquinto - Saint Jane Frances of Chantal and Saint Francis of Sales in adoration of the Heart of Jesus - Santa Bárbara, Madrid.jpg
+3024x4032	CC0	File:Lyon 2e - Église Saint François de Sales - Chapelle Saint François de Sales - Portrait de saint François de Sales.jpg
+1908x4032	CC BY-SA 4.0	File:Saint Francis de Sales, Saint Francis of Assisi and Saint Anthony of Padua by Francesco Solimena at San Nicola alla Carità (Naples).jpg
+3421x4279	CC BY 4.0	File:Saint Francis de Sales Church (Holland, Michigan) - pews and Our Lady of Guadalupe shrine.jpg
+3574x3580	CC BY 4.0	File:Saint Rose Church (Perrysburg, Ohio) - vault fresco, St. Francis de Sales.jpg
+2529x4113	CC BY 3.0	File:Carlo Maratta - Virgin in Glory with Saints Francis de Sales and Thomas of Villanova.jpg
+### Tears of Saint Peter El Greco
+2040x2352	Public domain	File:The Penitent Saint Peter by El Greco, San Diego Museum of Art.JPG
+4099x5121	Public domain	File:El Greco - Saint Peter in Tears - Google Art Project.jpg
+4000x3000	Public domain	File:San Diego, 2016 - 386.jpg
+2942x3580	Public domain	File:El Greco, Saint Peter Repentant, National Gallery, Oslo (2) (36069411470).jpg
+6000x4000	Public domain	File:El Greco, Saint Peter Repentant, National Gallery, Oslo (1) (35631222574).jpg
+6000x4000	CC BY 2.0	File:Cathedral of Toledo, sacristy, with paintings by El Greco (6) (29753151416).jpg
+3164x3900	Public domain	File:El Greco - Tears of Saint Peter 3164.jpg
+3116x4000	Public domain	File:El Greco - Tears of St. Peter - NG.M.01346 - National Museum of Art, Architecture and Design.jpg
+4250x4892	Public domain	File:El Greco - The Penitent Saint Peter, ca. 1590-1595, 1940.76.jpg
+1469x1826	CC BY-SA 4.0	File:'Tears of Saint Peter' (ca 1587-1596) by El Greco - Museo Soumaya - Mexico 2024.jpg
+### Repentant Saint Peter painting
+4887x6000	Public domain	File:Georges de La Tour - Saint Peter Repentant - 1951.454 - Cleveland Museum of Art.jpg
+2024x2486	Public domain	File:Georges de La Tour - Saint Peter Repentant (detail) - Cleveland Museum of Art.jpg
+3448x3940	Public domain	File:Francisco José de Goya - The Repentant St. Peter - Google Art Project.jpg
+3217x4001	Public domain	File:El Greco - The Repentant St. Peter - Google Art Project.jpg
+2668x3554	Public domain	File:The Repentant St Peter - Nationalmuseum - 18293.tif
+2560x1940	Public domain	File:Claude Vignon - The Repentant Saint Peter.jpg
+2106x2454	CC BY 3.0	File:Georges de la tour, san pietro pentito, 1645.jpg
+2942x3580	Public domain	File:El Greco, Saint Peter Repentant, National Gallery, Oslo (2) (36069411470).jpg
+6000x4000	Public domain	File:El Greco, Saint Peter Repentant, National Gallery, Oslo (1) (35631222574).jpg
+4887x6000	Public domain	File:Georges de La Tour - Saint Peter Repentant - 1951.454 - Cleveland Museum of Art.tiff
+1607x2000	Public domain	File:Juan Valdes Leal - Saint Peter Repentant - 2010.101 - Detroit Institute of Arts.jpg
+2069x2700	Public domain	File:Jacob Jordaens - Saint Peter Repentant.jpg
+### Old woman reading Bible painting Rembrandt
+1591x2316	Public domain	File:Rembrandt, 1607-1669, (IA rembrandt160716600mans).pdf
+### Saint Teresa of Avila painting
+2376x2616	CC BY 3.0	File:Painting of Teresa of Ávila in Carmo Church Braga.jpg
+3648x5472	CC BY-SA 4.0	File:Saint Teresa of Ávila church in Braga (4).JPG
+2857x3722	CC0	File:Saint Teresa of Ávila Interceding for Souls in Purgatory MET DT206354.jpg
+2808x3540	Public domain	File:Cappella Giustinian dei Vescovi of San Francesco della Vigna (Venice) - Peter of Alcantara shows, to Teresa d'Avila, the way to paradise - by Francesco Fontebasso.jpg
+2547x3210	CC BY-SA 4.0	File:Santa Teresa y Avila - Mercedes Barba.jpg
+2736x3648	CC BY 4.0	File:Ávila, Convent-church of Saint Teresa 002.jpg
+1458x1564	Public domain	File:THE VISION OF SAINT TERESA OF AVILA .jpg
+1648x2480	Public domain	File:Saint Teresa of Avila P6036.jpg
+1649x2400	Public domain	File:Sargent - Saint Teresa of Avila. c. 1903, 1937.8.67.jpg
+2880x4075	Public domain	File:Saint James the Greater with Saint Teresa of Avila (School of Madrid, 17th century).jpg
+1736x2576	CC BY-SA 4.0	File:'Saint Teresa of Ávila' (2016) by Carmen Parra - Museo Nacional de Artes - Mexico 2024.jpg
+2409x3046	CC BY-SA 4.0	File:'Saint Teresa of Ávila's Vision' (1670-1714) by Cristóbal de Villalpando - Museo Soumaya - Mexico 2024.jpg
+### Teresa de Jesús Gregorio Fernández OR Rubens Teresa
+2112x2816	CC BY-SA 3.0	File:Gregorio Fernández, Santa Teresa de Jesús, 1625.jpg
+2148x3252	CC BY 4.0	File:Saint Teresa. Engraving after Sir P.P. Rubens. Wellcome V0033080.jpg
+2857x3722	CC0	File:Saint Teresa of Ávila Interceding for Souls in Purgatory MET DT206354.jpg
+2761x2006	Public domain	File:0 La Vision de sainte Thérèse d'Avila - P.P. Rubens.jpg
+2283x3571	CC0	File:Saint Teresa of Avila's Vision of the Dove MET DP878530.jpg
+3000x4000	CC BY-SA 4.0	File:Teresa of Avila's Vision of the Dove, c. 1614, Peter Paul Rubens, Fitzwilliam Museum 03.jpg
+### Saint Alphonsus Liguori
+3456x4608	CC0	File:04585ajfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf.jpg
+3456x4608	CC0	File:04212jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 03.jpg
+4608x3456	CC0	File:04212jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 13.jpg
+4608x3456	CC0	File:04212jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 31.jpg
+3456x4608	CC0	File:04212jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 33.jpg
+4608x3456	CC0	File:04212jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 38.jpg
+3456x4608	CC0	File:04212jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 42.jpg
+4608x3456	CC0	File:04031jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 06.jpg
+4608x3456	CC0	File:04031jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 09.jpg
+3456x4608	CC0	File:04031jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 19.jpg
+4608x3456	CC0	File:03921jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 25.jpg
+4608x3456	CC0	File:03966jfSaint Alphonsus Mary Liguori Parish Church Magallanes Village Makati Cityfvf 10.jpg
+3240x4320	CC BY-SA 2.0	File:Mount St Alphonsus church, Limerick - geograph.org.uk - 3809559.jpg
+3257x5073	CC BY-SA 4.0	File:Sint-Jan Baptistkerk (Stalhille) Alfonsus van Liguori 21-08-2023 14-23-57.jpg
