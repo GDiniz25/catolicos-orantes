@@ -111,7 +111,7 @@ if (FAQ.length) jsonLd.push(faqSchema(FAQ));
         <p class="text-co-warm-brown/75">Ainda não há santos cadastrados para esta data.</p>
       )}
 
-      {saints.length > 0 && <Compartilhar path={path} titulo={title} texto={`🙏 Santo do dia, ${dataTxt}: ${nomesUnicos.join(', ')}`} class="mt-6" />}
+      {saints.length > 0 && <Compartilhar path={path} titulo={title} texto={`🙏 Santo do dia, ${dataTxt}: ${nomesUnicos.find((n) => !/^S\. /.test(n)) ?? nomesUnicos[0]}`} class="mt-6" />}
 
       <nav class="mt-8 flex items-center justify-between gap-4 text-[15px]" aria-label="Outros dias">
         <a href={`/santo-do-dia/${diaMesSlug(anterior.month, anterior.day)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">

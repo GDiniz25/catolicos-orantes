@@ -111,7 +111,7 @@ const jsonLd = [
             </a>
           )}
 
-          <Compartilhar path={path} titulo={saint.saint_name} texto={`🙏 ${shortName}, celebrado em ${dateLabel.replace(/ de ([A-ZÇ])/, (m) => m.toLowerCase())}`} class={hasArticle ? 'mt-3' : ''} />
+          <Compartilhar path={path} titulo={saint.saint_name} texto={`🙏 ${shortName}: festa em ${dateLabel.replace(/ de ([A-ZÇ])/, (m) => m.toLowerCase())}`} class={hasArticle ? 'mt-3' : ''} />
 
           {saint.vatican_url && (
             <p class="mt-4">
