@@ -17,127 +17,19 @@ OK	ladainhas/ladainha-de-santo-expedito#reserva	630x809	Public domain	Unknown au
 OK	ladainhas/ladainha-de-sao-jorge	4152x5454	Public domain	Raphael	File:Raphael - Saint George and the Dragon - Google Art Project.jpg
 OK	ladainhas/ladainha-de-sao-jorge#reserva	3181x5062	Public domain	Paolo Uccello	File:Paolo Uccello - St George slaying the dragon - Google Art Project.jpg
 OK	x#lotto	1902x2001	Public domain	Lorenzo Lotto	File:Lorenzo Lotto 004.jpg
-OK	fr/big_lourdes5	4272x2848	CC BY-SA 4.0	Poudou99	File:Lourdes IMG 9315.JPG
-   DESC: Massabiel cave / Lourdes - Hautes-Pyrénées - France
-   CATS: CC-BY-SA-4.0 | Files uploaded by Poudou99 | Grotte de Massabielle
+OK	fr/big_v1	3864x5152	CC BY-SA 4.0	Thomon	File:Vierge Médaille Miraculeuse.jpg
+   DESC: Statue de la Vierge à la chapelle ND de la Médaille miraculeuse.
+   CATS: CC-BY-SA-4.0 | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Self-published work | Statues of Virgin Mary in Paris | Statues of the Virgin Mary holding the Globe
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/big_knock1	4035x3163	CC BY-SA 4.0	KnockShrine	File:Apparition Chapel with Stained Window.jpg
-   DESC: The Apparition Chapel at Knock Shrine, Co Mayo, Ireland
-   CATS: Apparition Chapel (Knock) | CC-BY-SA-4.0 | Our Lady of Knock | Self-published work
+OK	fr/big_v2	3864x5152	CC BY-SA 4.0	Thomon	File:Intérieur de la chapelle de la Médaille miraculeuse.jpg
+   DESC: Intérieur de la chapelle ND de la Médaille miraculeuse.
+   CATS: CC-BY-SA-4.0 | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/big_apar_bas	3999x2666	CC BY 3.0	HVL	File:Vista da Basílica de Nossa Senhora Aparecida, Aparecida SP.JPG
-   DESC: View of the Basilica of the National Shrine of Our Lady of Aparecida, in Aparecida, São Paulo, Brazil.
-   CATS: Basilica of Our Lady of Aparecida, north facade | Brazil photographs taken on 2011-12-13 | CC-BY-3.0 | Churches in Brazil photographed in 2011 | Passarela da Fé | Remote views of the Basilica of Our Lady of Aparecida | Self-published work | Taken with Sony DSC-W310
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/bacn2	2232x3968	CC BY 2.0	jean-louis Zimmermann from Moulins, FRAN	File:Chapelle de la rue du Bac 2009-08-07 n2.jpg
-   DESC: chapelle de la rue du Bac (PARIS,FR75)
-   CATS: CC-BY-2.0 | Chapelle Notre-Dame de la Médaille Miraculeuse | Flickr images reviewed by File Upload Bot (Magnus Manske) | Louise de Marillac | Statues of Saint Louise de Marillac | Taken with Panasonic Lumix DMC-LX3
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/bacn3	3968x2232	CC BY 2.0	jean-louis Zimmermann from Moulins, FRAN	File:Chapelle de la rue du Bac 2009-08-07 n3.jpg
-   DESC: chapelle de la rue du Bac (PARIS,FR75)
-   CATS: CC-BY-2.0 | Flickr images reviewed by File Upload Bot (Magnus Manske) | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Taken with Panasonic Lumix DMC-LX3
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/bacn4	2232x3236	CC BY 2.0	jean-louis Zimmermann from Moulins, FRAN	File:Chapelle de la rue du Bac 2009-08-07 n4.jpg
-   DESC: chapelle de la rue du Bac (PARIS,FR75)
-   CATS: CC-BY-2.0 | Flickr images reviewed by File Upload Bot (Magnus Manske) | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Statues of Saint Joseph and Jesus Christ as a baby in Paris
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/bacn5	3968x2232	CC BY 2.0	jean-louis Zimmermann from Moulins, FRAN	File:Chapelle de la rue du Bac 2009-08-07 n5.jpg
-   DESC: chapelle de la rue du Bac (PARIS,FR75)
-   CATS: CC-BY-2.0 | Flickr images missing SDC creator | Flickr images missing SDC source of file | Flickr images reviewed by File Upload Bot (Magnus Manske) | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Taken with Panasonic Lumix DMC-LX3
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	File:Chapelle de la rue du Bac (PARIS,FR75) (4029882515).jpg
+OK	fr/big_v3	5184x3456	CC BY-SA 4.0	Ketounette	File:Chapelle Notre-Dame de la Médaille Miraculeuse1.JPG
+   DESC: Vue intérieure
+   CATS: CC-BY-SA-4.0 | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	File:Chapelle de la rue du Bac (PARIS,FR75) (4029882515).jpg
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/bacf2	2520x3776	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	File:Chapelle de la rue du Bac (PARIS,FR75) (4030631998).jpg
-   DESC: chapelle de la rue du Bac (PARIS,FR75)
-   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/bacf3	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	File:Chapelle de la rue du Bac (PARIS,FR75) (4030633286).jpg
-   DESC: chapelle de la rue du Bac (PARIS,FR75)
-   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/bacv	3648x5472	CC BY 2.0	Guilhem Vellut from Paris, France	File:Chapelle de la Médaille Miraculeuse @ Paris (33777058535).jpg
-   DESC: Chapelle de la Médaille Miraculeuse @ Paris
-   CATS: CC-BY-2.0 | Coffins in France | Files from Guilhem Vellut Flickr stream | Flickr images reviewed by FlickreviewR | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Louise de Marillac | Paris photographs taken on 2017-04-01 | Reliquaries in France | Uploaded by Paris 16
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/big_bac2	3648x2736	CC BY 2.0	jean-louis Zimmermann from Moulins, FRAN	File:Chapelle de la rue du Bac 2009-08-07 n1.jpg
-   DESC: chapelle de la rue du Bac (PARIS,FR75)
-   CATS: CC-BY-2.0 | Chapelle Notre-Dame de la Médaille Miraculeuse | Flickr images reviewed by File Upload Bot (Magnus Manske) | Taken with Panasonic Lumix DMC-LX3
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/big_medj2	4310x2868	CC BY 2.0	gnuckx	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694723725).jpg
-   DESC: St. Jacob church in Međugorje, Bosnia.
-   CATS: CC-BY-2.0 | Files from gnuckx Flickr stream | Files with coordinates missing SDC location of creation | Flickr images reviewed by File Upload Bot (Magnus Manske) | Media needing category review as of 15 April 2016 | St. Jacob church in Međugorje | Taken with Nikon D5000
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/big_bsas	1763x2204	CC BY-SA 4.0	Nicolasrnphoto	File:ParroquiaSantaMaria Caballito BsAs.jpg
-   DESC: Parroquia Santa María - Caballito - Buenos Aires - Argentina.
-   CATS: CC-BY-SA-4.0 | Parroquias de Argentina | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/big_tix	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073224932).jpg
-   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='nofollow'&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href='http://www.catedraleseiglesias.com' data-
-   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/big_cascia	3530x4708	CC BY-SA 4.0	66colpi	File:Cascia - Basilica di Santa Rita da Cascia - La facciata.jpg
-   DESC: basilica di Santa Rita da Cascia
-   CATS: Basilica di Santa Rita (Cascia) | CC-BY-SA-4.0 | Cultural heritage monuments in Italy missing SDC location of creation | Cultural heritage monuments in Italy with known IDs | Files uploaded via webapp Wiki Loves Monuments Italia - desktop version in 2025 | Images from Wiki Loves Monuments 2025 | Images from Wiki Loves Monuments 2025 in Italy | Images from Wiki Loves Monuments 2025 in Italy - Umbria | Images from Wiki Loves Monuments 2025 in Italy - Umbria - traditional contest | Images from Wiki
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-### incategory:"Interior of Chapelle Notre-Dame de la Médaille Miraculeuse"
-1024x768	Public domain	File:Bac.Catherine.Cercueil.jpg	| Chapelle de la Médaille Miraculeuse, glass coffin of St Catherine Labouré
-2048x1536	Public domain	File:Bac M Miraculeuse.Autel1.jpg	| Description du contenu=Chapelle de la Médaille Miraculeuse, Autel 1 Source=« œuvre personnelle » Date=29-07-2006 Author=André Leroux Permiss
-2048x1536	Public domain	File:Bac M Miraculeuse.Autel2.jpg	| Description du contenu=Chapelle de la Médaille Miraculeuse, Autel 2 Source=« œuvre personnelle » Date=29-07-2006 Author=André Leroux Permiss
-1024x768	Public domain	File:Louisedemarillac.jpg	| Reliquienschrein der Hl. Louise de Marillac, Paris, rue du Bac
-3968x2232	CC BY 2.0	File:Chapelle de la rue du Bac 2009-08-07 n3.jpg	| chapelle de la rue du Bac (PARIS,FR75)
-3968x2232	CC BY 2.0	File:Chapelle de la rue du Bac 2009-08-07 n5.jpg	| chapelle de la rue du Bac (PARIS,FR75)
-2232x3236	CC BY 2.0	File:Chapelle de la rue du Bac 2009-08-07 n4.jpg	| chapelle de la rue du Bac (PARIS,FR75)
-2000x1500	CC BY-SA 3.0	File:P1240781 Paris VII ND medaille miraculeuse travees rwk.jpg	| Chapelle Notre-Dame-de-la-Médaille-miraculeuse (nef et travées) - Paris VII This building is classé au titre des monuments historiques de la
-2000x1476	CC BY-SA 3.0	File:P1240776 Paris VII ND medaille miraculeuse nef rwk.jpg	| Chapelle Notre-Dame-de-la-Médaille-miraculeuse (assistance dans la nef) - Paris VII This building is classé au titre des monuments historiqu
-2000x1515	CC BY-SA 3.0	File:P1240779 Paris VII ND medaille miraculeuse orgue rwk.jpg	| Chapelle Notre-Dame-de-la-Médaille-miraculeuse (orgue de tribune) - Paris VII This building is classé au titre des monuments historiques de 
-5184x3456	CC BY-SA 4.0	File:Chapelle Notre-Dame de la Médaille Miraculeuse1.JPG	| Vue intérieure
-3864x5152	CC BY-SA 4.0	File:Vierge Médaille Miraculeuse.jpg	| Statue de la Vierge à la chapelle ND de la Médaille miraculeuse.
-3864x5152	CC BY-SA 4.0	File:Intérieur de la chapelle de la Médaille miraculeuse.jpg	| Intérieur de la chapelle ND de la Médaille miraculeuse.
-3864x5152	CC BY-SA 4.0	File:Saint Vincent de Paul Médaille miraculeuse.jpg	| Statue de saint Vincent de Paul au-dessus de l'autel de droite de la chapelle ND de la Médaille miraculeuse.
-1368x1824	CC BY-SA 4.0	File:Paris - Chapelle Notre-Dame de la Médaille Miraculeuse - 1.jpg	| The chapel of Our Lady of the Miraculous Medal in Paris (Île-de-France, France).
-1368x1824	CC BY-SA 4.0	File:Paris - Chapelle Notre-Dame de la Médaille Miraculeuse - 2.jpg	| The chapel of Our Lady of the Miraculous Medal in Paris (Île-de-France, France).
-1368x1824	CC BY-SA 4.0	File:Paris - Chapelle Notre-Dame de la Médaille Miraculeuse - 8.jpg	| The chapel of Our Lady of the Miraculous Medal in Paris (Île-de-France, France).
-1368x1824	CC BY-SA 4.0	File:Paris - Chapelle Notre-Dame de la Médaille Miraculeuse - 9.jpg	| The chapel of Our Lady of the Miraculous Medal in Paris (Île-de-France, France).
-1368x1824	CC BY-SA 4.0	File:Paris - Chapelle Notre-Dame de la Médaille Miraculeuse - 10.jpg	| The chapel of Our Lady of the Miraculous Medal in Paris (Île-de-France, France).
-1368x1824	CC BY-SA 4.0	File:Paris - Chapelle Notre-Dame de la Médaille Miraculeuse - 11.jpg	| The chapel of Our Lady of the Miraculous Medal in Paris (Île-de-France, France).
-1824x1368	CC BY-SA 4.0	File:Paris - Chapelle Notre-Dame de la Médaille Miraculeuse - 12.jpg	| The chapel of Our Lady of the Miraculous Medal in Paris (Île-de-France, France).
-1368x1824	CC BY-SA 4.0	File:Paris - Chapelle Notre-Dame de la Médaille Miraculeuse - 3.jpg	| The chapel of Our Lady of the Miraculous Medal in Paris (Île-de-France, France).
-2232x3968	CC BY 2.0	File:Statue Saint Joseph à l’enfant, chapelle de la rue du Bac (PARIS,FR75) (4030627026).jpg	| Statue Saint Joseph à l’enfant, chapelle de la rue du Bac (PARIS,FR75)
-2520x3776	CC BY 2.0	File:Chapelle de la rue du Bac (PARIS,FR75) (4030631998).jpg	| chapelle de la rue du Bac (PARIS,FR75)
-2736x3648	CC BY 2.0	File:Chapelle Saint Vincent de Paul, rue du Bac (PARIS,FR75) (4030630468).jpg	| chapelle Saint Vincent de Paul, rue du Bac (PARIS,FR75)
-2736x3648	CC BY 2.0	File:Châsse de Louise de Marillac.jpg	| Châsse de Louise de Marillac dans la chapelle Notre-Dame-de-la-Médaille-miraculeuse à Paris, en France.
-2232x3968	CC BY 2.0	File:Chapelle de la rue du Bac (PARIS,FR75) (4030633286).jpg	| chapelle de la rue du Bac (PARIS,FR75)
-3456x4608	CC0	File:Chapelle de la Médaille Miraculeuse (Ste Jeanne d'Arc).jpg	| Statue de Sainte Jeanne d'Arc
-3456x4608	CC0	File:Chapelle de la Médaille Miraculeuse (St Michel).jpg	| Statue de Saint Michel terrassant le dragon
-### Médaille Miraculeuse chapelle autel
-2048x1536	Public domain	File:Bac M Miraculeuse.Autel1.jpg	| Description du contenu=Chapelle de la Médaille Miraculeuse, Autel 1 Source=« œuvre personnelle » Date=29-07-2006 Author=André Leroux Permiss
-2048x1536	Public domain	File:Bac M Miraculeuse.Autel2.jpg	| Description du contenu=Chapelle de la Médaille Miraculeuse, Autel 2 Source=« œuvre personnelle » Date=29-07-2006 Author=André Leroux Permiss
-1024x768	Public domain	File:Bac.MMiraculeuse.Vincent.jpg	| Kapelle der Wundertätigen Medaille, Paris, Rue du Bac, Statue des Hl. Vinzenz von Paul
-1519x2000	CC BY-SA 3.0	File:P1240778 Paris VII ND medaille miraculeuse statue St Vincent rwk.jpg	| Chapelle Notre-Dame-de-la-Médaille-miraculeuse (autel et statue de St Vincent de Paul) - Paris VIIe This building is classé au titre des mon
-2641x4046	Public domain	File:Lamirault - La Grande encyclopédie, inventaire raisonné des sciences, des lettres et des arts, tome 17.djvu	| 
-1650x2550	Public domain	File:University of Michigan (IA agf6662.0017.001.umich.edu).pdf	| Secrétaire général: v. 1-18, F. Camille Dreyfus; v. 19-31, André Berthelot Vols. 23-31 published by Société anonyme de La Grande encyclopédi
-1220x1920	Public domain	File:Catalogue d'une collection choisie d'estampes - des plus célèbres graveurs anciens de Pays-Bas ... - le tout délaissé par Mr. François Xavier Lousbergs .. (IA cataloguedunecol00goes).pdf	| 100 p. ; 22 cm "Dont la vente est offerte de la main à la main jusqu'au premier Septembre 1809. Passé quelle époque, elle se fera publiqueme
-1225x1783	Public domain	File:La Mosaïque - revue pittoresque illustrée de tous les temps et de tous les pays (IA lamosaiquerevuep1874unse).pdf	| Subjects: Periodicals
-1183x1408	Public domain	File:Petit manuel de l'Archiconfrérie du Très-Saint et Immaculée Coeur de Marie (microforme) - établie dans l'Église cathédrale de Montréal, le 7 février 1841 (IA cihm 51354).pdf	| Comprend du texte en latin Microfiche de l'exemplaire de l'édition originale se trouvant au Séminaire de Québec, Bibliothèque 43 Subjects: A
-1204x1408	Public domain	File:Petit manuel de l'Archiconfrérie du Très-Saint et Immaculée Coeur de Marie (microforme) - établie dans l'Église cathédrale de Montréal, le 7 février 1841 (IA cihm 51355).pdf	| "Avec l'approbation de Mgr. de Montréal." Comprend du texte en latin Microfiche de l'exemplaire de l'édition originale se trouvant au Sémina
-1189x1435	Public domain	File:La madone de Rimini, ou, Relation de l'évènement miraculeux qui vient d'avoir lieu à Rimini, ville des états de l'Église (microforme) - suivie de la madone de Fossombrone (IA cihm 93293).pdf	| Microfiche de l'exemplaire de l'édition originale se trouvant à l'Assemblée nationale du Québec, Bibliothèque 43 Subjects: Marie, Sainte Vie
-1460x1447	Public domain	File:Revue des sociétés savantes des départements (IA revuedessocietessavantes3s1).pdf	| Book digitized by Google and uploaded by ARLIMA (http://www.arlima.net) Subjects: periodical; France
-2160x3627	Public domain	File:Boylesve - Mlle Cloque, Revue Blanche, 1899.djvu	| Roman en français Mademoiselle Cloque de René Boylesve, La Revue Blanche, Paris, 1899
-1166x1364	Public domain	File:Les origines de la dévotion au Sacré-Coeur de Jésus au Canada (microforme) - racontés à l'occasion du deuxième centenaire de l'établissement de la fête du Coeur de Jésus aux Ursulines de (IA cihm 09163).pdf	| En tête du titre: 1700-1900 Comprend des références bibliographiques Microfiche de l'exemplaire de l'édition originale se trouvant à la Bibl
-1164x1370	Public domain	File:L'annuaire de Marie ou Le véritable serviteur de la Sainte Vierge (microforme) - approuvé à Rome et offert à S.S. Gregoire XVI (IA cihm 10477).pdf	| "'Beatus ille Sacerdos qui servus est Mariae, ipsique servos congregat! Beatus populus qui illam colit! hi accipient benedictionem à Domino,
-### rue du Bac chapelle intérieur
-5100x6600	Public domain	File:Port - Dictionnaire historique, géographique et biographique de Maine-et-Loire, tome 2.djvu	| Dictionnaire en langue française, de D à M, 793 p
-4608x3456	CC BY-SA 4.0	File:MEP Épiphanie.JPG	| Intérieur de la chapelle de l'Épiphanie des Missions étrangères, rue du Bac à Paris.
-2481x4012	Public domain	File:Buies - Sur le parcours du chemin de fer du Lac St-Jean, deuxième conférence, 1887.djvu	| uploaded for Wikisource
-1911x3339	Public domain	File:Société des artistes français, catalogue illustré du Salon de 1898, vingtième année (1898).djvu	| Imprint varies
-2515x4009	Public domain	File:Wilson - Voyage autour du monde, 1923.djvu	| uploaded for Wikisource
-1110x1862	Public domain	File:Catalogue raisonné des estampes du cabinet de M. le comte Rigal (IA catalogueraisonn1018regn).pdf	| xii, 564, 13 p. ; 21 cm No price list Includes supplement: "Table des prix des articles du cabinet de M. le comte Rigal, vendus le mercredi 
-1064x1404	Public domain	File:Exposition Debucourt - catalogue des tableaux, dessins, gravures exposés au Musée des arts décoratifs, du 11 juin au 11 juillet 1920, Palais du Louvre (IA expositiondebuco00debu).pdf	| Includes bibliographical references Subjects: Debucourt, Philibert-Louis, 1755-1832
-1181x1500	Public domain	File:Les dessins du Louvre (IA gri 33125012778060).pdf	| v Subjects: Musée du Louvre. Cabinet des dessins -- Catalogs; Drawing -- France -- Paris -- Catalogs
-1343x1787	Public domain	File:L'art du dix-huitième siècle (IA lartdudixhuitiem14gonc).pdf	| Subjects: Art, French; Artists
-1347x2335	Public domain	File:Notice sur la découverte du lavatorium de l'ancien hôpital Saint-Jean d'Angers (IA b30574274).pdf	| 32 pages : Subjects: Hospitals -- history; Angers (France)
-5020x3841	CC0	File:Prison Sainte-Pélagie, 14 rue du Puits-de-l'Ermite. Salle de bains, 5ème arrondissement. PH9722.jpg	| Auteur(s): Emonts ou Emonds, Pierre (Aix-la-Chapelle, 29–03–1831 - après 1912), photographe Autre titre: Prison Ste Pélagie - Salle de Bains
-8533x12558	Public domain	File:Voyages de la commission scientifique du Nord, en Scandinavie, en Laponie, au Spitzberg et aux Feroë, 1843.djvu	| Voyages de la commission scientifique du Nord, en Scandinavie, en Laponie, au Spitzberg et aux Feroë, pendant les années 1838, 1839 et 1840 
-4267x6935	Public domain	File:Vallot - Essai sur la flore du pavé de Paris.djvu	| Essai sur la flore du pavé de Paris limité aux boulevards extérieurs, ou Catalogue des plantes qui croissent spontanément dans les rues et s
