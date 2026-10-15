@@ -33,376 +33,148 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/m_de_seefeld_austria	2252x4000	CC BY-SA 4.0	Ricardalovesmonuments	File:Sankt Oswald (Seefeld in Tirol) Hl-Blut-Kapelle Altar.jpg
-   DESC: Seefeld in Tirol, St. Oswald: Den Tabernakel auf dem Altar der Heiligblutkapelle schuf Georg Ignatius Baur um 1767–1769. Das Relief im oberen Abschluss des Tabernakels zeigt das Hostienwunder. Annette Schommers: Georg Ignatius Baur – Kurfürstlicher Hofgoldschmied in Augsburg. Mit einer Einführung von Lorenz Seelig. Biberacher Verlagsdruckerei, Biberach 1996, ISBN 3-924489-80-7, S. 122 Werkverzeich
-   CATS: Altars in Tyrol (state) | CC-BY-SA-4.0 | Files with coordinates missing SDC location of creation | Georg Ignatius Baur | Interior of Sankt Oswald (Seefeld in Tirol) | Pages using ISBN magic links | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_weiten_raxendorf_austria	5924x7898	CC BY-SA 4.0	Uoaei1	File:Weiten Pfarrkirche Innenraum 01.jpg
-   DESC: Interior of the parish church Weiten, Lower Austria
-   CATS: All images by Uoaei1 | CC-BY-SA-4.0 | Cultural heritage monuments in Austria check done | Cultural heritage monuments in Austria with known IDs | Media from WikiDaheim 2024 in Austria/Cultural heritage monuments | Media from WikiDaheim 2024 in Austria/all | Pfarrkirche Weiten - Interior | Prejury selection for WikiDaheim 2024 in Austria | Quality images | Quality images by Uoaei1 | Quality images from WikiDaheim | Quality images from Wiki Loves Monuments Austria 2024 | Quality images of Lower Au
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_bruxelas_belgica	2095x2842	CC BY-SA 4.0	Yair Haklai	File:Exterior of the Cathedral of St. Michael and St. Gudula (Brussels).jpg
-   DESC: West facade of the Cathedral of St. Michael and St. Gudula (Brussels)
-   CATS: CC-BY-SA-4.0 | Self-published work | West facade of the Cathedral of St. Michael and St. Gudula (Brussels)
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_liege_belgica	3410x2268	CC BY-SA 3.0	Georges Seguin (Okki)	File:Liege 20080223 Basilique Saint-Martin 1.jpg
-   DESC: Basilica of Saint-Martin in Liège (Belgium).
-   CATS: 2008 in Liège | Basilique Saint-Martin (Liège) | CC-BY-SA-3.0,2.5,2.0,1.0 | February 2008 Belgium photographs | Files by User:Okki | GFDL | License migration redundant | Self-published work | Taken with Canon EOS 350D | Views of boulevard de la Sauvenière
+OK	fr/m_y_alcoy	3301x2746	CC BY-SA 3.0	Joanbanjo	File:Convent del Sant Sepulcre d'Alcoi.JPG
+   DESC: Convent del Sant Sepulcre d'Alcoi.
+   CATS: CC-BY-SA-3.0 | Monestir del Sant Sepulcre, Alcoi | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_middelburg_lovaina_belgica	5041x3604	CC BY-SA 3.0	Soti	File:Sint-Jacobskerk.jpg
-   DESC: the church of St. Jacob in Leuven, Belgium
-   CATS: Belgium photographs taken on 2013-09-01 | CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation (50° N, 4° E) | Images from Wiki Loves Monuments 2013 | Images from Wiki Loves Monuments 2013 in Belgium | Images from Wiki Loves Monuments missing SDC location of creation | Onroerend erfgoed with known IDs | Self-published work | Sint-Jacobskerk (Leuven) | Uploaded via Campaign:wlm-be-vlg
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_santa_maria_egipciaca	4000x5228	Public domain	Creator:Marianna Elmo	File:Marianna Elmo - Communion of St. Mary of Egypt.jpg
-   DESC: 
-   CATS: 18th-century Christian art | 18th-century embroidery | Artworks without Wikidata item | CC-PD-Mark | Marianna Elmo | Mary of Egypt in art | PD-old-70-expired | PD-old missing SDC copyright status | Unsupported object | Zosimas of Palestine
-   LICURL:  USAGE: Public domain
-OK	fr/m_de_avignon_franca	2935x4403	CC BY-SA 4.0	Marianne Casamance	File:Avignon - Chapelle des pénitents gris chapelle du miracle autel.JPG
-   DESC: Chapelle des pénitents gris rue des teinturiers à Avignon
-   CATS: CC-BY-SA-4.0 | Chapelle des pénitents gris, Avignon | Files with coordinates missing SDC location of creation | Images from Été des Villes 2015 | Marianne Casamance/84 - Vaucluse | Photographs taken on 2015-09-19 | Self-published work | Uploaded via Campaign:ÉtédesVilles
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_blanot_franca	6000x4000	CC BY 4.0	Cantepien	File:Blanot - Eglise Saint-Martin - 03.jpg
+OK	fr/m_y_blanot1	4000x6000	CC BY 4.0	Cantepien	File:Blanot - Eglise Saint-Martin - 01.jpg
    DESC: Blanot - Eglise Saint-Martin
    CATS: CC-BY-4.0 | Photographs by Antoine Garnier | Self-published work | Église Saint-Martin de Blanot (Saône-et-Loire)
    LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
-OK	fr/m_de_dijon_franca	1616x2373	Public domain	Unknown authorUnknown author	File:Hostie miraculeuse de Dijon.jpg
-   DESC: Miniature sur parchemin réalisée au XVIe siècle Cote : Ms 3452
-   CATS: Author died more than 70 years ago public domain images | CC-PD-Mark | PD-old missing SDC copyright status | Sainte-Chapelle de Dijon | Template Unknown (author)
-   LICURL:  USAGE: Public domain
-OK	fr/m_de_douai_franca	1822x2200	CC BY-SA 4.0	René Hourdry	File:Eglise Saint-Pierre de Douai10.jpg
-   DESC: Intérieur de la Collégiale Saint-Pierre de Douai.
-   CATS: CC-BY-SA-4.0 | Interior of Collégiale Saint-Pierre de Douai | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_faverney_franca	1400x2100	CC BY-SA 4.0	Jean de l'Auxois	File:Ex-voto du Miracle de la Sainte Hostie en l'abbatiale Notre-Dame à Faverney (Haute-Saône).jpg
-   DESC: Ex-voto du Miracle de la Sainte Hostie en l'abbatiale Notre-Dame à Faverney (Haute-Saône).
-   CATS: CC-BY-SA-4.0 | Cultural heritage monument objects in France with known IDs | Interior of Abbatiale Notre-Dame de Faverney | Objets monuments historiques classés | Palissy | Palissy with PM parameter | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_la_rochelle_franca	4928x3264	CC BY-SA 3.0	Selbymay	File:La Rochelle - Cathedrale St Louis 01.jpg
-   DESC: La Rochelle Cathedral - Charente-Maritime, France.
-   CATS: 2013 in La Rochelle | CC-BY-SA-3.0 | Exterior of Cathédrale Saint-Louis de La Rochelle | Files with coordinates missing SDC location of creation | France photographs taken on 2013-01-02 | January 2013 in Charente-Maritime | Self-published work | Taken with Nikon D5100
+OK	fr/m_y_blanot2	2304x3072	CC BY-SA 3.0	Thomas Kaffenberger	File:Blanot Église Saint-Martin.jpg
+   DESC: Èglise romane (11eme siècle)
+   CATS: Base Mérimée | CC-BY-SA-3.0 | Cultural heritage monuments in France missing SDC depicts | Cultural heritage monuments in France missing SDC location of creation | Cultural heritage monuments in France with known IDs | Files with coordinates missing SDC location of creation | France photographs taken on 2009-08-18 | Images from Wiki Loves Monuments 2011 | Images from Wiki Loves Monuments 2011 in France | Images from Wiki Loves Monuments missing SDC depicts | Images from Wiki Loves Monuments missi
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_marseille_en_beauvaisis_franca	4096x3072	CC0	Claude villetaneuse	File:Marseille-en-Bvsis -Chap. Stes. Hosties - autel - IMG 20250916 145921.jpg
-   DESC: Marseille-en-Beauvaisis : chapelle des Saintes hosties : l'autel
-   CATS: CC-Zero | Chapelle des Saintes Hosties de Marseille-en-Beauvaisis | Files with coordinates missing SDC location of creation (49° N, 1° E) | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/m_de_pressac_franca	1765x4284	CC BY-SA 3.0	Sébastien Thébault	File:Pressac, église Saint-Just, vitrail du miracle.jpg
-   DESC: This file was uploaded with Commonist.
-   CATS: CC-BY-SA-3.0 | Taken with Sony DSC-WX10 | Uploaded with Commonist | Église Saint-Just de Pressac
+OK	fr/m_y_eten	3968x2976	CC BY-SA 4.0	Marliu	File:Antigua Iglesia Etén.jpg
+   DESC: This is a photo of a monument in Peru, identified by ID
+   CATS: CC-BY-SA-4.0 | Cultural heritage monuments in Peru with known IDs | Images from Wiki Loves Monuments 2018 | Images from Wiki Loves Monuments 2018 in Peru | Puerto Eten | Puerto Eten District | Ruins of churches in Chiclayo Province | Self-published work | Unidentified cultural heritage monuments in Peru | Uploaded via Campaign:wlm-pe
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/m_y_fav7	2136x3216	CC BY-SA 3.0	Ginette Mathis	File:Faverney - Abbaye 07.JPG
+   DESC: Faverney (Haute-Saône) - Abbaye
+   CATS: Base Mérimée | CC-BY-SA-3.0 | Cultural heritage monuments in France with known IDs | France photographs taken on 2012-09-09 | Images from Wiki Loves Monuments 2012 | Images from Wiki Loves Monuments 2012 in France | Interior of Abbatiale Notre-Dame de Faverney | Monuments historiques classés | Mérimée with PA parameter | Out of competition images from Wiki Loves Monuments 2012 in France | Self-published work | Taken with Nikon D90
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_benningen_alemanha	3888x2592	CC BY-SA 3.0	Johannes Böckh &amp; Thomas Mirtsch	File:RiedkapelleSchiff01.jpg
-   DESC: Schiff der Riedkapelle in Benningen
-   CATS: CC-BY-SA-2.5,2.0,1.0 | CC-BY-SA-3.0-migrated | GFDL | License migration redundant | Riedkapelle (Benningen) | Self-published work | Taken with Canon EOS 400D
-   LICURL: http://creativecommons.org/licenses/by-sa/3.0/ USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_bettbrunn_alemanha	1000x1559	CC0	Papiermond	File:Bettbrunn St.-Salvator Nordost-Blick.jpg
-   DESC: Blick aus nordöstlicher Richtung auf die Wallfahrtskirche St. Salvator in Bettbrunn (bei Kösching).
-   CATS: CC-Zero | Self-published work | St. Salvator (Bettbrunn)
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/m_de_erding_alemanha	1899x2541	CC BY-SA 3.0	Rufus46	File:Wallfahrtskirche Hl. Blut Erding-1.jpg
-   DESC: Kath. Wallfahrtskirche Hl. Blut, 1675 von Hans Kogler erbaut; mit Ausstattung; oktogonale Brunnenkapelle, um 1700; mit Ausstattung.
-   CATS: CC-BY-SA-3.0 | GFDL | Heilig Blut (Altenerding) | License migration redundant | Photographs by User:Rufus46 | Self-published work
+OK	fr/m_y_fav2	3216x2136	CC BY-SA 3.0	Ginette Mathis	File:Faverney - Abbaye 02.JPG
+   DESC: Faverney (Haute-Saône) - Abbaye
+   CATS: Base Mérimée | CC-BY-SA-3.0 | Cultural heritage monuments in France with known IDs | Exterior of Abbatiale Notre-Dame de Faverney | France photographs taken on 2012-09-09 | Images from Wiki Loves Monuments 2012 | Images from Wiki Loves Monuments 2012 in France | Monuments historiques classés | Mérimée with PA parameter | Out of competition images from Wiki Loves Monuments 2012 in France | Self-published work | Taken with Nikon D90
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_kranenburg_alemanha	3456x4608	CC BY-SA 4.0	Dat doris	File:Kranenburg-Wallfahrtskirche 03.jpg
-   DESC: Altarraum der Wallfahrtskirche Sankt Peter und Paul in Kranenburg.
-   CATS: CC-BY-SA-4.0 | Files with coordinates missing SDC location of creation (51° N, 6° E) | Interior of St. Peter und Paul (Kranenburg) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_wilsnack_alemanha	3072x2048	CC BY-SA 3.0	MrsMyerDE	File:BadWilsnackWunderblutkirche.jpg
-   DESC: Wunderblutkirche St. Nikolai de:Wunderblutkirche (Bad Wilsnack) in Bad Wilsnack, Brandenburg
-   CATS: CC-BY-SA-3.0-migrated | GFDL | License migration redundant | Self-published work | Wunderblutkirche (Bad Wilsnack)
-   LICURL: http://creativecommons.org/licenses/by-sa/3.0/ USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_saint_andre_reuniao	2592x3888	CC BY-SA 4.0	Thierry Caro	File:Église-Saint-André.JPG
-   DESC: Façade de l'église Saint-André, à Saint-André de La Réunion.
-   CATS: April 2011 in Réunion | CC-BY-SA-4.0,3.0,2.5,2.0,1.0 | GFDL | License migration redundant | Self-published work | Taken with Canon EOS 400D | User:Thierry Caro/2011 | Église Saint-André de Saint-André (Réunion)
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_alatri_italia	1024x768	CC BY-SA 2.0	Sergio Russo from Rome, Italy	File:Cathedral Alatri interior.jpg
-   DESC: Cattedrale di San Paolo, Alatri. Interno
-   CATS: CC-BY-SA-2.0 | Cathedral (Alatri) - Interior | Files with coordinates missing SDC location of creation | Flickr images reviewed by FlickreviewR
-   LICURL: https://creativecommons.org/licenses/by-sa/2.0 USAGE: Creative Commons Attribution-Share Alike 2.0
-OK	fr/m_de_assis_santa_clara	4000x3000	CC BY-SA 3.0	Bbruno	File:Assisi chiostro S Damiano.JPG
-   DESC: Assisi, Italy, cloister of the church of St. Damiano
-   CATS: CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | San Damiano (Assisi) - Cloisters | Self-published work | Taken with Nikon Coolpix S9100
+OK	fr/m_y_liege	2303x3071	CC BY-SA 3.0	Libois.ph	File:Basilique Saint-Martin Liège 01.jpg
+   DESC: The basilica of St. Martin, on the Mont Saint-Martin in Liège (province of Liège, Wallonia, Belgium). View of the chancel, the east side.
+   CATS: Basilique Saint-Martin (Liège) | Belgium photographs taken on 2007-08-28 | CC-BY-SA-3.0 | Cultural heritage monuments in Wallonia with known IDs | Files with coordinates missing SDC location of creation (50° N, 5° E) | Images from Wiki Loves Monuments 2011 | Images from Wiki Loves Monuments 2011 in Belgium | Images from Wiki Loves Monuments missing SDC location of creation | Self-published work | Taken with Nikon Coolpix 7600
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_asti_italia	4000x6000	CC BY-SA 4.0	Mongolo1984	File:Collegiata di San Secondo (Asti) 01.jpg
-   DESC: collegiata di San Secondo
-   CATS: CC-BY-SA-4.0 | Cultural heritage monuments in Italy with known IDs | Images from Wiki Loves Monuments 2022 | Images from Wiki Loves Monuments 2022 in Italy | Images from Wiki Loves Monuments 2022 in Italy - Piedmont | Images from Wiki Loves Monuments 2022 in Italy - traditional contest | San Secondo (Asti) | Self-published work | Uploaded via Campaign:wlm-it
+OK	fr/m_y_tur1640	6000x4000	CC BY-SA 4.0	Mongolo1984	File:Chiesa di Santa Maria al Monte dei Cappuccini (Torino) 01.jpg
+   DESC: Santa Maria al Monte dei Cappuccini
+   CATS: CC-BY-SA-4.0 | Cultural heritage monuments in Italy with known IDs | Images from Wiki Loves Monuments 2022 | Images from Wiki Loves Monuments 2022 in Italy | Images from Wiki Loves Monuments 2022 in Italy - Piedmont | Images from Wiki Loves Monuments 2022 in Italy - traditional contest | Santa Maria al Monte (Turin) | Self-published work | Uploaded via Campaign:wlm-it
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_bagno_di_romagna_italia	4482x2635	CC BY-SA 2.0	Luigi Rosa from Pavia, Italy	File:Piazza Ricasoli e Santa Maria Assunta (Bagno di Romagna).jpg
-   DESC: Bagno di Romagna: Basilica di Santa Maria Assunta e piazza Ricasoli.
-   CATS: CC-BY-SA-2.0 | Files with coordinates missing SDC location of creation | Flickr images reviewed by FlickreviewR | On OSM | Photographs by Luigi Rosa | Santa Maria Assunta (Bagno di Romagna)
-   LICURL: https://creativecommons.org/licenses/by-sa/2.0 USAGE: Creative Commons Attribution-Share Alike 2.0
-OK	fr/m_de_dronero_italia	2931x3894	CC BY-SA 4.0	Ale zena	File:Dronero - Chiesa di Santa Brigida - facciata.jpg
-   DESC: Facciata della Chiesa di Santa Brigida a Dronero
-   CATS: CC-BY-SA-4.0 | Files with coordinates missing SDC location of creation | Santa Brigida (Dronero) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_ferrara_italia	1600x1200	CC BY 2.5	sailko	File:Ferrara, santa maria in vado, interno 02.JPG
-   DESC: Ferrara, santa maria in vado, interno
-   CATS: CC-BY-2.5 | CC-BY-SA-3.0-migrated | GFDL | License migration redundant | Naves in Emilia-Romagna | Santa Maria in Vado (Ferrara) - Interior | Self-published work
-   LICURL: https://creativecommons.org/licenses/by/2.5 USAGE: Creative Commons Attribution 2.5
-OK	fr/m_de_florenca_italia	2112x984	Public domain	Creator:Mino da fiesole	File:Cappella del miracolo, mino da fiesole, affidamento del calice miracoloso alle monache.jpg
-   DESC: Cappella del miracolo, mino da fiesole, affidamento del calice miracoloso alle monache
-   CATS: CC-PD-Mark | Cappella del Miracolo del Sacramento - Altar by Mino da Fiesole | PD-Art (PD-old-100) | PD-Art missing SDC copyright status | PD-old missing SDC copyright status
-   LICURL:  USAGE: Public domain
-OK	fr/m_de_gruaro_italia	3000x2250	Public domain	Tiesse on it.wiki	File:Valvasone Arzene - Duomo SS Corpo.jpg
-   DESC: Façade of the Corpus Domini church in Valvassone, province of Pordenone, Italy
-   CATS: Gothic church facades in Italy | Images with extracted images | PD-user | Santissimo Corpo di Cristo (Valvasone Arzene) | Taken with Canon Digital IXUS 850 IS
-   LICURL:  USAGE: Public domain
-OK	fr/m_de_macerata_italia	2304x3072	CC BY-SA 3.0	Avemundi	File:Macerata - duomo di San Giuliano - facciata - 01.jpg
-   DESC: Macerata Cathedral
-   CATS: 15th-century church towers in Italy | CC-BY-SA-3.0 | Church towers in Macerata | GFDL | License migration redundant | Renaissance church towers in Italy | San Giuliano (Macerata) - Facade | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_mogoro_italia	1500x2000	CC BY-SA 4.0	Aggrucar	File:Chiesa di San Bernardino da Siena-Mogoro.jpg
-   DESC: Chiesa di San Bernardino da Siena. Chiesa parrocchiale di Mogoro
-   CATS: CC-BY-SA-4.0 | Churches in Mogoro | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_morrovalle_italia	3096x4128	CC BY-SA 4.0	Diego Baglieri	File:Chiesa di San Francesco - Morrovalle 01.jpg
-   DESC: ex convento di San Francesco
-   CATS: CC-BY-SA-4.0 | Cultural heritage monuments in Italy with known IDs | Images from Wiki Loves Monuments 2018 | Images from Wiki Loves Monuments 2018 in Italy | Images from Wiki Loves Monuments 2018 in Italy - Marche | Italy photographs taken on 2018-06-29 | San Francesco (Morrovalle) | Self-published work | Uploaded via Campaign:wlm-it
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_offida_italia	2048x1536	CC BY-SA 2.5	Cristiano Marchegiani	File:S Agostino interno Offida.jpg
-   DESC: Sant'Agostino - interno, Offida
-   CATS: CC-BY-SA-2.5 | Sant'Agostino (Offida) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/2.5 USAGE: Creative Commons Attribution-Share Alike 2.5
-OK	fr/m_de_roma_seculo_vi	4416x3312	CC BY 3.0	Schlaier	File:Klosterkirche Andechs Innen.JPG
-   DESC: Interior of the church of Andechs Abbey.
-   CATS: CC-BY-3.0 | Files by User:Schlaier | GFDL | Interior of Klosterkirche Andechs | License migration redundant | Self-published work | Taken with Canon PowerShot G10 | Vaults and arches in Klosterkirche Andechs
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/m_de_rosano_italia	3176x4896	CC BY 3.0	Sailko	File:Rignano, monastero di santa maria a rosano, chiesa, interno 01.jpg
-   DESC: Monastero di Santa Maria a Rosano
-   CATS: All media supported by Wikimedia CH | CC-BY-3.0 | Images by Sailko - Supported by Wikimedia CH | Monastero di Santa Maria a Rosano - Interior | Photographs by User:Sailko | Self-published work
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/m_de_trani_italia	5011x3341	CC BY-SA 4.0	Isiwal	File:Trani Cattedrale di San Nicola Pellegrino-2804.jpg
-   DESC: The Trani Cathedral, completed in 1143, is dedicated to Saint Nicholas the Pilgrim. Saint Nicholas died in Trani in 1094 when he was on a pilgrimage to Rome.
-   CATS: CC-BY-SA-4.0 | Cathedral (Trani) - exterior | Files with coordinates missing SDC location of creation | Panoramas of Trani | Quality images | Quality images by Isiwal | Uploaded with VicuñaUploader
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_turim_1453	3086x4245	CC BY-SA 4.0	Zairon	File:Torino Basilica del Corpus Domini Esterno Facciata 1.jpg
-   DESC: Facade of the Corpus Christi Church, Turin, Province of Turin, Region of Piedmont, Italy
-   CATS: CC-BY-SA-4.0 | Corpus Domini (Turin) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_turim_1640	5184x3456	CC BY-SA 4.0	Gianni Careddu	File:Torino, chiesa di Santa Maria del Monte dei Cappuccini.jpg
-   DESC: Torino, chiesa di Santa Maria del Monte dei Cappuccini
-   CATS: CC-BY-SA-4.0 | Gianni Careddu/2017 | Gianni Careddu/Chiese | Photographs by Gianni Careddu | Santa Maria al Monte (Turin) | Self-published work | Taken with Canon EOS 60D
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_veroli_italia	3456x4608	CC0	FredSeiller	File:Basilica di Sant'Erasmo (Veroli).jpg
-   DESC: Monastère et basilique Saint Erasme
+OK	fr/m_y_veroli	4608x3456	CC0	FredSeiller	File:Basilica di Sant'Erasmo (Veroli)2.jpg
+   DESC: Basilique Saint Erasme
    CATS: Basilica di Sant'Erasmo (Veroli) | CC-Zero | Self-published work
    LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/m_de_volterra_italia	2927x2324	CC BY-SA 3.0	Davide Papalini	File:Volterra-duomo assunta-facciata1.jpg
-   DESC: Cattedrale di Santa Maria Assunta, Volterra, Toscana, Italia
-   CATS: CC-BY-SA-3.0 | Duomo (Volterra) | Taken with Panasonic Lumix DMC-FZ18 | User:Dapa19
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_bergen_holanda	3072x2304	CC BY-SA 3.0	Michielverbeek	File:Bergen, Ruïnekerk foto3 2009-04-05 13.35.JPG
-   DESC: Bergen, church: Ruïnekerk
-   CATS: CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | License migration redundant | Netherlands photographs taken on 2009-04-05 | Rijksmonumenten with known IDs | Ruïnekerk, Bergen | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_boxmeer_holanda	2736x3648	CC0	Havang(nl)	File:Boxmeer Rijksmonument 10032 kerk, Steenstraat 41.JPG
-   DESC: Boxmeer Rijksmonument 10032 kerk, Steenstraat 41 This is an image of rijksmonument number 10032Information from structured data: location of creation: Boxmeer→North Brabant→Netherlands depicts instance of: Sint-Petrusbasiliek→church building→type of building→classification scheme→variable-order class
-   CATS: CC-Zero | Images from Wiki Loves Monuments 2010 | Media with estimated locations | Netherlands photographs taken on 2010-09-30 | Photographs by Henk van Gaal | Rijksmonumenten with known IDs | Self-published work | Sint-Petrusbasiliek (Boxmeer) | Taken with Sony DSC-HX5V
+OK	fr/m_y_alcala	1536x2048	CC0	Zarateman	File:Alcalá de Henares - Iglesia de Santa María la Mayor 07.jpg
+   DESC: Alcalá de Henares - Iglesia de Santa María la Mayor
+   CATS: CC-Zero | Capilla de las Santas Formas | Self-published work
    LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/m_de_boxtel_hoogstraten_holanda	2448x3264	CC BY-SA 3.0	G.Lanting	File:Sint-Petruskerk (Boxtel) P1040892.JPG
-   DESC: Sint-Petruskerk in Boxtel
-   CATS: CC-BY-SA-3.0,2.5,2.0,1.0 | Files with coordinates missing SDC location of creation (51° N, 5° E) | GFDL | License migration redundant | Self-published work | Sint-Petrusbasiliek (Boxtel) | Sint-Petrustoren, Boxtel | Taken with Panasonic Lumix DMC-FZ18
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_breda_niervaart_holanda	2916x4524	CC BY-SA 4.0	Michielverbeek	File:Breda, toren van de Grote of Onze Lieve Vrouwekerk RM10305 IMG 6768 2023-06-11 09.54.jpg
-   DESC: Breda, church tower (the Grote of Onze Lieve Vrouwekerk)
-   CATS: CC-BY-SA-4.0 | Exterior of Grote of Onze-Lieve-Vrouwekerk Breda | June 2023 in Breda, Netherlands | Netherlands photographs taken on 2023-06-11 | Quality images | Rijksmonumenten with known IDs | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_eten_peru	3968x2976	CC BY-SA 4.0	Marliu	File:Capilla Divino Niño del Milagro.jpg
-   DESC: Iglesia del Milagro de Eten
-   CATS: CC-BY-SA-4.0 | Images from Wiki Loves Monuments 2018 | Images from Wiki Loves Monuments 2018 in Peru | Images from Wiki Loves Monuments missing SDC depicts | Images from Wiki Loves Monuments missing SDC location of creation | Puerto Eten District | Self-published work | Unidentified cultural heritage monuments in Peru | Uploaded via Campaign:wlm-pe
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_cracovia_polonia	4288x2848	CC BY 2.0	Jorge Láscar	File:Corpus Christi Basilica, Kraków.jpg
-   DESC: The Basilica Bożego Ciała (also known as the Corpus Christi Basilica), Kraków, Poland
-   CATS: CC-BY-2.0 | Exterior of the Corpus Christi Church in Kraków | Files from Jorge Láscar Flickr stream | Flickr images uploaded by Flickr upload bot | Taken with Nikon D90
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/m_de_glotowo_polonia	2272x1704	CC BY-SA 3.0	Bogitor	File:Głotowo 01.JPG
-   DESC: Church in Głotowo, Poland.
-   CATS: CC-BY-SA-2.5,2.0,1.0 | CC-BY-SA-3.0-migrated | Cultural heritage monuments in Poland missing SDC depicts | Cultural heritage monuments in Poland missing SDC location of creation | Cultural heritage monuments in Poland with known IDs | GFDL | License migration redundant | Salvator church in Głotowo | Self-published work | Taken with Canon PowerShot A80
-   LICURL: http://creativecommons.org/licenses/by-sa/3.0/ USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_legnica_polonia	4497x2978	CC BY-SA 4.0	Emilia Ernst	File:Kościół św Jacka w Legnicy - Emilia Ernst.jpg
-   DESC: Saint Hyacinth Church in Legnica
-   CATS: CC-BY-SA-4.0 | Cultural heritage monuments in Poland with known IDs | Images from Wiki Loves Monuments 2019 | Images from Wiki Loves Monuments 2019 in Poland | Images from Wiki Loves Monuments in Poland – Lower Silesian Voivodeship | On OSM | Poland photographs taken on 2019-07-16 | Saint Hyacinth church in Legnica | Self-published work | Uploaded via Campaign:wlm-pl
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-MISSING	fr/m_de_poznan_polonia	File:pl Poznan Corpus Christi Church 196-26.jpg
-OK	fr/m_de_alboraya_almassera_espanha	1556x1167	CC BY 2.5	Echiner	File:Ermita Els Peixets.jpg
-   DESC: Ermita del Miracle dels Peixets
-   CATS: CC-BY-2.5 | CC-BY-SA-3.0-migrated | Ermita dels Peixets | Files with coordinates missing SDC location of creation | GFDL | License migration redundant | Self-published work | September 2005 in the Land of Valencia | Spain photographs taken on 2005-09-18 | Taken with Canon Digital IXUS 50
-   LICURL: https://creativecommons.org/licenses/by/2.5 USAGE: Creative Commons Attribution 2.5
-OK	fr/m_de_alcoy_espanha	2592x3456	CC BY-SA 3.0	Albertvillanovadelmoral	File:Monestir del Sant Sepulcre d'Alcoi - 01.JPG
-   DESC: Monestir del Sant Sepulcre d'Alcoi
-   CATS: 4 (house number) in Spain | CC-BY-SA-3.0 | Church doors in the province of Alicante | Doors in Alcoi | Monestir del Sant Sepulcre, Alcoi | Portals in Alcoi | Self-published work | Taken with Panasonic Lumix DMC-TZ5
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_caravaca_de_la_cruz_espanha	3888x2592	CC BY 3.0	Tamorlan	File:Santuario de Caravaca de la Cruz-2011.JPG
-   DESC: Santuario de Caravaca -Murcia
-   CATS: Basílica de la Vera Cruz | CC-BY-3.0 | Files by User:Tamorlan | Self-published work | Taken with Canon EOS 400D
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/m_de_daroca_espanha	3888x2592	CC BY 2.0	Juanedc from Zaragoza, España	File:Colegiata de los Santos Corporales (8593901838).jpg
-   DESC: Daroca, España
-   CATS: CC-BY-2.0 | Files with coordinates missing SDC location of creation | Flickr images reviewed by File Upload Bot (Magnus Manske) | Interior de la Colegiata de Santa Maria de los Sagrados Corporales, Daroca | Photos by JuanEDC | Taken with Canon EOS 1000D
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/m_de_girona_espanha	3429x2105	CC BY-SA 2.0	Montse Poch	File:Monestir de Sant Daniel (Girona) - 4.jpg
-   DESC: Monestir de Sant Daniel (Girona)
-   CATS: All media supported by Wikimedia España in 2011 | CC-BY-SA-2.0 | Cloister of Monestir de Sant Daniel de Girona | Cultural heritage monuments in Spain missing SDC depicts | Cultural heritage monuments in Spain missing SDC location of creation | Cultural heritage monuments in Spain with known IDs | Flickr images reviewed by FlickreviewR | Images from Wiki Loves Monuments 2011 | Images from Wiki Loves Monuments 2011 in Spain | Images from Wiki Loves Monuments missing SDC depicts | Images from Wiki 
-   LICURL: https://creativecommons.org/licenses/by-sa/2.0 USAGE: Creative Commons Attribution-Share Alike 2.0
-OK	fr/m_de_guadalupe_espanha	2900x2900	CC BY-SA 4.0	José Luis Filpo Cabana	File:Interior de la iglesia del Real Monasterio de Guadalupe.jpg
-   DESC: Interior de la iglesia monacal con su arquitectura del gótico final.
-   CATS: CC-BY-SA-4.0 | Church of the Real Monasterio de Santa María de Guadalupe | GFDL | License migration redundant | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_de_ivorra_espanha	2048x1536	CC BY-SA 3.0	Isidre blanc	File:SANTUARI DE SANTA MARIA - IVORRA.JPG
-   DESC: Santuari de Santa Maria d'Ivorra, dita del Sant Dubte, a les afores de la població.
-   CATS: Buttresses in Catalonia | CC-BY-SA-3.0 | Cultural heritage monuments in Spain missing SDC depicts | Cultural heritage monuments in Spain missing SDC location of creation | Cultural heritage monuments in Spain with known IDs | Files with coordinates missing SDC location of creation | Santa Maria d'Ivorra | Self-published work | Taken with Panasonic Lumix DMC-FX60
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_montserrat_espanha	3146x2191	CC BY-SA 3.0	Bernard Gagnon	File:Abbey of Montserrat 04.jpg
-   DESC: Abbey Santa Maria de Montserrat, Catalonia, Spain
-   CATS: CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | GFDL | License migration redundant | Remote views of Monestir de Montserrat | Self-published work | Taken with Sony DSC-HX1 | Valued images by Bgag | Valued images missing SDC depicts | Valued images of Catalonia | Valued images of monasteries | Valued images promoted 2012-05 | Valued images sorted by promotion date
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_de_ponferrada_espanha	1860x2827	CC BY 2.0	amaianos from Galicia	File:Basilica de la Encina, Ponferrada (5397777004).jpg
-   DESC: Esta imagen participa en el juego En otro lugar de Flickr Si no perteneces al grupo, no contestes, por favor. Si quieres contestar, únete. :-) Una leyenda narra cómo la talla de la Virgen traída de Tierra Santa por el Santo Toribio, obispo Astorga, fue escondida con el fin de preservarla de las invasiones musulmanas. El rastro de la imagen se perdió y siglos después, los templarios encontraron la 
-   CATS: CC-BY-2.0 | Church towers in the province of León | Churches in Castile and León at night | Exterior of the Basílica de la Virgen de la Encina de Ponferrada | Flickr images reviewed by File Upload Bot (Magnus Manske) | Night in Ponferrada | Photographs by amaianos | Taken with Olympus SP-590UZ
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/m_de_zaragoza_espanha	2752x3984	CC BY-SA 4.0	Willtron	File:Capiella d'o Santo Cristo d'a Seu de Zaragoza.jpg
-   DESC: Saint Christ chapel of La Seo of Zaragoza
-   CATS: CC-BY-SA-4.0 | Capilla del Santo Cristo (Traschoir of La Seo of Zaragoza) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_x_billettes11	1536x2048	CC BY-SA 4.0	Chris06	File:Église des Billettes (11).JPG
-   DESC: Église des Billettes, Paris
-   CATS: CC-BY-SA-4.0 | Cloister of Église des Billettes | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_x_bruges	2686x2736	CC BY-SA 3.0	Ad Meskens	File:Bruges Basilica of the Holy Blood 01.JPG
-   DESC: Basilica of the Holy Blood in Bruges, Belgium. The church is a Roman Catholic minor basilica originally built in the 12th century as the chapel of the residence of the Count of Flanders. It houses a venerated relic of the Holy Blood allegedly collected by Joseph of Arimathea and brought from the Holy Land by Thierry of Alsace, Count of Flanders.
-   CATS: CC-BY-SA-3.0 | Exterior of the Basilica of the Holy Blood | Facades in Bruges | Files with coordinates missing SDC location of creation (51° N, 3° E) | GFDL | License migration redundant | Self-published work | Taken with Panasonic Lumix DMC-FZ50
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_x_bruges2	3088x4112	CC BY-SA 4.0	Gordito1869	File:Heilig-Blut-Basilika Brügge, 2019.jpg
-   DESC: Basilica of the Holy Blood, Bruges
-   CATS: CC-BY-SA-4.0 | Exterior of the Basilica of the Holy Blood | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_x_cebreiro	1673x1524	CC BY 2.0	amaianos	File:Igrexa de Santa María a Real, Pedrafita do Cebreiro.jpg
-   DESC: Igrexa de Santa María a Real, Pedrafita do Cebreiro
-   CATS: CC-BY-2.0 | Church of Santa María do Cebreiro | Flickr images uploaded by Flickr upload bot | Photographs by amaianos | Romanesque bell gables in Spain | Romanesque church towers in Spain | Taken with Kodak EasyShare CX7330
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/m_x_rimini	3168x4752	CC BY-SA 4.0	Fra.DallaVe	File:Tempietto di Sant'Antonio.JPG
-   DESC: il tempietto in Piazza 3 Martiri che contiene la pietra da cui Sant'Antonio da Padova fece il miracolo della mula
-   CATS: CC-BY-SA-4.0 | Self-published work | Tempietto di Sant'Antonio di Padova (Rimini)
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_x_alkmaar	3264x2448	CC BY-SA 3.0	A. Bakker	File:Alkmaar - Grote of Sint Laurenskerk 2.jpg
-   DESC: Alkmaar - Grote of Sint Laurenskerk
-   CATS: 2014 in Alkmaar | CC-BY-SA-3.0 | Netherlands photographs taken on 2014-05-18 | Self-published work | Sint Laurenskerk, Alkmaar | Taken with Canon PowerShot A630
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_x_begijn	4368x2905	CC BY-SA 3.0	Jorge Royan	File:Amsterdam - Begijnhof Catholic Chapel - 0740.jpg
-   DESC: Begijnhof Catholic Chapel in Amsterdam, The Netherlands
-   CATS: 2008 in Amsterdam | CC-BY-SA-3.0 | Information field template with formatting | Interior of Begijnhofkapel (Amsterdam) | Photos of the Netherlands by User:jorgeroyan | Self-published work | Taken with Canon EOS 5D
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_x_stiph	2000x1108	CC BY-SA 3.0	Chris Peel	File:Stiphout1.jpg
-   DESC: Stiphout: Kerk en Oude Toren
-   CATS: CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | License migration redundant | Self-published work | Stiphout | Taken with Pentax Optio WP
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_x_amst1729	1501x1593	Public domain	AnonymousUnknown author	File:Nieuwezijds Kapel Amsterdam 1729.jpg
-   DESC: De Nieuwe Zydts Kapel, voor desen genaemt de Heylige Stede, gelyk deselve nu is. 1729. Prent. Amsterdam, Stadsarchief Amsterdam (010097002812).
-   CATS: Author died more than 100 years ago public domain images | CC-PD-Mark | Dememorixer automated | Images with borders | Nieuwezijds Kapel Amsterdam (1347) in art | Prints in the Stadsarchief Amsterdam
+OK	fr/m_y_palomino	1390x2085	Public domain	Creator:Gregorio Fosman	File:Sagradas formas de Alcala por A. Palomino (cropped).jpg
+   DESC: Las Sagradas formas de Alcalá por A. Palomino
+   CATS: Author died more than 70 years ago public domain images | CC-PD-Mark | Capilla de las Santas Formas | Engravings of Ignatius of Loyola | Extracted images | Gregorio Fosman | Monstrances in art | PD-old missing SDC copyright status
    LICURL:  USAGE: Public domain
-### Capilla de las Santas Formas Alcalá
-1027x1097	CC BY-SA 4.0	File:Juan Antonio Reig Pla (RPS 06-07-2012) escudo de obispo en acero corten.png	| Escudo en acero corten del obispo Juan Antonio Reig Pla. Localizado en la puerta de la Capilla de las Santas Formas de Alcalá de Henares (Co
-2592x1944	CC BY 3.0	File:Alcala de Henares, Madrid, Spain - panoramio (15).jpg	| Alcala de Henares, Madrid, Spain
-1944x2592	CC BY 3.0	File:Alcala de Henares, Madrid, Spain - panoramio (18).jpg	| Alcala de Henares, Madrid, Spain
-3019x2736	CC BY-SA 3.0	File:Alcalá de Henares - panoramio.jpg	| Callejón de las Santas formas de Alcalá de Henares
-3001x2000	CC BY 2.0	File:014398 - Alcalá de Henares.jpg	| Capilla de las Santas Formas (Iglesia de Santa María la Mayor) Callejón de las Santas Formas Alcalá de Henares Comunidad de Madrid España #p
-1010x1406	Public domain	File:Descripción de las honras que se hicieron a la Cathólica Magd. de D. Phelippe quarto rey de las Españas y del Nuevo mundo en el Real Convento de la Encarnación (IA descripciondelas00rodr).pdf	| Imprint from colophon Signatures: [sec.] 2[sec.] 3[sec.]² A-2G Engraved allegorical title-page and plates by Pedro de Villafranca Malagon Bo
-1545x2218	Public domain	File:Crónica de el Gran cardenal de España, don Pedro Gonçalez de Mendoça, Arçobispo de la muy Santa Yglesia Primada de las Españas- Patriarcha de Alexandria... (IA crnicadeelgranca00sala).pdf	| Boston Public Library (Rare Books Department) copy ex libris (bookplate): George Ticknor Subjects: González de Mendoza, Pedro; Cardinals; Ca
-1175x1702	Public domain	File:Recopilacion de leyes de los reynos de las Indias - mandadas imprimir, y publicar por la magestad catolica del rey don Carlos II, nuestro señor - va dividida en quatro tomos (IA recopilaciondele02spai).pdf	| "Primera edición oficial y completa"--Palau y Dulcet Printed in double columns with side notes Royal arms of Spain on t.p.'s, engraved by Gr
-1062x1504	Public domain	File:Historia de las órdenes de caballería y de las condecoraciones españolas T. 3 (IA AB192).pdf	| Más detallesTomo III.MateriaÓrdenes de caballería -- EspañaHeráldicaOrdenes militares -- HistoriaCondecoraciones -- EspañaContenidos3 t. en 
-2656x1239	CC BY 4.0	File:Alcalá de Henares (22 de octubre al 27 de noviembre de 2021) En torno al mito de Don Juan, tríptico.pdf	| Tríptico con el programa de "En torno al mito de Don Juan", celebrado en Alcalá de Henares (Comunidad de Madrid - España) entre el 22 de oct
-1536x2048	CC0	File:Alcalá de Henares - Iglesia de Santa María la Mayor 07.jpg	| Alcalá de Henares - Iglesia de Santa María la Mayor
-1390x2085	Public domain	File:Sagradas formas de Alcala por A. Palomino (cropped).jpg	| Las Sagradas formas de Alcalá por A. Palomino
-### Stiphout
-1556x1391	Public domain	File:1865 Stiphout.gif	| Nederland, Noord-Brabant, Gemeente Stiphout
-2000x1108	CC BY-SA 3.0	File:Stiphout1.jpg	| Stiphout: Kerk en Oude Toren
-3240x4320	CC BY-SA 3.0	File:St Trudo Stiphout Monument 21456.jpg	| St Trudo Stiphout Monument 21456
-4000x3000	CC BY-SA 3.0	File:Stiphout Klokkenstoel.JPG	| Stiphout Klokkenstoel
-3072x2048	CC BY-SA 3.0 nl	File:T.T RK Kerk Stiphout (1).JPG	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-3072x2048	CC BY-SA 3.0 nl	File:T.T RK Kerk Stiphout (2).JPG	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-2048x3072	CC BY-SA 3.0 nl	File:T.T RK Kerk Stiphout (3).JPG	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-2048x3072	CC BY-SA 3.0 nl	File:T.T RK Kerk Stiphout (4).JPG	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-2048x3072	CC BY-SA 3.0 nl	File:T.T RK Kerk Stiphout (7).JPG	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-2445x3100	CC BY-SA 4.0	File:Interieur naar 't westen - Stiphout - 20206080 - RCE.jpg	| Rooms-Katholieke Kerk: interieur naar 't westen
-2451x3084	CC BY-SA 4.0	File:Interieur naar 't oosten - Stiphout - 20206081 - RCE.jpg	| Rooms-Katholieke Kerk: interieur naar 't oosten
-2440x3054	CC BY-SA 4.0	File:Interieur naar het noord-westen - Stiphout - 20206082 - RCE.jpg	| Rooms-Katholieke Kerk: interieur naar het noord-westen
-3346x2232	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206083 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-3346x2214	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206084 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-3346x2244	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206085 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-3329x2202	CC BY-SA 4.0	File:Detail exterieur - Stiphout - 20206086 - RCE.jpg	| Rooms-Katholieke Kerk: detail exterieur
-2416x3060	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206087 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-3054x2428	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206088 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-2446x3078	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206089 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-2464x3084	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206090 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-2422x3042	CC BY-SA 4.0	File:Interieur - Stiphout - 20206091 - RCE.jpg	| Rooms-Katholieke Kerk: interieur
-3072x2422	CC BY-SA 4.0	File:Interieur koor - Stiphout - 20206092 - RCE.jpg	| Rooms-Katholieke Kerk: interieur koor
-2581x3589	CC BY-SA 4.0	File:Interieur gezien naar het oosten - Stiphout - 20325876 - RCE.jpg	| Rooms-Katholieke Kerk: Interieur gezien naar het oosten
-3008x3014	CC BY-SA 4.0	File:Overzicht van de zuidoostgevel - Stiphout - 20384562 - RCE.jpg	| Sint Trudokerk: Overzicht van de zuidoostgevel
-3062x3044	CC BY-SA 4.0	File:Interieur, overzicht naar het oosten - Stiphout - 20384563 - RCE.jpg	| Sint Trudokerk: Interieur, overzicht naar het oosten
-3071x3050	CC BY-SA 4.0	File:Interieur, overzicht van het kabinetorgel - Stiphout - 20384887 - RCE.jpg	| Sint Trudokerk: Interieur, overzicht van het kabinetorgel (opmerking: Gefotografeerd voor Het Historische Orgel in Nederland)
-1083x806	Public domain	File:Molen Stiphout.PNG	| Molen aan de Gerwenseweg in Stiphout (Gemeente Helmond)
-3000x4000	CC BY-SA 4.0	File:Stiphout beeld school Sint Trudostraat.jpg	| Beeld at school Sint Trudostraat in Stiphout Helmond NL
-### Sint-Trudokerk Stiphout
-3240x4320	CC BY-SA 3.0	File:St Trudo Stiphout Monument 21456.jpg	| St Trudo Stiphout Monument 21456
-3072x2048	CC BY-SA 3.0 nl	File:T.T RK Kerk Stiphout (1).JPG	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-2048x3072	CC BY-SA 3.0 nl	File:T.T RK Kerk Stiphout (3).JPG	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-2048x3072	CC BY-SA 3.0 nl	File:T.T RK Kerk Stiphout (4).JPG	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-3072x2048	CC BY-SA 3.0 nl	File:T.T RK Kerk Stiphout (6).JPG	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-2445x3100	CC BY-SA 4.0	File:Interieur naar 't westen - Stiphout - 20206080 - RCE.jpg	| Rooms-Katholieke Kerk: interieur naar 't westen
-2451x3084	CC BY-SA 4.0	File:Interieur naar 't oosten - Stiphout - 20206081 - RCE.jpg	| Rooms-Katholieke Kerk: interieur naar 't oosten
-2440x3054	CC BY-SA 4.0	File:Interieur naar het noord-westen - Stiphout - 20206082 - RCE.jpg	| Rooms-Katholieke Kerk: interieur naar het noord-westen
-3346x2232	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206083 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-3346x2214	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206084 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-3346x2244	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206085 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-3329x2202	CC BY-SA 4.0	File:Detail exterieur - Stiphout - 20206086 - RCE.jpg	| Rooms-Katholieke Kerk: detail exterieur
-2416x3060	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206087 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-3054x2428	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206088 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-2446x3078	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206089 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-2464x3084	CC BY-SA 4.0	File:Exterieur - Stiphout - 20206090 - RCE.jpg	| Rooms-Katholieke Kerk: exterieur
-2422x3042	CC BY-SA 4.0	File:Interieur - Stiphout - 20206091 - RCE.jpg	| Rooms-Katholieke Kerk: interieur
-3072x2422	CC BY-SA 4.0	File:Interieur koor - Stiphout - 20206092 - RCE.jpg	| Rooms-Katholieke Kerk: interieur koor
-2581x3589	CC BY-SA 4.0	File:Interieur gezien naar het oosten - Stiphout - 20325876 - RCE.jpg	| Rooms-Katholieke Kerk: Interieur gezien naar het oosten
-3014x2774	CC BY-SA 4.0	File:Zicht op de zuidgevel en de kerktoren - Stiphout - 20384560 - RCE.jpg	| Sint Trudokerk: Zicht op de zuidgevel en de kerktoren
-3019x3019	CC BY-SA 4.0	File:Interieur, overzicht naar het noordwesten, gezien vanuit het koor - Stiphout - 20384561 - RCE.jpg	| Sint Trudokerk: Interieur, overzicht naar het noordwesten, gezien vanuit het koor
-3008x3014	CC BY-SA 4.0	File:Overzicht van de zuidoostgevel - Stiphout - 20384562 - RCE.jpg	| Sint Trudokerk: Overzicht van de zuidoostgevel
-3062x3044	CC BY-SA 4.0	File:Interieur, overzicht naar het oosten - Stiphout - 20384563 - RCE.jpg	| Sint Trudokerk: Interieur, overzicht naar het oosten
-3071x3050	CC BY-SA 4.0	File:Interieur, overzicht van het kabinetorgel - Stiphout - 20384887 - RCE.jpg	| Sint Trudokerk: Interieur, overzicht van het kabinetorgel (opmerking: Gefotografeerd voor Het Historische Orgel in Nederland)
-5480x4601	CC BY-SA 4.0	File:21456 Sint-Trudokerk 2.jpg	| De Sint-Trudokerk te Stipthout
-3456x5184	CC BY-SA 4.0	File:21456 Sint-Trudokerk 3.jpg	| De Sint-Trudokerk te Stipthout
-5251x4697	CC BY-SA 4.0	File:21456 Sint-Trudokerk.jpg	| De Sint-Trudokerk te Stipthout
-3456x5184	CC BY-SA 4.0	File:21456 Sint-Trudokerk 4.jpg	| De Sint-Trudokerk te Stipthout
-3456x5184	CC BY-SA 4.0	File:21456 Sint Trudokerk Stiphout 2.jpg	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-6361x4947	CC BY-SA 4.0	File:21456 Sint Trudokerk Stiphout.jpg	| This is an image of rijksmonument number 21456Information from structured data: location of creation: Helmond→North Brabant→Netherlands depi
-### O Cebreiro cáliz milagro
-### Cava de' Tirreni Casale Santissima Annunziata Monte Castello
-### Hasselt Sint-Quintinuskathedraal Sacrament van Mirakel
-### Sint-Goedele Sacramentskapel
-3740x3183	Public domain	File:Brussel. Kathedraal van Sint-Michiel en Sint-Goedele Exterieur Koorsluiting van koor, Sacramentskapel en Maeskapel, GD010339.jpg	| TitleBrussel. Kathedraal van Sint-Michiel en Sint-Goedele: Exterieur: Koorsluiting van koor, Sacramentskapel en MaeskapelSeriesEuroPhot. Art
-3776x3217	Public domain	File:Brussel. Kathedraal van Sint-Michiel en Sint-Goedele Exterieur Sacramentskapel, GD010340.jpg	| TitleBrussel. Kathedraal van Sint-Michiel en Sint-Goedele: Exterieur: SacramentskapelSeriesEuroPhot. Art history. Various periods. Architect
-3776x3213	Public domain	File:Brussel. Kathedraal van Sint-Michiel en Sint-Goedele Exterieur Sacramentskapel, GD010351.jpg	| TitleBrussel. Kathedraal van Sint-Michiel en Sint-Goedele: Exterieur: SacramentskapelSeriesEuroPhot. Art history. Various periods. Architect
-### Morne-Rouge
-1558x1676	Public domain	File:Mount Pelée 1902 - Morne Rouge.jpg	| Main Street, Morne Rouge, Martinique, after the eruption of Mount Pelée, Aug 30, 1902. Left half of a stereoscope card.
-1530x1036	Attribution	File:Morne-Rouge Martinique.jpg	| View over Le Morne-Rouge in the direction of the cloud-hidden Mount Pelée, Martinique
-3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 3.jpg	| Côté de l'église Notre-Dame de la Délivrande du Morne-Rouge
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 1.jpg	| Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 2.jpg	| Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
-4799x3951	Public domain	File:Morne Rouge YORYM-TA0308.jpg	| One slide and one negative. Ruined church, presumably destroyed during the 1902 eruptions. The tower and spire are still standing and the ro
-5080x3944	Public domain	File:Ferns near Morne Rouge YORYM-TA0309.jpg	| Gently sloping hillside covered in ferns.
-3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 5.jpg	| Abside peinte de l'église Notre-Dame de la Délivrande du Morne-Rouge
-3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 4.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
-3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 15.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 6.jpg	| Notre-Dame de la Délivrande
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 8.jpg	| Notre-Dame de la Délivrande
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 7.jpg	| Notre-Dame de la Délivrande
-3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 9.jpg	| Bas-relief de l'autel de Notre-Dame de la Délivrande : vœu de Monseigneur Le Herpeur à la Sainte Vierge lors de la traversée vers la Martini
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 11.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
-3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 10.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 13.jpg	| Vitrail de l'église Notre-Dame de la Délivrande du Morne-Rouge
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 12.jpg	| Vitrail de l'église Notre-Dame de la Délivrande du Morne-Rouge
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 14.jpg	| Chemin de croix de l'église Notre-Dame de la Délivrande du Morne-Rouge
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 16.jpg	| Relique du pape Jean-Paul II conservée dans l'église Notre-Dame de la Délivrande du Morne-Rouge
-2288x1520	CC BY-SA 3.0	File:Grenada Morne Rouge - panoramio.jpg	| Grenada Morne Rouge
-8267x4524	CC BY-SA 4.0	File:Eumorpha fasciata fasciata MHNT CUT 2010 0 251 Morne-rouge Martinique female dorsal.jpg	| Eumorpha fasciatus - Dorsal side Collection of the Mathematician Laurent Schwartz
-8267x4589	CC BY-SA 4.0	File:Eumorpha fasciata fasciata MHNT CUT 2010 0 251 Morne-rouge Martinique female ventral.jpg	| Eumorpha fasciatus - △ Ventral side Collection of the Mathematician Laurent Schwartz
-1840x1232	CC BY 3.0 pl	File:Le Morne Rouge - fern trees 2008.jpg	| Fern trees in Le Morne Rouge, Martinique
-5184x3456	CC BY 2.0	File:Morne Rouge Bay Sunset.jpg	| Morne Rouge Bay Sunset
-4160x3120	CC BY-SA 4.0	File:Port de Morne-Rouge (Guadeloupe).jpg	| Port de Morne-Rouge (Guadeloupe)
-5184x3888	CC BY-SA 4.0	File:Gros Morne de Gueule Rouge @ Découverte.jpg	| Le Gros Morne de Gueule Rouge depuis la Découverte, Cilaos, La Réunion, France
+OK	fr/m_y_stiph	3240x4320	CC BY-SA 3.0	Rosemoon	File:St Trudo Stiphout Monument 21456.jpg
+   DESC: St Trudo Stiphout Monument 21456
+   CATS: CC-BY-SA-3.0 | Gothic Revival church towers in the Netherlands | Rijksmonumenten with known IDs | Self-published work | Sint-Trudokerk (Stiphout) | Taken with Panasonic Lumix DMC-TZ20
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_y_stiph2	2451x3084	CC BY-SA 4.0	Gerard Dukker	File:Interieur naar 't oosten - Stiphout - 20206081 - RCE.jpg
+   DESC: Rooms-Katholieke Kerk: interieur naar 't oosten
+   CATS: Buildings with addresses | CC-BY-SA-4.0 | Images from the Rijksdienst voor het Cultureel Erfgoed | Photographs by Gerard Dukker in Helmond (1971) | Rijksmonumenten with known IDs | Sint-Trudokerk (Stiphout)
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/m_y_poznan	1050x1500	CC BY-SA 2.5 pl	User:Roweromaniak	File:Poznan Corpus Christi Church 196-26.jpg
+   DESC: Poznań, kościół Bożego Ciała, widok od zach. (Poznań, Corpus Christi Church, view from west).
+   CATS: CC-BY-SA-2.5-PL | Corpus Christi church in Poznań | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/2.5/pl/deed.en USAGE: Creative Commons Attribution-Share Alike 2.5 pl
+OK	fr/m_y_poznan2	1500x1050	CC BY-SA 2.5 pl	User:Roweromaniak	File:Poznan Corpus Christi Church 423-32.jpg
+   DESC: Poznań, kościół Bożego Ciała, widok od pd.(Poznań, Corpus Christi Church, view from south)
+   CATS: CC-BY-SA-2.5-PL | Corpus Christi church in Poznań | Cultural heritage monuments in Poland missing SDC depicts | Cultural heritage monuments in Poland missing SDC location of creation | Cultural heritage monuments in Poland with known IDs | Files with coordinates missing SDC location of creation | On OSM | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/2.5/pl/deed.en USAGE: Creative Commons Attribution-Share Alike 2.5 pl
+OK	fr/m_y_billettes16	2048x1536	CC BY-SA 4.0	Chris06	File:Église des Billettes (16).JPG
+   DESC: Église des Billettes, Paris
+   CATS: CC-BY-SA-4.0 | Cloister of Église des Billettes | Self-published work | Taken with Panasonic Lumix DMC-TZ6
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/m_y_billettes12	2048x1536	CC BY-SA 4.0	Chris06	File:Église des Billettes (12).JPG
+   DESC: Église des Billettes, Paris
+   CATS: CC-BY-SA-4.0 | Cloister of Église des Billettes | Self-published work | Taken with Panasonic Lumix DMC-TZ6
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+### Begijnhofkapel Amsterdam
+4368x2905	CC BY-SA 3.0	File:Amsterdam - Begijnhof Catholic Chapel - 0740.jpg	| Begijnhof Catholic Chapel in Amsterdam, The Netherlands
+2448x3264	CC BY-SA 3.0	File:Begijnhofkapel (Amsterdam) P1020928.JPG	| Engelse kerk (Amsterdam)
+2448x3264	CC BY-SA 3.0	File:Begijnhofkapel (Amsterdam) P1020925.JPG	| Interieur van de Begijnhofkapel (Amsterdam)
+2448x3264	CC BY-SA 3.0	File:Begijnhofkapel (Amsterdam) P1020926.JPG	| Interieur van de Begijnhofkapel (Amsterdam)
+3264x2448	CC BY-SA 3.0	File:Begijnhofkapel (Amsterdam) P1020927.JPG	| Interieur van de Begijnhofkapel (Amsterdam)
+3264x2448	CC BY-SA 3.0	File:Ingang Begijnhofkapel (Amsterdam) P1020924.JPG	| Ingang van de Begijnhofkapel (Amsterdam)
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, MARIABEELD* - Amsterdam - 20260258 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, MARIABEELD*
+1414x2188	CC BY-SA 4.0	File:INTERIEUR, MARIABEELD - Amsterdam - 20260259 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, MARIABEELD
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, KOLOM, DETAIL - Amsterdam - 20260260 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, KOLOM, DETAIL
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, KLEURONDERZOEK, DETAIL - Amsterdam - 20260261 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, KLEURONDERZOEK, DETAIL
+1414x2188	CC BY-SA 4.0	File:INTERIEUR, BEELDEN - Amsterdam - 20260262 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, BEELDEN
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260263 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260264 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260265 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
+1414x2188	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260266 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
+1513x2209	CC BY-SA 4.0	File:Interieur, aanzicht orgel - Amsterdam - 20356857 - RCE.jpg	| Rooms-katholieke Begijnhofkerk: Interieur, aanzicht orgel (opmerking: Gefotografeerd voor Het Historische Orgel in Nederland 1769-1790)
+4225x3169	CC BY-SA 4.0	File:Begijnhofkapel (3).jpg	| Side altar of the Begijnhofkapel in Amsterdam, with the sculpture of the Imperial Crown of Austria.
+2448x3264	CC BY-SA 4.0	File:Begijnhofkapel (2).JPG	| Sculpture of the Imperial Crown of Austria, inside the Begijnhofkapel, Amsterdam.
+3264x2448	CC BY-SA 4.0	File:Begijnhofkapel (1).JPG	| Sculpture of the Imperial Crown of Austria, inside the Begijnhofkapel, Amsterdam.
+1424x2136	CC BY-SA 4.0	File:Amsterdam, Kapel begijnenhof, Cavaille coll orgel 05.JPG	| Amsterdam, Kapel begijnenhof, Cavaille coll orgel, een klavier
+1347x2019	CC BY-SA 4.0	File:Amsterdam, Begijnenhof, Kapel, Cavaille Coll orgel 12.JPG	| Amsterdam, Begijnenhof, Kapel, Cavaille Coll orgel, gesloten kas
+4632x3464	CC BY-SA 4.0	File:Begijnhofkapel 2553.jpg	| The chapel at Begijnhof, Amsterdam.
+1159x1811	Public domain	File:Stadsarchief Amsterdam, Afb PBKD00355000018.jpg	| Beschrijving Afbeelding van "Het Mirakel" in de de Mirakelkerk Begijnhof 29. Fotografie van Joh. Bickhoff, Amsterdam Documenttype prentbrief
+2579x1612	Public domain	File:Stadsarchief Amsterdam, Afb ANWN00127000001.jpg	| Beschrijving Signum (teken) van het Mirakelgilde uit 1531 in de rooms-katholieke kerk Johannes en Ursula, Begijnhof 29 Documenttype foto Ver
+1175x1798	Public domain	File:Stadsarchief Amsterdam, Afb PBKD00355000017.jpg	| Beschrijving Interieur van de Mirakelkerk Begijnhof 29. Fotografie van Joh. Bickhoff, Amsterdam Documenttype prentbriefkaart Vervaardiger On
+1907x2250	Public domain	File:Stadsarchief Amsterdam, Afb ANWN00128000001.jpg	| Beschrijving Adam en Eva's zondeval Kopieën van schilderijen door J. van Scorel (1595-1562) in de rooms-katholieke kerk Johannes en Ursula, 
+2158x2596	Public domain	File:Stadsarchief Amsterdam, Afb B00000031719.jpg	| Beschrijving Interieur van de Begijnhofkapel, Begijnhof 29-31 (H.H. Johannes en Ursulakerk), met bloemdecoraties, gezien naar het hoogaltaar
+3366x2293	Public domain	File:Stadsarchief Amsterdam, Afb ANWN00087000001.jpg	| Beschrijving Het interieur van de rooms-katholieke Begijnhofkerk (HH. Johannes en Ursula), Begijnhof 29 Gezicht op het hoogaltaar, voor de e
+4368x3186	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 3.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
+6144x8192	CC BY-SA 4.0	File:Begijnhof Chapel entrance (Amsterdam).jpg	| Begijnhof Chapel entrance, Amsterdam, Province of North Holland, Netherlands.
+### Begijnhof chapel Amsterdam interior
+4368x2912	CC BY-SA 3.0	File:Amsterdam - Begijnhof - 0718.jpg	| Begijnhof Reform Chapel in Amsterdam, The Netherlands
+4350x2872	CC BY-SA 3.0	File:Amsterdam - Begijnhof - 0722.jpg	| Begijnhof Reform Chapel Refectory in Amsterdam, The Netherlands
+4368x2912	CC BY-SA 3.0	File:Amsterdam - Begijnhof - 0727.jpg	| Begijnhof Reform Chapel Refectory in Amsterdam, The Netherlands
+4368x2912	CC BY-SA 3.0	File:Amsterdam - Begijnhof - 0734.jpg	| Begijnhof Chapel in Amsterdam, The Netherlands
+4368x2905	CC BY-SA 3.0	File:Amsterdam - Begijnhof Catholic Chapel - 0740.jpg	| Begijnhof Catholic Chapel in Amsterdam, The Netherlands
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, MARIABEELD* - Amsterdam - 20260258 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, MARIABEELD*
+1414x2188	CC BY-SA 4.0	File:INTERIEUR, MARIABEELD - Amsterdam - 20260259 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, MARIABEELD
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, KOLOM, DETAIL - Amsterdam - 20260260 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, KOLOM, DETAIL
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, KLEURONDERZOEK, DETAIL - Amsterdam - 20260261 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, KLEURONDERZOEK, DETAIL
+1414x2188	CC BY-SA 4.0	File:INTERIEUR, BEELDEN - Amsterdam - 20260262 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, BEELDEN
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260263 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260264 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
+2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260265 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
+1414x2188	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260266 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
+1513x2209	CC BY-SA 4.0	File:Interieur, aanzicht orgel - Amsterdam - 20356857 - RCE.jpg	| Rooms-katholieke Begijnhofkerk: Interieur, aanzicht orgel (opmerking: Gefotografeerd voor Het Historische Orgel in Nederland 1769-1790)
+3264x2448	CC BY-SA 2.0	File:Amsterdam - Begijnhof chapel (3416024630).jpg	| Begijnhof - English Reformed Church was built in 1419 for the Catholic sisterhood sanctuary known as the Bengijntjes for single women who di
+3264x2448	CC BY-SA 2.0	File:Amsterdam - Begijnhof chapel (3415805888).jpg	| Amsterdam - Begijnhof chapel
+2624x2100	CC BY-SA 2.0	File:Amsterdam - Begijnhof chapel (3416058906).jpg	| Begijnhof - English Reformed Church was built in 1419 for the Catholic sisterhood sanctuary known as the Bengijntjes for single women who di
+3607x3214	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Buntglasfenster 1.jpg	| Stained Glass Windows of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
+3464x2932	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Buntglasfenster 2.jpg	| Stained Glass Windows of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
+3290x4554	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 1.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
+3147x4554	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 2.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
+4449x3428	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 4.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
+4368x3186	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 3.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
+5408x5888	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
+3384x8024	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel 3.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
+3570x8020	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel 4.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
+4400x4944	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel 1.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
+5072x8192	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel (full).jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
+3720x7840	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel 2.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
+### Église des Billettes façade rue des Archives
+1825x2849	Public domain	File:Rochegude - Promenades dans toutes les rues de Paris, 9.djvu	| Promenades dans toutes les rues de Paris, 20 volumes
+1233x1685	Public domain	File:Comment discerner les styles du VIIIe au XIXe siècle - histoire, philosophie, document (IA b21780250).pdf	| Each plate accompanied by leaf with descriptive text Subjects: Clothing and dress; Art
+1631x2220	Public domain	File:Fernand Bournon - Paris-Atlas (IA abp6221.0001.001.umich.edu).pdf	| Subjects:
+1322x1752	Public domain	File:Encyclopédie d'architecture (IA encyclopediedarc12unse).pdf	| Title from vol. t.p Suspended janv.-juil. 1886 During its suspension, 1863-1871, replaced by: Gazette des architectes et du bâtiment; resume
+1333x1750	Public domain	File:Encyclopédie d'architecture (IA encyclopediedarc78unse).pdf	| Title from vol. t.p Suspended janv.-juil. 1886 During its suspension, 1863-1871, replaced by: Gazette des architectes et du bâtiment; resume
+1068x1572	Public domain	File:La Cité (IA gri 33125007127034).pdf	| v. : 25 cm "Bulletin de la Société historique et archéologique du IVe arrondissement de Paris" Subtitle varies Imprint varies No.1-40 also c
+1143x1500	Public domain	File:Art et archéologie dans le Département de la Loire (IA gri 33125015066489).pdf	| 1 portfolio (124 p., [40] leaves of plates) : 31 cm "Tiré à 300 exemplaires." "Répertoire alphabétique, gé́ographique et chronologique des m
+1081x1585	Public domain	File:La Cité (IA gri 33125016374502).pdf	| v. : 25 cm "Bulletin de la Société historique et archéologique du IVe arrondissement de Paris" Subtitle varies Imprint varies No.1-40 also c
+1054x1500	Public domain	File:Lyon - architecture et décoration aux dix-septième et dix-huitième siècles (IA gri 33125016448090).pdf	| 2 p. l., xi, iv p. 53 cm "Note bibliographique": p. [i] following p. xi Subjects: Architecture -- France -- Lyon; Decoration and ornament --
+1337x1966	Public domain	File:Inventaire général des richesses d'art de la France (IA inventairegenera22fran).pdf	| At head of title: Ministère de l'instruction publique et des beaux-arts [1] Archives du Musée des monuments français (3 pts.). 1883-1897 -- 
+1308x1639	Public domain	File:Le chateau historique de Vincennes a travers les ages (IA lechateauhistori02foss).pdf	| Head-pieces "Il a ete tire de cet ouvrage: 500 exemplaires sur alfa surglace (16 a 515); 15 exemplaires sur japon imperial (1 a 15)" "Cet ou
+1345x2072	Public domain	File:Monuments religieux de l'architecture romane et de transition dans la région picarde (IA monumentsreligie00enla).pdf	| "Ouvrage couronné par la Société des antiquaires de Picardie (prix Le Dieu, 1889)" Subjects: Architecture, Romanesque; Church architecture; 
+1027x1500	Public domain	File:Chronique des arts et de la curiosité (IA chroniquedesar1919pariuoft).pdf	| Publication suspended Oct. 1870?-Dec. 9, 1871, July 26, 1914-June 14, 1916, inclusive Title varies: 1869-70, Chronique politique des arts et
+### Faverney église Notre-Dame abbatiale intérieur
