@@ -48,6 +48,12 @@ for (const [i, a] of inserir.entries()) {
   });
   if (error) falhas.push(`${a.slug}: ${error.message}`); else ok++;
 }
+// seo/novos/_atualizar.json: lista de "categoria/slug" que devem ser regravados a partir dos lotes (e publicados)
+const forcar = fs.existsSync(path.join(pasta, '_atualizar.json')) ? new Set(JSON.parse(fs.readFileSync(path.join(pasta, '_atualizar.json'), 'utf8'))) : new Set();
+for (const a of jaExistem.filter((x) => !atualizar && forcar.has(`${x.category}/${x.slug}`))) {
+  const { error } = await db.from('articles').update({ title: a.title, meta_description: a.meta_description, excerpt: a.excerpt, content: a.content, image_alt: a.image_alt, published: true, updated_at: new Date().toISOString() }).eq('id', porChave.get(`${a.category}/${a.slug}`));
+  if (error) falhas.push(`${a.slug}: ${error.message}`); else { ok++; console.log(`  atualizado: /${a.category}/${a.slug}`); }
+}
 if (atualizar) {
   for (const a of jaExistem) {
     const { error } = await db.from('articles').update({ title: a.title, meta_description: a.meta_description, excerpt: a.excerpt, content: a.content, image_alt: a.image_alt, updated_at: new Date().toISOString() }).eq('id', porChave.get(`${a.category}/${a.slug}`));
