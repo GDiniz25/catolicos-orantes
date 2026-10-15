@@ -4,7 +4,7 @@ const UA = 'CatolicosOrantes/1.0 (contato@catolicosorantes.com.br)';
 const strip = s => (s||'').replace(/<[^>]+>/g,'').replace(/\s+/g,' ').trim();
 fs.mkdirSync('thumbs',{recursive:true});
 for (const [k, f] of Object.entries(fixas)) {
-  const u = 'https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo|categories&cllimit=30&iiprop=size|extmetadata|url&iiurlwidth=500&titles=' + encodeURIComponent(f);
+  const u = 'https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo|categories&cllimit=30&iiprop=size|extmetadata|url&iiurlwidth=' + (k.startsWith('fr/big_') ? 1100 : 500) + '&titles=' + encodeURIComponent(f);
   try {
     const j = await (await fetch(u, { headers: { 'User-Agent': UA } })).json();
     const p = Object.values(j.query.pages)[0];
