@@ -61,6 +61,11 @@ jobs:
       - name: Gerar versões leves das imagens
         run: npm run imagens:variantes -- --write
 
+      - name: Calcular o foco das imagens (corte sem perder o rosto)
+        run: |
+          npm install --no-save --no-audit --no-fund smartcrop-sharp
+          node --env-file=.env scripts/imagens-foco.mjs --write
+
       - name: Apagar variáveis
         if: always()
         run: rm -f .env

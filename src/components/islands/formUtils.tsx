@@ -19,7 +19,7 @@ export const whatsappOk = (v: string) => {
 
 export const shareInvite = () => {
   const text = encodeURIComponent(
-    "🙏 Faça seu pedido de oração no Católicos Orantes!\n\nNossa comunidade reza por suas intenções todos os dias.\n\n👉 https://catolicosorantes.com.br/pedido-de-oracao",
+    "Faça seu pedido de oração no *Católicos Orantes*!\n\nNossa comunidade reza por suas intenções todos os dias.\n\nhttps://catolicosorantes.com.br/pedido-de-oracao",
   );
   window.open(`https://wa.me/?text=${text}`, "_blank", "noopener");
 };

@@ -137,7 +137,7 @@ const jsonLd = [
             <div class="liturgia-content prose max-w-none text-[16px]" set:html={ev.html} />
           </div>
           <p class="mt-4 text-center text-xs italic text-co-warm-brown/75">Texto litúrgico: CNBB (Liturgia Diária)</p>
-          <Compartilhar path={path} titulo={title} texto={`📖 Evangelho do dia, ${dataPorExtenso(today).replace(/ de \d{4}$/, '')}${ref ? `: ${ref}` : ''}`} class="mt-6 mx-auto" />
+          <Compartilhar path={path} titulo={title} texto={`Evangelho do dia, ${dataPorExtenso(today).replace(/ de \d{4}$/, '')}${ref ? `: *${ref}*` : ''}`} class="mt-6 mx-auto" />
         </section>
       ) : (
         <section class="rounded-md border border-co-warm-sand-dark bg-co-warm-sand p-5 md:p-8" aria-labelledby="texto-evangelho">

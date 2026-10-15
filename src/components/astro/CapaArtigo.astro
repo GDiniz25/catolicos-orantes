@@ -6,6 +6,7 @@
 import { sectionIconByHref } from '@/data/sections';
 import { visualDe } from '@/config/categoryVisual';
 import { imagemResponsiva } from '@/lib/imagens';
+import { focoDe } from '@/lib/foco';
 
 interface Props {
   category: string;
@@ -20,6 +21,7 @@ interface Props {
 const { category, image_url, variant = 'card', class: cls = '', eager = false, sizes } = Astro.props;
 // Cartões nunca passam de 640 px de largura real; miniaturas, de 240
 const img = image_url ? await imagemResponsiva(image_url, variant === 'thumb' ? 240 : 480, false, variant === 'thumb' ? 240 : 640) : null;
+const foco = await focoDe(image_url);
 const tamanhos = sizes ?? (variant === 'thumb' ? '112px' : '(min-width: 1024px) 380px, (min-width: 640px) 50vw, calc(100vw - 32px)');
 const Icon = sectionIconByHref(`/${category}`);
 const v = visualDe(category);
@@ -34,7 +36,8 @@ const v = visualDe(category);
     height={variant === 'thumb' ? 120 : 360}
     loading={eager ? 'eager' : 'lazy'}
     decoding="async"
-    class:list={['block bg-co-warm-cream object-cover object-[center_25%]', cls]}
+    class:list={['block bg-co-warm-cream object-cover', cls]}
+    style={`object-position:${foco}`}
   />
 ) : (
   <div class:list={['relative overflow-hidden', cls]} style={`background:${v.fundo};color:${v.tinta}`} aria-hidden="true">

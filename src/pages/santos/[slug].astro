@@ -3,6 +3,7 @@ import { CATEGORY_VISUAL } from '@/config/categoryVisual';
 import { Star, ArrowLeft, Calendar } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Compartilhar from '@/components/astro/Compartilhar.astro';
+import { focoDe } from '@/lib/foco';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import { markdownParaHtml } from '@/components/Markdown';
 import { getSaintsWithSlug, articleExists, getAllArticles } from '@/lib/data';
@@ -36,6 +37,7 @@ const artigo = hasArticle ? (await getAllArticles()).find((a) => a.category === 
 const retratoUrl = artigo?.image_url || saint.image_url || null;
 const retratoCredito = artigo?.image_url ? artigo.image_credit : (saint as { image_credit?: string | null }).image_credit ?? null;
 const retrato = retratoUrl ? await imagemResponsiva(retratoUrl, 640, true) : null;
+const focoRetrato = await focoDe(retratoUrl);
 
 const description = saint.description && saint.description.length >= 70
   ? clampText(saint.description, 158)
@@ -90,7 +92,7 @@ const jsonLd = [
         <article class="rounded-md border border-co-warm-sand-dark bg-co-warm-cream p-8 md:p-10">
           {retratoUrl && (
             <figure class="-mx-8 -mt-8 mb-6 md:-mx-10 md:-mt-10">
-              <img src={retrato?.src ?? retratoUrl} srcset={retrato?.srcset} sizes={retrato?.srcset ? '(min-width: 768px) 768px, 100vw' : undefined} alt={`${shortName} em pintura de arte sacra`} width="1200" height="675" class="aspect-[16/9] w-full rounded-t-md bg-[#2B2626] object-contain" loading="eager" decoding="async" />
+              <img src={retrato?.src ?? retratoUrl} srcset={retrato?.srcset} sizes={retrato?.srcset ? '(min-width: 768px) 768px, 100vw' : undefined} alt={`${shortName} em pintura de arte sacra`} width="1200" height="675" class="aspect-[16/9] w-full rounded-t-md bg-co-warm-cream object-cover" style={`object-position:${focoRetrato}`} loading="eager" decoding="async" />
               {retratoCredito && <figcaption class="px-8 pt-2 text-[12px] leading-snug text-co-warm-brown/70 md:px-10">{retratoCredito}</figcaption>}
             </figure>
           )}
@@ -111,7 +113,7 @@ const jsonLd = [
             </a>
           )}
 
-          <Compartilhar path={path} titulo={saint.saint_name} texto={`🙏 ${shortName}: festa em ${dateLabel.replace(/ de ([A-ZÇ])/, (m) => m.toLowerCase())}`} class={hasArticle ? 'mt-3' : ''} />
+          <Compartilhar path={path} titulo={saint.saint_name} texto={`*${shortName}*: festa em ${dateLabel.replace(/ de ([A-ZÇ])/, (m) => m.toLowerCase())}`} class={hasArticle ? 'mt-3' : ''} />
 
           {saint.vatican_url && (
             <p class="mt-4">

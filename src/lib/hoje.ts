@@ -94,3 +94,23 @@ export function evangelista(ref: string | null): string | null {
   const s = ref.trim().slice(0, 2);
   return ({ Mt: 'Mateus', Mc: 'Marcos', Lc: 'Lucas', Jo: 'João' } as Record<string, string>)[s] ?? null;
 }
+
+/** "*A*", "*A* e *B*", "*A*, *B* e *C*": nomes em negrito no WhatsApp */
+export function listaNegrito(nomes: string[]): string {
+  const n = nomes.map((x) => `*${x.trim()}*`);
+  return n.length <= 1 ? n.join('') : `${n.slice(0, -1).join(', ')} e ${n[n.length - 1]}`;
+}
+
+/** Santos do dia sem repetição: o mesmo santo cadastrado duas vezes costuma apontar para o mesmo artigo */
+export function santosSemRepeticao<T extends { article_slug?: string | null }>(santos: T[], nome: (s: T) => string): string[] {
+  const vistos = new Set<string>();
+  const out: string[] = [];
+  for (const s of santos) {
+    const n = nome(s);
+    const chaves = [n.toLowerCase(), s.article_slug ? `a:${s.article_slug}` : ''].filter(Boolean);
+    if (chaves.some((c) => vistos.has(c))) continue;
+    chaves.forEach((c) => vistos.add(c));
+    out.push(n);
+  }
+  return out;
+}

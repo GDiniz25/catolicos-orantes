@@ -4,6 +4,7 @@
  * O conteúdo se repete todo ano, então essas páginas acumulam relevância no Google.
  */
 import Compartilhar from '@/components/astro/Compartilhar.astro';
+import { listaNegrito, santosSemRepeticao } from '@/lib/hoje';
 import HojeNav from '@/components/astro/HojeNav.astro';
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
@@ -111,7 +112,7 @@ if (FAQ.length) jsonLd.push(faqSchema(FAQ));
         <p class="text-co-warm-brown/75">Ainda não há santos cadastrados para esta data.</p>
       )}
 
-      {saints.length > 0 && <Compartilhar path={path} titulo={title} texto={`🙏 Santo do dia, ${dataTxt}: ${nomesUnicos.find((n) => !/^S\. /.test(n)) ?? nomesUnicos[0]}`} class="mt-6" />}
+      {saints.length > 0 && <Compartilhar path={path} titulo={title} texto={(() => { const n = santosSemRepeticao(saints, (s) => getShortName(s.saint_name)); return `${n.length > 1 ? 'Santos do dia' : 'Santo do dia'}, ${dataTxt}: ${listaNegrito(n)}`; })()} class="mt-6" />}
 
       <nav class="mt-8 flex items-center justify-between gap-4 text-[15px]" aria-label="Outros dias">
         <a href={`/santo-do-dia/${diaMesSlug(anterior.month, anterior.day)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">

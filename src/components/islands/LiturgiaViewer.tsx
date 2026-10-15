@@ -159,7 +159,7 @@ export default function LiturgiaViewer({ buildDate, initial }: Props) {
             <button
               type="button"
               onClick={() => {
-                const text = encodeURIComponent(`📖 Liturgia Diária: ${formattedDate}\n${liturgia.title}\n\nLeia as leituras de hoje:\nhttps://catolicosorantes.com.br/liturgia-diaria`);
+                const text = encodeURIComponent(`*Liturgia diária*, ${formattedDate}\n${liturgia.title}\n\nLeia as leituras de hoje:\nhttps://catolicosorantes.com.br/liturgia-diaria`);
                 window.open(`https://wa.me/?text=${text}`, "_blank", "noopener");
               }}
               className="inline-flex h-9 items-center rounded-md border border-co-warm-terracotta/20 px-3 text-sm text-co-warm-terracotta hover:bg-co-warm-terracotta/5"

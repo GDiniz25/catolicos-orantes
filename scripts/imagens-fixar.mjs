@@ -1,6 +1,8 @@
 /**
  * Aplica pinturas escolhidas a dedo (seo/imagens/fixas.json) a artigos específicos.
  * Formato: { "categoria/slug": "File:Nome do arquivo no Wikimedia Commons.jpg" }
+ *      ou   { "categoria/slug": { "arquivo": "File:...", "alt": "texto alternativo" } } (fotos reais, com alt próprio)
+ * Aceita domínio público e CC BY / CC BY-SA (com autor e licença no crédito).
  * Confere se a obra é de domínio público, baixa, envia ao Storage (bucket article-images)
  * e grava image_url, image_alt (mantém o texto alternativo do artigo, se houver) e image_credit.
  *
@@ -26,11 +28,12 @@ for (const chave of chaves) {
     const { data: artigo, error } = await db.from('articles').select('id,title,category,image_alt').eq('category', category).eq('slug', slug).maybeSingle();
     if (error) throw new Error(error.message);
     if (!artigo) throw new Error('artigo não existe (publique antes com npm run conteudos:publicar -- --write)');
-    const info = await infoCommons(fixas[chave]);
+    const item = typeof fixas[chave] === 'string' ? { arquivo: fixas[chave] } : fixas[chave];
+    const info = await infoCommons(item.arquivo);
     console.log(`  ${chave}: ${info.arquivo}`);
     if (!gravar) { ok++; continue; }
     const url = await enviarPintura(db, info, `${category}--${slug}`);
-    const alt = (process.argv.includes('--alt') ? '' : artigo.image_alt) || textoAlt(artigo, info);
+    const alt = item.alt || (process.argv.includes('--alt') ? '' : artigo.image_alt) || textoAlt(artigo, info);
     const { error: e2 } = await db.from('articles').update({ image_url: url, image_alt: alt, image_credit: credito(info), updated_at: new Date().toISOString() }).eq('id', artigo.id);
     if (e2) throw new Error(e2.message);
     ok++;

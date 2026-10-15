@@ -7,5 +7,77 @@
  "ladainhas/ladainha-do-anjo-da-guarda": "File:Cortona Guardian Angel 01.jpg",
  "ladainhas/ladainha-de-todos-os-santos-texto-completo-e-meditacao": "File:Albrecht Dürer - Adoration of the Trinity (Landauer Altar) - Google Art Project.jpg",
  "ladainhas/ladainha-de-santo-expedito": "File:San Expedito circa 1781.jpg",
- "ladainhas/ladainha-de-sao-jorge": "File:Raphael - Saint George and the Dragon - Google Art Project.jpg"
+ "ladainhas/ladainha-de-sao-jorge": "File:Raphael - Saint George and the Dragon - Google Art Project.jpg",
+ "milagres-eucaristicos/o-milagre-de-santarem-portugal": {
+  "arquivo": "File:Milagre Eucarístico de Santarém 5.png",
+  "alt": "Relicário do Santíssimo Milagre de Santarém com a Hóstia ensanguentada, Igreja do Santíssimo Milagre"
+ },
+ "milagres-eucaristicos/milagre-eucaristico-de-siena-italia-hostias-intactas-por-seculos": {
+  "arquivo": "File:Cappella estiva delle sacre particole, del marrina, 1504 (rifatta nel xix secolo, tranne il pavimento) 01.jpg",
+  "alt": "Capela das Sagradas Partículas na Basílica de São Francisco de Siena, onde se guardam as hóstias intactas"
+ },
+ "milagres-eucaristicos/o-milagre-de-bolsena-e-a-festa-de-corpus-christi": {
+  "arquivo": "File:Bolsena-chiesa santa cristina-teca sangue.jpg",
+  "alt": "Relicário dourado com a pedra manchada pelo Sangue do milagre, Basílica de Santa Cristina em Bolsena"
+ },
+ "milagres-eucaristicos/milagre-eucaristico-de-orvieto-italia": {
+  "arquivo": "File:ORVIETO ostensorio del corporal y de la hostia del milagro eucarístico.jpg",
+  "alt": "Relicário com o Corporal manchado de sangue do milagre de Bolsena, Capela do Corporal no Duomo de Orvieto"
+ },
+ "milagres-eucaristicos/milagre-eucaristico-de-cascia-italia": {
+  "arquivo": "File:Cascia - Basilica di Santa Rita da Cascia - La facciata.jpg",
+  "alt": "Fachada da Basílica de Santa Rita em Cascia, onde se guarda a relíquia do milagre eucarístico"
+ },
+ "milagres-eucaristicos/milagre-eucaristico-de-soko-ka-polonia": {
+  "arquivo": "File:Kaplica Matki Bożej Różańcowej z cudownie przemienioną cząstką Ciała Pańskiego 2.jpg",
+  "alt": "Capela de Nossa Senhora do Rosário com a Hóstia transformada, igreja de Santo Antônio em Sokółka"
+ },
+ "milagres-eucaristicos/milagre-eucaristico-de-buenos-aires-1996": {
+  "arquivo": "File:ParroquiaSantaMaria Caballito BsAs.jpg",
+  "alt": "Paróquia Santa María, na Avenida La Plata, Buenos Aires, local do milagre eucarístico de 1996"
+ },
+ "milagres-eucaristicos/milagre-eucaristico-de-tixtla-mexico": {
+  "arquivo": "File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073224932).jpg",
+  "alt": "Fachada da Paróquia San Martín de Tours em Tixtla, Guerrero, local do milagre eucarístico de 2006"
+ },
+ "milagres-eucaristicos/milagre-eucaristico-de-betania-venezuela": {
+  "arquivo": "File:Santuario Virgen de Betania 1.JPG",
+  "alt": "Gruta com a imagem da Virgem no Santuário de Betania, em Cúa, Venezuela"
+ },
+ "milagres-eucaristicos/a-ciencia-diante-dos-milagres-eucaristicos": {
+  "arquivo": "File:Lanciano, chiesa di San Francesco - Altare del miracolo eucaristico.jpg",
+  "alt": "Altar do Milagre Eucarístico na igreja de São Francisco, em Lanciano, onde ficam as relíquias estudadas"
+ },
+ "milagres-eucaristicos/o-que-a-igreja-diz-sobre-os-milagres-eucaristicos": {
+  "arquivo": "File:Orvieto museum duomo 607.jpg",
+  "alt": "Relicário medieval do Corporal de Bolsena, de Ugolino di Vieri, no Museu do Duomo de Orvieto"
+ },
+ "milagres-eucaristicos/milagres-eucaristicos-no-brasil": {
+  "arquivo": "File:Cálice, Patena e Colherinha.jpg",
+  "alt": "Ostensório, cálice e patena de ouro do Congresso Eucarístico Nacional de 1942, Museu de Arte Sacra de São Paulo"
+ },
+ "devocoes-marianas/nossa-senhora-de-lourdes-e-as-curas-milagrosas": {
+  "arquivo": "File:Lourdes IMG 9315.JPG",
+  "alt": "Gruta de Massabielle em Lourdes com a estátua de Nossa Senhora no nicho da aparição"
+ },
+ "devocoes-marianas/nossa-senhora-aparecida-padroeira-do-brasil": {
+  "arquivo": "File:Vista da Basílica de Nossa Senhora Aparecida, Aparecida SP.JPG",
+  "alt": "Basílica do Santuário Nacional de Nossa Senhora Aparecida vista da Passarela da Fé, em Aparecida (SP)"
+ },
+ "devocoes-marianas/nossa-senhora-das-gracas-e-a-medalha-milagrosa": {
+  "arquivo": "File:Vierge Médaille Miraculeuse.jpg",
+  "alt": "Estátua da Virgem com o globo na Capela de Nossa Senhora da Medalha Milagrosa, Rue du Bac, Paris"
+ },
+ "devocoes-marianas/a-medalha-milagrosa-historia-e-promessas": {
+  "arquivo": "File:Miraculous medal (4).jpg",
+  "alt": "Frente e verso de uma Medalha Milagrosa antiga: a Virgem Imaculada e o monograma de Maria com a cruz"
+ },
+ "devocoes-marianas/nossa-senhora-de-medjugorje-aparicoes-mensagens": {
+  "arquivo": "File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694723725).jpg",
+  "alt": "Igreja de São Tiago em Medjugorje, Bósnia e Herzegovina, iluminada ao anoitecer"
+ },
+ "devocoes-marianas/as-aparicoes-marianas-reconhecidas-pela-igreja": {
+  "arquivo": "File:Apparition Chapel with Stained Window.jpg",
+  "alt": "Capela da Aparição no Santuário de Knock, Irlanda, com as estátuas de Maria, José e João"
+ }
 }

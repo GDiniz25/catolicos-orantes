@@ -2,6 +2,7 @@
 /** Retrato redondo do santo: a imagem do artigo dele, ou a inicial do nome quando ainda não há imagem. */
 import { getShortName } from '@/lib/saints';
 import { imagemResponsiva } from '@/lib/imagens';
+import { focoDe } from '@/lib/foco';
 interface Props {
   nome: string;
   imagem?: string | null;
@@ -11,10 +12,11 @@ interface Props {
 }
 const { nome, imagem, class: cls = 'h-16 w-16', letra = 'text-3xl' } = Astro.props;
 const img = imagem ? await imagemResponsiva(imagem, 240, false, 240) : null;
+const foco = await focoDe(imagem);
 const inicial = (getShortName(nome).replace(/^(São|Santa|Santo|S\.|Sto\.|Sta\.|Beato|Beata|Bem-aventurad[oa]|Nossa Senhora d[aeo]s?)\s*/i, '').trim()[0] || '+').toUpperCase();
 ---
 {img ? (
-  <img src={img.src} srcset={img.srcset} sizes={img.srcset ? '64px' : undefined} width="64" height="64" alt="" loading="lazy" decoding="async" class:list={['shrink-0 rounded-full border-2 border-[#D9BE78] bg-[#F7F0DC] object-cover object-[center_20%]', cls]} />
+  <img src={img.src} srcset={img.srcset} sizes={img.srcset ? '64px' : undefined} width="64" height="64" alt="" loading="lazy" decoding="async" class:list={['shrink-0 rounded-full border-2 border-[#D9BE78] bg-[#F7F0DC] object-cover', cls]} style={`object-position:${foco}`} />
 ) : (
   <span class:list={['flex shrink-0 items-center justify-center rounded-full border-2 border-[#D9BE78] bg-[#F7F0DC] font-display font-semibold text-[#7A5820]', cls, letra]} aria-hidden="true">{inicial}</span>
 )}

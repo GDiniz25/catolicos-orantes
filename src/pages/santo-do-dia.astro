@@ -1,5 +1,6 @@
 ---
 import Compartilhar from '@/components/astro/Compartilhar.astro';
+import { listaNegrito, santosSemRepeticao } from '@/lib/hoje';
 import HojeNav from '@/components/astro/HojeNav.astro';
 import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { Star, Calendar } from 'lucide-react';
@@ -102,7 +103,7 @@ const jsonLd = [
                     <a href={`/${main.article_category}/${main.article_slug}`} class="btn btn-contorno">Ler artigo completo</a>
                   )}
                 </div>
-                <Compartilhar path="/santo-do-dia" titulo={title} texto={`🙏 Santo do dia, ${day} de ${MONTHS[month - 1].toLowerCase()}: ${shortNames.find((n) => !/^S\. /.test(n)) ?? shortNames[0]}`} class="mt-3" />
+                <Compartilhar path="/santo-do-dia" titulo={title} texto={(() => { const n = santosSemRepeticao(saints, (s) => getShortName(s.saint_name)); return `${n.length > 1 ? 'Santos do dia' : 'Santo do dia'}, ${day} de ${MONTHS[month - 1].toLowerCase()}: ${listaNegrito(n)}`; })()} class="mt-3" />
                 {main.vatican_url && (
                   <p class="mt-4"><a href={main.vatican_url} target="_blank" rel="noopener noreferrer" class="text-[13px] text-co-warm-brown/75 underline-offset-4 hover:underline">Fonte: Vatican News</a></p>
                 )}
