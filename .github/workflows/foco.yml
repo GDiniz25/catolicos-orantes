@@ -32,7 +32,9 @@ jobs:
       - name: Refinar o foco pelos rostos
         run: |
           pip install --quiet opencv-python-headless numpy requests
-          python3 scripts/imagens-rosto.py --write
+          set -o pipefail
+          python3 scripts/imagens-rosto.py --write 2>&1 | tee saida.txt || { echo "::error::$(tail -c 900 saida.txt | tr '\n' ' ')"; exit 1; }
+          echo "::notice::$(tail -c 400 saida.txt | tr '\n' ' ')"
       - name: Apagar variáveis
         if: always()
         run: rm -f .env
