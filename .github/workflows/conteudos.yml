@@ -9,6 +9,7 @@ on:
       - 'seo/novos/lote-*.json'
       - 'seo/imagens/fixas.json'
       - 'seo/imagens/santos.json'
+      - 'seo/reflexoes/*.json'
   workflow_dispatch: {}
 
 concurrency:
@@ -47,6 +48,9 @@ jobs:
 
       - name: Publicar artigos novos
         run: npm run conteudos:publicar -- --write
+
+      - name: Publicar reflexões do Evangelho
+        run: npm run reflexoes:publicar -- --write
 
       - name: Aplicar pinturas escolhidas
         run: npm run imagens:fixar -- --write --alt
