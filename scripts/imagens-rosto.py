@@ -63,12 +63,21 @@ def rostos(cinza):
     return achados
 
 
-def processar(linha):
+def baixar(linha):
+    try:
+        r = requests.get(linha['url'], headers=UA, timeout=60)
+        r.raise_for_status()
+        return linha, r.content
+    except Exception as e:
+        return linha, e
+
+
+def processar(linha, conteudo):
     url = linha['url']
     try:
-        r = requests.get(url, headers=UA, timeout=60)
-        r.raise_for_status()
-        img = cv2.imdecode(np.frombuffer(r.content, np.uint8), cv2.IMREAD_GRAYSCALE)
+        if isinstance(conteudo, Exception):
+            raise conteudo
+        img = cv2.imdecode(np.frombuffer(conteudo, np.uint8), cv2.IMREAD_GRAYSCALE)
         if img is None:
             raise ValueError('imagem ilegível')
         h0, w0 = img.shape
@@ -98,8 +107,10 @@ def processar(linha):
 
 
 cont = {}
+cv2.setNumThreads(1)
+# Baixa em paralelo; a detecção roda numa linha só (as cascatas do OpenCV não são seguras entre threads)
 with cf.ThreadPoolExecutor(6) as ex:
-    for url, foco, metodo in ex.map(processar, linhas):
+    for url, foco, metodo in (processar(l, c) for l, c in ex.map(baixar, linhas)):
         cont[metodo.split(':')[0]] = cont.get(metodo.split(':')[0], 0) + 1
         if foco is None:
             print('  falha', url.rsplit('/', 1)[-1], metodo)
