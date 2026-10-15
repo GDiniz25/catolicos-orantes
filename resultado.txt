@@ -45,18 +45,6 @@ OK	fr/m_c_tumaco2	1632x1224	CC0	El Tobias	File:Playa del Bajito en Tumaco.JPG
    DESC: Playa del Bajito en Tumaco
    CATS: Bays of Colombia | Beaches of Colombia | CC-Zero | Self-published work | Taken with Sony DSC-W100 | Tumaco
    LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/m_c_scete1	1600x1200	CC BY 3.0	Lumen roma	File:Deir as Suriani.jpg
-   DESC: Deir as-Suriani Monastery in Wadi Natrun (Egypt)
-   CATS: 2008 in Egypt | CC-BY-3.0 | Coptic churches in Egypt | GFDL | Images with extracted images | License migration redundant | Self-published work | Syrian Monastery
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/m_c_scete2	3456x2304	CC BY-SA 3.0	Einsamer Schütze	File:Monastery of Saint Pishoy 03.JPG
-   DESC: The Monastery of Saint Pishoy at Wadi Natrun
-   CATS: CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | License migration redundant | Monastery of Saint Bishoy | Self-published work | Taken with Canon EOS 350D
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_c_morne	1530x1036	Attribution	Radosław Botev	File:Morne-Rouge Martinique.jpg
-   DESC: View over Le Morne-Rouge in the direction of the cloud-hidden Mount Pelée, Martinique
-   CATS: 2008 in Martinique | Attribution only license | Files by user Botev | Files with coordinates missing SDC location of creation | Le Morne-Rouge | Montagne Pelée | Self-published work
-   LICURL:  USAGE: 
 OK	fr/m_c_cava	1600x1200	CC0	Scarpetter	File:Monte Finestra (Cava de’Tirreni).jpg
    DESC: Cava de’Tirreni’s view from Mt. Castello; Mt. Finestra on the background
    CATS: CC-Zero | Cava de' Tirreni | Monte Finestra | Monti Lattari | Natural arches in Italy | Self-published work
@@ -69,96 +57,78 @@ OK	fr/m_c_cimb	8022x2860	CC BY-SA 4.0	Diego Delso	File:Cimballa, Zaragoza, Espa�
    DESC: Cimballa, Zaragoza, Spain
    CATS: April 2018 in the province of Zaragoza | CC-BY-SA-4.0 | Cimballa | Images by User:Poco a poco | Images by User:Poco a poco taken in 2018 | Images of Spain by User:Poco a poco | Quality images | Quality images by User:Poco a poco | Quality images of Spain by User:Poco a poco | Quality images of buildings in Spain | Quality images of the province of Zaragoza | Taken with Canon EOS 5DS R
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_c_cimb2	4903x2249	CC BY-SA 4.0	Jaime Calatayud	File:Cimballa, Zaragoza, España, 2015-09-29, JD 31.jpg
-   DESC: Cimballa, Zaragoza, Spain
-   CATS: All media supported by Wikimedia España in 2015 | CC-BY-SA-4.0 | Cimballa | Images from Wiki Loves Monuments 2015 | Images from Wiki Loves Monuments 2015 in Spain | Images from Wiki Loves Monuments 2015 in Spain, reviewed | Images from Wiki Loves Monuments 2015 in Spain not belonging to cultural heritage monuments | Images from Wiki Loves Monuments missing SDC depicts | Images from Wiki Loves Monuments missing SDC location of creation | Self-published work | September 2015 in the province of Zar
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
 OK	fr/m_c_onil	4450x3009	CC BY-SA 4.0	Joanbanjo	File:Vista d'Onil des del castell de Castalla.jpg
    DESC: Vista d'Onil des del castell de Castalla.
    CATS: CC-BY-SA-4.0 | Onil | Self-published work | Views from Castell de Castalla
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_c_salz	4160x3120	CC BY-SA 4.0	Gedeone000	File:Palazzo Combi Salzano.jpg
-   DESC: Palazzo Combi Salzano
-   CATS: CC-BY-SA-4.0 | Salzano | Self-published work
+OK	fr/m_c_regens	3264x2448	CC BY-SA 3.0	Nkoepff	File:Regensburg mit Steinerne Brücke, Dom und Stadt am Hof.JPG
+   DESC: Regensburg aus der Vogelperspektive mit Blick auf die Donau, den Stadtteil Stadt am Hof, die Steinerne Brücke und den Dom.
+   CATS: CC-BY-SA-3.0 | Self-published work | Taken with Ricoh GR Digital | Views of Regensburg | Water reflections of buildings in Germany | Water reflections of cityscapes in Germany
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_c_bord	3000x2000	CC BY-SA 3.0	Coyau	File:Bordeaux - Place de la Bourse 2009-06-29.jpg
+   DESC: The Place de la Bourse, in Bordeaux, France, as seen from the Garonne.
+   CATS: CC-BY-SA-3.0,2.5,2.0,1.0 | Files by User:Coyau | Files by User:Coyau/VI | Files with coordinates missing SDC location of creation | GFDL | Information field template with formatting | License migration redundant | Place de la Bourse (Bordeaux) | Self-published work | Taken with Canon EF 28mm F1.8 | Taken with Canon EOS 350D | Valued images missing SDC depicts | Valued images of Bordeaux | Valued images promoted 2009-12 | Valued images sorted by promotion date
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_c_fonte	4000x3000	CC BY-SA 4.0	Giacomo Alessandroni	File:Fonte Avellana.jpg
+   DESC: Monastero di Fonte Avellana
+   CATS: CC-BY-SA-4.0 | Churches in Italy photographed in 2021 | Files with coordinates missing SDC location of creation | Italy photographs taken on 2021-06-19 | Monastero di Fonte Avellana | Self-published work | Uploaded with Mobile/Android | Wikigita a Fonte Avellana - Giugno 2021
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_c_canosio	2816x2112	CC BY 3.0	Nem80	File:Rocca La Meja dal Colle dAncoccia.jpg
-   DESC: Rocca La Meja seen from Colle d'Ancoccia, Canosio (CN), Italy
-   CATS: CC-BY-3.0 | Files with coordinates missing SDC location of creation | Rocca la Meja | Self-published work | Taken with Canon PowerShot A540
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-### Bordeaux place de la Bourse
-2560x1920	Public domain	File:Bordeaux Place de la Bourse de nuit.jpg	| Night photo of the Place de la Bourse
-3072x2304	Public domain	File:Station Place de la Bourse - 2009-01-29.jpg	| Station Place de la Bourse on the Tramway de Bordeaux. The station consists of only benches on the platform so that it blends in and does no
-3000x2000	CC BY-SA 3.0	File:Bordeaux - Place de la Bourse 2009-06-29.jpg	| The Place de la Bourse, in Bordeaux, France, as seen from the Garonne.
-3456x2304	CC BY-SA 3.0	File:139 - Place de la Bourse et le miroir d'eau - Bordeaux.jpg	| Place de la Bourse Bordeaux Gironde France
-4288x3216	CC BY-SA 4.0	File:Place de la Bourse (Bordeaux).jpg	| Place de la Bourse (numéros 2, 3, 4, 8, 10, 12, 14, 16, 17, 18 et 18bis) à Bordeaux (Gironde, France).
-4288x3216	CC BY-SA 4.0	File:Place de la Bourse et fontaine des Trois Grâces (Bordeaux).jpg	| Place de la Bourse (numéros 2, 3, 4, 8 et 10) et fontaine des Trois Grâces à Bordeaux (Gironde, France).
-4288x3216	CC BY-SA 4.0	File:Miroir d'eau et place de la Bourse (Bordeaux) (1).jpg	| Miroir d'eau et place de la Bourse (numéros 3, 4, 8, 10, 12, 14, 16, 17, 18 et 18bis) à Bordeaux (Gironde, France).
-4288x3216	CC BY-SA 4.0	File:Miroir d'eau et place de la Bourse (Bordeaux) (4).jpg	| Miroir d'eau et place de la Bourse (numéros 2, 3, 4, 8, 10, 12, 14, 16, 17, 18 et 18bis) à Bordeaux (Gironde, France).
-4288x3216	CC BY-SA 4.0	File:Miroir d'eau et place de la Bourse (Bordeaux) (5).jpg	| Miroir d'eau et place de la Bourse (numéros 2, 3, 4, 8, 10, 12, 14, 16, 17, 18 et 18bis) à Bordeaux (Gironde, France).
-4288x3216	CC BY-SA 4.0	File:Miroir d'eau et place de la Bourse (Bordeaux) (6).jpg	| Miroir d'eau et place de la Bourse (numéros 2, 3, 4, 8, 10, 12, 14, 16, 17, 18 et 18bis) à Bordeaux (Gironde, France).
-4288x3216	CC BY-SA 4.0	File:Place de la Bourse et fontaine des Trois Grâces (Bordeaux) (2).jpg	| Place de la Bourse (numéros 12, 14, 16, 17, 18 et 18bis) et fontaine des Trois Grâces à Bordeaux (Gironde, France).
-16382x3834	CC BY-SA 4.0	File:Panorama Place de la Bourse Bordeaux.jpg	| Panorama Place de la Bourse Bordeaux
-3300x2200	CC BY-SA 4.0	File:00 1686 Place de la Bourse (Bordeaux).jpg	| Bordeaux: shot of the Quai de la Douane (Palais de la Bourse).
-2067x3100	CC BY-SA 4.0	File:00 0695 Place de la Bourse (Bordeaux) - Fountain of the Three Graces.jpg	| Bordeaux: Fountain of the three Graces on the "Place de la Bourse" with buildings of the bishopric from the 14th century.
-3072x2048	CC BY-SA 4.0	File:Place de la Bourse et le miroir d'eau - Bordeaux 02.jpg	| Place de la Bourse and the reflecting pool, Bordeaux (France).
-3072x2048	CC BY-SA 4.0	File:Place de la Bourse et le miroir d'eau - Bordeaux 01.jpg	| Place de la Bourse and the reflecting pool, Bordeaux (France).
-4589x2441	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 02.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4466x2600	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 03.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4537x3207	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 06.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4553x3056	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 08.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4529x3168	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 12.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4582x2755	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 15.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4556x3179	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 16.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4346x3237	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 17.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-3078x4345	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 18.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4536x2837	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 20.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4583x2622	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 24.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4552x2694	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 25.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4067x3419	CC BY-SA 4.0	File:Bordeaux Place de la Bourse 27.jpg	| Stock Exchange Square, Bordeaux, Department of Gironde, Region of Aquitaine, France
-4288x2848	CC BY 4.0	File:Bordeaux - Place de la Bourse 10.jpg	| Partial view, Place de la Bourse, Bordeaux, France
-### Bordeaux panorama Garonne
-4887x3258	CC BY 2.0	File:Sunset over the Dordogne river - Montalon, Bordeaux, France - Picture Image Photo Garonne (13902369443).jpg	| Photo prise depuis ce lieu : maps.google.fr/maps?q=44.997184,-0.453248&amp;num=1&amp;t... Photo taken from this place : maps.google.fr/maps?
-9641x4184	CC BY 2.0	File:Bordeaux - Les quais et le pont Chaban Delmas sur la Garonne - Gironde France Bridge over Garonne Photo Picture Photography (7900278820).jpg	| Panorama de 26 photos assemblées
-16961x5809	CC BY-SA 2.0	File:Bordeaux - Pont Chaban Delmas en construction - Panorama (7802777516).jpg	| Assemblage
-1962x3130	Public domain	File:Martel - Les Cévennes et la région des causses, 1893.djvu	| uploaded for Wikisource
-1093x1747	Public domain	File:University of North Carolina at Chapel Hill (IA handbookfortrave00unse 2).pdf	| xlii, 610 p. 18 cm Murray file copy no. 389 Printed by William Clowes and Sons, London -- p. 610 Includes index Subjects: France -- Guideboo
-1250x1727	Public domain	File:Illustrated home book of the world's great nations. Being a geographical, historical and pictorial encyclopedia (IA illustratedhomeb00powerich).pdf	| Subjects: Geography; History; Manners and customs
-1010x1647	Public domain	File:La vie parisienne à travers le xixe siècle. Paris de 1800 à 1900 d'après les estampes et les mémoires du temps publié sous la direction de Charles Simond pseud. Ouvrage (IA lavieparisiennet02simo).pdf	| 3 v. 29 cm Published 1900-1902 Some of the plates are accompanied by leaf with descriptive letterpress Each volume has 3 indexes; Table des 
-2048x2956	Public domain	File:L’Artiste - journal de la littérature et des beaux-arts, 1861, T11.djvu	| Revue des beaux-arts et des belles-lettres de Paris
-3264x2448	CC BY-SA 4.0	File:Agen panorama (1).jpg	| Panorama sur le centre-ville d'Agen, les voies ferrées et le canal latéral à la Garonne, Lot-et-Garonne, France. Vue prise depuis l'Ermitage
-3223x2417	CC BY-SA 4.0	File:Agen panorama (3).jpg	| Panorama sur le centre-ville d'Agen, la gare (à gauche), les voies ferrées et le canal latéral à la Garonne, Lot-et-Garonne, France. Vue pri
-1056x696	Public domain	File:Meyers Universum 9. Band 1842.djvu	| Meyer’s Universum, oder Abbildung und Beschreibung des Sehenswerthesten und Merkwürdigsten der Natur und Kunst auf der ganzen Erde. 9. BandB
-2560x1899	CC0	File:France, Bordeaux, Panorama sur la Garonne - A30214.jpg	| Lieu : Bordeaux Lieu : Bordeaux, France Mission : 1920-1921 - Charente, Gironde, Basse-Pyrénées, Hautes Pyrénées - Fernand Cuville Thème : H
-2560x1899	CC0	File:France, Bordeaux, Panorama s-la Garonne - A27026.jpg	| Lieu : Bordeaux Lieu : Bordeaux, France Mission : 1920-1921 - Charente, Gironde, Basse-Pyrénées, Hautes Pyrénées - Fernand Cuville Thème : N
-2560x1899	CC0	File:Panorama sur la ville et la Garonne - A26987.jpg	| Lieu : Bordeaux Lieu : Bordeaux, France Mission : 1920-1921 - Charente, Gironde, Basse-Pyrénées, Hautes Pyrénées - Fernand Cuville Thème : N
-### Les Ulmes bourg
-1197x936	CC BY-SA 4.0	File:Maine-et-Loire administrative map-blank.svg	| Administrative map of the French department of Maine-et-Loire. Each area of this map can be selected and colored separately. The file provid
-2335x3568	Public domain	File:Schweitzer - J. S. Bach, le musicien-poète.djvu	| Roman pour Wikisource
-1185x2004	Public domain	File:John Adams Library (IA corpsuniverseldi08dumo).pdf	| T.p. printed in red and black Engraved frontispiece: v. 1; v. 1 supplement; v. 1 supplement, part 2 Printed marginalia Includes half t.p Hea
-1239x1752	Public domain	File:OJ C 218 of 2015 - BG Bulgarian.pdf	| Official Journal of the European Union - C 218 of 3 July 2015 - Bulgarian edition
-1239x1752	Public domain	File:OJ C 218 of 2015 - FR French.pdf	| Official Journal of the European Union - C 218 of 3 July 2015 - French edition
-1239x1752	Public domain	File:OJ C 218 of 2015 - LV Latvian.pdf	| Official Journal of the European Union - C 218 of 3 July 2015 - Latvian edition
-1239x1752	Public domain	File:OJ C 114 of 2019 - DA Danish.pdf	| Official Journal of the European Union - C 114 of 26 March 2019 - Danish edition
-1239x1752	Public domain	File:OJ C 114 of 2019 - FR French.pdf	| Official Journal of the European Union - C 114 of 26 March 2019 - French edition
-1239x1752	Public domain	File:OJ C 42 of 2020 - NL Dutch.pdf	| Official Journal of the European Union - C 42 of 7 February 2020 - Dutch edition
-1239x1752	Public domain	File:OJ C 42 of 2020 - FI Finnish.pdf	| Official Journal of the European Union - C 42 of 7 February 2020 - Finnish edition
-1239x1752	Public domain	File:OJ C 57 of 2020 - SL Slovenian.pdf	| Official Journal of the European Union - C 57 of 20 February 2020 - Slovenian edition
-1239x1752	Public domain	File:OJ C 58 of 2020 - FI Finnish.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Finnish edition
-1239x1752	Public domain	File:OJ C 58 of 2020 - IT Italian.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Italian edition
-1239x1752	Public domain	File:OJ C 58 of 2020 - PT Portuguese.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Portuguese edition
-1239x1752	Public domain	File:OJ C 58 of 2020 - SL Slovenian.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Slovenian edition
-1239x1752	Public domain	File:OJ C 58 of 2020 - ES Spanish.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Spanish edition
-1239x1752	Public domain	File:OJ C 70 of 2020 - DA Danish.pdf	| Official Journal of the European Union - C 70 of 4 March 2020 - Danish edition
-1239x1752	Public domain	File:OJ C 89 of 2020 - HR Croatian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Croatian edition
-1239x1752	Public domain	File:OJ C 89 of 2020 - CS Czech.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Czech edition
-1239x1752	Public domain	File:OJ C 89 of 2020 - LT Lithuanian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Lithuanian edition
-1239x1752	Public domain	File:OJ C 202300798 of 2023 - HU Hungarian.pdf	| Official Journal of the European Union - C_202300798 of 9 November 2023 - Hungarian edition
-1239x1752	Public domain	File:OJ C 202300798 of 2023 - IT Italian.pdf	| Official Journal of the European Union - C_202300798 of 9 November 2023 - Italian edition
-1239x1752	Public domain	File:OJ C 202300798 of 2023 - SK Slovak.pdf	| Official Journal of the European Union - C_202300798 of 9 November 2023 - Slovak edition
-1239x1752	Public domain	File:OJ C 202502270 of 2025 - PL Polish.pdf	| Official Journal of the European Union - C_202502270 of 14 April 2025 - Polish edition
-1239x1752	Public domain	File:OJ C 202502270 of 2025 - PT Portuguese.pdf	| Official Journal of the European Union - C_202502270 of 14 April 2025 - Portuguese edition
-1239x1752	Public domain	File:OJ C 202502270 of 2025 - SL Slovenian.pdf	| Official Journal of the European Union - C_202502270 of 14 April 2025 - Slovenian edition
-### Les Ulmes mairie
+OK	fr/m_c_fonte4	1600x1054	CC BY 2.5	Simone Casadei http://www.simonecasadei.	File:Fonteavellana4.JPG
+   DESC: L'esterno della basilica e dell'eremo del Monastero di Fonte Avellana (PU)
+   CATS: CC-BY-2.5 | CC-BY-SA-3.0-migrated | GFDL | License migration redundant | Monastero di Fonte Avellana | Self-published work | Taken with Fujifilm FinePix S5600
+   LICURL: https://creativecommons.org/licenses/by/2.5 USAGE: Creative Commons Attribution 2.5
+OK	fr/m_c_salzch	4160x3120	CC BY-SA 4.0	Ciaurlec	File:San Bartolomeo Apostolo (Salzano).jpg
+   DESC: Piazza Pio X. Da sinistra stele ai caduti della prima guerra mondiale, campanile, e facciata della chiesa di San Bartolomeo Apostolo.
+   CATS: CC-BY-SA-4.0 | San Bartolomeo Apostolo (Salzano) | Self-published work | Taken with Cat S61
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/m_c_paro	3881x2719	CC BY-SA 3.0	Frank Schulenburg	File:Paromeos Monastery (July 2012).jpg
+   DESC: Paromeos Monastery, a Coptic Orthodox monastery located in Wadi El Natrun, Egypt.
+   CATS: CC-BY-SA-3.0 | Paromeos Monastery | Self-published work | Taken with Leica X1
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_c_macar	2274x3412	CC BY-SA 3.0	Berthold Werner	File:Macarius Kloster BW 1.jpg
+   DESC: Monastery of Saint Macarius the Great, Wadi Natrun
+   CATS: CC-BY-SA-3.0 | CC-BY-SA-3.0,2.5,2.0,1.0 | Files with coordinates missing SDC location of creation | GFDL | License migration redundant | Monastery of Saint Macarius the Great | Photographs by User:Berthold Werner/Aegypten | Photographs by User:Berthold Werner/Themen/Klöster | Photographs by User:Berthold Werner/Themen/Türme | Self-published work | Taken with Pentax K10D
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+### Canosio Piemonte
+1596x872	CC BY-SA 3.0	File:Alta Val Maira.jpg	| 
+2816x2112	CC BY 3.0	File:Rocca La Meja dal Colle dAncoccia.jpg	| Rocca La Meja seen from Colle d'Ancoccia, Canosio (CN), Italy
+2816x2112	CC BY 3.0	File:Lago della Meja.jpg	| The Meja Lake, Canosio (CN), Italy
+2048x1536	Public domain	File:RifugioGardetta.jpg	| Gardetta alpine hut, Canosio (CN), Italy
+3872x2592	CC BY-SA 4.0	File:Altopiano della Gardetta.jpg	| Val Maira sopra Canosio
+3543x2362	CC BY-SA 4.0	File:Verso il Lago Nero.jpg	| Le cime delle Alpi ci guardano durante un'escursione verso il Lago Nero (Canosio).
+2639x3566	Public domain	File:La Stampa (1869-03-09) (IA lastampa 1869-03-09).pdf	| Numero intero del giorno 1869-03-09 dall'archivio storico La Stampa. Subjects: newspapers; giornali; La Stampa; Archivio Storico La Stampa
+1293x1810	Public domain	File:Il buon cuore - Anno IX, n. 34 - 20 agosto 1910.pdf	| 
+1141x1335	CC BY-SA 4.0	File:Lloyd's Register of Shipping 1873.pdf	| The Lloyd's Register of Shipping records the details of merchant vessels over 100 gross tonnes, which are self-propelled and sea-going, rega
+4032x3024	CC BY-SA 4.0	File:Pis del Passet.jpg	| Pis del Passet (Valle Maira, Cuneo, Piemonte, Italia)
+3024x4032	CC BY-SA 4.0	File:Pis del Passet 2.jpg	| Pis del Passet (Valle Maira, Cuneo, Piemonte, Italia)
+1239x1752	Public domain	File:OJ C 205 of 2014 - CS Czech.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Czech edition
+1239x1752	Public domain	File:OJ C 205 of 2014 - FI Finnish.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Finnish edition
+1239x1752	Public domain	File:OJ C 205 of 2014 - DE German.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - German edition
+1239x1752	Public domain	File:OJ C 205 of 2014 - LV Latvian.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Latvian edition
+1239x1752	Public domain	File:OJ C 205 of 2014 - PL Polish.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Polish edition
+1239x1752	Public domain	File:OJ C 205 of 2014 - PT Portuguese.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Portuguese edition
+1239x1752	Public domain	File:OJ C 205 of 2014 - SK Slovak.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Slovak edition
+1239x1752	Public domain	File:OJ C 205 of 2014 - SV Swedish.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Swedish edition
+4032x3024	CC BY-SA 4.0	File:Laghetto Preit.jpg	| Small lake near Colle del Preit (Canosio, Maira Valley, Piedmont, Italy)
+1239x1752	Public domain	File:OJ C 315 of 2016 - FI Finnish.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Finnish edition
+1239x1752	Public domain	File:OJ C 315 of 2016 - DE German.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - German edition
+1239x1752	Public domain	File:OJ C 315 of 2016 - LV Latvian.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Latvian edition
+1239x1752	Public domain	File:OJ C 315 of 2016 - SK Slovak.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Slovak edition
+### Canosio Preit
+3176x2401	Public domain	File:Joseph Mallord William Turner 033.jpg	| 
+2719x2559	Public domain	File:Wappentafel Stift Würzburg und Franken 2.jpg	| Der Geschlechter von Fursten, Graffen, Herrn, vnd vom Adel, Wappen mit Schilten vnd Helmen, so von dem hochloblichen Stifft Wirtzburg vnd He
+2654x3266	No restrictions	File:The Independent (1849) (14759536066).jpg	| Identifier: independen89v90newy (find matches) Title: The Independent Year: 1849 (1840s) Authors: Subjects: Publisher: New York : S.W. Bened
+1778x738	No restrictions	File:Our domestic animals, their habits, intelligence and usefulness; (1907) (14765863742).jpg	| Identifier: ourdomesticanima01voog (find matches) Title: Our domestic animals, their habits, intelligence and usefulness; Year: 1907 (1900s)
+4480x6992	CC0	File:Twee portretten van Preit Maria Nutti met een baby en John Hendriksen Bilto Preit Maria Nutti ♀, d' anni 35, di Karasuando (titel op object) John Hendriksen Bilto ♂, d' anni 40, di Karasuando (titel op object), RP-F-2001-7-1125-21.jpg	| IdentificatieTitel(s): Twee portretten van Preit Maria Nutti met een baby en John Hendriksen Bilto. Preit Maria Nutti ♀, d' anni 35, di Kara
+4496x7014	CC0	File:Twee portretten van Preit Maria Nutti Preit Maria Nutti ♀, d' anni 35 (titel op object), RP-F-2001-7-1125-24.jpg	| IdentificatieTitel(s): Twee portretten van Preit Maria Nutti. Preit Maria Nutti ♀, d' anni 35 (titel op object)Objecttype: bladzijde Objectn
+1231x1585	Public domain	File:Plant introductions (IA plantintroductio1938unit).pdf	| "Containing descriptions of the more important introduced plants now ready for experimenters." Subtitle varies slightly Each annual list is 
+1658x2272	Public domain	File:The Examiner 1810-04-22- Iss 121 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1810-04-22 121).pdf	| The Examiner 1810-04-22: Volume None, Issue 121.Digitized from IA1532516-02.Previous issue: sim_examiner-a-weekly-paper-on-politics-literatu
+2731x4153	Public domain	File:Ravin des Preits (bassin de réception, berges et lit) - Hallauer - btv1b10700935g.jpg	| Photographie en noir et blanc de la restauration des terrains en montagne. Mots-clés : Ravins ; Alpes-Maritimes (France) ; Saint-Martin-d'En
+4032x3024	CC BY-SA 4.0	File:Laghetto Preit.jpg	| Small lake near Colle del Preit (Canosio, Maira Valley, Piedmont, Italy)
+2006x2691	Public domain	File:Breslauer Zeitung. 1861, Nr. 105 (3 März) - Morgen-Ausgabe + dod. (IA jbc.bj.uj.edu pl.0105 NDIGCZAS041932 112205384).pdf	| Zawiera: Erste Beilage zu Nr. 105 der Breslauer Zeitung;Brak stron: 511-512 Subjects: dzienniki niemieckie 19 w.; czasopisma 19 w.; czasopis
+1133x1762	Public domain	File:Tamisis triumphans, sive panegyris Jacobo II,... 1685 (IA bim early-english-books-1641-1700 tamisis-triumphans-sive b-o-f 1685).pdf	| Tamisis triumphans, sive panegyris Jacobo II,... 1685..Digitized from &lt;a href="https://archive.org/details/sim_raw_scan_IA40313711-32/pag
+1802x2425	Public domain	File:Posener Zeitung. 1860, (№) 160 (11 Juli) + dod. (IA jbc.bj.uj.edu pl.0160 NDIGCZAS040439 106746570).pdf	| Zawiera: Beilage zur Posener Zeitung [№] 160 Subjects: czasopisma 19 w.; dzienniki niemieckie 19 w.; W. Decker i Spółka (Poznań); czasopisma
+### Ulmes Maine-et-Loire
 2370x3794	Public domain	File:Port - Dictionnaire historique, géographique et biographique de Maine-et-Loire, tome 1.djvu	| Historical, geographical and biographical dictionnary of Maine et Loire / by Célestin Port
 1197x936	CC BY-SA 4.0	File:Maine-et-Loire administrative map-blank.svg	| Administrative map of the French department of Maine-et-Loire. Each area of this map can be selected and colored separately. The file provid
 5808x2963	CC BY-SA 4.0	File:Les-ulmes pierre-couverte-mousseau 17.jpg	| Pierre couverte du Mousseau, Les Ulmes.
@@ -166,66 +136,130 @@ OK	fr/m_c_canosio	2816x2112	CC BY 3.0	Nem80	File:Rocca La Meja dal Colle dAncocc
 6407x2956	CC BY-SA 4.0	File:Les-ulmes pierre-couverte-mousseau 15.jpg	| Pierre couverte du Mousseau, Les Ulmes.
 3270x2598	CC BY-SA 4.0	File:49359-Les Ulmes-Sols.png	| Carte des infrastructures et de l’occupation des sols en 2018 de la commune de fr:Les Ulmes (France).
 5846x4133	CC BY-SA 4.0	File:49359-Les Ulmes-Hydro.jpeg	| Carte du réseau hydrographique de la commune de fr:Les Ulmes (France).
-1239x1752	Public domain	File:OJ C 218 of 2015 - BG Bulgarian.pdf	| Official Journal of the European Union - C 218 of 3 July 2015 - Bulgarian edition
-1239x1752	Public domain	File:OJ C 42 of 2020 - FI Finnish.pdf	| Official Journal of the European Union - C 42 of 7 February 2020 - Finnish edition
-1239x1752	Public domain	File:OJ C 58 of 2020 - FI Finnish.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Finnish edition
-1239x1752	Public domain	File:OJ C 58 of 2020 - IT Italian.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Italian edition
-1239x1752	Public domain	File:OJ C 58 of 2020 - PT Portuguese.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Portuguese edition
-1239x1752	Public domain	File:OJ C 58 of 2020 - SL Slovenian.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Slovenian edition
+1239x1752	Public domain	File:OJ C 218 of 2015 - ET Estonian.pdf	| Official Journal of the European Union - C 218 of 3 July 2015 - Estonian edition
+1239x1752	Public domain	File:OJ C 114 of 2019 - ET Estonian.pdf	| Official Journal of the European Union - C 114 of 26 March 2019 - Estonian edition
+1239x1752	Public domain	File:OJ C 42 of 2020 - ET Estonian.pdf	| Official Journal of the European Union - C 42 of 7 February 2020 - Estonian edition
+1239x1752	Public domain	File:OJ C 44 of 2020 - ET Estonian.pdf	| Official Journal of the European Union - C 44 of 10 February 2020 - Estonian edition
+1239x1752	Public domain	File:OJ C 57 of 2020 - ET Estonian.pdf	| Official Journal of the European Union - C 57 of 20 February 2020 - Estonian edition
+1239x1752	Public domain	File:OJ C 58 of 2020 - ET Estonian.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Estonian edition
 1239x1752	Public domain	File:OJ C 58 of 2020 - ES Spanish.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Spanish edition
 1239x1752	Public domain	File:OJ C 70 of 2020 - DA Danish.pdf	| Official Journal of the European Union - C 70 of 4 March 2020 - Danish edition
-1239x1752	Public domain	File:OJ C 89 of 2020 - HR Croatian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Croatian edition
-1239x1752	Public domain	File:OJ C 89 of 2020 - CS Czech.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Czech edition
+1239x1752	Public domain	File:OJ C 70 of 2020 - ET Estonian.pdf	| Official Journal of the European Union - C 70 of 4 March 2020 - Estonian edition
+1239x1752	Public domain	File:OJ C 89 of 2020 - ET Estonian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Estonian edition
 1239x1752	Public domain	File:OJ C 89 of 2020 - LT Lithuanian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Lithuanian edition
-1239x1752	Public domain	File:OJ C 339 of 2023 - FI Finnish.pdf	| Official Journal of the European Union - C 339 of 26 September 2023 - Finnish edition
-1239x1752	Public domain	File:OJ C 202300798 of 2023 - HU Hungarian.pdf	| Official Journal of the European Union - C_202300798 of 9 November 2023 - Hungarian edition
+1239x1752	Public domain	File:OJ C 339 of 2023 - ET Estonian.pdf	| Official Journal of the European Union - C 339 of 26 September 2023 - Estonian edition
 1239x1752	Public domain	File:OJ C 202300798 of 2023 - SK Slovak.pdf	| Official Journal of the European Union - C_202300798 of 9 November 2023 - Slovak edition
-1239x1752	Public domain	File:OJ C 202502270 of 2025 - PL Polish.pdf	| Official Journal of the European Union - C_202502270 of 14 April 2025 - Polish edition
+1239x1752	Public domain	File:OJ C 202500210 of 2025 - ET Estonian.pdf	| Official Journal of the European Union - C_202500210 of 9 January 2025 - Estonian edition
+1239x1752	Public domain	File:OJ C 202502270 of 2025 - ET Estonian.pdf	| Official Journal of the European Union - C_202502270 of 14 April 2025 - Estonian edition
 1239x1752	Public domain	File:OJ C 202502270 of 2025 - PT Portuguese.pdf	| Official Journal of the European Union - C_202502270 of 14 April 2025 - Portuguese edition
-1239x1752	Public domain	File:OJ C 202502270 of 2025 - SL Slovenian.pdf	| Official Journal of the European Union - C_202502270 of 14 April 2025 - Slovenian edition
-### Regensburg Altstadt Panorama
-3648x2736	Public domain	File:Regensburg - Wahlenstr. 18, ehem. Gasthaus Goldener Hirsch, Hirsch.jpg	| Regensburger Altstadt: Wahlenstr. 18 (ehem. Gasthaus Goldener Hirsch)
-3648x2736	Public domain	File:Regensburg 2011 (120).JPG	| Touristen-Führungs-System mit Umrissen von Gebäuden in der Altstadt (linke Seite: ausgesuchte Destinationen, rechte Seite: Standort des Betr
-2457x3455	Public domain	File:Regensburg 2011 (22).JPG	| location of photographer Germany &gt;&gt; Bayern &gt;&gt; Oberpfalz &gt;&gt; Regensburg &gt;&gt; Altstadt &gt;&gt; Königsstraße 2 This is a 
-3536x2102	Public domain	File:GER — Bayern — Oberpfalz — Regensburg — Altstadt — Neupfarrplatz (Kaufhof mit eingebauter Portikus-Fassade der ehem. Hauptwache D-3-62-000-803) WLM (2011-09-16 Mattes ).jpg	| Kaufhof mit eingebauter Portikus-Fassade der ehem. Hauptwache
-3648x2736	Public domain	File:Regensburg 2011 (73).JPG	| Gebäude
-2056x3648	CC BY 2.0 de	File:Regensburg 2014 Mattes (16).JPG	| location of photographer Germany &gt; Bavaria &gt; Regensburg &gt; Altstadt Motif Brunnen
-3648x2056	CC BY 2.0 de	File:Regensburg 2014 Mattes Teil 2 (10).JPG	| Freischankfläche der Gaststätte „Amore, Vino &amp; Amici“
-3648x2056	CC BY 2.0 de	File:Regensburg 2014 Mattes Teil 2 (11).JPG	| location of photographer Germany &gt; Bavaria &gt; Regensburg &gt; ... (Altstadt) Motif:
-3648x2056	CC BY 2.0 de	File:Regensburg 2014 Mattes Teil 2 (22).JPG	| location of photographer Germany &gt; Bavaria &gt; Regensburg &gt; Altstadt und Eiserner Steg (rechts)
-5472x7296	CC BY 2.0 de	File:GER — BY — Oberpfalz — Regensburg — Bischofshof (Gänsepredigt-Brunnen) — Mattes 2022-02-24.jpg	| Gänsepredigt-Brunnen, 1980
-1500x843	CC BY 4.0	File:WikiCon 2025 - 15 Jahre Wiki Loves Wettbewerbe in Deutschland und was aus den Beiträgen geworden ist.pdf	| Präsenation über die Ergebnisse aus 15 Jahren Wiki Loves Fotowettbewerben in Deutschland, vorgetragen auf der WikiCon 2025 in Potsdam
-### Regensburg Steinerne Brücke Dom
-1024x768	CC BY 2.5	File:Regensburg Steinerne Bruecke.jpg	| from de-wiki: Die Steinerne Brücke ist neben dem Regensburger Dom das bedeutendste Wahrzeichen der Stadt Regensburg und gilt als ein Meister
-1024x768	Public domain	File:Regensburg-steinerne-bruecke-hytrion-enhanced 1-1024x768.jpg	| de:Regensburg (Bayern): Ansicht der Steinernen Brücke und des Doms (Blick von der Donau aus Richtung des Unteren Wöhrds, einer der beiden gr
-1024x768	Public domain	File:Regensburg - Steinerne Bruecke.jpg	| Regensburg - Ansicht der Steinernen Brücke und des Doms.
-1024x393	CC BY-SA 3.0	File:Regensburg - Steinerne Bruecke ohne Dom.jpg	| Stone Bridge in Regensberg, Bavaria, from the south bank
-3888x2592	CC BY-SA 3.0	File:Steinerne Brücke und Dom.jpg	| 
-3264x2448	CC BY-SA 3.0	File:Regensburg mit Steinerne Brücke, Dom und Stadt am Hof.JPG	| Regensburg aus der Vogelperspektive mit Blick auf die Donau, den Stadtteil Stadt am Hof, die Steinerne Brücke und den Dom.
-2448x3264	CC BY-SA 3.0	File:Regensburg, Steinerne Brücke mit Blick auf den Dom.jpg	| Regensburg, Steinerne Brücke mit Blick auf den Dom
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 002.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 003.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 009.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 011.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-5128x3423	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 013.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 015.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 019.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6005x4009	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 020.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 021.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 023.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-5869x3918	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 024.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-5890x3932	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 026.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 027.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 010.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-4223x2819	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 012.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-6016x4016	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 016.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-5378x3590	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 022.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-5746x3836	CC BY-SA 4.0	File:Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 028.jpg	| Regensburg, Steinerne Brücke und Dom, von Nordwesten
-4142x2837	CC BY 3.0	File:Regensburg, Steinerne Brücke, Dom, Salzstadel und Brückturm.jpg	| Regensburg, "Steinerne Brücke", cathedral, salt house and bridge tower
-1222x1657	Public domain	File:Kurt Hielscher Deutschland 1924 Regensburg Steinerne Brücke.jpg	| Kurt Hielscher Deutschland 1924 Regensburg Steinerne Brücke und Dom
-4832x3216	CC BY-SA 4.0	File:Steinerne Brücke und Dom nach Sonnenuntergang (1).jpg	| Blick vom Unteren Wöhrd auf die Steinerne Brücke und den beleuchteten Dom in Regensburg kurz nach Sonnenuntergang.
-4819x3207	CC BY-SA 4.0	File:Steinerne Brücke und Dom nach Sonnenuntergang (2).jpg	| Blick vom Oberen Wöhrd auf die Steinerne Brücke und den beleuchteten Dom in Regensburg kurz nach Sonnenuntergang. Im Bild ist links am Himme
-### Le Morne-Rouge église
+### Les Ulmes église Saint-Pierre
+2370x3794	Public domain	File:Port - Dictionnaire historique, géographique et biographique de Maine-et-Loire, tome 1.djvu	| Historical, geographical and biographical dictionnary of Maine et Loire / by Célestin Port
+2133x3200	Public domain	File:Choix des poésies originales des troubadours, Tome I (1816).pdf	| The first tome (book) of Choix des poésies originales des troubadours by François-Just-Marie Raynouard.
+1002x1500	Public domain	File:L'architecture françoise, ou, Recueil des plans, elevations, coupes et profils des églises, palais, hôtels & maisons particulieres de Paris (IA gri 33125010811418).pdf	| Title page of v. 5 varies: "... profils des maisons royalles, de quelques églises de Paris, et de chateaux et maisons de plaisances situées 
+1275x1650	Public domain	File:Ulmes - Nice et ses environs.djvu	| Nice et ses environs
+1206x1454	Public domain	File:Formulaire de prières, à l'usage des pensionnaires des religieuses Ursulines (microforme) (IA cihm 38817).pdf	| Comprend du texte en latin Microfiche de l'exemplaire de l'édition originale se trouvant à la D.B. Weldon Library, University of Western Ont
+1187x1420	Public domain	File:Confrérie de N. Dame Auxiliatrice (microforme) (IA cihm 51400).pdf	| Microfiche de l'exemplaire de l'édition originale se trouvant au Séminaire de Québec, Bibliothèque 43 Subjects: Confrérie de Notre-Dame Auxi
+### Patierno
+3648x2736	CC BY-SA 4.0	File:S. Pietro a Patierno (13).jpg	| Giuseppe Rotelli, Organo a trasmissione pneumatica della Parrocchia di S. Pietro a Patierno (NA) Tastiere e registri
+4417x5707	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (01 of 20).jpg	| Éditeur : H. Lemoine (Paris)
+4416x5703	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (04 of 20).jpg	| Éditeur : H. Lemoine (Paris)
+4416x5703	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (13 of 20).jpg	| Éditeur : H. Lemoine (Paris)
+4499x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (01 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (02 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (03 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (04 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (05 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (06 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (07 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (08 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (09 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (10 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (11 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8666x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (12 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (13 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (14 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8666x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (15 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (16 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (17 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (18 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+4575x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (19 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+3155x4091	Public domain	File:On les aura certainement. Chanson marche, paroles de Briollet, musique de E. Patierno - bpt6k384870h (1 of 6).jpg	| Appartient à l’ensemble documentaire : GG14182 Briollet, Paul (1864-1937). Auteur du texte Éditeur : imp. de Cavel (Paris)
+3203x4091	Public domain	File:On les aura certainement. Chanson marche, paroles de Briollet, musique de E. Patierno - bpt6k384870h (3 of 6).jpg	| Appartient à l’ensemble documentaire : GG14182 Briollet, Paul (1864-1937). Auteur du texte Éditeur : imp. de Cavel (Paris)
+4091x3203	Public domain	File:On les aura certainement. Chanson marche, paroles de Briollet, musique de E. Patierno - bpt6k384870h (6 of 6).jpg	| Appartient à l’ensemble documentaire : GG14182 Briollet, Paul (1864-1937). Auteur du texte Éditeur : imp. de Cavel (Paris)
+### Scala Campania
+3900x1720	Public domain	File:Scala Campania panorama.jpg	| Panorama view of the city of Scala in Campania, Italy.
+2816x2112	CC BY-SA 3.0	File:Piazza Scala.JPG	| Main square of Scala, in the Amalfi Coast, with the city hall on the left.
+1380x600	CC BY-SA 4.0	File:Campania Ravello1 tango7174.jpg	| Scala, Campania, Italy. View from Ravello.
+1140x600	CC BY-SA 4.0	File:Campania Ravello2 tango7174.jpg	| Amalfi Coast, Campania, Italy. View from Ravello, toward Pontone on the hills and Atrani on the sea front.
+4076x3071	CC BY-SA 3.0	File:Scala della Ragione - Verona.jpg	| Scala della Ragione, Palazzo del Comune, Verona, Italy. The stairs in the courtyard of the Palazzo del Comune was built in 1447 .
+3456x2304	CC BY-SA 4.0	File:Amalfi Coast town of Ravello IMG 9818.JPG	| Ravello is a town and comune situated above the Amalfi Coast in the province of Salerno, Campania, southern Italy, with approximately 2,500 
+3456x2304	CC BY-SA 4.0	File:Amalfi Coast town of Ravello IMG 9819.JPG	| Ravello is a town and comune situated above the Amalfi Coast in the province of Salerno, Campania, southern Italy, with approximately 2,500 
+3456x2304	CC BY-SA 4.0	File:Amalfi Coast town of Ravello IMG 9820.JPG	| Ravello is a town and comune situated above the Amalfi Coast in the province of Salerno, Campania, southern Italy, with approximately 2,500 
+3456x2304	CC BY-SA 4.0	File:Amalfi Coast town of Ravello IMG 9825.JPG	| Ravello is a town and comune situated above the Amalfi Coast in the province of Salerno, Campania, southern Italy, with approximately 2,500 
+1054x643	Public domain	File:ITA 1929-MiNr0319 pm B002.jpg	| Stamp of the Kingdom of Italia; 1929; commemorative stamp of the issue "1400 years of the founding of the Abbey of Monte Cassino"; drawing o
+1157x1200	CC BY 3.0	File:Valle Delle Ferriere Amalfi Italy Landscape Photography (151504577).jpeg	| 500px provided description: If you like my pictures please support me buying a print from my shop www.pixael.com/en/pictures thanks! You can
+3456x4608	CC BY-SA 4.0	File:Torella dei Lombardi - Scala del castello.jpg	| Castello Candriano
+5120x3840	CC BY-SA 4.0	File:Alife - Scala di accesso al Criptoportico romano.jpg	| Criptoportico degli Acilii dell'antica Allifae
+1169x595	CC BY-SA 4.0	File:Scala interno del palazzo.jpg	| scala interna restaurata
+1024x768	CC BY-SA 4.0	File:Napoli - stazione di Fuorigrotta - scala direzione Torregaveta.jpg	| Napoli, stazione di Fuorigrotta. La scala di accesso alla banchina in direzione Torregaveta.
+1990x2977	CC BY-SA 4.0	File:Chiesa di San Lorenzo (Scala) WLM23 003.jpg	| Duomo di San Lorenzo This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+1963x2936	CC BY-SA 4.0	File:Chiesa di San Lorenzo (Scala) WLM23 002.jpg	| Duomo di San Lorenzo This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+1973x2951	CC BY-SA 4.0	File:Chiesa di San Lorenzo (Scala) WLM23 001.jpg	| Duomo di San Lorenzo This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+1963x2936	CC BY-SA 4.0	File:Chiesa di San Lorenzo (Scala) WLM23 004.jpg	| Duomo di San Lorenzo This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+1861x2914	CC BY-SA 4.0	File:Chiesa di San Lorenzo (Scala) WLM23 006.jpg	| Duomo di San Lorenzo This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+2000x2992	CC BY-SA 4.0	File:Chiesa di San Lorenzo (Scala) WLM23 005.jpg	| Duomo di San Lorenzo This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+1993x2982	CC BY-SA 4.0	File:Chiesa di San Lorenzo (Scala) WLM23 007.jpg	| Duomo di San Lorenzo This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+2992x2000	CC BY-SA 4.0	File:Chiesa di San Lorenzo (Scala) WLM23 008.jpg	| Duomo di San Lorenzo This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+1937x2898	CC BY-SA 4.0	File:Chiesa di San Lorenzo (Scala) WLM23 009.jpg	| Duomo di San Lorenzo This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+1333x1333	CC BY-SA 4.0	File:Map of Scala (Province of Salerno, region Campania, Italy 2024).svg	| Map of Scala in 2024 (Province of Salerno, region Campania, Italia)
+3648x5472	CC BY-SA 4.0	File:Museo filangieri, scala 01.jpg	| Museo Civico Gaetano Filangieri This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+2622x2598	CC BY-SA 4.0	File:Museo filangieri, scala, mascherone 01.jpg	| Museo Civico Gaetano Filangieri This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+2747x2712	CC BY-SA 4.0	File:Museo filangieri, scala, mascherone 02.jpg	| Museo Civico Gaetano Filangieri This picture was uploaded via web-app "Wiki Loves Monuments Italia".
+### Scala Salerno duomo San Lorenzo
+2325x3094	Public domain	File:D'Annunzio - Merope, 1912.djvu	| -libro 1. Maia. 1912. -libro 2. Elettra. 1912. -libro 3. Alcione. 1908. -libro 4. Merope. 2. ed. 1912
+2325x3094	Public domain	File:D'Annunzio - Laudi, IV.djvu	| Raccolta di poesie di Gabriele D'Annunzio. libro 1. Maia. 1912. -libro 2. Elettra. 1912. -libro 3. Alcione. 1908. -libro 4. Merope. 2. ed. 1
+3487x4957	Public domain	File:Giglioli - Pistoia nelle sue opere d'arte.djvu	| 
+1368x2164	Public domain	File:Storia della Toscana sino al principato con diversi saggi sulle scienze, lettere e arti (IA b29334846 0002).pdf	| Subjects:
+1462x1810	Public domain	File:Diario della venuta e del soggiorno in Napoli di Sua Beatitudine Pio IX, P.M (IA diariodellavenut00unse).pdf	| 126 p. 34 cm Coat of arms of Pius IX and motto "Super hanc petram ..." at head of title of each issue Issues signed: Cav. Stanislao d'Aloe P
+1179x1550	Public domain	File:L'Album; giornale letterario e di belle arti (IA lalbumgiornalele16unse).pdf	| Subjects: Literature; Art
+1206x1697	Public domain	File:L'Album; giornale letterario e di belle arti (IA lalbumgiornalele23unse).pdf	| Subjects: Literature; Art
+1312x1935	Public domain	File:L'arte (IA larte3190unse).pdf	| Imprint varies: Ulrico Hoepli &amp; Danesi, 1900-1904; Dell'Unione cooperativa editrice, 1905; Casa editrice de l'arte, 1906-1929; Torino : 
+1045x1485	Public domain	File:Pistoia nelle sue opere d'arte (IA pistoianellesueo00gigl).pdf	| Subjects: Art; Artists
+1089x1604	Public domain	File:Storia dell'arte italiana (IA storiadellarteit02vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+1072x1620	Public domain	File:Storia dell'arte italiana (IA storiadellarteit03vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+1166x1664	Public domain	File:Storia dell'arte italiana (IA storiadellarteit102vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+1131x1650	Public domain	File:Storia dell'arte italiana (IA storiadellarteit95vent 0).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+1552x2154	Public domain	File:Esaminatore Friulano 06-01-1876 (IA EsaminatoreFriulano06-01-1876).pdf	| Esaminatore Friulano - Periodico settimanale politico religioso Subjects: Friuli; Periodico;
+4041x5146	CC BY-SA 4.0	File:Gazzetta Musicale di Milano, 1899 vol. II.djvu	| Gazzetta Musicale di Milano, 1899 vol. II
+### Le Morne-Rouge
+1558x1676	Public domain	File:Mount Pelée 1902 - Morne Rouge.jpg	| Main Street, Morne Rouge, Martinique, after the eruption of Mount Pelée, Aug 30, 1902. Left half of a stereoscope card.
+1530x1036	Attribution	File:Morne-Rouge Martinique.jpg	| View over Le Morne-Rouge in the direction of the cloud-hidden Mount Pelée, Martinique
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 3.jpg	| Côté de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 1.jpg	| Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 2.jpg	| Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
+4799x3951	Public domain	File:Morne Rouge YORYM-TA0308.jpg	| One slide and one negative. Ruined church, presumably destroyed during the 1902 eruptions. The tower and spire are still standing and the ro
+5080x3944	Public domain	File:Ferns near Morne Rouge YORYM-TA0309.jpg	| Gently sloping hillside covered in ferns.
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 5.jpg	| Abside peinte de l'église Notre-Dame de la Délivrande du Morne-Rouge
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 4.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 15.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 6.jpg	| Notre-Dame de la Délivrande
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 8.jpg	| Notre-Dame de la Délivrande
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 7.jpg	| Notre-Dame de la Délivrande
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 9.jpg	| Bas-relief de l'autel de Notre-Dame de la Délivrande : vœu de Monseigneur Le Herpeur à la Sainte Vierge lors de la traversée vers la Martini
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 11.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 10.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 13.jpg	| Vitrail de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 12.jpg	| Vitrail de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 14.jpg	| Chemin de croix de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 16.jpg	| Relique du pape Jean-Paul II conservée dans l'église Notre-Dame de la Délivrande du Morne-Rouge
+8267x4524	CC BY-SA 4.0	File:Eumorpha fasciata fasciata MHNT CUT 2010 0 251 Morne-rouge Martinique female dorsal.jpg	| Eumorpha fasciatus - Dorsal side Collection of the Mathematician Laurent Schwartz
+8267x4589	CC BY-SA 4.0	File:Eumorpha fasciata fasciata MHNT CUT 2010 0 251 Morne-rouge Martinique female ventral.jpg	| Eumorpha fasciatus - △ Ventral side Collection of the Mathematician Laurent Schwartz
+1840x1232	CC BY 3.0 pl	File:Le Morne Rouge - fern trees 2008.jpg	| Fern trees in Le Morne Rouge, Martinique
+8431x6113	Public domain	File:De la croix au N. du Morne-Rouge, Morne-Rouge (I), du bas de la Pelée vers les Carbet (2), 5 mars 1899 - (photogr.) A. S(alles) - btv1b53185873z (1 of 3).jpg	| Sujet : Zones de cultures -- Martinique Campagne -- Martinique Antilles, Archipel des Le Morne-Rouge Piton Gelé (mont) Martinique, Île de la
+8431x6113	Public domain	File:De la croix au N. du Morne-Rouge, Morne-Rouge (I), du bas de la Pelée vers les Carbet (2), 5 mars 1899 - (photogr.) A. S(alles) - btv1b53185873z (2 of 3).jpg	| Sujet : Zones de cultures -- Martinique Campagne -- Martinique Antilles, Archipel des Le Morne-Rouge Piton Gelé (mont) Martinique, Île de la
+2412x1810	Public domain	File:De la croix au N. du Morne-Rouge, Morne-Rouge (I), du bas de la Pelée vers les Carbet (2), 5 mars 1899 - (photogr.) A. S(alles) - btv1b53185873z (3 of 3).jpg	| Sujet : Zones de cultures -- Martinique Campagne -- Martinique Antilles, Archipel des Le Morne-Rouge Piton Gelé (mont) Martinique, Île de la
+5184x3888	CC BY-SA 4.0	File:Gros Morne de Gueule Rouge @ Découverte.jpg	| Le Gros Morne de Gueule Rouge depuis la Découverte, Cilaos, La Réunion, France
+### Morne-Rouge Martinique église
 2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 1.jpg	| Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
 2296x5491	CC BY-SA 4.0	File:Our Lady church in Arcanhac 03.jpg	| Our Lady church in Arcanhac in commune of La Fouillade, Aveyron, France
 2527x4780	CC BY-SA 4.0	File:Our Lady church in Arcanhac 01.jpg	| Our Lady church in Arcanhac in commune of La Fouillade, Aveyron, France
@@ -239,10 +273,11 @@ OK	fr/m_c_canosio	2816x2112	CC BY 3.0	Nem80	File:Rocca La Meja dal Colle dAncocc
 5674x3873	CC BY-SA 4.0	File:Our Lady church in Solsac (8).jpg	| Our Lady of the Assumption church in Solsac, commune of Salles-la-Source, Aveyron, France
 5256x3276	CC BY-SA 4.0	File:Our Lady church in Solsac (9).jpg	| Our Lady of the Assumption church in Solsac, commune of Salles-la-Source, Aveyron, France
 5386x3542	CC BY-SA 4.0	File:Our Lady church in Solsac (10).jpg	| Our Lady of the Assumption church in Solsac, commune of Salles-la-Source, Aveyron, France
-2932x5253	CC BY-SA 4.0	File:Our Lady church in Algans (2).jpg	| Our Lady of the Assumption church in Algans, Tarn, France
+5572x3715	CC BY-SA 4.0	File:Our Lady church in Veilhes 02.jpg	| Our Lady church in Veilhes, Tarn, France
 3058x4604	CC BY-SA 4.0	File:Our Lady church in Lescout (3).jpg	| Portal of the Our Lady church in Lescout, Tarn, France
 4324x3677	CC BY-SA 4.0	File:Our Lady church in Larequille (1).jpg	| Our Lady church in Larequille, Allier, France
 6395x4384	CC BY-SA 4.0	File:Our Lady church in Larequille (7).jpg	| Our Lady church in Larequille, Allier, France
+5443x3637	CC BY-SA 4.0	File:Our Lady church in Peschadoires (1).jpg	| Our Lady church in Peschadoires, Puy-de-Dôme, France
 5472x3932	CC BY-SA 4.0	File:Our Lady church in Buc (4).jpg	| Our Lady church in Buc, commune of Belcastel-et-Buc, Aude, France
 2490x5533	CC BY-SA 4.0	File:Our Lady church in Glassac (2).jpg	| Our Lady church in Glassac, commune of Saint-Christophe-Vallon, Aveuron, France
 5764x3843	CC BY-SA 4.0	File:Our Lady church in Armentieux (1).jpg	| Our Lady church in Armentieux, Gers, France
@@ -254,209 +289,21 @@ OK	fr/m_c_canosio	2816x2112	CC BY 3.0	Nem80	File:Rocca La Meja dal Colle dAncocc
 5709x4268	Public domain	File:Morne-Rouge (1899) - (photogr.) A. S(alles) - btv1b53181862q (1 of 3).jpg	| Sujet : Églises -- Martinique Habitations -- Martinique Rues -- Martinique Antilles, Archipel des Morne Rouge, Le Martinique, Île de la Appa
 5752x4268	Public domain	File:Morne-Rouge (1899) - (photogr.) A. S(alles) - btv1b53181862q (2 of 3).jpg	| Sujet : Églises -- Martinique Habitations -- Martinique Rues -- Martinique Antilles, Archipel des Morne Rouge, Le Martinique, Île de la Appa
 1637x1289	Public domain	File:Morne-Rouge (1899) - (photogr.) A. S(alles) - btv1b53181862q (3 of 3).jpg	| Sujet : Églises -- Martinique Habitations -- Martinique Rues -- Martinique Antilles, Archipel des Morne Rouge, Le Martinique, Île de la Appa
-### Le Morne-Rouge bourg
-2242x3568	Public domain	File:Leroux - Le Parfum de la dame en noir.djvu	| 
-2064x3389	Public domain	File:Dumas - Le Comte de Monte-Cristo (1889) Tome 6.djvu	| Roman d'aventure
-2844x4084	Public domain	File:Le Vavasseur - Églogues, Lemerre, 1888.djvu	| Livre:Le Vavasseur - Églogues, Lemerre, 1888
-4267x6400	Public domain	File:Rouger - Poèmes fabuleux, 1897.djvu	| Poèmes_fabuleux
-2127x3614	Public domain	File:Le Goffic - Poésies complètes, 1922.djvu	| Poésies_complètes
-1724x938	Public domain	File:Yzeron - Vue du haut du bourg.jpg	| Dictionnaire illustré des communes du département du Rhône. Tome 2 / par MM. E. de Rolland et D. Clouzet.
-4267x6126	Public domain	File:Le Mouël - Fleur de blé noir, 1893.djvu	| Fleur_de_blé_noir
-2064x3389	Public domain	File:Dumas - Le Comte de Monte-Cristo. 6, 1889.djvu	| 26
-4267x6906	Public domain	File:Ardouin-Dumazet, Le colonel Bourras et le corps franc des Vosges, 1893.djvu	| 
-4000x3000	CC BY-SA 4.0	File:Le village, vu du haut du bourg.jpg	| Village de Saulzet-le-Froid, vu du haut du bourg. Puy-de-Dôme
-4267x6400	Public domain	File:Le Tour du monde - 35.djvu	| Volume 35
-4267x6400	Public domain	File:Le Tour du monde, nouvelle série - 17.djvu	| 17th year, new series
-1042x1462	Public domain	File:Moke - Le Gueux de Mer ou La Belgique sous le Duc d'Albe, sd.djvu	| Publié avant 1862
-1114x1685	Public domain	File:Le Magasin pittoresque (IA lemagasinpittore49unse).pdf	| Imprint varies 51.-67. année also called ser. 2, v. 1-17; v.68- also called ser. 3 v. 1- Table alphabètique et methodique...pendant les ving
-1611x2425	Public domain	File:Eugène Le Roy - Les Gens d’Auberoque, 1907.djvu	| 
-1432x2342	Public domain	File:Eugène Le Roy - L’Ennemi de la mort.djvu	| 
-1715x1103	CC BY-SA 4.0	File:3Fi007-136 - GUIPAVAS (FINISTERE) - LA CHAPELLE NOTRE-DAME DE REUN ET LE HAUT DU BOURG.jpg	| La rue principale du Bourg de Guipavas et la Chapelle Notre-Dame de Reun.
-1568x978	Public domain	File:Arzano Haut du bourg 1913.jpg	| Arzano (Finistère) : le haut du bourg en 1913 (carte postale).
-2000x3000	CC BY-SA 4.0	File:Pernand-Vergelesses (21) Lavoir du haut du bourg - 02.jpg	| Lavoir du haut du bourg à Pernand-Vergelesses (21).
-3000x2000	CC BY-SA 4.0	File:Pernand-Vergelesses (21) Lavoir du haut du bourg - 01.jpg	| Lavoir du haut du bourg à Pernand-Vergelesses (21).
-1994x3050	Public domain	File:Les Vieilles Villes de Suisse.djvu	| Scan of geographical description book Les Vieilles Villes de Suisse : notes et souvenirs (Old Towns of Switzerland: notes and memories) writ
-4000x6000	CC0	File:Croix du haut du bourg (Loubaresse).jpg	| Croix en bois
-2270x1371	Public domain	File:La Bazouge-du-Désert Haut du bourg vers 1930.jpg	| La Bazouge-du-Désert ː le haut du bourg vers 1930 (carte postale).
-### Canosio borgo
-2639x3566	Public domain	File:La Stampa (1869-03-09) (IA lastampa 1869-03-09).pdf	| Numero intero del giorno 1869-03-09 dall'archivio storico La Stampa. Subjects: newspapers; giornali; La Stampa; Archivio Storico La Stampa
-1239x1752	Public domain	File:OJ C 205 of 2014 - CS Czech.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Czech edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - DA Danish.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Danish edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - EN English.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - English edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - ET Estonian.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Estonian edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - FI Finnish.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Finnish edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - DE German.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - German edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - LV Latvian.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Latvian edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - PT Portuguese.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Portuguese edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - SK Slovak.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Slovak edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - SL Slovenian.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Slovenian edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - SV Swedish.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Swedish edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - HR Croatian.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Croatian edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - CS Czech.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Czech edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - NL Dutch.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Dutch edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - EN English.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - English edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - FI Finnish.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Finnish edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - FR French.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - French edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - DE German.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - German edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - HU Hungarian.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Hungarian edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - IT Italian.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Italian edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - LV Latvian.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Latvian edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - MT Maltese.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Maltese edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - PL Polish.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Polish edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - PT Portuguese.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Portuguese edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - RO Romanian.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Romanian edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - SK Slovak.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Slovak edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - SL Slovenian.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Slovenian edition
-### Canosio Valle Maira paese
-### San Pietro a Patierno Napoli
-1200x797	CC BY-SA 3.0 de	File:Napoli -Airport Control Tower- 2010 by-Raboe 69.jpg	| Naples 2010
-1200x797	CC BY-SA 3.0 de	File:Napoli -Airport Bus- 2010 by-Raboe 71.jpg	| Naples 2010
-1500x2000	CC BY-SA 3.0	File:Immacolata Capodichino.jpg	| Chiesa dell'Immacolata a Capodichino (Napoli)
-2016x930	CC BY-SA 3.0	File:Fontana di Capodichino.jpg	| Fontana di Capodichino (Calata di Capodichino)
-1800x2000	Public domain	File:Octopus vulgaris Merculiano.jpg	| Octopus vulgaris
-2500x1357	CC BY 2.0	File:Naples airport lounge in the early early morning (8751212170).jpg	| Napoli, Italy at 4:53 a.m.
-1024x683	GFDL 1.2	File:Airport, Ramp JP7227131.jpg	| 
-1964x2000	CC BY-SA 3.0	File:Facciata Duomo di Napoli - BW 2013-05-16.jpg	| Naples, cathedral
-1956x3037	CC BY-SA 3.0	File:Obelisco in piazza del Gesù - Napoli BW 2013-05-16.jpg	| Naples, Spire of the Immaculate Virgin, Guglia dell'Immacolata
-2621x1736	CC BY-SA 3.0	File:Barça - Napoli - 20140806 - 13.jpg	| Geneva, August 6, 2014. FC Barcelona v SSC Napoli (0-1), exhibition game. Napoli's forward Lorenzo Insigne in action.
-3648x2736	CC BY-SA 3.0	File:Calata Capodichino, Naples - panoramio - incompiuto siciliano.jpg	| Construction site of Strada provinciale 500 at Calata Capodichino, Naples
-5866x3760	CC BY-SA 4.0	File:Chandelier of the nineteenth century in the Museo di Capodimonte (Napoli).jpg	| Chandelier of the nineteenth century in the Museo di Capodimonte (Napoli)
-2993x2127	CC BY-SA 4.0	File:California sea lion nap time in La Jolla (70474).jpg	| California sea lions (Zalophus californianus) in La Jolla (San Diego, California).
-1600x1200	CC BY-SA 3.0	File:Naples Airport Sunset - panoramio.jpg	| Naples Airport Sunset
-4288x2848	CC BY 2.0	File:Naples Airport, Italy (18069997289).jpg	| Naples Airport, Italy
-2973x425	CC BY 2.0	File:Wv Naples Airport banner.jpg	| Naples Airport, Italy
-3708x3271	CC BY-SA 4.0	File:Opengebarsten lege vrucht (nap) van beuk (Fagus sylvatica) 18-12-2020 (d.j.b.) 01.jpg	| Cracked empty fruit (cup) of beech ( Fagus sylvatica ) with two leaf buds. Focus stack of 14 photos.
-3092x4000	CC BY-SA 4.0	File:Chestnut-naped antpitta (Grallaria nuchalis ruficeps) Las Tangaras.jpg	| Chestnut-naped antpitta (Grallaria nuchalis ruficeps), Reserva Las Tangaras, Chocó, Colombia
-1081x1920	CC0	File:Capodichino metro.jpg	| Stazione della metropolitana di Napoli
-2870x1920	Public domain	File:Airlift International DC-8-63CF at Capodichino (Naples) Airport 26 Nov 1980 with relief supplies for Ipinia earthquake.jpg	| An Airlift International DC-8-63CF aircraft carrying relief supplies is unloaded at Capodichino Airport. The blankets will be used to assist
-### Fonte Avellana monastero
-1407x977	CC BY 2.5	File:Fonteavellana1.JPG	| Altare maggiore del Monastero di Fonte Avellana (PU)
-1200x1600	CC BY 2.5	File:Fonteavellana2.JPG	| Il coro della Basilica del Monastero di Fonte Avellana (PU)
-1600x1200	CC BY 2.5	File:Fonteavellana3.JPG	| Il coro della Basilica del Monastero di Fonte Avellana (PU)
-1600x1054	CC BY 2.5	File:Fonteavellana4.JPG	| L'esterno della basilica e dell'eremo del Monastero di Fonte Avellana (PU)
-1600x876	CC BY 2.5	File:Fonteavellana5.JPG	| L'esterno della basilica e dell'eremo del Monastero di Fonte Avellana (PU)
-3264x2448	CC BY-SA 3.0	File:Serra Sant'Abbondio, Italy - Monastero di Fonte Avellana.JPG	| Serra Sant'Abbondio, Italy - Monastero di Fonte Avellana
-2448x3264	CC BY-SA 3.0	File:Serra Sant'Abbondio, Italy - Monastero di Fonte Avellana from the arch.JPG	| Serra Sant'Abbondio, Italy - Monastero di Fonte Avellana
-3264x2448	CC BY-SA 3.0	File:Serra Sant'Abbondio - Monastero di Fonte Avellana, profile.JPG	| Serra Sant'Abbondio, Italy - Monastero di Fonte Avellana
-2476x3514	CC BY-SA 4.0	File:WGT Marche 2021 Fonte Avellana.png	| Wiki Gran Tour Marche 2021, Fonte Avellana
-4000x3000	CC BY-SA 4.0	File:Fonte Avellana.jpg	| Monastero di Fonte Avellana
-4000x3000	CC BY-SA 4.0	File:Grotta di San Pier Damiani 01.jpg	| Grotta di San Pier Damiani
-4000x3000	CC BY-SA 4.0	File:Grotta di San Pier Damiani 2.jpg	| Grotta di San Pier Damiani
-4000x3000	CC BY-SA 4.0	File:Monastero di Fonte Avellana 03.jpg	| Monastero di Fonte Avellana
-4000x3000	CC BY-SA 4.0	File:Monastero di Fonte Avellana 02.jpg	| Monastero di Fonte Avellana
-4000x3000	CC BY-SA 4.0	File:Monastero di Fonte Avellana 01.jpg	| Monastero di Fonte Avellana
-4000x3000	CC BY-SA 4.0	File:Monastero di Fonte Avellana 04.jpg	| Monastero di Fonte Avellana
-3664x2748	CC BY-SA 4.0	File:Fonte Avellana monastery botanical garden plaque.jpg	| plaque of Fonte Avellana monastery’s botanical garden
-3664x2748	CC BY-SA 4.0	File:Fonte Avellana monastery bell tower 02.jpg	| Fonte Avellana’s monastery bell tower
-3664x2748	CC BY-SA 4.0	File:Fonte Avellana monastery fountain 02.jpg	| detail of a fountain near Fonte Avellana’s monastery
-3664x2748	CC BY-SA 4.0	File:Fonte Avellana monastery fountain 01.jpg	| fountain near Fonte Avellana's monastery
-3000x4000	CC BY-SA 4.0	File:Fonte Avellana monastery bell tower 04.jpg	| Fonte Avellana’s monastery bell tower
-1735x3170	CC BY-SA 4.0	File:Fonte Avellana monastery door.png	| wooden door in Fonte Avellana's monastery
-2748x3664	CC BY-SA 4.0	File:Ancient Taxus baccata in Fonte Avellana - CO2v01-22337742.jpg	| the eight centuries old Taxus baccata of Fonte Avellana monastery’s botanical garden
-3694x5556	CC BY-SA 4.0	File:Serra Sant'Abbondio - Monastero di Fonte Avellana - 2024-09-09 14-35-50 001.JPG	| monastero di Fonte Avellana
-4624x3472	CC BY-SA 4.0	File:Monastero di Fonte Avellana.jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-4624x3472	CC BY-SA 4.0	File:Monastero di Fonte Avellana (60621).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-3472x4624	CC BY-SA 4.0	File:Monastero di Fonte Avellana (41553).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-3472x4624	CC BY-SA 4.0	File:Monastero di Fonte Avellana (66028).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-4624x3472	CC BY-SA 4.0	File:Monastero di Fonte Avellana (54261).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-3472x4624	CC BY-SA 4.0	File:Monastero di Fonte Avellana (46158).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-### Eremo di Fonte Avellana
-1600x1054	CC BY 2.5	File:Fonteavellana4.JPG	| L'esterno della basilica e dell'eremo del Monastero di Fonte Avellana (PU)
-1600x876	CC BY 2.5	File:Fonteavellana5.JPG	| L'esterno della basilica e dell'eremo del Monastero di Fonte Avellana (PU)
-2832x4256	CC BY-SA 3.0	File:Sant croce figline.jpg	| Monastero della santa Croce - Figline Valdarno - Firenze
-2500x3613	Public domain	File:Vite di ravegnani illustri.djvu	| 
-3259x4460	Public domain	File:Blasi - Ferrovia Cesano - Misa, Pergola, 1885.djvu	| Ferrovia Cesano - Misa, lettera aperta all'illustrissimo Municipio di Sinigaglia del Cavalier Ascanio Ginevri Blasi, Tipografia Gasperini, P
-1241x1664	Public domain	File:L'Album; giornale letterario e di belle arti (IA lalbumgiornalele22unse).pdf	| Subjects: Literature; Art
-1343x1816	Public domain	File:Sancti Petri Damiani S.R.E. cardinalis episcopi ostiensis ordinis S. Benedicti, e congregatione Fontis-Avellanae Opera omnia nunc primum in unum collecta ac argumentis (IA sanctipetridamia01pete).pdf	| Includes indexes Subjects: Catholic Church; Theology
-1089x1604	Public domain	File:Storia dell'arte italiana (IA storiadellarteit02vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
-2476x3514	CC BY-SA 4.0	File:WGT Marche 2021 Fonte Avellana.png	| Wiki Gran Tour Marche 2021, Fonte Avellana
-4000x3000	CC BY-SA 4.0	File:Fonte Avellana.jpg	| Monastero di Fonte Avellana
-4000x3000	CC BY-SA 4.0	File:Wikigita a Fonte Avellana - Giugno 2021 01.jpg	| Wikigita a Fonte Avellana - Giugno 2021
-4624x3472	CC BY-SA 4.0	File:Monastero di Fonte Avellana.jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-4624x3472	CC BY-SA 4.0	File:Monastero di Fonte Avellana (60621).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-3472x4624	CC BY-SA 4.0	File:Monastero di Fonte Avellana (41553).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-3472x4624	CC BY-SA 4.0	File:Monastero di Fonte Avellana (66028).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-4624x3472	CC BY-SA 4.0	File:Monastero di Fonte Avellana (54261).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-3472x4624	CC BY-SA 4.0	File:Monastero di Fonte Avellana (46158).jpg	| monastero di Fonte Avellana (monastero di Fonte Avellana, Serra Sant'Abbondio)
-### Scala Amalfi panorama
-1185x1637	Public domain	File:Taormina; con 107 illustrazioni e 1 tavola (IA gri 33125007717172).pdf	| Subjects: Art
-1160x1500	Public domain	File:Jerusalem explored - being a description of the ancient and modern city, with numerous illustrations consisting of views, ground plans, and sections (IA gri 33125012263907).pdf	| Binding: dark blue cloth with morocco spine; gilt title and armorial gilt stamp on spine; top edges gilt In vol. 1 of library's copy the hal
-1022x1437	Public domain	File:L'Isola di Capri (IA lisoladicapri00petr 0).pdf	| Subjects: Art
-1902x1656	Public domain	File:Scrapbooks of mounted views, portraits, etc., relating to Europe and Egypt, 1891-1894 (IA scrapbooksofmoun44tupp).pdf	| Contents of each volume is listed in manuscript on the cover Includes detailed descriptive narrative and quotations in manuscript [v. 1]. Al
-### Scala Costiera Amalfitana duomo
-### Salzano piazza
-1239x1752	CC BY-SA 3.0	File:Storia dei papi del Novecento.pdf	| Print version of b:it:Storia dei papi del Novecento (from itWikibooks)
-4160x3120	CC BY-SA 4.0	File:San Bartolomeo Apostolo (Salzano).jpg	| Piazza Pio X. Da sinistra stele ai caduti della prima guerra mondiale, campanile, e facciata della chiesa di San Bartolomeo Apostolo.
-1368x1987	Public domain	File:Il Cittadino Italiano n 216-1882 (IA CittadinoItaliano1884-1674).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1372x2004	Public domain	File:Il Cittadino Italiano n 160-1882 (IA CittadinoItaliano1884-888).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1316x1895	Public domain	File:Il Cittadino Italiano n 197-1883 (IA CittadinoItaliano1885-1408).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1360x1943	Public domain	File:Il Cittadino Italiano n 135-1884 (IA CittadinoItaliano1886-526).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1358x2016	Public domain	File:Il Cittadino Italiano n 197-1887 (IA CittadinoItaliano1889-1412).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1370x2008	Public domain	File:Il Cittadino Italiano n 203-1887 (IA CittadinoItaliano1889-1510).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1364x2014	Public domain	File:Il Cittadino Italiano n 204-1887 (IA CittadinoItaliano1889-1522).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1370x2012	Public domain	File:Il Cittadino Italiano n 206-1887 (IA CittadinoItaliano1889-1546).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1362x2025	Public domain	File:Il Cittadino Italiano n 209-1887 (IA CittadinoItaliano1889-1582).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1368x2012	Public domain	File:Il Cittadino Italiano n 211-1887 (IA CittadinoItaliano1889-1619).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1381x2012	Public domain	File:Il Cittadino Italiano n 212-1887 (IA CittadinoItaliano1889-1631).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1400x2012	Public domain	File:Il Cittadino Italiano n 214-1887 (IA CittadinoItaliano1889-1655).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1395x2006	Public domain	File:Il Cittadino Italiano n 218-1887 (IA CittadinoItaliano1889-1703).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1393x2022	Public domain	File:Il Cittadino Italiano n 227-1887 (IA CittadinoItaliano1889-1824).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1393x2008	Public domain	File:Il Cittadino Italiano n 229-1887 (IA CittadinoItaliano1889-1848).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1395x2018	Public domain	File:Il Cittadino Italiano n 235-1887 (IA CittadinoItaliano1889-1932).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1368x1987	Public domain	File:Il Cittadino Italiano n 206-1888 (IA CittadinoItaliano1890-1547).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1381x1987	Public domain	File:Il Cittadino Italiano n 213-1888 (IA CittadinoItaliano1890-1644).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1364x1975	Public domain	File:Il Cittadino Italiano n 74-1888 (IA CittadinoItaliano1890-3386).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1356x1972	Public domain	File:Il Cittadino Italiano n 225-1889 (IA CittadinoItaliano1891-1802).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1354x1977	Public domain	File:Il Cittadino Italiano n 231-1889 (IA CittadinoItaliano1891-1887).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1658x2150	Public domain	File:Esaminatore Friulano 11-11-1875 (IA EsaminatoreFriulano11-11-1875).pdf	| Esaminatore Friulano - Periodico settimanale politico religioso Subjects: Friuli; Periodico;
-1500x2091	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 219 (1903) (IA IlFriuli 219-1903).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
-1495x2054	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 78 (1886) (IA IlFriuli 78 1886).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
-1675x2214	Public domain	File:Il Paese - organo della Democrazia friulana n. 132 (1912) (IA IlPaese-132-1912).pdf	| Il Paese - organo della democrazia friulana Subjects: Friuli; Periodico
-1454x2002	Public domain	File:Il Paese - organo della Democrazia friulana n. 160 (1906) (IA IlPaese-160-1906).pdf	| Il Paese - organo della democrazia friulana Subjects: Friuli; Periodico
-1400x2018	Public domain	File:La voce del popolo 72 (1866) (IA LaVocedelPopolo161).pdf	| La Voce del Popolo - giornale politico Subjects: Friuli; Periodico
-### Salzano chiesa parrocchiale San Bartolomeo Apostolo
-### Tumaco Nariño
-1440x1080	Public domain	File:Tumaco from Air.jpg	| An aerial view of Tumaco, Colombia.
-2076x1664	CC BY 2.5	File:MunsNarino Tumaco.png	| Image depicting map location of the town and municipality of Tumaco in the Nariño Department, Colombia
-2076x1664	CC BY 3.0	File:ProvNarino Tumaco-Barbacoas.png	| Tumaco-Barbacoas province (Nariño-Colombia).
-3070x2193	Public domain	File:US Navy 110602-N-RM525-201 The Military Sealift Command hospital ship USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colombia, during.jpg	| TUMACO, Colombia (June 2, 2011) The Military Sealift Command hospital ship USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colom
-2100x1500	Public domain	File:US Navy 110606-F-ET173-104 A Colombian marine sings for a group of students at Institucion Ciudadela Educativa Tumaco Narino during a Continuing Pr.jpg	| TUMACO, Colombia (June 6, 2011) A Colombian marine sings for a group of students at Institucion Ciudadela Educativa Tumaco Narino during a C
-1353x1446	CC BY-SA 3.0	File:Colombia - Nariño - Tumaco.svg	| Mapa del Municipio de Tumaco, Nariño (Colombia)
-4256x3071	CC BY-SA 2.0	File:Inauguración Polideportivo en Tumaco (8475457139).jpg	| Fotos Juan Pablo Bello SIG
-4256x3071	CC BY-SA 2.0	File:Inauguración Polideportivo en Tumaco (8475457353).jpg	| Fotos Juan Pablo Bello SIG
-4256x3024	CC BY-SA 2.0	File:Inauguración Polideportivo en Tumaco (8476546344).jpg	| Fotos Juan Pablo Bello SIG
-2029x2241	CC BY-SA 4.0	File:Tumaco in Colombia (1908).svg	| Localización del Departamento de Tumaco en la República de Colombia (1908)
-1353x1446	CC BY-SA 4.0	File:Colombia - Nariño - Tumaco-Barbacoas.svg	| Localización de la provincia de Tumaco-Barbacoas, Nariño, Colombia
-1134x860	CC BY-SA 4.0	File:Stinkfish tumaco 2016.jpg	| Tumaco / Nariño / Colombia / 2016
-4288x3216	CC BY-SA 4.0	File:PuenteMorro.jpg	| Puente él Morro
-6000x4000	CC BY-SA 4.0	File:Tumaco Bust Fragment.jpg	| A Tumaco pottery bust with necklace, a fragment from a full figure, circa 500–100 BCE; labelled “E6” by previous owner. Size: 68mm; weight: 
-3809x8485	Public domain	File:(Auch) - Ecailleur ou râpe - Culture Tumaco-La Tolita - Musée des Amériques d'Auch.jpg	| 
-22859x22859	CC BY 4.0	File:Tumaco, Pacífico Sur, Nariño, RAP Pacífico, Colombia (2025-03-07-15-32-11 UMBRA-08).tiff	| Tumaco, Pacífico Sur, Nariño, RAP Pacífico, Colombia (2025-03-07-15-32-11_UMBRA-08)
-16001x16001	CC BY 4.0	File:Tumaco, Pacífico Sur, Nariño, RAP Pacífico, Colombia (2025-02-22-03-57-38 UMBRA-08).tiff	| Tumaco, Pacífico Sur, Nariño, RAP Pacífico, Colombia (2025-02-22-03-57-38_UMBRA-08)
-16001x16001	CC BY 4.0	File:Tumaco, Pacífico Sur, Nariño, RAP Pacífico, Colombia (2025-02-22-14-09-14 UMBRA-05).tiff	| Tumaco, Pacífico Sur, Nariño, RAP Pacífico, Colombia (2025-02-22-14-09-14_UMBRA-05)
-16001x16001	CC BY 4.0	File:Tumaco, Pacífico Sur, Nariño, RAP Pacífico, Colombia (2025-02-23-03-35-37 UMBRA-08).tiff	| Tumaco, Pacífico Sur, Nariño, RAP Pacífico, Colombia (2025-02-23-03-35-37_UMBRA-08)
-### Wadi El Natrun monastery
-3264x2448	CC BY-SA 4.0	File:StBishoyMonestary 01.JPG	| The St. Bishoy Monestary in Wadi El-Natrun, Egypt.
-2274x3412	CC BY-SA 3.0	File:Macarius Kloster BW 1.jpg	| Monastery of Saint Macarius the Great, Wadi Natrun
-3668x2510	CC BY-SA 3.0	File:Bischoy Kloster BW 6.jpg	| Monastery of Saint Bishoy, Wadi Natrun, Egypt
-1200x821	CC BY-SA 4.0	File:Monastery of Saint Macarius the Great-8.jpg	| كنيسة الشيوخ بدير الأنبا مقار، وادي النطرون
-2522x3949	CC BY-SA 3.0	File:Paromeos Monastery.jpg	| Paromeos Monastery, a Coptic Orthodox monastery located in Wadi El Natrun, Egypt.
-3881x2719	CC BY-SA 3.0	File:Paromeos Monastery (July 2012).jpg	| Paromeos Monastery, a Coptic Orthodox monastery located in Wadi El Natrun, Egypt.
-4320x3240	CC BY-SA 3.0	File:Wadi El Natroun-02.JPG	| مدينة وادي النطرون، مصر
-2736x3648	CC BY-SA 3.0	File:Al-Sorian Monastery 4.jpg	| Syrian Monastery in Wadi El Natrun: The Church of the Holy Virgin Mary - Fore altar, south wall, Saints Cosman and Damian
-3648x2736	CC BY 2.0	File:Egypt (9198209895).jpg	| 4016065515_de2f78decd P1260825_O Israel Egypt 2009
-4880x6299	Public domain	File:Lacs de Natroun. 1.2. Plan et vue du monastère St. Macaire; 3. Vue des monastères Anbâ-Bichây et du Sa'yd ou des Syriens; 4. Vue intérieure du monastère Anbâ-Bichây; 5-11. Plan et détails du (NYPL b14212718-1268817).tiff	| Lacs de Natroun. 1.2. Plan et vue du monastère St. Macaire; 3. Vue des monastères Anbâ-Bichây et du Sa'yd ou des Syriens; 4. Vue intérieure 
-3898x5343	Public domain	File:Lacs de Natroun. 1.2. Plan et vue du monastère St. Macaire; 3. Vue des monastères Anbâ-Bichây et du Sa'yd ou des Syriens; 4. Vue intérieure du monastère Anbâ-Bichây; 5-11. Plan et détails du (NYPL b14212718-1268817).jpg	| Lacs de Natroun. 1.2. Plan et vue du monastère St. Macaire; 3. Vue des monastères Anbâ-Bichây et du Sa'yd ou des Syriens; 4. Vue intérieure 
-2626x1751	CC BY-SA 2.0	File:Monastery of Saint Bishoy monk with cross.jpg	| A Coptic monk in the Monastery of Saint Bishoy, the most famous Coptic Orthodox monastery in Egypt. It is located in Wadi El Natrun (the Nit
-3378x5067	CC BY-SA 2.0	File:Saint Bishoy Monk at gate.jpg	| A monk unlocks a gate in the Monastery of Saint Bishoy in Wadi El Natrun, Egypt. The Monastery of Saint Bishoy is the most famous Coptic Ort
-3648x521	CC BY 2.0	File:Wadi El Natrun Banner.jpg	| 4016065515_de2f78decd P1260825_O Israel Egypt 2009
-6000x4000	CC BY-SA 4.0	File:Garden in a Monastery of Wadi Natrun.jpg	| Wadi Natrun is a valley where Egyptian Copts built monasteries (or Deir). They cultivate and grow plants is an inhospitable natural environm
-6000x4000	CC BY-SA 4.0	File:Garden in a Monastery of Wadi Natrun 2.jpg	| Wadi Natrun is a valley where Egyptian Copts built monasteries (or Deir). They cultivate and grow plants is an inhospitable natural environm
-1591x902	CC BY-SA 4.0	File:Coptic monastery in Wadi El Natrun, Egypt.jpg	| Coptic monastery in Wadi El Natrun, Egypt
-5472x3648	CC BY-SA 4.0	File:Door of Prophecies complete view.jpg	| Door of Prophecies is a wooden door before the altar in the Syrian monastery, Egypt.
-5472x3648	CC BY-SA 4.0	File:Mural painting on the dome of the Syrian monastery.jpg	| Mural painting on the dome of the Syrian monastery in Wadi el Natrun
-5472x3648	CC BY-SA 4.0	File:Mural of the Syrian monastery depicting Saint Colluthus.jpg	| Mural of the Syrian monastery in Wadi el Natrun depicting St.Luke the Physician
-4521x3849	Public domain	File:Wadi El Natrun. Deir el-Baramus Klooster van Sint-Macharius de Grote Ingang, GDE000643.jpg	| TitleWadi El Natrun. Deir el-Baramus: Klooster van Sint-Macharius de Grote: IngangSeriesEuroPhot. Art history. 4th century. Architecture. Bu
-4535x3860	Public domain	File:Wadi El Natrun. Deir el-Baramus. Man poseert in loggia van een hotel, GDE000644.jpg	| TitleWadi El Natrun. Deir el-Baramus. Man poseert in loggia van een hotelSeriesEuroPhot. Art history. Period unknown. Architecture. Building
-4534x3868	Public domain	File:Wadi El Natrun. Deir el-Baramus. Drie figuren bij portierswoning, GDE000645.jpg	| TitleWadi El Natrun. Deir el-Baramus. Drie figuren bij portierswoningSeriesEuroPhot. Art history. Period unknown. Architecture. BuildingEuro
-1366x1775	Public domain	File:Catalogue of Syriac manuscripts in the British museum acquired since the year 1838 (IA catalogueofsyria03brituoft).pdf	| 26 Subjects: Manuscripts, Syriac -- Bibliography
+### Regensburg Panorama Dom
+12301x2875	CC BY-SA 3.0	File:Panorama steinerne Brücke.jpg	| Panorama steinerne Brücke mit Blick auf Dom und Brückturm
+2736x3648	Public domain	File:Regensburg - Dom (Anbau).jpg	| Regensburger Dom
+15276x5198	CC BY-SA 4.0	File:Regensburg Panorama.jpg	| Die Steinerne Brücke (südlicher Teil) und der Dom St. Peter
+1381x1887	Public domain	File:Centralblatt der Bauverwaltung (IA centralblattderb4188unse).pdf	| 22 v. : 35 cm Imprint varies "Herausgegeben im Ministerium der Öffentlichen Arbeiten" Vol. 1-10, 1881-1890, 1 v., Vol. 11-20, 1891-1900, 1 v
+1027x1327	Public domain	File:Die deutsche kunst seit 1800 - ihre ziele und taten (IA diedeutschekunst00gurl 0).pdf	| "Vierte umgearbeitete und erweiterte Auflage der 'Deutschen Kunst des 19. Jahrhunderts.'" Subjects: Art; Art; Architecture
+1166x1808	Public domain	File:Deutsche bauzeitung; die Bauzeitung vereinigt mit baukunst und werkform (IA deutschebauzeitu1883verb).pdf	| v Title varies slightly Subtitle varies slightly Imprint varies Includes the following supplements: Bauwirtschaft und Baurecht; Der Holzbau;
+1141x1762	Public domain	File:Deutsche bauzeitung; die Bauzeitung vereinigt mit baukunst und werkform (IA deutschebauzeitu1885verb).pdf	| v Title varies slightly Subtitle varies slightly Imprint varies Includes the following supplements: Bauwirtschaft und Baurecht; Der Holzbau;
+1250x1710	Public domain	File:Mittheilungen der K.K. Central-Commission zur Erforschung und Erhaltung der Baudenkmale (IA mittheilungender10kkze).pdf	| Sloan candidate Subjects: Christian art and symbolism -- Periodicals; Art -- Austria Periodicals; Architecture -- Austria Periodicals; Austr
+1108x1502	Public domain	File:Zeitschrift für bildende Kunst (IA zeitschriftfurbi26unse).pdf	| Kunstchronik und Kunstmarkt merged with Kunstliteratur to form Kunstchronik und Kunstliteratur, an unnumbered supplement to Zeitschrift für 
+1750x1437	Public domain	File:Die Sammlungen des historischen Vereins für Unterfranken und Aschaffenburg zu Würzburg (microform) (IA diesammlungendes00hist).pdf	| Volumes 2 and 3 edited by C. Heffner Includes bibliographical references Microfilm Filmed; Master negative: 92-81144-3 No. 3 on a reel of 3 
+1220x1820	Public domain	File:Deutsche Bauzeitung (IA deutschebauzeitu1718frit).pdf	| Subtitle varies: Wochenblatt, 1867-1871; Organ des Verbandes Deutscher Architekten- und Ingenieur-Vereine, 1872- Edited 1872-1874, by K.E.O.
+1772x1450	Public domain	File:Eine Instructionsreise nach Constantinopel (microform) (IA eineinstructions00perk).pdf	| Microfilm Filmed; Master negative: 93-81297-10 No. 10 on a reel of 11 titles Subjects:
+1058x1452	CC BY-SA 4.0	File:1990 Bernd Schälicke (Red.), Regine Timm (Bearb.), Ludwig Schreiner Die Gemälde des neunzehnten und zwanzigsten Jahrhunderts Katalog der Niedersächsischen Landesgalerie, Textband.pdf	| Textband des 1990 vom Niedersächsischen Landesmuseum Hannover in der Reihe Kataloge der Niedersächsischen Landesgalerie herausgegebenen Kata
+2976x2453	Public domain	File:Regensburg Panorama met zicht op huizen en de Dom, SFA209000082.jpg	| Omschrijving: Regensburg: Panorama met zicht op huizen en de Dom. Duitsland, ca. 1870-1890.
+1500x843	CC BY 4.0	File:WikiCon 2025 - 15 Jahre Wiki Loves Wettbewerbe in Deutschland und was aus den Beiträgen geworden ist.pdf	| Präsenation über die Ergebnisse aus 15 Jahren Wiki Loves Fotowettbewerben in Deutschland, vorgetragen auf der WikiCon 2025 in Potsdam
+1227x1475	Public domain	File:Allgemeines Bücher-Lexikon, oder Vollständiges alphabetisches Verzeichnis der von 1700 bis zu Ende ... (1892) erschienen Bücher (IA allgemeinesbuche1411hein).pdf	| 19 v. in 26. 27 x 23 cm. (v. 17-19: 28 x 23 cm.) No more published Publishers: 1812-28, J. F. Gleditsch; 1836-94, F. A. Brockhaus 1.-4. Bd. 
+1006x1229	Public domain	File:Der Bote aus dem Riesen-Gebirge - eine Zeitschrift für alle Stände. Jg.57, Nr. 82 (17 Juli 1869) + dod. (IA jbc.bj.uj.edu pl.0080 NDIGCZAS040199 109781876).pdf	| Zawiera: Erste Beilage zu Nr. 82 des Boten aus dem Riesengebirge;Zawiera: Zweite Beilage zu Nr. 82 des Boten aus dem Riesengebirge;Zawiera: 
