@@ -3,6 +3,7 @@
  * 366 páginas fixas: uma para cada dia do ano (ex.: /santo-do-dia/12-de-outubro).
  * O conteúdo se repete todo ano, então essas páginas acumulam relevância no Google.
  */
+import HojeNav from '@/components/astro/HojeNav.astro';
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
@@ -41,7 +42,7 @@ const tom = CATEGORY_VISUAL['santos-e-oracoes'];
 const inicial = (nome: string) => (getShortName(nome).replace(/^(São|Santa|Santo|S\.|Sto\.|Sta\.|Beato|Beata|Bem-aventurad[oa]|Nossa Senhora d[aeo]s?)\s*/i, '').trim()[0] || '+').toUpperCase();
 const nomesSeo = nomesUnicos.length === 1 ? nomesUnicos[0] : `${nomesUnicos[0]} e outros`;
 
-const title = saints.length ? `Santo do Dia ${dataTitulo}: ${nomesSeo}` : `Santo do Dia ${dataTitulo}`;
+const title = saints.length ? `Santo do dia ${dataTxt}: ${nomesSeo}` : `Santo do dia ${dataTxt}`;
 const description = saints.length
   ? clampText(`Santos celebrados em ${dataTxt}: ${nomes.join(', ')}. Conheça a história de cada um e peça sua intercessão.`, 158)
   : `Santos e beatos lembrados pela Igreja em ${dataTxt}.`;
@@ -119,5 +120,6 @@ if (FAQ.length) jsonLd.push(faqSchema(FAQ));
 
       {FAQ.length > 0 && <div class="mt-12"><Faq title="Perguntas frequentes" items={FAQ} /></div>}
     </div>
+    <div class="container mx-auto mt-12 max-w-3xl px-4"><HojeNav atual="santo" /></div>
   </main>
 </BaseLayout>

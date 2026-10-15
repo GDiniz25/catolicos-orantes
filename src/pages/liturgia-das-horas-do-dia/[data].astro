@@ -1,0 +1,203 @@
+---
+/**
+ * Uma página por data com a Liturgia das Horas do dia (ex.: /liturgia-das-horas-do-dia/15-de-outubro-de-2026).
+ * Laudes, Vésperas e Completas segundo o saltério (src/lib/salterio.ts), para as datas da janela da liturgia.
+ * Páginas que saem da janela deixam de existir no próximo build.
+ */
+import { BookOpen, ChevronLeft, ChevronRight } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import HojeNav from '@/components/astro/HojeNav.astro';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { getLiturgia, getLiturgiaJanela, type LiturgiaData } from '@/lib/data';
+import { celebracaoDaLiturgia } from '@/lib/anoLiturgico';
+import { dataSlug, getTodayStr, offsetDate, WEEKDAYS_FULL } from '@/lib/dateUtils';
+import { dataBarra, dataComSemana, dataPorExtenso } from '@/lib/hoje';
+import { oficioDoDia, grauDaCelebracao, ROMANO, BENEDICTUS, MAGNIFICAT, NUNC_DIMITTIS, COMPLETAS, type OficioDoDia } from '@/lib/salterio';
+import { absUrl, breadcrumbSchema, clampText, publisherRef } from '@/lib/seo';
+
+export async function getStaticPaths() {
+  const janela = await getLiturgiaJanela();
+  return janela.map((item, i) => ({
+    params: { data: dataSlug(item.date) },
+    props: {
+      date: item.date,
+      liturgia: item.liturgia,
+      // liturgia do dia seguinte: decide se hoje à tarde já são as I Vésperas de uma solenidade
+      liturgiaSeguinte: janela[i + 1]?.date === offsetDate(item.date, 1) ? janela[i + 1].liturgia : null,
+      anterior: janela[i - 1]?.date ?? null,
+      proximo: janela[i + 1]?.date ?? null,
+    },
+  }));
+}
+
+const { date, liturgia, liturgiaSeguinte, anterior, proximo } = Astro.props as {
+  date: string;
+  liturgia: LiturgiaData;
+  liturgiaSeguinte: LiturgiaData | null;
+  anterior: string | null;
+  proximo: string | null;
+};
+const hoje = getTodayStr();
+const ehHoje = date === hoje;
+
+const maiuscula = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const semGrau = (c: string) => c.replace(/,\s*Solenidade$/i, '').trim();
+
+const celebracao = celebracaoDaLiturgia(liturgia);
+const o: OficioDoDia = oficioDoDia(date, grauDaCelebracao(celebracao));
+const amanha = offsetDate(date, 1);
+const litAmanha = liturgiaSeguinte ?? (await getLiturgia(amanha));
+const celebracaoAmanha = celebracaoDaLiturgia(litAmanha);
+const grauAmanha = grauDaCelebracao(celebracaoAmanha);
+
+// Véspera de solenidade: Vésperas próprias (I Vésperas) e, depois delas, as Completas do sábado
+const vesperaDeSolenidade = o.grau !== 'solenidade' && grauAmanha === 'solenidade' && !!celebracaoAmanha;
+const avisoVespera = vesperaDeSolenidade && celebracaoAmanha ? `Amanhã é solenidade: ${semGrau(celebracaoAmanha)}.` : null;
+const vesperas = vesperaDeSolenidade
+  ? { nome: 'I Vésperas da solenidade', salmos: null as string[] | null, nota: `${avisoVespera} Por isso, à tarde se rezam as I Vésperas dessa solenidade, que são próprias. Siga o breviário.` }
+  : { nome: o.vesperasNome, salmos: o.vesperas, nota: o.vesperasNota ?? null };
+const completas = vesperaDeSolenidade && o.diaSemana !== 6
+  ? { salmos: COMPLETAS[6], nota: `${avisoVespera} Depois das I Vésperas, rezam-se as Completas do sábado.` }
+  : { salmos: o.completas, nota: o.completasNota ?? null };
+
+const path = `/liturgia-das-horas-do-dia/${dataSlug(date)}`;
+const extenso = dataPorExtenso(date);
+const dataLonga = maiuscula(dataComSemana(date));
+const semanaTxt = o.semana ? `Semana ${ROMANO[o.semana]} do saltério` : 'Ofício próprio do dia';
+const nomeDia = celebracao ?? o.rotulo;
+
+const tituloLongo = `Liturgia das Horas de ${extenso}: Laudes, Vésperas e Completas`;
+const title = tituloLongo.length > 70 ? `Liturgia das Horas, ${dataBarra(date)}/${date.slice(0, 4)}: Laudes, Vésperas e Completas` : tituloLongo;
+const description = clampText(`Liturgia das Horas de ${dataComSemana(date)}: ${semanaTxt.toLowerCase()}, salmos de Laudes, Vésperas e Completas e a celebração do dia.`);
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Liturgia das Horas', path: '/liturgia-das-horas' },
+  { name: maiuscula(extenso), path },
+];
+const jsonLd = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl(path)}#article`,
+    headline: title,
+    description,
+    datePublished: `${date}T00:00:00-03:00`,
+    dateModified: `${date}T00:00:00-03:00`,
+    inLanguage: 'pt-BR',
+    image: [absUrl('/og-image.png')],
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl(path) },
+  },
+  breadcrumbSchema(crumbs),
+];
+const curto = (d: string) => maiuscula(dataComSemana(d).replace(/ de \d{4}$/, ''));
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path={path}
+  keywords={`liturgia das horas ${extenso}, laudes ${extenso}, vésperas ${extenso}, completas ${extenso}, semana do saltério, salmos do dia`}
+  ogType="article"
+  jsonLd={jsonLd}
+  publishedTime={`${date}T00:00:00-03:00`}
+>
+  <PageHeader title={`Liturgia das Horas de ${extenso.replace(/ de \d{4}$/, '')}`} subtitle={`${dataLonga}. ${semanaTxt}. Os salmos de Laudes, Vésperas e Completas.`} icon={BookOpen} crumbs={crumbs} tom={CATEGORY_VISUAL['liturgia-das-horas']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-12 px-4">
+      {ehHoje && <p class="rounded-lg bg-co-warm-cream px-4 py-3 text-[15px] font-medium">Esta é a Liturgia das Horas de hoje.</p>}
+
+      <section aria-labelledby="dia" class="rounded-2xl border border-co-warm-sand-dark bg-white p-5 md:p-7">
+        <div class="flex items-start gap-4 sm:gap-5">
+          <div class="grid h-20 w-20 shrink-0 place-items-center rounded-xl text-center" style={`background:${CATEGORY_VISUAL['liturgia-das-horas'].fundo};color:${CATEGORY_VISUAL['liturgia-das-horas'].tinta}`}>
+            {o.semana ? (
+              <span><span class="block font-display text-3xl font-semibold leading-none">{ROMANO[o.semana]}</span><span class="mt-1 block text-[12px] font-semibold">semana</span></span>
+            ) : (
+              <span class="px-1 text-[13px] font-semibold leading-tight">Ofício próprio</span>
+            )}
+          </div>
+          <div class="min-w-0">
+            <h2 id="dia" class="font-display text-2xl font-semibold leading-tight">{nomeDia}</h2>
+            <p class="mt-1 text-[15px] text-co-warm-brown/80">{dataLonga}{celebracao && o.rotulo !== celebracao ? `. ${o.rotulo}` : ''}</p>
+            <p class="mt-3 text-[16px] leading-relaxed">
+              {o.semana
+                ? <>Neste dia a Liturgia das Horas segue a <strong>semana {ROMANO[o.semana]} do saltério</strong>. No breviário, procure o saltério dessa semana, no dia {WEEKDAYS_FULL[o.diaSemana].toLowerCase()}.</>
+                : <>{o.laudesNota}</>}
+            </p>
+          </div>
+        </div>
+        <nav aria-label="Horas do dia" class="mt-5 grid grid-cols-3 gap-2">
+          <a href="#laudes" class="btn btn-secundario btn-sm px-2">Laudes</a>
+          <a href="#vesperas" class="btn btn-secundario btn-sm px-2">Vésperas</a>
+          <a href="#completas" class="btn btn-secundario btn-sm px-2">Completas</a>
+        </nav>
+      </section>
+
+      <section aria-labelledby="laudes" class="scroll-mt-24">
+        <h2 id="laudes" class="font-display text-2xl font-semibold md:text-3xl">Laudes: oração da manhã</h2>
+        <p class="mt-3 text-[17px] leading-relaxed">Salmo da manhã, cântico do Antigo Testamento e salmo de louvor, cada um com sua antífona.</p>
+        {o.laudes ? <ul class="salmos mt-4">{o.laudes.map((s) => <li>{s}</li>)}</ul> : <p class="nota">{o.laudesNota}</p>}
+        {o.laudes && o.laudesNota && <p class="nota">{o.laudesNota}</p>}
+        <p class="mt-4 text-[17px] leading-relaxed">Depois da leitura breve, reza-se o <strong>{BENEDICTUS}</strong>.</p>
+      </section>
+
+      <section aria-labelledby="vesperas" class="scroll-mt-24">
+        <h2 id="vesperas" class="font-display text-2xl font-semibold md:text-3xl">{vesperas.nome}: oração da tarde</h2>
+        {vesperas.salmos ? (
+          <>
+            <p class="mt-3 text-[17px] leading-relaxed">Dois salmos e um cântico do Novo Testamento, cada um com sua antífona.</p>
+            <ul class="salmos mt-4">{vesperas.salmos.map((s) => <li>{s}</li>)}</ul>
+            {vesperas.nota && <p class="nota">{vesperas.nota}</p>}
+          </>
+        ) : (
+          <p class="mt-3 text-[17px] leading-relaxed">{vesperas.nota}</p>
+        )}
+        <p class="mt-4 text-[17px] leading-relaxed">Depois da leitura breve, reza-se o <strong>{MAGNIFICAT}</strong>.</p>
+      </section>
+
+      <section aria-labelledby="completas" class="scroll-mt-24">
+        <h2 id="completas" class="font-display text-2xl font-semibold md:text-3xl">Completas: antes de dormir</h2>
+        <p class="mt-3 text-[17px] leading-relaxed">Começam com um breve exame de consciência. O salmo depende só do dia da semana.</p>
+        <ul class="salmos mt-4">{completas.salmos.map((s) => <li>{s}</li>)}</ul>
+        {completas.nota && <p class="nota">{completas.nota}</p>}
+        <p class="mt-4 text-[17px] leading-relaxed">Depois da leitura breve, reza-se o <strong>{NUNC_DIMITTIS}</strong>. No fim, uma antífona de Nossa Senhora.</p>
+      </section>
+
+      <section aria-labelledby="como-rezar" class="rounded-2xl border border-co-warm-sand-dark bg-co-warm-cream/60 p-5 md:p-7">
+        <h2 id="como-rezar" class="font-display text-2xl font-semibold">Roteiro completo de cada hora</h2>
+        <p class="mt-3 text-[16px] leading-relaxed">As páginas de hoje trazem o passo a passo, os cânticos e as orações de cada hora.</p>
+        <div class="acoes mt-5">
+          <a href="/laudes-de-hoje" class="btn btn-secundario">Laudes de hoje</a>
+          <a href="/vesperas-de-hoje" class="btn btn-primario">Vésperas de hoje</a>
+          <a href="/completas-de-hoje" class="btn btn-secundario">Completas de hoje</a>
+        </div>
+        <p class="mt-4 text-[15px] text-co-warm-brown/80">A semana do saltério é calculada pelo calendário litúrgico. Em festas de santos com ofício próprio, em celebrações locais e no Tempo do Natal, siga sempre a indicação do breviário.</p>
+      </section>
+
+      <nav aria-label="Outros dias" class="border-t border-co-warm-sand-dark pt-6">
+        <div class="acoes-2">
+          {anterior ? (
+            <a href={`/liturgia-das-horas-do-dia/${dataSlug(anterior)}`} class="btn btn-secundario btn-sm">
+              <ChevronLeft className="h-4 w-4 shrink-0" aria-hidden="true" />
+              <span class="min-w-0"><span class="sr-only">Dia anterior: </span>{curto(anterior)}</span>
+            </a>
+          ) : <span class="btn btn-secundario btn-sm opacity-50" aria-disabled="true">Sem dia anterior</span>}
+          {proximo ? (
+            <a href={`/liturgia-das-horas-do-dia/${dataSlug(proximo)}`} class="btn btn-secundario btn-sm">
+              <span class="min-w-0"><span class="sr-only">Próximo dia: </span>{curto(proximo)}</span>
+              <ChevronRight className="h-4 w-4 shrink-0" aria-hidden="true" />
+            </a>
+          ) : <span class="btn btn-secundario btn-sm opacity-50" aria-disabled="true">Sem próximo dia</span>}
+        </div>
+      </nav>
+
+      <HojeNav />
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .salmos { margin-top: 0.5rem; display: grid; gap: 0.35rem; font-size: 17px; }
+  .salmos > li { border-left: 3px solid hsl(var(--co-warm-forest)); padding-left: 0.75rem; font-weight: 600; overflow-wrap: anywhere; }
+  .nota { margin-top: 0.5rem; font-size: 15px; color: hsl(var(--co-warm-brown) / 0.8); }
+</style>

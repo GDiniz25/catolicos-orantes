@@ -1,0 +1,179 @@
+---
+/**
+ * Terço de hoje: o mistério do dia (pela data de Brasília), os cinco mistérios, o roteiro curto
+ * e a tabela dos mistérios de cada dia da semana (Rosarium Virginis Mariae, n. 38).
+ * Captura buscas como "terço de hoje" e "qual o mistério do terço de hoje".
+ */
+import { CircleDot, ChevronRight } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import HojeNav from '@/components/astro/HojeNav.astro';
+import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { getTodayStr, parseDate, WEEKDAYS_FULL } from '@/lib/dateUtils';
+import { MISTERIOS, MISTERIO_DA_SEMANA, type Misterio } from '@/lib/anoLiturgico';
+import { dataComSemana } from '@/lib/hoje';
+import { absUrl, breadcrumbSchema, clampText, faqSchema, publisherRef } from '@/lib/seo';
+
+const hoje = getTodayStr();
+const dow = parseDate(hoje).getDay();
+const id: Misterio = MISTERIO_DA_SEMANA[dow];
+const misterio = MISTERIOS[id];
+const path = '/terco-de-hoje';
+const tom = CATEGORY_VISUAL['como-rezar-o-terco'];
+
+/** "Mistérios Luminosos" vira "Mistérios luminosos" (só a primeira letra maiúscula) */
+const nomeFrase = (m: Misterio) => MISTERIOS[m].nome.replace(/ (\S+)$/, (_, w: string) => ` ${w.toLowerCase()}`);
+const nomeHoje = nomeFrase(id);
+const nomeMinusculo = nomeHoje.toLowerCase();
+const singular: Record<Misterio, string> = { gozosos: 'gozoso', dolorosos: 'doloroso', gloriosos: 'glorioso', luminosos: 'luminoso' };
+const cores: Record<Misterio, string> = { gozosos: '#7A5820', dolorosos: '#5A3F6B', gloriosos: '#8F3E26', luminosos: '#2C5679' };
+
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const semana = dataComSemana(hoje);
+const semanaSemAno = semana.replace(/ de \d{4}$/, '');
+
+// Segunda a domingo, como aparece na tabela
+const ordemSemana = [1, 2, 3, 4, 5, 6, 0];
+const tabela = ordemSemana.map((d) => ({ d, dia: WEEKDAYS_FULL[d], misterio: MISTERIO_DA_SEMANA[d] }));
+const outros = (Object.keys(MISTERIOS) as Misterio[]).filter((m) => m !== id);
+
+const title = `Terço de hoje, ${semanaSemAno}: ${nomeMinusculo}`;
+const description = clampText(`Terço de hoje, ${semana}: ${nomeMinusculo}. Veja os cinco mistérios, como rezar e os mistérios de cada dia da semana.`, 158);
+
+const FAQ = [
+  { q: 'Qual o mistério do terço de hoje?', a: `Hoje, ${semana}, rezam-se os ${nomeMinusculo}: ${misterio.itens.join('; ')}.` },
+  { q: 'Quais os mistérios de cada dia da semana?', a: 'Segunda e sábado, gozosos; terça e sexta, dolorosos; quarta e domingo, gloriosos; quinta, luminosos. É a distribuição proposta por São João Paulo II na carta Rosarium Virginis Mariae.' },
+  { q: 'Quanto tempo leva para rezar o terço?', a: 'Depende do ritmo de cada um. O terço tem cinco dezenas e 53 Ave-Marias ao todo. Mais importante do que a rapidez é meditar cada mistério, sem pressa.' },
+];
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Como rezar o terço', path: '/como-rezar-o-terco' },
+  { name: 'Terço de hoje', path },
+];
+const jsonLd = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl(path)}#article`,
+    headline: title,
+    description,
+    datePublished: `${hoje}T00:00:00-03:00`,
+    dateModified: `${hoje}T00:00:00-03:00`,
+    inLanguage: 'pt-BR',
+    image: [absUrl('/og-image.png')],
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl(path) },
+  },
+  breadcrumbSchema(crumbs),
+  faqSchema(FAQ),
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path={path}
+  keywords="terço de hoje, mistério do terço de hoje, qual o mistério do terço de hoje, mistérios do dia, terço do dia, mistérios de cada dia da semana"
+  ogType="article"
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader title="Terço de hoje" subtitle={`${cap(semana)}. Hoje se rezam os ${nomeMinusculo}.`} icon={CircleDot} crumbs={crumbs} tom={tom} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-12 px-4">
+
+      <section aria-labelledby="misterio-hoje" class="rounded-2xl border border-co-warm-sand-dark bg-white p-5 md:p-7">
+        <p class="text-sm font-semibold" style={`color:${cores[id]}`}><time datetime={hoje}>{cap(semana)}</time></p>
+        <h2 id="misterio-hoje" class="mt-1 font-display text-3xl font-semibold leading-tight md:text-4xl">{nomeHoje}</h2>
+        <ol class="mt-5 grid gap-3" aria-label={nomeHoje}>
+          {misterio.itens.map((t, i) => (
+            <li class="flex items-center gap-4 border-l-[3px] bg-co-warm-cream/40 py-3 pl-4 pr-3" style={`border-color:${cores[id]}`}>
+              <span class="w-10 shrink-0 font-display text-3xl font-semibold leading-none" style={`color:${cores[id]}`}>{i + 1}º</span>
+              <span class="min-w-0">
+                <span class="block text-[13px] font-semibold text-co-warm-brown/75">{i + 1}º mistério {singular[id]}</span>
+                <span class="block font-display text-lg font-semibold leading-snug text-co-warm-brown">{t}</span>
+              </span>
+            </li>
+          ))}
+        </ol>
+        <div class="acoes mt-6">
+          <a href="/terco-guiado" class="btn btn-primario">Rezar o terço guiado agora</a>
+          <a href="/como-rezar-o-terco/guia-completo-para-rezar-o-santo-terco" class="btn btn-secundario">Como rezar o terço</a>
+        </div>
+      </section>
+
+      <section aria-labelledby="como-rezar">
+        <h2 id="como-rezar" class="font-display text-2xl font-semibold md:text-3xl">Como rezar o terço de hoje</h2>
+        <ol class="roteiro mt-5">
+          <li><strong>Sinal da cruz.</strong> Em nome do Pai, e do Filho e do Espírito Santo. Amém.</li>
+          <li><strong>Creio</strong>, a profissão de fé.</li>
+          <li><strong>Pai-Nosso.</strong></li>
+          <li><strong>Três Ave-Marias</strong>, pela fé, pela esperança e pela caridade.</li>
+          <li><strong>Glória ao Pai.</strong></li>
+          <li><strong>Cinco dezenas.</strong> Em cada uma, anuncie o mistério e reze um Pai-Nosso, dez Ave-Marias, um Glória ao Pai e o Ó meu Jesus. Hoje, medite os {nomeMinusculo}.</li>
+          <li><strong>Salve-Rainha</strong> e, no fim, o sinal da cruz.</li>
+        </ol>
+      </section>
+
+      <section aria-labelledby="cada-dia">
+        <h2 id="cada-dia" class="font-display text-2xl font-semibold md:text-3xl">Mistérios de cada dia da semana</h2>
+        <p class="mt-3 text-[16px] leading-relaxed text-co-warm-brown/85">É a distribuição proposta por São João Paulo II na carta Rosarium Virginis Mariae.</p>
+        <table class="mt-5 w-full table-fixed border-collapse text-left text-[15px]">
+          <thead>
+            <tr class="border-b-2 border-co-warm-sand-dark">
+              <th scope="col" class="py-2 pr-3 font-semibold">Dia</th>
+              <th scope="col" class="py-2 font-semibold">Mistérios</th>
+            </tr>
+          </thead>
+          <tbody>
+            {tabela.map((l) => (
+              <tr class:list={['border-b border-co-warm-sand-dark', l.d === dow && 'bg-co-warm-cream font-semibold']} aria-current={l.d === dow ? 'date' : undefined}>
+                <th scope="row" class="py-2.5 pl-2 pr-3 font-medium">{l.dia}{l.d === dow && <span class="block text-[13px] font-semibold text-co-warm-terracotta">Hoje</span>}</th>
+                <td class="py-2.5 pr-2">
+                  <span class="inline-flex items-center gap-2">
+                    <span class="h-2.5 w-2.5 shrink-0 rounded-full" style={`background:${cores[l.misterio]}`} aria-hidden="true"></span>
+                    {nomeFrase(l.misterio)}
+                  </span>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+
+      <section aria-labelledby="outros-misterios">
+        <h2 id="outros-misterios" class="font-display text-2xl font-semibold md:text-3xl">Os outros mistérios do terço</h2>
+        <div class="mt-4 divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+          {outros.map((m) => (
+            <details class="faq-item">
+              <summary class="flex w-full items-center justify-between gap-4 py-4 text-left">
+                <h3 class="font-sans text-[17px] font-medium text-co-warm-brown">{nomeFrase(m)}</h3>
+                <ChevronRight className="faq-chevron h-4 w-4 shrink-0 text-co-warm-brown/75 transition-transform" aria-hidden="true" />
+              </summary>
+              <ol class="grid gap-2 pb-5 text-[15px]">
+                {MISTERIOS[m].itens.map((t, i) => (
+                  <li class="flex gap-3"><span class="w-7 shrink-0 font-semibold" style={`color:${cores[m]}`}>{i + 1}º</span><span>{t}</span></li>
+                ))}
+              </ol>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <HojeNav atual="terco" />
+
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+    <div class="container mx-auto px-4">
+      <LeiturasDaFerramenta chaves={['como-rezar-o-terco/guia-completo-para-rezar-o-santo-terco', 'como-rezar-o-terco/os-misterios-gozosos-do-rosario-e-suas-meditacoes', 'como-rezar-o-terco/os-misterios-dolorosos-do-rosario-e-suas-meditacoes', 'como-rezar-o-terco/os-misterios-gloriosos-do-rosario-e-suas-meditacoes', 'como-rezar-o-terco/os-misterios-luminosos-do-rosario-e-suas-meditacoes', 'como-rezar-o-terco/como-meditar-durante-o-terco']} class="mt-14" />
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .roteiro { counter-reset: passo; display: grid; gap: 0.9rem; }
+  .roteiro > li { counter-increment: passo; position: relative; padding-left: 2.4rem; font-size: 17px; line-height: 1.65; }
+  .roteiro > li::before { content: counter(passo); position: absolute; left: 0; top: 0.1rem; display: grid; place-items: center; width: 1.7rem; height: 1.7rem; border-radius: 999px; background: hsl(var(--co-warm-cream)); font-size: 14px; font-weight: 700; }
+</style>

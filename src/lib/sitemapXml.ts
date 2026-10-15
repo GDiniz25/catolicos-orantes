@@ -2,6 +2,9 @@ import { SITE_URL, CATEGORIES, STATIC_PAGES } from '@/config/site';
 import { getAllArticles, getSaintsWithSlug, getSaintsByDate, getLiturgiaJanela } from '@/lib/data';
 import { saintIndexavel } from '@/lib/saints';
 import { getTodayStr, dataSlug, diaMesSlug, todosOsDias } from '@/lib/dateUtils';
+import { evangelhoDoCorpo } from '@/lib/hoje';
+import { sanitizeLiturgyServer } from '@/lib/sanitize';
+import { tidyLiturgyHtml } from '@/lib/liturgy';
 import { ANOS_DATAS } from '@/lib/datasLiturgicas';
 import nomesSantos from '@/data/conteudo/nomes.json';
 import padroeirosLista from '@/data/conteudo/padroeiros.json';
@@ -97,7 +100,12 @@ export async function buildSitemaps(): Promise<Record<string, SitemapUrl[]>> {
   if (janela.length) {
     // lastmod = o próprio dia (passado) ou hoje (futuro): o Google prioriza o que é do dia
     const hojeDia = getTodayStr();
-    out.liturgia = janela.map((j) => ({ loc: `/liturgia-diaria/${dataSlug(j.date)}`, lastmod: j.date < hojeDia ? `${j.date}T03:00:00.000Z` : today, changefreq: 'daily', priority: j.date === hojeDia ? 0.9 : 0.6 }));
+    const mod = (d: string) => (d < hojeDia ? `${d}T03:00:00.000Z` : today);
+    out.liturgia = janela.map((j) => ({ loc: `/liturgia-diaria/${dataSlug(j.date)}`, lastmod: mod(j.date), changefreq: 'daily', priority: j.date === hojeDia ? 0.9 : 0.6 }));
+    out.evangelho = janela
+      .filter((j) => evangelhoDoCorpo(tidyLiturgyHtml(sanitizeLiturgyServer(j.liturgia.body))))
+      .map((j) => ({ loc: `/evangelho-do-dia/${dataSlug(j.date)}`, lastmod: mod(j.date), changefreq: 'daily', priority: j.date === hojeDia ? 0.9 : 0.6 }));
+    out['liturgia-das-horas-do-dia'] = janela.map((j) => ({ loc: `/liturgia-das-horas-do-dia/${dataSlug(j.date)}`, lastmod: mod(j.date), changefreq: 'daily', priority: 0.5 }));
   }
 
   // Santo do dia: 366 páginas fixas (só datas com santos cadastrados)

@@ -1,0 +1,124 @@
+---
+/**
+ * Santo de amanhã (data de Brasília + 1): santos e beatos lembrados pela Igreja no dia seguinte.
+ * Captura buscas como "santo de amanhã" e aponta para a página fixa da data (/santo-do-dia/16-de-outubro).
+ */
+import { Star } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import FaixaDias from '@/components/astro/FaixaDias.astro';
+import Medalhao from '@/components/astro/Medalhao.astro';
+import HojeNav from '@/components/astro/HojeNav.astro';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { getSaintsByDate, articleExists, getAllArticles } from '@/lib/data';
+import { getShortName, saintHasContent } from '@/lib/saints';
+import { getTodayStr, diaMesSlug, diaMesTexto } from '@/lib/dateUtils';
+import { amanha, dataComSemana, dataBarra } from '@/lib/hoje';
+import { absUrl, breadcrumbSchema, clampText, faqSchema, itemListSchema } from '@/lib/seo';
+
+const hoje = getTodayStr();
+const data = amanha(hoje);
+const [, month, day] = data.split('-').map(Number);
+const path = '/santo-de-amanha';
+const paginaFixa = `/santo-do-dia/${diaMesSlug(month, day)}`;
+const dataTxt = diaMesTexto(month, day);
+const semana = dataComSemana(data);
+const barra = dataBarra(data);
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+
+const saints = await Promise.all(
+  (await getSaintsByDate(month, day)).map(async (s) => ({ ...s, hasArticle: await articleExists(s.article_category, s.article_slug) })),
+);
+const imgArtigo = new Map((await getAllArticles()).map((a) => [`${a.category}/${a.slug}`, a.image_url || null]));
+const imgSanto = (s: { article_category?: string | null; article_slug?: string | null; image_url?: string | null }) => imgArtigo.get(`${s.article_category}/${s.article_slug}`) ?? s.image_url ?? null;
+const nomes = saints.map((s) => getShortName(s.saint_name));
+// Para o título: sem repetir o mesmo nome escrito de outro jeito (ex.: maiúsculas)
+const nomesUnicos = nomes.filter((n, i) => nomes.findIndex((m) => m.toLowerCase() === n.toLowerCase()) === i);
+const nomesSeo = nomesUnicos.length === 1 ? nomesUnicos[0] : nomesUnicos.length === 2 && nomesUnicos.join(' e ').length <= 40 ? nomesUnicos.join(' e ') : `${nomesUnicos[0]} e outros`;
+const tom = CATEGORY_VISUAL['santos-e-oracoes'];
+
+const title = saints.length ? `Santo de amanhã, ${barra}: ${nomesSeo}` : `Santo de amanhã, ${barra}`;
+const description = saints.length
+  ? clampText(`Santo de amanhã, ${semana}: ${nomes.join(', ')}. Conheça a história de cada um e peça sua intercessão.`, 158)
+  : clampText(`Santos e beatos lembrados pela Igreja amanhã, ${semana}.`, 158);
+
+const FAQ = [
+  {
+    q: 'Qual é o santo de amanhã?',
+    a: saints.length
+      ? `Amanhã, ${semana}, a Igreja lembra ${nomes.join(', ')}.`
+      : `Ainda não há santos cadastrados para amanhã, ${semana}.`,
+  },
+  { q: 'Onde ver o santo de outros dias?', a: 'Na página do santo do dia há o calendário com os santos de cada dia do ano. Cada data tem a sua própria página.' },
+  { q: 'Posso pedir a intercessão do santo do dia?', a: 'Sim. A Igreja incentiva a devoção aos santos e o pedido de sua intercessão, sempre dirigindo a oração a Deus.' },
+];
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Santo do Dia', path: '/santo-do-dia' },
+  { name: 'Santo de amanhã', path },
+];
+const jsonLd = [
+  {
+    '@type': 'WebPage',
+    '@id': `${absUrl(path)}#webpage`,
+    url: absUrl(path),
+    name: title,
+    description,
+    inLanguage: 'pt-BR',
+    datePublished: `${hoje}T00:00:00-03:00`,
+    dateModified: `${hoje}T00:00:00-03:00`,
+    ...(saints.length ? { mainEntity: itemListSchema(saints.map((s) => ({ name: s.saint_name, path: `/santos/${s.slug}` }))) } : {}),
+  },
+  breadcrumbSchema(crumbs),
+  faqSchema(FAQ),
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path={path}
+  keywords={`santo de amanhã, santo do dia de amanhã, santo do dia ${dataTxt}, ${nomes.slice(0, 3).join(', ')}`}
+  ogType="article"
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader title="Santo de amanhã" subtitle={saints.length ? `${cap(semana)}. ${saints.length === 1 ? 'Santo lembrado' : 'Santos lembrados'} pela Igreja.` : `${cap(semana)}.`} icon={Star} crumbs={crumbs} tom={tom}>
+    <div class="mt-6"><FaixaDias month={month} day={day} /></div>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl px-4">
+      {saints.length ? (
+        <ul class="space-y-4">
+          {saints.map((s) => (
+            <li class="flex flex-col gap-5 rounded-2xl border border-co-warm-sand-dark bg-white p-5 sm:flex-row md:p-7">
+              <Medalhao nome={s.saint_name} imagem={imgSanto(s)} class="h-16 w-16" letra="text-3xl" />
+              <div class="min-w-0">
+                <h2 class="font-display text-2xl font-semibold leading-snug">{s.saint_name}</h2>
+                {s.description && <p class="mt-2 leading-relaxed text-co-warm-brown/85">{s.description}</p>}
+                <div class="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-[15px]">
+                  {saintHasContent(s) && <a href={`/santos/${s.slug}`} class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Vida e história de {getShortName(s.saint_name)}</a>}
+                  {s.hasArticle && <a href={`/${s.article_category}/${s.article_slug}`} class="text-co-warm-brown/80 underline-offset-4 hover:text-co-warm-terracotta hover:underline">Ler artigo completo</a>}
+                </div>
+              </div>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="text-co-warm-brown/75">Ainda não há santos cadastrados para esta data.</p>
+      )}
+
+      <div class="acoes mx-auto mt-10">
+        <a href={paginaFixa} class="btn btn-primario">Santos de {dataTxt}</a>
+        <a href="/santo-do-dia" class="btn btn-secundario">Ver o santo de hoje</a>
+      </div>
+
+      <HojeNav class="mt-12" />
+
+      <div class="mt-12">
+        <Faq title="Perguntas frequentes" items={FAQ} />
+      </div>
+    </div>
+  </main>
+</BaseLayout>

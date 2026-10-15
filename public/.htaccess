@@ -76,6 +76,18 @@ AddDefaultCharset UTF-8
   # 6b) Liturgia de uma data que saiu do site: vai para a liturgia de hoje (em vez de erro 404)
   RewriteCond %{REQUEST_FILENAME}.html !-f
   RewriteRule ^liturgia-diaria/[0-9]{1,2}-de-[a-z]+-de-[0-9]{4}$ /liturgia-diaria [R=302,L]
+  RewriteCond %{REQUEST_FILENAME}.html !-f
+  RewriteRule ^evangelho-do-dia/[0-9]{1,2}-de-[a-z]+-de-[0-9]{4}$ /evangelho-do-dia [R=302,L]
+  RewriteCond %{REQUEST_FILENAME}.html !-f
+  RewriteRule ^liturgia-das-horas-do-dia/[0-9]{1,2}-de-[a-z]+-de-[0-9]{4}$ /laudes-de-hoje [R=302,L]
+
+  # Páginas diárias: variações de endereço que as pessoas digitam
+  RewriteRule ^santo\-do\-dia/([0-9]{1,2}\-de\-[a-z]+)\-de\-[0-9]{4}/?$ /santo-do-dia/$1 [R=301,L]
+  RewriteRule ^evangelho\-de\-hoje/?$ /evangelho-do-dia [R=301,L]
+  RewriteRule ^santo\-de\-hoje/?$ /santo-do-dia [R=301,L]
+  RewriteRule ^liturgia\-de\-hoje/?$ /liturgia-diaria [R=301,L]
+  RewriteRule ^terco\-do\-dia/?$ /terco-de-hoje [R=301,L]
+  RewriteRule ^santo\-do\-dia\-de\-amanha/?$ /santo-de-amanha [R=301,L]
 
   # 7) Pasta sem página correspondente (ex.: /santos, /_astro) -> 404 em vez de 403
   # (nunca vale para a página inicial "/")
@@ -126,6 +138,19 @@ AddDefaultCharset UTF-8
 
   <FilesMatch "^llms\.txt$">
     Header set Content-Type "text/plain; charset=utf-8"
+  </FilesMatch>
+
+  # Quadro "Liturgia de hoje" para sites de paróquias (/liturgia-para-sites)
+  # Os nomes só existem em /widget/: dados do dia liberados para qualquer site, com cache curto
+  # (o build roda às 00:05); o script com cache de 1 dia. Substitui o Cache-Control/Expires do mod_expires.
+  <FilesMatch "^hoje\.json$">
+    Header set Access-Control-Allow-Origin "*"
+    Header set Cache-Control "public, max-age=1800"
+    Header unset Expires
+  </FilesMatch>
+  <FilesMatch "^liturgia\.js$">
+    Header set Cache-Control "public, max-age=86400"
+    Header unset Expires
   </FilesMatch>
 </IfModule>
 

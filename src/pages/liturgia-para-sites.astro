@@ -1,0 +1,189 @@
+---
+import { Code } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const path = '/liturgia-para-sites';
+const title = 'Liturgia diária para o site da paróquia: quadro grátis';
+const description =
+  'Coloque a liturgia de hoje no site da sua paróquia, comunidade ou blog: celebração, cor litúrgica, leituras, Evangelho e santo do dia. Grátis e atualiza sozinho.';
+
+/** Código que a paróquia cola no site (o link em HTML continua lá mesmo se o script não carregar) */
+const CODIGO = `<div data-co-liturgia><a href="https://catolicosorantes.com.br/liturgia-diaria">Liturgia diária de hoje</a> por <a href="https://catolicosorantes.com.br/">Católicos Orantes</a></div>
+<script src="https://catolicosorantes.com.br/widget/liturgia.js" async></script>`;
+
+/** Prévia ao vivo: o mesmo quadro, carregado nesta página */
+const PREVIA_CLARA = '<div data-co-liturgia><a href="https://catolicosorantes.com.br/liturgia-diaria">Liturgia diária de hoje</a> por <a href="https://catolicosorantes.com.br/">Católicos Orantes</a></div>';
+const PREVIA_ESCURA = '<div data-co-liturgia data-tema="escuro"><a href="https://catolicosorantes.com.br/liturgia-diaria">Liturgia diária de hoje</a> por <a href="https://catolicosorantes.com.br/">Católicos Orantes</a></div>';
+
+const FAQ = [
+  {
+    q: 'É gratuito?',
+    a: 'Sim. O quadro é gratuito, sem cadastro e sem limite de sites. Pedimos apenas que o link para o Católicos Orantes continue no código, porque é por ele que os fiéis chegam às leituras completas.',
+  },
+  {
+    q: 'Atualiza sozinho?',
+    a: 'Sim. Todo dia, logo depois da meia-noite (horário de Brasília), o quadro passa a mostrar a liturgia do novo dia, com as leituras da CNBB. Você cola o código uma vez e não precisa mexer mais.',
+  },
+  {
+    q: 'Posso mudar as cores?',
+    a: 'Há dois temas: claro (padrão) e escuro. Para o escuro, troque <div data-co-liturgia> por <div data-co-liturgia data-tema="escuro">. A largura acompanha o espaço onde o quadro foi colado. Quem conhece CSS pode ajustar as classes que começam com co-wl-.',
+  },
+];
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Liturgia Diária', path: '/liturgia-diaria' },
+  { name: 'Liturgia para sites', path },
+];
+
+const jsonLd = [
+  {
+    '@type': 'WebPage',
+    '@id': `${absUrl(path)}#webpage`,
+    url: absUrl(path),
+    name: title,
+    description,
+    inLanguage: 'pt-BR',
+  },
+  faqSchema(FAQ),
+  breadcrumbSchema(crumbs),
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path={path}
+  keywords="liturgia diária para site, widget liturgia diária, liturgia para site de paróquia, evangelho do dia para site, liturgia no wordpress, liturgia no wix"
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader
+    title="Liturgia diária para o site da sua paróquia"
+    subtitle="Um quadro com a liturgia de hoje que se atualiza sozinho todos os dias. Grátis, leve e fácil de colar em qualquer site."
+    icon={Code}
+    crumbs={crumbs}
+  />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl space-y-14 px-4">
+      <section aria-labelledby="o-que-mostra">
+        <h2 id="o-que-mostra" class="font-display text-2xl font-semibold md:text-3xl">O que aparece no quadro</h2>
+        <p class="mt-3 text-[17px] leading-relaxed text-co-warm-brown/85">
+          A data, a celebração do dia com a cor litúrgica, as referências das leituras e do Evangelho, o santo do dia e um link para as
+          leituras completas no Católicos Orantes. Serve para paróquias, comunidades, pastorais, movimentos e blogs católicos.
+        </p>
+      </section>
+
+      <section aria-labelledby="previa">
+        <h2 id="previa" class="font-display text-2xl font-semibold md:text-3xl">Prévia ao vivo</h2>
+        <p class="mt-3 text-[15px] text-co-warm-brown/80">É o próprio quadro, com a liturgia de hoje, como vai aparecer no seu site.</p>
+        <div class="mt-5 grid gap-6 sm:grid-cols-2">
+          <figure class="min-w-0">
+            <div class="rounded-xl border border-co-warm-sand-dark bg-white p-4"><Fragment set:html={PREVIA_CLARA} /></div>
+            <figcaption class="mt-2 text-sm text-co-warm-brown/75">Tema claro (padrão)</figcaption>
+          </figure>
+          <figure class="min-w-0">
+            <div class="rounded-xl border border-co-warm-sand-dark bg-[#2B2626] p-4"><Fragment set:html={PREVIA_ESCURA} /></div>
+            <figcaption class="mt-2 text-sm text-co-warm-brown/75">Tema escuro (data-tema="escuro")</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section aria-labelledby="codigo-titulo">
+        <h2 id="codigo-titulo" class="font-display text-2xl font-semibold md:text-3xl">Código para copiar</h2>
+        <p class="mt-3 text-[15px] text-co-warm-brown/80">Copie e cole no lugar do site onde o quadro deve aparecer.</p>
+        <pre class="mt-4 overflow-x-auto whitespace-pre-wrap break-all rounded-xl border border-co-warm-sand-dark bg-co-warm-cream p-4 text-[13px] leading-relaxed text-co-warm-brown"><code data-codigo>{CODIGO}</code></pre>
+        <div class="mt-4 grid gap-3 sm:grid-cols-2">
+          <button type="button" class="btn btn-primario w-full" data-copiar>Copiar código</button>
+          <a href="/liturgia-diaria" class="btn btn-contorno w-full">Ver a liturgia de hoje</a>
+        </div>
+        <p class="mt-3 min-h-[1.5em] text-sm font-semibold text-co-warm-terracotta" data-copiar-aviso aria-live="polite"></p>
+      </section>
+
+      <section aria-labelledby="como-instalar" class="space-y-8">
+        <h2 id="como-instalar" class="font-display text-2xl font-semibold md:text-3xl">Como instalar</h2>
+
+        <div>
+          <h3 class="font-sans text-lg font-semibold">WordPress</h3>
+          <ol class="mt-3 list-decimal space-y-2 pl-5 text-[16px] leading-relaxed text-co-warm-brown/85">
+            <li>Em uma página ou post, clique em adicionar bloco e escolha <strong>HTML personalizado</strong>.</li>
+            <li>Cole o código e salve (ou atualize) a página.</li>
+            <li>Para a barra lateral ou o rodapé, vá em <strong>Aparência</strong>, <strong>Widgets</strong>, e adicione o bloco <strong>HTML personalizado</strong> com o mesmo código.</li>
+          </ol>
+          <p class="mt-3 text-[15px] text-co-warm-brown/75">No WordPress.com, alguns planos não aceitam scripts. Nesse caso aparece só o link para a liturgia de hoje, que continua funcionando.</p>
+        </div>
+
+        <div>
+          <h3 class="font-sans text-lg font-semibold">Wix</h3>
+          <ol class="mt-3 list-decimal space-y-2 pl-5 text-[16px] leading-relaxed text-co-warm-brown/85">
+            <li>No editor, clique em <strong>Adicionar elementos</strong>, depois <strong>Incorporar código</strong> e <strong>Incorporar HTML</strong>.</li>
+            <li>Escolha a opção <strong>Código</strong>, cole o código e clique em <strong>Atualizar</strong>.</li>
+            <li>Ajuste o tamanho da caixa (uns 340 px de largura por 420 px de altura costumam bastar) e publique o site.</li>
+          </ol>
+        </div>
+
+        <div>
+          <h3 class="font-sans text-lg font-semibold">HTML (qualquer site)</h3>
+          <ol class="mt-3 list-decimal space-y-2 pl-5 text-[16px] leading-relaxed text-co-warm-brown/85">
+            <li>Abra o arquivo ou o modelo da página onde o quadro deve aparecer.</li>
+            <li>Cole o código no ponto exato do conteúdo (por exemplo, na coluna lateral ou abaixo dos horários de missa).</li>
+            <li>Publique. O quadro ocupa a largura disponível, até 560 px, e funciona no celular.</li>
+          </ol>
+        </div>
+      </section>
+
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+    <!-- Script do quadro (o mesmo que as paróquias usam), para a prévia ao vivo -->
+    <script is:inline src="/widget/liturgia.js" async></script>
+  </main>
+</BaseLayout>
+
+<script>
+  const botao = document.querySelector<HTMLButtonElement>('[data-copiar]');
+  const aviso = document.querySelector<HTMLElement>('[data-copiar-aviso]');
+  const codigo = document.querySelector<HTMLElement>('[data-codigo]');
+  let espera: ReturnType<typeof setTimeout> | undefined;
+
+  const copiarAntigo = (texto: string) => {
+    const area = document.createElement('textarea');
+    area.value = texto;
+    area.setAttribute('readonly', '');
+    area.style.position = 'fixed';
+    area.style.opacity = '0';
+    document.body.appendChild(area);
+    area.select();
+    let ok = false;
+    try {
+      ok = document.execCommand('copy');
+    } catch {
+      ok = false;
+    }
+    area.remove();
+    return ok;
+  };
+
+  if (botao) botao.addEventListener('click', async () => {
+    const texto = codigo?.textContent?.trim() ?? '';
+    if (!texto) return;
+    let ok = false;
+    try {
+      await navigator.clipboard.writeText(texto);
+      ok = true;
+    } catch {
+      ok = copiarAntigo(texto);
+    }
+    if (aviso) aviso.textContent = ok ? 'Código copiado. Agora é só colar no seu site.' : 'Não foi possível copiar. Selecione o código acima e copie manualmente.';
+    if (ok) {
+      botao.textContent = 'Código copiado';
+      (window as unknown as { track?: (n: string, p?: Record<string, unknown>) => void }).track?.('copiar_codigo', { ferramenta: 'quadro_liturgia' });
+    }
+    clearTimeout(espera);
+    espera = setTimeout(() => {
+      botao.textContent = 'Copiar código';
+      if (aviso) aviso.textContent = '';
+    }, 3000);
+  });
+</script>

@@ -1,0 +1,207 @@
+---
+/**
+ * Evangelho de hoje (data de Brasília), extraído da liturgia da CNBB.
+ * Busca alvo: "evangelho do dia", "evangelho de hoje".
+ */
+import { BookOpen } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import HojeNav from '@/components/astro/HojeNav.astro';
+import Faq from '@/components/astro/Faq.astro';
+import { getLiturgia, getLiturgiaJanela, type LiturgiaData } from '@/lib/data';
+import { getReflexao } from '@/lib/reflexoes';
+import { sanitizeLiturgyServer } from '@/lib/sanitize';
+import { extractLeituras, tidyLiturgyHtml } from '@/lib/liturgy';
+import { getTodayStr, formatDateFull, dataSlug } from '@/lib/dateUtils';
+import { evangelhoDoCorpo, referenciaDoEvangelho, evangelista, dataComSemana, dataBarra, dataPorExtenso } from '@/lib/hoje';
+import { CORES, corDaLiturgia, celebracaoDaLiturgia, infoDoDia, tomLiturgico } from '@/lib/anoLiturgico';
+import { absUrl, breadcrumbSchema, clampText, faqSchema, publisherRef } from '@/lib/seo';
+
+const maiuscula = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const prep = (l: LiturgiaData) => ({
+  html: evangelhoDoCorpo(tidyLiturgyHtml(sanitizeLiturgyServer(l.body))),
+  ref: referenciaDoEvangelho(extractLeituras(l.leituras)),
+});
+
+const today = getTodayStr();
+const path = '/evangelho-do-dia';
+const raw = await getLiturgia(today);
+const ev = raw ? prep(raw) : { html: null, ref: null };
+const ref = ev.ref;
+const nomeEvangelista = evangelista(ref);
+const reflexao = ev.html ? await getReflexao(today) : null;
+
+const corKey = corDaLiturgia(raw) ?? infoDoDia(today).tempo.cor;
+const tom = tomLiturgico(corKey);
+const celebracao = raw ? celebracaoDaLiturgia(raw) ?? raw.title : null;
+const dataLonga = dataComSemana(today);
+
+// Outros dias com Evangelho (cada um tem a sua página)
+const janela = (await getLiturgiaJanela())
+  .map((j) => ({ date: j.date, liturgia: j.liturgia, ...prep(j.liturgia) }))
+  .filter((j) => j.html);
+const temPaginaHoje = janela.some((j) => j.date === today);
+const proximos = janela.filter((j) => j.date > today).slice(0, 7);
+const anteriores = janela.filter((j) => j.date < today).reverse().slice(0, 7);
+
+// Título: prioriza "Evangelho do dia", a data e a referência (até uns 65 caracteres)
+const base = `Evangelho do dia de hoje, ${dataBarra(today)}`;
+let title = ref ? `${base}: ${ref} | Leitura e reflexão` : `${base} | Leitura e reflexão`;
+if (title.length > 65 && ref) title = `${base}: ${ref}`;
+if (title.length > 65 && ref) title = `Evangelho do dia, ${dataBarra(today)}: ${ref}`;
+
+const description = clampText(
+  ref
+    ? `Evangelho de hoje, ${dataLonga}: ${ref}${nomeEvangelista ? `, segundo ${nomeEvangelista}` : ''}. Leia o texto da liturgia (CNBB)${reflexao ? ' e a reflexão do dia' : ''} e reze com a Palavra.`
+    : `Evangelho de hoje, ${dataLonga}, com o texto da liturgia diária da CNBB para ler e rezar.`,
+  158,
+);
+
+const FAQ = [
+  {
+    q: 'Qual é o Evangelho de hoje?',
+    a: ref
+      ? `O Evangelho de hoje, ${dataLonga}, é ${ref}${nomeEvangelista ? `, do Evangelho segundo ${nomeEvangelista}` : ''}${celebracao ? `. A liturgia do dia é ${celebracao}` : ''}.`
+      : `O Evangelho de hoje, ${dataLonga}, está na liturgia diária da CNBB, na página Liturgia diária do Católicos Orantes.`,
+  },
+  {
+    q: 'Onde ler a liturgia completa?',
+    a: 'Na página Liturgia diária do Católicos Orantes, com todas as leituras da Missa do dia, o salmo e o Evangelho, segundo a CNBB.',
+  },
+  {
+    q: 'Como rezar com o Evangelho do dia?',
+    a: 'Leia o texto devagar e em silêncio. Depois, faça a Lectio Divina: leitura, meditação, oração e contemplação. A Lectio Divina guiada do site conduz cada passo com o Evangelho do dia.',
+  },
+];
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Evangelho do dia', path },
+];
+const jsonLd = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl(path)}#article`,
+    headline: title,
+    ...(celebracao ? { alternativeHeadline: celebracao } : {}),
+    description,
+    datePublished: `${today}T00:00:00-03:00`,
+    dateModified: `${today}T00:00:00-03:00`,
+    inLanguage: 'pt-BR',
+    image: [absUrl('/og-image.png')],
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl(path) },
+    citation: 'Liturgia Diária, Conferência Nacional dos Bispos do Brasil (CNBB)',
+  },
+  breadcrumbSchema(crumbs),
+  faqSchema(FAQ),
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path={path}
+  keywords="evangelho do dia, evangelho de hoje, evangelho do dia de hoje, leitura do evangelho, reflexão do evangelho, liturgia diária, CNBB"
+  ogType="article"
+  jsonLd={jsonLd}
+  publishedTime={`${today}T00:00:00-03:00`}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader title="Evangelho do dia" subtitle={maiuscula(dataLonga)} icon={BookOpen} crumbs={crumbs} tom={tom}>
+    {celebracao && <p class="mt-2 max-w-2xl text-lg font-medium text-co-warm-brown">{celebracao}</p>}
+    <div class="mt-5 flex flex-wrap gap-2 text-[15px]">
+      <p class="inline-flex flex-wrap items-center gap-x-2 rounded-full bg-white/70 px-4 py-1.5">
+        <span class="h-3 w-3 rounded-full" style={`background:${CORES[corKey].forte}`} aria-hidden="true"></span>
+        <span>Cor litúrgica: <strong>{CORES[corKey].nome}</strong></span>
+      </p>
+      {ref && (
+        <p class="inline-flex flex-wrap items-center gap-x-2 rounded-full bg-white/70 px-4 py-1.5">
+          <span>Evangelho: <strong>{ref}</strong></span>
+          {nomeEvangelista && <span class="text-co-warm-brown/75">segundo {nomeEvangelista}</span>}
+        </p>
+      )}
+    </div>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl px-4">
+      {ev.html ? (
+        <section aria-labelledby="texto-evangelho">
+          <h2 id="texto-evangelho" class="mb-4 font-display text-2xl font-semibold">Evangelho de hoje{ref ? `: ${ref}` : ''}</h2>
+          <div class="rounded-md border border-co-warm-sand-dark bg-co-warm-sand p-5 md:p-8">
+            <div class="liturgia-content prose max-w-none text-[16px]" set:html={ev.html} />
+          </div>
+          <p class="mt-4 text-center text-xs italic text-co-warm-brown/75">Texto litúrgico: CNBB (Liturgia Diária)</p>
+        </section>
+      ) : (
+        <section class="rounded-md border border-co-warm-sand-dark bg-co-warm-sand p-5 md:p-8" aria-labelledby="texto-evangelho">
+          <h2 id="texto-evangelho" class="font-display text-2xl font-semibold">Evangelho de hoje{ref ? `: ${ref}` : ''}</h2>
+          <p class="mt-3 text-[16px] leading-relaxed">Não foi possível carregar o texto do Evangelho agora. Leia na liturgia diária completa.</p>
+          <div class="acoes mt-5">
+            <a href="/liturgia-diaria" class="btn btn-primario">Ver a liturgia de hoje</a>
+          </div>
+        </section>
+      )}
+
+      {reflexao && (
+        <section class="mt-12" aria-labelledby="reflexao">
+          <h2 id="reflexao" class="font-display text-2xl font-semibold">Reflexão do Evangelho de hoje</h2>
+          {reflexao.titulo && <p class="mt-2 font-display text-xl text-co-warm-brown">{reflexao.titulo}</p>}
+          <div class="article-prose mt-4 max-w-none" set:html={reflexao.texto_html} />
+          <p class="mt-6 rounded-lg bg-co-warm-cream px-4 py-3 text-sm text-co-warm-brown/80">Reflexão do Católicos Orantes. Não substitui a homilia nem a orientação de um sacerdote.</p>
+        </section>
+      )}
+
+      <section class="mt-12 rounded-xl border border-co-warm-sand-dark bg-white p-5 md:p-8" aria-labelledby="reze">
+        <h2 id="reze" class="font-display text-2xl font-semibold">Reze com o Evangelho</h2>
+        <p class="mt-2 text-[16px] leading-relaxed text-co-warm-brown/85">Leia o texto com calma. Depois, deixe a Palavra conduzir a sua oração.</p>
+        <div class="acoes mt-5">
+          <a href="/lectio-divina" class="btn btn-primario">Lectio Divina guiada</a>
+          <a href="/liturgia-diaria" class="btn btn-secundario">Liturgia completa</a>
+        </div>
+      </section>
+
+      <HojeNav atual="evangelho" class="mt-12" />
+
+      {temPaginaHoje && (
+        <p class="mt-8 text-[15px] text-co-warm-brown/80">
+          Página permanente deste Evangelho:
+          <a href={`/evangelho-do-dia/${dataSlug(today)}`} class="font-semibold text-co-warm-terracotta underline underline-offset-4 hover:no-underline">Evangelho de {dataPorExtenso(today)}</a>
+        </p>
+      )}
+
+      <section class="mt-12 border-t border-co-warm-sand-dark pt-8" aria-labelledby="outros-dias">
+        <h2 id="outros-dias" class="font-display text-2xl font-semibold">Evangelho de outros dias</h2>
+        <p class="mt-2 text-[15px]">
+          <a href="/evangelho-de-domingo" class="font-semibold text-co-warm-terracotta underline underline-offset-4 hover:no-underline">Evangelho de domingo</a>
+        </p>
+        {(proximos.length > 0 || anteriores.length > 0) && (
+          <div class="mt-5 grid gap-8 sm:grid-cols-2">
+            {[{ titulo: 'Próximos dias', lista: proximos }, { titulo: 'Dias anteriores', lista: anteriores }].map((g) => g.lista.length > 0 && (
+              <div class="min-w-0">
+                <h3 class="mb-2 font-sans text-sm font-semibold text-co-warm-brown/80">{g.titulo}</h3>
+                <ul class="divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark">
+                  {g.lista.map((j) => (
+                    <li>
+                      <a href={`/evangelho-do-dia/${dataSlug(j.date)}`} class="group flex items-start gap-3 py-2.5">
+                        <span class="mt-1.5 h-3 w-3 shrink-0 rounded-full" style={`background:${CORES[corDaLiturgia(j.liturgia) ?? infoDoDia(j.date).tempo.cor].forte}`} aria-hidden="true"></span>
+                        <span class="min-w-0">
+                          <span class="block font-medium underline-offset-4 group-hover:text-co-warm-terracotta group-hover:underline">{formatDateFull(j.date).replace(/ de \d{4}$/, '')}</span>
+                          <span class="block text-sm text-co-warm-brown/75">{j.ref ? `${j.ref}. ` : ''}{celebracaoDaLiturgia(j.liturgia) ?? j.liturgia.title}</span>
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        )}
+      </section>
+
+      <div class="mt-12">
+        <Faq title="Perguntas frequentes" items={FAQ} />
+      </div>
+    </div>
+  </main>
+</BaseLayout>

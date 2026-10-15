@@ -4,6 +4,7 @@
  * Captura buscas como "liturgia de amanhã" e "evangelho de domingo".
  * Páginas que saem da janela deixam de existir no próximo build.
  */
+import HojeNav from '@/components/astro/HojeNav.astro';
 import { BookOpen, ChevronLeft, ChevronRight } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import { estiloGrade } from '@/lib/simetria';
@@ -33,7 +34,9 @@ const info = infoDoDia(date);
 const corKey = corDaLiturgia(liturgia) ?? info.tempo.cor;
 const tom = tomLiturgico(corKey);
 
-const title = `Liturgia Diária ${dataLonga.replace(/^\S+, /, '')}: ${liturgia.title}`.slice(0, 110);
+const celebracaoDia = celebracaoDaLiturgia(liturgia);
+const dataSemSemana = dataLonga.replace(/^\S+, /, '').replace(/ de ([A-ZÇ])/g, (m) => m.toLowerCase());
+const title = `Liturgia diária ${dataSemSemana}: ${celebracaoDia ? celebracaoDia.replace(/, (Memória|Festa|Solenidade)$/i, '') : 'leituras e Evangelho'}`.slice(0, 95);
 const description = clampText(`Leituras da Missa de ${dataLonga}: ${leituras.join('; ') || liturgia.title}.`, 158);
 
 const crumbs = [
@@ -100,5 +103,6 @@ const jsonLd = [
         ) : <span />}
       </nav>
     </div>
+    <div class="container mx-auto mt-12 max-w-3xl px-4"><HojeNav atual="liturgia" /></div>
   </main>
 </BaseLayout>

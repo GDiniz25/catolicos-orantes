@@ -199,7 +199,7 @@ let janelaPromise: Promise<{ date: string; liturgia: LiturgiaData }[]> | null = 
  * antes de o dia chegar. Dias que a API não devolver ficam de fora.
  */
 const INICIO_LITURGIA = '2026-10-01';
-export function getLiturgiaJanela(depois = 10, maxAntes = 120) {
+export function getLiturgiaJanela(depois = 30, maxAntes = 120) {
   if (!janelaPromise) {
     janelaPromise = (async () => {
       const hoje = _hoje();

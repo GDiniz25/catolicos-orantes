@@ -1,0 +1,160 @@
+---
+/**
+ * Liturgia de amanhã (data de Brasília + 1): leituras, Evangelho e o texto completo da CNBB.
+ * Captura buscas como "liturgia de amanhã" e "evangelho de amanhã" e aponta para a página permanente da data.
+ */
+import { BookOpen } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import HojeNav from '@/components/astro/HojeNav.astro';
+import { estiloGrade } from '@/lib/simetria';
+import { getLiturgia, getLiturgiaJanela } from '@/lib/data';
+import { sanitizeLiturgyServer } from '@/lib/sanitize';
+import { extractLeituras, tidyLiturgyHtml } from '@/lib/liturgy';
+import { getTodayStr, dataSlug } from '@/lib/dateUtils';
+import { CORES, corDaLiturgia, celebracaoDaLiturgia, infoDoDia, tomLiturgico } from '@/lib/anoLiturgico';
+import { amanha, dataPorExtenso, dataComSemana, dataBarra, referenciaDoEvangelho, evangelista } from '@/lib/hoje';
+import { absUrl, breadcrumbSchema, clampText, faqSchema, publisherRef } from '@/lib/seo';
+
+const hoje = getTodayStr();
+const data = amanha(hoje);
+const path = '/liturgia-de-amanha';
+const raw = await getLiturgia(data);
+const janela = await getLiturgiaJanela();
+const temPaginaDatada = janela.some((j) => j.date === data);
+const paginaDatada = `/liturgia-diaria/${dataSlug(data)}`;
+
+const leituras = raw ? extractLeituras(raw.leituras) : [];
+const corpo = raw ? tidyLiturgyHtml(sanitizeLiturgyServer(raw.body)) : '';
+const info = infoDoDia(data);
+const corKey = corDaLiturgia(raw) ?? info.tempo.cor;
+const tom = tomLiturgico(corKey);
+const celebracao = celebracaoDaLiturgia(raw) ?? raw?.title ?? null;
+const refEvangelho = referenciaDoEvangelho(leituras);
+const nomeEvangelista = evangelista(refEvangelho);
+
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const semana = dataComSemana(data);
+const extenso = dataPorExtenso(data);
+const barra = dataBarra(data);
+
+// Título curto; a celebração entra só quando cabe (sem o grau, ex.: ", Memória")
+const tituloBase = `Liturgia de amanhã, ${barra}: leituras e Evangelho`;
+const nomeCurto = celebracao ? celebracao.replace(/,\s*(Memória|Festa|Solenidade)$/i, '').trim() : '';
+const tituloCom = nomeCurto ? `Liturgia de amanhã, ${barra}: ${nomeCurto}, leituras e Evangelho` : '';
+const title = tituloCom && tituloCom.length <= 70 ? tituloCom : tituloBase;
+
+const description = raw
+  ? clampText(`Liturgia de amanhã, ${semana}: ${celebracao}. Leituras da Missa${leituras.length ? `: ${leituras.join('; ')}` : ''}.`, 158)
+  : clampText(`Liturgia de amanhã, ${semana}: primeira leitura, salmo e Evangelho da Missa, segundo a CNBB.`, 158);
+
+const FAQ = [
+  {
+    q: 'Qual é a liturgia de amanhã?',
+    a: raw
+      ? `Amanhã, ${semana}, a liturgia é: ${celebracao}. A cor litúrgica é ${CORES[corKey].nome}.${leituras.length ? ` As leituras são ${leituras.join('; ')}.` : ''}`
+      : `Amanhã é ${semana}, ${info.rotulo}. O texto da liturgia ainda não foi publicado pela CNBB. Volte mais tarde.`,
+  },
+  {
+    q: 'Qual é o Evangelho de amanhã?',
+    a: refEvangelho
+      ? `O Evangelho de amanhã, ${extenso}, é ${refEvangelho}${nomeEvangelista ? `, do Evangelho segundo ${nomeEvangelista}` : ''}. O texto completo está nesta página.`
+      : 'A referência do Evangelho aparece nesta página assim que a CNBB publica a liturgia do dia.',
+  },
+  {
+    q: 'Onde ver a liturgia dos próximos dias?',
+    a: 'Na página da liturgia diária há a lista dos próximos dias. Cada data tem a sua própria página, com as leituras e o Evangelho completos.',
+  },
+];
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Liturgia Diária', path: '/liturgia-diaria' },
+  { name: 'Liturgia de amanhã', path },
+];
+const jsonLd = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl(path)}#article`,
+    headline: title,
+    ...(celebracao ? { alternativeHeadline: celebracao } : {}),
+    description,
+    datePublished: `${hoje}T00:00:00-03:00`,
+    dateModified: `${hoje}T00:00:00-03:00`,
+    inLanguage: 'pt-BR',
+    image: [absUrl('/og-image.png')],
+    author: { '@type': 'Organization', name: 'Católicos Orantes', url: absUrl('/') },
+    publisher: publisherRef,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl(path) },
+    citation: 'Liturgia Diária, Conferência Nacional dos Bispos do Brasil (CNBB)',
+  },
+  breadcrumbSchema(crumbs),
+  faqSchema(FAQ),
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  path={path}
+  keywords="liturgia de amanhã, evangelho de amanhã, leituras de amanhã, liturgia diária de amanhã, leituras da missa de amanhã, CNBB"
+  ogType="article"
+  jsonLd={jsonLd}
+  ctaMaxWidth="max-w-3xl"
+>
+  <PageHeader title="Liturgia de amanhã" subtitle={`${cap(semana)}.${celebracao ? ` ${celebracao}.` : ''}`} icon={BookOpen} crumbs={crumbs} tom={tom}>
+    <p class="mt-5 inline-flex flex-wrap items-center gap-x-3 gap-y-1 rounded-full bg-white/70 px-4 py-1.5 text-[15px]">
+      <span class="h-3 w-3 rounded-full" style={`background:${CORES[corKey].forte}`} aria-hidden="true"></span>
+      <span>Cor litúrgica: <strong>{CORES[corKey].nome}</strong></span>
+      <span class="text-co-warm-brown/75">{info.rotulo}</span>
+    </p>
+  </PageHeader>
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-3xl px-4">
+      {temPaginaDatada && (
+        <a href={paginaDatada} class="mb-8 flex flex-col gap-3 rounded-xl border border-co-warm-sand-dark bg-white p-5 transition-colors hover:border-co-warm-brown/35 sm:flex-row sm:items-center sm:justify-between">
+          <span class="min-w-0">
+            <span class="block font-display text-xl font-semibold">Página permanente desta liturgia</span>
+            <span class="block text-[15px] text-co-warm-brown/80">Guarde o link de {extenso}. Ele continua valendo depois de amanhã.</span>
+          </span>
+          <span class="btn btn-primario w-full shrink-0 sm:w-auto">Abrir a liturgia de {barra}</span>
+        </a>
+      )}
+
+      {raw ? (
+        <>
+          {leituras.length > 0 && (
+            <section class="mb-8" aria-labelledby="leituras">
+              <h2 id="leituras" class="mb-2 font-display text-xl font-semibold">Leituras de amanhã</h2>
+              <ul class="grade-n gap-2 text-[15px]" style={estiloGrade(leituras.length)}>
+                {leituras.map((l) => <li class="flex min-h-10 items-center justify-center rounded-md border border-co-warm-sand-dark bg-white px-3 py-1.5 text-center">{l}</li>)}
+              </ul>
+              {refEvangelho && (
+                <p class="mt-3 text-[15px] text-co-warm-brown/85">Evangelho de amanhã: <strong>{refEvangelho}</strong>{nomeEvangelista && <> (segundo {nomeEvangelista})</>}.</p>
+              )}
+            </section>
+          )}
+
+          <div class="liturgia-content prose max-w-none text-[16px]" set:html={corpo} />
+
+          <p class="mt-8 text-center text-xs italic text-co-warm-brown/75">Texto litúrgico: Conferência Nacional dos Bispos do Brasil. © Todos os direitos reservados.</p>
+        </>
+      ) : (
+        <div class="rounded-md border border-co-warm-sand-dark bg-co-warm-sand p-8 text-center text-co-warm-brown/80">
+          <p>A liturgia de amanhã ainda não foi publicada pela CNBB. Volte mais tarde.</p>
+        </div>
+      )}
+
+      <div class="acoes mx-auto mt-10">
+        <a href="/liturgia-diaria" class="btn btn-primario">Ver a liturgia de hoje</a>
+        <a href="/santo-de-amanha" class="btn btn-secundario">Ver o santo de amanhã</a>
+      </div>
+
+      <HojeNav class="mt-12" />
+
+      <div class="mt-12">
+        <Faq title="Perguntas frequentes" items={FAQ} />
+      </div>
+    </div>
+  </main>
+</BaseLayout>
