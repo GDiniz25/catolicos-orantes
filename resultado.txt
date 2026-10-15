@@ -33,19 +33,200 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/m_z_tur	2736x3648	CC BY-SA 3.0	GJo	File:Monte dei Cappuccini - Chiesa facciata principale.jpg
-   DESC: Monte dei Cappuccini, facciata principale della chiesa
-   CATS: CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | License migration redundant | Santa Maria al Monte (Turin) | Self-published work | Taken with Canon PowerShot A640
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_z_tur2	1944x2592	CC BY-SA 3.0	sailko	File:Torino, chiesa dei cappuccini 01.JPG
-   DESC: Torino, chiesa dei cappuccini
-   CATS: CC-BY-SA-3.0 | GFDL | License migration redundant | Photographs by User:Sailko | Santa Maria al Monte (Turin) | Self-published work | Taken with Nikon Coolpix P5000
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_z_beg25	2448x3264	CC BY-SA 3.0	G.Lanting	File:Begijnhofkapel (Amsterdam) P1020925.JPG
-   DESC: Interieur van de Begijnhofkapel (Amsterdam)
-   CATS: August 2009 in Amsterdam | CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | Interior of Begijnhofkapel (Amsterdam) | License migration redundant | Netherlands photographs taken on 2009-08-15 | Self-published work | Taken with Panasonic Lumix DMC-FZ18
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_z_beg27	3264x2448	CC BY-SA 3.0	G.Lanting	File:Begijnhofkapel (Amsterdam) P1020927.JPG
-   DESC: Interieur van de Begijnhofkapel (Amsterdam)
-   CATS: August 2009 in Amsterdam | CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | Interior of Begijnhofkapel (Amsterdam) | License migration redundant | Netherlands photographs taken on 2009-08-15 | Self-published work | Taken with Panasonic Lumix DMC-FZ18
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+### Silla (Valencia)
+2288x1712	Public domain	File:Piscina de Silla, Valencia.JPG	| Vista de la piscina municipal de Silla, Valencia, España
+1887x1216	Public domain	File:Vista de Silla, Valencia.JPG	| Vista de la localidad de Silla, Valencia, España
+3264x2448	CC BY-SA 3.0	File:Monuments a les trobades d'Escoles en Valencià a Silla, Horta Sud.JPG	| Monuments a les trobades d'Escoles en Valencià a Silla, Horta Sud.
+1616x1080	CC BY 2.0	File:253101 Comsa - Estacion Silla - Luis Zamora.jpg	| La 253.011 a la classificació de Silla, esperant per portar fins Castellbisbal el tren de ferralla.
+2736x3648	CC BY-SA 3.0	File:Torre de Silla 06.JPG	| Torre musulmana de Silla, España.
+3648x2736	CC BY-SA 3.0	File:Silla Valencia 01.JPG	| Calle de la Libertad. Silla, España.
+3648x2736	CC BY-SA 3.0	File:Silla Valencia 02.JPG	| Calle de la Libertad. Silla, España.
+3648x2736	CC BY-SA 3.0	File:Silla Valencia 03.JPG	| Silla, España.
+3648x2736	CC BY-SA 3.0	File:Silla Valencia 04.JPG	| Antigua Casa de Correos. Silla, España.
+3648x2736	CC BY-SA 3.0	File:Silla Valencia 05.JPG	| Antigua Casa de Correos. Silla, España.
+2736x3648	CC BY-SA 3.0	File:Silla Valencia 06.JPG	| Silla, España.
+2736x3648	CC BY-SA 3.0	File:Silla Valencia 07.JPG	| Edificio en la Plaza del Pueblo. Silla, España.
+2162x3000	KOGL Type 1	File:서봉총 금관 금제드리개.jpg	| Crowns of Silla, found on Seobongchong, it is a golden crown used on Silla. This crown is designated National Treasure No. 339 and now house
+4608x3072	CC BY-SA 3.0	File:Carta Puebla de Silla.jpg	| Fra Hug de Fullalquer, Mestre de l'Orde de l'Hospital i Castellà d'Aposta, concedeix carta pobla las crsitians que si han instal.lat a Silla
+3000x3712	CC BY-SA 3.0	File:Port de Silla, 3.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
+3984x2826	CC BY-SA 3.0	File:Port de Silla, 4.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
+2766x3424	CC BY-SA 3.0	File:Port de Silla, 6.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
+3000x4000	CC BY-SA 3.0	File:Detall d'una embarcació (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
+3000x4000	CC BY-SA 3.0	File:Detall d'una embarcació, 6 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
+1224x3477	Public domain	File:EUPV UP Silla 2023.jpg	| papereta d'EUPV - Podem per a les eleccions locals de 2023 a Silla
+2448x3264	CC0	File:Torre Musulmana - Silla (Valencia).jpg	| Torre Musulmana de Silla
+3456x4608	CC BY-SA 4.0	File:Fotos e Silla agosto 2024 06.jpg	| Silla
+4608x3456	CC BY-SA 4.0	File:Fotos e Silla agosto 2024 21.jpg	| Silla
+3155x1784	CC BY-SA 4.0	File:Fachada Ayuntamiento Silla (Valencia) (cropped).jpg	| Silla
+4000x3000	CC BY-SA 4.0	File:Camp de Futbol Silla.jpg	| Camp de Futbol Vicent Morera
+### Silla iglesia parroquial
+2496x1664	CC BY-SA 2.0	File:Our Lady of the Angels Roman Catholic Church, Bexley Road, Northumberland Heath, Kent - geograph.org.uk - 229072.jpg	| Roman Catholic Church of Our Lady of the Angels, Bexley Road, Northumberland Heath, southeast London (formerly Kent), seen from the northeas
+1024x685	CC BY-SA 3.0	File:02010 The organ and the church's choir of the Church of Our Lady of the Angels in Pollença.jpg	| Church of Our Lady of the Angels in Pollença
+2693x2191	CC BY-SA 3.0	File:Church of Our Lady of Angels Porec.jpg	| Church of Our Lady of Angel 1746
+3503x2462	CC BY-SA 4.0	File:Church of Our Lady of the Angels, Porec.jpg	| Church of Our Lady of the Angels in Poreč.
+3456x4608	CC BY-SA 4.0	File:Poreč, Church of Our Lady of the Angels altar.jpg	| Kirche Our Lady of the Angels in Poreč, Kroatien, Blick auf den Chor.
+4848x3636	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 01.jpg	| Church of Our Lady of the Angels (Bay of Kotor) - protected cultural monument
+5152x3864	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 02.jpg	| Church of Our Lady of the Angels (Bay of Kotor) - protected cultural monument
+4970x3727	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 03.jpg	| Church of Our Lady of the Angels (Bay of Kotor) - protected cultural monument
+5057x3793	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 04.jpg	| Church of Our Lady of the Angels (Bay of Kotor) - protected cultural monument
+5152x3864	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 05.jpg	| View from the church of Our Lady of the Angels on the opposite side of the Verige Strait in the Bay of Kotor (Bay of Kotor)
+5152x3864	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 06.jpg	| Church of Our Lady of the Angels (Bay of Kotor) - protected cultural monument
+5152x3864	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 08.jpg	| Church gate of the church of Our Lady of the Angels
+5152x3864	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 07.jpg	| Church gate of the church of Our Lady of the Angels
+3630x3075	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 09.jpg	| Church of Our Lady of the Angels (Bay of Kotor) - designation of a protected cultural monument
+2364x3946	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 10.jpg	| Church gate of the church of Our Lady of the Angels
+5152x3864	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 12.jpg	| Church of Our Lady of the Angels (Bay of Kotor) - protected cultural monument
+4576x3768	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 11.jpg	| Church of Our Lady of the Angels (Bay of Kotor) - protected cultural monument
+5152x3864	CC BY-SA 4.0	File:Church of Our Lady of the Angels (Bay of Kotor) 13.jpg	| Church of Our Lady of the Angels (Bay of Kotor) - road sign to the church on the old road Tivat-Kotor
+5920x3354	CC BY-SA 4.0	File:Interior Church of Our Lady of the Angels in Poreč Istria Croatia.jpg	| Church of Our Lady of the Angels in Poreč, Istria, Croatia
+1263x1600	CC BY-SA 2.0	File:Our Lady of the Angels Catholic Church - geograph.org.uk - 4220818.jpg	| Our Lady of the Angels Catholic Church
+1024x768	CC BY-SA 2.0	File:Catholic Church of Our Lady Of The Angels And St Winefride (closed) - geograph.org.uk - 5869933.jpg	| Catholic Church of Our Lady Of The Angels And St Winefride (closed)
+1600x1065	CC BY-SA 2.0	File:Our Lady of the Angels church, East Leake - geograph.org.uk - 6594812.jpg	| Our Lady of the Angels church, East Leake
+3600x2400	CC0	File:Church of Our Lady of the Angels, Coton Road, Chilvers Coton, Nuneaton (March 2024) (1).jpg	| Church of Our Lady of the Angels, Coton Road, Chilvers Coton, Nuneaton, Borough of Nuneaton and Bedworth, Warwickshire, England.
+4200x2800	CC0	File:Church of Our Lady of the Angels, Coton Road, Chilvers Coton, Nuneaton (March 2024) (4).jpg	| Church of Our Lady of the Angels, Coton Road, Chilvers Coton, Nuneaton, Borough of Nuneaton and Bedworth, Warwickshire, England.
+2600x3000	CC0	File:Church of Our Lady of the Angels, Coton Road, Chilvers Coton, Nuneaton (March 2024) (5).jpg	| Church of Our Lady of the Angels, Coton Road, Chilvers Coton, Nuneaton, Borough of Nuneaton and Bedworth, Warwickshire, England.
+3024x4032	CC BY-SA 4.0	File:Chelva Church of Our Lady of the Angels 4950.jpg	| Església de la Mare de Déu dels Àngels, Xelva
+3024x4032	CC BY-SA 4.0	File:Chelva Church of Our Lady of the Angels 4958.jpg	| Església de la Mare de Déu dels Àngels, Xelva
+3024x4032	CC BY-SA 4.0	File:Chelva Church of Our Lady of the Angels 4962.jpg	| Església de la Mare de Déu dels Àngels, Xelva. Aquesta porta es va obrir a la guerra civil de 1936, quan el temple va ser utilitzat com a ta
+### Onil iglesia parroquial
+2816x2112	Public domain	File:Westerleigh.saint.james.the.great.arp.jpg	| 
+2736x3648	CC0	File:Tomb of Joan Dauntsey and John Dewale, St James the Great, Dauntsey, Wiltshire, England - 20100617.jpg	| The sculpted alabaster slab over the tomb of Joan Dauntsey (circa 1395–1457) and her third husband John Dewale, before the high altar of the
+3456x4608	CC BY-SA 4.0	File:Membrilla 09.jpg	| Membrilla
+3456x4608	CC BY-SA 4.0	File:Membrilla 14.jpg	| Membrilla
+3456x4608	CC BY-SA 4.0	File:Membrilla 15.jpg	| Membrilla
+4608x3456	CC BY-SA 4.0	File:Membrilla 17.jpg	| Membrilla
+3456x4608	CC BY-SA 4.0	File:Membrilla 18.jpg	| Membrilla
+3456x4608	CC BY-SA 4.0	File:Membrilla 19.jpg	| Membrilla
+3456x4608	CC BY-SA 4.0	File:Membrilla 46.jpg	| Membrilla
+3008x2000	CC BY-SA 4.0	File:Church of Saint James the Greater (Prachatice) 25.jpg	| Kostel svatého Jakuba v Prachaticích
+3264x2448	CC BY-SA 4.0	File:Estômbar e Parchal - Church of Saint James the Great - 20090412145137.jpg	| Estômbar e Parchal, Church of Saint James the Great.
+1782x2414	CC BY-SA 4.0	File:Iglesia Santiago el Mayor.jpg	| Fachada oeste de la Iglesia Santiago el Mayor de Membrilla
+1280x720	CC BY-SA 2.0	File:The Parish Church of Saint James the Great Woodhall, Leeds - geograph.org.uk - 4901545.jpg	| The Parish Church of Saint James the Great Woodhall, Leeds
+1280x720	CC BY-SA 2.0	File:The Parish Church of Saint James the Great Woodhall, Leeds - geograph.org.uk - 4901547.jpg	| The Parish Church of Saint James the Great Woodhall, Leeds
+1280x720	CC BY-SA 2.0	File:The Parish Church of Saint James the Great Woodhall, Leeds - geograph.org.uk - 4901551.jpg	| The Parish Church of Saint James the Great Woodhall, Leeds
+1280x720	CC BY-SA 2.0	File:The Parish Church of Saint James the Great Woodhall, Leeds - geograph.org.uk - 4901557.jpg	| The Parish Church of Saint James the Great Woodhall, Leeds
+1280x720	CC BY-SA 2.0	File:The Parish Church of Saint James the Great Woodhall, Leeds - geograph.org.uk - 4901563.jpg	| The Parish Church of Saint James the Great Woodhall, Leeds
+1280x720	CC BY-SA 2.0	File:The Parish Church of Saint James the Great Woodhall, Leeds - geograph.org.uk - 4901565.jpg	| The Parish Church of Saint James the Great Woodhall, Leeds
+3401x2329	CC BY-SA 2.0	File:Idlicote St James fr SW GeoUK 7333720.jpg	| Church from the south-west
+2048x1536	CC BY-SA 4.0	File:Idlicote - Church of Saint James the Great, Idlicote - 20210210160902.jpeg	| Idlicote, Church of Saint James the Great, Idlicote.
+2048x1536	CC BY-SA 4.0	File:Idlicote - Church of Saint James the Great, Idlicote - 20210210161004.jpeg	| Idlicote, Church of Saint James the Great, Idlicote.
+2048x1536	CC BY-SA 4.0	File:Idlicote - Church of Saint James the Great, Idlicote - 20210210161028.jpeg	| Idlicote, Church of Saint James the Great, Idlicote.
+2000x1500	CC BY-SA 2.0	File:The Anglican church of St James the Great, Galloway Lane - geograph.org.uk - 6111377.jpg	| The Anglican church of St James the Great, Galloway Lane
+1024x768	CC BY-SA 2.0	File:Church of St James the Great, Woodhall - geograph.org.uk - 6564912.jpg	| Church of St James the Great, Woodhall
+2800x1874	CC BY-SA 2.0	File:Church of Saint James the Great, Idlicote - geograph.org.uk - 7712511.jpg	| Church of Saint James the Great, Idlicote
+4288x2848	CC BY-SA 2.0	File:Church of Saint James the Great, Idlicote - geograph.org.uk - 7712553.jpg	| Church of Saint James the Great, Idlicote
+2937x4027	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 01.jpg	| Iglesia parroquial de Santiago Apóstol de Onil, Alicante.
+### Onil San Jaime
+2218x3204	Public domain	File:Aksam 1936 agustos 16.pdf	| Akşam Gazetesi - 1936 Ağustos 16
+2210x3122	Public domain	File:Aksam 1936 eylul 29.pdf	| Akşam Gazetesi - 1936 Eylül 29
+4208x3120	CC BY-SA 4.0	File:Calle Valencia - Calle San Jaime (Onil) 01.jpg	| Calle de Valencia y calle de San Jaime en la localidad alicantina de Onil.
+4208x3120	CC BY-SA 4.0	File:Calle Valencia - Calle San Jaime (Onil) 02.jpg	| Calle de Valencia y calle de San Jaime en la localidad alicantina de Onil.
+1081x1539	Public domain	File:Diccionario geográfico-estadístico-histórico de España y sus posesiones de ultramar (IA diccionariogeogr08mado).pdf	| 26 45 NEW Subjects: Geography
+### Cimballa iglesia parroquial
+### Cimballa Purificación
+### Salzano duomo
+2398x3870	Public domain	File:La fine di un regno (Napoli e Sicilia) II.djvu	| Sloan candidate
+1352x1979	Public domain	File:Il Cittadino Italiano n 131-1892 (IA CittadinoItaliano1881-482).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1356x1970	Public domain	File:Il Cittadino Italiano n 104-1881 (IA CittadinoItaliano1883-80).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1368x1987	Public domain	File:Il Cittadino Italiano n 216-1882 (IA CittadinoItaliano1884-1674).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1302x1906	Public domain	File:Il Cittadino Italiano n 229-1883 (IA CittadinoItaliano1885-1844).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1352x1972	Public domain	File:Il Cittadino Italiano n 116-1886 (IA CittadinoItaliano1888-254).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1364x2004	Public domain	File:Il Cittadino Italiano n 202-1887 (IA CittadinoItaliano1889-1498).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1370x2008	Public domain	File:Il Cittadino Italiano n 203-1887 (IA CittadinoItaliano1889-1510).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1364x2014	Public domain	File:Il Cittadino Italiano n 204-1887 (IA CittadinoItaliano1889-1522).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1364x2004	Public domain	File:Il Cittadino Italiano n 205-1887 (IA CittadinoItaliano1889-1534).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1370x2012	Public domain	File:Il Cittadino Italiano n 206-1887 (IA CittadinoItaliano1889-1546).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1368x2031	Public domain	File:Il Cittadino Italiano n 210-1887 (IA CittadinoItaliano1889-1607).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1368x2012	Public domain	File:Il Cittadino Italiano n 211-1887 (IA CittadinoItaliano1889-1619).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1381x2012	Public domain	File:Il Cittadino Italiano n 212-1887 (IA CittadinoItaliano1889-1631).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1387x2012	Public domain	File:Il Cittadino Italiano n 213-1887 (IA CittadinoItaliano1889-1643).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1400x2012	Public domain	File:Il Cittadino Italiano n 214-1887 (IA CittadinoItaliano1889-1655).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1395x2008	Public domain	File:Il Cittadino Italiano n 216-1887 (IA CittadinoItaliano1889-1679).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1395x2006	Public domain	File:Il Cittadino Italiano n 218-1887 (IA CittadinoItaliano1889-1703).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1395x2014	Public domain	File:Il Cittadino Italiano n 221-1887 (IA CittadinoItaliano1889-1752).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1400x2006	Public domain	File:Il Cittadino Italiano n 224-1887 (IA CittadinoItaliano1889-1788).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1393x2022	Public domain	File:Il Cittadino Italiano n 227-1887 (IA CittadinoItaliano1889-1824).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1393x2008	Public domain	File:Il Cittadino Italiano n 228-1887 (IA CittadinoItaliano1889-1836).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1381x1956	Public domain	File:Il Cittadino Italiano n 216-1889 (IA CittadinoItaliano1891-1681).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1658x2150	Public domain	File:Esaminatore Friulano 11-11-1875 (IA EsaminatoreFriulano11-11-1875).pdf	| Esaminatore Friulano - Periodico settimanale politico religioso Subjects: Friuli; Periodico;
+1270x1804	Public domain	File:Il buon cuore - Anno XII, n. 01 - 4 gennaio 1913.pdf	| 
+### Salzano parrocchiale
+2304x3072	Public domain	File:ChiesaRobegano.JPG	| Robegano, frazione di Salzano: la chiesa parrocchiale della Beata Vergine delle Grazie e Santi Giacomo e Cristoforo.
+1443x1937	Public domain	File:Il Cittadino Italiano n 155-1891 (IA CittadinoItaliano1878-819).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1362x2025	Public domain	File:Il Cittadino Italiano n 209-1887 (IA CittadinoItaliano1889-1582).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1381x2012	Public domain	File:Il Cittadino Italiano n 212-1887 (IA CittadinoItaliano1889-1631).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1400x2012	Public domain	File:Il Cittadino Italiano n 214-1887 (IA CittadinoItaliano1889-1655).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1404x2018	Public domain	File:Il Cittadino Italiano n 222-1887 (IA CittadinoItaliano1889-1764).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1400x2008	Public domain	File:Il Cittadino Italiano n 225-1887 (IA CittadinoItaliano1889-1800).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1393x2022	Public domain	File:Il Cittadino Italiano n 227-1887 (IA CittadinoItaliano1889-1824).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1381x1987	Public domain	File:Il Cittadino Italiano n 213-1888 (IA CittadinoItaliano1890-1644).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1370x1991	Public domain	File:Il Cittadino Italiano n 22-1889 (IA CittadinoItaliano1891-1730).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1483x2091	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 145 (1903) (IA IlFriuli 145-1903).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+### Canosio San Nicolao
+### Patierno chiesa San Pietro
+4382x5414	CC BY-SA 4.0	File:Gazzetta Musicale di Milano, 1867.djvu	| Gazzetta Musicale di Milano, 1867
+1443x1937	Public domain	File:Il Cittadino Italiano n 156-1891 (IA CittadinoItaliano1878-832).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1375x1987	Public domain	File:Il Cittadino Italiano n 205-1882 (IA CittadinoItaliano1884-1529).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1443x2060	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 236 (1889) (IA IlFriuli 236 1889).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+4481x5965	CC BY-SA 4.0	File:Gazzetta Musicale di Milano, 1881.djvu	| Gazzetta Musicale di Milano, 1881
+### Tumaco iglesia catedral
+### Les Ulmes chapelle
+2370x3794	Public domain	File:Port - Dictionnaire historique, géographique et biographique de Maine-et-Loire, tome 1.djvu	| Historical, geographical and biographical dictionnary of Maine et Loire / by Célestin Port
+1197x936	CC BY-SA 4.0	File:Maine-et-Loire administrative map-blank.svg	| Administrative map of the French department of Maine-et-Loire. Each area of this map can be selected and colored separately. The file provid
+1002x1500	Public domain	File:L'architecture françoise, ou, Recueil des plans, elevations, coupes et profils des églises, palais, hôtels & maisons particulieres de Paris (IA gri 33125010811418).pdf	| Title page of v. 5 varies: "... profils des maisons royalles, de quelques églises de Paris, et de chateaux et maisons de plaisances situées 
+1275x1650	Public domain	File:Ulmes - Nice et ses environs.djvu	| Nice et ses environs
+1210x1429	Public domain	File:Lettres édifiantes et curieuses écrites des missions étrangères (microforme) (IA cihm 45171).pdf	| "Tome sixième." La microfiche fait partie d'une collection de l'I.C.M.H. Pour obtenir les microfiches particulières de cette collection, voi
+1239x1752	Public domain	File:OJ C 42 of 2020 - NL Dutch.pdf	| Official Journal of the European Union - C 42 of 7 February 2020 - Dutch edition
+1239x1752	Public domain	File:OJ C 42 of 2020 - FI Finnish.pdf	| Official Journal of the European Union - C 42 of 7 February 2020 - Finnish edition
+1239x1752	Public domain	File:OJ C 42 of 2020 - IT Italian.pdf	| Official Journal of the European Union - C 42 of 7 February 2020 - Italian edition
+1239x1752	Public domain	File:OJ C 58 of 2020 - DA Danish.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Danish edition
+1239x1752	Public domain	File:OJ C 58 of 2020 - FI Finnish.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Finnish edition
+1239x1752	Public domain	File:OJ C 58 of 2020 - IT Italian.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Italian edition
+1239x1752	Public domain	File:OJ C 58 of 2020 - PT Portuguese.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Portuguese edition
+1239x1752	Public domain	File:OJ C 58 of 2020 - SL Slovenian.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Slovenian edition
+1239x1752	Public domain	File:OJ C 58 of 2020 - ES Spanish.pdf	| Official Journal of the European Union - C 58 of 21 February 2020 - Spanish edition
+1239x1752	Public domain	File:OJ C 70 of 2020 - DA Danish.pdf	| Official Journal of the European Union - C 70 of 4 March 2020 - Danish edition
+1239x1752	Public domain	File:OJ C 89 of 2020 - HR Croatian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Croatian edition
+1239x1752	Public domain	File:OJ C 89 of 2020 - CS Czech.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Czech edition
+1239x1752	Public domain	File:OJ C 89 of 2020 - DA Danish.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Danish edition
+1239x1752	Public domain	File:OJ C 89 of 2020 - ET Estonian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Estonian edition
+1239x1752	Public domain	File:OJ C 89 of 2020 - IT Italian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Italian edition
+1239x1752	Public domain	File:OJ C 89 of 2020 - LT Lithuanian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Lithuanian edition
+1239x1752	Public domain	File:OJ C 89 of 2020 - RO Romanian.pdf	| Official Journal of the European Union - C 89 of 18 March 2020 - Romanian edition
+1239x1752	Public domain	File:OJ C 34 of 2023 - CS Czech.pdf	| Official Journal of the European Union - C 34 of 30 January 2023 - Czech edition
+1239x1752	Public domain	File:OJ C 202300798 of 2023 - ET Estonian.pdf	| Official Journal of the European Union - C_202300798 of 9 November 2023 - Estonian edition
+1239x1752	Public domain	File:OJ C 202300798 of 2023 - HU Hungarian.pdf	| Official Journal of the European Union - C_202300798 of 9 November 2023 - Hungarian edition
+1239x1752	Public domain	File:OJ C 202300798 of 2023 - IT Italian.pdf	| Official Journal of the European Union - C_202300798 of 9 November 2023 - Italian edition
+1239x1752	Public domain	File:OJ C 202300798 of 2023 - SK Slovak.pdf	| Official Journal of the European Union - C_202300798 of 9 November 2023 - Slovak edition
+1239x1752	Public domain	File:OJ C 202502270 of 2025 - PL Polish.pdf	| Official Journal of the European Union - C_202502270 of 14 April 2025 - Polish edition
+1239x1752	Public domain	File:OJ C 202502270 of 2025 - PT Portuguese.pdf	| Official Journal of the European Union - C_202502270 of 14 April 2025 - Portuguese edition
+### Martillac église
+3680x4664	CC BY-SA 4.0	File:Martillac Eglise.jpg	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac 1.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 1.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 2.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 3.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 7.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 5.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 8.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 9.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 12.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 16.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 17.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 18.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac 2.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 4.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 6.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 10.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 11.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 13.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 14.JPG	| Église Sainte-Quitterie de Martillac
+3872x2592	CC BY-SA 4.0	File:Eglise Sainte-Quitterie de Martillac Modillons 15.JPG	| Église Sainte-Quitterie de Martillac
+1932x2576	CC BY-SA 3.0	File:Martillac Église Sainte-Quitterie 01.jpg	| Saint Quitterie church of Martillac (Gironde, France)
+2576x1932	CC BY-SA 3.0	File:Martillac Église Sainte-Quitterie 03.jpg	| Saint Quitterie church of Martillac (Gironde, France)
+1932x2576	CC BY-SA 3.0	File:Martillac Église Sainte-Quitterie 02.jpg	| Saint Quitterie church of Martillac (Gironde, France)
+1932x2576	CC BY-SA 3.0	File:Martillac Église Sainte-Quitterie 04.jpg	| Saint Quitterie church of Martillac (Gironde, France)
+2576x1932	CC BY-SA 3.0	File:Martillac Église Sainte-Quitterie Cartouche blason.jpg	| Blazon sculpture on Saint Quitterie church of Martillac (Gironde, France)
+1932x2576	CC BY-SA 3.0	File:Martillac Église Sainte-Quitterie Croix celtique.jpg	| Celtic cross on Saint Quitterie church of Martillac (Gironde, France)
+3129x4503	Public domain	File:Eglise Sainte-Quitterie de Martillac - J-A Brutails - Université Bordeaux Montaigne - 0044.jpg	| Eglise Sainte-Quitterie de Martillac; Chevet
+1000x640	Public domain	File:Martillac - Eglise 1.jpg	| Martillac
