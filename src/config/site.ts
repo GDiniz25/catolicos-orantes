@@ -132,6 +132,20 @@ export const CATEGORIES: CategoryConfig[] = [
     description: 'Respostas claras para dúvidas sobre fé católica, liturgia, tradições e ensinamentos da Igreja.',
     keywords: 'dúvidas da fé católica, perguntas católicas, ensinamentos da igreja',
   },
+  {
+    slug: 'vida-espiritual',
+    title: 'Vida Espiritual',
+    subtitle: 'Como rezar de verdade, aridez, distrações, discernimento e a presença de Deus no dia a dia.',
+    description: 'Como rezar, o que fazer quando não sente nada na oração, aridez espiritual, discernimento e intimidade com Deus segundo a fé católica.',
+    keywords: 'como rezar, vida de oração, aridez espiritual, presença de Deus, discernimento espiritual, oração mental',
+  },
+  {
+    slug: 'primeiros-passos',
+    title: 'Primeiros Passos na Fé',
+    subtitle: 'Para quem está chegando ou voltando à Igreja: conversão, sacramentos, Missa e as primeiras dúvidas.',
+    description: 'Guia para quem quer se tornar católico ou voltar à Igreja: batismo de adulto, crisma, confissão, Missa, comunhão e dúvidas de quem está começando.',
+    keywords: 'como se tornar católico, voltar para a igreja, conversão católica, RICA, crisma de adulto, primeira vez na missa',
+  },
 ];
 
 export const CATEGORY_SLUGS = CATEGORIES.map((c) => c.slug);

@@ -31,6 +31,8 @@ export const CATEGORY_VISUAL: Record<string, Visual> = {
   novenas: VERDE,
   'calendario-liturgico': VERDE,
   'documentos-da-igreja': GRAFITE,
+  'vida-espiritual': ROXO,
+  'primeiros-passos': OURO,
 };
 
 export const visualDe = (slug: string): Visual => CATEGORY_VISUAL[slug] ?? GRAFITE;

@@ -29,4 +29,6 @@ export type CategorySlug =
   | 'oracoes-do-dia-a-dia'
   | 'documentos-da-igreja'
   | 'ladainhas'
-  | 'duvidas-da-fe';
+  | 'duvidas-da-fe'
+  | 'vida-espiritual'
+  | 'primeiros-passos';

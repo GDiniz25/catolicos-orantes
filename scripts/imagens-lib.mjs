@@ -236,6 +236,8 @@ const PADRAO_CATEGORIA = {
   'documentos-da-igreja': ['Saint Peter enthroned painting'],
   ladainhas: ['Praying Hands Dürer'],
   'duvidas-da-fe': ['Christ teaching painting'],
+  'vida-espiritual': ['Saint in prayer painting'],
+  'primeiros-passos': ['Return of the Prodigal Son Rembrandt'],
 };
 
 /** Outras buscas para temas muito usados: aumentam o número de pinturas diferentes */

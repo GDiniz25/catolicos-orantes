@@ -168,4 +168,26 @@ export const CATEGORY_CONTENT: Record<string, CategoryContent> = {
       { q: 'E se um padre me disse algo diferente?', a: 'Procure a fonte indicada no artigo e, se a dúvida continuar, pergunte ao próprio padre com a referência em mãos. Em questões de orientação pessoal, o confessor conhece a sua situação.' },
     ],
   },
+  'vida-espiritual': {
+    lead: 'Vida espiritual é a amizade com Deus vivida na oração, nos sacramentos e no dia a dia. Aqui você aprende a rezar de verdade e a atravessar a aridez, as distrações e as dúvidas do caminho.',
+    intro: `<p>Muita gente reza e sente que fala para o teto. Outros querem rezar, mas não sabem por onde começar. A Igreja tem dois mil anos de experiência nisso: o Catecismo dedica toda a sua quarta parte à <strong>oração cristã</strong>, e santos como Teresa de Ávila, João da Cruz, Inácio de Loyola e Francisco de Sales deixaram caminhos concretos.</p>
+<p>Nesta seção estão os temas da vida interior explicados de forma simples e fiel: como rezar, por que às vezes não se sente nada, como lidar com as distrações, o que é a noite escura, como discernir a vontade de Deus e como perceber a presença dele na rotina.</p>
+<p>Para rezar agora, use o <a href="/terco-guiado">Terço guiado</a> ou a <a href="/lectio-divina">Lectio Divina</a>.</p>`,
+    faq: [
+      { q: 'É normal não sentir nada quando rezo?', a: 'Sim. O Catecismo chama isso de secura ou aridez e diz que faz parte do combate da oração (CIC 2731). A oração vale pela fidelidade, não pelo que se sente.' },
+      { q: 'Quanto tempo devo rezar por dia?', a: 'Não há uma regra fixa para leigos. O importante é ter um tempo diário fiel, mesmo que curto, e aumentar aos poucos com a ajuda de um sacerdote ou diretor espiritual.' },
+      { q: 'Preciso de um diretor espiritual?', a: 'Não é obrigatório, mas a tradição da Igreja o recomenda para quem quer crescer na vida de oração e no discernimento (CIC 2690).' },
+    ],
+  },
+  'primeiros-passos': {
+    lead: 'Primeiros passos na fé é o guia para quem quer se tornar católico ou voltar à Igreja: o que fazer, por onde começar e as respostas para as dúvidas de quem está chegando.',
+    intro: `<p>Quem está chegando à Igreja, ou voltando depois de anos, costuma ter as mesmas perguntas: como me batizar adulto, posso comungar, o que faço na Missa, por onde começo a ler a Bíblia, como me confessar depois de tanto tempo. Nesta seção cada pergunta recebe uma <strong>resposta direta e acolhedora</strong>, fiel ao Catecismo e ao Direito Canônico.</p>
+<p>Ninguém precisa saber tudo para dar o primeiro passo. A paróquia mais próxima é a porta de entrada: lá estão o padre, a catequese de adultos e a comunidade que caminha junto.</p>
+<p>Para aprender a fé no seu ritmo, faça o <a href="/aprender">Caminho da Fé</a>, um curso interativo e gratuito.</p>`,
+    faq: [
+      { q: 'Como faço para me tornar católico?', a: 'Procure a secretaria de uma paróquia e peça para participar da catequese de adultos. Quem não é batizado passa pelo catecumenato; quem já foi batizado em outra Igreja cristã completa a iniciação com a profissão de fé, a Crisma e a Eucaristia.' },
+      { q: 'Estou afastado há anos. Posso voltar?', a: 'Sim, sempre. O caminho normal é procurar um padre, fazer uma boa confissão e voltar a participar da Missa e da vida da comunidade.' },
+      { q: 'Preciso pagar para fazer os sacramentos?', a: 'Não se compra sacramento. Algumas paróquias pedem uma contribuição para material e manutenção, mas a falta de dinheiro nunca deve impedir ninguém de receber os sacramentos.' },
+    ],
+  },
 };

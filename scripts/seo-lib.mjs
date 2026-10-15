@@ -3,7 +3,7 @@ import { createClient } from '@supabase/supabase-js';
 export const CATEGORIES = [
   'como-rezar-o-terco', 'santos-e-oracoes', 'milagres-eucaristicos', 'catecismo', 'liturgia-das-horas', 'novenas',
   'sacramentos', 'devocoes-marianas', 'calendario-liturgico', 'exame-de-consciencia', 'oracoes-do-dia-a-dia',
-  'documentos-da-igreja', 'ladainhas', 'duvidas-da-fe',
+  'documentos-da-igreja', 'ladainhas', 'duvidas-da-fe', 'vida-espiritual', 'primeiros-passos',
 ];
 export const STATIC = ['/', '/liturgia-diaria', '/santo-do-dia', '/versiculo-do-dia', '/encontre-na-biblia', '/pedido-de-oracao', '/sugestoes'];
 

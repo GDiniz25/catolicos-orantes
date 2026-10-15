@@ -34,6 +34,8 @@ const categories: { value: CategorySlug; label: string }[] = [
   { value: 'documentos-da-igreja', label: 'Documentos da Igreja' },
   { value: 'ladainhas', label: 'Ladainhas' },
   { value: 'duvidas-da-fe', label: 'Dúvidas da Fé' },
+  { value: 'vida-espiritual', label: 'Vida Espiritual' },
+  { value: 'primeiros-passos', label: 'Primeiros Passos na Fé' },
 ];
 
 interface ArticleFormProps {

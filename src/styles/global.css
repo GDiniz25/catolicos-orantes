@@ -677,8 +677,10 @@ input[type='time']::-webkit-date-and-time-value {
   .abas-intencoes > :nth-child(n + 4) { grid-column: span 3; }
 }
 @media (min-width: 1024px) {
-  .abas-intencoes { grid-template-columns: repeat(5, minmax(0, 1fr)); }
-  .abas-intencoes > *, .abas-intencoes > :nth-child(n + 4) { grid-column: auto; }
+  /* 7 abas: 4 na primeira linha, 3 na segunda, com a mesma largura total */
+  .abas-intencoes { grid-template-columns: repeat(12, minmax(0, 1fr)); }
+  .abas-intencoes > *, .abas-intencoes > :nth-child(n + 4) { grid-column: span 3; }
+  .abas-intencoes > :nth-child(n + 5) { grid-column: span 4; }
 }
 
 /* Textos longos (links, palavras compostas) quebram em vez de empurrar a página para o lado */

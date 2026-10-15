@@ -1,4 +1,4 @@
-import { BookOpen, Cross, Heart, Church, Calendar, Star, HandHeart, ScrollText, Sun, Moon, FileText, Search, ListOrdered, HelpCircle } from "lucide-react";
+import { BookOpen, Cross, Heart, Church, Calendar, Star, HandHeart, ScrollText, Sun, Moon, FileText, Search, ListOrdered, HelpCircle, Flame, Footprints } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 
 export interface Section {
@@ -23,6 +23,8 @@ export const sections: Section[] = [
   { title: "Documentos da Igreja", description: "Encíclicas e documentos importantes do Magistério resumidos.", icon: FileText, href: "/documentos-da-igreja" },
   { title: "Ladainhas", description: "Coleção completa de ladainhas católicas: de santos, de Nossa Senhora, do Sagrado Coração e mais.", icon: ListOrdered, href: "/ladainhas" },
   { title: "Dúvidas da Fé", description: "Respostas claras para as principais dúvidas sobre a fé católica, liturgia, tradições e costumes da Igreja.", icon: HelpCircle, href: "/duvidas-da-fe" },
+  { title: "Vida Espiritual", description: "Como rezar de verdade, aridez, distrações, discernimento e a presença de Deus no dia a dia.", icon: Flame, href: "/vida-espiritual" },
+  { title: "Primeiros Passos na Fé", description: "Para quem está chegando ou voltando à Igreja: conversão, sacramentos, Missa e as primeiras dúvidas.", icon: Footprints, href: "/primeiros-passos" },
 ];
 
 export const sectionIconByHref = (href: string): LucideIcon =>
