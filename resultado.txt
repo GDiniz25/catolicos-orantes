@@ -17,335 +17,96 @@ OK	ladainhas/ladainha-de-santo-expedito#reserva	630x809	Public domain	Unknown au
 OK	ladainhas/ladainha-de-sao-jorge	4152x5454	Public domain	Raphael	File:Raphael - Saint George and the Dragon - Google Art Project.jpg
 OK	ladainhas/ladainha-de-sao-jorge#reserva	3181x5062	Public domain	Paolo Uccello	File:Paolo Uccello - St George slaying the dragon - Google Art Project.jpg
 OK	x#lotto	1902x2001	Public domain	Lorenzo Lotto	File:Lorenzo Lotto 004.jpg
-OK	fr/santarem1	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Milagre Eucarístico de Santarém.png
-   DESC: The Eucharistic Miracle of Santarém‎
-   CATS: CC-BY-3.0 | Eucharistic miracle of Santarém | Media from YouTube
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/santarem2	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Milagre Eucarístico de Santarém 2.png
-   DESC: Eucharistic Miracle of Santarém‎
-   CATS: CC-BY-3.0 | Eucharistic miracle of Santarém | Media from YouTube
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/santarem3	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Milagre Eucarístico de Santarém 3.png
-   DESC: Eucharistic Miracle of Santarém‎
-   CATS: CC-BY-3.0 | Eucharistic miracle of Santarém | Media from YouTube
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/santarem4	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Milagre Eucarístico de Santarém 4.png
-   DESC: Eucharistic Miracle of Santarém‎
-   CATS: CC-BY-3.0 | Eucharistic miracle of Santarém | Media from YouTube
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/santarem5	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Milagre Eucarístico de Santarém 5.png
-   DESC: Eucharistic Miracle of Santarém
-   CATS: CC-BY-3.0 | Eucharistic miracle of Santarém | Media from YouTube
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/santarem6	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Milagre Eucarístico de Santarém 6.png
-   DESC: Eucharistic Miracle of Santarém‎
-   CATS: CC-BY-3.0 | Eucharistic miracle of Santarém | Media from YouTube
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/santarem_int1	1865x1399	CC BY-SA 4.0	GualdimG	File:Interior of Igreja de Santo Estêvão (Santo Milagre), Santarém 01.jpg
-   DESC: Igreja de Santo Estêvão, ou do Santo Milagre, em Santarém
-   CATS: CC-BY-SA-4.0 | Interior of Igreja de Santo Estêvão | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/santarem_png	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Santuário do Santíssimo Milagre, Santarém.png
-   DESC: Interior of Igreja de Santo Estêvão, Santarém
-   CATS: CC-BY-3.0 | Interior of Igreja de Santo Estêvão | Media from YouTube
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/santarem_fl1	1365x2048	CC BY-SA 2.0	Vitor Oliveira from Torres Vedras, PORTU	File:Igreja do Santíssimo Milagre - Santarém - Portugal (53359416854).jpg
-   DESC: A Igreja do Santíssimo Milagre situa-se num dos locais mais antigos do burgo escalabitano. Esta antiguidade é atestada pelas características da malha urbana e pelas construções que a rodeiam. Este edifício religioso está intimamente relacionado com a Lenda do Milagre de Santarém, ocorrido em meados do século XIII e que relata o roubo e a profanação de uma hóstia consagrada por uma residente nesta 
-   CATS: CC-BY-SA-2.0 | Files with coordinates missing SDC location of creation | Flickr images reviewed by FlickreviewR 2 | Igreja de Santo Estêvão (Santo Milagre) | Photographs by Vitor Oliveira
-   LICURL: https://creativecommons.org/licenses/by-sa/2.0 USAGE: Creative Commons Attribution-Share Alike 2.0
-OK	fr/santarem_fl2	2048x1568	CC BY-SA 2.0	Vitor Oliveira from Torres Vedras, PORTU	File:Igreja do Santíssimo Milagre - Santarém - Portugal (53287770369).jpg
-   DESC: A Igreja do Santíssimo Milagre situa-se num dos locais mais antigos do burgo escalabitano. Esta antiguidade é atestada pelas características da malha urbana e pelas construções que a rodeiam. Este edifício religioso está intimamente relacionado com a Lenda do Milagre de Santarém, ocorrido em meados do século XIII e que relata o roubo e a profanação de uma hóstia consagrada por uma residente nesta 
-   CATS: CC-BY-SA-2.0 | Files with coordinates missing SDC location of creation | Flickr images reviewed by FlickreviewR 2 | Interior of Igreja de Santo Estêvão | Photographs by Vitor Oliveira
-   LICURL: https://creativecommons.org/licenses/by-sa/2.0 USAGE: Creative Commons Attribution-Share Alike 2.0
-OK	fr/lanciano_vivo	1179x1536	Public domain	Junior	File:Miracolo Eucaristico di Lanciano - foto dal vivo.JPG
-   DESC: Eucharistic miracle of Lanciano - live photo.JPG Photo taken by me, with flash, as I passed in front of the blind. More photo details by clicking on file properties.
-   CATS: Eucharistic miracle of Lanciano | Monstrances in Italy | PD-self | Self-published work
-   LICURL:  USAGE: Public domain
-OK	fr/lanciano_alt1	3672x4896	CC BY-SA 4.0	Syrio	File:Lanciano, chiesa di San Francesco - Altare del miracolo eucaristico.jpg
-   DESC: Lanciano (Abruzzo, Italy), Saint Francis church - Altar of the eucharistic miracle
-   CATS: Altars in Abruzzo | CC-BY-SA-4.0 | Cultural heritage monuments in Italy missing SDC depicts | Cultural heritage monuments in Italy missing SDC location of creation | Cultural heritage monuments in Italy with known IDs | Eucharistic miracle of Lanciano | Files uploaded via webapp Wiki Loves Monuments Italia - wizard gateway in 2024 | Images from Wiki Loves Monuments 2024 | Images from Wiki Loves Monuments 2024 in Italy | Images from Wiki Loves Monuments 2024 in Italy - Abruzzo | Images from Wiki 
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/lanciano_alt2	2592x3888	CC BY-SA 4.0	Luca Aless	File:Lanciano - Chiesa di San Francesco, altare del miracolo eucaristico.JPG
-   DESC: altare del miracolo eucaristico nella Chiesa di San Francesco a Lanciano
-   CATS: CC-BY-SA-4.0 | Eucharistic miracle of Lanciano | Photos by Luca Aless/Provincia di Chieti | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/lanciano_doc	1520x2040	Public domain	Junior	File:Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 18 novembre 1970.JPG
-   DESC: Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 18 novembre 1970.JPG Made by myself. The panel is public for all visitors.
-   CATS: Eucharistic miracle of Lanciano | PD-self | Self-published work
-   LICURL:  USAGE: Public domain
-OK	fr/siena_est1	2325x3384	CC BY 3.0	Sailko	File:Cappella estiva delle sacre particole, del marrina, 1504 (rifatta nel xix secolo, tranne il pavimento) 01.jpg
-   DESC: Basilica of San Francesco (Siena)
-   CATS: All media supported by Wikimedia CH | CC-BY-3.0 | Il Marrina | Images by Sailko - Supported by Wikimedia CH | Interior of the Basilica of San Francesco (Siena) | Photographs by User:Sailko | Photographs of decorative arts by User:Sailko - Church elements - Altars | Self-published work
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/siena_est4	5472x3648	CC BY 3.0	Sailko	File:Cappella estiva delle sacre particole, del marrina, 1504 (rifatta nel xix secolo, tranne il pavimento) 04,0.jpg
-   DESC: Basilica of San Francesco (Siena)
-   CATS: All media supported by Wikimedia CH | CC-BY-3.0 | Images by Sailko - Supported by Wikimedia CH | Interior of the Basilica of San Francesco (Siena) | Photographs by User:Sailko | Photographs of decorative arts by User:Sailko - Opus sectile floors | Self-published work
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/siena_inv	1734x2312	CC0	Nikozw	File:Siena, basilica di S. Francesco. Cappella invernale delle Sacre Particole (transetto destro).jpg
-   DESC: Siena, basilica di S. Francesco. Cappella invernale delle Sacre Particole (transetto destro).
-   CATS: CC-Zero | Interior of the Basilica of San Francesco (Siena) | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/siena_ext	1524x1840	Public domain	Gabbg82 at Italian Wikipedia	File:SienaSanFrancesco.JPG
-   DESC: Foto di Gabriele Lupi
-   CATS: Basilica of San Francesco (Siena) - Facade | PD-user
-   LICURL:  USAGE: Public domain
-OK	fr/bolsena_teca	2560x1920	CC BY-SA 3.0	Davide Papalini	File:Bolsena-chiesa santa cristina-teca sangue.jpg
-   DESC: Basilica di Santa Cristina, Bolsena, Lazio, Italia
-   CATS: Altar relics of Bolsena | CC-BY-SA-3.0 | Chapel of the Miracle (Bolsena) | Taken with Panasonic Lumix DMC-FZ18 | User:Dapa19
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/bolsena_alt	3000x4000	CC BY-SA 4.0	Syrio	File:Bolsena, collegiata di Santa Cristina - Altare miracolo.jpg
-   DESC: Bolsena (provincie of Viterbo, Lazio, Italy), Saint Cristina church - Altar of the miracle
-   CATS: Altars in Lazio | CC-BY-SA-4.0 | Chapel of the Miracle (Bolsena) | Photos of altars by User:Syrio | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/bolsena_sott	2736x3648	CC BY-SA 3.0	Sailko	File:Bolsena, s. cristina, sotterranei, altare del miracolo 01.jpg
-   DESC: Santi Giorgio e Cristina (Bolsena) - Interno
-   CATS: Altar relics of Bolsena | CC-BY-SA-3.0 | Photographs by User:Sailko | Photographs of decorative arts by User:Sailko - Church elements - Ciboria | Santi Giorgio e Cristina (Bolsena) - Interior | Self-published work | Taken with Canon PowerShot G12
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/bolsena_impr	2560x1920	CC BY-SA 3.0	Davide Papalini	File:Bolsena-chiesa santa cristina-impronte.jpg
-   DESC: Basilica di Santa Cristina, Bolsena, Lazio, Italia
-   CATS: Altar relics of Bolsena | CC-BY-SA-3.0 | Santi Giorgio e Cristina (Bolsena) - Interior | Taken with Panasonic Lumix DMC-FZ18 | User:Dapa19
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/orvieto_cc0	2068x2848	CC0	Abxbay	File:Duomo orvieto - reliquario del corporale.JPG
-   DESC: duomo orvieto - in reliquario del corporale
-   CATS: CC-Zero | Reliquiario del Corporale di Bolsena | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/orvieto_ost	1944x2896	Public domain	RoyFokker	File:ORVIETO ostensorio del corporal y de la hostia del milagro eucarístico.jpg
-   DESC: Ostensorio del corporal y de la hostia del milagro eucarístico
-   CATS: Corporal of Bolsena | PD-self | Self-published work | Taken with Nikon D80
-   LICURL:  USAGE: Public domain
-OK	fr/orvieto_mus	3000x4000	CC BY-SA 4.0	Luistxo	File:Orvieto museum duomo 607.jpg
-   DESC: Reliquiario del Corporale di Bolsena‎, Collections of the Museo dell'Opera del Duomo (Orvieto)
-   CATS: CC-BY-SA-4.0 | Files with coordinates missing SDC location of creation | Reliquiario del Corporale di Bolsena | Self-published work | Signatures of medieval authors
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/orvieto_gd	3133x3129	Public domain	di Vieri, Ugolino (Italian sculptor, gol	File:Reliquiario del Corporale di Bolsena, GD008820.jpg
-   DESC: TitleReliquiario del Corporale di BolsenaContributordi Vieri, Ugolino (Italian sculptor, goldsmith; active 14th c.) (artist)SeriesEuroPhot. Art history. 14th century. MetalworkEuroPhot. Art history. 14th century. Sculptures. Reliquary figureEuroPhot. Kunstgeschiedenis. 14de eeuw. Beeldhouwkunst. ReliekbeeldEuroPhot. Kunstgeschiedenis. 14de eeuw. MetaalwerkOther title(s)Reliekschrijn van de korpora
-   CATS: Glass slides in the Leuven University Libraries | PD-anon-70-EU | Unknown date
-   LICURL:  USAGE: Public domain
-OK	fr/orvieto_cap	2736x3648	CC BY-SA 3.0	Sailko	File:Duomo di orvieto, cappella del corporale 01.JPG
-   DESC: Duomo (Orvieto)
-   CATS: CC-BY-SA-3.0 | Chapel of the Corporal | Photographs by User:Sailko | Self-published work | Taken with Canon PowerShot G12
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/cascia1	1944x2592	CC BY-SA 4.0	Jordiferrer	File:2016 Basilica di Santa Rita (Cascia) 01.jpg
-   DESC: Basilica di Santa Rita (Cascia)
-   CATS: Basilica di Santa Rita (Cascia) | CC-BY-SA-4.0 | Files with coordinates missing SDC location of creation | Rain in Italy | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/cascia_fac	3530x4708	CC BY-SA 4.0	66colpi	File:Cascia - Basilica di Santa Rita da Cascia - La facciata.jpg
-   DESC: basilica di Santa Rita da Cascia
-   CATS: Basilica di Santa Rita (Cascia) | CC-BY-SA-4.0 | Cultural heritage monuments in Italy missing SDC location of creation | Cultural heritage monuments in Italy with known IDs | Files uploaded via webapp Wiki Loves Monuments Italia - desktop version in 2025 | Images from Wiki Loves Monuments 2025 | Images from Wiki Loves Monuments 2025 in Italy | Images from Wiki Loves Monuments 2025 in Italy - Umbria | Images from Wiki Loves Monuments 2025 in Italy - Umbria - traditional contest | Images from Wiki
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/cascia_inf	1536x2048	CC BY-SA 3.0	Mentnafunangann	File:Basilica inferiore di Santa Rita 3.JPG
-   DESC: Basilica inferiore
-   CATS: Basilica inferiore (Cascia) | CC-BY-SA-3.0 | Self-published work | Taken with Nikon Coolpix 5600
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/sokolka1	6000x4000	CC BY-SA 4.0	Sylwpak	File:Kaplica Matki Bożej Różańcowej z cudownie przemienioną cząstką Ciała Pańskiego.jpg
-   DESC: Wnętrze kościoła św. Antoniego w Sokółce
-   CATS: CC-BY-SA-4.0 | Saint Anthony of Padua church in Sokółka (interior) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/sokolka2	6000x4000	CC BY-SA 4.0	Sylwpak	File:Kaplica Matki Bożej Różańcowej z cudownie przemienioną cząstką Ciała Pańskiego 1.jpg
-   DESC: Wnętrze kościoła św. Antoniego w Sokółce
-   CATS: CC-BY-SA-4.0 | Saint Anthony of Padua church in Sokółka (altars) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/sokolka3	4000x6000	CC BY-SA 4.0	Sylwpak	File:Kaplica Matki Bożej Różańcowej z cudownie przemienioną cząstką Ciała Pańskiego 2.jpg
-   DESC: Wnętrze kościoła św. Antoniego w Sokółce
-   CATS: CC-BY-SA-4.0 | Saint Anthony of Padua church in Sokółka (altars) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/bsas	1763x2204	CC BY-SA 4.0	Nicolasrnphoto	File:ParroquiaSantaMaria Caballito BsAs.jpg
-   DESC: Parroquia Santa María - Caballito - Buenos Aires - Argentina.
-   CATS: CC-BY-SA-4.0 | Parroquias de Argentina | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/tixtla	2736x3648	CC BY-SA 4.0	Kelbraer	File:Iglesia de San Martín de Tixtla, Guerrero, México.jpg
-   DESC: Vor der Kirche San Martín im Zentrum Tixtlas, Guerrero
-   CATS: CC-BY-SA-4.0 | Self-published work | Tixtla, Kirche
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/tixtla_fl	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073223918).jpg
+OK	fr/tix_9073224932	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073224932).jpg
+   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='nofollow'&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href='http://www.catedraleseiglesias.com' data-
+   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/tix_9070997191	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070997191).jpg
+   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='nofollow'&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href='http://www.catedraleseiglesias.com' data-
+   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/tix_9073202656	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073202656).jpg
    DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollow"&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href="http://www.catedraleseiglesias.com" rel="nofollo
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/betania2	9000x12000	CC0	Warairarepano&amp;Guaicaipuro	File:Santuario de la Virgen de Betania Miranda Venezuela (2).jpg
-   DESC: Santuario de la Virgen de Betania Miranda Venezuela
-   CATS: CC-Zero | Santuario de la Virgen de Betania | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/betania1	3000x3000	CC0	Warairarepano&amp;Guaicaipuro	File:Santuario de la Virgen de Betania Miranda Venezuela (1).jpg
-   DESC: Santuario de la Virgen de Betania Miranda Venezuela
-   CATS: CC-Zero | Santuario de la Virgen de Betania | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/betania_ig	2576x1920	CC BY-SA 3.0	María Auxiliadora Ramírez Prato	File:Iglesia del Santuario de la Virgen de Betania.jpg
-   DESC: Iglesia donde se celebran las misas en el Santuario de Betania, edo. Miranda.
-   CATS: CC-BY-SA-3.0 | Images from Wikiviajes por Venezuela 2014 | Images with extracted images | Santuario de la Virgen de Betania | Self-published work | Wikiviajes por Venezuela 2014
+OK	fr/tix_9070976957	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070976957).jpg
+   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='nofollow'&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href='http://www.catedraleseiglesias.com' data-
+   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/tix_9073200482	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073200482).jpg
+   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollow"&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href="http://www.catedraleseiglesias.com" rel="nofollo
+   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/tix_9073204546	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073204546).jpg
+   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='nofollow'&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href='http://www.catedraleseiglesias.com' data-
+   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/tix_9073208454	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073208454).jpg
+   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='nofollow'&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href='http://www.catedraleseiglesias.com' data-
+   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/tix_9070980979	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070980979).jpg
+   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollow"&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href="http://www.catedraleseiglesias.com" rel="nofollo
+   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/tix_9073213674	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073213674).jpg
+   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href="http://www.facebook.com/catedralesiglesias" rel="nofollow"&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href="http://www.catedraleseiglesias.com" rel="nofollo
+   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/tix_9071000167	1036x695	CC BY 2.0	Catedrales e Iglesias/Cathedrals and Chu	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9071000167).jpg
+   DESC: Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='nofollow'&gt;www.facebook.com/catedralesiglesias&lt;/a&gt; © Álbum 0065 By Catedrales e Iglesias By Cathedrals and Churches By Catedrais e Igrejas Par Cathédrales et Eglises Diócesis de Chilpancingo-Chilapa &lt;a href='http://www.catedraleseiglesias.com' data-
+   CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Parroquia San Martín de Tours, Tixtla de Guerrero
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/big_santarem2	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Milagre Eucarístico de Santarém 2.png
+   DESC: Eucharistic Miracle of Santarém‎
+   CATS: CC-BY-3.0 | Eucharistic miracle of Santarém | Media from YouTube
+   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
+OK	fr/big_santarem5	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Milagre Eucarístico de Santarém 5.png
+   DESC: Eucharistic Miracle of Santarém
+   CATS: CC-BY-3.0 | Eucharistic miracle of Santarém | Media from YouTube
+   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
+OK	fr/big_santarem4	1366x768	CC BY 3.0	Arquidiocese de Braga	File:Milagre Eucarístico de Santarém 4.png
+   DESC: Eucharistic Miracle of Santarém‎
+   CATS: CC-BY-3.0 | Eucharistic miracle of Santarém | Media from YouTube
+   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
+OK	fr/big_bolsena_teca	2560x1920	CC BY-SA 3.0	Davide Papalini	File:Bolsena-chiesa santa cristina-teca sangue.jpg
+   DESC: Basilica di Santa Cristina, Bolsena, Lazio, Italia
+   CATS: Altar relics of Bolsena | CC-BY-SA-3.0 | Chapel of the Miracle (Bolsena) | Taken with Panasonic Lumix DMC-FZ18 | User:Dapa19
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/betania_s1	4320x3240	CC BY-SA 3.0	Valentino58	File:Santuario Virgen de Betania 1.JPG
-   DESC: Santuario Virgen de Betania, Cua, Edo. Miranda, Venezuela
-   CATS: CC-BY-SA-3.0 | Images from Wikiviajes por Venezuela 2014 | November 2013 Venezuela photographs | Nuestra Señora de Betania | Photographs taken on 2013-11-24 | Santuario de la Virgen de Betania | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/mon_quebec	8027x5367	CC0	Wilfredor	File:Monstrance de la basilique-cathédrale Notre-Dame de Québec 37.jpg
-   DESC: Monstrance de la basilique-cathédrale Notre-Dame de Québec
-   CATS: CC-Zero | Images of Basilique-cathédrale Notre-Dame de Québec from Discovery of our ancestral heritage Project | Images of Canada by User:Wilfredor | Intérieur de la basilique-cathédrale Notre-Dame de Québec | Media created with Nikon Z7ii provided by the Quebec WikiClub | Media created with Nikon Z7ii provided by the Quebec WikiClub in 2021 | Monstrances | Photographs of Basilique-cathédrale Notre-Dame de Québec by Wilfredor | Self-published work | WikiClub Québec: Registre des églises et objet
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/mon_ador	1944x2592	CC BY-SA 3.0	PerfectUnityOrg	File:Eucharistic Adoration - Monstrance.jpg
-   DESC: Eucharistic Adoration - in a monstrance
-   CATS: CC-BY-SA-3.0 | Eucharist | Eucharistic adoration | Monstrances | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/mon_badalona	4032x3024	CC BY-SA 4.0	Mavico82	File:Capilla Adoración Perpetua Parroquia San Sebastian Badalona..jpg
-   DESC: Monstranz der Kapelle der Ewigen Anbetung Pfarrei San Sebastian Badalona.
-   CATS: Adoración Perpetua, Parroquia San Sebastián (Badalona) | CC-BY-SA-4.0 | Churches in Badalona | Self-published work
+OK	fr/big_lanciano_vivo	1179x1536	Public domain	Junior	File:Miracolo Eucaristico di Lanciano - foto dal vivo.JPG
+   DESC: Eucharistic miracle of Lanciano - live photo.JPG Photo taken by me, with flash, as I passed in front of the blind. More photo details by clicking on file properties.
+   CATS: Eucharistic miracle of Lanciano | Monstrances in Italy | PD-self | Self-published work
+   LICURL:  USAGE: Public domain
+OK	fr/big_orvieto_ost	1944x2896	Public domain	RoyFokker	File:ORVIETO ostensorio del corporal y de la hostia del milagro eucarístico.jpg
+   DESC: Ostensorio del corporal y de la hostia del milagro eucarístico
+   CATS: Corporal of Bolsena | PD-self | Self-published work | Taken with Nikon D80
+   LICURL:  USAGE: Public domain
+OK	fr/big_sokolka2	6000x4000	CC BY-SA 4.0	Sylwpak	File:Kaplica Matki Bożej Różańcowej z cudownie przemienioną cząstką Ciała Pańskiego 1.jpg
+   DESC: Wnętrze kościoła św. Antoniego w Sokółce
+   CATS: CC-BY-SA-4.0 | Saint Anthony of Padua church in Sokółka (altars) | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/mon_sp1942	3975x2678	CC BY-SA 4.0	Wilfredor	File:Cálice, Patena e Colherinha.jpg
-   DESC: * Ostensório, Cálice, Patena e Colherinha Conjunto do IV Congresso Eucarístico Nacional de 1942 em São Paulo Projeto: Eng. Prof. Cleto Luzzi Roma / Itália Execução: Abramo Eberie &amp; Cia e Eberie, Kochenborgen &amp; Cia Caxias do Sul / RS Os elementos simbólicos cinzelados na peça ressaltam, sobretudo as caracteristicas de Jesus na Eucaristia: Rei,Redentor e Alimento da Alma Data: 1942 Materiais
-   CATS: CC-BY-SA-4.0 | Collections of the Museu de Arte Sacra de São Paulo | Featured pictures by User:Wilfredor | Featured pictures of Brazil by User:Wilfredor | Featured pictures of São Paulo | Featured pictures of objects | Featured pictures on Wikimedia Commons | Gold objects in Brazil | Monstrances in Brazil | Museu de Arte Sacra de São Paulo by Wilfredor | Objects with diamonds | Photographs of São Paulo by Wilfredor | Pictures of the day (2024) | Quality images | Quality images by Wilfredor | Qua
+OK	fr/big_sokolka3	4000x6000	CC BY-SA 4.0	Sylwpak	File:Kaplica Matki Bożej Różańcowej z cudownie przemienioną cząstką Ciała Pańskiego 2.jpg
+   DESC: Wnętrze kościoła św. Antoniego w Sokółce
+   CATS: CC-BY-SA-4.0 | Saint Anthony of Padua church in Sokółka (altars) | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/acutis_tomba	4618x3464	CC BY-SA 4.0	Dulceridentem	File:Tomba Carlo Acutis.jpg
-   DESC: Tomba di Carlo Acutis nella chiesa di Santa Maria Maggiore ad Assisi
-   CATS: CC-BY-SA-4.0 | Corpses of children | De minimis | Dead people in coffins | Files with coordinates missing SDC location of creation | Relics of Carlo Acutis | Santa Maria Maggiore (Assisi) | Santa Maria Maggiore (Assisi) - Interior | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/acutis_keno	3906x1985	CC BY-SA 4.0	Dobroš	File:Kenotaf Carla Acutis.jpg
-   DESC: Body of Carlo Acutis displayed in a glass-fronted tomb; Santa Maria Maggiore church in Assisi, southern nave (2020)
-   CATS: 2020 in Umbria | CC-BY-SA-4.0 | Cenotaphs | Corpses of children | Dead people in coffins | Relics of Carlo Acutis | Santa Maria Maggiore (Assisi) - Interior | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/lourdes1	4000x2677	CC BY-SA 3.0	Dinh Nguyen	File:Grotte de Massabielle.JPG
-   DESC: La Grotte de Lourdes
-   CATS: Base Mérimée | CC-BY-SA-3.0 | Cultural heritage monuments in France with known IDs | Grotte de Massabielle | Images from Wiki Loves Monuments 2012 | Images from Wiki Loves Monuments 2012 in France | Monuments historiques inscrits | Mérimée with PA parameter | Self-published work | Taken with Panasonic DMC-FX100
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/lourdes2	3864x5152	CC BY-SA 4.0	Thomon	File:Grotte de Massabielle 2019.jpg
-   DESC: Vue de la grotte de Massabielle.
-   CATS: CC-BY-SA-4.0 | Grotte de Massabielle | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/lourdes3	5184x3456	CC BY-SA 2.0	Pedro Pablo	File:Grotto of Massabielle in Lourdes at night.jpg
-   DESC: Grotto of Massabielle in the Sanctuary of Our Lady of Lourdes at night
-   CATS: CC-BY-SA-2.0 | Flickr images reviewed by FlickreviewR 2 | Surroundings of the Grotto of Massabielle
-   LICURL: https://creativecommons.org/licenses/by-sa/2.0 USAGE: Creative Commons Attribution-Share Alike 2.0
-OK	fr/lourdes4	3864x5152	CC BY-SA 4.0	Thomon	File:Grotte de Lourdes nuit.jpg
-   DESC: La grotte de Massabielle la nuit.
-   CATS: CC-BY-SA-4.0 | Grotte de Massabielle | Night in Lourdes | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/lourdes5	4272x2848	CC BY-SA 4.0	Poudou99	File:Lourdes IMG 9315.JPG
-   DESC: Massabiel cave / Lourdes - Hautes-Pyrénées - France
-   CATS: CC-BY-SA-4.0 | Files uploaded by Poudou99 | Grotte de Massabielle
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/apar_img	3264x2448	CC BY-SA 3.0	Juliana Bastos Marques	File:Imagem Aparecida.JPG
-   DESC: Acesso à imagem original de Nossa Senhora Aparecida, em sua Basílica.
-   CATS: CC-BY-SA-3.0 | Self-published work | Statue of Our Lady Aparecida | Taken with iPhone 4S
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/apar_orig	2592x1936	CC BY-SA 3.0	Claudio Oliveira Lim…	File:Imagem original aparecida no Rio Paraíba do Sul em 12 de outubro de 1717 - panoramio.jpg
+OK	fr/big_apar_orig	2592x1936	CC BY-SA 3.0	Claudio Oliveira Lim…	File:Imagem original aparecida no Rio Paraíba do Sul em 12 de outubro de 1717 - panoramio.jpg
    DESC: Imagem original aparecida no Rio Paraíba do Sul em 12 de outubro de 1717 *
    CATS: Brazil photographs taken on 2011-10-17 | CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | Panoramio files uploaded by Panoramio upload bot | Panoramio images reviewed by trusted users | Passarela da Fé | Photos from Panoramio | Photos from Panoramio ID 632893
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/apar_exp	2048x1943	CC BY-SA 3.0	Daniel Nonato	File:A Imagem de N. Sra. Aparecida exposta na Basilica nacional - Os peregrino levam até duas horas na fila para passar proximo da mesma. - panoramio.jpg
-   DESC: A Imagem de N. Sra. Aparecida exposta na Basilica nacional / Os peregrino levam até duas horas na fila para passar proximo da mesma.
-   CATS: Aparecida (São Paulo) | Brazil photographs taken on 2012-04-17 | CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | Panoramio files uploaded by Panoramio upload bot | Panoramio images reviewed by trusted users | Photos from Panoramio
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/apar_bas	3999x2666	CC BY 3.0	HVL	File:Vista da Basílica de Nossa Senhora Aparecida, Aparecida SP.JPG
-   DESC: View of the Basilica of the National Shrine of Our Lady of Aparecida, in Aparecida, São Paulo, Brazil.
-   CATS: Basilica of Our Lady of Aparecida, north facade | Brazil photographs taken on 2011-12-13 | CC-BY-3.0 | Churches in Brazil photographed in 2011 | Passarela da Fé | Remote views of the Basilica of Our Lady of Aparecida | Self-published work | Taken with Sony DSC-W310
-   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/bac1	3348x5472	CC BY 2.0	Guilhem Vellut from Paris, France	File:Chapelle de la Médaille Miraculeuse, Paris 11 February 2017.jpg
-   DESC: Chapelle de la Médaille Miraculeuse @ Paris
-   CATS: CC-BY-2.0 | Chapelle Notre-Dame de la Médaille Miraculeuse | Flickr images reviewed by FlickreviewR | Paris photographs taken on 2017-02-11 | Uploaded by Paris 16
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/bac2	3648x2736	CC BY 2.0	jean-louis Zimmermann from Moulins, FRAN	File:Chapelle de la rue du Bac 2009-08-07 n1.jpg
-   DESC: chapelle de la rue du Bac (PARIS,FR75)
-   CATS: CC-BY-2.0 | Chapelle Notre-Dame de la Médaille Miraculeuse | Flickr images reviewed by File Upload Bot (Magnus Manske) | Taken with Panasonic Lumix DMC-LX3
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/bac3	5472x3648	CC BY 2.0	Guilhem Vellut from Paris, France	File:Chapelle de la Médaille Miraculeuse @ Paris (32963930613).jpg
+OK	fr/big_bac3	5472x3648	CC BY 2.0	Guilhem Vellut from Paris, France	File:Chapelle de la Médaille Miraculeuse @ Paris (32963930613).jpg
    DESC: Chapelle de la Médaille Miraculeuse @ Paris
    CATS: CC-BY-2.0 | Files from Guilhem Vellut Flickr stream | Flickr images reviewed by FlickreviewR | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Paris photographs taken on 2017-04-01 | Uploaded by Paris 16
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/medal4	3388x2794	CC0	HelgeRieder	File:Miraculous medal (4).jpg
-   DESC: The miraculous medal, which was designed on the basis of an apparition of the Virgin Mary in 1830 by the Catholic nun Catherine Labouré. With German inscription.
-   CATS: Adrien Jean Maximilien Vachette | CC-Zero | Marian cross | Medals of France | Medals of Germany | Miraculous Medal | Roscheider Hof - Religious Art | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/medal3	4025x3448	CC0	HelgeRieder	File:Miraculous medal (3).jpg
-   DESC: The miraculous medal, which was designed on the basis of an apparition of the Virgin Mary in 1830 by the Catholic nun Catherine Labouré. With German inscription.
-   CATS: Adrien Jean Maximilien Vachette | CC-Zero | Marian cross | Medals of France | Medals of Germany | Miraculous Medal | Roscheider Hof - Religious Art | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/medj1	2048x1536	Public domain	Mariusz Musiał	File:Međugorje St.James Church.jpg
-   DESC: St. James Church in Međugorje.
-   CATS: PD-self | Self-published work | St. Jacob church in Međugorje | Taken with Sony DSC-T9
-   LICURL:  USAGE: Public domain
-OK	fr/medj2	4310x2868	CC BY 2.0	gnuckx	File:Saint James Church (St. Jakov) Medjugorje - Hotel Pansion Porta - Bosnia Herzegovina - Creative Commons by gnuckx (4694723725).jpg
-   DESC: St. Jacob church in Međugorje, Bosnia.
-   CATS: CC-BY-2.0 | Files from gnuckx Flickr stream | Files with coordinates missing SDC location of creation | Flickr images reviewed by File Upload Bot (Magnus Manske) | Media needing category review as of 15 April 2016 | St. Jacob church in Međugorje | Taken with Nikon D5000
-   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/salette1	3480x5256	CC0	Vassil	File:Sanctuaire de Notre-Dame de la Salette 24072017 1.jpg
-   DESC: Basilique Notre-Dame de la Salette, vue d'ensemble du sanctuaire.
-   CATS: CC-Zero | Sanctuaire de Notre-Dame de La Salette (La Salette) | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/salette2	6000x4000	CC BY-SA 4.0	Tylwyth Eldar	File:Sanctuaire de Notre-Dame de La Salette 01.jpg
-   DESC: Sanctuaire de Notre-Dame de La Salette
-   CATS: CC-BY-SA-4.0 | Photographs by Tylwyth Eldar - Isère | Sanctuaire de Notre-Dame de La Salette (La Salette) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/knock1	4035x3163	CC BY-SA 4.0	KnockShrine	File:Apparition Chapel with Stained Window.jpg
-   DESC: The Apparition Chapel at Knock Shrine, Co Mayo, Ireland
-   CATS: Apparition Chapel (Knock) | CC-BY-SA-4.0 | Our Lady of Knock | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/banneux	2592x1944	CC BY-SA 3.0	Johfrael	File:Banneux Maagd der armen.jpg
-   DESC: The statue and source of Mary Virgin of the poor at Banneux
-   CATS: 2009 in Sprimont | CC-BY-SA-3.0,2.5,2.0,1.0 | Fountains in Sprimont | GFDL | June 2009 in Belgium | License migration redundant | Our Lady of Banneux | Sanctuaire Notre-Dame de Banneux | Sculptures in Sprimont | Self-published work | Statues of Virgin Mary in Belgium | Taken with Nokia N95 | Wayside shrines in Sprimont
+OK	fr/big_siena_est1	2325x3384	CC BY 3.0	Sailko	File:Cappella estiva delle sacre particole, del marrina, 1504 (rifatta nel xix secolo, tranne il pavimento) 01.jpg
+   DESC: Basilica of San Francesco (Siena)
+   CATS: All media supported by Wikimedia CH | CC-BY-3.0 | Il Marrina | Images by Sailko - Supported by Wikimedia CH | Interior of the Basilica of San Francesco (Siena) | Photographs by User:Sailko | Photographs of decorative arts by User:Sailko - Church elements - Altars | Self-published work
+   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
+OK	fr/big_betania_s1	4320x3240	CC BY-SA 3.0	Valentino58	File:Santuario Virgen de Betania 1.JPG
+   DESC: Santuario Virgen de Betania, Cua, Edo. Miranda, Venezuela
+   CATS: CC-BY-SA-3.0 | Images from Wikiviajes por Venezuela 2014 | November 2013 Venezuela photographs | Nuestra Señora de Betania | Photographs taken on 2013-11-24 | Santuario de la Virgen de Betania | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-### Chirattakonam Kerala
-### Chirattakonam St Thomas
-### Syro-Malankara church Thiruvananthapuram eucharistic
-### Tixtla
-1100x850	CC BY-SA 3.0	File:Tixtla de Guerrero.png	| Locator map of the municipality of Tixtla de Guerrero, in Guerrero state, southwestern Mexico. Tixtla is the town seat of Tixtla de Guerrero
-5456x3632	CC BY 3.0	File:Tixtla - panoramio.jpg	| Tixtla
-5017x3340	CC BY 3.0	File:Tixtla busstop - panoramio.jpg	| Tixtla busstop
-3632x5456	CC BY 3.0	File:Missing poster in Tixtla - panoramio.jpg	| Missing poster in Tixtla
-5456x3632	CC BY 3.0	File:Tixtla view - panoramio.jpg	| Tixtla view
-3632x5456	CC BY 3.0	File:Tixtla houses - panoramio.jpg	| Tixtla houses
-5456x3632	CC BY 3.0	File:Tixtla houses - panoramio (1).jpg	| Tixtla houses
-3632x5456	CC BY 3.0	File:Tixtla shop - panoramio.jpg	| Tixtla shop
-5456x3632	CC BY 3.0	File:Tixtla view - panoramio (1).jpg	| Tixtla view
-3264x2448	CC BY 3.0	File:Tixtla cowboy - panoramio.jpg	| Tixtla cowboy
-5456x3632	CC BY 3.0	File:Tixtla houses - panoramio (2).jpg	| Tixtla houses
-3264x2448	CC BY 3.0	File:Tixtla cowboy - panoramio (1).jpg	| Tixtla cowboy
-3264x2448	CC BY 3.0	File:Tixtla cowboy - panoramio (2).jpg	| Tixtla cowboy
-3072x4608	CC BY-SA 4.0	File:Tlacololero en Tixtla.jpg	| La danza de los Tlacololeros se celebra en todo el estado de Guerrero. Se trata de una tradición relacionada con la siembra y cosecha de cul
-3072x4608	CC BY-SA 4.0	File:Tlacololeros en Tixtla.jpg	| La danza de los Tlacololeros se celebra en todo el estado de Guerrero. Se trata de una tradición relacionada con la siembra y cosecha de cul
-3024x4032	CC BY-SA 4.0	File:Abrazo chusco entre Don Manuel y su vieja. Tixtla, Guerrero.jpg	| La Virgen de la Natividad tiene dos fechas a celebrar en Tixtla. Una es el 8 de septiembre, por su nacimiento; se acostumbra por ello, organ
-3648x2736	CC BY-SA 4.0	File:Palacio Municipal de Tixtla de Guerrero.jpg	| Der Regierungssitz des Municipios von Tixtla de Guerrero, praktisch das Rathaus der Stadt und seiner Umgebung.
-1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073224932).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
-1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070997191).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
-1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9070976957).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
-1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9073208454).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
-1036x695	CC BY 2.0	File:Parroquia San Martín de Tours,Tixtla,Estado de Guerrero,México (9071000167).jpg	| Fotos Nuevas Junio 2013 Visita la Pagina Facebook y da clik en me gusta &lt;a href='http://www.facebook.com/catedralesiglesias' data-x-rel='
-### Tixtla San Martín de Tours interior
-1227x1827	Public domain	File:Picturesque Mexico (IA picturesquemexic00wrig).pdf	| Subjects:
-### Avenida La Plata Buenos Aires iglesia
-1239x1752	CC BY-SA 3.0	File:Mi Comuna 4 Ciudad de Buenos Aires Argentina.pdf	| La Comuna 4 de la Ciudad Autónoma de Buenos Aires
-2770x4098	CC BY-SA 2.5 ar	File:Espacio tecnológico, población y reproducción social en el sector hortícola de La Plata.djvu	| Monografía Nro. 39 de la Serie Estudios-Investigaciones (editada por la Facultad de Humanidades y Ciencias de la Educación de la Universidad
-2769x4110	CC BY-SA 2.5 ar	File:Iglesia, sociedad y economía colonial.djvu	| Monografía Nro. 22 de la Serie Estudios-Investigaciones (editada por la Facultad de Humanidades y Ciencias de la Educación de la Universidad
-1751x2495	Public domain	File:Buenos Aires desde setenta años atrás.djvu	| Buenos Aires desde setenta años atrás
-1175x1825	Public domain	File:Memorias MinGob Provincia de Buenos Aires 1955.pdf	| 
-1597x1958	Public domain	File:Memorias MOPBA 1932-1933 (Tomo 2).pdf	| 
-1352x2020	Public domain	File:Memorias MOPBA 1933 (Tomo 2).pdf	| 
-2378x3679	Public domain	File:Colección de obras y documentos relativos a la historia antigua y moderna de las provincias del Río de la Plata (Tomo III).djvu	| Contiene: Descripción geográfica y estadística de la provincia de Santa Cruz de la Sierra / por D. Francisco de Viedma... -- Fundación de la
-1200x1600	CC BY-SA 4.0	File:Avenida La Plata, Iglesia de Lourdes.jpg	| Foto de la Iglesia de Lourdes, en una de las calles principales de Santos Lugares, Avenida La Plata
-1000x1441	Public domain	File:Mensajes de apertura - seguidos de un apéndice que conteine otros varios documentos (IA mensajesdeapertu00arge).pdf	| Subjects:
-1327x1906	Public domain	File:Una mujer de teatro - comedia dramática en tres actos (IA unamujerdeteatro00pead).pdf	| [32] p. ; 19 cm "Bambalinas, no. 169." Caption title No. 16, in vol. 607 with binder's title: Teatro Español : serie A Subjects:
-1210x1820	Public domain	File:Guía ilustrada de Buenos Aires para el viajero en la República Argentina.pdf	| 
-### Iglesia Santa María Caballito
-2544x1963	CC BY-SA 3.0 cl	File:ECH 2985 7 - Criollismo literario y musical.djvu	| Article of the category Folklore from the Enciclopedia Chilena project, done by the Chilean Library of Congress
-1556x2663	Public domain	File:La noche de la verbena.djvu	| djvu of La noche de la verbena.
-1239x1752	CC BY-SA 3.0	File:Mi Comuna 4 Ciudad de Buenos Aires Argentina.pdf	| La Comuna 4 de la Ciudad Autónoma de Buenos Aires
-2137x2802	Public domain	File:Rega Molina Retablo.djvu	| Mary Rega Molina. Retablo. Buenos Aires, 1934
-1018x1768	Public domain	File:El teniente cura - juguete cómico en un acto y en prosa (IA eltenientecuraju00gily).pdf	| 30 pages ; 19 cm No. 12, in vol. 110 with binder's title: Teatro Español Borrás Subjects:
-1164x1918	Public domain	File:La borrica - zarzuela en cuatro cuadros, en prosa (IA laborricazarzuel00torr).pdf	| 44 p. ; 21 cm Imprint on cover: Madrid : Sociedad de Autores Españoles, 1908 No. 17, in vol. 53 with binder's title: Teatro Español Borrás S
-1191x1929	Public domain	File:La vida es un soplo - revista fantástica en un acto, dividido en cuatro cuadros, en prosa y verso (IA lavidaesunsoplor00snch).pdf	| 42 pages ; 20 cm Imprint on cover: Madrid : Sociedad de Autores Españoles, 1917 No. 4, in vol. 93 with binder's title: Teatro Español Borrás
-1137x1935	Public domain	File:Marta y María - drama en cinco actos (IA martaymaradramae00anic).pdf	| 80 p. ; 20 cm Subjects:
-1577x2075	Public domain	File:Diccionario gallego-castellano 1913.pdf	| Diccionario gallego-castellano
-1239x1752	CC BY-SA 4.0	File:Reseña del Municipio de Gualaco 2023.pdf	| Aquí encontraras la información mas relevante del municipio de Gualaco.
-1531x1093	Public domain	File:Viajes por Filipinas - bdh0000187021.pdf	| 385 p.; 18 cm
-### Cascia Santa Rita Corpus Domini cappella
-1304x1806	Public domain	File:Il buon cuore - Anno IX, n. 21 - 21 maggio 1910.pdf	| 
-### Santarém custódia milagre
-1116x1587	Public domain	File:Boletim de architectura e de archeologia da Real Associação dos Architectos Civis e Archéologos Portuguezes (IA boletimdearchite07asso).pdf	| T. 1-13, 1874-1921, issued in Arqueologia e historia, v. 2, p. 5-51. (Includes later title.) Sloan candidate Subjects: Architecture; Archaeo
-1010x1435	Public domain	File:Portugal antigo e moderno diccionario geographico, estatistico, chorographico, heraldico, archeologico, historico, biographico e etymologico de todas as cidades (IA gri 33125005925298).pdf	| Vol. 12 is continued by Pedro Augusto Ferreira Subjects:
-### Santo Estêvão Santarém altar
-1275x2154	Public domain	File:Exploração e estudo do valle do Amazonas - Rio Tapajós.pdf	| 
-1239x1475	CC BY 4.0	File:Relíquias sagradas e a construção do território cristão na Idade Moderna, Anais do Museu Paulista.pdf	| 
-1252x1737	Public domain	File:Breve noticia sobre o descobrimento da America (IA brevenoticiasobr00teix).pdf	| With this is bound as issued the author's Catalogo dos objetos de arte e industria dos indigenas da America ... Lisboa, 1892 Subjects:
-1012x1416	Public domain	File:Portugal antigo e moderno diccionario geographico, estatistico, chorographico, heraldico, archeologico, historico, biographico e etymologico de todas as cidades (IA gri 33125005925413).pdf	| Vol. 12 is continued by Pedro Augusto Ferreira Subjects:
-1025x1425	Public domain	File:Portugal antigo e moderno diccionario geographico, estatistico, chorographico, heraldico, archeologico, historico, biographico e etymologico de todas as cidades (IA gri 33125005925652).pdf	| Vol. 12 is continued by Pedro Augusto Ferreira Subjects:
-2057x3027	Public domain	File:O romance do romancista, vida de Camillo Castello Branco (1890).djvu	| 
-3339x4404	Public domain	File:O Cruzeiro (RJ) 1878-07-30.pdf	| Fascículo do jornal "O Cruzeiro"
-### Betania Cúa capilla
-### Sokółka relikwiarz cud
+### Chirattakonam
+### Kerala eucharistic miracle
+### St. Mary Church Chirattakonam
+### Syro-Malankara Catholic Church Thiruvananthapuram
+1304x2882	CC BY-SA 3.0	File:Baselios Cleemis Thottunkal 20141005.jpg	| Major Archbishop Baselios Cleemis Cardinal Thottunkal attending a Papal mass in Saint Peter's Basilica, Vatican City.
