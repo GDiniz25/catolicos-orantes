@@ -29,12 +29,19 @@ def fazer(it):
             open(p, 'wb').write(base64.b64decode(re.sub(r'\s', '', b)))
             # converte para PNG em escala de cinza e limita o tamanho (alguns JPEG CMYK ou enormes falham no tesseract)
             q = p.replace('.jpg', '.png')
-            conv = subprocess.run(['convert', p, '-colorspace', 'Gray', '-resize', '3000x3000>', q], capture_output=True, text=True)
+            from PIL import Image
+            Image.MAX_IMAGE_PIXELS = None
+            try:
+                im = Image.open(p).convert('L')
+                im.thumbnail((3200, 3200))
+                im.save(q)
+                conv_err = f'{im.size}'
+            except Exception as e:
+                conv_err = str(e)
             r = subprocess.run(['tesseract', q if os.path.exists(q) else p, '-', '-l', 'por+ita', '--psm', '3'], capture_output=True, text=True)
             out = r.stdout
             if len(out.strip()) < 50:
-                info = subprocess.run(['identify', p], capture_output=True, text=True)
-                out += f'\n[OCR VAZIO] identify: {info.stdout.strip()} {info.stderr.strip()[:200]} conv: {conv.stderr.strip()[:200]} tess: {r.stderr.strip()[:300]}'
+                out += f'\n[OCR VAZIO] bytes: {os.path.getsize(p)} conv: {conv_err[:200]} tess: {r.stderr.strip()[:300]}'
             textos.append(out)
         if not imgs:
             textos.append('SEM IMAGEM EMBUTIDA. Links de imagem: ' + ' '.join(re.findall(r'src="([^"]+)"', h)[:10]))
