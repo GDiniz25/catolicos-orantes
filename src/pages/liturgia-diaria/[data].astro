@@ -36,8 +36,8 @@ const tom = tomLiturgico(corKey);
 
 const celebracaoDia = celebracaoDaLiturgia(liturgia);
 const dataSemSemana = dataLonga.replace(/^\S+, /, '').replace(/ de ([A-ZÇ])/g, (m) => m.toLowerCase());
-const title = `Liturgia diária ${dataSemSemana}: ${celebracaoDia ? celebracaoDia.replace(/, (Memória|Festa|Solenidade)$/i, '') : 'leituras e Evangelho'}`.slice(0, 95);
-const description = clampText(`Leituras da Missa de ${dataLonga}: ${leituras.join('; ') || liturgia.title}.`, 158);
+const title = `Liturgia diária ${dataSemSemana}: ${celebracaoDia ? celebracaoDia.split(',')[0] : 'leituras e Evangelho'}`;
+const description = clampText(`Leituras da Missa de ${dataSemSemana}: ${leituras.join('; ') || liturgia.title}.`, 158);
 
 const crumbs = [
   { name: 'Início', path: '/' },

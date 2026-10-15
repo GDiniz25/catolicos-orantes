@@ -27,9 +27,9 @@ const initial: LiturgiaView | null = raw
 const tom = tomLiturgico(corDaLiturgia(raw) ?? infoDoDia(today).tempo.cor);
 const celebracaoHoje = raw ? celebracaoDaLiturgia(raw) : null;
 const dataTitulo = formattedDate.replace(/ de \d{4}$/, '').replace(/ de ([A-ZÇ])/g, (m) => m.toLowerCase()).replace(/^([A-ZÇ])/, (m) => m.toLowerCase());
-const title = `Liturgia diária de hoje, ${dataTitulo}: ${celebracaoHoje ? celebracaoHoje.replace(/, (Memória|Festa|Solenidade)$/i, '') : 'leituras e Evangelho'}`.slice(0, 95);
+const title = `Liturgia diária de hoje, ${dataTitulo}: ${celebracaoHoje ? celebracaoHoje.split(',')[0] : 'leituras e Evangelho'}`;
 const leiturasTxt = initial?.leituras.length ? ` ${initial.leituras.slice(0, 3).join('; ')}.` : '';
-const description = `Leituras da liturgia católica de ${formattedDate}: primeira leitura, salmo e evangelho (CNBB).${leiturasTxt}`.slice(0, 160);
+const description = `Leituras da liturgia católica de ${dataTitulo}: primeira leitura, salmo e evangelho (CNBB).${leiturasTxt}`.slice(0, 160);
 
 const crumbs = [
   { name: 'Início', path: '/' },

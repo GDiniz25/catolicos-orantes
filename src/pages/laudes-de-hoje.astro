@@ -25,7 +25,7 @@ const semanaTxt = o.semana ? `Semana ${ROMANO[o.semana]} do saltério` : 'Ofíci
 const nomeDia = dia.celebracao ?? o.rotulo;
 
 const title = `Laudes de hoje: salmos e semana do saltério (${dataExtenso.replace(/^[^,]+, /, '').replace(/ de \d{4}$/, '')})`;
-const description = `Laudes de hoje, ${dataExtenso}: ${semanaTxt.toLowerCase()}, salmos e cântico da oração da manhã, Vésperas e Completas, com o roteiro para rezar.`.slice(0, 158);
+const description = `Laudes de hoje, ${dataExtenso}: ${semanaTxt.charAt(0).toLowerCase() + semanaTxt.slice(1)}, salmos e cântico da oração da manhã, Vésperas e Completas, com o roteiro para rezar.`.slice(0, 158);
 const path = '/laudes-de-hoje';
 const crumbs = [
   { name: 'Início', path: '/' },

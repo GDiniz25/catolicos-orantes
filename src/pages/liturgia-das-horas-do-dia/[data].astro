@@ -69,7 +69,7 @@ const nomeDia = celebracao ?? o.rotulo;
 
 const tituloLongo = `Liturgia das Horas de ${extenso}: Laudes, Vésperas e Completas`;
 const title = tituloLongo.length > 70 ? `Liturgia das Horas, ${dataBarra(date)}/${date.slice(0, 4)}: Laudes, Vésperas e Completas` : tituloLongo;
-const description = clampText(`Liturgia das Horas de ${dataComSemana(date)}: ${semanaTxt.toLowerCase()}, salmos de Laudes, Vésperas e Completas e a celebração do dia.`);
+const description = clampText(`Liturgia das Horas de ${dataComSemana(date)}: ${semanaTxt.charAt(0).toLowerCase() + semanaTxt.slice(1)}, salmos de Laudes, Vésperas e Completas e a celebração do dia.`);
 const crumbs = [
   { name: 'Início', path: '/' },
   { name: 'Liturgia das Horas', path: '/liturgia-das-horas' },

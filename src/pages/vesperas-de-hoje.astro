@@ -52,7 +52,7 @@ const nomeDia = dia.celebracao ?? o.rotulo;
 const salmosTxt = v.salmos ? v.salmos.join('; ') : null;
 
 const title = `Vésperas de hoje, ${dataBarra(hoje)}: salmos e oração da tarde`;
-const description = clampText(`Vésperas de hoje, ${dataComSemana(hoje)}: ${semanaTxt.toLowerCase()}, salmos e cântico da oração da tarde, o Magnificat e o roteiro para rezar.`);
+const description = clampText(`Vésperas de hoje, ${dataComSemana(hoje)}: ${semanaTxt.charAt(0).toLowerCase() + semanaTxt.slice(1)}, salmos e cântico da oração da tarde, o Magnificat e o roteiro para rezar.`);
 const path = '/vesperas-de-hoje';
 const crumbs = [
   { name: 'Início', path: '/' },
