@@ -1,4 +1,20 @@
 # Fila de pedidos de indexação no Search Console (10 por dia, na ordem). Gerada em 15/10/2026.
+https://catolicosorantes.com.br/evangelho-de-domingo
+https://catolicosorantes.com.br/liturgia-de-amanha
+https://catolicosorantes.com.br/santo-de-amanha
+https://catolicosorantes.com.br/terco-de-hoje
+https://catolicosorantes.com.br/vesperas-de-hoje
+https://catolicosorantes.com.br/completas-de-hoje
+https://catolicosorantes.com.br/liturgia-para-sites
+https://catolicosorantes.com.br/ladainhas/ladainha-da-humildade
+https://catolicosorantes.com.br/ladainhas/ladainha-do-espirito-santo
+https://catolicosorantes.com.br/ladainhas/ladainha-de-santa-luzia
+https://catolicosorantes.com.br/ladainhas/ladainha-do-santissimo-sacramento
+https://catolicosorantes.com.br/ladainhas/ladainha-da-sagrada-familia
+https://catolicosorantes.com.br/ladainhas/ladainha-do-anjo-da-guarda
+https://catolicosorantes.com.br/ladainhas/ladainha-de-todos-os-santos-texto-completo-e-meditacao
+https://catolicosorantes.com.br/ladainhas/ladainha-de-santo-expedito
+https://catolicosorantes.com.br/ladainhas/ladainha-de-sao-jorge
 https://catolicosorantes.com.br/primeiros-passos/como-se-tornar-catolico
 https://catolicosorantes.com.br/primeiros-passos/como-voltar-para-a-igreja-depois-de-anos
 https://catolicosorantes.com.br/primeiros-passos/quem-pode-comungar
@@ -61,7 +77,6 @@ https://catolicosorantes.com.br/ladainhas/ladainha-de-santa-monica
 https://catolicosorantes.com.br/ladainhas/ladainha-de-santa-rita-de-cassia
 https://catolicosorantes.com.br/ladainhas/ladainha-de-santa-teresinha-do-menino-jesus
 https://catolicosorantes.com.br/ladainhas/ladainha-de-santo-antonio-de-padua
-https://catolicosorantes.com.br/ladainhas/ladainha-de-santo-expedito
 https://catolicosorantes.com.br/ladainhas/ladainha-de-sao-bento
 https://catolicosorantes.com.br/ladainhas/ladainha-de-sao-francisco-de-assis
 https://catolicosorantes.com.br/ladainhas/ladainha-de-sao-joao-paulo-ii
