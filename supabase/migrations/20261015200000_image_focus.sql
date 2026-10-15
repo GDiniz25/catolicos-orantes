@@ -10,3 +10,4 @@ create table if not exists public.image_focus (
 alter table public.image_focus enable row level security;
 create policy "image_focus leitura publica" on public.image_focus for select to anon, authenticated using (true);
 alter table public.image_focus add column if not exists metodo text not null default 'smartcrop';
+alter table public.image_focus add column if not exists foco_smartcrop text;

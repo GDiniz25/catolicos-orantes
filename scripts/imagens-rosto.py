@@ -29,7 +29,7 @@ UA = {'User-Agent': 'CatolicosOrantes/1.0 (contato@catolicosorantes.com.br)'}
 
 linhas, de = [], 0
 while True:
-    r = requests.get(f'{URL}/rest/v1/image_focus?select=url,foco&metodo=eq.smartcrop&order=url',
+    r = requests.get(f'{URL}/rest/v1/image_focus?select=url,foco,foco_smartcrop&metodo=eq.smartcrop&order=url',
                      headers={**H, 'Range': f'{de}-{de + 999}'}, timeout=60)
     r.raise_for_status()
     lote = r.json()
@@ -51,16 +51,25 @@ clamp = lambda v: max(0.0, min(1.0, v))
 
 def rostos(cinza):
     h, w = cinza.shape
-    minimo = max(18, int(min(w, h) * 0.04))
+    # Rostos pequenos demais costumam ser falsos positivos (texturas, dobras de roupa)
+    minimo = max(24, int(min(w, h) * 0.06))
     achados = []
-    for c, viz in ((alt2, 5), (frontal, 6), (perfil, 5)):
-        for (x, y, fw, fh) in c.detectMultiScale(cinza, scaleFactor=1.08, minNeighbors=viz, minSize=(minimo, minimo)):
+    for c, viz in ((alt2, 7), (frontal, 9), (perfil, 8)):
+        for (x, y, fw, fh) in c.detectMultiScale(cinza, scaleFactor=1.1, minNeighbors=viz, minSize=(minimo, minimo)):
             achados.append((x, y, fw, fh))
-    # perfil virado para o outro lado
     espelho = cv2.flip(cinza, 1)
-    for (x, y, fw, fh) in perfil.detectMultiScale(espelho, scaleFactor=1.08, minNeighbors=5, minSize=(minimo, minimo)):
+    for (x, y, fw, fh) in perfil.detectMultiScale(espelho, scaleFactor=1.1, minNeighbors=8, minSize=(minimo, minimo)):
         achados.append((w - x - fw, y, fw, fh))
     return achados
+
+
+def principal(achados, w, h):
+    """O rosto da figura principal: grande e perto do centro na horizontal."""
+    def nota(a):
+        x, y, fw, fh = a
+        dx = abs((x + fw / 2) / w - 0.5)
+        return fw * fh * (1.2 - dx)
+    return max(achados, key=nota)
 
 
 def baixar(linha):
@@ -86,22 +95,21 @@ def processar(linha, conteudo):
             img = cv2.resize(img, (int(w0 * esc), int(h0 * esc)), interpolation=cv2.INTER_AREA)
         img = cv2.equalizeHist(img)
         h, w = img.shape
-        sx, sy = [float(p.strip('%')) / 100 for p in linha['foco'].split()]
+        base = linha.get('foco_smartcrop') or linha['foco']
+        sx, sy = [float(p.strip('%')) / 100 for p in base.split()]
         achados = rostos(img)
         if achados:
-            # o maior rosto entre os de cima (pintura com várias figuras: a principal costuma ser maior)
-            maior = max(fw * fh for (_, _, fw, fh) in achados)
-            cand = [a for a in achados if a[2] * a[3] >= maior * 0.5]
-            x, y, fw, fh = min(cand, key=lambda a: a[1])
+            x, y, fw, fh = principal(achados, w, h)
             cx, cy = (x + fw / 2) / w, (y + fh / 2) / h
             hc = w * 9 / 16  # altura visível num quadro 16:9 de largura cheia
             py = clamp((cy * h - hc / 2) / (h - hc)) if h > hc + 1 else sy
             wc = h  # largura visível num quadro 1:1 de altura cheia
             px = clamp((cx * w - wc / 2) / (w - wc)) if w > wc + 1 else sx
+            px = 0.5 + (px - 0.5) * 0.8  # sem colar na borda
             return url, f'{round(px * 100)}% {round(py * 100)}%', 'rosto'
         if h > w * 1.15:
             return url, f'{round(sx * 100)}% {round(min(sy, 0.2) * 100)}%', 'retrato'
-        return url, linha['foco'], 'smartcrop-ok'
+        return url, base, 'smartcrop-ok'
     except Exception as e:
         return url, None, f'erro: {e}'
 

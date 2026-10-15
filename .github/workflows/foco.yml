@@ -21,6 +21,8 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
       - name: Preparar variáveis
@@ -29,6 +31,10 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           { echo "VITE_SUPABASE_URL=$VITE_SUPABASE_URL"; echo "SUPABASE_SERVICE_ROLE_KEY=$SUPABASE_SERVICE_ROLE_KEY"; } > .env
+      - name: Recalcular o recorte (smartcrop)
+        run: |
+          { npm ci --no-audit --no-fund && npm install --no-save --no-audit --no-fund smartcrop-sharp && node --env-file=.env scripts/imagens-foco.mjs --write --refazer; } > saida-node.txt 2>&1 || { echo "::error::$(tail -c 900 saida-node.txt | tr '\n' ' ')"; exit 1; }
+          echo "::notice::$(tail -c 300 saida-node.txt | tr '\n' ' ')"
       - name: Refinar o foco pelos rostos
         run: |
           { pip install "opencv-python-headless<5" numpy requests && python3 scripts/imagens-rosto.py --write; } > saida.txt 2>&1 || { echo "::error::$(tail -c 900 saida.txt | tr '\n' ' ')"; exit 1; }

@@ -23,7 +23,8 @@ const artigos = await fetchAll(db, 'articles', 'image_url', 'id');
 const santos = await fetchAll(db, 'saints_calendar', 'image_url', 'id');
 const urls = [...new Set([...artigos, ...santos].map((r) => r.image_url).filter(Boolean))];
 const feitos = new Set((await fetchAll(db, 'image_focus', 'url', 'url')).map((r) => r.url));
-const pendentes = urls.filter((u) => !feitos.has(u));
+// --refazer: recalcula tudo (ex.: depois de mudar o método)
+const pendentes = process.argv.includes('--refazer') ? urls : urls.filter((u) => !feitos.has(u));
 console.log(`${urls.length} imagens, ${pendentes.length} sem foco${gravar ? '' : ' (SIMULAÇÃO: calcula 5 e não grava)'}`);
 
 const pct = (v) => `${Math.round(Math.min(1, Math.max(0, v)) * 100)}%`;
@@ -51,7 +52,7 @@ async function trabalhador() {
     try {
       const f = await foco(url);
       if (gravar) {
-        const { error } = await db.from('image_focus').upsert({ url, ...f });
+        const { error } = await db.from('image_focus').upsert({ url, ...f, foco_smartcrop: f.foco, metodo: 'smartcrop' });
         if (error) throw new Error(error.message);
       } else console.log(`  ${f.foco}  ${url.split('/').pop()}`);
       ok++;
