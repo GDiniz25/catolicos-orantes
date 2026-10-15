@@ -2,13 +2,17 @@
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=morrovalle
 
 
+[OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
+Empty page!!
+Estimating resolution as 225
+Empty page!!
 
 =====
 
 ITÁLIA, 1560
 
-7
-Milire Eucarístico de
+7 - o
+Mile re Eucaristico de
 
 Em 1560, em Morrovalle um
 grande incêndio destrói toda
@@ -28,16 +32,11 @@ sobre a fachada da porta
 principal de Morrovalle a
 inscrição «Civitas Eucaristica».
 
-Relíquia do Milagre
-
+=
 7 Convento anexado à Igreja de S. Francisco, onde aconteceu
 o Milagre
 
-Morrovalle, procissão em honra do Milagre
-
-===
-
-per SEDA]
+P
 
 “Bolla Sacrosanta Romana
 Ecclesia” promulgada pelo Papa
@@ -71,8 +70,7 @@ o Padre Provincial Evangelista de Morro de
 Alba, a Hóstia Miraculosa foi colocada numa
 caixa de marfim.
 
-O então Bispo de Bertinoro
-
+O então Bispo de Bertinoro,
 Monsenhor Ludovico de Forli, foi imediata-
 mente enviado pelo Papa Pio IV a Morrovalle
 para indagar da veracidade dos factos. O Papa
@@ -92,7 +90,7 @@ acorria às celebrações. Actualmente, a ocorrência
 das duas datas é festejada com a exposição do
 Santíssimo Sacramento, o cibório sobre o altar
 principal, e “os Perdões”, isto é, as indulgências
-plenárias podem ser ganhas na Igreja de S
+plenárias podem ser ganhas na Igreja de S.
 Até 1600 a Hóstia Miraculosa
 intacta, por
 históricas, depois dessa data perde-se o seu rasto.
@@ -109,3 +107,8 @@ cibório sobreviventes às chamas do incêndio.
 
 =====
 
+
+[OCR VAZIO] bytes: 3422 conv: (64, 64) tess: Estimating resolution as 800
+Empty page!!
+Estimating resolution as 800
+Empty page!!

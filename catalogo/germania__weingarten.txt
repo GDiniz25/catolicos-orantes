@@ -2,17 +2,9 @@
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=weingarten
 
 
+[OCR VAZIO] bytes: 334119 conv: (1701, 2228) tess: Estimating resolution as 237
 
 =====
 
-= Eid
 
-SIT atendi, em
-pa Pu ue
-
-Pa insiti ela
-fo pi
-
-=
-lara
-
+[OCR VAZIO] bytes: 394135 conv: (1684, 2228) tess: Estimating resolution as 367

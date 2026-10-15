@@ -2,15 +2,17 @@
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=alcoy
 
 
+[OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
+Empty page!!
+Estimating resolution as 225
+Empty page!!
 
 =====
 
-7
-VI ila re
-
 ESPANHA, 1568
 
-Eucaristico de
+7 e a
+VI ili re Eucaristico de
 
 O Milagre Eucarístico
 verificado em Alcoy, em 1568,
@@ -30,17 +32,21 @@ visitada a qualquer hora.
 
 Fachada do Mosteiro do Santo
 Sepulcro onde estão conservadas
+as Relíquias do Prodígio
 
-Relíquia do Milagre as Relíquias do Prodígio
-
-PP Eucaristico
-
-Estátua do Menino Jesus que indicou,
+a A
+Estátua do Menino Jesus que indicou
 o lugar onde se encontravam as Santas
 Partículas furtadas por Juan Prats
 
-È Procissão em honra
-do Milagre
+a 000% |
+83
+
+Ù, ,
+A ddt Tore
+Precisão em honra
+
+lo Milagre
 
 Dança dos “Paloteig”, que se
 desenrola durante a Procissão
@@ -83,9 +89,10 @@ fervorosa oração, quando Maria vê mover-se a
 mãozinha da estátua apontando o dedo para a
 casa do seu vizinho, Juan Prats.
 
-A mulher, desconfiada; pensou
+A mulher, lescow lada, pensou
 
 logo em advertir as autoridádes civis do aconte-
+
 cido. Nesse preciso momento, o pároco,
 movido por uma força misteriosa dirigiu-se
 ao jardim da casa de Juan Prats e entrou no
@@ -108,3 +115,8 @@ Sepulcro de Alcoy.
 
 =====
 
+
+[OCR VAZIO] bytes: 3422 conv: (64, 64) tess: Estimating resolution as 800
+Empty page!!
+Estimating resolution as 800
+Empty page!!

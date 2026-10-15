@@ -1,3 +1,5 @@
 # Poznan, 1399
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=polonia&wh=poznan
 
+
+[OCR VAZIO] bytes: 274252 conv: (1684, 2228) tess: Estimating resolution as 333

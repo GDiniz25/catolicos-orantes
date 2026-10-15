@@ -1,3 +1,5 @@
 # Boxtel-Hoogstraten, 1380
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=boxtel-hoogstraten
 
+
+[OCR VAZIO] bytes: 327154 conv: (1684, 2228) tess: Estimating resolution as 454

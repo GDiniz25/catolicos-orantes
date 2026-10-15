@@ -1,9 +1,16 @@
 # Bolsena, 1264
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=italia&wh=bolsena
 
-ai!
 
-
+[OCR VAZIO] bytes: 267082 conv: (1684, 2228) tess: Estimating resolution as 487
 
 =====
 
+6
+
+q
+
+GE «DE
+
+
+[OCR VAZIO] bytes: 379189 conv: (1684, 2228) tess: Estimating resolution as 309

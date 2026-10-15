@@ -1,5 +1,7 @@
 # Guadalupe, 1420
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=guadalupe
 
-IVI
+IV
 
+
+[OCR VAZIO] bytes: 320012 conv: (1684, 2228) tess: Estimating resolution as 356

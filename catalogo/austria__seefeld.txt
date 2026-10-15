@@ -1,3 +1,5 @@
 # Seefeld, 1384
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=austria&wh=seefeld
 
+
+[OCR VAZIO] bytes: 419439 conv: (1684, 2228) tess: Estimating resolution as 320

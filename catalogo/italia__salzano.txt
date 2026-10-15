@@ -1,3 +1,7 @@
 # Salzano, 1517
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=salzano
 
+< OT N
+
+
+[OCR VAZIO] bytes: 685023 conv: (2444, 3200) tess: Estimating resolution as 313

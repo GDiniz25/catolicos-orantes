@@ -1,3 +1,5 @@
 # Weiten-Raxendorf, 1411
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=austria&wh=weiten-raxendorf
 
+
+[OCR VAZIO] bytes: 308851 conv: (1684, 2228) tess: Estimating resolution as 384

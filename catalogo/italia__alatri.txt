@@ -1,3 +1,5 @@
 # Alatri, 1228
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=alatri
 
+
+[OCR VAZIO] bytes: 248429 conv: (1684, 2228) tess: Estimating resolution as 450

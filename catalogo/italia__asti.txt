@@ -1,9 +1,10 @@
 # Asti, 1535
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=italia&wh=asti
 
-MI
 
-
+[OCR VAZIO] bytes: 280988 conv: (1684, 2228) tess: Estimating resolution as 329
 
 =====
 
+
+[OCR VAZIO] bytes: 232187 conv: (1684, 2228) tess: Estimating resolution as 430

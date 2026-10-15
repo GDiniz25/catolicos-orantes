@@ -1,3 +1,5 @@
 # Bruges, 1203
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=belgio&wh=bruges
 
+
+[OCR VAZIO] bytes: 355183 conv: (1684, 2228) tess: Estimating resolution as 265

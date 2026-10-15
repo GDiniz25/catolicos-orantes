@@ -2,6 +2,9 @@
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=polonia&wh=legnica
 
 
+[OCR VAZIO] bytes: 819703 conv: (2444, 3200) tess: Estimating resolution as 380
 
 =====
 
+
+[OCR VAZIO] bytes: 1288813 conv: (2444, 3200) tess: Estimating resolution as 343

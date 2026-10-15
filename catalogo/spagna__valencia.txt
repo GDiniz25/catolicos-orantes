@@ -2,8 +2,9 @@
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=spagna&wh=valencia
 
 
+[OCR VAZIO] bytes: 246771 conv: (1684, 2228) tess: Estimating resolution as 310
 
 =====
 
-—
 
+[OCR VAZIO] bytes: 352312 conv: (1684, 2228) tess: Estimating resolution as 228

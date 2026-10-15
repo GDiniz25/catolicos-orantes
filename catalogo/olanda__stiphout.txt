@@ -1,11 +1,7 @@
 # Stiphout, 1342
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=stiphout
 
-IVI
+IV
 
-335
 
-STIPHOUT
-
-AX Kas
-
+[OCR VAZIO] bytes: 299694 conv: (1684, 2228) tess: Estimating resolution as 257

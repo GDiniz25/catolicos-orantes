@@ -2,12 +2,20 @@
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=meerssen
 
 
+[OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
+Empty page!!
+Estimating resolution as 225
+Empty page!!
 
 =====
 
-mermoszeiomeoz
 
-
+[OCR VAZIO] bytes: 1833419 conv: (1701, 2228) tess: Estimating resolution as 372
 
 =====
 
+
+[OCR VAZIO] bytes: 3422 conv: (64, 64) tess: Estimating resolution as 800
+Empty page!!
+Estimating resolution as 800
+Empty page!!

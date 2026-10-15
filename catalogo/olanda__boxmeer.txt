@@ -1,3 +1,6 @@
 # Boxmeer, 1400
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=boxmeer
 
+
+[OCR VAZIO] bytes: 335472 conv: (1684, 2228) tess: Estimating resolution as 283
+Detected 13 diacritics

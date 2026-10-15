@@ -1,7 +1,13 @@
 # Santarém, 1247
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=portogallo&wh=santarem
 
+IREI!
+tua
 
+
+[OCR VAZIO] bytes: 265426 conv: (1684, 2228) tess: Estimating resolution as 423
 
 =====
 
+
+[OCR VAZIO] bytes: 349103 conv: (1684, 2228) tess: Estimating resolution as 433

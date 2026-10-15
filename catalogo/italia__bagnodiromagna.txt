@@ -1,3 +1,5 @@
 # Bagno di Romagna, 1412
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=bagnodiromagna
 
+
+[OCR VAZIO] bytes: 242172 conv: (1684, 2228) tess: Estimating resolution as 453

@@ -1,3 +1,5 @@
 # Alcalà, 1597
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=alcala
 
+
+[OCR VAZIO] bytes: 256373 conv: (1684, 2228) tess: Estimating resolution as 496

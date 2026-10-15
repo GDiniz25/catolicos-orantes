@@ -1,3 +1,5 @@
 # Santa Catarina da Siena, 1347-1380
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=miracoli&wh=siena
 
+
+[OCR VAZIO] bytes: 318631 conv: (1701, 2226) tess: Estimating resolution as 296

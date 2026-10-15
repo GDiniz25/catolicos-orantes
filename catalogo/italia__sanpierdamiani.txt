@@ -2,10 +2,20 @@
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=sanpierdamiani
 
 
+[OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
+Empty page!!
+Estimating resolution as 225
+Empty page!!
 
 =====
 
 
+[OCR VAZIO] bytes: 1331009 conv: (1701, 2228) tess: Estimating resolution as 403
 
 =====
 
+
+[OCR VAZIO] bytes: 3422 conv: (64, 64) tess: Estimating resolution as 800
+Empty page!!
+Estimating resolution as 800
+Empty page!!

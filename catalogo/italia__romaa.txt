@@ -2,14 +2,27 @@
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=italia&wh=romaa
 
 
+[OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
+Empty page!!
+Estimating resolution as 225
+Empty page!!
 
 =====
 
+VI
 
+
+[OCR VAZIO] bytes: 2493153 conv: (1684, 2228) tess: Estimating resolution as 388
 
 =====
 
-© 2006, E
+7 Vá
+Mila re Eucaristico de
+
+ITALIA, VI-VII SÉCULO
+
+transformar-se em
+p ra Carne
 
 Igreja de S. Gregório Magno no Celio, Roma
 
@@ -17,3 +30,8 @@ Igreja de S. Gregório Magno no Celio, Roma
 
 =====
 
+
+[OCR VAZIO] bytes: 3422 conv: (64, 64) tess: Estimating resolution as 800
+Empty page!!
+Estimating resolution as 800
+Empty page!!

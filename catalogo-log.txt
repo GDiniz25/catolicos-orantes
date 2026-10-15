@@ -1,131 +1,215 @@
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
 130 itens
-pannelli pannelloa -1 [Errno 2] No such file or directory: 'convert'
-pannelli pannellob -1 [Errno 2] No such file or directory: 'convert'
-argentina buenosaires -1 [Errno 2] No such file or directory: 'convert'
-austria fiecht -1 [Errno 2] No such file or directory: 'convert'
-austria seefeld -1 [Errno 2] No such file or directory: 'convert'
-austria weiten-raxendorf -1 [Errno 2] No such file or directory: 'convert'
-belgio boisseigneurisaac -1 [Errno 2] No such file or directory: 'convert'
-belgio bruges -1 [Errno 2] No such file or directory: 'convert'
-belgio bruxelles -1 [Errno 2] No such file or directory: 'convert'
-belgio herentals -1 [Errno 2] No such file or directory: 'convert'
-belgio herkenrode -1 [Errno 2] No such file or directory: 'convert'
-belgio liege -1 [Errno 2] No such file or directory: 'convert'
-belgio middleburg -1 [Errno 2] No such file or directory: 'convert'
-colombia tumaco -1 [Errno 2] No such file or directory: 'convert'
-croazia ludbreg -1 [Errno 2] No such file or directory: 'convert'
-egitto s_maria_egiziaca -1 [Errno 2] No such file or directory: 'convert'
-egitto scete -1 [Errno 2] No such file or directory: 'convert'
-francia avignone -1 [Errno 2] No such file or directory: 'convert'
-francia blanot -1 [Errno 2] No such file or directory: 'convert'
-francia bordeaux -1 [Errno 2] No such file or directory: 'convert'
-francia digione -1 [Errno 2] No such file or directory: 'convert'
-francia douai -1 [Errno 2] No such file or directory: 'convert'
-francia faverney -1 [Errno 2] No such file or directory: 'convert'
-francia la_rochelle -1 [Errno 2] No such file or directory: 'convert'
-francia les_ulmes -1 [Errno 2] No such file or directory: 'convert'
-francia marseille-en-beauvais -1 [Errno 2] No such file or directory: 'convert'
-francia parigi -1 [Errno 2] No such file or directory: 'convert'
-francia pressac -1 [Errno 2] No such file or directory: 'convert'
-germania augsburg -1 [Errno 2] No such file or directory: 'convert'
-germania benningen -1 [Errno 2] No such file or directory: 'convert'
-germania bettbrunn -1 [Errno 2] No such file or directory: 'convert'
-germania erding -1 [Errno 2] No such file or directory: 'convert'
-germania kranenburg_bei_kleve -1 [Errno 2] No such file or directory: 'convert'
-germania regensburg -1 [Errno 2] No such file or directory: 'convert'
-germania walldurn -1 [Errno 2] No such file or directory: 'convert'
-germania weingarten -1 [Errno 2] No such file or directory: 'convert'
-germania wilsnack -1 [Errno 2] No such file or directory: 'convert'
-india chirattakonam -1 [Errno 2] No such file or directory: 'convert'
-isole_della_martinica morne-rouge -1 [Errno 2] No such file or directory: 'convert'
-isole_della_reunion saint-andre_de_la_reunion -1 [Errno 2] No such file or directory: 'convert'
-italia alatri -1 [Errno 2] No such file or directory: 'convert'
-italia santachiaradassisi -1 [Errno 2] No such file or directory: 'convert'
-italia asti -1 [Errno 2] No such file or directory: 'convert'
-italia bagnodiromagna -1 [Errno 2] No such file or directory: 'convert'
-italia bolsena -1 [Errno 2] No such file or directory: 'convert'
-italia canosio -1 [Errno 2] No such file or directory: 'convert'
-italia cascia -1 [Errno 2] No such file or directory: 'convert'
-italia cavadeitirreni -1 [Errno 2] No such file or directory: 'convert'
-italia dronero -1 [Errno 2] No such file or directory: 'convert'
-italia ferrara -1 [Errno 2] No such file or directory: 'convert'
-italia firenze -1 [Errno 2] No such file or directory: 'convert'
-italia gruaro -1 [Errno 2] No such file or directory: 'convert'
-italia lanciano -1 [Errno 2] No such file or directory: 'convert'
-italia macerata -1 [Errno 2] No such file or directory: 'convert'
-italia mogoro -1 [Errno 2] No such file or directory: 'convert'
-italia morrovalle -1 [Errno 2] No such file or directory: 'convert'
-italia offida -1 [Errno 2] No such file or directory: 'convert'
-italia patierno -1 [Errno 2] No such file or directory: 'convert'
-italia rimini -1 [Errno 2] No such file or directory: 'convert'
-italia romaa -1 [Errno 2] No such file or directory: 'convert'
-italia romab -1 [Errno 2] No such file or directory: 'convert'
-italia rosano -1 [Errno 2] No such file or directory: 'convert'
-italia sanpierdamiani -1 [Errno 2] No such file or directory: 'convert'
-italia salzano -1 [Errno 2] No such file or directory: 'convert'
-italia caterinadasiena -1 [Errno 2] No such file or directory: 'convert'
-italia trani -1 [Errno 2] No such file or directory: 'convert'
-italia torinoa -1 [Errno 2] No such file or directory: 'convert'
-italia torinob -1 [Errno 2] No such file or directory: 'convert'
-italia veroli -1 [Errno 2] No such file or directory: 'convert'
-italia volterra -1 [Errno 2] No such file or directory: 'convert'
-messico tixtla -1 [Errno 2] No such file or directory: 'convert'
-olanda alkmaar -1 [Errno 2] No such file or directory: 'convert'
-olanda amsterdam -1 [Errno 2] No such file or directory: 'convert'
-olanda bergen -1 [Errno 2] No such file or directory: 'convert'
-olanda boxmeer -1 [Errno 2] No such file or directory: 'convert'
-olanda boxtel-hoogstraten -1 [Errno 2] No such file or directory: 'convert'
-olanda breda-niervaart -1 [Errno 2] No such file or directory: 'convert'
-olanda meerssen -1 [Errno 2] No such file or directory: 'convert'
-olanda stiphout -1 [Errno 2] No such file or directory: 'convert'
-peru eten -1 [Errno 2] No such file or directory: 'convert'
-polonia cracovia -1 [Errno 2] No such file or directory: 'convert'
-polonia glotowo -1 [Errno 2] No such file or directory: 'convert'
-polonia legnica -1 [Errno 2] No such file or directory: 'convert'
-polonia poznan -1 [Errno 2] No such file or directory: 'convert'
-polonia sokolka -1 [Errno 2] No such file or directory: 'convert'
-portogallo santarem -1 [Errno 2] No such file or directory: 'convert'
-spagna alboraya-almacera -1 [Errno 2] No such file or directory: 'convert'
-spagna alcala -1 [Errno 2] No such file or directory: 'convert'
-spagna alcoy -1 [Errno 2] No such file or directory: 'convert'
-spagna caravaca_de_la_cruz -1 [Errno 2] No such file or directory: 'convert'
-spagna cimballa -1 [Errno 2] No such file or directory: 'convert'
-spagna daroca -1 [Errno 2] No such file or directory: 'convert'
-spagna gerona -1 [Errno 2] No such file or directory: 'convert'
-spagna gorkum-el_escorial -1 [Errno 2] No such file or directory: 'convert'
-spagna guadalupe -1 [Errno 2] No such file or directory: 'convert'
-spagna ivorra -1 [Errno 2] No such file or directory: 'convert'
-spagna moncada -1 [Errno 2] No such file or directory: 'convert'
-spagna montserrat -1 [Errno 2] No such file or directory: 'convert'
-spagna ocebreiro -1 [Errno 2] No such file or directory: 'convert'
-spagna onil -1 [Errno 2] No such file or directory: 'convert'
-spagna ponferrada -1 [Errno 2] No such file or directory: 'convert'
-spagna s_j_de_las_abadeses -1 [Errno 2] No such file or directory: 'convert'
-spagna silla -1 [Errno 2] No such file or directory: 'convert'
-spagna valencia -1 [Errno 2] No such file or directory: 'convert'
-spagna zaragoza -1 [Errno 2] No such file or directory: 'convert'
-svizzera ettiswil -1 [Errno 2] No such file or directory: 'convert'
-venezuela betania -1 [Errno 2] No such file or directory: 'convert'
-miracoli sacrocuore -1 [Errno 2] No such file or directory: 'convert'
-miracoli tommasodacquino -1 [Errno 2] No such file or directory: 'convert'
-miracoli francescodassisi -1 [Errno 2] No such file or directory: 'convert'
-miracoli chiaravalle-bosco -1 [Errno 2] No such file or directory: 'convert'
-miracoli pibrac -1 [Errno 2] No such file or directory: 'convert'
-miracoli egidio -1 [Errno 2] No such file or directory: 'convert'
-miracoli kostka -1 [Errno 2] No such file or directory: 'convert'
-miracoli kowalska -1 [Errno 2] No such file or directory: 'convert'
-miracoli sansatiro -1 [Errno 2] No such file or directory: 'convert'
-miracoli siena -1 [Errno 2] No such file or directory: 'convert'
-miracoli dacosta -1 [Errno 2] No such file or directory: 'convert'
-miracoli emmerick -1 [Errno 2] No such file or directory: 'convert'
-miracoli steenen -1 [Errno 2] No such file or directory: 'convert'
-miracoli robin -1 [Errno 2] No such file or directory: 'convert'
-miracoli frossard -1 [Errno 2] No such file or directory: 'convert'
-miracoli neumann -1 [Errno 2] No such file or directory: 'convert'
-miracoli calanda -1 [Errno 2] No such file or directory: 'convert'
-miracoli guadalupe-messico -1 [Errno 2] No such file or directory: 'convert'
-miracoli lourdes -1 [Errno 2] No such file or directory: 'convert'
-miracoli paris -1 [Errno 2] No such file or directory: 'convert'
-miracoli angelodellapace -1 [Errno 2] No such file or directory: 'convert'
-miracoli comunioni1 -1 [Errno 2] No such file or directory: 'convert'
-miracoli comunioni2 -1 [Errno 2] No such file or directory: 'convert'
+pannelli pannelloa 1 485
+pannelli pannellob 1 176
+argentina buenosaires 3 10637
+austria fiecht 3 3515
+austria seefeld 1 80
+austria weiten-raxendorf 1 80
+belgio boisseigneurisaac 3 3433
+belgio bruges 1 80
+belgio bruxelles 1 84
+belgio herentals 3 3541
+belgio herkenrode 1 105
+belgio liege 1 80
+belgio middleburg 3 2603
+colombia tumaco 1 2845
+croazia ludbreg 2 3744
+egitto s_maria_egiziaca 3 3090
+egitto scete 3 3468
+francia avignone 2 145
+francia blanot 1 2932
+francia bordeaux 1 80
+francia digione 3 382
+francia douai 1 98
+francia faverney 1 3301
+francia la_rochelle 3 3009
+francia les_ulmes 1 84
+francia marseille-en-beauvais 3 2499
+francia parigi 4 485
+francia pressac 1 110
+germania augsburg 4 401
+germania benningen 4 2238
+germania bettbrunn 4 403
+germania erding 2 173
+germania kranenburg_bei_kleve 4 2455
+germania regensburg 2 151
+germania walldurn 2 2055
+germania weingarten 2 160
+germania wilsnack 1 59
+india chirattakonam 3 3056
+isole_della_martinica morne-rouge 1 1865
+isole_della_reunion saint-andre_de_la_reunion 1 3175
+italia alatri 1 80
+italia santachiaradassisi 1 80
+italia asti 2 160
+italia bagnodiromagna 1 80
+italia bolsena 2 174
+italia canosio 3 2339
+italia cascia 1 3138
+italia cavadeitirreni 3 1818
+italia dronero 3 3207
+italia ferrara 1 80
+italia firenze 2 3221
+italia gruaro 1 147
+italia lanciano 2 5393
+italia macerata 1 2245
+italia mogoro 1 80
+italia morrovalle 3 3063
+italia offida 1 80
+italia patierno 3 3404
+italia rimini 1 84
+italia romaa 4 468
+italia romab 1 80
+italia rosano 1 80
+italia sanpierdamiani 3 338
+italia salzano 1 88
+italia caterinadasiena 1 80
+italia trani 1 103
+italia torinoa 2 210
+italia torinob 1 80
+italia veroli 1 134
+italia volterra 3 2413
+messico tixtla 2 2024
+olanda alkmaar 3 1930
+olanda amsterdam 4 758
+olanda bergen 3 1943
+olanda boxmeer 1 103
+olanda boxtel-hoogstraten 1 80
+olanda breda-niervaart 3 2312
+olanda meerssen 3 338
+olanda stiphout 1 84
+peru eten 1 2102
+polonia cracovia 1 80
+polonia glotowo 3 2921
+polonia legnica 2 161
+polonia poznan 1 80
+polonia sokolka 3 4565
+portogallo santarem 2 171
+spagna alboraya-almacera 4 419
+spagna alcala 1 80
+spagna alcoy 3 3006
+spagna caravaca_de_la_cruz 1 80
+spagna cimballa 1 1914
+spagna daroca 2 3550
+spagna gerona 3 2119
+spagna gorkum-el_escorial 1 2748
+spagna guadalupe 1 84
+spagna ivorra 5 2519
+spagna moncada 3 3787
+spagna montserrat 3 2502
+spagna ocebreiro 3 2786
+spagna onil 4 2689
+spagna ponferrada 1 116
+spagna s_j_de_las_abadeses 1 80
+spagna silla 3 2066
+spagna valencia 2 160
+spagna zaragoza 3 338
+svizzera ettiswil 2 174
+venezuela betania 1 3824
+miracoli sacrocuore 1 80
+miracoli tommasodacquino 1 103
+miracoli francescodassisi 1 80
+miracoli chiaravalle-bosco 1 80
+miracoli pibrac 3 1856
+miracoli egidio 1 80
+miracoli kostka 1 80
+miracoli kowalska 1 80
+miracoli sansatiro 3 2013
+miracoli siena 1 80
+miracoli dacosta 1 80
+miracoli emmerick 1 80
+miracoli steenen 1 80
+miracoli robin 1 80
+miracoli frossard 1 80
+miracoli neumann 1 80
+miracoli calanda 1 80
+miracoli guadalupe-messico 1 80
+miracoli lourdes 1 80
+miracoli paris 3 338
+miracoli angelodellapace 3 9128
+miracoli comunioni1 1 80
+miracoli comunioni2 1 80

@@ -1,5 +1,5 @@
 # Caravaca de la Cruz, 1231
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=caravaca_de_la_cruz
 
-IVI
 
+[OCR VAZIO] bytes: 257211 conv: (1684, 2228) tess: Estimating resolution as 323

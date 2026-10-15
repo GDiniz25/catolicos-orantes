@@ -1,3 +1,5 @@
 # Cracòvia, 1345
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=polonia&wh=cracovia
 
+
+[OCR VAZIO] bytes: 309883 conv: (1684, 2228) tess: Estimating resolution as 410

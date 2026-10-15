@@ -2,30 +2,46 @@
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=francia&wh=parigi
 
 
+[OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
+Empty page!!
+Estimating resolution as 225
+Empty page!!
 
 =====
 
-erva ade qro tia lhi
+VI
+
+se
+
+4
+ì)
+“a
+
+"
+Y
 
 
-
-=====
-
-E
-
-E
-
-n
-dO Rd E
-+)
-
-. Maas
-y
-
-JI
-ran
-
-
+[OCR VAZIO] bytes: 2017229 conv: (1684, 2228) tess: Estimating resolution as 403
 
 =====
 
+VI
+
+LES
+
+=
+ed
+
+REA
+
+
+[OCR VAZIO] bytes: 3381299 conv: (1684, 2228) tess: Estimating resolution as 315
+Detected 100 diacritics
+
+=====
+
+
+[OCR VAZIO] bytes: 3422 conv: (64, 64) tess: Estimating resolution as 800
+Empty page!!
+Estimating resolution as 800
+Empty page!!

@@ -1,3 +1,5 @@
 # Roma, 1610
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=romab
 
+
+[OCR VAZIO] bytes: 298667 conv: (1684, 2228) tess: Estimating resolution as 314

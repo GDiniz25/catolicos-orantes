@@ -1,3 +1,7 @@
 # Rimini, 1227
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=rimini
 
+IV
+
+
+[OCR VAZIO] bytes: 256224 conv: (1684, 2228) tess: Estimating resolution as 426

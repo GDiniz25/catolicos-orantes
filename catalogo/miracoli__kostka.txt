@@ -1,3 +1,5 @@
 # São Stanislaus Kostka, 1550-1568
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=miracoli&wh=kostka
 
+
+[OCR VAZIO] bytes: 309678 conv: (1701, 2226) tess: Estimating resolution as 260

@@ -1,5 +1,5 @@
 # Ferrara, 1171
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=ferrara
 
-MI
 
+[OCR VAZIO] bytes: 267524 conv: (1684, 2228) tess: Estimating resolution as 415

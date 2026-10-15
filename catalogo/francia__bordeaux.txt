@@ -1,3 +1,5 @@
 # Bordeaux, 1822
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=bordeaux
 
+
+[OCR VAZIO] bytes: 287826 conv: (1684, 2228) tess: Estimating resolution as 523
