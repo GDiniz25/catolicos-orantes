@@ -52,10 +52,34 @@ export function evangelhoDoCorpo(corpo: string): string | null {
     let ini = corpo.lastIndexOf('<font', m.index);
     if (ini === -1 || m.index - ini > 80) ini = corpo.lastIndexOf('<center', m.index);
     if (ini === -1 || m.index - ini > 80) ini = corpo[m.index] === '>' ? m.index + 1 : m.index;
-    const trecho = corpo.slice(ini);
+    const trecho = equilibrarHtml(corpo.slice(ini));
     if (trecho.replace(/<[^>]+>/g, '').trim().length > 80) return trecho;
   }
   return null;
+}
+
+const VAZIAS = new Set(['br', 'hr', 'img', 'wbr', 'input', 'meta', 'link', 'source', 'col', 'area', 'base', 'embed', 'param', 'track']);
+
+/**
+ * Um trecho cortado do meio do corpo traz tags de fechamento de blocos abertos antes do corte
+ * (ex.: </div>). No HTML da página elas fechariam o container. Aqui saem os fechamentos sem
+ * abertura e se fecham as tags que ficaram abertas.
+ */
+export function equilibrarHtml(html: string): string {
+  const pilha: string[] = [];
+  const saida = html.replace(/<(\/?)([a-zA-Z][a-zA-Z0-9]*)\b[^>]*?(\/?)>/g, (tag, fecha: string, nome: string, auto: string) => {
+    const n = nome.toLowerCase();
+    if (VAZIAS.has(n) || auto) return tag;
+    if (!fecha) {
+      pilha.push(n);
+      return tag;
+    }
+    const i = pilha.lastIndexOf(n);
+    if (i === -1) return '';
+    const abertas = pilha.splice(i);
+    return abertas.slice(1).reverse().map((t) => `</${t}>`).join('') + tag;
+  });
+  return saida + pilha.reverse().map((t) => `</${t}>`).join('');
 }
 
 /** Referência do Evangelho na lista de leituras (a última que começa com Mt, Mc, Lc ou Jo) */
