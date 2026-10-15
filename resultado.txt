@@ -33,148 +33,19 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/m_y_alcoy	3301x2746	CC BY-SA 3.0	Joanbanjo	File:Convent del Sant Sepulcre d'Alcoi.JPG
-   DESC: Convent del Sant Sepulcre d'Alcoi.
-   CATS: CC-BY-SA-3.0 | Monestir del Sant Sepulcre, Alcoi | Self-published work
+OK	fr/m_z_tur	2736x3648	CC BY-SA 3.0	GJo	File:Monte dei Cappuccini - Chiesa facciata principale.jpg
+   DESC: Monte dei Cappuccini, facciata principale della chiesa
+   CATS: CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | License migration redundant | Santa Maria al Monte (Turin) | Self-published work | Taken with Canon PowerShot A640
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_y_blanot1	4000x6000	CC BY 4.0	Cantepien	File:Blanot - Eglise Saint-Martin - 01.jpg
-   DESC: Blanot - Eglise Saint-Martin
-   CATS: CC-BY-4.0 | Photographs by Antoine Garnier | Self-published work | Église Saint-Martin de Blanot (Saône-et-Loire)
-   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
-OK	fr/m_y_blanot2	2304x3072	CC BY-SA 3.0	Thomas Kaffenberger	File:Blanot Église Saint-Martin.jpg
-   DESC: Èglise romane (11eme siècle)
-   CATS: Base Mérimée | CC-BY-SA-3.0 | Cultural heritage monuments in France missing SDC depicts | Cultural heritage monuments in France missing SDC location of creation | Cultural heritage monuments in France with known IDs | Files with coordinates missing SDC location of creation | France photographs taken on 2009-08-18 | Images from Wiki Loves Monuments 2011 | Images from Wiki Loves Monuments 2011 in France | Images from Wiki Loves Monuments missing SDC depicts | Images from Wiki Loves Monuments missi
+OK	fr/m_z_tur2	1944x2592	CC BY-SA 3.0	sailko	File:Torino, chiesa dei cappuccini 01.JPG
+   DESC: Torino, chiesa dei cappuccini
+   CATS: CC-BY-SA-3.0 | GFDL | License migration redundant | Photographs by User:Sailko | Santa Maria al Monte (Turin) | Self-published work | Taken with Nikon Coolpix P5000
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_y_eten	3968x2976	CC BY-SA 4.0	Marliu	File:Antigua Iglesia Etén.jpg
-   DESC: This is a photo of a monument in Peru, identified by ID
-   CATS: CC-BY-SA-4.0 | Cultural heritage monuments in Peru with known IDs | Images from Wiki Loves Monuments 2018 | Images from Wiki Loves Monuments 2018 in Peru | Puerto Eten | Puerto Eten District | Ruins of churches in Chiclayo Province | Self-published work | Unidentified cultural heritage monuments in Peru | Uploaded via Campaign:wlm-pe
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_y_fav7	2136x3216	CC BY-SA 3.0	Ginette Mathis	File:Faverney - Abbaye 07.JPG
-   DESC: Faverney (Haute-Saône) - Abbaye
-   CATS: Base Mérimée | CC-BY-SA-3.0 | Cultural heritage monuments in France with known IDs | France photographs taken on 2012-09-09 | Images from Wiki Loves Monuments 2012 | Images from Wiki Loves Monuments 2012 in France | Interior of Abbatiale Notre-Dame de Faverney | Monuments historiques classés | Mérimée with PA parameter | Out of competition images from Wiki Loves Monuments 2012 in France | Self-published work | Taken with Nikon D90
+OK	fr/m_z_beg25	2448x3264	CC BY-SA 3.0	G.Lanting	File:Begijnhofkapel (Amsterdam) P1020925.JPG
+   DESC: Interieur van de Begijnhofkapel (Amsterdam)
+   CATS: August 2009 in Amsterdam | CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | Interior of Begijnhofkapel (Amsterdam) | License migration redundant | Netherlands photographs taken on 2009-08-15 | Self-published work | Taken with Panasonic Lumix DMC-FZ18
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_y_fav2	3216x2136	CC BY-SA 3.0	Ginette Mathis	File:Faverney - Abbaye 02.JPG
-   DESC: Faverney (Haute-Saône) - Abbaye
-   CATS: Base Mérimée | CC-BY-SA-3.0 | Cultural heritage monuments in France with known IDs | Exterior of Abbatiale Notre-Dame de Faverney | France photographs taken on 2012-09-09 | Images from Wiki Loves Monuments 2012 | Images from Wiki Loves Monuments 2012 in France | Monuments historiques classés | Mérimée with PA parameter | Out of competition images from Wiki Loves Monuments 2012 in France | Self-published work | Taken with Nikon D90
+OK	fr/m_z_beg27	3264x2448	CC BY-SA 3.0	G.Lanting	File:Begijnhofkapel (Amsterdam) P1020927.JPG
+   DESC: Interieur van de Begijnhofkapel (Amsterdam)
+   CATS: August 2009 in Amsterdam | CC-BY-SA-3.0,2.5,2.0,1.0 | GFDL | Interior of Begijnhofkapel (Amsterdam) | License migration redundant | Netherlands photographs taken on 2009-08-15 | Self-published work | Taken with Panasonic Lumix DMC-FZ18
    LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_y_liege	2303x3071	CC BY-SA 3.0	Libois.ph	File:Basilique Saint-Martin Liège 01.jpg
-   DESC: The basilica of St. Martin, on the Mont Saint-Martin in Liège (province of Liège, Wallonia, Belgium). View of the chancel, the east side.
-   CATS: Basilique Saint-Martin (Liège) | Belgium photographs taken on 2007-08-28 | CC-BY-SA-3.0 | Cultural heritage monuments in Wallonia with known IDs | Files with coordinates missing SDC location of creation (50° N, 5° E) | Images from Wiki Loves Monuments 2011 | Images from Wiki Loves Monuments 2011 in Belgium | Images from Wiki Loves Monuments missing SDC location of creation | Self-published work | Taken with Nikon Coolpix 7600
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_y_tur1640	6000x4000	CC BY-SA 4.0	Mongolo1984	File:Chiesa di Santa Maria al Monte dei Cappuccini (Torino) 01.jpg
-   DESC: Santa Maria al Monte dei Cappuccini
-   CATS: CC-BY-SA-4.0 | Cultural heritage monuments in Italy with known IDs | Images from Wiki Loves Monuments 2022 | Images from Wiki Loves Monuments 2022 in Italy | Images from Wiki Loves Monuments 2022 in Italy - Piedmont | Images from Wiki Loves Monuments 2022 in Italy - traditional contest | Santa Maria al Monte (Turin) | Self-published work | Uploaded via Campaign:wlm-it
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_y_veroli	4608x3456	CC0	FredSeiller	File:Basilica di Sant'Erasmo (Veroli)2.jpg
-   DESC: Basilique Saint Erasme
-   CATS: Basilica di Sant'Erasmo (Veroli) | CC-Zero | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/m_y_alcala	1536x2048	CC0	Zarateman	File:Alcalá de Henares - Iglesia de Santa María la Mayor 07.jpg
-   DESC: Alcalá de Henares - Iglesia de Santa María la Mayor
-   CATS: CC-Zero | Capilla de las Santas Formas | Self-published work
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/m_y_palomino	1390x2085	Public domain	Creator:Gregorio Fosman	File:Sagradas formas de Alcala por A. Palomino (cropped).jpg
-   DESC: Las Sagradas formas de Alcalá por A. Palomino
-   CATS: Author died more than 70 years ago public domain images | CC-PD-Mark | Capilla de las Santas Formas | Engravings of Ignatius of Loyola | Extracted images | Gregorio Fosman | Monstrances in art | PD-old missing SDC copyright status
-   LICURL:  USAGE: Public domain
-OK	fr/m_y_stiph	3240x4320	CC BY-SA 3.0	Rosemoon	File:St Trudo Stiphout Monument 21456.jpg
-   DESC: St Trudo Stiphout Monument 21456
-   CATS: CC-BY-SA-3.0 | Gothic Revival church towers in the Netherlands | Rijksmonumenten with known IDs | Self-published work | Sint-Trudokerk (Stiphout) | Taken with Panasonic Lumix DMC-TZ20
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/m_y_stiph2	2451x3084	CC BY-SA 4.0	Gerard Dukker	File:Interieur naar 't oosten - Stiphout - 20206081 - RCE.jpg
-   DESC: Rooms-Katholieke Kerk: interieur naar 't oosten
-   CATS: Buildings with addresses | CC-BY-SA-4.0 | Images from the Rijksdienst voor het Cultureel Erfgoed | Photographs by Gerard Dukker in Helmond (1971) | Rijksmonumenten with known IDs | Sint-Trudokerk (Stiphout)
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_y_poznan	1050x1500	CC BY-SA 2.5 pl	User:Roweromaniak	File:Poznan Corpus Christi Church 196-26.jpg
-   DESC: Poznań, kościół Bożego Ciała, widok od zach. (Poznań, Corpus Christi Church, view from west).
-   CATS: CC-BY-SA-2.5-PL | Corpus Christi church in Poznań | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/2.5/pl/deed.en USAGE: Creative Commons Attribution-Share Alike 2.5 pl
-OK	fr/m_y_poznan2	1500x1050	CC BY-SA 2.5 pl	User:Roweromaniak	File:Poznan Corpus Christi Church 423-32.jpg
-   DESC: Poznań, kościół Bożego Ciała, widok od pd.(Poznań, Corpus Christi Church, view from south)
-   CATS: CC-BY-SA-2.5-PL | Corpus Christi church in Poznań | Cultural heritage monuments in Poland missing SDC depicts | Cultural heritage monuments in Poland missing SDC location of creation | Cultural heritage monuments in Poland with known IDs | Files with coordinates missing SDC location of creation | On OSM | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/2.5/pl/deed.en USAGE: Creative Commons Attribution-Share Alike 2.5 pl
-OK	fr/m_y_billettes16	2048x1536	CC BY-SA 4.0	Chris06	File:Église des Billettes (16).JPG
-   DESC: Église des Billettes, Paris
-   CATS: CC-BY-SA-4.0 | Cloister of Église des Billettes | Self-published work | Taken with Panasonic Lumix DMC-TZ6
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/m_y_billettes12	2048x1536	CC BY-SA 4.0	Chris06	File:Église des Billettes (12).JPG
-   DESC: Église des Billettes, Paris
-   CATS: CC-BY-SA-4.0 | Cloister of Église des Billettes | Self-published work | Taken with Panasonic Lumix DMC-TZ6
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-### Begijnhofkapel Amsterdam
-4368x2905	CC BY-SA 3.0	File:Amsterdam - Begijnhof Catholic Chapel - 0740.jpg	| Begijnhof Catholic Chapel in Amsterdam, The Netherlands
-2448x3264	CC BY-SA 3.0	File:Begijnhofkapel (Amsterdam) P1020928.JPG	| Engelse kerk (Amsterdam)
-2448x3264	CC BY-SA 3.0	File:Begijnhofkapel (Amsterdam) P1020925.JPG	| Interieur van de Begijnhofkapel (Amsterdam)
-2448x3264	CC BY-SA 3.0	File:Begijnhofkapel (Amsterdam) P1020926.JPG	| Interieur van de Begijnhofkapel (Amsterdam)
-3264x2448	CC BY-SA 3.0	File:Begijnhofkapel (Amsterdam) P1020927.JPG	| Interieur van de Begijnhofkapel (Amsterdam)
-3264x2448	CC BY-SA 3.0	File:Ingang Begijnhofkapel (Amsterdam) P1020924.JPG	| Ingang van de Begijnhofkapel (Amsterdam)
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, MARIABEELD* - Amsterdam - 20260258 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, MARIABEELD*
-1414x2188	CC BY-SA 4.0	File:INTERIEUR, MARIABEELD - Amsterdam - 20260259 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, MARIABEELD
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, KOLOM, DETAIL - Amsterdam - 20260260 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, KOLOM, DETAIL
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, KLEURONDERZOEK, DETAIL - Amsterdam - 20260261 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, KLEURONDERZOEK, DETAIL
-1414x2188	CC BY-SA 4.0	File:INTERIEUR, BEELDEN - Amsterdam - 20260262 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, BEELDEN
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260263 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260264 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260265 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
-1414x2188	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260266 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
-1513x2209	CC BY-SA 4.0	File:Interieur, aanzicht orgel - Amsterdam - 20356857 - RCE.jpg	| Rooms-katholieke Begijnhofkerk: Interieur, aanzicht orgel (opmerking: Gefotografeerd voor Het Historische Orgel in Nederland 1769-1790)
-4225x3169	CC BY-SA 4.0	File:Begijnhofkapel (3).jpg	| Side altar of the Begijnhofkapel in Amsterdam, with the sculpture of the Imperial Crown of Austria.
-2448x3264	CC BY-SA 4.0	File:Begijnhofkapel (2).JPG	| Sculpture of the Imperial Crown of Austria, inside the Begijnhofkapel, Amsterdam.
-3264x2448	CC BY-SA 4.0	File:Begijnhofkapel (1).JPG	| Sculpture of the Imperial Crown of Austria, inside the Begijnhofkapel, Amsterdam.
-1424x2136	CC BY-SA 4.0	File:Amsterdam, Kapel begijnenhof, Cavaille coll orgel 05.JPG	| Amsterdam, Kapel begijnenhof, Cavaille coll orgel, een klavier
-1347x2019	CC BY-SA 4.0	File:Amsterdam, Begijnenhof, Kapel, Cavaille Coll orgel 12.JPG	| Amsterdam, Begijnenhof, Kapel, Cavaille Coll orgel, gesloten kas
-4632x3464	CC BY-SA 4.0	File:Begijnhofkapel 2553.jpg	| The chapel at Begijnhof, Amsterdam.
-1159x1811	Public domain	File:Stadsarchief Amsterdam, Afb PBKD00355000018.jpg	| Beschrijving Afbeelding van "Het Mirakel" in de de Mirakelkerk Begijnhof 29. Fotografie van Joh. Bickhoff, Amsterdam Documenttype prentbrief
-2579x1612	Public domain	File:Stadsarchief Amsterdam, Afb ANWN00127000001.jpg	| Beschrijving Signum (teken) van het Mirakelgilde uit 1531 in de rooms-katholieke kerk Johannes en Ursula, Begijnhof 29 Documenttype foto Ver
-1175x1798	Public domain	File:Stadsarchief Amsterdam, Afb PBKD00355000017.jpg	| Beschrijving Interieur van de Mirakelkerk Begijnhof 29. Fotografie van Joh. Bickhoff, Amsterdam Documenttype prentbriefkaart Vervaardiger On
-1907x2250	Public domain	File:Stadsarchief Amsterdam, Afb ANWN00128000001.jpg	| Beschrijving Adam en Eva's zondeval Kopieën van schilderijen door J. van Scorel (1595-1562) in de rooms-katholieke kerk Johannes en Ursula, 
-2158x2596	Public domain	File:Stadsarchief Amsterdam, Afb B00000031719.jpg	| Beschrijving Interieur van de Begijnhofkapel, Begijnhof 29-31 (H.H. Johannes en Ursulakerk), met bloemdecoraties, gezien naar het hoogaltaar
-3366x2293	Public domain	File:Stadsarchief Amsterdam, Afb ANWN00087000001.jpg	| Beschrijving Het interieur van de rooms-katholieke Begijnhofkerk (HH. Johannes en Ursula), Begijnhof 29 Gezicht op het hoogaltaar, voor de e
-4368x3186	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 3.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
-6144x8192	CC BY-SA 4.0	File:Begijnhof Chapel entrance (Amsterdam).jpg	| Begijnhof Chapel entrance, Amsterdam, Province of North Holland, Netherlands.
-### Begijnhof chapel Amsterdam interior
-4368x2912	CC BY-SA 3.0	File:Amsterdam - Begijnhof - 0718.jpg	| Begijnhof Reform Chapel in Amsterdam, The Netherlands
-4350x2872	CC BY-SA 3.0	File:Amsterdam - Begijnhof - 0722.jpg	| Begijnhof Reform Chapel Refectory in Amsterdam, The Netherlands
-4368x2912	CC BY-SA 3.0	File:Amsterdam - Begijnhof - 0727.jpg	| Begijnhof Reform Chapel Refectory in Amsterdam, The Netherlands
-4368x2912	CC BY-SA 3.0	File:Amsterdam - Begijnhof - 0734.jpg	| Begijnhof Chapel in Amsterdam, The Netherlands
-4368x2905	CC BY-SA 3.0	File:Amsterdam - Begijnhof Catholic Chapel - 0740.jpg	| Begijnhof Catholic Chapel in Amsterdam, The Netherlands
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, MARIABEELD* - Amsterdam - 20260258 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, MARIABEELD*
-1414x2188	CC BY-SA 4.0	File:INTERIEUR, MARIABEELD - Amsterdam - 20260259 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, MARIABEELD
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, KOLOM, DETAIL - Amsterdam - 20260260 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, KOLOM, DETAIL
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, KLEURONDERZOEK, DETAIL - Amsterdam - 20260261 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, KLEURONDERZOEK, DETAIL
-1414x2188	CC BY-SA 4.0	File:INTERIEUR, BEELDEN - Amsterdam - 20260262 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, BEELDEN
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260263 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260264 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
-2188x1414	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260265 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
-1414x2188	CC BY-SA 4.0	File:INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE - Amsterdam - 20260266 - RCE.jpg	| R.K. KAPEL (BEGIJNHOFKAPEL): INTERIEUR, SCHILDERINGEN, KLEURONDERZOEK, PROEFSTROOKJE
-1513x2209	CC BY-SA 4.0	File:Interieur, aanzicht orgel - Amsterdam - 20356857 - RCE.jpg	| Rooms-katholieke Begijnhofkerk: Interieur, aanzicht orgel (opmerking: Gefotografeerd voor Het Historische Orgel in Nederland 1769-1790)
-3264x2448	CC BY-SA 2.0	File:Amsterdam - Begijnhof chapel (3416024630).jpg	| Begijnhof - English Reformed Church was built in 1419 for the Catholic sisterhood sanctuary known as the Bengijntjes for single women who di
-3264x2448	CC BY-SA 2.0	File:Amsterdam - Begijnhof chapel (3415805888).jpg	| Amsterdam - Begijnhof chapel
-2624x2100	CC BY-SA 2.0	File:Amsterdam - Begijnhof chapel (3416058906).jpg	| Begijnhof - English Reformed Church was built in 1419 for the Catholic sisterhood sanctuary known as the Bengijntjes for single women who di
-3607x3214	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Buntglasfenster 1.jpg	| Stained Glass Windows of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
-3464x2932	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Buntglasfenster 2.jpg	| Stained Glass Windows of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
-3290x4554	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 1.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
-3147x4554	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 2.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
-4449x3428	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 4.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
-4368x3186	CC BY-SA 4.0	File:Amsterdam Begijnhof Kirche Innen Hochaltar 3.jpg	| High Altar of the Beguinage Chapel, Amsterdam, Province of North Holland, Netherlands
-5408x5888	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
-3384x8024	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel 3.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
-3570x8020	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel 4.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
-4400x4944	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel 1.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
-5072x8192	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel (full).jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
-3720x7840	CC BY-SA 4.0	File:Stained Glass Windows of the Begijnhof Chapel 2.jpg	| Stained Glass Windows of the Begijnhof Chapel, Amsterdam, Province of North Holland, Netherlands
-### Église des Billettes façade rue des Archives
-1825x2849	Public domain	File:Rochegude - Promenades dans toutes les rues de Paris, 9.djvu	| Promenades dans toutes les rues de Paris, 20 volumes
-1233x1685	Public domain	File:Comment discerner les styles du VIIIe au XIXe siècle - histoire, philosophie, document (IA b21780250).pdf	| Each plate accompanied by leaf with descriptive text Subjects: Clothing and dress; Art
-1631x2220	Public domain	File:Fernand Bournon - Paris-Atlas (IA abp6221.0001.001.umich.edu).pdf	| Subjects:
-1322x1752	Public domain	File:Encyclopédie d'architecture (IA encyclopediedarc12unse).pdf	| Title from vol. t.p Suspended janv.-juil. 1886 During its suspension, 1863-1871, replaced by: Gazette des architectes et du bâtiment; resume
-1333x1750	Public domain	File:Encyclopédie d'architecture (IA encyclopediedarc78unse).pdf	| Title from vol. t.p Suspended janv.-juil. 1886 During its suspension, 1863-1871, replaced by: Gazette des architectes et du bâtiment; resume
-1068x1572	Public domain	File:La Cité (IA gri 33125007127034).pdf	| v. : 25 cm "Bulletin de la Société historique et archéologique du IVe arrondissement de Paris" Subtitle varies Imprint varies No.1-40 also c
-1143x1500	Public domain	File:Art et archéologie dans le Département de la Loire (IA gri 33125015066489).pdf	| 1 portfolio (124 p., [40] leaves of plates) : 31 cm "Tiré à 300 exemplaires." "Répertoire alphabétique, gé́ographique et chronologique des m
-1081x1585	Public domain	File:La Cité (IA gri 33125016374502).pdf	| v. : 25 cm "Bulletin de la Société historique et archéologique du IVe arrondissement de Paris" Subtitle varies Imprint varies No.1-40 also c
-1054x1500	Public domain	File:Lyon - architecture et décoration aux dix-septième et dix-huitième siècles (IA gri 33125016448090).pdf	| 2 p. l., xi, iv p. 53 cm "Note bibliographique": p. [i] following p. xi Subjects: Architecture -- France -- Lyon; Decoration and ornament --
-1337x1966	Public domain	File:Inventaire général des richesses d'art de la France (IA inventairegenera22fran).pdf	| At head of title: Ministère de l'instruction publique et des beaux-arts [1] Archives du Musée des monuments français (3 pts.). 1883-1897 -- 
-1308x1639	Public domain	File:Le chateau historique de Vincennes a travers les ages (IA lechateauhistori02foss).pdf	| Head-pieces "Il a ete tire de cet ouvrage: 500 exemplaires sur alfa surglace (16 a 515); 15 exemplaires sur japon imperial (1 a 15)" "Cet ou
-1345x2072	Public domain	File:Monuments religieux de l'architecture romane et de transition dans la région picarde (IA monumentsreligie00enla).pdf	| "Ouvrage couronné par la Société des antiquaires de Picardie (prix Le Dieu, 1889)" Subjects: Architecture, Romanesque; Church architecture; 
-1027x1500	Public domain	File:Chronique des arts et de la curiosité (IA chroniquedesar1919pariuoft).pdf	| Publication suspended Oct. 1870?-Dec. 9, 1871, July 26, 1914-June 14, 1916, inclusive Title varies: 1869-70, Chronique politique des arts et
-### Faverney église Notre-Dame abbatiale intérieur
