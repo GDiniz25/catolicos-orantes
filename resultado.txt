@@ -33,302 +33,333 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-### Església de Santa Maria de Silla
-2144x3236	Public domain	File:Obres de J. Roiç de Corella (IA obrespublicadesa00ruizuoft).djvu	| 
-1062x1460	Public domain	File:Cataluña - Tomo I - España, sus monumentos y artes, su naturaleza e historia.pdf	| Cataluña - Tomo I - España, sus monumentos y artes, su naturaleza e historia
-### Silla torre
-3648x2736	CC BY-SA 3.0	File:Torre de Silla 03.JPG	| Torre musulmana de Silla, España.
-2736x3648	CC BY-SA 3.0	File:Torre de Silla 02.JPG	| Torre musulmana de Silla, España.
-3648x2736	CC BY-SA 3.0	File:Torre de Silla 01.JPG	| Torre musulmana de Silla, España.
-2736x3648	CC BY-SA 3.0	File:Torre de Silla 04.JPG	| Torre musulmana de Silla, España.
-2736x3648	CC BY-SA 3.0	File:Torre de Silla 06.JPG	| Torre musulmana de Silla, España.
-2736x3648	CC BY-SA 3.0	File:Torre de Silla 05.JPG	| Torre musulmana de Silla, España.
-2736x3648	CC BY-SA 3.0	File:Torre de Silla 07.JPG	| Torre musulmana de Silla, España.
-3648x2736	CC BY-SA 3.0	File:Torre de Silla 08.JPG	| Torre musulmana de Silla, España. La torre se encuentra en el patio interior del ayuntamiento. Se la ve sobresaliendo del mismo.
-3648x2736	CC BY-SA 3.0	File:Silla Tower 02.JPG	| Torre musulmana de Silla, España.
-3648x2736	CC BY-SA 3.0	File:Silla Tower 01.JPG	| Torre musulmana de Silla, España.
-2592x3872	CC BY 3.0	File:Torre Varona (Silla).jpg	| Silla; Torre Varona
-3000x3622	CC BY-SA 3.0	File:Port de Silla, 2.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3000x3712	CC BY-SA 3.0	File:Port de Silla, 3.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3984x2826	CC BY-SA 3.0	File:Port de Silla, 4.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-2934x4000	CC BY-SA 3.0	File:Port de Silla, 5.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-2766x3424	CC BY-SA 3.0	File:Port de Silla, 6.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3000x4000	CC BY-SA 3.0	File:Detall d'una embarcació (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3000x4000	CC BY-SA 3.0	File:Detall d'una embarcació, 2 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x3000	CC BY-SA 3.0	File:Detall d'una embarcació, 3 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x2982	CC BY-SA 3.0	File:Canal del port de Silla i camps d'arròs.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x2940	CC BY-SA 3.0	File:Canal del port de Silla, 2.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x3000	CC BY-SA 3.0	File:Detall d'una embarcació, 4 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x3000	CC BY-SA 3.0	File:Detall d'una embarcació, 5 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3000x4000	CC BY-SA 3.0	File:Detall d'una embarcació, 6 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x3000	CC BY-SA 3.0	File:Detall d'una embarcació, 7 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3024x4032	CC BY-SA 4.0	File:Torre musulmana de Silla.jpg	| Apareix a la imatge la torre musulmana de Silla, una part d'ella, acompanyada de l'arc gòtic apuntat conservat adossat a la mateixa.
-3024x4032	CC BY-SA 4.0	File:Torre musulmana de Silla2.jpg	| Visió des del jardí de la torre en la seua totalitat
-2448x3264	CC0	File:Torre Musulmana - Silla (Valencia).jpg	| Torre Musulmana de Silla
-### Silla Horta Sud
-1887x1216	Public domain	File:Vista de Silla, Valencia.JPG	| Vista de la localidad de Silla, Valencia, España
-5880x3935	CC BY 4.0	File:La Silla Observatory Inauguration.jpg	| The President of the Republic of Chile, Eduardo Frei Montalva, pronouncing the inauguration of the La Silla Observatory before the ESO Counc
-3264x2448	CC BY-SA 3.0	File:Monuments a les trobades d'Escoles en Valencià a Silla, Horta Sud.JPG	| Monuments a les trobades d'Escoles en Valencià a Silla, Horta Sud.
-3648x2736	CC BY-SA 3.0	File:Silla Valencia 01.JPG	| Calle de la Libertad. Silla, España.
-3648x2736	CC BY-SA 3.0	File:Silla Valencia 02.JPG	| Calle de la Libertad. Silla, España.
-2736x3648	CC BY-SA 3.0	File:Silla Valencia 07.JPG	| Edificio en la Plaza del Pueblo. Silla, España.
-28186x4183	CC BY 4.0	File:A 360 degree panorama of a unique cloudscape over La Silla.jpg	| A 360 degree view of a rare cloudscape over La Silla, in the southern edges of the Atacama Desert, home of ESO's first observing site. Here 
-2162x3000	KOGL Type 1	File:서봉총 금관 금제드리개.jpg	| Crowns of Silla, found on Seobongchong, it is a golden crown used on Silla. This crown is designated National Treasure No. 339 and now house
-4608x3072	CC BY-SA 3.0	File:Carta Puebla de Silla.jpg	| Fra Hug de Fullalquer, Mestre de l'Orde de l'Hospital i Castellà d'Aposta, concedeix carta pobla las crsitians que si han instal.lat a Silla
-5184x3456	CC0	File:Gold Crown of Silla Kingdom 02d.jpg	| Special Exhibit of Silla Gold Crown's Scientific Investigation, National Museum of Korea, Seoul. Complete indexed photo collection at www.Wo
-3456x5184	CC0	File:Gold Girdle of Silla Kingdom 02b.jpg	| Special Exhibit of Silla Gold Crown's Scientific Investigation, National Museum of Korea, Seoul. Complete indexed photo collection at www.Wo
-3456x5184	CC0	File:Gold Crown of Silla Kingdom 01b.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Gold Crown of Silla Kingdom 01d.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-3456x5184	CC0	File:Gold Girdle of Silla Kingdom 01a.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Gold Earrings 02.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Gold Earrings 01.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Gold Earrings 04.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Gold Earrings 10.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Gold Cup.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Gold Hat.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Gold Ornament.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Bronze Cauldron.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-3456x5184	CC0	File:Silla Kingdom Gold Ornaments.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Pottery Boats.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-3456x5184	CC0	File:Silla Kingdom Pottery 01.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Pottery 02.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5184x3456	CC0	File:Silla Kingdom Pottery 03.jpg	| Three Kingdoms Period (Silla) Gallery, National Museum of Korea, Seoul. Complete indexed photo collection at www.WorldHistoryPics.com.
-5000x5980	CC BY-SA 3.0	File:Karte Gemeinde Silla 2022.png	| Gemeinde Silla
-2448x3264	CC0	File:Torre Musulmana - Silla (Valencia).jpg	| Torre Musulmana de Silla
-4000x3000	CC BY-SA 4.0	File:Camp de Futbol Silla.jpg	| Camp de Futbol Vicent Morera
-### Albufera Silla
-3000x3712	CC BY-SA 3.0	File:Port de Silla, 3.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3984x2826	CC BY-SA 3.0	File:Port de Silla, 4.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-2766x3424	CC BY-SA 3.0	File:Port de Silla, 6.jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3000x4000	CC BY-SA 3.0	File:Detall d'una embarcació (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3000x4000	CC BY-SA 3.0	File:Detall d'una embarcació, 2 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x3000	CC BY-SA 3.0	File:Detall d'una embarcació, 3 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x3000	CC BY-SA 3.0	File:Detall d'una embarcació, 4 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x3000	CC BY-SA 3.0	File:Detall d'una embarcació, 5 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-3000x4000	CC BY-SA 3.0	File:Detall d'una embarcació, 6 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4000x3000	CC BY-SA 3.0	File:Detall d'una embarcació, 7 (Port de Silla).jpg	| Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Commons i Amical Wikimedia. El port de Silla està situat al terme 
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 01.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 02.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 03.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 05.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-3456x4608	CC BY-SA 4.0	File:Puerto fluvial de Silla 04.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 06.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 08.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 07.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 09.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 10.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 11.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 12.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 13.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 14.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 16.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 18.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 19.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 20.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 21.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-4608x3456	CC BY-SA 4.0	File:Puerto fluvial de Silla 22.jpg	| Puerto fluvial de Silla, parte de la Albufera que pertenece al municipio de Silla.
-### Lago della Meja Canosio
-2816x2112	CC BY 3.0	File:Lago della Meja.jpg	| The Meja Lake, Canosio (CN), Italy
-### Canosio
-1596x872	CC BY-SA 3.0	File:Alta Val Maira.jpg	| 
-2816x2112	CC BY 3.0	File:Rocca La Meja dal Colle dAncoccia.jpg	| Rocca La Meja seen from Colle d'Ancoccia, Canosio (CN), Italy
-2816x2112	CC BY 3.0	File:Lago della Meja.jpg	| The Meja Lake, Canosio (CN), Italy
-2048x1536	Public domain	File:RifugioGardetta.jpg	| Gardetta alpine hut, Canosio (CN), Italy
-1600x1200	CC BY-SA 3.0	File:Gardetta01.jpg	| Acceglio, Maira Valley, Italy
-3648x2736	CC BY-SA 3.0	File:Rifugio Gardetta.jpg	| View of the Rifugio della Gardetta (Gardetta's alpine hut) (Italy)
-3872x2592	CC BY-SA 4.0	File:Altopiano della Gardetta.jpg	| Val Maira sopra Canosio
-3543x2362	CC BY-SA 4.0	File:Verso il Lago Nero.jpg	| Le cime delle Alpi ci guardano durante un'escursione verso il Lago Nero (Canosio).
-1293x1810	Public domain	File:Il buon cuore - Anno IX, n. 34 - 20 agosto 1910.pdf	| 
-1141x1335	CC BY-SA 4.0	File:Lloyd's Register of Shipping 1873.pdf	| The Lloyd's Register of Shipping records the details of merchant vessels over 100 gross tonnes, which are self-propelled and sea-going, rega
-4032x3024	CC BY-SA 4.0	File:Pis del Passet.jpg	| Pis del Passet (Valle Maira, Cuneo, Piemonte, Italia)
-3024x4032	CC BY-SA 4.0	File:Pis del Passet 2.jpg	| Pis del Passet (Valle Maira, Cuneo, Piemonte, Italia)
-1239x1752	Public domain	File:OJ C 205 of 2014 - ET Estonian.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Estonian edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - FI Finnish.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Finnish edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - DE German.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - German edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - PL Polish.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Polish edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - SK Slovak.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Slovak edition
-1239x1752	Public domain	File:OJ C 205 of 2014 - SV Swedish.pdf	| Official Journal of the European Union - C 205 of 2 July 2014 - Swedish edition
-4032x3024	CC BY-SA 4.0	File:Laghetto Preit.jpg	| Small lake near Colle del Preit (Canosio, Maira Valley, Piedmont, Italy)
-1239x1752	Public domain	File:OJ C 315 of 2016 - DA Danish.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Danish edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - ET Estonian.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Estonian edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - FI Finnish.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Finnish edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - DE German.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - German edition
-1239x1752	Public domain	File:OJ C 315 of 2016 - LV Latvian.pdf	| Official Journal of the European Union - C 315 of 30 August 2016 - Latvian edition
-### Les Ulmes
-1987x1307	Public domain	File:Mk.airlines.b747-200.9g-mkj.arp.jpg	| Boeing 747-200 of MK Airlines at Filton Airfield on 10th October 2004. Four days later, on 14th October, this aircraft crashed on take off f
-1606x3024	CC BY-SA 2.5	File:SF Golden Gate Bridge splash CA.jpg	| The Golden Gate Bridge as seen from Fort Point on a foggy day.
-3000x5221	CC BY-SA 2.5	File:SF Transamerica full CA.jpg	| Transamerica building, downtown San Francisco, CA, USA. Photo taken from Coit tower.
-2645x1763	CC BY-SA 2.5	File:Vatican StPaul Statue.jpg	| St. Paul statue in front of St. Peters Basilica (Vatican). (Sculptor: Adamo Tadolini)
-1641x1641	CC BY-SA 2.5	File:Crassula capitella 2 edit.jpg	| Crassula capitella
-2000x2253	CC BY-SA 3.0	File:Solar corona above statue of El Cid SF CA.jpg	| Very delicate foggy solar coronae is seen over the statue of Ruy Diaz de Vivar in San Francisco. original Statue of El Cid, by Anna Hyatt Hu
-2958x4437	CC BY 3.0	File:ST vs SF - Sergio Parisse 1.jpg	| Sergio Parisse, jump during warm-up of the match opposing Stade Toulousian and Stade Français.
-2577x2577	CC BY 2.5	File:2012 Transit of Venus from SF.jpg	| Photograph of the transit of venus taken with a home-made solar filter from baader solar film. The camera was placed on a very steady tripod
-6260x3100	CC BY-SA 3.0	File:Crater Lake winter pano2.jpg	| Panoramic winter view of Crater Lake in Crater Lake National Park, Oregon, from Rim Village. Full-size version.
-1024x1604	CC BY-SA 3.0	File:Furnier ulme.jpg	| Furnier Ulme, gemessert, ca. Din-A4 großer Ausschnitt
-5808x2963	CC BY-SA 4.0	File:Les-ulmes pierre-couverte-mousseau 17.jpg	| Pierre couverte du Mousseau, Les Ulmes.
-4608x3072	CC BY-SA 4.0	File:Les-ulmes pierre-couverte-mousseau 04.jpg	| Pierre couverte du Mousseau, Les Ulmes.
-6407x2956	CC BY-SA 4.0	File:Les-ulmes pierre-couverte-mousseau 15.jpg	| Pierre couverte du Mousseau, Les Ulmes.
-1209x1592	Public domain	File:Maria Dulębianka (SF).jpg	| Maria Dulębianka
-4442x2897	CC BY-SA 4.0	File:Ship in the SF Bay fog (40406).jpg	| A ship, the Paramount Hydra, in the fog on San Francisco Bay.
-5568x3712	CC BY-SA 4.0	File:Fantastika 2018 39.jpg	| Elgenstierna på Fantastika 2018, Swecon 2018.
-3900x2761	CC BY-SA 4.0	File:Ratargul 0276.jpg	| Aerial view of wooden boats along the shores of the freshwater waterways in Ratargul Swamp Forest, Gowain River, Fatehpur Union, Gowainghat,
-5330x3687	CC BY-SA 4.0	File:Ratargul-02.jpg	| Children in a boat on the Shari-Goyain River in Ratargul Swamp Forest, Bangladesh
-1275x1650	Public domain	File:Ulmes - Nice et ses environs.djvu	| Nice et ses environs
-3270x2598	CC BY-SA 4.0	File:49359-Les Ulmes-Sols.png	| Carte des infrastructures et de l’occupation des sols en 2018 de la commune de fr:Les Ulmes (France).
-4000x2773	CC BY-SA 4.0	File:Ratargul 785 retouched.jpg	| A man in a boat at Ratargul Swamp Forest, Bangladesh
-5846x4133	CC BY-SA 4.0	File:49359-Les Ulmes-Hydro.jpeg	| Carte du réseau hydrographique de la commune de fr:Les Ulmes (France).
-3528x1984	CC BY-SA 4.0	File:2024-08-25 Motorsport, Formel 1, Großer Preis der Niederlande 2024 STP 3912 by Stepro.jpg	| Motorsport, Formel 1, Großer Preis der Niederlande 2024: Carlos Sainz jr. (ESP, Scuderia Ferrari)
-### Les Ulmes Maine-et-Loire dolmen
-2370x3794	Public domain	File:Port - Dictionnaire historique, géographique et biographique de Maine-et-Loire, tome 1.djvu	| Historical, geographical and biographical dictionnary of Maine et Loire / by Célestin Port
-### San Pietro a Patierno chiesa
-4382x5414	CC BY-SA 4.0	File:Gazzetta Musicale di Milano, 1867.djvu	| Gazzetta Musicale di Milano, 1867
-1443x1937	Public domain	File:Il Cittadino Italiano n 156-1891 (IA CittadinoItaliano1878-832).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1375x1987	Public domain	File:Il Cittadino Italiano n 205-1882 (IA CittadinoItaliano1884-1529).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1443x2060	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 236 (1889) (IA IlFriuli 236 1889).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
-4481x5965	CC BY-SA 4.0	File:Gazzetta Musicale di Milano, 1881.djvu	| Gazzetta Musicale di Milano, 1881
-### Capodichino chiesa
-1500x2000	CC BY-SA 3.0	File:Immacolata Capodichino.jpg	| Chiesa dell'Immacolata a Capodichino (Napoli)
-1570x2135	Public domain	File:Annali civili del regno delle Due Sicilie (IA annalicivilidelr2830napl).pdf	| 15 v. : 30 cm Includes bibliographies Each vol. issued in two parts. Each part covers a period of two months Each part contains "Osservazion
-1043x1500	Public domain	File:Napoli e i luoghi celebri delle sue vicinanze (IA gri 33125008738201).pdf	| Includes numerous lithographic plates depicting various landmarks in and around Naples. Plates by Antonio Zezon, Francesco Wenzel, and Achil
-1550x2237	Public domain	File:Poliorama pittoresco (IA polioramapittore01unse).pdf	| 19 v. : 30 cm First 13 issues of t. 1 lack vol. designation Subjects:
-1435x2258	Public domain	File:Poliorama pittoresco (IA polioramapittore16unse).pdf	| 19 v. : 30 cm First 13 issues of t. 1 lack vol. designation Subjects:
-1639x2245	Public domain	File:Il Piccolo Crociato 20 (1905) (IA IlPiccoloCrociato20-1905).pdf	| Il Piccolo Crociato - Organo della democraza cristiana nel Friuli Subjects: Friuli; Periodico; Il Piccolo Crociato
-4883x6891	Public domain	File:La Patria del Friuli 1905-05-06 (IA LaPatriadelFriuli1905-126).pdf	| La Patria del Friuli - Quotidiano storico del Friuli Subjects: Friuli; Quotidiano; newspaper
-### Secondigliano chiesa
-3370x5218	Public domain	File:Elenco ufficiale dei Mille di Marsala.djvu	| Elenco ufficiale dei Mille di Marsala
-1375x1987	Public domain	File:Il Cittadino Italiano n 205-1882 (IA CittadinoItaliano1884-1529).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1383x1987	Public domain	File:Il Cittadino Italiano n 208-1882 (IA CittadinoItaliano1884-1565).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1360x1987	Public domain	File:Il Cittadino Italiano n 214-1882 (IA CittadinoItaliano1884-1650).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1368x1987	Public domain	File:Il Cittadino Italiano n 218-1882 (IA CittadinoItaliano1884-1698).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1347x1989	Public domain	File:Il Cittadino Italiano n 219-1882 (IA CittadinoItaliano1884-1710).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1368x2014	Public domain	File:Il Cittadino Italiano n 226-1882 (IA CittadinoItaliano1884-1807).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1362x2018	Public domain	File:Il Cittadino Italiano n 192-1887 (IA CittadinoItaliano1889-1348).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1385x2008	Public domain	File:Il Cittadino Italiano n 138-1887 (IA CittadinoItaliano1889-568).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1354x2004	Public domain	File:Il Cittadino Italiano n 151-1887 (IA CittadinoItaliano1889-763).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1512x2058	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 135 (1887) (IA IlFriuli 135 1887).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
-1450x2066	Public domain	File:Il Paese - organo della Democrazia friulana n. 239 (1910) (IA IlPaese-239-1910).pdf	| Il Paese - organo della democrazia friulana Subjects: Friuli; Periodico
-1096x1095	Public domain	File:Piazza Luigi di Nocera nell'XIX secolo.jpg	| Chiesa dei Santi Cosma e Damiano in Piazza Luigi di Nocera nell’800.
-1180x1703	CC BY-SA 4.0	File:Targa commemorativa di p. Pietro di Nocera.jpg	| Targa commemorativa della benemerenza di Pietro di Nocera e dei cittadini nell’ampliamento e abbellimento della Chiesa dell’Addolorata.
-3024x4032	CC BY-SA 4.0	File:Epigrafe di p. Pietro di Nocera.jpg	| Targa commemorativa della benemerenza di Pietro di Nocera e dei cittadini nell’ampliamento e abbellimento della Chiesa dell’Addolorata.
-1157x1570	CC0	File:Affreschi della volta centrale della Chiesa dell’Addolorata.jpg	| Affreschi della volta centrale della Chiesa dell’Addolorata a Secondigliano, voluti da don Pietro di Nocera
-2448x3264	CC0	File:Chiesa Santi Cosma e Damiano a Secondigliano 1.jpeg	| navata della Chiesa dei Santi Cosma e Damiano a Secondigliano, quartiere settentrionale di Napoli.
-### First Communion painting
+MISSING	fr/m_f_1	File:S. Pietro a Patierno (1).jpg
+MISSING	fr/m_f_2	File:S. Pietro a Patierno (2).jpg
+MISSING	fr/m_f_3	File:S. Pietro a Patierno (3).jpg
+MISSING	fr/m_f_4	File:S. Pietro a Patierno (4).jpg
+MISSING	fr/m_f_5	File:S. Pietro a Patierno (5).jpg
+MISSING	fr/m_f_6	File:S. Pietro a Patierno (6).jpg
+MISSING	fr/m_f_7	File:S. Pietro a Patierno (7).jpg
+MISSING	fr/m_f_8	File:S. Pietro a Patierno (8).jpg
+MISSING	fr/m_f_9	File:S. Pietro a Patierno (9).jpg
+MISSING	fr/m_f_10	File:S. Pietro a Patierno (10).jpg
+MISSING	fr/m_f_11	File:S. Pietro a Patierno (11).jpg
+MISSING	fr/m_f_12	File:S. Pietro a Patierno (12).jpg
+OK	fr/m_f_silla	3648x2736	CC BY-SA 3.0	B25es	File:Torre de Silla 01.JPG
+   DESC: Torre musulmana de Silla, España.
+   CATS: CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | Self-published work | Taken with Fujifilm FinePix S1500 | Torre de Silla
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_f_canosio	2816x2112	CC BY 3.0	Nem80	File:Lago della Meja.jpg
+   DESC: The Meja Lake, Canosio (CN), Italy
+   CATS: CC-BY-3.0 | Files with coordinates missing SDC location of creation | Lakes of Piedmont | Lakes of the Cottian Alps | Maira Valley | Rocca la Meja | Self-published work | Taken with Canon PowerShot A540 | Tarns in Italy | U-shaped valleys in Italy
+   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
+OK	fr/m_f_ulmes	4608x3072	CC BY-SA 4.0	Liberliger	File:Les-ulmes pierre-couverte-mousseau 04.jpg
+   DESC: Pierre couverte du Mousseau, Les Ulmes.
+   CATS: CC-BY-SA-4.0 | Pierre couverte du Mousseau | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/m_f_ulmes2	5808x2963	CC BY-SA 4.0	Liberliger	File:Les-ulmes pierre-couverte-mousseau 17.jpg
+   DESC: Pierre couverte du Mousseau, Les Ulmes.
+   CATS: CC-BY-SA-4.0 | Pierre couverte du Mousseau | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/m_f_ribera	2536x2540	Public domain	Jusepe de Ribera	File:José de Ribera 006.jpg
+   DESC: Communion of the Apostles
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | Author died more than 100 years ago public domain images | CC-PD-Mark | Communion of the Apostles (Ribera) | PD-Art (Yorck Project) | PD-old missing SDC copyright status | Yorck Project paintings missing described by source
+   LICURL:  USAGE: Public domain
+OK	fr/m_f_met	3043x3716	CC0	Eugène Carrière	File:The First Communion MET DT201073.jpg
+   DESC: 
+   CATS: 19th-century paintings in the Metropolitan Museum of Art | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-Zero | First Communion in art | French paintings in the Metropolitan Museum of Art | GWToolset Batch Upload | Images from Metropolitan Museum of Art | Paintings by Eugène Carrière
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/m_f_lord	1652x2284	CC0	Wmpearl	File:'First Communion'by Caroline Lord, Cincinnati Art Museum.JPG
+   DESC: 
+   CATS: 1900s portrait paintings from the United States (female) | 1900s portraits of children | 1901 oil on canvas paintings in the United States | 1901 portrait paintings from the United States | American portrait paintings in the Cincinnati Art Museum | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-Zero | Caroline Augusta Lord | First Communion in art | Self-published work
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/m_f_gianna	8160x6144	CC BY-SA 4.0	Iaznavi78	File:Santuario di Santa Gianna Beretta Molla (Mesero).jpg
+   DESC: Facciata del santuario di Santa Gianna Beretta Molla a Mesero
+   CATS: CC-BY-SA-4.0 | Files with coordinates missing SDC location of creation | Photographs taken on 2025-08-26 | Santuario di Santa Gianna Beretta Molla | Self-published work | Uploaded with Mobile/Android
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/m_f_kolbe	1904x2472	CC BY-SA 3.0 at	Dnalor 01	File:Todeszelle Pater Maximilian Kolbes, KZ Auschwitz I, Block 11.jpg
+   DESC: Todeszelle Pater Maximilian Kolbes, KZ Auschwitz I, Block 11
+   CATS: CC-BY-SA-3.0-AT | Exhibition in Block 11 | Files by User:Dnalor 01 | Reliefs of Maksymilian Kolbe | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0/at/deed.en USAGE: Creative Commons Attribution-Share Alike 3.0 at
+OK	fr/m_f_kolbe2	4606x6386	CC BY-SA 2.0	Dennis G. Jarvis	File:Poland-01357 - A Saints Cell... (31722427656).jpg
+   DESC: A shrine to a special man.... Cell # 18 in the basement of Block 11, where Father Kolbe was imprisoned. Maximilian Maria Kolbe, (8 January 1894 – 14 August 1941) was a Polish Conventual Franciscan friar, who volunteered to die in place of a stranger in the German death camp of Auschwitz. Kolbe was canonized a saint on 10 October 1982 by Pope John Paul II, and declared a martyr of charity. Father K
+   CATS: CC-BY-SA-2.0 | Exhibition in Block 11 | Files uploaded by Artix Kreiger | Files with coordinates missing SDC location of creation | Flickr images reviewed by FlickreviewR 2 | Maksymilian Kolbe | Photographs of Poland by Dennis G. Jarvis | Poland photographs taken on 2016-09-23
+   LICURL: https://creativecommons.org/licenses/by-sa/2.0 USAGE: Creative Commons Attribution-Share Alike 2.0
+OK	fr/m_t_weiten	4000x3000	CC BY 4.0	BSonne	File:Weiten Kirche01.jpg
+   DESC: Pfarrkirche hl. Stephanus, Weiten, Niederösterreich
+   CATS: CC-BY-4.0 | Cultural heritage monuments in Austria with known IDs | Pfarrkirche Weiten - Interior | Photos by User:BSonne/NÖ/Bezirk Melk | Self-published work
+   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
+OK	fr/m_t_weiten2	4500x3000	CC BY-SA 3.0 at	Duke of W4	File:Kath Pfarrkirche hl Stephanus in Weiten - Ostansicht.jpg
+   DESC: Die leicht erhöht im Südwesten des Marktes gelegene Pfarrkirche hl. Stephanus ist eine gotische Staffelhalle mit älterem gotischen Chor und einem kleinen, freistehenden Westturm.
+   CATS: Austria photographs taken on 2013-09-22 | CC-BY-SA-3.0-AT | Cultural heritage monuments in Austria check done | Cultural heritage monuments in Austria with known IDs | Images from Wiki Loves Monuments 2013 | Images from Wiki Loves Monuments 2013 in Austria | Pfarrkirche Weiten | Self-published work | Taken with Canon EOS 60D | Uploaded via Campaign:wlm-at
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0/at/deed.en USAGE: Creative Commons Attribution-Share Alike 3.0 at
+OK	fr/m_t_ferrara	1200x1600	CC BY 2.5	sailko	File:Ferrara, santa maria in vado, facciata.JPG
+   DESC: Ferrara, santa maria in vado, facciata
+   CATS: CC-BY-2.5 | CC-BY-SA-3.0-migrated | GFDL | License migration redundant | Santa Maria in Vado (Ferrara) | Self-published work
+   LICURL: https://creativecommons.org/licenses/by/2.5 USAGE: Creative Commons Attribution 2.5
+OK	fr/m_t_guad	3568x2376	CC BY 3.0	José Luis Filpo Cabana	File:Real Monasterio de Santa María de Guadalupe. Fachada.jpg
+   DESC: Fachada principal del monasterio de Guadalupe, provincia de Caceres, (España). Un significativo exponente del gótico-mudéjar.
+   CATS: CC-BY-3.0 | Exteriores del Real Monasterio de Nuestra Señora de Guadalupe | Files with coordinates missing SDC location of creation | Images with annotations | Self-published work
+   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
+OK	fr/m_t_rosano	6000x4000	CC BY-SA 4.0	Mongolo1984	File:Monastero di Santa Maria a Rosano (Rignano sull'Arno) 01.jpg
+   DESC: Monastero di Santa Maria a Rosano (Rignano sull'Arno)
+   CATS: CC-BY-SA-4.0 | Monastero di Santa Maria a Rosano | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/m_t_offida	1536x2048	CC BY-SA 2.5	Cristiano Marchegiani	File:S Agostino scorcio.jpg
+   DESC: Sant'Agostino - scorcio, Offida
+   CATS: CC-BY-SA-2.5 | Sant'Agostino (Offida) | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/2.5 USAGE: Creative Commons Attribution-Share Alike 2.5
+OK	fr/m_t_andechs	1600x1200	Public domain	Mattana	File:Andechs Kloster exterior 01.JPG
+   DESC: Andechs Abbey on “Heiligen Berg”, Starnberg, Bavaria, Germany
+   CATS: Images by Mattana-Andechs (Germany) | Kloster Andechs | PD-self | Self-published work | Taken with Fujifilm FinePix S9500
+   LICURL:  USAGE: Public domain
+OK	fr/m_t_andechs2	1386x1458	CC BY-SA 3.0	Traveler100	File:Kloster andechs-3.jpg
+   DESC: en:Andechs Abbey
+   CATS: CC-BY-SA-3.0 | GFDL | Klosterkirche Andechs | License migration redundant | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_t_benn	3072x2304	CC BY-SA 3.0	Bene16	File:Benningen 2008 26.10.2008 13-35-12 3072x2304.JPG
+   DESC: Riedkapelle in Benningen
+   CATS: CC-BY-SA-3.0,2.5,2.0,1.0 | Cultural heritage monuments in Bavaria with known IDs | GFDL | License migration redundant | Riedkapelle (Benningen) | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_t_douai	3264x2448	CC BY-SA 3.0	Remi Mathis	File:Douai - collégiale Saint-Pierre 01.JPG
+   DESC: Douai - collégiale Saint-Pierre
+   CATS: Base Mérimée | CC-BY-SA-3.0 | Collégiale Saint-Pierre de Douai | Cultural heritage monuments in France with known IDs | France photographs taken on 2012-03-17 | Images from Wiki Loves Monuments 2012 | Images from Wiki Loves Monuments 2012 in France | Mérimée with PA parameter | Mérimée without type parameter | Out of competition images from Wiki Loves Monuments 2012 in France | Self-published work | Taken with Panasonic Lumix DMC-FZ30
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_t_fav	3216x2136	CC BY-SA 3.0	Ginette Mathis	File:Faverney - Abbaye 02.JPG
+   DESC: Faverney (Haute-Saône) - Abbaye
+   CATS: Base Mérimée | CC-BY-SA-3.0 | Cultural heritage monuments in France with known IDs | Exterior of Abbatiale Notre-Dame de Faverney | France photographs taken on 2012-09-09 | Images from Wiki Loves Monuments 2012 | Images from Wiki Loves Monuments 2012 in France | Monuments historiques classés | Mérimée with PA parameter | Out of competition images from Wiki Loves Monuments 2012 in France | Self-published work | Taken with Nikon D90
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_t_alatri	1014x806	Public domain	The original uploader was Fabiosbaraglia	File:San Paolo Alatri 3.jpg
+   DESC: Cattedrale di Alatri
+   CATS: Cathedral (Alatri) | PD-self | Self-published work | Taken with Canon Digital IXUS 430
+   LICURL:  USAGE: Public domain
+OK	fr/m_t_kran	3456x4608	CC BY-SA 4.0	Dat doris	File:Kranenburg-Wallfahrtskirche 01.jpg
+   DESC: Katholische Wallfahrtskirche Sankt Peter und Paul in Kranenburg.
+   CATS: CC-BY-SA-4.0 | Church towers in Kranenburg | Clocks in Kranenburg | Files with coordinates missing SDC location of creation (51° N, 6° E) | Self-published work | St. Peter und Paul (Kranenburg) | Stadtmauer (Kranenburg)
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/m_t_stiph	3240x4320	CC BY-SA 3.0	Rosemoon	File:St Trudo Stiphout Monument 21456.jpg
+   DESC: St Trudo Stiphout Monument 21456
+   CATS: CC-BY-SA-3.0 | Gothic Revival church towers in the Netherlands | Rijksmonumenten with known IDs | Self-published work | Sint-Trudokerk (Stiphout) | Taken with Panasonic Lumix DMC-TZ20
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/m_t_regaug	2200x1884	Public domain	Unknown authorUnknown author	File:Kupferstich - Regensburg - Augustinerkirche - 1725.jpg
+   DESC: Kupferstich - Regensburg - Augustinerkirche - 1725, aus: Paritius, Georg Heinrich: "Kurtzgefaste Historische Nachricht Von allen in denen Ring-Mauren der Stadt Regensburg gelegenen Reichs-Stifftern, Haubt-Kirchen und Clöstern Catholischer Religion"
+   CATS: 1725 in Bavaria | Churches in Regensburg | History of Neupfarrplatz (Regensburg) | History of Regensburg | PD-anon-expired | Template Unknown (author)
+   LICURL:  USAGE: Public domain
+### Oude Toren Stiphout
+2000x1108	CC BY-SA 3.0	File:Stiphout1.jpg	| Stiphout: Kerk en Oude Toren
+3240x4320	CC BY-SA 3.0	File:Kerktoren van der Brugghenstraat 43 Stiphout Monument 21455.jpg	| Kerktoren van der Brugghenstraat 43 Stiphout Monument 21455
+2452x3066	CC BY-SA 4.0	File:Exterieur aanzicht - Stiphout - 20206093 - RCE.jpg	| Torenruine: exterieur aanzicht
+2452x3054	CC BY-SA 4.0	File:Exterieur aanzicht - Stiphout - 20206094 - RCE.jpg	| Torenruine: exterieur aanzicht
+2387x3335	CC BY-SA 4.0	File:Zicht op ruïne vanuit het oosten - Stiphout - 20328055 - RCE.jpg	| Kerktoren: Zicht op ruïne vanuit het oosten
+2387x3353	CC BY-SA 4.0	File:Zicht op ruïne vanuit het noordoosten - Stiphout - 20328103 - RCE.jpg	| Kerktoren: Zicht op ruïne vanuit het noordoosten
+4813x6531	CC BY-SA 4.0	File:21455 Stiphout Oude toren.jpg	| De Oude Toren te Stipthout
+1552x2662	Public domain	File:Rotterdamse courant 18-03-1809 (IA ddd 010123377 mpeg21).pdf	| Title: Rotterdamse courantDatum: 18-03-1809Editie: DagPlaats van uitgave: RotterdamUitgever: Jan Abraham en Jacobus CasteleynVerspreidingsge
+1483x2410	Public domain	File:Bredasche courant 18-03-1855 (IA ddd 010153169 mpeg21).pdf	| Title: Bredasche courantDatum: 18-03-1855Editie: DagPlaats van uitgave: BredaUitgever: W. van BergenVerspreidingsgebied: Regionaal/lokaalNum
+1485x2258	Public domain	File:Noord-Brabander 27-07-1830 (IA ddd 010174538 mpeg21).pdf	| Title: Noord-BrabanderDatum: 27-07-1830Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1427x2366	Public domain	File:Noord-Brabander 23-01-1840 (IA ddd 010175208 mpeg21).pdf	| Title: Noord-BrabanderDatum: 23-01-1840Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1583x2360	Public domain	File:Noord-Brabander 01-07-1841 (IA ddd 010175426 mpeg21).pdf	| Title: Noord-BrabanderDatum: 01-07-1841Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1722x2408	Public domain	File:Noord-Brabander 28-06-1845 (IA ddd 010176034 mpeg21).pdf	| Title: Noord-BrabanderDatum: 28-06-1845Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1722x2408	Public domain	File:Noord-Brabander 03-07-1845 (IA ddd 010176036 mpeg21).pdf	| Title: Noord-BrabanderDatum: 03-07-1845Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1722x2408	Public domain	File:Noord-Brabander 12-07-1845 (IA ddd 010176040 mpeg21).pdf	| Title: Noord-BrabanderDatum: 12-07-1845Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1572x2654	Public domain	File:Koninklĳke courant 18-07-1809 (IA ddd 010239817 mpeg21).pdf	| Title: Koninklĳke courantDatum: 18-07-1809Editie: DagPlaats van uitgave: 's-GravenhageUitgever: Bureau der Koninklĳke CourantVerspreidingsge
+1727x2387	Public domain	File:De Tĳd - godsdienstig-staatkundig dagblad 02-01-1856 (IA ddd 010251338 mpeg21).pdf	| Title: De Tĳd : godsdienstig-staatkundig dagbladDatum: 02-01-1856Editie: DagPlaats van uitgave: 's-HertogenboschUitgever: Gebr. VerhoevenVer
+1239x1239	CC BY-SA 4.0	File:Mijn favoriete gebouw in Nijmegen.pdf	| Mijn favoriete gebouw in Nijmegen
+### Stiphout toren kapel
+1427x2366	Public domain	File:Noord-Brabander 23-01-1840 (IA ddd 010175208 mpeg21).pdf	| Title: Noord-BrabanderDatum: 23-01-1840Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1722x2408	Public domain	File:Noord-Brabander 03-07-1845 (IA ddd 010176036 mpeg21).pdf	| Title: Noord-BrabanderDatum: 03-07-1845Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1722x2408	Public domain	File:Noord-Brabander 12-07-1845 (IA ddd 010176040 mpeg21).pdf	| Title: Noord-BrabanderDatum: 12-07-1845Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1714x2414	Public domain	File:Noord-Brabander 22-06-1847 (IA ddd 010176341 mpeg21).pdf	| Title: Noord-BrabanderDatum: 22-06-1847Editie: DagPlaats van uitgave: 's BoschUitgever: Gebroeders LangenhuysenVerspreidingsgebied: Regionaa
+1737x2416	Public domain	File:De Tĳd - godsdienstig-staatkundig dagblad 06-02-1855 (IA ddd 010250622 mpeg21).pdf	| Title: De Tĳd : godsdienstig-staatkundig dagbladDatum: 06-02-1855Editie: DagPlaats van uitgave: 's-HertogenboschUitgever: Gebr. VerhoevenVer
+1239x1239	CC BY-SA 4.0	File:Mijn favoriete gebouw in Nijmegen.pdf	| Mijn favoriete gebouw in Nijmegen
+### Meerssen basiliek exterieur
+1380x2126	CC BY-SA 4.0	File:Exterieur OVERZICHT - Meerssen - 20263945 - RCE.jpg	| Basiliek: Exterieur OVERZICHT
+3366x2232	CC BY-SA 4.0	File:Exterieur ZUIDGEVEL, PINAKELS - Meerssen - 20274968 - RCE.jpg	| Basiliek: Exterieur ZUIDGEVEL, PINAKELS
+2244x3366	CC BY-SA 4.0	File:Exterieur ZUIDGEVEL, VIERINGTOREN, PINAKELS - Meerssen - 20274969 - RCE.jpg	| Basiliek: Exterieur ZUIDGEVEL, VIERINGTOREN, PINAKELS
+2202x3360	CC BY-SA 4.0	File:Exterieur ZUIDER TRANSEPT, DETAIL - Meerssen - 20274970 - RCE.jpg	| Basiliek: Exterieur ZUIDER TRANSEPT, DETAIL
+2244x3366	CC BY-SA 4.0	File:Exterieur RAAM BOVEN TOEGANG - Meerssen - 20274971 - RCE.jpg	| Basiliek: Exterieur RAAM BOVEN TOEGANG
+2244x3366	CC BY-SA 4.0	File:Exterieur RAAM - Meerssen - 20274972 - RCE.jpg	| Basiliek: Exterieur RAAM
+2203x3375	CC BY-SA 4.0	File:Exterieur NOORDGEVEL, KRUISBEELD - Meerssen - 20274979 - RCE.jpg	| Basiliek: Exterieur NOORDGEVEL, KRUISBEELD
+2204x3375	CC BY-SA 4.0	File:Exterieur NOORDGEVEL, KRUISBEELD - Meerssen - 20274980 - RCE.jpg	| Basiliek: Exterieur NOORDGEVEL, KRUISBEELD
+2204x3375	CC BY-SA 4.0	File:Exterieur NOORDGEVEL, KRUISBEELD - Meerssen - 20274981 - RCE.jpg	| Basiliek: Exterieur NOORDGEVEL, KRUISBEELD
+3078x3090	CC BY-SA 4.0	File:Exterieur DETAIL WESTINGANG - Meerssen - 20307979 - RCE.jpg	| Basiliek: Exterieur DETAIL WESTINGANG
+2244x3415	CC BY-SA 4.0	File:Exterieur KAPITEEL, ZUID, WESTZIJDE - Meerssen - 20315577 - RCE.jpg	| Basiliek: Exterieur KAPITEEL, ZUID, WESTZIJDE
+2244x3415	CC BY-SA 4.0	File:Exterieur KRUISBLOEM, ZUID, WESTZIJDE - Meerssen - 20315578 - RCE.jpg	| Basiliek: Exterieur KRUISBLOEM, ZUID, WESTZIJDE
+2208x3410	CC BY-SA 4.0	File:Exterieur HOGEL OP STEUNBEER ZUIDZIJDE - Meerssen - 20315579 - RCE.jpg	| Basiliek: Exterieur HOGEL OP STEUNBEER ZUIDZIJDE
+2244x3415	CC BY-SA 4.0	File:Exterieur PINAKEL OP ZUIDER ZIJBEUK - Meerssen - 20315580 - RCE.jpg	| Basiliek: Exterieur PINAKEL OP ZUIDER ZIJBEUK
+2244x3415	CC BY-SA 4.0	File:Exterieur KRUISBLOEM OP ZUID, WEST STEUNBEER ZUIDER TRANSEPT - Meerssen - 20315581 - RCE.jpg	| Basiliek: Exterieur KRUISBLOEM OP ZUID, WEST STEUNBEER ZUIDER TRANSEPT
+2244x3415	CC BY-SA 4.0	File:Exterieur PINAKELS OP WESTGEVEL - Meerssen - 20315582 - RCE.jpg	| Basiliek: Exterieur PINAKELS OP WESTGEVEL
+2244x3415	CC BY-SA 4.0	File:Exterieur KRUISBLOEM OP STEUNBEER ZUIDER ZIJBEUK - Meerssen - 20315584 - RCE.jpg	| Basiliek: Exterieur KRUISBLOEM OP STEUNBEER ZUIDER ZIJBEUK
+2244x3415	CC BY-SA 4.0	File:Exterieur KRUISBLOEM OP STEUNBEER ZUIDER ZIJBEUK - Meerssen - 20315585 - RCE.jpg	| Basiliek: Exterieur KRUISBLOEM OP STEUNBEER ZUIDER ZIJBEUK
+2244x3415	CC BY-SA 4.0	File:Exterieur PINAKELS OP ZUIDZIJDE MIDDENSCHIP - Meerssen - 20315587 - RCE.jpg	| Basiliek: Exterieur PINAKELS OP ZUIDZIJDE MIDDENSCHIP
+2244x3415	CC BY-SA 4.0	File:Exterieur KRUISBLOEM TEGEN STEUNBEER ZUIDZIJDE - Meerssen - 20315588 - RCE.jpg	| Basiliek: Exterieur KRUISBLOEM TEGEN STEUNBEER ZUIDZIJDE
+2244x3415	CC BY-SA 4.0	File:Exterieur PINAKEL OP ZIJBEUK ZUID, WEST TRANSEPT - Meerssen - 20315589 - RCE.jpg	| Basiliek: Exterieur PINAKEL OP ZIJBEUK ZUID, WEST TRANSEPT
+2244x3415	CC BY-SA 4.0	File:Exterieur KRUISBLOEM OP ZUIDER TRANSEPT - Meerssen - 20315590 - RCE.jpg	| Basiliek: Exterieur KRUISBLOEM OP ZUIDER TRANSEPT
+2244x3415	CC BY-SA 4.0	File:Exterieur DETAIL RAAM IN ZUIDZIJDE LICHTBEUK WESTELIJK GEDEELTE - Meerssen - 20315591 - RCE.jpg	| Basiliek: Exterieur DETAIL RAAM IN ZUIDZIJDE LICHTBEUK WESTELIJK GEDEELTE
+2244x3415	CC BY-SA 4.0	File:Exterieur MIDDEN MONTANT IN LICHTBEUK ZUIDZIJDE, WESTELIJK GEDEELTE - Meerssen - 20315592 - RCE.jpg	| Basiliek: Exterieur MIDDEN MONTANT IN LICHTBEUK ZUIDZIJDE, WESTELIJK GEDEELTE
+2244x3415	CC BY-SA 4.0	File:Exterieur DETAIL RAAM LICHTBEUK ZUIDZIJDE, WESTELIJK GEDEELTE - Meerssen - 20315593 - RCE.jpg	| Basiliek: Exterieur DETAIL RAAM LICHTBEUK ZUIDZIJDE, WESTELIJK GEDEELTE
+2244x3415	CC BY-SA 4.0	File:Exterieur DETAIL RAAM IN LICHTBEUK ZUIDZIJDE, WESTELIJK GEDEELTE - Meerssen - 20315595 - RCE.jpg	| Basiliek: Exterieur DETAIL RAAM IN LICHTBEUK ZUIDZIJDE, WESTELIJK GEDEELTE
+2244x3415	CC BY-SA 4.0	File:Exterieur DETAIL RAAM LICHTBEUK SCHIP, OOSTELIJK GEDEELTE - Meerssen - 20315597 - RCE.jpg	| Basiliek: Exterieur DETAIL RAAM LICHTBEUK SCHIP, OOSTELIJK GEDEELTE
+2244x3415	CC BY-SA 4.0	File:Exterieur DETAIL RAAM IN ZUIDER LICHTBEUK SCHIP, OOST - Meerssen - 20315599 - RCE.jpg	| Basiliek: Exterieur DETAIL RAAM IN ZUIDER LICHTBEUK SCHIP, OOST
+2244x3415	CC BY-SA 4.0	File:Exterieur KAPITEEL OP MIDDEN MONTANT IN RAAM LICHTBEUK, WESTELIJK GEDEELTE - Meerssen - 20315600 - RCE.jpg	| Basiliek: Exterieur KAPITEEL OP MIDDEN MONTANT IN RAAM LICHTBEUK, WESTELIJK GEDEELTE
+2244x3415	CC BY-SA 4.0	File:Exterieur DETAIL RAAM IN MIDDENBEUK ZUIDZIJDE, OOSTELIJK GEDEELTE - Meerssen - 20315601 - RCE.jpg	| Basiliek: Exterieur DETAIL RAAM IN MIDDENBEUK ZUIDZIJDE, OOSTELIJK GEDEELTE
+### Basiliek van het Heilig Sacrament Meerssen
+4570x3152	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament 2.jpg	| Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4405x3395	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament 3.jpg	| Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4280x2918	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament 1.jpg	| Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4084x3120	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament 4.jpg	| Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3345x4217	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Chor 1.jpg	| Choir of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4592x3338	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament 5.jpg	| Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4094x3185	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Chor 2.jpg	| Choir of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3293x4589	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Fassade 1.jpg	| Facade of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4437x3447	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Fassade 2.jpg	| Facade of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3351x4592	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Chor 1.jpg	| Choir of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4534x3207	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Buntglasfenster.jpg	| Stained Glass Window of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3368x4534	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Chor 4.jpg	| Choir of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3291x4157	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Chor 3.jpg	| Choir of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3292x4537	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Chor 5.jpg	| Choir of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3206x4491	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Chorgewölbe 1.jpg	| Choir Vault of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3396x4554	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Chorfenster.jpg	| Choir Windows of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3167x4574	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Chorgewölbe 2.jpg	| Choir Vault of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3151x4586	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Gewölbe 1.jpg	| Vault of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3211x4590	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Kanzel 2.jpg	| Pulpit of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4452x3175	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Hochaltar 2.jpg	| High Altar of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3070x4293	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Kanzel 1.jpg	| Pulpit of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4488x3447	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Kreuz 2.jpg	| Cross of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4511x3420	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Kreuz 1.jpg	| Cross of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4473x3447	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Kreuz 3.jpg	| Cross of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4263x3348	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Kreuz 4.jpg	| Cross of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3127x4399	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Orgel 1.jpg	| Organ of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4376x3434	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Orgel 2.jpg	| Organ of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+3067x4513	CC BY-SA 4.0	File:Meerssen Basiliek van Het Heilig Sacrament Innen Sakramentshaus.jpg	| Tabernacle of the Basilica of the Holy Sacrament, Meerssen, Province of Limburg, Netherlands
+4872x3352	CC BY-SA 4.0	File:Meerssen, de basiliek van het Heilig Sacrament RM28446 IMG 8284 2021-02-21 14.51.jpg	| Meerssen, basilica: the basiliek van het Heilig Sacrament
+### Alatri cattedrale facciata
+1314x1875	Public domain	File:Bollettino d'arte del Ministero della pubblica istruzione (IA gri 33125004565806).pdf	| Vols. 1-[24] have subtitle: Rivista dei musei, gallerie e monumenti d'Italia (varies slightly) Description based on Ser. 2, anno 1, no. 1 (l
+1308x1862	Public domain	File:Notizie istoriche delle chiese di S. Maria in Julia, di S. Giovanni Calibita nell'Isola Licaonia, e di S. Tommaso degli Spagnuoli o della Catena (IA notizieistoriche00canc).pdf	| Frontispiece portrait of Francesco Cancellieri engraved by Filippo Cenci Romano Includes bibliographical references and index Subjects: S. M
+1345x1895	Public domain	File:Rassegna d'arte antica e moderna (IA rassegnadarteant1908unse).pdf	| Vol. 16-19 contain Vita d'arte as a second section Vol. 14-22 are called [new ser.] v. 1-9 Vols. 20-22 called also anno 7-9 Subjects: Art; A
+1072x1620	Public domain	File:Storia dell'arte italiana (IA storiadellarteit03vent).pdf	| Includes bibliographical references and indexes 1. Dai primordi dell'arte cristiana al tempo di Giustiniano -- 2. Dall'arte barbarica alla r
+1308x1902	Public domain	File:Il Cittadino Italiano n 263-1883 (IA CittadinoItaliano1885-2302).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+### Andechs Kloster Kirche außen
+1331x2164	Public domain	File:Wissenschaftliche Studien und Mittheilungen aus dem Benedictiner-Orden (IA wissenschaftlich2188unse).pdf	| 2 v. : 24 cm Published: Im Selbstverlag des Ordens, Brünn, 1880 Subjects: Benedictines -- Periodicals
+### Benningen Riedkapelle außen
+### Offida Sant'Agostino facciata
+### Rosano abbazia esterno
+### Sainte-Eulalie Bordeaux église
+2448x3264	CC BY-SA 3.0	File:Église Sainte-Eulalie 1.jpg	| Vue d'ensemble de l'église Sainte-Eulalie à Bordeaux
+3264x2448	CC BY-SA 3.0	File:Église Sainte-Eulalie 2.jpg	| Vue d'ensemble de l'église Sainte-Eulalie à Bordeaux
+2060x2417	CC BY-SA 3.0	File:Église Sainte-Eulalie de Bordeaux.jpg	| Époque de construction : Moyen Age puis 1er quart 20e siècle.
+1015x727	CC BY-SA 3.0	File:Sainte Eulalie de Bordeaux.jpg	| Église Sainte-Eulalie de Bordeaux
+3888x2592	CC BY-SA 3.0	File:Bordeaux Sainte-Eulalie 163.JPG	| Kirche Sainte-Eulalie in Bordeaux
+3776x2520	CC BY-SA 3.0	File:Bordeaux Sainte-Eulalie 30750.JPG	| Kirche Sainte-Eulalie in Bordeaux
+3872x2592	CC BY-SA 4.0	File:Église Sainte-Eulalie de Lignan-de-Bordeaux 2.JPG	| Église Sainte-Eulalie de Lignan-de-Bordeaux
+3129x4506	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0474.jpg	| Église Sainte-Eulalie de Bordeaux; Lutrin
+3139x4511	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0475.jpg	| Église Sainte-Eulalie de Bordeaux; Chapelle latérale (colonnes)
+3132x4502	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0476.jpg	| Église Sainte-Eulalie de Bordeaux; Baton de Saint-Roch
+3136x4508	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0477.jpg	| Église Sainte-Eulalie de Bordeaux; Lutrin
+3132x4499	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0648.jpg	| Église Sainte-Eulalie de Bordeaux; Transept (extérieur)
+3138x4512	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0649.jpg	| Église Sainte-Eulalie de Bordeaux; Transept (extérieur)
+3141x4503	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0842.jpg	| Église Sainte-Eulalie de Bordeaux; Tête reliquaire
+3148x4482	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0844.jpg	| Église Sainte-Eulalie de Bordeaux; Reliquaire de Saint Claix
+3142x4506	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0845.jpg	| Église Sainte-Eulalie de Bordeaux; Vierge et enfant
+3140x4509	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0874.jpg	| Église Sainte-Eulalie de Bordeaux; Confessionnal
+4500x3130	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0898.jpg	| Église Sainte-Eulalie de Bordeaux; Reliquaire de Sainte Claire
+3146x4486	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0924.jpg	| Église Sainte-Eulalie de Bordeaux; Buste reliquaire
+3128x4501	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 0934.jpg	| Église Sainte-Eulalie de Bordeaux; Confessionnal
+3214x4524	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 1024.jpg	| Église Sainte-Eulalie de Bordeaux; Pilier et voûte de la nef
+3143x4517	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 1241.jpg	| Église Sainte-Eulalie de Bordeaux; Lévation extérieure
+3145x4531	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 1242.jpg	| Église Sainte-Eulalie de Bordeaux; Lévation extérieure
+3189x4529	Public domain	File:Église Sainte-Eulalie de Bordeaux - J-A Brutails - Université Bordeaux Montaigne - 2052.jpg	| Église Sainte-Eulalie de Bordeaux
+4676x2498	CC0	File:Exterieur van de Église Sainte-Eulalie te Bordeaux Eglise Ste. Eulalie, a Bordeaux (titel op object), RP-F-F06379.jpg	| IdentificatieTitel(s): Exterieur van de Église Sainte-Eulalie te Bordeaux. Eglise Ste. Eulalie, a Bordeaux (titel op object)Objecttype: ster
+3024x4032	CC0	File:Bordeaux - Église Sainte-Eulalie - Nef depuis le portail.jpg	| Nef depuis le portail.
+3024x4032	CC0	File:Bordeaux - Église Sainte-Eulalie - Façade nord-ouest.jpg	| Façade nord-ouest.
+3024x4032	CC0	File:Bordeaux - Église Sainte-Eulalie - Porte principale.jpg	| Porte principale.
+3024x4032	CC0	File:Bordeaux - Église Sainte-Eulalie - Nef, depuis le portail 2.jpg	| Nef, depuis le portail.
+### Martillac Sainte-Famille
+1469x2016	Public domain	File:Sévigné - Lettres, éd. Monmerqué, 1862, tome 14-2.djvu	| Livre:Sévigné - Lettres, éd. Monmerqué, 1866, tome 14.djvu
+1106x1695	Public domain	File:Actes de la Société Linnéenne de Bordeaux (IA actesdelasocitli7919soci).pdf	| 4 6 Subjects:
+4600x6837	Public domain	File:Actes de la Société linnéenne de Bordeaux (IA mobot31753003648596).pdf	| GeoRef Vol. 1 (1826)-62 (1908) are also numbered in 6 series of 10 v. each and sér. 7, v. 1-2. Cf. Union list of serials Special vol. issued
+### Bordeaux rue Mazarin Sainte-Famille
+1809x2828	Public domain	File:Rochegude - Promenades dans toutes les rues de Paris, 12.djvu	| Promenades dans toutes les rues de Paris, 20 volumes
+1183x2004	Public domain	File:Sainte-Beuve - Nouveaux lundis, tome 13.djvu	| Livre:Sainte-Beuve - Nouveaux lundis, tome 13
+2106x3573	Public domain	File:Sainte-Beuve - Port-Royal, t5, 1878.djvu	| Port-Royal,_t5
+2340x3640	Public domain	File:Avenel - Histoire de la presse française, 1900.djvu	| Livre pour Wikisource
+1239x1754	Public domain	File:Aubert - Dictionnaire de la noblesse, 1863, volume 17.pdf	| Dictionnaire de la noblesse, contenant les généalogies, l'histoire &amp; la chronologie des familles nobles de la France, l'explication de l
+1335x1825	Public domain	File:Catalogue de l'histoire de France (IA b24873676 0002).pdf	| Title varies: v. 1-10, Bibliothèque impériale ... Catalogue ... Pub. par ordre de l'empereur. Vol. 11, Bibliothèque nationale ... Catalogue 
+1058x1427	Public domain	File:Archives nationales de stomatologie et d'art dentaire (IA acc3959.1897.013.umich.edu).pdf	| 1896, no. 1-2, 10-12 called 2. année; 1897, no. 23-24 incorrectly marked 4. année Subjects:
+1150x1706	Public domain	File:French architects and sculptors of the XVIIIth century (IA frencharchitects00dilk).pdf	| Subjects: Architects; Sculpture, French; Sculptors
+1250x1500	Public domain	File:Catalogue d'une jolie collection de tableaux modernes, gravures encadrées et en feuilles avant la lettre, et lithographies provenant du cabinet de M. Mainnemare (IA gri 33125012922312).pdf	| 19 pages ; 19 cm Date of sale: Feb. 21-25, 1843 Place of sale: Paris Subjects: M. Mainnemare
+1195x1670	Public domain	File:Notice sur Chilly-Mazarin - le château, l'église, le village, le Maréchal d'Effiat (IA noticesurchillym00sali).pdf	| Subjects: Castles
+1027x1906	Public domain	File:Recueil des actes de l'Académie des science, belles-lettres et arts de Bordeaux. Treizième année, 1851 (IA b30561000).pdf	| 150 pages ; 21 cm Subjects:
+1260x1754	Public domain	File:Les Maîtresses charitables du Saint Enfant Jésus, 1925.pdf	| Les Maîtresses charitables du Saint Enfant Jésus dites Dames de Saint-Maur 1662. Publié sous le généralat de la Révérende Mère Sainte-Margue
+1524x2188	Public domain	File:Revue philomathique de Bordeaux et du Sud-Ouest, janvier-février 1908.djvu	| Revue philomathique de Bordeaux et du Sud-Ouest, janvier-février 1908
+1325x2166	Public domain	File:Mémoires chronologiques pour servir à l'histoire de Dieppe, et à celle de la navigation françoise; - avec un recueil abrégé des privileges de cette ville (IA mmoireschronolog02desm).pdf	| John Carter Brown Library copy bound in contemporary blonde stippled calf Subjects: Imprint 1785
+### Catedral San Andrés Tumaco
+### Santa Maria dell'Olmo Cava de' Tirreni
+2272x1704	CC BY 3.0	File:Cava de' Tirreni - Chiesa della Madonna dell'Olmo.jpg	| Cava de' Tirreni - Chiesa della Madonna dell'Olmo
+3648x2432	CC BY 3.0	File:ValfabbricaCasacastaldoSantuarioDellaMadonnaDellOlmo.JPG	| The Santuario della Madonna dell’Olmo in Casacastaldo, Valfabbrica, Province of Perugia, Umbria, Italy
+2048x1536	CC BY-SA 3.0	File:Archi-SantaMariaDellOlmo.JPG	| Chiesa di Santa Maria dell’Olmo
+1489x2175	Public domain	File:L'Illustrazione popolare (IA lillustrazionepo13unse).pdf	| 44 v. : 32 cm Title from caption Subtitle Dec. 1888- : giornale per le famiglie Subjects:
+2934x4340	CC BY-SA 4.0	File:Cava de' Tirreni - Basilica di Santa Maria dell'Olmo - 2023-09-16 19-25-49 001.jpeg	| basilica di Santa Maria dell'Olmo -notturno
+2608x4624	CC BY-SA 4.0	File:Cava de' Tirreni - Basilica di Santa Maria dell'Olmo - 2023-09-16 19-26-41 001.jpg	| basilica di Santa Maria dell'Olmo - immagine delsacro quadro
+3456x4320	CC BY-SA 4.0	File:Cava de' Tirreni - Oratorio del Santissimo Nome di Dio e di Santa Maria dell'Olmo - 2023-09-29 12-54-21 001.webp	| Oratorio del Santissimo Nome di Dio e di Santa Maria dell'Olmo
+### Onil iglesia San Jaime Apóstol
+1081x1539	Public domain	File:Diccionario geográfico-estadístico-histórico de España y sus posesiones de ultramar (IA diccionariogeogr08mado).pdf	| 26 45 NEW Subjects: Geography
+### Onil parroquia
+1081x1539	Public domain	File:Diccionario geográfico-estadístico-histórico de España y sus posesiones de ultramar (IA diccionariogeogr08mado).pdf	| 26 45 NEW Subjects: Geography
+### Cimballa iglesia Santa María
+### Patierno Napoli
+1200x797	CC BY-SA 3.0 de	File:Napoli -Airport Control Tower- 2010 by-Raboe 69.jpg	| Naples 2010
+2500x1357	CC BY 2.0	File:Naples airport lounge in the early early morning (8751212170).jpg	| Napoli, Italy at 4:53 a.m.
+1024x683	GFDL 1.2	File:Airport, Ramp JP7227131.jpg	| 
+5866x3760	CC BY-SA 4.0	File:Chandelier of the nineteenth century in the Museo di Capodimonte (Napoli).jpg	| Chandelier of the nineteenth century in the Museo di Capodimonte (Napoli)
+4288x2848	CC BY 2.0	File:Naples Airport, Italy (18069997289).jpg	| Naples Airport, Italy
+3648x2736	CC BY-SA 4.0	File:S. Pietro a Patierno (13).jpg	| Giuseppe Rotelli, Organo a trasmissione pneumatica della Parrocchia di S. Pietro a Patierno (NA) Tastiere e registri
+2973x425	CC BY 2.0	File:Wv Naples Airport banner.jpg	| Naples Airport, Italy
+3092x4000	CC BY-SA 4.0	File:Chestnut-naped antpitta (Grallaria nuchalis ruficeps) Las Tangaras.jpg	| Chestnut-naped antpitta (Grallaria nuchalis ruficeps), Reserva Las Tangaras, Chocó, Colombia
+4499x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (01 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (02 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (03 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (04 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (07 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (08 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (09 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (10 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8666x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (12 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (13 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (14 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8666x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (15 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (16 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (17 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (18 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+4575x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (19 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+2870x1920	Public domain	File:Airlift International DC-8-63CF at Capodichino (Naples) Airport 26 Nov 1980 with relief supplies for Ipinia earthquake.jpg	| An Airlift International DC-8-63CF aircraft carrying relief supplies is unloaded at Capodichino Airport. The blankets will be used to assist
+### Maximilian Kolbe 1936
+1139x1733	Public domain	File:Zeitschrift für Bücherfreunde (IA zeitschriftfurb1909gese 0).pdf	| "Monatshefte für Bibliophilie und verwandte Interessen," Apr. 1897-Mar. 1909 Title from caption 2 v. a year (paged continuously) 1897-1920; 
+1164x1710	Public domain	File:Zeitschrift für Bücherfreunde (IA zeitschriftfurbu1909gese).pdf	| "Monatshefte für Bibliophilie und verwandte Interessen," Apr. 1897-Mar. 1909 Title from caption 2 v. a year (paged continuously) 1897-1920; 
+1016x1589	Public domain	File:A religious encyclopædia- or, Dictionary of Biblical, historical, doctrinal, and practical theology. Based on the Realencyklopädie of Herzog, Plitt, and Hauck (IA cu31924078864851).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
+1058x1452	CC BY-SA 4.0	File:1990 Bernd Schälicke (Red.), Regine Timm (Bearb.), Ludwig Schreiner Die Gemälde des neunzehnten und zwanzigsten Jahrhunderts Katalog der Niedersächsischen Landesgalerie, Textband.pdf	| Textband des 1990 vom Niedersächsischen Landesmuseum Hannover in der Reihe Kataloge der Niedersächsischen Landesgalerie herausgegebenen Kata
+### Maksymilian Kolbe portret
+### First Communion
+1024x768	CC BY 2.0	File:First communion blessing.jpg	| Blessing at First Communion
+2191x1432	CC BY-SA 2.0	File:First Communion 1949.jpg	| Group portrait of children at their First Communion, Holyrood School, Swindon, 1949
 1652x2284	CC0	File:'First Communion'by Caroline Lord, Cincinnati Art Museum.JPG	| 
+3861x2574	CC BY-SA 3.0	File:Celebrating the First Communion - Celebrando la Primera Comunión.JPG	| Catholic tradition
+1093x1684	Public domain	File:Kotowicz-Communion.jpg	| First Communion
+1680x2350	CC0	File:Communion clothing.tif	| Drawing of the Thesaurus concept : 'communion clothing'.
 4156x3092	Public domain	File:After first Communion (Carl Frithjof Smith, 1892).jpg	| 
-1200x783	Public domain	File:The First Communion - Flora Macdonald Reid.jpg	| The First Communion by Flora Macdonald Reid, 1894 Oil on canvas; 122 x 181.6 cm. Accession number 1896P78
 3043x3716	CC0	File:The First Communion MET DT201073.jpg	| 
 3291x4000	CC0	File:The First Communion MET DP-14201-043.jpg	| Painting; Paintings
-3159x3827	Public domain	File:Sir John Lavery – Eileen, Her First Communion.jpg	| 
-3767x6714	Public domain	File:Augustins - La première communion - Henri de TOULOUSE-LAUTREC RO 1038.jpg	| 
-3999x2609	Public domain	File:Dora Macdonald Reid The First Communion (1894).jpg	| Painting by English artist Dora Macdonald Reid (1861 – 1938) The First Communion (1894)
+1321x1816	Public domain	File:Maddalena Cerasuolo - First Communion.jpg	| Maddalena Cerasuolo wearing dress for First Communion celebration, in the 20ies, Naples.
+2317x3373	CC BY-SA 4.0	File:Franz-Josef Sehr - am Tag der Erstkommunion vor dem Schwesternhaus in Obertiefenbach.jpg	| Franz-Josef Sehr - am Tag der Erstkommunion vor dem Schwesternhaus in Obertiefenbach (Beselich)
+2076x3341	CC BY-SA 3.0	File:Comunió d'Adelia (Guadassuar, 1957).jpg	| Projecte: recuperació de l'obra fotogràfica d'En Vicente Nácher Vendrell, les fotografies familiars i el seu Arxiu. Treball conjunt de l'Arx
+5184x3888	CC BY-SA 4.0	File:First Communion in the Philippines 01.jpg	| First Communion [1] Diocese of Malolos
+5184x3888	CC BY-SA 4.0	File:First Communion in the Philippines 02.jpg	| First Communion [1] Diocese of Malolos
+4967x3791	CC BY-SA 4.0	File:First Communion in the Philippines 04.jpg	| First Communion [1] Diocese of Malolos
+5184x3888	CC BY-SA 4.0	File:First Communion in the Philippines 06.jpg	| First Communion [1] Diocese of Malolos
+5184x3888	CC BY-SA 4.0	File:First Communion in the Philippines 07.jpg	| First Communion Diocese of Malolos
+5159x3711	CC BY-SA 4.0	File:First Communion in the Philippines 11.jpg	| First Communion [1] Diocese of Malolos
+5184x3888	CC BY-SA 4.0	File:First Communion in the Philippines 14.jpg	| First Communion Diocese of Malolos
+4633x3713	CC BY-SA 4.0	File:First Communion in the Philippines 18.jpg	| First Communion [1] Diocese of Malolos
 4052x3040	Public domain	File:After First Communion Closeup 1.jpg	| Closeup
 5175x3881	Public domain	File:After First Communion Closeup 2.jpg	| Closeup
 2207x1655	Public domain	File:After First Communion Closeup 3.jpg	| Closeup
-2825x3361	Public domain	File:Liévin De Winne - The Delayed First Communion - 1938-AL - Museum of Fine Arts Ghent (MSK).jpg	| 
-2142x2652	No restrictions	File:Painting "First Communion" by Aimee Schweig - DPLA - d87b934b0a7ca5c2fd10dc7eaa2fca17 (page 1).jpg	| Portrait of an unknown girl in her First Communion outfit painted by St. Louis artist Aimee Schweig. The girl is seated in a blue chair and 
-2200x3300	No restrictions	File:Painting "First Communion" by Aimee Schweig - DPLA - d87b934b0a7ca5c2fd10dc7eaa2fca17 (page 2).jpg	| Portrait of an unknown girl in her First Communion outfit painted by St. Louis artist Aimee Schweig. The girl is seated in a blue chair and 
-2200x3300	No restrictions	File:Painting "First Communion" by Aimee Schweig - DPLA - d87b934b0a7ca5c2fd10dc7eaa2fca17 (page 3).jpg	| Portrait of an unknown girl in her First Communion outfit painted by St. Louis artist Aimee Schweig. The girl is seated in a blue chair and 
-2200x3300	No restrictions	File:Painting "First Communion" by Aimee Schweig - DPLA - d87b934b0a7ca5c2fd10dc7eaa2fca17 (page 4).jpg	| Portrait of an unknown girl in her First Communion outfit painted by St. Louis artist Aimee Schweig. The girl is seated in a blue chair and 
-3300x2200	No restrictions	File:Painting "First Communion" by Aimee Schweig - DPLA - d87b934b0a7ca5c2fd10dc7eaa2fca17 (page 5).jpg	| Portrait of an unknown girl in her First Communion outfit painted by St. Louis artist Aimee Schweig. The girl is seated in a blue chair and 
-3300x2200	No restrictions	File:Painting "First Communion" by Aimee Schweig - DPLA - d87b934b0a7ca5c2fd10dc7eaa2fca17 (page 6).jpg	| Portrait of an unknown girl in her First Communion outfit painted by St. Louis artist Aimee Schweig. The girl is seated in a blue chair and 
-3300x2200	No restrictions	File:Painting "First Communion" by Aimee Schweig - DPLA - d87b934b0a7ca5c2fd10dc7eaa2fca17 (page 7).jpg	| Portrait of an unknown girl in her First Communion outfit painted by St. Louis artist Aimee Schweig. The girl is seated in a blue chair and 
-1200x773	Public domain	File:Philip Richard Morris (1836-1902) - The First Communion, Dieppe - 1974.646 - Calderdale Metropolitan Borough Council.jpg	| 
-### Communion of the Apostles painting
-2536x1954	Public domain	File:Fra Angelico 015.jpg	| Last Supper
-2536x2540	Public domain	File:José de Ribera 006.jpg	| Communion of the Apostles
-2024x2482	Public domain	File:José de Ribera 007.jpg	| detail
-2024x2469	Public domain	File:José de Ribera 008.jpg	| detail
-2111x1607	Public domain	File:Comunione degli apostoli, cella 35.jpg	| Last Supper
-2286x2992	Public domain	File:Albrecht Altdorfer - Communion of the Apostles - WGA0212.jpg	| 
-1232x1000	Public domain	File:Fra Angelico - Institution of the Eucharist (Cell 35) - WGA00549.jpg	| Last Supper
-4928x3264	CC BY-SA 4.0	File:Church of Saint George in Staro Nagorichino, Communion of the Apostles in the apse.jpg	| Church of Saint George in Staro Nagorichino, Communion of the Apostles in the apse
-1600x952	Public domain	File:The Communion of the Apostles (Luca Giordano).jpg	| Oil on canvas painting in the Museum of Fine Arts in Boston.
-5132x3814	CC0	File:Church of Panagia Amasgou, Monagri, Cyprus, sanctuary, apse, wall paintings - Apse wall, north side, upper register, Communion of Apostles - MSBZ004 BF S 1991 5943 - Dumbarton Oaks.jpg	| 
-5102x3832	CC0	File:Church of Panagia Amasgou, Monagri, Cyprus, sanctuary, apse, wall paintings - Apse wall, north side, upper register, Communion of Apostles - MSBZ004 BF S 1991 5944 - Dumbarton Oaks.jpg	| 
-5174x3817	CC0	File:Church of Panagia Amasgou, Monagri, Cyprus, sanctuary, apse, wall paintings - Apse wall, north side, upper register, Communion of Apostles - MSBZ004 BF S 1991 5945 - Dumbarton Oaks.jpg	| 
-5165x3797	CC0	File:Church of Panagia Amasgou, Monagri, Cyprus, sanctuary, apse, wall paintings - Apse wall, south side, upper register, Communion of Apostles - MSBZ004 BF S 1991 5946 - Dumbarton Oaks.jpg	| 
-4032x3024	CC BY-SA 4.0	File:Archaeological Museum of Rethymno 57 - Communion of the Apostles, wall painting from Panagia church at Patsos in Amari, 14th century.jpg	| Archaeological Museum of Rethymno, Crete, Greece. Temporary exhibition in the Church of St Francis.
-5388x3518	CC BY 2.0	File:Fra Angelico, Last Supper with Donor Portrait, ca. 1441-42; Convent of San Marco, Florence (2).jpg	| 
-5252x3282	CC BY 2.0	File:Fra Angelico, Last Supper with Donor Portrait, ca. 1441-42, detail; Convent of San Marco, Florence.jpg	| Museum of San Marco, Florence
-1600x1067	CC BY 4.0	File:Christ commits the apostles with wine - St Nicholas church Velika Hoca 282N3461-1.jpg	| St Nicholas Church, Velika Hoča, wall painting
-1600x1067	CC BY 4.0	File:Fresco-Communion of the apostles with wine 282N3735 - St John Church Velika Hoča.jpg	| Church of St John, Velika Hoča, wall painting
-5883x8048	Public domain	File:(Venice) Institution of the Eucharist by Giandomenico Tiepolo - Gallerie Accademia.jpg	| 
-2424x2208	CC BY-SA 4.0	File:Cella 35, collaboratori del beato angelico, comunione degli apostoli, 1442-50 circa 01.jpg	| Museo di San Marco This picture was uploaded via web-app "Wiki Loves Monuments Italia".
-2089x3127	CC BY-SA 4.0	File:Cella 35, collaboratori del beato angelico, comunione degli apostoli, 1442-50 circa 02.jpg	| Museo di San Marco This picture was uploaded via web-app "Wiki Loves Monuments Italia".
-3456x2304	CC BY-SA 4.0	File:Cella 35, collaboratori del beato angelico, comunione degli apostoli, 1442-50 circa 04.jpg	| Museo di San Marco This picture was uploaded via web-app "Wiki Loves Monuments Italia".
-1788x3236	CC BY-SA 4.0	File:Cella 35, collaboratori del beato angelico, comunione degli apostoli, 1442-50 circa 07 pozzo.jpg	| Museo di San Marco This picture was uploaded via web-app "Wiki Loves Monuments Italia".
-2677x4169	CC BY-SA 4.0	File:Federico Barocci Urbino - L'emozione della pittura moderna 30.jpg	| Federico Barocci Urbino - L'emozione della pittura moderna - 29 ott 2024
-### Holy Communion host chalice
-3264x2448	CC BY-SA 3.0	File:Lord's Supper.JPG	| Communion, Lord's Supper, Holy Eucharist,
-3264x2448	CC BY-SA 3.0	File:Communion Table.jpg	| Communion, Holy Eucharist, Lord's Supper, Bread, Wine
-3264x2448	CC BY-SA 3.0	File:Communion sepia.jpg	| communion, Lord's Supper, Holy Eucharist, bread, wine
-3264x2448	CC BY-SA 3.0	File:Communion cool.jpg	| Communion, Lord's Supper, Holy Eucharist, Bread, Wine
-3264x2448	CC BY-SA 3.0	File:Lord's Supper bilbao.jpg	| Communion, Lord's Supper, Bread, Wine, Holy Eucharist
-3264x2448	CC BY-SA 3.0	File:Lord's Supper sepia.jpg	| Communion, Lord's Supper, Holy Eucharist, Bread, Wine
-3264x2448	CC BY-SA 3.0	File:Lord's Supper Sketched.jpg	| Communion, Lord's Supper, Holy Eucharist, Bread, Wine
-1197x1454	Public domain	File:Communion tokens (IA communiontokens00warn).pdf	| Subjects:
-1183x1370	Public domain	File:Brief devotions for the Holy Communion (microform) - intended especially for busy people (IA cihm 10267).pdf	| Filmed from a copy of the original publication held by the Library of Parliament and the National Library of Canada 43 Subjects: Lord's Supp
-### Gianna Beretta Molla
-2346x4170	CC BY-SA 3.0	File:All Saints Catholic Church (Walton, Kentucky) - nave, altar to St. Gianna Beretta Molla.jpg	| All Saints Catholic Church (Walton, Kentucky) - nave, altar to St. Gianna Beretta Molla
-2128x2832	CC BY-SA 3.0	File:VoltaChiesavecchiaMesero.JPG	| Le decorazioni pittoriche della volta della chiesa vecchia di Mesero (MI) - Italy
-1200x1600	CC BY-SA 4.0	File:VestitoBattesimoGiannaBerettaMolla.jpg	| La veste battesimale di Santa Gianna Beretta Molla conservata presso la basilica di San Martino di Magenta (MI)
-1600x1200	CC BY-SA 4.0	File:St. Thomas Aquinas Church stained glass windows of the Vaniers, Gianna Beretta Molla, Franz Jägerstätter, Toronto.JPG	| The stained glass windows of the west wall of St. Thomas Aquinas Roman Catholic Church, on the St. George Campus of the University of Toront
-2560x1920	CC BY-SA 4.0	File:PanoramaMesero.jpg	| Panorama di Mesero (MI) - Italia. La piazza con l'ex chiesa parrocchiale oggi Santuario della Famiglia
-1920x2560	CC BY-SA 4.0	File:TombaSantaGiannaBerettaMolla.jpg	| La tomba di Santa Gianna Beretta Molla a Mesero (MI) - Italy
-2560x1920	CC BY-SA 4.0	File:AmbulatorioSantaGiannaBerettaMolla.jpg	| L'ingresso dello studio medico aperto da santa Gianna Beretta Molla a Mesero (MI) - Italy
-2560x1920	CC BY-SA 4.0	File:ReliquieSantaGiannaBerettaMolla-Mesero.jpg	| Reliquie di oggetti appartenuti a santa Gianna Beretta Molli conservate nel suo santuario a Mesero (MI) - Italia
-2447x3062	CC BY-SA 4.0	File:Saint Patrick Catholic Church (Columbus, Ohio) - ceiling mural, Blessed Gianna Beretta Molla.JPG	| Saint Patrick Catholic Church (Columbus, Ohio) - ceiling mural, Blessed Gianna Beretta Molla
-3000x4000	CC BY-SA 4.0	File:Saint Jeanne Baretta Molla.jpg	| She was beatified by Saint Pope John Paul de 2nd
-2999x4500	CC BY-SA 4.0	File:Covent Garden, Corpus Christi Catholic Church, statue of St Gianna Beretta Molla (1).jpg	| Covent Garden, Corpus Christi Catholic Church, statue of St Gianna Beretta Molla
-2996x4500	CC BY-SA 4.0	File:Covent Garden, Corpus Christi Catholic Church, statue of St Gianna Beretta Molla (2).jpg	| Covent Garden, Corpus Christi Catholic Church, statue of St Gianna Beretta Molla
-4624x3468	CC BY-SA 4.0	File:Milano - Chiesa della Santa Beretta Molla - 2023-09-19 23-20-34 001.jpg	| Chiesa della Santa Beretta Molla
-3468x4624	CC BY-SA 4.0	File:Milano - Chiesa della Santa Beretta Molla - 2023-09-19 23-20-34 002.jpg	| Chiesa della Santa Beretta Molla
-3408x580	CC BY-SA 4.0	File:Milano - Chiesa della Santa Beretta Molla - 2023-09-20 13-21-50 001.jpg	| Chiesa della Santa Beretta Molla
-4032x3024	CC BY 4.0	File:Kapela Svetog Križa i sv. Gianne Beretta Molla 02.jpg	| Chapel of the Holy Cross and St. Gianna Beretta Molla, Zagreb
-5712x4284	CC BY 4.0	File:Kapela Svetog Križa i sv. Gianne Beretta Molla 01.jpg	| Chapel of the Holy Cross and St. Gianna Beretta Molla, Zagreb
-4284x5712	CC BY 4.0	File:Kapela Svetog Križa i sv. Gianne Beretta Molla 03.jpg	| Chapel of the Holy Cross and St. Gianna Beretta Molla, Zagreb
-1450x2027	CC BY 4.0	File:Kapela Svetog Križa i sv. Gianne Beretta Molla 05.jpg	| Chapel of the Holy Cross and St. Gianna Beretta Molla, Zagreb
-4032x3024	CC BY 4.0	File:Kapela Svetog Križa i sv. Gianne Beretta Molla 04.jpg	| Chapel of the Holy Cross and St. Gianna Beretta Molla, Zagreb
-3024x4032	CC BY 4.0	File:Kapela Svetog Križa i sv. Gianne Beretta Molla 06.jpg	| Chapel of the Holy Cross and St. Gianna Beretta Molla, Zagreb
-8160x6144	CC BY-SA 4.0	File:Santuario di Santa Gianna Beretta Molla (Mesero).jpg	| Facciata del santuario di Santa Gianna Beretta Molla a Mesero
-### Santuario Gianna Beretta Molla Mesero
-2128x2832	CC BY-SA 3.0	File:ChiesavecchiaMesero.JPG	| La vecchia chiesa parrocchiale di Mesero (MI) - Italy
-2128x2832	CC BY-SA 3.0	File:VoltaChiesavecchiaMesero.JPG	| Le decorazioni pittoriche della volta della chiesa vecchia di Mesero (MI) - Italy
-2560x1920	CC BY-SA 4.0	File:PanoramaMesero.jpg	| Panorama di Mesero (MI) - Italia. La piazza con l'ex chiesa parrocchiale oggi Santuario della Famiglia
-2560x1920	CC BY-SA 4.0	File:ReliquieSantaGiannaBerettaMolla-Mesero.jpg	| Reliquie di oggetti appartenuti a santa Gianna Beretta Molli conservate nel suo santuario a Mesero (MI) - Italia
-8160x6144	CC BY-SA 4.0	File:Santuario di Santa Gianna Beretta Molla (Mesero).jpg	| Facciata del santuario di Santa Gianna Beretta Molla a Mesero
-### Maximilian Kolbe
-3739x2637	CC BY-SA 3.0	File:St. Maximilian Kolbe in Vörstetten.jpg	| Kath. Kirche St. Maximilian Kolbe in Vörstetten
-4000x3000	CC BY-SA 3.0	File:St. Maximilian Kolbe in Vörstetten 7.jpg	| Kath. Kirche St. Maximilian Kolbe in Vörstetten
-2448x3264	CC BY-SA 4.0	File:Maximilian-kolbe-haus-eingang.jpg	| Entrance of Maximilian-Kolbe-Center in Gdansk/Poland
-1008x490	Public domain	File:St. Maximilian Kolbe monastery, Rakovski.jpg	| St. Maximilian Kolbe Monastry in Rakovski
-3994x4712	CC BY-SA 4.0	File:St. Maximilian Kolbe, Köln-Finkenberg - 0345.jpg	| St. Maximilian Kolbe, Köln-Porz-Finkenberg, Architekt: Hans Schilling
-4000x3437	CC BY-SA 4.0	File:St. Maximilian Kolbe, Köln-Finkenberg - 0347.jpg	| St. Maximilian Kolbe, Köln-Porz-Finkenberg, Architekt: Hans Schilling
-1500x2000	CC BY-SA 4.0	File:Vörstetten, St. Maximilian Kolbe, Orgel, Prospekt.jpg	| Prospekt der Orgel der Kirche St. Maximilian Kolbe in Vörstetten.
-1500x2000	CC BY-SA 4.0	File:Vörstetten, St. Maximilian Kolbe, Orgel, Registerzüge links.jpg	| Registerzüge auf der linken Seite der Orgel der Kirche St. Maximilian Kolbe in Vörstetten.
-2000x1500	CC BY-SA 4.0	File:Vörstetten, St. Maximilian Kolbe, Orgel, Kirchenraum.jpg	| Die Orgel der Kirche St. Maximilian Kolbe in Vörstetten steht links vorne im Kirchenraum.
-1500x2000	CC BY-SA 4.0	File:Vörstetten, St. Maximilian Kolbe, Orgel, Registerzüge rechts.jpg	| Registerzüge auf der rechten Seite der Orgel der Kirche St. Maximilian Kolbe in Vörstetten.
-2064x2673	CC BY-SA 3.0	File:Commemoration to Maximilian Kolbe at Maximilian Kolbe rectoral chapel in Sanok (2021)da.jpg	| Upamiętnienie św. Maksymiliana Marii Kolbego przy kaplicy św. Maksymiliana Marii Kolbego w Sanoku.
-1789x1342	CC BY-SA 4.0	File:St. Maximilian Kolbe Church in Kotlarnia, Opole Voivodeship, Poland, August 2022.jpg	| St. Maximilian Kolbe Church in Kotlarnia, Opole Voivodeship, Poland, August 2022
-1931x1448	CC BY-SA 4.0	File:St. Maximilian Kolbe Church in Kotlarnia, Opole Voivodeship, Poland, August 2022 (1).jpg	| St. Maximilian Kolbe Church in Kotlarnia, Opole Voivodeship, Poland, August 2022
-3056x2371	CC BY-SA 4.0	File:München-Neuperlach, Pfarrkirche St. Maximilian Kolbe (3).jpg	| Interior of St. Maximilian Kolbe (München-Neuperlach)
-3858x2965	CC BY-SA 4.0	File:München-Neuperlach, Pfarrkirche St. Maximilian Kolbe (1).jpg	| St. Maximilian Kolbe (München-Neuperlach)
-3754x3000	CC BY-SA 4.0	File:München-Neuperlach, Pfarrkirche St. Maximilian Kolbe (2).jpg	| Interior of St. Maximilian Kolbe (München-Neuperlach)
-3264x2448	CC BY-SA 4.0	File:München-Neuperlach, Pfarrkirche St. Maximilian Kolbe (5).jpg	| Interior of St. Maximilian Kolbe (München-Neuperlach)
-4000x3000	CC BY-SA 4.0	File:München-Neuperlach, Pfarrkirche St. Maximilian Kolbe (4).jpg	| Interior of St. Maximilian Kolbe (München-Neuperlach)
-2952x2118	CC BY-SA 4.0	File:München-Neuperlach, Pfarrkirche St. Maximilian Kolbe (6).jpg	| Interior of St. Maximilian Kolbe (München-Neuperlach)
-2859x3812	CC BY-SA 4.0	File:München-Neuperlach, Pfarrkirche St. Maximilian Kolbe (7).jpg	| Interior of St. Maximilian Kolbe (München-Neuperlach)
-2366x2366	CC BY-SA 4.0	File:München-Neuperlach, St. Maximilian Kolbe, Felsberg-Orgel (4).jpg	| Pipe organ of St. Maximilian Kolbe (München-Neuperlach)
-2363x2363	CC BY-SA 4.0	File:München-Neuperlach, St. Maximilian Kolbe, Felsberg-Orgel (3).jpg	| Pipe organ of St. Maximilian Kolbe (München-Neuperlach)
-3792x2844	CC BY-SA 4.0	File:München-Neuperlach, St. Maximilian Kolbe, Felsberg-Orgel (13).jpg	| Pipe organ of St. Maximilian Kolbe (München-Neuperlach)
-3875x3000	CC BY-SA 4.0	File:München-Neuperlach, St. Maximilian Kolbe, Felsberg-Orgel (16).jpg	| Pipe organ of St. Maximilian Kolbe (München-Neuperlach)
-2937x2371	CC BY-SA 4.0	File:München-Neuperlach, St. Maximilian Kolbe, Felsberg-Orgel (15).jpg	| Pipe organ of St. Maximilian Kolbe (München-Neuperlach)
-4000x3000	CC BY-SA 4.0	File:München-Neuperlach, St. Maximilian Kolbe, Felsberg-Orgel (17).jpg	| Pipe organ of St. Maximilian Kolbe (München-Neuperlach)
-4000x3000	CC BY-SA 4.0	File:München-Neuperlach, St. Maximilian Kolbe, Felsberg-Truhenorgel (3).jpg	| Chest organ of St. Maximilian Kolbe (München-Neuperlach)
-### Maximilian Kolbe Auschwitz cell
-1980x2640	CC BY-SA 3.0	File:Blocks in Auschwitz 2010 Arianna Lamonaca.jpg	| Slice of the blocks in Auschwitz I
-4606x6386	CC BY-SA 2.0	File:Poland-01357 - A Saints Cell... (31722427656).jpg	| A shrine to a special man.... Cell # 18 in the basement of Block 11, where Father Kolbe was imprisoned. Maximilian Maria Kolbe, (8 January 1
-6000x4000	CC BY-SA 2.0	File:Poland-01363 - Saint Maximilian Kolbe (31387582170).jpg	| "No great love has a man then to lay down his life for a friend". Maximilian Maria Kolbe, (8 January 1894 – 14 August 1941) was a Polish Con
-### Kolbe Auschwitz block 11
-1904x2472	CC BY-SA 3.0 at	File:Todeszelle Pater Maximilian Kolbes, KZ Auschwitz I, Block 11.jpg	| Todeszelle Pater Maximilian Kolbes, KZ Auschwitz I, Block 11
-4606x6386	CC BY-SA 2.0	File:Poland-01357 - A Saints Cell... (31722427656).jpg	| A shrine to a special man.... Cell # 18 in the basement of Block 11, where Father Kolbe was imprisoned. Maximilian Maria Kolbe, (8 January 1
+1260x2298	CC BY-SA 4.0	File:St. John's Church (Omaha, Nebraska), window 20, sanctuary, First communion.jpg	| A child's first communion, from sanctuary of St. John's Catholic Church in Omaha, Nebraska.
