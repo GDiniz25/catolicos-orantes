@@ -27,7 +27,14 @@ def fazer(it):
         for k, b in enumerate(imgs):
             p = f'/tmp/{nat}_{wh}_{k}.jpg'
             open(p, 'wb').write(base64.b64decode(re.sub(r'\s', '', b)))
-            out = subprocess.run(['tesseract', p, '-', '-l', 'por+ita', '--psm', '3'], capture_output=True, text=True).stdout
+            # converte para PNG em escala de cinza e limita o tamanho (alguns JPEG CMYK ou enormes falham no tesseract)
+            q = p.replace('.jpg', '.png')
+            conv = subprocess.run(['convert', p, '-colorspace', 'Gray', '-resize', '3000x3000>', q], capture_output=True, text=True)
+            r = subprocess.run(['tesseract', q if os.path.exists(q) else p, '-', '-l', 'por+ita', '--psm', '3'], capture_output=True, text=True)
+            out = r.stdout
+            if len(out.strip()) < 50:
+                info = subprocess.run(['identify', p], capture_output=True, text=True)
+                out += f'\n[OCR VAZIO] identify: {info.stdout.strip()} {info.stderr.strip()[:200]} conv: {conv.stderr.strip()[:200]} tess: {r.stderr.strip()[:300]}'
             textos.append(out)
         if not imgs:
             textos.append('SEM IMAGEM EMBUTIDA. Links de imagem: ' + ' '.join(re.findall(r'src="([^"]+)"', h)[:10]))
