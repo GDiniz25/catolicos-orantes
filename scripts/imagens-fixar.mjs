@@ -25,15 +25,21 @@ const falhas = [];
 for (const chave of chaves) {
   const [category, slug] = chave.split('/');
   try {
-    const { data: artigo, error } = await db.from('articles').select('id,title,category,image_alt').eq('category', category).eq('slug', slug).maybeSingle();
+    const { data: artigo, error } = await db.from('articles').select('id,title,category,image_alt,image_url,image_credit').eq('category', category).eq('slug', slug).maybeSingle();
     if (error) throw new Error(error.message);
     if (!artigo) throw new Error('artigo não existe (publique antes com npm run conteudos:publicar -- --write)');
     const item = typeof fixas[chave] === 'string' ? { arquivo: fixas[chave] } : fixas[chave];
     const info = await infoCommons(item.arquivo);
     console.log(`  ${chave}: ${info.arquivo}`);
     if (!gravar) { ok++; continue; }
-    const url = await enviarPintura(db, info, `${category}--${slug}`);
     const alt = item.alt || (process.argv.includes('--alt') ? '' : artigo.image_alt) || textoAlt(artigo, info);
+    // Já aplicada: não reenvia (reenviar apaga as versões leves e deixa o site sem imagem até o próximo build)
+    if (artigo.image_url && artigo.image_credit === credito(info)) {
+      if (artigo.image_alt !== alt && item.alt) await db.from('articles').update({ image_alt: alt }).eq('id', artigo.id);
+      ok++;
+      continue;
+    }
+    const url = await enviarPintura(db, info, `${category}--${slug}`);
     const { error: e2 } = await db.from('articles').update({ image_url: url, image_alt: alt, image_credit: credito(info), updated_at: new Date().toISOString() }).eq('id', artigo.id);
     if (e2) throw new Error(e2.message);
     ok++;
