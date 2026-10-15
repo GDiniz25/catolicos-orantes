@@ -1,0 +1,52 @@
+---
+/**
+ * Botões de compartilhar: WhatsApp (link comum, funciona sem JavaScript) e
+ * "Compartilhar" (menu nativo do celular; no computador, copia o link).
+ * A prévia no WhatsApp usa a imagem da página (og:image), por isso as páginas que usam este
+ * componente passam uma imagem própria ao BaseLayout.
+ */
+interface Props {
+  /** Caminho da página, ex.: /santo-do-dia */
+  path: string;
+  /** Texto da mensagem (o link vai no fim) */
+  texto: string;
+  /** Título para o menu nativo */
+  titulo: string;
+  class?: string;
+}
+const { path, texto, titulo, class: classe } = Astro.props;
+const url = `https://catolicosorantes.com.br${path}`;
+const mensagem = `${texto}\n\n${url}`;
+const wa = `https://wa.me/?text=${encodeURIComponent(mensagem)}`;
+---
+<div class:list={['acoes', classe]} data-compartilhar data-url={url} data-titulo={titulo} data-texto={texto}>
+  <a href={wa} target="_blank" rel="noopener" class="btn btn-primario">Enviar no WhatsApp</a>
+  <button type="button" class="btn btn-secundario" data-compartilhar-botao>Compartilhar</button>
+  <p class="sr-only" aria-live="polite" data-compartilhar-aviso></p>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-compartilhar]').forEach((caixa) => {
+    const botao = caixa.querySelector<HTMLButtonElement>('[data-compartilhar-botao]');
+    const aviso = caixa.querySelector<HTMLElement>('[data-compartilhar-aviso]');
+    if (!botao || botao.dataset.pronto) return;
+    botao.dataset.pronto = '1';
+    const { url = '', titulo = '', texto = '' } = caixa.dataset;
+    botao.addEventListener('click', async () => {
+      const t = (window as unknown as { track?: (n: string, p?: Record<string, unknown>) => void }).track;
+      try {
+        if (navigator.share) {
+          await navigator.share({ title: titulo, text: texto, url });
+          t?.('whatsapp_clique', { link_url: url, origem: location.pathname, conteudo: 'compartilhar_nativo' });
+          return;
+        }
+        await navigator.clipboard.writeText(`${texto}\n\n${url}`);
+        botao.textContent = 'Link copiado';
+        if (aviso) aviso.textContent = 'Link copiado para a área de transferência.';
+        setTimeout(() => (botao.textContent = 'Compartilhar'), 2500);
+      } catch {
+        /* a pessoa cancelou ou o navegador não permitiu */
+      }
+    });
+  });
+</script>

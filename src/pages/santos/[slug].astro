@@ -2,6 +2,7 @@
 import { CATEGORY_VISUAL } from '@/config/categoryVisual';
 import { Star, ArrowLeft, Calendar } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import Compartilhar from '@/components/astro/Compartilhar.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import { markdownParaHtml } from '@/components/Markdown';
 import { getSaintsWithSlug, articleExists, getAllArticles } from '@/lib/data';
@@ -73,6 +74,7 @@ const jsonLd = [
   keywords={`${saint.saint_name}, santo ${dateLabel}, santos católicos, hagiografia`}
   ogType="article"
   image={retratoUrl}
+  imageAlt={retratoUrl ? `${shortName} em pintura de arte sacra` : undefined}
   noIndex={!indexable}
   jsonLd={jsonLd}
   ctaMaxWidth="max-w-3xl"
@@ -108,6 +110,8 @@ const jsonLd = [
               Ler artigo completo
             </a>
           )}
+
+          <Compartilhar path={path} titulo={saint.saint_name} texto={`🙏 ${shortName}, celebrado em ${dateLabel.replace(/ de ([A-ZÇ])/, (m) => m.toLowerCase())}`} class={hasArticle ? 'mt-3' : ''} />
 
           {saint.vatican_url && (
             <p class="mt-4">

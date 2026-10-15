@@ -4,6 +4,7 @@
  * Captura buscas como "liturgia de amanhã" e "evangelho de domingo".
  * Páginas que saem da janela deixam de existir no próximo build.
  */
+import { imagemDoEvangelista } from '@/lib/imagemDoDia';
 import HojeNav from '@/components/astro/HojeNav.astro';
 import { BookOpen, ChevronLeft, ChevronRight } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
@@ -29,6 +30,7 @@ const hoje = getTodayStr();
 const path = `/liturgia-diaria/${dataSlug(date)}`;
 const dataLonga = formatDateFull(date);
 const leituras = extractLeituras(liturgia.leituras);
+const imagemEv = await imagemDoEvangelista(leituras.slice().reverse().find((l) => /^(Mt|Mc|Lc|Jo)\s*\d/.test(l.trim())) ?? null);
 const corpo = tidyLiturgyHtml(sanitizeLiturgyServer(liturgia.body));
 const info = infoDoDia(date);
 const corKey = corDaLiturgia(liturgia) ?? info.tempo.cor;
@@ -63,7 +65,7 @@ const jsonLd = [
   breadcrumbSchema(crumbs),
 ];
 ---
-<BaseLayout title={title} description={description} path={path} ogType="article" jsonLd={jsonLd} publishedTime={`${date}T00:00:00-03:00`} ctaMaxWidth="max-w-3xl"
+<BaseLayout title={title} description={description} path={path} image={imagemEv} ogType="article" jsonLd={jsonLd} publishedTime={`${date}T00:00:00-03:00`} ctaMaxWidth="max-w-3xl"
   keywords={`liturgia diária ${dataLonga.replace(/^\S+, /, '').toLowerCase()}, evangelho do dia, leituras da missa, ${liturgia.title}`}>
   <PageHeader title={`Liturgia de ${dataLonga.replace(/ de \d{4}$/, '')}`} subtitle={celebracaoDaLiturgia(liturgia) ?? liturgia.title} icon={BookOpen} crumbs={crumbs} tom={tom}>
     <p class="mt-5 inline-flex flex-wrap items-center gap-x-3 gap-y-1 rounded-full bg-white/70 px-4 py-1.5 text-[15px]">

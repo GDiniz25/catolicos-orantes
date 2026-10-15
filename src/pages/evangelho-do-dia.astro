@@ -6,6 +6,8 @@
 import { BookOpen } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
+import Compartilhar from '@/components/astro/Compartilhar.astro';
+import { imagemDoEvangelista } from '@/lib/imagemDoDia';
 import HojeNav from '@/components/astro/HojeNav.astro';
 import Faq from '@/components/astro/Faq.astro';
 import { getLiturgia, getLiturgiaJanela, type LiturgiaData } from '@/lib/data';
@@ -29,6 +31,7 @@ const raw = await getLiturgia(today);
 const ev = raw ? prep(raw) : { html: null, ref: null };
 const ref = ev.ref;
 const nomeEvangelista = evangelista(ref);
+const imagemEv = await imagemDoEvangelista(ref);
 const reflexao = ev.html ? await getReflexao(today) : null;
 
 const corKey = corDaLiturgia(raw) ?? infoDoDia(today).tempo.cor;
@@ -102,6 +105,8 @@ const jsonLd = [
   title={title}
   description={description}
   path={path}
+  image={imagemEv}
+  imageAlt={nomeEvangelista ? `São ${nomeEvangelista}, evangelista` : undefined}
   keywords="evangelho do dia, evangelho de hoje, evangelho do dia de hoje, leitura do evangelho, reflexão do evangelho, liturgia diária, CNBB"
   ogType="article"
   jsonLd={jsonLd}
@@ -132,6 +137,7 @@ const jsonLd = [
             <div class="liturgia-content prose max-w-none text-[16px]" set:html={ev.html} />
           </div>
           <p class="mt-4 text-center text-xs italic text-co-warm-brown/75">Texto litúrgico: CNBB (Liturgia Diária)</p>
+          <Compartilhar path={path} titulo={title} texto={`📖 Evangelho do dia, ${dataPorExtenso(today).replace(/ de \d{4}$/, '')}${ref ? `: ${ref}` : ''}`} class="mt-6 mx-auto" />
         </section>
       ) : (
         <section class="rounded-md border border-co-warm-sand-dark bg-co-warm-sand p-5 md:p-8" aria-labelledby="texto-evangelho">

@@ -3,6 +3,7 @@
  * 366 páginas fixas: uma para cada dia do ano (ex.: /santo-do-dia/12-de-outubro).
  * O conteúdo se repete todo ano, então essas páginas acumulam relevância no Google.
  */
+import Compartilhar from '@/components/astro/Compartilhar.astro';
 import HojeNav from '@/components/astro/HojeNav.astro';
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
@@ -78,6 +79,8 @@ if (FAQ.length) jsonLd.push(faqSchema(FAQ));
   title={title}
   description={description}
   path={path}
+  image={saints[0] ? imgSanto(saints[0]) : null}
+  imageAlt={saints[0]?.saint_name}
   keywords={`santo do dia ${dataTxt}, santo de ${dataTxt}, ${nomes.slice(0, 3).join(', ')}`}
   jsonLd={jsonLd}
   noIndex={saints.length === 0}
@@ -107,6 +110,8 @@ if (FAQ.length) jsonLd.push(faqSchema(FAQ));
       ) : (
         <p class="text-co-warm-brown/75">Ainda não há santos cadastrados para esta data.</p>
       )}
+
+      {saints.length > 0 && <Compartilhar path={path} titulo={title} texto={`🙏 Santo do dia, ${dataTxt}: ${nomesUnicos.join(', ')}`} class="mt-6" />}
 
       <nav class="mt-8 flex items-center justify-between gap-4 text-[15px]" aria-label="Outros dias">
         <a href={`/santo-do-dia/${diaMesSlug(anterior.month, anterior.day)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">

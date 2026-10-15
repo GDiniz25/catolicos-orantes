@@ -6,6 +6,8 @@
 import { BookOpen } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
+import Compartilhar from '@/components/astro/Compartilhar.astro';
+import { imagemDoEvangelista } from '@/lib/imagemDoDia';
 import HojeNav from '@/components/astro/HojeNav.astro';
 import { getLiturgia, getLiturgiaJanela } from '@/lib/data';
 import { getReflexao } from '@/lib/reflexoes';
@@ -33,6 +35,7 @@ const tom = tomLiturgico(corKey);
 const celebracao = raw ? celebracaoDaLiturgia(raw) ?? raw.title : null;
 const dataLonga = dataComSemana(domingo);
 const extenso = dataPorExtenso(domingo);
+const imagemEv = await imagemDoEvangelista(ref);
 
 // A página datada só existe se o domingo estiver na janela e tiver Evangelho extraível
 const janela = await getLiturgiaJanela();
@@ -74,6 +77,8 @@ const jsonLd = [
   title={title}
   description={description}
   path={path}
+  image={imagemEv}
+  imageAlt={evangelista(ref) ? `São ${evangelista(ref)}, evangelista` : undefined}
   keywords="evangelho de domingo, evangelho do domingo, evangelho da missa de domingo, liturgia de domingo, evangelho do dia, CNBB"
   ogType="article"
   jsonLd={jsonLd}
@@ -106,6 +111,7 @@ const jsonLd = [
             <div class="liturgia-content prose max-w-none text-[16px]" set:html={evHtml} />
           </div>
           <p class="mt-4 text-center text-xs italic text-co-warm-brown/75">Texto litúrgico: CNBB (Liturgia Diária)</p>
+          <Compartilhar path={path} titulo={title} texto={`📖 Evangelho de domingo, ${extenso.replace(/ de \d{4}$/, '')}${ref ? `: ${ref}` : ''}`} class="mt-6 mx-auto" />
         </section>
       ) : (
         <section class="rounded-md border border-co-warm-sand-dark bg-co-warm-sand p-5 md:p-8" aria-labelledby="texto-evangelho">
