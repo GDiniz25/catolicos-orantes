@@ -829,5 +829,971 @@
    "titulo_sugerido": "Ladainha do Anjo da Guarda: oração e significado",
    "foco": "Ladainha devocional de uso privado aos Santos Anjos da Guarda. Doutrina: CIC 334-336 (desde o início até a morte a vida humana é cercada pela proteção e intercessão dos anjos; CIC 336 cita São Basílio: 'Cada fiel tem a seu lado um anjo como protetor e pastor para conduzi-lo à vida' pode citar como está no CIC), Mt 18,10, Sl 91(90),11, Ex 23,20. Memória dos Santos Anjos da Guarda em 2 de outubro. Incluir a oração tradicional 'Santo Anjo do Senhor, meu zeloso guardador...'. Links /oracoes-do-dia-a-dia/oracao-ao-anjo-da-guarda, /catecismo/anjos-e-demonios-doutrina-catolica, /ladainhas/ladainha-de-sao-miguel-arcanjo."
   }
+ ],
+ "M1": [
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-fiecht-austria",
+   "titulo_sugerido": "Milagre eucarístico de Fiecht (1310)",
+   "cidade": "Fiecht",
+   "pais": "Áustria",
+   "ano_catalogo": "1310",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=austria&wh=fiecht",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/austria__fiecht.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-seefeld-austria",
+   "titulo_sugerido": "Milagre eucarístico de Seefeld (1384)",
+   "cidade": "Seefeld",
+   "pais": "Áustria",
+   "ano_catalogo": "1384",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=austria&wh=seefeld",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/austria__seefeld.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-weiten-raxendorf-austria",
+   "titulo_sugerido": "Milagre eucarístico de Weiten-Raxendorf (1411)",
+   "cidade": "Weiten-Raxendorf",
+   "pais": "Áustria",
+   "ano_catalogo": "1411",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=austria&wh=weiten-raxendorf",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/austria__weiten-raxendorf.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-bois-seigneur-isaac-belgica",
+   "titulo_sugerido": "Milagre eucarístico de Bois-Seigneur-Isaac (1405)",
+   "cidade": "Bois-Seigneur-Isaac",
+   "pais": "Bélgica",
+   "ano_catalogo": "1405",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=belgio&wh=boisseigneurisaac",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/belgio__boisseigneurisaac.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-bruges-belgica",
+   "titulo_sugerido": "Milagre eucarístico de Bruges (1203)",
+   "cidade": "Bruges",
+   "pais": "Bélgica",
+   "ano_catalogo": "1203",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=belgio&wh=bruges",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/belgio__bruges.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-bruxelas-belgica",
+   "titulo_sugerido": "Milagre eucarístico de Bruxelas (1370)",
+   "cidade": "Bruxelas",
+   "pais": "Bélgica",
+   "ano_catalogo": "1370",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=belgio&wh=bruxelles",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/belgio__bruxelles.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-herentals-belgica",
+   "titulo_sugerido": "Milagre eucarístico de Herentals (1412)",
+   "cidade": "Herentals",
+   "pais": "Bélgica",
+   "ano_catalogo": "1412",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=belgio&wh=herentals",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/belgio__herentals.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-herkenrode-hasselt-belgica",
+   "titulo_sugerido": "Milagre eucarístico de Herkenrode-Hasselt (1317)",
+   "cidade": "Herkenrode-Hasselt",
+   "pais": "Bélgica",
+   "ano_catalogo": "1317",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=belgio&wh=herkenrode",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/belgio__herkenrode.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-liege-belgica",
+   "titulo_sugerido": "Milagre eucarístico de Liège (1374)",
+   "cidade": "Liège",
+   "pais": "Bélgica",
+   "ano_catalogo": "1374",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=belgio&wh=liege",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/belgio__liege.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-middelburg-lovaina-belgica",
+   "titulo_sugerido": "Milagre eucarístico de Middelburg-Lovaina (1374)",
+   "cidade": "Middelburg-Lovaina",
+   "pais": "Bélgica",
+   "ano_catalogo": "1374",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=belgio&wh=middleburg",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/belgio__middleburg.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-tumaco-colombia",
+   "titulo_sugerido": "Milagre eucarístico de Tumaco (1906)",
+   "cidade": "Tumaco",
+   "pais": "Colômbia",
+   "ano_catalogo": "1906",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=colombia&wh=tumaco",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/colombia__tumaco.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-ludbreg-croacia",
+   "titulo_sugerido": "Milagre eucarístico de Ludbreg (1411)",
+   "cidade": "Ludbreg",
+   "pais": "Croácia",
+   "ano_catalogo": "1411",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=croazia&wh=ludbreg",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/croazia__ludbreg.txt"
+  }
+ ],
+ "M2": [
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-santa-maria-egipciaca",
+   "titulo_sugerido": "Milagre eucarístico de Santa Maria Egipcíaca (IV-V séc.)",
+   "cidade": "Santa Maria Egipcíaca",
+   "pais": "Egito",
+   "ano_catalogo": "IV-V sec.",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=egitto&wh=s_maria_egiziaca",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/egitto__s_maria_egiziaca.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-scete-egito",
+   "titulo_sugerido": "Milagre eucarístico de Scete (III-V séc.)",
+   "cidade": "Scete",
+   "pais": "Egito",
+   "ano_catalogo": "III-V sec.",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=egitto&wh=scete",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/egitto__scete.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-avignon-franca",
+   "titulo_sugerido": "Milagre eucarístico de Avignon (1433)",
+   "cidade": "Avignon",
+   "pais": "França",
+   "ano_catalogo": "1433",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=francia&wh=avignone",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__avignone.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-blanot-franca",
+   "titulo_sugerido": "Milagre eucarístico de Blanot (1331)",
+   "cidade": "Blanot",
+   "pais": "França",
+   "ano_catalogo": "1331",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=blanot",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__blanot.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-bordeaux-franca",
+   "titulo_sugerido": "Milagre eucarístico de Bordeaux (1822)",
+   "cidade": "Bordeaux",
+   "pais": "França",
+   "ano_catalogo": "1822",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=bordeaux",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__bordeaux.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-dijon-franca",
+   "titulo_sugerido": "Milagre eucarístico de Dijon (1430)",
+   "cidade": "Dijon",
+   "pais": "França",
+   "ano_catalogo": "1430",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=digione",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__digione.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-douai-franca",
+   "titulo_sugerido": "Milagre eucarístico de Douai (1254)",
+   "cidade": "Douai",
+   "pais": "França",
+   "ano_catalogo": "1254",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=douai",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__douai.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-faverney-franca",
+   "titulo_sugerido": "Milagre eucarístico de Faverney (1608)",
+   "cidade": "Faverney",
+   "pais": "França",
+   "ano_catalogo": "1608",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=faverney",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__faverney.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-la-rochelle-franca",
+   "titulo_sugerido": "Milagre eucarístico de La Rochelle (1461)",
+   "cidade": "La Rochelle",
+   "pais": "França",
+   "ano_catalogo": "1461",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=la_rochelle",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__la_rochelle.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-les-ulmes-franca",
+   "titulo_sugerido": "Milagre eucarístico de Les Ulmes (1668)",
+   "cidade": "Les Ulmes",
+   "pais": "França",
+   "ano_catalogo": "1668",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=les_ulmes",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__les_ulmes.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-marseille-en-beauvaisis-franca",
+   "titulo_sugerido": "Milagre eucarístico de Marseille-en-Beauvaisis (1533)",
+   "cidade": "Marseille-en-Beauvaisis",
+   "pais": "França",
+   "ano_catalogo": "1533",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=marseille-en-beauvais",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__marseille-en-beauvais.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-paris-franca",
+   "titulo_sugerido": "Milagre eucarístico de Paris (1290)",
+   "cidade": "Paris",
+   "pais": "França",
+   "ano_catalogo": "1290",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=francia&wh=parigi",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__parigi.txt"
+  }
+ ],
+ "M3": [
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-pressac-franca",
+   "titulo_sugerido": "Milagre eucarístico de Pressac (1643)",
+   "cidade": "Pressac",
+   "pais": "França",
+   "ano_catalogo": "1643",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=pressac",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/francia__pressac.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-augsburg-alemanha",
+   "titulo_sugerido": "Milagre eucarístico de Augsburg (1194)",
+   "cidade": "Augsburg",
+   "pais": "Alemanha",
+   "ano_catalogo": "1194",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=augsburg",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/germania__augsburg.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-benningen-alemanha",
+   "titulo_sugerido": "Milagre eucarístico de Benningen (1216)",
+   "cidade": "Benningen",
+   "pais": "Alemanha",
+   "ano_catalogo": "1216",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=benningen",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/germania__benningen.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-bettbrunn-alemanha",
+   "titulo_sugerido": "Milagre eucarístico de Bettbrunn (1125)",
+   "cidade": "Bettbrunn",
+   "pais": "Alemanha",
+   "ano_catalogo": "1125",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=bettbrunn",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/germania__bettbrunn.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-erding-alemanha",
+   "titulo_sugerido": "Milagre eucarístico de Erding (1417)",
+   "cidade": "Erding",
+   "pais": "Alemanha",
+   "ano_catalogo": "1417",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=erding",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/germania__erding.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-kranenburg-alemanha",
+   "titulo_sugerido": "Milagre eucarístico de Kranenburg (1280)",
+   "cidade": "Kranenburg",
+   "pais": "Alemanha",
+   "ano_catalogo": "1280",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=kranenburg_bei_kleve",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/germania__kranenburg_bei_kleve.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-regensburg-alemanha",
+   "titulo_sugerido": "Milagre eucarístico de Regensburg (1255)",
+   "cidade": "Regensburg",
+   "pais": "Alemanha",
+   "ano_catalogo": "1255",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=regensburg",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/germania__regensburg.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-walldurn-alemanha",
+   "titulo_sugerido": "Milagre eucarístico de Walldürn (1330)",
+   "cidade": "Walldürn",
+   "pais": "Alemanha",
+   "ano_catalogo": "1330",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=walldurn",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/germania__walldurn.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-weingarten-alemanha",
+   "titulo_sugerido": "Milagre eucarístico de Weingarten",
+   "cidade": "Weingarten",
+   "pais": "Alemanha",
+   "ano_catalogo": "",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=weingarten",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/germania__weingarten.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-wilsnack-alemanha",
+   "titulo_sugerido": "Milagre eucarístico de Wilsnack (1383)",
+   "cidade": "Wilsnack",
+   "pais": "Alemanha",
+   "ano_catalogo": "1383",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=germania&wh=wilsnack",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/germania__wilsnack.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-morne-rouge-martinica",
+   "titulo_sugerido": "Milagre eucarístico de Morne-Rouge (1902)",
+   "cidade": "Morne-Rouge",
+   "pais": "Martinica",
+   "ano_catalogo": "1902",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=isole_della_martinica&wh=morne-rouge",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/isole_della_martinica__morne-rouge.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-saint-andre-reuniao",
+   "titulo_sugerido": "Milagre eucarístico de Saint-André (1902)",
+   "cidade": "Saint-André",
+   "pais": "Ilha da Reunião",
+   "ano_catalogo": "1902",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=isole_della_reunion&wh=saint-andre_de_la_reunion",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/isole_della_reunion__saint-andre_de_la_reunion.txt"
+  }
+ ],
+ "M4": [
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-alatri-italia",
+   "titulo_sugerido": "Milagre eucarístico de Alatri (1228)",
+   "cidade": "Alatri",
+   "pais": "Itália",
+   "ano_catalogo": "1228",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=alatri",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__alatri.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-assis-santa-clara",
+   "titulo_sugerido": "Milagre eucarístico de Assis (1240)",
+   "cidade": "Assis (Santa Clara)",
+   "pais": "Itália",
+   "ano_catalogo": "1240",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=santachiaradassisi",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__santachiaradassisi.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-asti-italia",
+   "titulo_sugerido": "Milagre eucarístico de Asti (1535)",
+   "cidade": "Asti",
+   "pais": "Itália",
+   "ano_catalogo": "1535",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=italia&wh=asti",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__asti.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-bagno-di-romagna-italia",
+   "titulo_sugerido": "Milagre eucarístico de Bagno di Romagna (1412)",
+   "cidade": "Bagno di Romagna",
+   "pais": "Itália",
+   "ano_catalogo": "1412",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=bagnodiromagna",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__bagnodiromagna.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-canosio-italia",
+   "titulo_sugerido": "Milagre eucarístico de Canosio (1630)",
+   "cidade": "Canosio",
+   "pais": "Itália",
+   "ano_catalogo": "1630",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=canosio",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__canosio.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-cava-dei-tirreni-italia",
+   "titulo_sugerido": "Milagre eucarístico de Cava dei Tirreni (1656)",
+   "cidade": "Cava dei Tirreni",
+   "pais": "Itália",
+   "ano_catalogo": "1656",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=cavadeitirreni",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__cavadeitirreni.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-dronero-italia",
+   "titulo_sugerido": "Milagre eucarístico de Dronero (1631)",
+   "cidade": "Dronero",
+   "pais": "Itália",
+   "ano_catalogo": "1631",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=dronero",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__dronero.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-ferrara-italia",
+   "titulo_sugerido": "Milagre eucarístico de Ferrara (1171)",
+   "cidade": "Ferrara",
+   "pais": "Itália",
+   "ano_catalogo": "1171",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=ferrara",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__ferrara.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-florenca-italia",
+   "titulo_sugerido": "Milagre eucarístico de Florença (1230-1595)",
+   "cidade": "Florença",
+   "pais": "Itália",
+   "ano_catalogo": "1230-1595",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=italia&wh=firenze",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__firenze.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-gruaro-italia",
+   "titulo_sugerido": "Milagre eucarístico de Gruaro (1294)",
+   "cidade": "Gruaro (Valvasone)",
+   "pais": "Itália",
+   "ano_catalogo": "1294",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=gruaro",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__gruaro.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-macerata-italia",
+   "titulo_sugerido": "Milagre eucarístico de Macerata (1356)",
+   "cidade": "Macerata",
+   "pais": "Itália",
+   "ano_catalogo": "1356",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=macerata",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__macerata.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-mogoro-italia",
+   "titulo_sugerido": "Milagre eucarístico de Mogoro (1604)",
+   "cidade": "Mogoro",
+   "pais": "Itália",
+   "ano_catalogo": "1604",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=mogoro",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__mogoro.txt"
+  }
+ ],
+ "M5": [
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-morrovalle-italia",
+   "titulo_sugerido": "Milagre eucarístico de Morrovalle (1560)",
+   "cidade": "Morrovalle",
+   "pais": "Itália",
+   "ano_catalogo": "1560",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=morrovalle",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__morrovalle.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-offida-italia",
+   "titulo_sugerido": "Milagre eucarístico de Offida (1273-1280)",
+   "cidade": "Offida",
+   "pais": "Itália",
+   "ano_catalogo": "1273-1280",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=offida",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__offida.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-patierno-italia",
+   "titulo_sugerido": "Milagre eucarístico de Patierno (1772)",
+   "cidade": "Patierno (Nápoles)",
+   "pais": "Itália",
+   "ano_catalogo": "1772",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=patierno",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__patierno.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-rimini-italia",
+   "titulo_sugerido": "Milagre eucarístico de Rimini (1227)",
+   "cidade": "Rimini",
+   "pais": "Itália",
+   "ano_catalogo": "1227",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=rimini",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__rimini.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-roma-seculo-vi",
+   "titulo_sugerido": "Milagre eucarístico de Roma (VI-VII séc.)",
+   "cidade": "Roma (séculos VI e VII)",
+   "pais": "Itália",
+   "ano_catalogo": "VI-VII sec.",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=italia&wh=romaa",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__romaa.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-roma-1610",
+   "titulo_sugerido": "Milagre eucarístico de Roma (1610)",
+   "cidade": "Roma",
+   "pais": "Itália",
+   "ano_catalogo": "1610",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=romab",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__romab.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-rosano-italia",
+   "titulo_sugerido": "Milagre eucarístico de Rosano (1948)",
+   "cidade": "Rosano",
+   "pais": "Itália",
+   "ano_catalogo": "1948",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=rosano",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__rosano.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-sao-pedro-damiao",
+   "titulo_sugerido": "Milagre eucarístico de São Pedro Damião (XI séc.)",
+   "cidade": "São Pedro Damião",
+   "pais": "Itália",
+   "ano_catalogo": "XI sec.",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=sanpierdamiani",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__sanpierdamiani.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-salzano-italia",
+   "titulo_sugerido": "Milagre eucarístico de Salzano (1517)",
+   "cidade": "Salzano",
+   "pais": "Itália",
+   "ano_catalogo": "1517",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=salzano",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__salzano.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-trani-italia",
+   "titulo_sugerido": "Milagre eucarístico de Trani (XI séc.)",
+   "cidade": "Trani",
+   "pais": "Itália",
+   "ano_catalogo": "XI sec.",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=trani",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__trani.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-turim-1453",
+   "titulo_sugerido": "Milagre eucarístico de Turim (1453)",
+   "cidade": "Turim",
+   "pais": "Itália",
+   "ano_catalogo": "1453",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=italia&wh=torinoa",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__torinoa.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-turim-1640",
+   "titulo_sugerido": "Milagre eucarístico de Turim (1640)",
+   "cidade": "Turim",
+   "pais": "Itália",
+   "ano_catalogo": "1640",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=torinob",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__torinob.txt"
+  }
+ ],
+ "M6": [
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-veroli-italia",
+   "titulo_sugerido": "Milagre eucarístico de Veroli (1570)",
+   "cidade": "Veroli",
+   "pais": "Itália",
+   "ano_catalogo": "1570",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=veroli",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__veroli.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-volterra-italia",
+   "titulo_sugerido": "Milagre eucarístico de Volterra (1472)",
+   "cidade": "Volterra",
+   "pais": "Itália",
+   "ano_catalogo": "1472",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=italia&wh=volterra",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/italia__volterra.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-alkmaar-holanda",
+   "titulo_sugerido": "Milagre eucarístico de Alkmaar (1429)",
+   "cidade": "Alkmaar",
+   "pais": "Holanda",
+   "ano_catalogo": "1429",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=alkmaar",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/olanda__alkmaar.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-amsterdam-holanda",
+   "titulo_sugerido": "Milagre eucarístico de Amsterdam (1345)",
+   "cidade": "Amsterdam",
+   "pais": "Holanda",
+   "ano_catalogo": "1345",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=olanda&wh=amsterdam",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/olanda__amsterdam.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-bergen-holanda",
+   "titulo_sugerido": "Milagre eucarístico de Bergen (1421)",
+   "cidade": "Bergen",
+   "pais": "Holanda",
+   "ano_catalogo": "1421",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=bergen",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/olanda__bergen.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-boxmeer-holanda",
+   "titulo_sugerido": "Milagre eucarístico de Boxmeer (1400)",
+   "cidade": "Boxmeer",
+   "pais": "Holanda",
+   "ano_catalogo": "1400",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=boxmeer",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/olanda__boxmeer.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-boxtel-hoogstraten-holanda",
+   "titulo_sugerido": "Milagre eucarístico de Boxtel-Hoogstraten (1380)",
+   "cidade": "Boxtel-Hoogstraten",
+   "pais": "Holanda",
+   "ano_catalogo": "1380",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=boxtel-hoogstraten",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/olanda__boxtel-hoogstraten.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-breda-niervaart-holanda",
+   "titulo_sugerido": "Milagre eucarístico de Breda-Niervaart (1300)",
+   "cidade": "Breda-Niervaart",
+   "pais": "Holanda",
+   "ano_catalogo": "1300",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=breda-niervaart",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/olanda__breda-niervaart.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-meerssen-holanda",
+   "titulo_sugerido": "Milagre eucarístico de Meerssen (1222-1465)",
+   "cidade": "Meerssen",
+   "pais": "Holanda",
+   "ano_catalogo": "1222-1465",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=meerssen",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/olanda__meerssen.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-stiphout-holanda",
+   "titulo_sugerido": "Milagre eucarístico de Stiphout (1342)",
+   "cidade": "Stiphout",
+   "pais": "Holanda",
+   "ano_catalogo": "1342",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=stiphout",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/olanda__stiphout.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-eten-peru",
+   "titulo_sugerido": "Milagre eucarístico de Eten (1649)",
+   "cidade": "Eten",
+   "pais": "Peru",
+   "ano_catalogo": "1649",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=peru&wh=eten",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/peru__eten.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-cracovia-polonia",
+   "titulo_sugerido": "Milagre eucarístico de Cracóvia (1345)",
+   "cidade": "Cracóvia",
+   "pais": "Polônia",
+   "ano_catalogo": "1345",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=polonia&wh=cracovia",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/polonia__cracovia.txt"
+  }
+ ],
+ "M7": [
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-glotowo-polonia",
+   "titulo_sugerido": "Milagre eucarístico de Głotowo (1290)",
+   "cidade": "Głotowo",
+   "pais": "Polônia",
+   "ano_catalogo": "1290",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=polonia&wh=glotowo",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/polonia__glotowo.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-legnica-polonia",
+   "titulo_sugerido": "Milagre eucarístico de Legnica (2013)",
+   "cidade": "Legnica",
+   "pais": "Polônia",
+   "ano_catalogo": "2013",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=polonia&wh=legnica",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/polonia__legnica.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-poznan-polonia",
+   "titulo_sugerido": "Milagre eucarístico de Poznań (1399)",
+   "cidade": "Poznań",
+   "pais": "Polônia",
+   "ano_catalogo": "1399",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=polonia&wh=poznan",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/polonia__poznan.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-alboraya-almassera-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Alboraya-Almàssera (1348)",
+   "cidade": "Alboraya-Almàssera",
+   "pais": "Espanha",
+   "ano_catalogo": "1348",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=spagna&wh=alboraya-almacera",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__alboraya-almacera.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-alcala-de-henares-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Alcalá de Henares (1597)",
+   "cidade": "Alcalá de Henares",
+   "pais": "Espanha",
+   "ano_catalogo": "1597",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=alcala",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__alcala.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-alcoy-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Alcoy (1568)",
+   "cidade": "Alcoy",
+   "pais": "Espanha",
+   "ano_catalogo": "1568",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=alcoy",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__alcoy.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-caravaca-de-la-cruz-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Caravaca de la Cruz (1231)",
+   "cidade": "Caravaca de la Cruz",
+   "pais": "Espanha",
+   "ano_catalogo": "1231",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=caravaca_de_la_cruz",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__caravaca_de_la_cruz.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-cimballa-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Cimballa (1370)",
+   "cidade": "Cimballa",
+   "pais": "Espanha",
+   "ano_catalogo": "1370",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=cimballa",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__cimballa.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-daroca-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Daroca (1239)",
+   "cidade": "Daroca",
+   "pais": "Espanha",
+   "ano_catalogo": "1239",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=spagna&wh=daroca",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__daroca.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-girona-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Girona (1297)",
+   "cidade": "Girona",
+   "pais": "Espanha",
+   "ano_catalogo": "1297",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=gerona",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__gerona.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-gorkum-e-el-escorial-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Gorkum e El Escorial (1572)",
+   "cidade": "Gorkum e El Escorial",
+   "pais": "Espanha",
+   "ano_catalogo": "1572",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=gorkum-el_escorial",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__gorkum-el_escorial.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-guadalupe-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Guadalupe (1420)",
+   "cidade": "Guadalupe",
+   "pais": "Espanha",
+   "ano_catalogo": "1420",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=guadalupe",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__guadalupe.txt"
+  }
+ ],
+ "M8": [
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-ivorra-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Ivorra (1010)",
+   "cidade": "Ivorra",
+   "pais": "Espanha",
+   "ano_catalogo": "1010",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_c.html?nat=spagna&wh=ivorra",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__ivorra.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-moncada-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Moncada (1392)",
+   "cidade": "Moncada",
+   "pais": "Espanha",
+   "ano_catalogo": "1392",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=moncada",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__moncada.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-montserrat-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Montserrat (1657)",
+   "cidade": "Montserrat",
+   "pais": "Espanha",
+   "ano_catalogo": "1657",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=montserrat",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__montserrat.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-o-cebreiro-espanha",
+   "titulo_sugerido": "Milagre eucarístico de O Cebreiro (1300)",
+   "cidade": "O Cebreiro",
+   "pais": "Espanha",
+   "ano_catalogo": "1300",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=ocebreiro",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__ocebreiro.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-onil-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Onil (1824)",
+   "cidade": "Onil",
+   "pais": "Espanha",
+   "ano_catalogo": "1824",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=spagna&wh=onil",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__onil.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-ponferrada-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Ponferrada (1533)",
+   "cidade": "Ponferrada",
+   "pais": "Espanha",
+   "ano_catalogo": "1533",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=ponferrada",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__ponferrada.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-sant-joan-de-les-abadesses-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Sant Joan de les Abadesses (1251)",
+   "cidade": "Sant Joan de les Abadesses",
+   "pais": "Espanha",
+   "ano_catalogo": "1251",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=s_j_de_las_abadeses",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__s_j_de_las_abadeses.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-silla-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Silla (1907)",
+   "cidade": "Silla",
+   "pais": "Espanha",
+   "ano_catalogo": "1907",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=silla",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__silla.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-valencia-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Valência",
+   "cidade": "Valência",
+   "pais": "Espanha",
+   "ano_catalogo": "",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=spagna&wh=valencia",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__valencia.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-zaragoza-espanha",
+   "titulo_sugerido": "Milagre eucarístico de Zaragoza (1427)",
+   "cidade": "Zaragoza",
+   "pais": "Espanha",
+   "ano_catalogo": "1427",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=spagna&wh=zaragoza",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/spagna__zaragoza.txt"
+  },
+  {
+   "category": "milagres-eucaristicos",
+   "slug": "milagre-eucaristico-de-ettiswil-suica",
+   "titulo_sugerido": "Milagre eucarístico de Ettiswil (1447)",
+   "cidade": "Ettiswil",
+   "pais": "Suíça",
+   "ano_catalogo": "1447",
+   "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=svizzera&wh=ettiswil",
+   "arquivo_catalogo": "/home/claude/catalogo/catalogo/svizzera__ettiswil.txt"
+  }
  ]
 }

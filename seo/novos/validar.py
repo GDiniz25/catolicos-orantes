@@ -35,7 +35,7 @@ for s in sai:
     if len(s['excerpt']) > 160: errs.append(f'{sl}: excerpt {len(s["excerpt"])}')
     for h in re.findall(r'href="([^"]+)"', c):
         if h.startswith('/') and h.split('#')[0] not in slugs and h not in cats: errs.append(f'{sl}: href invalido {h}')
-        if h.startswith('http') and 'vatican.va' not in h: errs.append(f'{sl}: href externo {h}')
+        if h.startswith('http') and 'vatican.va' not in h and 'miracolieucaristici.org' not in h: errs.append(f'{sl}: href externo {h}')
     tags = set(t.lower() for t in re.findall(r'<([a-zA-Z0-9]+)', c))
     if tags - allowed: errs.append(f'{sl}: tags nao permitidas {tags - allowed}')
     if 'style=' in c or 'class=' in c: errs.append(f'{sl}: style/class')
@@ -45,7 +45,8 @@ for s in sai:
     if not fp or '<strong>' not in fp.group(1): errs.append(f'{sl}: primeiro p sem strong')
     texto = re.sub(r'<[^>]+>', ' ', c)
     n = len(texto.split())
-    if n < 1000: errs.append(f'{sl}: so {n} palavras')
+    minimo = 750 if lote.startswith('M') else 1000  # milagres: o tamanho segue os fatos disponíveis, sem enchimento
+    if n < minimo: errs.append(f'{sl}: so {n} palavras')
     for t in ('p','h2','h3','li','ul','ol','strong','em','a','blockquote','table','tr','td','th'):
         o = len(re.findall(rf'<{t}[ >]', c)); cl = c.count(f'</{t}>')
         if o != cl: errs.append(f'{sl}: tag <{t}> desbalanceada {o}/{cl}')
