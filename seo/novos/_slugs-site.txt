@@ -236,10 +236,13 @@
 /exame-de-consciencia/primeira-confissao
 /glossario
 /ladainhas/ladainha-da-divina-misericordia-oracao-significado
+/ladainhas/ladainha-da-humildade
+/ladainhas/ladainha-da-sagrada-familia
 /ladainhas/ladainha-de-nossa-senhora-aparecida
 /ladainhas/ladainha-de-nossa-senhora-ladainha-lauretana
 /ladainhas/ladainha-de-santa-catarina-de-sena
 /ladainhas/ladainha-de-santa-faustina-kowalska
+/ladainhas/ladainha-de-santa-luzia
 /ladainhas/ladainha-de-santa-monica
 /ladainhas/ladainha-de-santa-rita-de-cassia
 /ladainhas/ladainha-de-santa-teresinha-do-menino-jesus
@@ -256,9 +259,12 @@
 /ladainhas/ladainha-de-sao-padre-pio
 /ladainhas/ladainha-de-sao-tomas-de-aquino
 /ladainhas/ladainha-de-todos-os-santos-texto-completo-e-meditacao
+/ladainhas/ladainha-do-anjo-da-guarda
+/ladainhas/ladainha-do-espirito-santo
 /ladainhas/ladainha-do-preciosissimo-sangue-de-jesus
 /ladainhas/ladainha-do-sagrado-coracao-de-jesus
 /ladainhas/ladainha-do-santissimo-nome-de-jesus
+/ladainhas/ladainha-do-santissimo-sacramento
 /laudes-de-hoje
 /lectio-divina
 /liturgia-das-horas/a-hora-media-santificando-o-trabalho
