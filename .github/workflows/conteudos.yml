@@ -66,6 +66,11 @@ jobs:
           npm install --no-save --no-audit --no-fund smartcrop-sharp
           node --env-file=.env scripts/imagens-foco.mjs --write
 
+      - name: Refinar o foco pelos rostos
+        run: |
+          pip install --quiet opencv-python-headless numpy requests
+          python3 scripts/imagens-rosto.py --write
+
       - name: Apagar variáveis
         if: always()
         run: rm -f .env

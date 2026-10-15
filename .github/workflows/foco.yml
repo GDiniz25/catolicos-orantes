@@ -1,0 +1,42 @@
+name: Foco das imagens (rostos)
+
+# Refina o ponto de corte das imagens procurando rostos e reconstrói o site.
+on:
+  push:
+    branches: [main]
+    paths: ['scripts/imagens-rosto.py']
+  workflow_dispatch: {}
+
+concurrency:
+  group: conteudos
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  foco:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Preparar variáveis
+        env:
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          { echo "VITE_SUPABASE_URL=$VITE_SUPABASE_URL"; echo "SUPABASE_SERVICE_ROLE_KEY=$SUPABASE_SERVICE_ROLE_KEY"; } > .env
+      - name: Refinar o foco pelos rostos
+        run: |
+          pip install --quiet opencv-python-headless numpy requests
+          python3 scripts/imagens-rosto.py --write
+      - name: Apagar variáveis
+        if: always()
+        run: rm -f .env
+      - name: Disparar o build do site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
