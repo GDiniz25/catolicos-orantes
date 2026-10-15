@@ -21,7 +21,16 @@ print(len(uniq), 'itens')
 def fazer(it):
     nat, wh, nome, url = it
     try:
-        h = get(f'https://www.miracolieucaristici.org/pr/{nat}/{wh}.html').decode('latin-1')
+        raw = get(f'https://www.miracolieucaristici.org/pr/{nat}/{wh}.html')
+        try:
+            h = raw.decode('utf-8')
+        except UnicodeDecodeError:
+            h = raw.decode('latin-1')
+        sem_img = re.sub(r'data:image[^"\')]+', '', h)
+        sem_img = re.sub(r'(?is)<(script|style)[^>]*>.*?</\1>', ' ', sem_img)
+        texto_html = html.unescape(re.sub(r'<[^>]+>', ' ', sem_img))
+        texto_html = re.sub(r'[ \t]+', ' ', texto_html)
+        texto_html = re.sub(r'\n\s*\n+', '\n', texto_html).strip()
         imgs = re.findall(r'data:image/(?:jpeg|jpg|png);base64,([A-Za-z0-9+/=\s]+)', h)
         textos = []
         for k, b in enumerate(imgs):
@@ -45,8 +54,8 @@ def fazer(it):
             textos.append(out)
         if not imgs:
             textos.append('SEM IMAGEM EMBUTIDA. Links de imagem: ' + ' '.join(re.findall(r'src="([^"]+)"', h)[:10]))
-        open(f'catalogo/{nat}__{wh}.txt', 'w').write(f'# {nome}\n# {url}\n\n' + '\n\n=====\n\n'.join(textos))
-        return nat, wh, len(imgs), sum(len(t) for t in textos)
+        open(f'catalogo/{nat}__{wh}.txt', 'w').write(f'# {nome}\n# {url}\n\n## TEXTO DA PAGINA\n{texto_html}\n\n## OCR DO PAINEL\n' + '\n\n=====\n\n'.join(textos))
+        return nat, wh, len(imgs), len(texto_html), sum(len(t) for t in textos)
     except Exception as e:
         return nat, wh, -1, str(e)
 with cf.ThreadPoolExecutor(6) as ex:
