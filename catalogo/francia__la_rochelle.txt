@@ -1,6 +1,10 @@
 # La Rochelle, 1461
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=la_rochelle
 
+## TEXTO DA PAGINA
+
+
+## OCR DO PAINEL
 
 [OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
 Empty page!!

@@ -1,6 +1,10 @@
 # Lanciano, 750 D.C.
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=italia&wh=lanciano
 
+## TEXTO DA PAGINA
+
+
+## OCR DO PAINEL
 ./ 5 oo o
 PÁ IA E re Eucarístico de
 

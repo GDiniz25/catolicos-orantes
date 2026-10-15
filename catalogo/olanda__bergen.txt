@@ -1,6 +1,10 @@
 # Bergen, 1421
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=olanda&wh=bergen
 
+## TEXTO DA PAGINA
+
+
+## OCR DO PAINEL
 
 [OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
 Empty page!!

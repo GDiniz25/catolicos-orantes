@@ -1,6 +1,10 @@
 # Benningen, 1216
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=germania&wh=benningen
 
+## TEXTO DA PAGINA
+
+
+## OCR DO PAINEL
 
 [OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
 Empty page!!

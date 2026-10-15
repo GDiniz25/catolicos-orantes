@@ -1,6 +1,10 @@
 # Ivorra, 1010
 # https://www.miracolieucaristici.org/pr/Liste/scheda_c.html?nat=spagna&wh=ivorra
 
+## TEXTO DA PAGINA
+IV ORRA ESP ANHA, 1010 ilagre Eucarístico de O Vinho no Cálice converteu-se em Sangue e espalhou-se sobre a toalha do altar deslizando para a terra. © 2006, Edizioni San Clemente Interior da Igreja de S. Cugat P ormenor do Sacrário que contém as Sagradas Relíquias Relíquia de parte do corporal manchado de Sangue Igreja de S. Cugat, onde estã o gu ardadas as Relíquias do Milag re
+
+## OCR DO PAINEL
 
 [OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
 Empty page!!

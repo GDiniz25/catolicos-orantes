@@ -1,6 +1,10 @@
 # Onil, 1824
 # https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=spagna&wh=onil
 
+## TEXTO DA PAGINA
+ONI L E S PA N H A , 18 2 4 ila g re Eu c arís t i co de Logo a mulher o transportou para Onil onde foi acolhido com grandes festividades . © 2006, Edizioni San Clemente Igreja de S. Giacomo Apóstolo em Onil onde se conser va a Hóstia milagrosa Vitrais presentes na igreja S. Giacomo, nos quais estão representadas as cenas do Milagre Interior da Igreja de S. Giacomo Capela constr uída no lugar onde foi encontrada a Hóstia
+
+## OCR DO PAINEL
 
 [OCR VAZIO] bytes: 828 conv: (22, 22) tess: Estimating resolution as 225
 Empty page!!

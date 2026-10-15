@@ -1,6 +1,10 @@
 # Blanot, 1331
 # https://www.miracolieucaristici.org/pr/Liste/scheda.html?nat=francia&wh=blanot
 
+## TEXTO DA PAGINA
+
+
+## OCR DO PAINEL
 BLANOT
 
 FRANÇA, 1331
