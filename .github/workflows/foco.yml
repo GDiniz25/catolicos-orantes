@@ -31,7 +31,7 @@ jobs:
           { echo "VITE_SUPABASE_URL=$VITE_SUPABASE_URL"; echo "SUPABASE_SERVICE_ROLE_KEY=$SUPABASE_SERVICE_ROLE_KEY"; } > .env
       - name: Refinar o foco pelos rostos
         run: |
-          pip install --quiet opencv-python-headless numpy requests
+          pip install --quiet "opencv-python-headless<5" numpy requests
           set -o pipefail
           python3 scripts/imagens-rosto.py --write 2>&1 | tee saida.txt || { echo "::error::$(tail -c 900 saida.txt | tr '\n' ' ')"; exit 1; }
           echo "::notice::$(tail -c 400 saida.txt | tr '\n' ' ')"

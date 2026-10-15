@@ -68,7 +68,7 @@ jobs:
 
       - name: Refinar o foco pelos rostos
         run: |
-          pip install --quiet opencv-python-headless numpy requests
+          pip install --quiet "opencv-python-headless<5" numpy requests
           python3 scripts/imagens-rosto.py --write
 
       - name: Apagar variáveis
