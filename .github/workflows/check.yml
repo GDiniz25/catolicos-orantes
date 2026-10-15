@@ -11,4 +11,4 @@ jobs:
       - run: node check.mjs > resultado.txt; node busca.mjs >> resultado.txt
       - run: |
           git config user.name bot && git config user.email bot@users.noreply.github.com
-          git add resultado.txt && git commit -m resultado && git push
+          git add resultado.txt; git add thumbs || true; git commit -m resultado && git push
