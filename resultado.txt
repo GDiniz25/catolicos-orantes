@@ -33,268 +33,304 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-### cat:Louis de Montfort
-### intitle:Montfort Grignion filetype:bitmap
-2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 01.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 02.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 03.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 04.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 05.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 06.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 07.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 08.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 09.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 10.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 11.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 12.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 13 ies.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 14 ies.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 15 ies.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 16 ies.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
-3241x4862	CC BY-SA 3.0	File:Statue de saint Louis-Marie Grignion de Montfort, Basilique Notre Dame de Bonne Nouvelle, Rennes, France.jpg	| Statue de saint Louis-Marie Grignion de Montfort dans la chapelle à l'ouest du chœur de la basilique Notre Dame de Bonne Nouvelle de Rennes.
-2990x4500	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 03.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine.
-2947x4435	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 02.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
-4672x3104	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 01.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort-sur-Meu dans le département d'Ille-et-Vilaine.
-4672x3104	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 06.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
-4672x3104	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 04.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
-3104x4672	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 05.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
-4672x3104	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 07.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
-3000x4000	CC BY-SA 4.0	File:Eglise-Saint-Louis-Marie-Grignion-de-Montfort.jpg	| Église de Saint-Louis-Marie Grignion de Montfort à Montfort-sur-Meu
-4000x3000	CC BY-SA 4.0	File:Eglise-Saint-Louis-Marie-Grignion-de-Montfort-2.jpg	| Eglise-Saint-Louis-Marie Grignion de Montfort
-3456x4608	CC BY-SA 4.0	File:Église du Pin (St Grignion de Montfort).jpg	| Statue de Saint Louis-Marie Grignion de Montfort
-1775x1523	CC0	File:Devotieprent van de heilige Ludovicus Grignion van Montfort, asset I1VFlV7ZyRj58GHpnpjlxz5Y.tif	| Title: Devotieprent van de heilige Ludovicus Grignion van MontfortDating: 1939Format original: hoogte 14 cm (zakje fiche)breedte 20 cm (zakj
-1333x2003	CC0	File:Devotieprent van de heilige Ludovicus Grignion van Montfort, asset K2fUQgQKGXoHcGjlaH0ygPMN.tif	| Title: Devotieprent van de heilige Ludovicus Grignion van MontfortCreator: Boumard et Fils (uitgever)Format original: hoogte 12.3 cm (devoti
-### cat:Les Ulmes
-SUBCATS: Maps of Les Ulmes | Pierre couverte du Mousseau
-### cat:Le Morne-Rouge
-SUBCATS: Calvaire de Morne-Rouge | Our Lady Church (Le Morne-Rouge)
-1558x1676	Public domain	File:Mount Pelée 1902 - Morne Rouge.jpg	| Main Street, Morne Rouge, Martinique, after the eruption of Mount Pelée, Aug 30, 1902. Left half of a stereoscope card.
-1530x1036	Attribution	File:Morne-Rouge Martinique.jpg	| View over Le Morne-Rouge in the direction of the cloud-hidden Mount Pelée, Martinique
-5080x3944	Public domain	File:Ferns near Morne Rouge YORYM-TA0309.jpg	| Gently sloping hillside covered in ferns.
-1840x1232	CC BY 3.0 pl	File:Le Morne Rouge - fern trees 2008.jpg	| Fern trees in Le Morne Rouge, Martinique
-1632x1192	Public domain	File:Martinique. Village du Morne-Rouge (1899) - (photogr.) Salles ; (photogr. reprod. par Radiguet & Massiot) - btv1b5965904m.jpg	| Sujet : Antilles, Archipel des Martinique, Île de la Morne Rouge, Le Appartient à l’ensemble documentaire : PhoVerre1 Appartient à l’ensembl
-1576x1424	Public domain	File:Martinique. Panorama du Morne-Rouge, vue prise du Nord, la croix au-dessus du Camp (partie Ouest) (au loin le massif des Carbets) (1899) - (photogr.) Salles ; (photogr. reprod. par Radiguet & Massiot) - btv1b5965902s.jpg	| Sujet : Antilles, Archipel des Martinique, Île de la Morne Rouge, Le Carbet, Pitons du Appartient à l’ensemble documentaire : PhoVerre1 Appa
-1576x1408	Public domain	File:Martinique. Panorama du Morne-Rouge, vue prise du Nord, la croix au-dessus du Camp (partie Est) (piton aigu piton gelé) (5 mars 1899) - (photogr.) Salles ; (photogr. reprod. par Radiguet & Massiot) - btv1b59659036.jpg	| Sujet : Antilles, Archipel des Martinique, Île de la Morne Rouge, Le Carbet, Pitons du Appartient à l’ensemble documentaire : PhoVerre1 Appa
-### cat:Onil
-SUBCATS: Ballot papers for the 2023 Spanish local elections for Onil | Buildings in Onil | Coats of arms of Onil | Festivals in Onil | Maps of Onil | Plaza de los Deportistas Olímpicos de Onil | Port de Canalís d'Onil
-3240x4320	CC BY-SA 3.0	File:Homenaje a Eusebio Sempere.JPG	| Homenaje a Eusebio Sempere, escultura de Pablo Serrano (1984)
-4450x3009	CC BY-SA 4.0	File:Vista d'Onil des del castell de Castalla.jpg	| Vista d'Onil des del castell de Castalla.
-4421x3010	CC BY-SA 4.0	File:Onil des del castell de Castalla.jpg	| Onil des del castell de Castalla.
-2400x3600	CC BY-SA 3.0	File:Capitania Gadaffis 2007 (1) - panoramio.jpg	| Capitania Gadaffis 2007 (1)
-3600x2400	CC BY-SA 3.0	File:Capitania Gadaffis 2007 (2) - panoramio.jpg	| Capitania Gadaffis 2007 (2)
-1936x1288	CC BY-SA 3.0	File:Nit de les fogueres (1) - panoramio.jpg	| Nit de les fogueres (1)
-3888x2592	CC BY-SA 3.0	File:Nit de les fogueres (2) - panoramio.jpg	| Nit de les fogueres (2)
-4208x3120	CC BY-SA 4.0	File:Parque Félix Rodríguez de la Fuente, Onil.jpg	| Parque de Félix Rodríguez de la Fuente en Onil (Alicante).
-4208x3120	CC BY-SA 4.0	File:Calle Cervantes, Onil.jpg	| Calle de Cervantes en la localidad alicantina de Onil.
-4208x3120	CC BY-SA 4.0	File:Calle Jaime I - Calle Eras, Onil.jpg	| Calle de Jaime I y calle Eras en la localidad alicantina de Onil.
-3120x4208	CC BY-SA 4.0	File:Calle Jaime I, Onil.jpg	| Calle de Jaime I en la localidad alicantina de Onil.
-4208x3120	CC BY-SA 4.0	File:Calle Valencia - Calle San Jaime (Onil) 01.jpg	| Calle de Valencia y calle de San Jaime en la localidad alicantina de Onil.
-4208x3120	CC BY-SA 4.0	File:Calle Valencia - Calle San Jaime (Onil) 02.jpg	| Calle de Valencia y calle de San Jaime en la localidad alicantina de Onil.
-4208x3120	CC BY-SA 4.0	File:Calle Mayor, Onil.jpg	| Calle Mayor de la localidad alicantina de Onil.
-### cat:Patierno
-### intitle:Patierno filetype:bitmap
+OK	fr/ctx_mont1	3241x4862	CC BY-SA 3.0	Édouard Hue (User:EdouardHue)	File:Statue de saint Louis-Marie Grignion de Montfort, Basilique Notre Dame de Bonne Nouvelle, Rennes, France.jpg
+   DESC: Statue de saint Louis-Marie Grignion de Montfort dans la chapelle à l'ouest du chœur de la basilique Notre Dame de Bonne Nouvelle de Rennes.
+   CATS: CC-BY-SA-3.0 | Files by EdouardHue | Files with coordinates missing SDC location of creation | Interior of Basilique Notre-Dame-de-Bonne-Nouvelle de Rennes | Religious statues in Rennes | Statues of Saint Louis de Montfort in Ille-et-Vilaine | Statues of standing men in France | Taken with Canon EOS 60D
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/ctx_mont2	2400x2904	CC BY-SA 4.0	Artist: Brian Whelan	File:LouisdeMontfort 2003 24 x20.jpg
+   DESC: Louis de Montfort (24" x 20"), painted by artist Brian Whelan c. 2003
+   CATS: 2000s paintings | CC-BY-SA-4.0 | Oil paintings of people | Paintings of male Christian saints | Saint Louis de Montfort | Works by Brian Whelan
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_mont3	3104x3811	CC BY-SA 2.0	Patrick from Compiègne, France	File:Dinan (Côtes-d'Armor) - Basilique Saint-Sauveur - Vitrail (50588975428).jpg
+   DESC: Dinan (Côtes-d'Armor) - Basilique Saint-Sauveur - Vitrail
+   CATS: 1951 stained-glass windows in Bretagne | 20th-century stained-glass windows in Côtes-d'Armor | Alanus de Rupe | Anne de Bretagne on stained-glass windows | Bertrand du Guesclin | Bretagne photographs taken on 2018-09-24 | CC-BY-SA-2.0 | Charles de Blois | Files with coordinates missing SDC location of creation | Flickr images reviewed by FlickreviewR 2 | Françoise d'Amboise on stained-glass windows | Henri Ier d'Avaugour | Jehan de Beaumanoir | Photographs by Patrick Monchicourt | Saint Louis de
+   LICURL: https://creativecommons.org/licenses/by-sa/2.0 USAGE: Creative Commons Attribution-Share Alike 2.0
+OK	fr/ctx_lanc1	1179x1536	Public domain	Junior	File:Miracolo Eucaristico di Lanciano - foto dal vivo.JPG
+   DESC: Eucharistic miracle of Lanciano - live photo.JPG Photo taken by me, with flash, as I passed in front of the blind. More photo details by clicking on file properties.
+   CATS: Eucharistic miracle of Lanciano | Monstrances in Italy | PD-self | Self-published work
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_lanc2	2576x1952	Public domain	Junior	File:Eucharistic Miracle of Lanciano - rear-lighted panel - front.JPG
+   DESC: Eucharistic Miracle of Lanciano - rear-lighted panel - front.JPG Made by myself. The panel is public for all visitors.
+   CATS: Eucharistic miracle of Lanciano | PD-self | Self-published work | Taken with HP PhotoSmart M517
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_lanc3	2592x3888	CC BY-SA 4.0	Luca Aless	File:Lanciano - Chiesa di San Francesco, altare del miracolo eucaristico.JPG
+   DESC: altare del miracolo eucaristico nella Chiesa di San Francesco a Lanciano
+   CATS: CC-BY-SA-4.0 | Eucharistic miracle of Lanciano | Photos by Luca Aless/Provincia di Chieti | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_nha1	1850x2840	Public domain	Unknown authorUnknown author	File:Foto da Beata Nhá Chica.jpg
+   DESC: Depicted person: Nhá Chica – beatified Brazilian person
+   CATS: Extracted images | Images with extracted images | Nhá Chica | PD-scan (PD-Brazil-media) | PD Brazil Media | Template Unknown (author)
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_nha2	2248x4000	CC BY-SA 3.0	Diovanimangia	File:Santa Nhá Chica de Baependi.jpg
+   DESC: Imagem fotografada na Igreja Nossa Senhora de Fátima, São Lourenço - MG
+   CATS: CC-BY-SA-3.0 | Nhá Chica | Self-published work | Taken with Nokia N8
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/ctx_nha3	2248x4000	CC BY 3.0	Diovani Mangia	File:Santa Nhá Chica.jpg
+   DESC: Imagem de Santa Nhá Chica
+   CATS: CC-BY-3.0 | GFDL | License migration redundant | Nhá Chica | Self-published work | Taken with Nokia N8
+   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
+OK	fr/ctx_dul1	1018x1285	CC BY-SA 3.0	André Koehne	File:Irmã Dulce.jpg
+   DESC: Irmã Dulce
+   CATS: CC-BY-SA-2.5,2.0,1.0 | CC-BY-SA-3.0-migrated | Drawings by André Koehne | GFDL | Irmã Dulce | License migration redundant | Self-published work | Sent by André Koehne
+   LICURL: http://creativecommons.org/licenses/by-sa/3.0/ USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/ctx_rom1	2112x2816	CC BY-SA 3.0	Douglas Radamez Barahona, Giovani Ascenc	File:Mural Oscar Romero UES.jpg
+   DESC: Mural con la imagen de Monseñor Óscar Arnulfo Romero, ubicado en el Edificio Histórico de la Facultad de Jurisprudencia y Ciencias Sociales de la Universidad de El Salvador.
+   CATS: CC-BY-SA-2.5,2.0,1.0 | CC-BY-SA-3.0-migrated | FoP-El Salvador | GFDL | History of El Salvador | License migration redundant | Paintings of Óscar Arnulfo Romero | Self-published work | Taken with Canon PowerShot A540 | University of El Salvador
+   LICURL: http://creativecommons.org/licenses/by-sa/3.0/ USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/ctx_rom2	1200x976	Public domain	Unknown photographerUnknown photographer	File:Óscar Arnulfo Romero meets Pope Paul VI.jpg
+   DESC: Monseñor Romero junto al papa Pablo VI. Seis semanas antes de la muerte del sumo pontífice. El arzobispo de San Salvador le entrega una foto de Rutilio Grande, asesinado un año antes.
+   CATS: Italy photographs taken on 1978-06-21 | PD Italy (20 years after creation) | Paulus VI in 1978 | Photographs of Paulus VI | Template Unknown (other) | Works copyrighted in the U.S. | Óscar Arnulfo Romero
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_rom3	2212x2080	CC BY-SA 4.0	Tenquique503	File:Óscar Romero (al centro) y Rutilio Grande (al lado derecho) c. 1977.jpg
+   DESC: Oscar Romero (al centro) junto a Rutilio Grande (al lado derecho) en la toma de arzobispado c. 1977
+   CATS: CC-BY-SA-4.0 | Christian clergy in 1977 | Rutilio Grande | Self-published work | Óscar Arnulfo Romero
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_leo1	1070x1487	Public domain	Francisco Herrera the Younger	File:Herrera Mozo – Pope St. Leo the Great.jpg
+   DESC: Francisco de Herrera el Mozo (spanish, 1622-1685): Saint Leo Magnus (pope Leo I), Prado Museum, Madrid, Spain
+   CATS: 17th-century religious paintings in the Museo del Prado | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | Artworks with known accession number | Baroque paintings in the Museo del Prado | CC-PD-Mark | Extracted images | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings by Francisco Herrera the Younger in the Museo del Prado | Papal ferula 
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_cos1	1278x1530	CC BY 4.0		File:SS. Cosmas and Damian. Oil painting. Wellcome L0013786.jpg
+   DESC: SS. Cosmas and Damian. Oil painting. Iconographic Collections
+   CATS: Artworks without Wikidata item | CC-BY-4.0 | Files from Wellcome Images | Files with no machine-readable author | Icons (art) with blue background | Icons of Cosmas and Damian | Images uploaded by Fæ | Wellcome Library oil paintings
+   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
+OK	fr/ctx_cos2	3272x3222	CC BY 4.0		File:Saints Cosmas and Damian, oil painting. Wellcome M0005992.jpg
+   DESC: Saints Cosmas and Damian, oil painting, in the Museo Arqueologico, Granada. Wellcome Images Keywords: Cosmas; Damian
+   CATS: Artworks without Wikidata item | CC-BY-4.0 | Files from Wellcome Images | Files with no machine-readable author | Images uploaded by Fæ | Paintings of Saints Cosmas and Damian | Wellcome Library oil paintings
+   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
+OK	fr/ctx_cos3	2551x4130	CC BY 4.0		File:Saint Cosmas and Saint Damian. Oil paintings. Wellcome M0006608.jpg
+   DESC: Saint Cosmas and Saint Damian. Oil paintings. Iconographic Collections Keywords: Dr. of Beechy Armitage
+   CATS: Artworks without Wikidata item | CC-BY-4.0 | Files from Wellcome Images | Files with no machine-readable author | Images uploaded by Fæ | Paintings of Saints Cosmas and Damian
+   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
+OK	fr/ctx_cos4	2565x4194	CC BY 4.0		File:Painting of Saints Cosmas and Damian Wellcome M0007691.jpg
+   DESC: Painting of Saints Cosmas and Damian. In possession of Senor Lazaro, Madrid. Wellcome Images Keywords: Damian; Cosmas
+   CATS: Artworks without Wikidata item | CC-BY-4.0 | Files from Wellcome Images | Files with no machine-readable author | Images uploaded by Fæ | Paintings of Saints Cosmas and Damian
+   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
+OK	fr/ctx_cos5	1662x1196	CC BY 4.0		File:SS. Cosmas and Damian dressing a chest wound. Oil painting. Wellcome L0010257.jpg
+   DESC: SS. Cosmas and Damian dressing a chest wound. Oil painting by Antoine de Favray. Iconographic Collections Keywords: Plaster; Prayer; Praying; Saint; Tools; Christianity; Men; name; name; Antoine de Favray
+   CATS: Antoine de Favray | Artworks without Wikidata item | CC-BY-4.0 | Files from Wellcome Images | Files with no machine-readable author | Images uploaded by Fæ | Paintings of Saints Cosmas and Damian | Surgery in art | Wellcome Library oil paintings
+   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
+OK	fr/ctx_eli1	3269x2138	CC0	Giuseppe Angeli	File:Giuseppe Angeli, Elijah Taken Up in a Chariot of Fire, c. 1740-1755, NGA 41685.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-Zero | Images from the National Gallery of Art | Old Testament paintings in the National Gallery of Art | Uploaded with pattypan
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/ctx_eli2	2022x2694	Public domain	unknown Serbian	File:Prophet Elijah, Serbian painter, 18th c.jpg
+   DESC: 
+   CATS: 18th-century paintings from Serbia | CC-PD-Mark | Elijah Day | Icons in the Hungarian Ortodox Clerical Art Museum | Icons of Elijah's ascension | Icons of Serbia | PD-Art (PD-old-100-expired) | PD-old-100-expired | Paintings without Wikidata item | Taken with Canon EOS 400D
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_eli3	2592x3872	Public domain	Unknown authorUnknown author	File:The Prophet Elijah.JPG
+   DESC: The Prophet Elijah, 1668, Tempera on panel
+   CATS: 1668 paintings in Belarus | 17th-century icons of Belarus | 17th-century religious paintings in the National Arts Museum of the Republic of Belarus | Author died more than 100 years ago public domain images | Basil Day | CC-PD-Mark | Elijah Day | Elijah in icons | Files by User:Хомелка from be.wikipedia | PD-old missing SDC copyright status | Paintings of Elijah in Belarus | Taken with Sony DSLR-A300 | Template Unknown (author)
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_eli4	1576x2291	Public domain	Emetrius (Meister der Schule von Távara)	File:Emetrius (Meister der Schule von Távara) 002.jpg
+   DESC: 
+   CATS: Beato de Gerona | Horseshoe arches | PD-Art (Yorck Project) | Paintings without Wikidata item | Two witnesses | Yorck Project paintings missing SDC digital representation of
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_sac1	3000x3755	CC BY-SA 4.0	Nheyob	File:Saint Matthias Catholic Church (Columbus, Ohio) -tabernacle.JPG
+   DESC: Saint Matthias Catholic Church (Columbus, Ohio) -tabernacle
+   CATS: April 2016 in Ohio | CC-BY-SA-4.0 | Interior of Saint Matthias Catholic Church (Columbus, Ohio) | Sanctuary lamps in the United States | Self-published work | Tabernacles in Ohio | Taken with Canon PowerShot S100
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_sac2	3648x5472	CC BY-SA 4.0	Paul R. Burley	File:Igreja de Nossa Senhora do Rosário dos Pretos Salvador Sanctuary Lamp 2019-1602.jpg
+   DESC: Sanctuary lamp, Igreja de Nossa Senhora do Rosário dos Pretos, Salvador, Bahia, Brazil.
+   CATS: Brazil images by Paul R. Burley | Brazil photographs taken on 2019-03-27 | CC-BY-SA-4.0 | Cultural heritage monuments in Brazil with known IDs | Files with coordinates missing SDC location of creation | Interior of Igreja de Nossa Senhora do Rosário dos Pretos, Salvador | Sanctuary lamps in Bahia | Silver objects in Brazil | Taken with Canon EOS 6D Mark II | Uploaded with LrMediaWiki
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_sac3	3456x4608	CC BY-SA 3.0	Farragutful	File:Cathedral of St. Matthew the Apostle DC Sanctuary lamp.JPG
+   DESC: The sanctuary lamp in the Cathedral of St. Matthew the Apostle in Washington D.C.
+   CATS: CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | Interior of the Cathedral of St. Matthew the Apostle (Washington, D.C.) | June 2014 in Washington, D.C. | Photographs of Washington, D.C. by Farragutful | Sanctuary lamps in the United States | Self-published work | United States photographs taken on 2014-06-02
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/ctx_sac4	4160x6240	CC BY-SA 4.0	Paul R. Burley	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0090.jpg
+   DESC: Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
+   CATS: Basílica de São Sebastião (Salvador) | Brazil images by Paul R. Burley | Brazil photographs taken on 2019-03-18 | CC-BY-SA-4.0 | Cultural heritage monuments in Brazil with known IDs | Images by Prburley in Wiki Loves Monuments 2020 in Brazil | Images from Wiki Loves Monuments 2020 | Images from Wiki Loves Monuments 2020 in Brazil | Images from Wiki Loves Monuments 2020 in Brazil - Bahia | Images from Wiki Loves Monuments missing SDC creator | Sanctuary lamps in Bahia | Self-published work | Uplo
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_bat1	5184x3888	CC BY-SA 4.0	FBenjr123	File:Roman Catholic Infant Baptism in Pandi Church 03.jpg
+   DESC: This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting, c) the child is held by godparents and parents over a Baptismal font with Baptismal water by Roman Catholic Parish Priest Jocelyn L. San Jose who issues d) Baptism certificates of the Philippines in the Immaculate Conception Parish Church in Pandi, Bulacan a
+   CATS: 2022 baptisms | 2022 events in the Philippines | CC-BY-SA-4.0 | Churches in the Philippines photographed in 2022 | Infant Baptism in Pandi Church | People in 2022 | Philippines photographs taken on 2022-02-20 | Self-published work | Standing women in the Philippines | Taken with Canon PowerShot SX620 HS
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_bat2	3888x5184	CC BY-SA 4.0	FBenjr123	File:Roman Catholic Infant Baptism in Pandi Church 01.jpg
+   DESC: This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting, c) the child is held by godparents and parents over a Baptismal font with Baptismal water by Roman Catholic Parish Priest Jocelyn L. San Jose who issues d) Baptism certificates of the Philippines in the Immaculate Conception Parish Church in Pandi, Bulacan a
+   CATS: 2022 baptisms | 2022 events in the Philippines | CC-BY-SA-4.0 | Churches in the Philippines photographed in 2022 | Infant Baptism in Pandi Church | People in 2022 | Philippines photographs taken on 2022-02-20 | Self-published work | Standing women in the Philippines | Taken with Canon PowerShot SX620 HS
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_bat3	3872x2576	CC BY-SA 4.0	Feldbrahi	File:Erwachsenentaufe Neviges 2023.jpg
+   DESC: Erwachsenentaufe in der Osternacht 2023 im Mariendom Neviges
+   CATS: Baptism in Germany | CC-BY-SA-4.0 | Interior of Maria Königin des Friedens (Neviges) | Personality rights warning | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_fon1	2517x3953	CC BY-SA 3.0	This Photo was taken by Wolfgang Moroder	File:Baptismal font Parish Church of Urtijëi.jpg
+   DESC: Baptismal font in wood, gilded, 1908 in the Parish Church of Urtijëi. Note the copper Holy Water dispenser to the side.
+   CATS: Baptismal fonts in South Tyrol | CC-BY-SA-3.0,2.5,2.0,1.0 | Cultural heritage monuments in South Tyrol with known IDs | Files with coordinates missing SDC location of creation | GFDL | Images with annotations | License migration redundant | Parish church St. Ulrich - Sculptures | Photos by Moroder for Cultural heritage monuments in South Tyrol | Quality images | Quality images by Moroder | Quality images of the Parish Church of Urtijëi | Sculptures of the baptism of Jesus Christ | Self-published
+   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
+OK	fr/ctx_fon2	4404x3151	CC BY-SA 4.0	Didier Descouens	File:Baptismal font of Saint-Sernin.jpg
+   DESC: Basilica of St. Sernin, Toulouse, Haute-Garonne, France - The baptismal fonts.
+   CATS: 2015 photographs of Toulouse | Baptismal fonts in Haute-Garonne | Base Mérimée | CC-BY-SA-4.0 | Cultural heritage monuments in France missing SDC location of creation | Cultural heritage monuments in France with known IDs | February 2015 in Toulouse | Files with coordinates missing SDC location of creation | France photographs taken on 2015-02-09 | Images by Archaeodontosaurus - Basilique Saint-Sernin | Interiors of churches in Toulouse | Marble baptismal fonts in France | Monuments historiques 
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_fon3	4752x7360	CC BY-SA 4.0	Didier Descouens	File:Chiesa di San Canciano - baptismal font.jpg
+   DESC: Church of San Canciano Venice, baptismal font.
+   CATS: CC-BY-SA-4.0 | Files with coordinates missing SDC location of creation | Images by Archaeodontosaurus Venice Church | Italy photographs taken on 2012-05-15 | May 2015 in Venice | San Canciano (Venezia) | Self-published work | Valued Images by Archaeodontosaurus | Valued Images by Archaeodontosaurus Venice | Valued images missing SDC depicts | Valued images of Venice | Valued images of baptismal fonts | Valued images of sculptures in Italy | Valued images promoted 2016-02 | Valued images sorted b
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_mis1	5312x2988	CC BY 4.0	Andrewgardner1	File:Traditional Latin Mass - Elevation.jpg
+   DESC: Traditional Latin Mass - Elevation
+   CATS: Altar servers | CC-BY-4.0 | Elevation (liturgy) | Minor seminaries | Self-published work | Tridentine mass | Violet chasubles
+   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
+OK	fr/ctx_mis2	4608x3456	CC BY-SA 4.0	Thomon	File:Messe ND Villeneuve.JPG
+   DESC: Messe en l'église ND de Villeneuve-sur-Yonne.
+   CATS: 2015 in Yonne | 21st-century Roman Catholic priests from France | Altars in Yonne | CC-BY-SA-4.0 | Interior of Église Notre-Dame-de-l'Assomption de Villeneuve-sur-Yonne | Mass (liturgy) in France | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_mis3	4896x3672	CC BY-SA 4.0	Stebunik	File:NEK 825 priests-bishops.jpg
+   DESC: Catholic priests at the beginning of the Holy Mass - Statio orbis in Budapest on September 12, 2021
+   CATS: 2021 International Eucharistic Congress at Heroes' Square (Budapest) | Altars in Budapest | CC-BY-SA-4.0 | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/ctx_mis4	6000x4000	CC BY 4.0	Enasiqph	File:Priest reading Gospel verses before the altar.jpg
+   DESC: Christmas Eve Mass at St. Paul the Apostle Chaldean Catholic Church in Sikanian village, Kirkuk, Iraq.
+   CATS: CC-BY-4.0 | Kirkuk | Kirkuk Heritage Documentation Project | Self-published work
+   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
+OK	fr/ctx_bib1	1368x2000	Public domain	Albert Anker	File:Albert Anker Ältere Frau in der Bibel lesend 1904.jpg
+   DESC: 
+   CATS: 1904 paintings by Albert Anker | 1904 paintings of women | 1904 watercolor paintings | 20th-century paintings, location missing | 20th-century paintings of females in profile, facing left | 20th-century paintings of women at bust length | 20th-century watercolor paintings of women | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | Artworks with Wikidata item missing institution | Artworks with digital representation of differe
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_bib2	3200x2528	Public domain	Philippe Mercier / Formerly attributed t	File:Philippe Mercier - The Bible Lesson, or L'instruction Maternelle.jpg
+   DESC: (See source) Depicting the artist's family, and thought to show them reading the Pilgrim's Progress rather than the Bible as its original title suggests, this picture can be dated to the early years that Mercier lived in York, and placed together with a group of 'Fancy Pictures' reflecting a national taste for simple, moving and sentimental scenes. The Bible Lesson was engraved by J. Faber in 1744
+   CATS: Bible in art | CC-PD-Mark | Fingers and books | Images from Christie's | Index fingers in art | Lessons | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Philippe Mercier | Paintings with former attribution | Paintings without Wikidata item | Pilgrim's Progress | Pointing in art | Reading lessons in art | Sold at Christie's | Teachers and students in art
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_hum1	1000x968	Public domain	Giotto	File:Giotto di Bondone - No. 30 Scenes from the Life of Christ - 14. Washing of Feet - WGA09215.jpg
+   DESC: Christ washing the Disciples' feet
+   CATS: 30. Washing of Feet | Artworks digital representation of unknown type of work | Artworks with Wikidata item | CC-PD-Mark | Images from Web Gallery of Art | PD-Art (PD-old-auto-expired) | PD-old-100-expired | WGA School: Italian | WGA form: painting | WGA time period: 1301-1350 | WGA type: religious
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_hum2	3106x4508	Public domain	Unknown – illuminator	File:Christ Washing the Apostles' Feet - Google Art Project.jpg
+   DESC: 
+   CATS: Artworks with known accession number | Artworks without Wikidata item | CC-PD-Mark | Files from Google Arts & Culture | Google Art Project works by unknown artist | Google Art Project works in The J. Paul Getty Museum | MS. LUDWIG II 6 (Getty museum) - Armenian Gospel Book | Miniatures of Jesus Christ washing the feet of the apostles | PD-Art (PD-old-100) | Unsupported object
+   LICURL:  USAGE: Public domain
+OK	fr/ctx_hum3	1032x900	Public domain	Pietro Lorenzetti	File:Pietro Lorenzetti - The Washing of the Feet - WGA13506.jpg
+   DESC: Christ washing the Disciples' feet
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | CC-PD-Mark | Fresco 2 depicting Jesus Christ washing the feet of the apostles by Pietro Lorenzetti in the Lower Basilica in Assisi | Images from Web Gallery of Art | PD-Art (PD-old-auto-expired) | PD-old-100-expired | WGA School: Italian | WGA form: painting | WGA time period: 1301-1350 | WGA type: religious
+   LICURL:  USAGE: Public domain
+### cat:Our Lady Church (Le Morne-Rouge)
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 3.jpg	| Côté de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 1.jpg	| Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 2.jpg	| Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
+4799x3951	Public domain	File:Morne Rouge YORYM-TA0308.jpg	| One slide and one negative. Ruined church, presumably destroyed during the 1902 eruptions. The tower and spire are still standing and the ro
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 5.jpg	| Abside peinte de l'église Notre-Dame de la Délivrande du Morne-Rouge
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 4.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 15.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 6.jpg	| Notre-Dame de la Délivrande
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 8.jpg	| Notre-Dame de la Délivrande
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 7.jpg	| Notre-Dame de la Délivrande
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 9.jpg	| Bas-relief de l'autel de Notre-Dame de la Délivrande : vœu de Monseigneur Le Herpeur à la Sainte Vierge lors de la traversée vers la Martini
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 11.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
+3264x2448	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 10.jpg	| Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 13.jpg	| Vitrail de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 12.jpg	| Vitrail de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 14.jpg	| Chemin de croix de l'église Notre-Dame de la Délivrande du Morne-Rouge
+2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 16.jpg	| Relique du pape Jean-Paul II conservée dans l'église Notre-Dame de la Délivrande du Morne-Rouge
+### cat:Buildings in Onil
+SUBCATS: Ayuntamiento de Onil | Casa de l'Hort | Iglesia de Santiago Apóstol (Onil) | Palau Fortalesa del marqués de Dosaigües
+1024x505	CC BY-SA 4.0	File:Onil centro logístico.jpg	| Onil centro logístico
+4208x3120	CC BY-SA 4.0	File:Centro Instructivo Musical de Onil.jpg	| Centro Instructivo Musical de Onil (CIMO).
+### intitle:Onil iglesia filetype:bitmap
+2937x4027	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 01.jpg	| Iglesia parroquial de Santiago Apóstol de Onil, Alicante.
+3120x4208	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 02.jpg	| Iglesia de Santiago Apóstol de Onil, Alicante.
+3120x4208	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 03.jpg	| Iglesia de Santiago Apóstol de Onil, Alicante.
+3120x4208	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 04.jpg	| Iglesia de Santiago Apóstol de Onil, Alicante.
+4208x3120	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 05.jpg	| Iglesia de Santiago Apóstol de Onil, Alicante.
+4208x3120	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 06.jpg	| Iglesia de Santiago Apóstol de Onil, Alicante.
+4208x3120	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 07.jpg	| Iglesia de Santiago Apóstol de Onil, Alicante.
+3120x4208	CC BY-SA 4.0	File:Panel informativo de la iglesia de Santiago Apóstol de Onil.jpg	| Panel informativo de la iglesia de Santiago Apóstol de Onil.
+3120x4208	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 08.jpg	| Iglesia de Santiago Apóstol de Onil, Alicante.
+4208x3120	CC BY-SA 4.0	File:Iglesia de Santiago Apóstol de Onil, Alicante 09.jpg	| Iglesia de Santiago Apóstol de Onil, Alicante.
+### cat:Silla, Valencia
+### intitle:Silla església filetype:bitmap
+2576x1932	CC BY-SA 3.0	File:Sillas Église Notre-Dame 01.jpg	| Church Notre-Dame of Sillas (Gironde, France)
+2576x1932	CC BY-SA 3.0	File:Sillas Église Notre-Dame 02.jpg	| Church Notre-Dame of Sillas (Gironde, France)
+2576x1932	CC BY-SA 3.0	File:Sillas Église Notre-Dame 03.jpg	| Church Notre-Dame of Sillas (Gironde, France)
+2576x1932	CC BY-SA 3.0	File:Sillas Église Notre-Dame 05.jpg	| Church Notre-Dame of Sillas (Gironde, France)
+3648x2736	CC BY-SA 3.0	File:Silla Valencia 03.JPG	| Silla, España.
+2736x3648	CC BY-SA 3.0	File:Silla Valencia 06.JPG	| Silla, España.
+2552x3496	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14782283244).jpg	| Identifier: espaasagradathea10flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+2464x3500	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14597994748).jpg	| Identifier: espaasagradathea10flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+2540x3612	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14782281454).jpg	| Identifier: espaasagradathea10flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+2396x3480	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14782284384).jpg	| Identifier: espaasagradathea10flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+2442x3786	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14590324460).jpg	| Identifier: espaasagradathea24flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+3148x2232	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14590210129).jpg	| Identifier: espaasagradathea04flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+2096x2844	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14597635540).jpg	| Identifier: espaasagradathea05flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+2310x1672	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14801830023).jpg	| Identifier: espaasagradathea35flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+2196x1300	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14781213761).jpg	| Identifier: espaasagradathea05flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+1972x1224	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14597713308).jpg	| Identifier: espaasagradathea05flre (find matches) Title: EspaÃ±a sagrada. Theatro geographico-historico de la iglesia de EspaÃ±a. Origen, di
+1468x2380	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14784000712).jpg	| Identifier: espaasagradathea05flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+2156x1656	No restrictions	File:España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divisiones, y terminos de todas sus provincias. Antiguedad, traslaciones, y estado antiguo y presente de sus sillas, en (14772938171).jpg	| Identifier: espaasagradathea15flre (find matches) Title: España sagrada. Theatro geographico-historico de la iglesia de España. Origen, divi
+1986x2518	No restrictions	File:España sagrada. Theatro, geographico-historico de la iglesia de España. Origen, divisions, y terminos de todas sus provincias. Antiguedad, traslaciones, y est ado antiguo y presente de sus sillas, en (14780012821).jpg	| Identifier: espaasagradath19fluoft (find matches) Title: España sagrada. Theatro, geographico-historico de la iglesia de España. Origen, div
+1378x3010	No restrictions	File:España sagrada. Theatro, geographico-historico de la iglesia de España. Origen, divisions, y terminos de todas sus provincias. Antiguedad, traslaciones, y est ado antiguo y presente de sus sillas, en (14576936170).jpg	| Identifier: espaasagradath50fluoft (find matches) Title: España sagrada. Theatro, geographico-historico de la iglesia de España. Origen, div
+3264x2448	CC BY-SA 4.0	File:Silla - San Bartolomeo.jpg	| Silla, frazione di Gaggio Montano: la chiesa di San Bartolomeo.
+4148x3240	CC BY-SA 4.0	File:Silla dorada.jpg	| Silla de madera dorada con respaldo y asiento forrados con terciopelo rojo. Iglesia del Corpus Christi, Sevilla, Andalucía, España.
+5700x3800	CC BY-SA 4.0	File:Silla na igrexa de Ekeby.jpg	| Respaldo de silla no coro da igrexa de Ekeby, Gotland.
+3020x4026	Public domain	File:Altar de la Virgen de la Silla, Iglesia de Nuestra Señora de la Asunción (El Barco de Ávila).jpg	| Capilla de la Cofradía del Santísimo Rosario. Altar situado en la cabecera de la nave de la Epístola, con retablo de Juan Gómez (1663-1667) 
+4608x3456	CC BY-SA 4.0	File:Fotos e Silla agosto 2024 07.jpg	| Silla
+3456x4608	CC BY-SA 4.0	File:Fotos e Silla agosto 2024 12.jpg	| Silla
+3025x4034	CC BY 4.0	File:Virgen de la Silla, El Barco de Ávila.jpg	| Iglesia Mayor de la Asunción de Nuestra Señora, El Barco de Ávila. Imagen titular de la Cofradía del Santísimo Rosario (1574), bendecida hac
+1536x2048	CC0	File:Portada, nuestra señora de los angeles, Silla.jpg	| caption
+1942x1093	CC0	File:SILLA BOVEDA IGLESIA.jpg	| "La Coronación de la Virgen" SILLA
+### Tumaco iglesia catedral filetype:bitmap
+### "Les Ulmes" église filetype:bitmap
+### cat:San Pietro a Patierno
+SUBCATS: Capodichino (Naples)
 3648x2736	CC BY-SA 4.0	File:S. Pietro a Patierno (13).jpg	| Giuseppe Rotelli, Organo a trasmissione pneumatica della Parrocchia di S. Pietro a Patierno (NA) Tastiere e registri
-4417x5707	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (01 of 20).jpg	| Éditeur : H. Lemoine (Paris)
-4340x5703	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (11 of 20).jpg	| Éditeur : H. Lemoine (Paris)
-4416x5703	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (18 of 20).jpg	| Éditeur : H. Lemoine (Paris)
-4386x5703	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (20 of 20).jpg	| Éditeur : H. Lemoine (Paris)
-4499x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (01 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (02 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (03 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (04 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (05 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (06 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (07 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (08 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (09 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (10 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (11 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8666x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (12 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (13 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (14 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8666x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (15 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (16 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (17 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (18 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-4575x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (19 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
-3155x4091	Public domain	File:On les aura certainement. Chanson marche, paroles de Briollet, musique de E. Patierno - bpt6k384870h (1 of 6).jpg	| Appartient à l’ensemble documentaire : GG14182 Briollet, Paul (1864-1937). Auteur du texte Éditeur : imp. de Cavel (Paris)
-3203x4091	Public domain	File:On les aura certainement. Chanson marche, paroles de Briollet, musique de E. Patierno - bpt6k384870h (3 of 6).jpg	| Appartient à l’ensemble documentaire : GG14182 Briollet, Paul (1864-1937). Auteur du texte Éditeur : imp. de Cavel (Paris)
-4091x3203	Public domain	File:On les aura certainement. Chanson marche, paroles de Briollet, musique de E. Patierno - bpt6k384870h (6 of 6).jpg	| Appartient à l’ensemble documentaire : GG14182 Briollet, Paul (1864-1937). Auteur du texte Éditeur : imp. de Cavel (Paris)
-### cat:Silla
-SUBCATS: Mangdŏksa
-2048x1536	CC BY-SA 4.0	File:Cuadrilera atada a la silla de montar.jpg	| Cuadrilera attached to the Mexican saddle
-1200x1200	CC BY-SA 4.0	File:Banca de tres puestos, para salas de estar o espera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla diseño elegante.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Pupitre escolar mueble escuela.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Pupitre escolar.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Banca de dos puestos, para salas de estar o espera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Banco o silla alta.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Pupitre escolar con paleta.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla ejecutiva.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla ejecutiva secretarial.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla secretarial.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla ejecutiva secretarial eleganse.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla taburete.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla periquera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butaca de tres puestos.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butaca sillon de tres puestos.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butaca para exteriores sillón.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Sillon sala.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butacá banco silla.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Sillón para sala de espera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla bar.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla cafetería.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla restaurantera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butaco silla para bar.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla restaurantera de uso rudo.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Banco, silla, butaco, para barra.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla restaurante.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla restaurantera o para cafetería.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla cafeteria o desayunador.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Sillón.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Sillón para sala de estar.png	| buro-mobel.com • Puebla México
-### cat:Tumaco
-SUBCATS: Events in Tumaco | La Florida Airport, Colombia | Playa El Morro, Tumaco | United States Navy images from Tumaco
-1440x1080	Public domain	File:Tumaco from Air.jpg	| An aerial view of Tumaco, Colombia.
-2076x1664	CC BY 2.5	File:MunsNarino Tumaco.png	| Image depicting map location of the town and municipality of Tumaco in the Nariño Department, Colombia
-1632x1224	CC0	File:Playa del Bajito en Tumaco.JPG	| Playa del Bajito en Tumaco
-1632x1224	CC0	File:Panoramica de la isla la Viciosa en Tumaco.JPG	| Panoramica de la isla la Viciosa en Tumaco
-3070x2193	Public domain	File:US Navy 110602-N-RM525-201 The Military Sealift Command hospital ship USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colombia, during.jpg	| TUMACO, Colombia (June 2, 2011) The Military Sealift Command hospital ship USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colom
-4024x2538	Public domain	File:US Navy 110605-F-ET173-025 ailors embarked aboard the Military Sealift Command hospital ship USNS Comfort (T-AH 20) paint the walls of Institucion.jpg	| TUMACO, Colombia (June 5, 2011) Sailors embarked aboard the Military Sealift Command hospital ship USNS Comfort (T-AH 20) paint the walls of
-4256x2832	Public domain	File:US Navy 110609-F-ET173-433 USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colombia, during Continuing Promise 2011.jpg	| TUMACO, Colombia (June 9, 2011) The Military Sealift Command hospital ship USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colom
-1353x1446	CC BY-SA 3.0	File:Colombia - Nariño - Tumaco.svg	| Mapa del Municipio de Tumaco, Nariño (Colombia)
-4256x3071	CC BY-SA 2.0	File:Inauguración Polideportivo en Tumaco (8475457139).jpg	| Fotos Juan Pablo Bello SIG
-4256x3071	CC BY-SA 2.0	File:Inauguración Polideportivo en Tumaco (8475457353).jpg	| Fotos Juan Pablo Bello SIG
-4256x3024	CC BY-SA 2.0	File:Inauguración Polideportivo en Tumaco (8476546344).jpg	| Fotos Juan Pablo Bello SIG
-2848x4288	CC BY-SA 2.0	File:Colombian Police (6893679119).jpg	| Bajo el lema "Tumaco Soy yo" Ministerio de Defensa, el Ejército Nacional y la Policía Nacional realizaron en el municipio de Tumaco, Nariño,
-1134x860	CC BY-SA 4.0	File:Stinkfish tumaco 2016.jpg	| Tumaco / Nariño / Colombia / 2016
-3072x2048	CC BY 3.0	File:Military area in Tomaco - panoramio.jpg	| Military area in Tomaco
-3072x2048	CC BY 3.0	File:Military area in Tomaco - panoramio (1).jpg	| Military area in Tomaco
-3072x2048	CC BY 3.0	File:Military instalation -) - panoramio.jpg	| Military instalation :-)
-4288x3216	CC BY-SA 4.0	File:PuenteMorro.jpg	| Puente él Morro
-2048x1536	CC BY-SA 4.0	File:Bajo Mira.jpg	| Foto tomada en Bajo Mira, municipio de Tumaco, en diciembre de 2017.
-3120x1920	CC BY-SA 4.0	File:Atardecertumaco.jpg	| atardecer del puente del morro
-1440x960	CC BY-SA 4.0	File:ParqueColón.jpg	| Situr Nariño
-8192x5464	Public domain	File:20260123Tumaco, Nariño- Erradicar para la paz - 2.jpg	| Colombia in the 2020s
-5088x3392	Public domain	File:20260123Tumaco, Nariño- Erradicar para la paz - 1.jpg	| Colombia in the 2020s
-### cat:Eucharistic miracle of Lanciano
-1179x1536	Public domain	File:Miracolo Eucaristico di Lanciano - foto dal vivo.JPG	| Eucharistic miracle of Lanciano - live photo.JPG Photo taken by me, with flash, as I passed in front of the blind. More photo details by cli
-2048x1536	Public domain	File:Eucharistic Miracle of Lanciano - rear-lighted panel - side.JPG	| Eucharistic Miracle of Lanciano - rear-lighted panel - side.JPG Made by myself. The panel is public for all visitors.
-2576x1952	Public domain	File:Eucharistic Miracle of Lanciano - rear-lighted panel - front.JPG	| Eucharistic Miracle of Lanciano - rear-lighted panel - front.JPG Made by myself. The panel is public for all visitors.
-1520x2040	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 18 novembre 1970.JPG	| Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 18 novembre 1970.JPG Made by myself. The panel is public
-1512x2028	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 4 marzo 1971.JPG	| Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 4 marzo 1971.JPG Made by myself. The panel is public for
-1528x2036	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - Ruggero Bertelli.JPG	| Eucharistic Miracle of Lanciano - public documentation - Ruggero Bertelli.JPG Made by myself. The panel is public for all visitors.
-1936x2564	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - L'Osservatore Romano.JPG	| Eucharistic Miracle of Lanciano - public documentation - L'Osservatore Romano Made by myself. The panel is public for all visitors.
-2592x3888	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco, altare del miracolo eucaristico.JPG	| altare del miracolo eucaristico nella Chiesa di San Francesco a Lanciano
-2592x3888	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco, altare del miracolo eucaristico 01.JPG	| altare del miracolo eucaristico nella Chiesa di San Francesco a Lanciano
-3672x4896	CC BY-SA 4.0	File:Lanciano, chiesa di San Francesco - Altare del miracolo eucaristico.jpg	| Lanciano (Abruzzo, Italy), Saint Francis church - Altar of the eucharistic miracle
-### cat:Chiesa di San Francesco (Lanciano)
-### cat:Nhá Chica
-SUBCATS: Nhá Chica (Almeida Júnior)
-2248x4000	CC BY 3.0	File:Santa Nhá Chica.jpg	| Imagem de Santa Nhá Chica
-2248x4000	CC BY-SA 3.0	File:Santa Nhá Chica de Baependi.jpg	| Imagem fotografada na Igreja Nossa Senhora de Fátima, São Lourenço - MG
-1632x1224	CC BY-SA 3.0	File:Santuário da Conceição (Nhá Chica) - Baependi - MG - panoramio.jpg	| Santuário da Conceição (Nhá Chica) - Baependi - MG
-3881x1300	CC BY-SA 3.0	File:Santuário de Nhá Chica - Baependi, MG - panoramio.jpg	| Santuário de Nhá Chica - Baependi, MG
-2592x1936	CC BY-SA 3.0	File:Nhá Chica - Parque das Águas - Caxambu, MG - panoramio.jpg	| Nhá Chica - Parque das Águas - Caxambu, MG
-1850x2840	Public domain	File:Foto da Beata Nhá Chica.jpg	| Depicted person: Nhá Chica – beatified Brazilian person
-1196x896	Public domain	File:Igreja de Nhá Chica em 1894.jpg	| Igreja erguida por Nhá Chica, por volta de 1894
-### cat:Dulce Lopes Pontes
-### cat:Óscar Romero
-### cat:Pope Leo I
-### intitle:Romero mural filetype:bitmap
-2112x2816	CC BY-SA 3.0	File:Mural Oscar Romero UES.jpg	| Mural con la imagen de Monseñor Óscar Arnulfo Romero, ubicado en el Edificio Histórico de la Facultad de Jurisprudencia y Ciencias Sociales 
-1413x1815	Public domain	File:La literatura by Julio Romero de Torres.jpg	| La literatura, (1905) Julio Romero de Torres. Pintura sobre mural. Perteneciente al Círculo de la Amistad, Córdoba (España).
-1069x1437	CC BY-SA 3.0	File:Mural Oscar Romero UES (cropped).jpg	| Mural con la imagen de Monseñor Óscar Arnulfo Romero, ubicado en el Edificio Histórico de la Facultad de Jurisprudencia y Ciencias Sociales 
-6000x4000	CC BY-SA 3.0	File:2013, Que Viva San Felipe, Leopoldo Romero - panoramio.jpg	| 2013, Que Viva San Felipe, Leopoldo Romero
-2048x1536	CC BY-SA 4.0	File:Mural a los caidos, detalle nombre Mons. Romero, El Salvador.jpg	| Detalle nombre Mons. Romero.
-4000x3000	CC BY-SA 4.0	File:Botanical Garden La Concepción (Romero, 1994).jpg	| Mural vidriado a modo de mapa orientativo en el jardín botánico La Concepción, Málaga, España, obra de Pablo Romero del año 1994. Al pie del
-2048x1536	CC BY-SA 4.0	File:Mural a los caidos, detalle nombre Mons. Romero, El Salvador (no watermark).jpg	| Detalle nombre Mons. Romero.
-1080x608	CC BY-SA 2.0	File:Intervención "Romero vive en su pueblo" de Cristian Lopez.jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
-1080x720	CC BY-SA 2.0	File:Mural "Romero viven en su pueblo".jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
-1080x720	CC BY-SA 2.0	File:Romero como gráfica popular.jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
-1080x720	CC BY-SA 2.0	File:Avances mural Óscar Romero.jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
-1080x720	CC BY-SA 2.0	File:Esbozo mural Óscar Romero.jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
-3000x4000	CC BY-SA 2.0	File:"Romero vive en su pueblo" de Cristian Lopez.jpg	| Intervención mural "Romero vive en su pueblo" de Cristian Lopez, realizada en el Centro Cultural de España en El Salvador como parte de los 
-1222x1486	CC BY-SA 4.0	File:Raquel Romero, La Paz. Mayo 2025.jpg	| La investigadora Raquel Romero durante el conversatorio Memorias virtualizadas, arte mural de La Paz y El Alto realizado en el café Wayruru 
-4276x6414	CC BY-SA 4.0	File:2025 Soledad a Poppins de Sar. Joseba Murazábal. Avenida de Romero Donallo. Santiago. Galiza.jpg	| ‘Soledad, a Poppins de Sar’ by Joseba Murazábal. Avenida de Romero Donallo, Santiago de Compostela, Galicia (Spain).
-4342x6513	CC BY-SA 4.0	File:2025 Soledad a Poppins de Sar. Joseba Murazábal. Avenida de Romero Donallo. Santiago de Compostela. Galiza.jpg	| ‘Soledad, a Poppins de Sar’ by Joseba Murazábal. Avenida de Romero Donallo, Santiago de Compostela, Galicia (Spain).
-4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 02.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
-4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 03.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
-4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 01.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
-4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 04.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
-4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 05.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
-### intitle:"Leo I" pope filetype:bitmap
-1576x2096	CC0	File:Paus Leo I Leo primus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-60-5.jpg	| IdentificatieTitel(s): Paus Leo ILeo primus (titel op object). Liber Chronicarum (serietitel)Objecttype: prent boekillustratie albumblad Obj
-4000x6000	Public domain	File:Altar of Leo the Great (440-461 AD) Marble Relief of Meeting of Pope Leo I and Attila the Hun, by Alessandro Algardi, 1646-53 (48466535252).jpg	| Vatican City, Rome, Italy. Complete indexed photo collection at WorldHistoryPics.com.
-2880x5647	Public domain	File:Rafaël - Pope Leo I Meeting Attila, Related to a Fresco by Raphael in the Vatican, I 508 (PK).jpg	| 
-4840x3672	CC0	File:Ontmoeting tussen paus Leo I de Grote en Attila de Hun, RP-P-OB-41.771.jpg	| IdentificatieTitel(s): Ontmoeting tussen paus Leo I de Grote en Attila de HunObjecttype: prent Objectnummer: RP-P-OB-41.771Catalogusreferent
-### Holy Mass elevation filetype:bitmap
-5000x3621	Public domain	File:June 1962 WEST (SIDE) ELEVATION AND NORTH (REAR) ELEVATION - Shaker Church Family Brethren's Shop, U.S. Route 20, Hancock, Berkshire County, MA HABS MASS,2-HANC,1-6.tif	| 
-5000x3608	Public domain	File:June 1962 NORTH ELEVATION (RIGHT) AND EAST ELEVATION (LEFT) - Shaker Church Family Washhouse and Machine Shop, U.S. Route 20, Hancock, Berkshire County, MA HABS MASS,2-HANC,14-10.tif	| 
-5000x3607	Public domain	File:June 1962 VIEW OF SOUTH (FRONT) ELEVATION AND WEST (SIDE) ELEVATION, DURING RECONSTRUCTION - Shaker Meetinghouse (second), U.S. Route 20, Hancock, Berkshire County, MA HABS MASS,2-HANC,16-12.tif	| 
-5000x3555	Public domain	File:June 1962 SOUTH ELEVATION - Shaker Ministry's Washhouse, U.S. Route 20, Hancock, Berkshire County, MA HABS MASS,2-HANC,18-1.tif	| 
-5000x3581	Public domain	File:November 1959 SOUTH ELEVATION - Allen House, Bars Road, Deerfield, Franklin County, MA HABS MASS,6-DEER.V,2-3.tif	| Allen, Samuel
-4923x3508	Public domain	File:Historic American Buildings Survey EXTERIOR ELEVATION, EAST SIDE, SHOWING PORTION OF SOUTH ELEVATION - November 1959 - Simeon Alexander House, 188 Main Street, East Northfield, HABS MASS,6-NORTHE,2-1.tif	| 
-4903x3503	Public domain	File:Sept. 1968 SOUTH ELEVATION - African Society Baptist Church, York Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,32-1.tif	| 
-4863x3473	Public domain	File:November 1968 NORTHEAST ELEVATION - Reuben R. Bunker House, Academy Hill, Nantucket, Nantucket County, MA HABS MASS,10-NANT,37-2.tif	| 
-4868x3503	Public domain	File:November 1968 NORTHEAST ELEVATION - Reuben R. Bunker House, Academy Hill, Nantucket, Nantucket County, MA HABS MASS,10-NANT,37-1.tif	| 
-4888x3533	Public domain	File:October 1969 SOUTH ELEVATION - Jared Coffin House, 29 Broad Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,39-1.tif	| 
-3490x4914	Public domain	File:November 1968 WEST ELEVATION - Jared Coffin House, 29 Broad Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,39-2.tif	| 
-4893x3538	Public domain	File:October 1969 SOUTH ELEVATION - Jethro Coffin House, Sunset Hill, Nantucket, Nantucket County, MA HABS MASS,10-NANT,40-4.tif	| Shurrocks, Alfred F
-3605x5000	Public domain	File:July, 1970 SOUTHEAST ELEVATION - Eliab Hussey House, 31 India Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,75H-1.tif	| Jenkins, John; Jenkins, Perez
-3603x5000	Public domain	File:July, 1970 SOUTHEAST ELEVATION - Benjamin Swift House, 29 India Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,75I-1.tif	| 
-4888x3553	Public domain	File:November 1968 NORTHWEST ELEVATION - Nantucket Looms, 16 Main Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,63-2.tif	| 
-5000x3582	Public domain	File:July, 1970 WEST ELEVATION - Matthew Beard House, 18 Orange Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,76N-2.tif	| Beard, John
-3586x5000	Public domain	File:September 1968 WEST ELEVATION - Peleg Coggeshall House, 10 Orange Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,76I-1.tif	| 
-5000x3595	Public domain	File:July, 1970 WEST ELEVATION - Seth Folger House, 26 Orange Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,76Q-1.tif	| 
-5000x3575	Public domain	File:July, 1970 WEST ELEVATION - Nathaniel Woodbury House, 22 Orange Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,76P-2.tif	| 
-4803x3483	Public domain	File:October 1969 NORTH WEST ELEVATION - Sandanwede, 79 Hulbert Avenue, Nantucket, Nantucket County, MA HABS MASS,10-NANT,70-2.tif	| Hulbert, Edwin J
-4823x3498	Public domain	File:September 1968 SOUTHEAST ELEVATION - Sandanwede, 79 Hulbert Avenue, Nantucket, Nantucket County, MA HABS MASS,10-NANT,70-1.tif	| Hulbert, Edwin J
-5000x3559	Public domain	File:October 1969 NORTHEAST REAR, AND SOUTHEAST SIDE, ELEVATION OF NORTH BUILDING, 'MIDWAY' AND NORTHEAST ELEVATION OF SOUTH BUILDING - Sea Cliff Inn, 31 Cliff Road, Nantucket, HABS MASS,10-NANT,69-15.tif	| Robinson, Charles H
-4903x3538	Public domain	File:September 1968 SOUTH ELEVATION - Swain-Macy House, 99 Main Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,59-3.tif	| Swain, Valentine; Macy, Thomas
-5000x3597	Public domain	File:VIEW OF WEST ELEVATION, WITH SCALE - Quincy Market, South Market Street, Boston, Suffolk County, MA HABS MASS,13-BOST,118-6.tif	| Parris, Alexander
-5383x3589	CC BY-SA 4.0	File:Kopenhagen (DK), Runder Turm -- 2017 -- 1633.jpg	| This is a photo of a monument in Denmark identified by the ID
-5312x2988	CC BY 4.0	File:Traditional Latin Mass - Elevation.jpg	| Traditional Latin Mass - Elevation
-3174x4232	Public domain	File:Mass Held at Camp Kosciuszko to Honor Legacy of Holy Father Francis (8987077).jpg	| U.S. Army Garrison Poland contract priest Father Dawid Stelmach leads a memorial Mass honoring the life and legacy of Holy Father Francis at
-4535x3401	Public domain	File:Mass Held at Camp Kosciuszko to Honor Legacy of Holy Father Francis (8987078).jpg	| U.S. Army Garrison Poland contract priest Father Dawid Stelmach leads a memorial Mass honoring the life and legacy of Holy Father Francis at
-### Mass priest altar Catholic filetype:bitmap
-2816x2112	CC BY-SA 3.0	File:Fresco of Agnus Dei in Greek Catholic Cathedral of Hajdudorog.jpg	| The fresco of the Agnus Dei from the sanctuary of the Greek Catholic Cathedral of Hajdúdorog, Hungary. The fresco was painted in the end of 
-3217x2411	CC BY-SA 3.0	File:Altarneupergkirchen.jpg	| Neuer Altar der Pfarrkirche Pergkirchen (seit 2009)
-4608x3456	CC BY-SA 4.0	File:Messe ND Villeneuve.JPG	| Messe en l'église ND de Villeneuve-sur-Yonne.
-1830x2529	CC BY-SA 3.0 at	File:Altar der Mollner Pfarrkirche.jpg	| Volksaltar und Tabernakel-Hochaltar der Mollner Pfarrkirche
-4190x2783	CC BY 2.0	File:Academia Christiana - Université d'été 2016 (4).jpg	| Messe d'ouverture de l'Université d'été d'Academia Christiana (2016), célébrée par l'abbé de Nedde.
-6034x4479	CC BY-SA 4.0	File:Dülmen, Heilig-Kreuz-Kirche, Altar -- 2019 -- 3113-7.jpg	| Altar at Holy Cross Church in Dülmen, North Rhine-Westphalia, GermanyThe Holy Cross Church is a Roman Catholic parish church that houses the
-3778x2592	CC BY-SA 4.0	File:Altar servers.jpg	| After Vatican II, girls were permitted to serve at Mass. Servers ordinarily wear an alb similar to the priest's.
-4978x6867	PDM-owner	File:Mass reading priest (SM 1848z).png	| genre · Holy Mass (divine service, especially of Roman Catholic Church) · fixed altar · incense used in the church
-1080x1440	CC BY-SA 3.0	File:Priest celebrating Mass at Altar of Leo I in St. Peter's Basilica.jpg	| Photo of catholic priest celebrating Mass at Altar of Leo I in St. Peter's Basilica in Vatican City.
-5126x3850	CC BY-SA 4.0	File:Pfk Kainach Volksaltar 01.jpg	| Der von Gustav Troger im Jahr 2004 aus Kainacher Marmor gestaltete Volksaltar in der Pfarrkirche Kainach bei Voitsberg
-4896x3672	CC BY-SA 4.0	File:NEK 825 priests-bishops.jpg	| Catholic priests at the beginning of the Holy Mass - Statio orbis in Budapest on September 12, 2021
-4896x3672	CC BY-SA 4.0	File:NEK 843 priests-postcommunion.jpg	| Catholic priests after Communion during Holy Mass - Statio orbis in Budapest on September 12, 2021
-4896x3672	CC BY-SA 4.0	File:NEK 845 priests-postcommunion.jpg	| Catholic bishops and priests after Communion during Holy Mass - Statio orbis in Budapest on September 12, 2021
-5184x3888	CC BY-SA 4.0	File:Pfk Frojach Volksaltar 02.jpg	| Der Volksaltar in der Pfarrkirche Frojach
-5184x3888	CC BY-SA 4.0	File:Pfk Frojach Volksaltar 01.jpg	| Der Volksaltar in der Pfarrkirche Frojach
-1278x1277	Public domain	File:Catholic Picture Dictionary (Pfeiffer) - Altar.jpg	| The table on which the priest offers the Holy Sacrifice of the Mass
-1158x539	Public domain	File:Catholic Picture Dictionary (Pfeiffer) - Altar cards.jpg	| Cards on which are printed some of the prayers which the priest says during Mass. There are three: one for the middle of the altar and one f
-3400x1913	CC BY-SA 4.0	File:Priests of the Archdiocese of Lipa 2024-06-29.jpg	| The Roman Catholic Archdiocese of Lipa held its annual celebration of Pope's Day on the Solemnity of Saints Peter and Paul at the Minor Basi
-5184x3888	CC BY-SA 4.0	File:Pfk St.Leonhard Graz Altarbereich 02.jpg	| This is a photo of public art indexed in a public art catalogue of Graz (Austria) under the number: 1107 (commons, de) .
-5184x3888	CC BY-SA 4.0	File:Pfk St.Leonhard Graz Altarbereich 01.jpg	| This is a photo of public art indexed in a public art catalogue of Graz (Austria) under the number: 1107 (commons, de) .
-1284x835	Public domain	File:Prelates, Priests, and Altar Boys at the 1904 Eucharistic Congress in New York (clean).png	| A cleaned up version of File:Prelates, Priests, and Altar Boys at the 1904 Eucharistic Congress in New York.png to remove the page folds.
-1284x835	Public domain	File:Prelates, Priests, and Altar Boys at the 1904 Eucharistic Congress in New York.png	| Prelates, Priests, and Altar Boys after Mass on the third day of the 1904 Eucharistic Congress in New York on September 29, 1904.
-5022x3648	CC0	File:Cathedral of St. Michael and St. Gudula - Choir 01.jpg	| The choir of the Cathedral of St. Michael and St. Gudula in Brussels, Belgium, including the altars (people's altar in front, former high al
-2048x1536	CC BY 4.0	File:NS 0423 darovanje.jpg	| A deacon and altar boys prepare the altar for the offering of the gifts at Holy Mass and they help the priest in this
-6000x4000	CC BY 4.0	File:Priest reading Gospel verses before the altar.jpg	| Christmas Eve Mass at St. Paul the Apostle Chaldean Catholic Church in Sikanian village, Kirkuk, Iraq.
-4641x6994	CC BY-SA 4.0	File:Inneres der Pfarrkirche Steyr-Ennsleite 5.jpg	| Pfarrkirche Steyr-Ennsleite: Blick auf den Altar und die Orgel an der Ostseite
-### cat:Saint Louis de Montfort
-SUBCATS: Saint Louis de Montfort churches | Calvaire de Pontchâteau | Cour Cathuis (Nantes) | Croix de Fromenteau (Vallet, Loire-Atlantique) | Saint Louis de Montfort on stained-glass windows | Sculptures of Saint Louis de Montfort
-4752x3168	CC BY-SA 3.0	File:Guyonniere CalvaireMeslay 59028.JPG	| Calvaire de Montfort, le Meslay, Fr-85-La Guyonnière.
-4752x3168	CC BY-SA 4.0	File:W2370-Mervent ErmitageMontfort Maison 37783.JPG	| Site de l'ermitage de Grignion de Montfort, sa maison, Fr-85-Forêt de Mervent.
-4752x3168	CC BY-SA 4.0	File:W2372-Mervent ErmitageMontfort X 37708.JPG	| Site de l'ermitage de Grignion de Montfort, sa croix, Fr-85-Forêt de Mervent.
-3168x4752	CC BY-SA 4.0	File:W2373-Mervent ErmitageMontfort X 37780.JPG	| Site de l'ermitage de Grignion de Montfort, la croix commémorative, Fr-85-Forêt de Mervent.
-2560x1440	CC BY-SA 4.0	File:Louis de Montfort sculpture Thailand.png	| Louis de Montfort sculpture on a building of Assumption College Bangkok, Thailand
-1788x1245	Public domain	File:PL Grignon de Montfort - O doskonałym nabożeństwie.djvu	| Skany książki. Drugie wydanie - pierwsze przed 1945!
-2400x2904	CC BY-SA 4.0	File:LouisdeMontfort 2003 24 x20.jpg	| Louis de Montfort (24" x 20"), painted by artist Brian Whelan c. 2003
-3168x4752	CC BY-SA 4.0	File:W2935 StLaurentSurSevre StLaurent TombeauMontfort 80320Eos.jpg	| Tombeau de Saint Louis de Montfort basilique Saint-Laurent, Fr-85-Saint-Laurent-sur-Sèvre
-3168x4752	CC BY-SA 4.0	File:W2936 StLaurentSurSevre StLaurent TombeauMontfort 80321Eos.jpg	| Tombeau de Saint Louis de Montfort basilique Saint-Laurent, Fr-85-Saint-Laurent-sur-Sèvre
-3104x3811	CC BY-SA 2.0	File:Dinan (Côtes-d'Armor) - Basilique Saint-Sauveur - Vitrail (50588975428).jpg	| Dinan (Côtes-d'Armor) - Basilique Saint-Sauveur - Vitrail
-3376x5984	CC BY-SA 4.0	File:W3759 Mallievre StGilles Tresor ReliquaireGrignionDeMontfortXIX 7792XA2.jpg	| Mallièvre, Trésor (reliquaire L.M.G. de Montfort, XIX°), église Saint-Gilles (XIX°)
+### Patierno miracolo eucaristico filetype:bitmap
+### cat:Óscar Arnulfo Romero
+SUBCATS: Óscar Romero in art | Beatification of Óscar Romero | Canonization of Óscar Romero | Crypt of Metropolitan Cathedral of San Salvador | Monuments and memorials to Óscar Romero | Things named after Óscar Arnulfo Romero
+1126x329	Public domain	File:Óscar Arnulfo Romero signature.svg	| Óscar Arnulfo Romero signature
+1150x1226	CC BY-SA 3.0	File:Coat of arms of Óscar Arnulfo Romero.svg	| Coat of arms of the Salvadoran archbishop Saint Óscar Arnulfo Romero y Galdámez (1917 – 1980), Archbishop of San Salvador.
+5616x3744	CC0	File:Visita de Cardenal Angelo Amato - 17978153722.jpg	| Salvador Sanchez Ceren recibe a Cardenal Angelo Amato.
+5616x3744	CC0	File:VISITA MONSEÑOR VINCENZO PAGLIA - Paglia with Sanchez Ceren 2.jpg	| SALVADOR SANCHEZ CEREN , PRESIDENTE DE EL SALVADOR (IZQ.) ENTREGO UN CUADRO QUE CONTIENEN EL ROSTRO DE MONSEÑOR ROMERO A MONSEÑOR VINCENZO P
+1512x975	Public domain	File:Romero in the Fontana di Trevi.jpg	| Óscar Romero en la Fontana di Trevi en Roma.
+1200x976	Public domain	File:Óscar Arnulfo Romero meets Pope Paul VI.jpg	| Monseñor Romero junto al papa Pablo VI. Seis semanas antes de la muerte del sumo pontífice. El arzobispo de San Salvador le entrega una foto
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero.jpg	| Presidente Salvador Sánchez Cerén, Margarita Villalta de Sánchez y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Cas
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero (20792292475).jpg	| Presidente Salvador Sánchez Cerén, Margarita Villalta de Sánchez y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Cas
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero (20766049736).jpg	| Presidente Salvador Sánchez Cerén, Margarita Villalta de Sánchez y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Cas
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero (20604298750).jpg	| Presidente Salvador Sánchez Cerén y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Casa Abierta-Monseñor Romero" (22 
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero (20170665654).jpg	| Presidente Salvador Sánchez Cerén y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Casa Abierta-Monseñor Romero" (22 
+5616x3744	CC0	File:Visita de VicePresidente de Cuba a El Salvador.jpg	| Salvador Sanchez Ceren recibe a VicePresidente de Cuba, Miguel Diaz Canel.
+2212x2080	CC BY-SA 4.0	File:Óscar Romero (al centro) y Rutilio Grande (al lado derecho) c. 1977.jpg	| Oscar Romero (al centro) junto a Rutilio Grande (al lado derecho) en la toma de arzobispado c. 1977
+### cat:Dulce dos Pobres
+### cat:Saint Louis de Montfort on stained-glass windows
+SUBCATS: Baie 20 of Église Saint-Malo de Dinan
+2592x3888	CC BY-SA 3.0	File:Paris Saint-Honoré d'Eylau906.JPG	| Bleiglasfenster in der Kirche Saint-Honoré d'Eylau (Avenue Raymond-Poincaré im 16. Arrondissement von Paris), Darstellung: hl. Saint Louis d
+2056x3648	CC0	File:Romillé (35) Église Vitrail 15.jpg	| Baie 08 de l'église Saint-Martin-de-Tours de Romillé (35).
+1545x2308	CC BY-SA 3.0	File:Moutiers (35) Église Vitrail 08.JPG	| Vitrail de l'église Saint-Martin de Moutiers (35).
+1874x1229	CC BY-SA 4.0	File:Domagné (35) Église Saint-Pierre - Intérieur - Baie 104-3.jpg	| Vitrail de l'église Saint-Pierre de Domagné (35). Baie n°104. Érection d'un calvaire.
+1368x1824	CC BY-SA 4.0	File:Anglet - Église Sainte-Marie - 16.jpg	| This image was uploaded as part of Wiki Loves Monuments 2019.
+2600x4600	CC BY-SA 4.0	File:Basilique Saint-Sauveur - intérieur - vitrail (1).jpg	| Stained glass window in the Saint-Sauveur basilica in Dinan (Côtes-d'Armor, France).
+3648x5472	CC BY-SA 4.0	File:Orléans - église Saint-Marceau, vitrail 18.jpg	| Stained-glass window of Saint Marceau church of Orléans (Loiret, France) : Louis Marie Grignon de Montfort byTesteau
+4000x6000	CC BY-SA 4.0	File:Vitrail de l'église Notre-Dame (Combourg, 35) - 05.jpg	| Réalisé dans l'atelier Robert Briand, ce vitrail moderne représente saint Maunoir et lsaint Grignon de Monfort(église Notre-Dame de Combourg
+2382x4315	CC0	File:Vitraux (église de Courlay)08.jpg	| Prédication de Saint Louis-Marie Grignion de Montfort
+2008x3423	CC BY 4.0	File:Chanzeaux (49) Église Saint-Pierre - Intérieur - Baie 119-3.jpg	| Intérieur de l'église Saint-Pierre à Chanzeaux (49). Baie 119 - Saint-Louis-Marie-Grignion-de-Montfort.
+1707x3357	CC BY 4.0	File:Domagné (35) Église Saint-Pierre - Intérieur - Baie 104-2.jpg	| Vitrail de l'église Saint-Pierre de Domagné (35). Baie n°104. Saint-Louis-Marie-Grignion-de-Montfort.
+3067x1857	CC BY 4.0	File:Domagné (35) Église Saint-Pierre - Intérieur - Baie 104-4.jpg	| Vitrail de l'église Saint-Pierre de Domagné (35). Baie n°104. Érection d'un calvaire.
+3024x4032	CC0	File:Vitrail dans la Basilique Saint-Sauveur de Dinan avec Charles de Blois.jpg	| Vitrail de la Basilique Saint-Sauveur avec Charles de Blois
+### cat:Portraits of Louis de Montfort
+### lector reading ambo wedding filetype:bitmap
+### Saint Paul apostle painting filetype:bitmap
+1003x2151	CC BY-SA 3.0	File:Paul Apostle Hajdudorog.JPG	| The picture is a Greek Catholic icon depicting apostle Paul or Paul of Tarsus holding a sword that refers to his martyrdom. The icon was pai
+1961x2704	CC BY-SA 3.0	File:Paul Apostle Hajdudorog Frame.jpg	| The picture is a Greek Catholic icon depicting apostle Paul or Paul of Tarsus holding a sword that refers to his martyrdom. The icon was pai
+5057x6000	Public domain	File:Rembrandt, The Apostle Paul, 1659, The National Gallery, London.jpg	| 
+1200x773	Public domain	File:Laurent de La Hyre's Saint Paul Shipwrecked on Malta.jpg	| Acts 28:1-6 is illustrated showing Paul being perceived by the Malta inhabitants as a God.
+1020x764	CC BY 2.0	File:Saint Paul the Apostle Church, Huehuetoca, Mexico State, Mexico.jpg	| Saint Paul the Apostle Church, Huehuetoca, Mexico State, Mexico
+2713x6001	Public domain	File:Bartolomeo Montagna - Saint Paul - Google Art Project.jpg	| 
+4053x5121	Public domain	File:El Greco - St. Paul - Google Art Project.jpg	| The work represents Saint Paul, called the Apostle of the Gentiles and beheaded according to tradition in Rome during the reign of Emperor N
+2322x2952	Public domain	File:St Bartholomew from Prado.jpg	| La obra representa a uno de los doce apóstoles de Jesucristo, aunque se desconoce a cuál con exactitud.
+3267x4096	Public domain	File:Saint Paul, Rembrandt van Rijn (and Workshop?), c. 1657.jpg	| Rembrandt van Rijn (and Workshop?) (Dutch, 1606 - 1669 ), The Apostle Paul, c. 1657, oil on canvas, Widener Collection
+2427x3083	CC BY-SA 2.0	File:Saint Peter, St. Paul the Apostle Orthodox Church, Dayton, Ohio.jpg	| Saint Peter, St. Paul the Apostle Orthodox Church, Dayton, Ohio.
+1508x3602	CC BY-SA 2.0	File:Saint Paul the Apostle, St. Paul the Apostle Orthodox Church, Dayton, Ohio.jpg	| Saint Paul the Apostle, St. Paul the Apostle Orthodox Church, Dayton, Ohio.
+4912x6848	CC BY-SA 4.0	File:Madonna dell'Orto (Venice) - Right side of the nave - John the Baptist among the saints Peter, Marco, Jerome and Paul by Cima da Conegliano 1495.jpg	| 
+1834x1736	CC BY-SA 2.0	File:Archangel Michael, St. Paul the Apostle Orthodox Church, Dayton, Ohio.jpg	| Archangel Michael, St. Paul the Apostle Orthodox Church, Dayton, Ohio.
+3813x3842	CC0	File:The Conversion of Saint Paul MET DP318243.jpg	| Conversion of Paul the Apostle
+1966x3875	CC0	File:Saint Paul MET DP295031.jpg	| Painting, part of an altarpiece; Paintings
+6980x5084	Public domain	File:Beaux-Arts de Carcassonne - La séparation de Saint Pierre et de Saint Paul 1671 - Giovanni Lanfranco 106x144.jpg	| 
+3556x4443	Public domain	File:(Albi) Saint Paul (copie) - Georges de La Tour - MTL inv.165.jpg	| 
+3969x3747	CC BY-SA 3.0	File:Saint Paul, detail. El Greco Museum, Toledo. Spain.jpg	| Saint Paul, detail. El Greco Museum, Toledo. Spain
+4599x7468	Public domain	File:(Toulouse) Conversion de saint Paul de Tarse, 1670 - Bertholet Flemalle Musée des Augustins.jpg	| 
+1104x1500	Public domain	File:Anthony van Dyck - The Apostle Saint Paul.jpg	| 
+4231x4427	CC0	File:Saint Paul the Apostle (Mosaic Portrait Fragment) on Vatican Museum.jpg	| Small tesserae form a left-facing portrait of an older, bearded man with a halo, identified in Christian art as Saint Paul. The work is a fr
+5400x5960	CC BY 4.0	File:Saint Peter and Saint Paul - Jusepe de Ribera.jpg	| Saint Peter and Saint Paul - Jusepe de Ribera
+6496x3654	CC BY-SA 4.0	File:Tours - Cathédrale Saint-Gatien - Intérieur - 16.jpg	| Tours (Indre-et-Loire, France) - St. Gatian's cathedral - 17th-century paintings of the apostles : saint James the Greater, saint John the A
+1440x1799	Public domain	File:Saint Paul, attributed to Bartolomé Esteban Murillo (1617–1682).jpg	| Saint Paul the Apostle.
+2639x3200	Public domain	File:Saint Paul, by Jusepe de Ribera (1591 – 1652).jpg	| 
+2240x2953	Public domain	File:Saint Paul, by Peter Paul Rubens (Museo del Prado).jpg	| 
+1438x1917	CC0	File:Painting of the Conversion of Paul Kaukab Damascus.jpg	| A painting depicting the Conversion of Paul the Apostle (falling from his horse due to the heavenly light), located inside the Greek Orthodo
+### penitent kneeling prayer church painting filetype:bitmap
+3910x2759	CC BY 2.0	File:Mosteiro dos Jerónimos (49931109751).jpg	| Belem, Lisbon, Portugal DESCRIPTION The Jerónimos Monastery or Hieronymites Monastery (Mosteiro dos Jerónimos, Portuguese pronunciation: [mu
