@@ -319,7 +319,7 @@ export async function buscarCommons(q, limite = 50) {
         if (!ii) return null;
         const md = ii.extmetadata || {};
         const lic = `${md.LicenseShortName?.value || ''} ${md.License?.value || ''}`;
-        const dominioPublico = /public domain|^\s*pd\b|\bpd-|cc0|cc-zero/i.test(lic);
+        const dominioPublico = /public domain|^\s*pd\b|\bpd-|\bpdm\b|cc0|cc-zero/i.test(lic);
         if (!dominioPublico) return null;
         if (!/image\/(jpeg|png|tiff)/.test(ii.mime)) return null;
         if (ii.width < 1000 || ii.height < 650) return null;
@@ -359,7 +359,7 @@ const semWikidata = (t = '') =>
 
 export function credito(c) {
   const partes = [semWikidata(c.obra) || c.arquivo.replace(/\.[a-z]+$/i, ''), semWikidata(c.artista), semWikidata(c.data)].filter(Boolean);
-  if (c.licenca && !/dom[ií]nio p[uú]blico|public domain|^\s*pd\b|\bpd-|cc0|cc-zero/i.test(c.licenca)) {
+  if (c.licenca && !/dom[ií]nio p[uú]blico|public domain|^\s*pd\b|\bpd-|\bpdm\b|cc0|cc-zero/i.test(c.licenca)) {
     const titulo = semWikidata(c.obra) || c.arquivo.replace(/\.[a-z]+$/i, '');
     const autor = semWikidata(c.artista) || 'autor no Wikimedia Commons';
     return `${titulo}. Foto: ${autor}, licença ${c.licenca}, via Wikimedia Commons.`;
@@ -387,7 +387,7 @@ export async function infoCommons(titulo) {
   if (!ii) throw new Error('arquivo não encontrado no Commons');
   const md = ii.extmetadata || {};
   const lic = `${md.LicenseShortName?.value || ''} ${md.License?.value || ''}`;
-  const dominioPublico = /public domain|^\s*pd\b|\bpd-|cc0|cc-zero/i.test(lic);
+  const dominioPublico = /public domain|^\s*pd\b|\bpd-|\bpdm\b|cc0|cc-zero/i.test(lic);
   // Fotos reais (relíquias, santuários) costumam ser CC BY ou CC BY-SA: aceitas, com autor e licença no crédito.
   // Nunca NC (uso não comercial) nem ND (sem derivadas).
   const livreComAtribuicao = /\bcc[- ]by(-sa)?[- ]\d/i.test(lic) && !/\b(nc|nd)\b/i.test(lic);
