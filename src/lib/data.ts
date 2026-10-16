@@ -22,12 +22,20 @@ const dbEscrita = chaveServico
   ? createClient(SUPABASE_URL, chaveServico, { auth: { persistSession: false, autoRefreshToken: false } })
   : null;
 
-const PAGE = 1000;
+// Lotes pequenos e novas tentativas: o banco do plano gratuito engasga com consultas grandes
+const PAGE = 200;
+const espera = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 async function fetchAll<T>(build: (from: number, to: number) => PromiseLike<{ data: T[] | null; error: unknown }>): Promise<T[]> {
   const out: T[] = [];
   for (let from = 0; ; from += PAGE) {
-    const { data, error } = await build(from, from + PAGE - 1);
+    let data: T[] | null = null;
+    let error: unknown = null;
+    for (let tentativa = 0; tentativa < 4; tentativa++) {
+      ({ data, error } = await build(from, from + PAGE - 1));
+      if (!error) break;
+      await espera(3000 * (tentativa + 1));
+    }
     if (error) throw new Error(`[supabase] ${JSON.stringify(error)}`);
     if (!data || data.length === 0) break;
     out.push(...data);
