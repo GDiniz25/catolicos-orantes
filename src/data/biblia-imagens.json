@@ -160,5 +160,281 @@
   "alt": "São João em Patmos escreve o Apocalipse enquanto contempla a visão da Mulher no céu",
   "credito": "Diego Velázquez, São João Evangelista na Ilha de Patmos, 1619–1620. Domínio público, via Wikimedia Commons.",
   "foco": "50% 0%"
+ },
+ "genesis": {
+  "src": "/arte/biblia/genesis.jpg",
+  "alt": "Jacó dorme sobre a pedra e sonha com a escada que sobe ao céu",
+  "credito": "Jusepe de Ribera, O sonho de Jacó, 1639. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 78%"
+ },
+ "exodo": {
+  "src": "/arte/biblia/exodo.jpg",
+  "alt": "Moisés ergue as tábuas da Lei com os Dez Mandamentos",
+  "credito": "Rembrandt, Moisés com as tábuas da Lei, 1659. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 43%"
+ },
+ "levitico": {
+  "src": "/arte/biblia/levitico.jpg",
+  "alt": "Moisés e o sumo sacerdote Aarão ao lado das tábuas da Lei",
+  "credito": "Autor desconhecido, Moisés e Aarão com as tábuas da Lei, 1692. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "numeros": {
+  "src": "/arte/biblia/numeros.jpg",
+  "alt": "O profeta Balaão, sua jumenta e o anjo do Senhor no caminho",
+  "credito": "Rembrandt, Balaão e a jumenta, 1626. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 40%"
+ },
+ "deuteronomio": {
+  "src": "/arte/biblia/deuteronomio.jpg",
+  "alt": "Moisés apresenta as tábuas com os Dez Mandamentos",
+  "credito": "Philippe de Champaigne, Moisés com as tábuas da Lei, c. 1648. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 11%"
+ },
+ "josue": {
+  "src": "/arte/biblia/josue.jpg",
+  "alt": "Josué diante do chefe do exército do Senhor junto a Jericó",
+  "credito": "Ferdinand Bol, O chefe do exército do Senhor aparece a Josué, c. 1660–1663. CC0, via Wikimedia Commons.",
+  "foco": "50% 58%"
+ },
+ "juizes": {
+  "src": "/arte/biblia/juizes.jpg",
+  "alt": "O anjo do Senhor aparece a Gedeão, que se ajoelha",
+  "credito": "Gerbrand van den Eeckhout, O anjo e Gedeão, 1640. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 79%"
+ },
+ "rute": {
+  "src": "/arte/biblia/rute.jpg",
+  "alt": "Rute recolhe espigas no campo de Booz, que vem ao seu encontro",
+  "credito": "Julius Schnorr von Carolsfeld, Rute no campo de Booz, 1828. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "1-samuel": {
+  "src": "/arte/biblia/1-samuel.jpg",
+  "alt": "Ana apresenta o menino Samuel ao sacerdote Eli no templo",
+  "credito": "Gerbrand van den Eeckhout, Ana leva o menino Samuel a Eli, c. 1660–1663. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 67%"
+ },
+ "2-samuel": {
+  "src": "/arte/biblia/2-samuel.jpg",
+  "alt": "O rei Davi, idoso, toca a harpa olhando para o alto",
+  "credito": "Oficina de Peter Paul Rubens, O rei Davi tocando harpa, c. 1640. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 5%"
+ },
+ "1-reis": {
+  "src": "/arte/biblia/1-reis.jpg",
+  "alt": "A viúva de Sarepta oferece pão ao profeta Elias",
+  "credito": "Giovanni Lanfranco, Elias recebe pão da viúva de Sarepta, c. 1621–1624. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 42%"
+ },
+ "2-reis": {
+  "src": "/arte/biblia/2-reis.jpg",
+  "alt": "O profeta Eliseu recusa os presentes de Naamã",
+  "credito": "Lambert Jacobsz, Eliseu recusa os presentes de Naamã, c. 1630. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "1-cronicas": {
+  "src": "/arte/biblia/1-cronicas.jpg",
+  "alt": "O rei Davi, coroado, ao lado do jovem Salomão",
+  "credito": "Gerard de Lairesse, Cena do Antigo Testamento (Salomão e o rei Davi), 1690. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "2-cronicas": {
+  "src": "/arte/biblia/2-cronicas.jpg",
+  "alt": "Salomão ergue as mãos em oração na dedicação do Templo",
+  "credito": "James Tissot, A dedicação do Templo por Salomão, c. 1896–1902. Foto: Phillip Medhurst, CC BY-SA 4.0, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "esdras": {
+  "src": "/arte/biblia/esdras.jpg",
+  "alt": "O escriba Esdras escreve a Lei diante de um armário de livros",
+  "credito": "Codex Amiatinus, Esdras, o escriba, c. 700. Foto: Gennadii Saus i Segura, CC BY-SA 4.0, via Wikimedia Commons.",
+  "foco": "50% 25%"
+ },
+ "neemias": {
+  "src": "/arte/biblia/neemias.jpg",
+  "alt": "Neemias, a cavalo, contempla as ruínas de Jerusalém",
+  "credito": "James Tissot, Neemias vê as ruínas de Jerusalém, c. 1896–1902. Foto: Phillip Medhurst, CC BY-SA 4.0, via Wikimedia Commons.",
+  "foco": "50% 14%"
+ },
+ "tobias": {
+  "src": "/arte/biblia/tobias.jpg",
+  "alt": "O jovem Tobias encontra o arcanjo Rafael no caminho",
+  "credito": "Andrea Vaccaro, Tobias encontra o arcanjo Rafael, c. 1640. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "judite": {
+  "src": "/arte/biblia/judite.jpg",
+  "alt": "Judite em trajes nobres, sentada, no banquete de Holofernes",
+  "credito": "Rembrandt, Judite no banquete de Holofernes, 1634. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "ester": {
+  "src": "/arte/biblia/ester.jpg",
+  "alt": "A rainha Ester desfalece diante do rei Assuero, que lhe estende o cetro",
+  "credito": "Guercino, Ester diante de Assuero, 1639. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 7%"
+ },
+ "1-macabeus": {
+  "src": "/arte/biblia/1-macabeus.jpg",
+  "alt": "Judas Macabeu em armadura, com estandarte e brasão",
+  "credito": "Thesouro de Nobreza, Judas Macabeu, iluminura, 1675. Foto: Comitis De Sousa, CC BY-SA 4.0, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "2-macabeus": {
+  "src": "/arte/biblia/2-macabeus.jpg",
+  "alt": "Santa Salomona, mãe dos Macabeus, com seus filhos e Eleazar",
+  "credito": "Afresco de Santa Maria Antiqua, Salomona e os Macabeus, c. 600–650. Foto: Sailko, CC BY 3.0, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "jo": {
+  "src": "/arte/biblia/jo.jpg",
+  "alt": "Jó, de barba branca, narra suas provações às filhas",
+  "credito": "William Blake, Jó e suas filhas, 1799–1800. CC0, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "salmos": {
+  "src": "/arte/biblia/salmos.jpg",
+  "alt": "O rei Davi toca a harpa cercado de anjos",
+  "credito": "Hendrick ter Brugghen, O rei Davi tocando harpa entre anjos, 1628. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "proverbios": {
+  "src": "/arte/biblia/proverbios.jpg",
+  "alt": "O rei Salomão com turbante, manto de arminho e cetro",
+  "credito": "Arent de Gelder, Figura do Antigo Testamento, provavelmente o rei Salomão, c. 1685–1690. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "eclesiastes": {
+  "src": "/arte/biblia/eclesiastes.jpg",
+  "alt": "O rei Salomão, pensativo, com a mão no rosto",
+  "credito": "Kristian Zahrtmann, Rei Salomão, 1881. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 30%"
+ },
+ "cantico-dos-canticos": {
+  "src": "/arte/biblia/cantico-dos-canticos.jpg",
+  "alt": "A esposa do Cântico dos Cânticos, de véu verde, entre suas companheiras",
+  "credito": "Dante Gabriel Rossetti, A amada (A esposa), 1865–1866. Foto: Sailko, CC BY 3.0, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "sabedoria": {
+  "src": "/arte/biblia/sabedoria.jpg",
+  "alt": "Deus concede a sabedoria a Salomão durante o sono",
+  "credito": "Luca Giordano, O sonho de Salomão, c. 1694–1695. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 100%"
+ },
+ "eclesiastico": {
+  "src": "/arte/biblia/eclesiastico.jpg",
+  "alt": "Jesus Ben Sirac, sábio de barba branca, ergue o dedo ensinando",
+  "credito": "Oficina de Jörg Breu, o Jovem, Jesus Sirac (Livro de honra dos Fugger), 1545–1549. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 33%"
+ },
+ "isaias": {
+  "src": "/arte/biblia/isaias.jpg",
+  "alt": "O profeta Isaías, sentado com um livro, volta-se para um anjo",
+  "credito": "Michelangelo, O profeta Isaías, Capela Sistina, 1508–1512. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 7%"
+ },
+ "jeremias": {
+  "src": "/arte/biblia/jeremias.jpg",
+  "alt": "O profeta Jeremias, pensativo, com a mão sobre a barba",
+  "credito": "Michelangelo, O profeta Jeremias, Capela Sistina, 1508–1512. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "lamentacoes": {
+  "src": "/arte/biblia/lamentacoes.jpg",
+  "alt": "Jeremias lamenta a destruição de Jerusalém, que arde ao fundo",
+  "credito": "Rembrandt, Jeremias lamenta a destruição de Jerusalém, 1630. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 30%"
+ },
+ "baruc": {
+  "src": "/arte/biblia/baruc.jpg",
+  "alt": "O profeta Jeremias dita sua profecia ao escriba Baruc",
+  "credito": "Washington Allston, Jeremias ditando sua profecia ao escriba Baruc, 1820. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "ezequiel": {
+  "src": "/arte/biblia/ezequiel.jpg",
+  "alt": "O profeta Ezequiel, de turbante azul, com um rolo na mão",
+  "credito": "Michelangelo, O profeta Ezequiel, Capela Sistina, 1508–1512. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "daniel": {
+  "src": "/arte/biblia/daniel.jpg",
+  "alt": "Estátua do profeta Daniel com o leão, em Congonhas",
+  "credito": "Aleijadinho, Profeta Daniel, Santuário do Bom Jesus de Matosinhos, c. 1800–1805. Foto: Eric Gaba, CC BY-SA 4.0, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "oseias": {
+  "src": "/arte/biblia/oseias.jpg",
+  "alt": "Estátua em pedra-sabão do profeta Oseias, em Congonhas",
+  "credito": "Aleijadinho, Profeta Oseias, Santuário do Bom Jesus de Matosinhos, c. 1800–1805. Foto: Eric Gaba, CC BY-SA 4.0, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "joel": {
+  "src": "/arte/biblia/joel.jpg",
+  "alt": "O profeta Joel lê um rolo, entre dois anjos",
+  "credito": "Michelangelo, O profeta Joel, Capela Sistina, 1508–1512. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 7%"
+ },
+ "amos": {
+  "src": "/arte/biblia/amos.jpg",
+  "alt": "Estátua do profeta Amós, pastor de Técua, em Congonhas",
+  "credito": "Aleijadinho, Profeta Amós, Santuário do Bom Jesus de Matosinhos, c. 1800–1805. Foto: Luis Rizo, domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "abdias": {
+  "src": "/arte/biblia/abdias.jpg",
+  "alt": "Estátua do profeta Abdias apontando para o céu, em Congonhas",
+  "credito": "Aleijadinho, Profeta Abdias, Santuário do Bom Jesus de Matosinhos, c. 1800–1805. Foto: Luis Rizo, domínio público, via Wikimedia Commons.",
+  "foco": "50% 5%"
+ },
+ "jonas": {
+  "src": "/arte/biblia/jonas.jpg",
+  "alt": "O profeta Jonas olha para o alto, com o grande peixe ao lado",
+  "credito": "Michelangelo, O profeta Jonas, Capela Sistina, 1508–1512. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 10%"
+ },
+ "miqueias": {
+  "src": "/arte/biblia/miqueias.jpg",
+  "alt": "O profeta Miqueias segura o rolo com a profecia sobre Belém",
+  "credito": "Pier Leone Ghezzi, O profeta Miqueias, c. 1718. Foto: Sailko, CC BY 3.0, via Wikimedia Commons.",
+  "foco": "50% 37%"
+ },
+ "naum": {
+  "src": "/arte/biblia/naum.jpg",
+  "alt": "Estátua do profeta Naum, de longa barba, em Congonhas",
+  "credito": "Aleijadinho, Profeta Naum, Santuário do Bom Jesus de Matosinhos, c. 1800–1805. Foto: Luis Rizo, domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "habacuc": {
+  "src": "/arte/biblia/habacuc.jpg",
+  "alt": "Rosto da estátua do profeta Habacuc, em Congonhas",
+  "credito": "Aleijadinho, Profeta Habacuc, Santuário do Bom Jesus de Matosinhos, c. 1800–1805. Foto: Ricardo André Frantz, CC BY-SA 4.0, via Wikimedia Commons.",
+  "foco": "50% 15%"
+ },
+ "sofonias": {
+  "src": "/arte/biblia/sofonias.jpg",
+  "alt": "O profeta Sofonias, de manto vermelho, ergue a mão",
+  "credito": "James Tissot, Sofonias, c. 1896–1902. Foto: Phillip Medhurst, CC BY-SA 4.0, via Wikimedia Commons.",
+  "foco": "50% 7%"
+ },
+ "ageu": {
+  "src": "/arte/biblia/ageu.jpg",
+  "alt": "O profeta Ageu, de pé, com as mãos unidas",
+  "credito": "James Tissot, Ageu, c. 1896–1902. Foto: Phillip Medhurst, CC BY-SA 4.0, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "zacarias": {
+  "src": "/arte/biblia/zacarias.jpg",
+  "alt": "O profeta Zacarias, de barba branca, lê um livro",
+  "credito": "Michelangelo, O profeta Zacarias, Capela Sistina, 1508–1512. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 7%"
+ },
+ "malaquias": {
+  "src": "/arte/biblia/malaquias.jpg",
+  "alt": "O profeta Malaquias, de chapéu, com a filactéria de sua profecia",
+  "credito": "Autor alemão desconhecido, O profeta Malaquias, século XV. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 27%"
  }
 }
