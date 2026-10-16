@@ -76,3 +76,4 @@ for (let p = 0; !SO_CORTE && p * 20 < inteira.length; p++) {
   await sharp({ create: { width: 5 * 306, height: 4 * 326, channels: 3, background: '#222' } }).composite(comps).jpeg({ quality: 70 }).toFile(`recortes/inteira-${String(p).padStart(2, '0')}.jpg`);
 }
 console.log(lista.length, 'imagens');
+// 1792175697
