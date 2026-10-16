@@ -33,281 +33,47 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/ctx_mr1	2448x3264	CC BY-SA 3.0	UHF	File:ND Délivrande Morne-Rouge 1.jpg
-   DESC: Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
-   CATS: CC-BY-SA-3.0 | Our Lady Church (Le Morne-Rouge) | Self-published work | Taken with Samsung Galaxy S II
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/ctx_mr2	2448x3264	CC BY-SA 3.0	UHF	File:ND Délivrande Morne-Rouge 2.jpg
-   DESC: Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
-   CATS: CC-BY-SA-3.0 | Our Lady Church (Le Morne-Rouge) | Self-published work | Taken with Samsung Galaxy S II
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/ctx_mr3	3264x2448	CC BY-SA 3.0	UHF	File:ND Délivrande Morne-Rouge 3.jpg
-   DESC: Côté de l'église Notre-Dame de la Délivrande du Morne-Rouge
-   CATS: CC-BY-SA-3.0 | Our Lady Church (Le Morne-Rouge) | Self-published work | Taken with Samsung Galaxy S II
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/ctx_mr4	3264x2448	CC BY-SA 3.0	UHF	File:ND Délivrande Morne-Rouge 4.jpg
-   DESC: Intérieur de l'église Notre-Dame de la Délivrande du Morne-Rouge
-   CATS: CC-BY-SA-3.0 | Our Lady Church (Le Morne-Rouge) | Self-published work | Taken with Samsung Galaxy S II
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/ctx_on1	2937x4027	CC BY-SA 4.0	Varondán	File:Iglesia de Santiago Apóstol de Onil, Alicante 01.jpg
-   DESC: Iglesia parroquial de Santiago Apóstol de Onil, Alicante.
-   CATS: CC-BY-SA-4.0 | Iglesia de Santiago Apóstol (Onil) | Self-published work
+OK	fr/ctx_conf	4733x3159	CC BY 2.0	James Bradley	File:Confiteor at Tridentine Mass.jpg
+   DESC: Confiteor at Tridentine mass
+   CATS: CC-BY-2.0 | Flickr images uploaded by Flickr upload bot | Solemn Mass | Taken with Canon EOS 500D
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+OK	fr/ctx_dul0	3120x4160	CC BY-SA 4.0	Eugenio Hansen, OFS	File:Santa Dulce dos Pobres 0.jpg
+   DESC: Santa Dulce dos Pobres
+   CATS: CC-BY-SA-4.0 | Capela da Universidade São Judas Tadeu | Files by Eugenio Hansen | Irmã Dulce | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/ctx_on2	4208x3120	CC BY-SA 4.0	Varondán	File:Iglesia de Santiago Apóstol de Onil, Alicante 05.jpg
-   DESC: Iglesia de Santiago Apóstol de Onil, Alicante.
-   CATS: CC-BY-SA-4.0 | Iglesia de Santiago Apóstol (Onil) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/ctx_on3	4208x3120	CC BY-SA 4.0	Varondán	File:Iglesia de Santiago Apóstol de Onil, Alicante 09.jpg
-   DESC: Iglesia de Santiago Apóstol de Onil, Alicante.
-   CATS: CC-BY-SA-4.0 | Iglesia de Santiago Apóstol (Onil) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/ctx_si1	3648x2736	CC BY-SA 3.0	B25es	File:Silla Valencia 03.JPG
-   DESC: Silla, España.
-   CATS: CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | Our Lady of the Angels church in Silla | Self-published work | Taken with Fujifilm FinePix S1500
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/ctx_si2	2736x3648	CC BY-SA 3.0	B25es	File:Silla Valencia 06.JPG
-   DESC: Silla, España.
-   CATS: CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation | Our Lady of the Angels church in Silla | Self-published work | Taken with Fujifilm FinePix S1500
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/ctx_mo1	3648x5472	CC BY-SA 4.0	Fab5669	File:Orléans - église Saint-Marceau, vitrail 18.jpg
-   DESC: Stained-glass window of Saint Marceau church of Orléans (Loiret, France) : Louis Marie Grignon de Montfort byTesteau
-   CATS: CC-BY-SA-4.0 | Saint Louis de Montfort on stained-glass windows | Self-published work | Stained-glass windows of Église Saint-Marceau d'Orléans
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/ctx_mo2	2008x3423	CC BY 4.0	GO69	File:Chanzeaux (49) Église Saint-Pierre - Intérieur - Baie 119-3.jpg
-   DESC: Intérieur de l'église Saint-Pierre à Chanzeaux (49). Baie 119 - Saint-Louis-Marie-Grignion-de-Montfort.
-   CATS: CC-BY-4.0 | Cultural heritage monument objects in France with known IDs | Files with coordinates missing SDC location of creation | Objets monuments historiques in Maine-et-Loire (stained-glass windows) | Objets monuments historiques inscrits | Palissy | Palissy with PM parameter | Saint Louis de Montfort on stained-glass windows | Self-published work | Stained-glass windows of Église Saint-Pierre de Chanzeaux
-   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
-OK	fr/ctx_mo3	1707x3357	CC BY 4.0	GO69	File:Domagné (35) Église Saint-Pierre - Intérieur - Baie 104-2.jpg
-   DESC: Vitrail de l'église Saint-Pierre de Domagné (35). Baie n°104. Saint-Louis-Marie-Grignion-de-Montfort.
-   CATS: CC-BY-4.0 | Files with coordinates missing SDC location of creation | Saint Louis de Montfort on stained-glass windows | Self-published work | Vitraux de l'église Saint-Pierre de Domagné
-   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
-OK	fr/ctx_mo4	2592x3888	CC BY-SA 3.0	GFreihalter	File:Paris Saint-Honoré d'Eylau906.JPG
-   DESC: Bleiglasfenster in der Kirche Saint-Honoré d'Eylau (Avenue Raymond-Poincaré im 16. Arrondissement von Paris), Darstellung: hl. Saint Louis de Montfort (1673-1716), Hersteller des Fensters: Félix Gaudin nach einem Karton von Raphaël Freida.
-   CATS: CC-BY-SA-3.0 | Files by User:GFreihalter/Paris 2010 | Files by User:GFreihalter/Paris Église Saint-Honoré d'Eylau | Saint Louis de Montfort on stained-glass windows | Self-published work | Stained-glass windows of Église Saint-Honoré-d'Eylau, Avenue Raymond-Poincaré | Taken with Canon EOS 1000D
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/ctx_pa1	1440x1799	Public domain	Attributed to Bartolomé Esteban Murillo	File:Saint Paul, attributed to Bartolomé Esteban Murillo (1617–1682).jpg
-   DESC: Saint Paul the Apostle.
-   CATS: 17th-century paintings of Saint Paul | CC-PD-Mark | PD-Art (PD-old-100) | PD-Art missing SDC copyright status | PD-old missing SDC copyright status | Paintings attributed to Bartolomé Esteban Murillo | Paintings without Wikidata item
-   LICURL:  USAGE: Public domain
-OK	fr/ctx_pa2	2639x3200	Public domain	Jusepe de Ribera	File:Saint Paul, by Jusepe de Ribera (1591 – 1652).jpg
-   DESC: 
-   CATS: 17th-century paintings of Saint Paul | Apostles by Ribera | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings without Wikidata item | Saint Paul by José de Ribera
-   LICURL:  USAGE: Public domain
-OK	fr/ctx_pa3	4053x5121	Public domain	El Greco	File:El Greco - St. Paul - Google Art Project.jpg
-   DESC: The work represents Saint Paul, called the Apostle of the Gentiles and beheaded according to tradition in Rome during the reign of Emperor Nero.
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Google Art Project works by El Greco | Google Art Project works in Museo del Greco | PD-Art (PD-old-100-expired) | PD-old-100-expired | Saint Paul by El Greco (Museo del Greco, Toledo)
-   LICURL:  USAGE: Public domain
-OK	fr/ctx_pa4	1104x1500	Public domain	Anthony van Dyck	File:Anthony van Dyck - The Apostle Saint Paul.jpg
-   DESC: 
-   CATS: 17th-century paintings of Saint Paul | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Anthony van Dyck in the Gemäldegalerie Alte Meister (Dresden) | Paintings in the Staatliche Kunstsammlungen Dresden | Paintings of Saint Paul in Germany | Paintings of saints by Anthony van Dyck | Twelve apostles by Anthon
-   LICURL:  USAGE: Public domain
-OK	fr/ctx_pd1	5184x3888	CC BY-SA 4.0	FBenjr123	File:Roman Catholic Infant Baptism in Pandi Church 12.jpg
-   DESC: This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting, c) the child is held by godparents and parents over a Baptismal font with Baptismal water by Roman Catholic Parish Priest Jocelyn L. San Jose who issues d) Baptism certificates of the Philippines in the Immaculate Conception Parish Church in Pandi, Bulacan a
-   CATS: 2022 baptisms | 2022 events in the Philippines | CC-BY-SA-4.0 | Churches in the Philippines photographed in 2022 | Images from Wiki Loves Folklore 2022 | Images from Wiki Loves Folklore 2022 in the Philippines | Infant Baptism in Pandi Church | People in 2022 | Philippines photographs taken on 2022-02-20 | Roman Catholic priests from the Philippines | Self-published work | Standing men in the Philippines | Standing women in the Philippines | Taken with Canon PowerShot SX620 HS | Uploaded via Cam
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/ctx_pd2	5184x3888	CC BY-SA 4.0	FBenjr123	File:Roman Catholic Infant Baptism in Pandi Church 13.jpg
-   DESC: This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting, c) the child is held by godparents and parents over a Baptismal font with Baptismal water by Roman Catholic Parish Priest Jocelyn L. San Jose who issues d) Baptism certificates of the Philippines in the Immaculate Conception Parish Church in Pandi, Bulacan a
-   CATS: 2022 baptisms | 2022 events in the Philippines | CC-BY-SA-4.0 | Churches in the Philippines photographed in 2022 | Infant Baptism in Pandi Church | People in 2022 | Philippines photographs taken on 2022-02-20 | Roman Catholic priests from the Philippines | Self-published work | Standing men in the Philippines | Standing women in the Philippines | Taken with Canon PowerShot SX620 HS | Women holding babies in the Philippines
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/ctx_pd3	5184x3888	CC BY-SA 4.0	FBenjr123	File:Roman Catholic Infant Baptism in Pandi Church 15.jpg
-   DESC: This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting, c) the child is held by godparents and parents over a Baptismal font with Baptismal water by Roman Catholic Parish Priest Jocelyn L. San Jose who issues d) Baptism certificates of the Philippines in the Immaculate Conception Parish Church in Pandi, Bulacan a
-   CATS: 2022 baptisms | 2022 events in the Philippines | CC-BY-SA-4.0 | Churches in the Philippines photographed in 2022 | Infant Baptism in Pandi Church | People in 2022 | Philippines photographs taken on 2022-02-20 | Self-published work | Standing women in the Philippines | Taken with Canon PowerShot SX620 HS | Women holding babies in the Philippines
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/ctx_pd4	5184x3888	CC BY-SA 4.0	FBenjr123	File:Roman Catholic Infant Baptism in Pandi Church 16.jpg
-   DESC: This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting, c) the child is held by godparents and parents over a Baptismal font with Baptismal water by Roman Catholic Parish Priest Jocelyn L. San Jose who issues d) Baptism certificates of the Philippines in the Immaculate Conception Parish Church in Pandi, Bulacan a
-   CATS: 2022 baptisms | 2022 events in the Philippines | CC-BY-SA-4.0 | Churches in the Philippines photographed in 2022 | Infant Baptism in Pandi Church | People in 2022 | Philippines photographs taken on 2022-02-20 | Self-published work | Standing women in the Philippines | Taken with Canon PowerShot SX620 HS | Women holding babies in the Philippines
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/ctx_pd5	5184x3888	CC BY-SA 4.0	FBenjr123	File:Roman Catholic Infant Baptism in Pandi Church 02.jpg
-   DESC: This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting, c) the child is held by godparents and parents over a Baptismal font with Baptismal water by Roman Catholic Parish Priest Jocelyn L. San Jose who issues d) Baptism certificates of the Philippines in the Immaculate Conception Parish Church in Pandi, Bulacan a
-   CATS: 2022 baptisms | 2022 events in the Philippines | CC-BY-SA-4.0 | Churches in the Philippines photographed in 2022 | Infant Baptism in Pandi Church | People in 2022 | Philippines photographs taken on 2022-02-20 | Self-published work | Standing women in the Philippines | Taken with Canon PowerShot SX620 HS
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/ctx_pd6	5184x3888	CC BY-SA 4.0	FBenjr123	File:Roman Catholic Infant Baptism in Pandi Church 04.jpg
-   DESC: This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting, c) the child is held by godparents and parents over a Baptismal font with Baptismal water by Roman Catholic Parish Priest Jocelyn L. San Jose who issues d) Baptism certificates of the Philippines in the Immaculate Conception Parish Church in Pandi, Bulacan a
-   CATS: 2022 baptisms | 2022 events in the Philippines | CC-BY-SA-4.0 | Churches in the Philippines photographed in 2022 | Infant Baptism in Pandi Church | People in 2022 | Philippines photographs taken on 2022-02-20 | Self-published work | Standing women in the Philippines | Taken with Canon PowerShot SX620 HS
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-### cat:Óscar Romero in art
-SUBCATS: Paintings of Óscar Arnulfo Romero | Portraits of Óscar Arnulfo Romero | Statues of Óscar Arnulfo Romero
-3264x2448	CC BY-SA 3.0	File:Busto de Monseñor Arnulfo Romero.JPG	| Bust of Monsignor Arnulfo Romero in Zaragoza, El Salvador
-2000x1333	CC BY-SA 2.0	File:REUNIÓN CON EL PRESIDENTE DE LA REPÚBLICA DE EL SALVADOR (16529014894).jpg	| San Salvador (El Salvador), 14 de abril de 2015. El Canciller Ricardo Patiño se reunió con el Señor Presidente Salvador Sanchez Cerén. Foto:
-5616x3744	CC0	File:Visita de Cardenal Angelo Amato - 17369133203.jpg	| Salvador Sanchez Ceren recibe a Cardenal Angelo Amato.
-5616x3744	CC0	File:Visita Monsenor Vincenzo Paglia - Paglia with Martinez and Sanchez Ceren.jpg	| DE IZQ. A DER.: HUGO MARTINEZ ,CANCILLER DE EL SALVADOR ; SALVADOR SANCHEZ CEREN , PRESIDENTE DE EL SALVADOR ;MONSEÑOR VINCENZO PAGLIA Y MON
-5616x3744	CC0	File:Visita Monsenor Vincenzo Paglia - Paglia with Salvador leaders.jpg	| DE IZQ. A DER.: NUNCIO APOSTOLICO,LEON KALENGA; HUGO MARTINEZ ,CANCILLER DE EL SALVADOR ; SALVADOR SANCHEZ CEREN , PRESIDENTE DE EL SALVADOR
-5008x3600	CC0	File:Visita Monsenor Vincenzo Paglia - Paglia with Martinez and Ceren.jpg	| DE IZQ. A DER. ; HUGO MARTINEZ, CANCILLER DE EL SALVADOR ; SALVADOR SANCHEZ CEREN , PRESIDENTE DE EL SALVADOR Y MONSEÑOR VINCENZO PAGLIA , P
-5352x3454	CC0	File:VISITA MONSEÑOR VINCENZO PAGLIA - Paglia with Salvado leaders 2.jpg	| DE IZQ. A DER.: NUNCIO APOSTOLICO,LEON KALENGA;HUGO MARTINEZ ,CANCILLER DE EL SALVADOR ; SALVADOR SANCHEZ CEREN , PRESIDENTE DE EL SALVADOR 
-5616x3744	CC0	File:Misa Conmemorativa por muerte del Beato Monseñor Romero. (25862267146).jpg	| Asistentes a la misa.
-2048x1536	CC BY-SA 4.0	File:Parroquia "Nuestra Señora del Pilar".jpg	| Parroquia "Nuestra Señora del Pilar" de Zaragoza, El Salvador
-4608x3456	CC BY-SA 3.0	File:IGLESIA EN ITA MAURA - panoramio.jpg	| IGLESIA EN ITA MAURA
-3676x2442	CC0	File:Herdenking in Dominicuskerk in A'dam dat jaar geleden Bisschop Romero , voor Rechter mensenrecht in El Salvador werd vermoord,, Bestanddeelnr 931-4015.jpg	| Collectie / Archief : Fotocollectie Anefo Reportage / Serie : [ onbekend ] Beschrijving : Herdenking in Dominicuskerk in A'dam dat jaar gele
-1024x768	CC BY 2.0	File:Oscar Romero memorial relief plaque by Paul Grime, Fraser Court, Edinburgh (5866363199).jpg	| A 1992 Óscar Arnulfo Romero memorial relief plaque by Scottish artist Paul Grime by the University of Edinburgh Fraser Court student halls, 
-3024x4032	CC BY-SA 4.0	File:Milano - Basilica di Santo Stefano Maggiore - 2023-09-29 16-11-56 011.jpg	| Eleazar Joel Sanchez Martinez, La bienvenida del Beato Romero, 2015. Basilica di Santo Stefano Maggiore
-### cat:Dulce of the Poor
-### cat:Irmã Dulce
-SUBCATS: Celebração Santa Dulce dos Pobres | Irmã Dulce (ship, 2014) | Memorial Irmã Dulce | Obras Sociais Irmã Dulce | Praça Irmã Dulce
-1018x1285	CC BY-SA 3.0	File:Irmã Dulce.jpg	| Irmã Dulce
-2126x1417	CC BY 2.0	File:Beatificação de Irmã Dulce no Parque de Exposições.jpg	| Padres na cerimônia de Beatifição de Irmã Dulce no Parque de Exposições em Salvador, Bahia Foto: Manu Dias/Secom
-1536x2048	CC BY 3.0	File:Heróis do Brasil - Irmã Dulce, Mulher Maravilha - panoramio.jpg	| Heróis do Brasil - Irmã Dulce, Mulher Maravilha
-3310x2365	CC BY-SA 2.0	File:Congresso Brasileiro de Turismo Religioso 41971370982.jpg	| Congresso Brasileiro de Turismo Religioso, May 9-12, 2018, Salvador, Bahia, Brazil.
-1920x1080	CC BY 3.0	File:Canonização da irmã Dulce.webm	| 11.10.2019 - Neste domingo, mais de 40 mil pessoas são esperadas na missa de canonização da irmã Dulce, no Vaticano. O vice-presidente, Hami
-3120x4160	CC BY-SA 4.0	File:Santa Dulce dos Pobres 0.jpg	| Santa Dulce dos Pobres
-3120x4160	CC BY-SA 4.0	File:Santa Dulce dos Pobres.jpg	| Santa Dulce dos Pobres
-4160x3120	CC0	File:Oratório dedicado aos Três Santos Brasileiros - Santuário Santa Paulina 2.jpg	| Oratório edicado aos Três Santos Brasileiros no Santuário Santa Paulina.
-4160x3120	CC0	File:Imagem de Santa Dulce dos Pobres - Santuário Santa Paulina.jpg	| Imagem de Santa Dulce dos Pobres no Oratório dedicado aos Três Santos Brasileiros, no Santuário Santa Paulina.
-### intitle:Dulce Pontes filetype:bitmap
-1018x1285	CC BY-SA 3.0	File:Irmã Dulce.jpg	| Irmã Dulce
-1583x1235	CC BY-SA 3.0	File:Dulce Pontes, Wiener Festwochen 2009 d.jpg	| Dulce Pontes; concert at the opening of the Vienna Festival 2009
-1639x2288	CC BY-SA 3.0	File:Dulce Pontes, Wiener Festwochen 2009 b.jpg	| Dulce Pontes; concert at the opening of the Vienna Festival 2009
-1507x2321	CC BY-SA 3.0	File:Dulce Pontes, Wiener Festwochen 2009 c.jpg	| Dulce Pontes; concert at the opening of the Vienna Festival 2009
-2126x1417	CC BY 2.0	File:Beatificação de Irmã Dulce no Parque de Exposições.jpg	| Padres na cerimônia de Beatifição de Irmã Dulce no Parque de Exposições em Salvador, Bahia Foto: Manu Dias/Secom
-1536x2048	CC BY 3.0	File:Heróis do Brasil - Irmã Dulce, Mulher Maravilha - panoramio.jpg	| Heróis do Brasil - Irmã Dulce, Mulher Maravilha
-3120x4160	CC BY-SA 4.0	File:Santa Dulce dos Pobres 0.jpg	| Santa Dulce dos Pobres
-3120x4160	CC BY-SA 4.0	File:Santa Dulce dos Pobres.jpg	| Santa Dulce dos Pobres
-4160x3120	CC0	File:Imagem de Santa Dulce dos Pobres - Santuário Santa Paulina.jpg	| Imagem de Santa Dulce dos Pobres no Oratório dedicado aos Três Santos Brasileiros, no Santuário Santa Paulina.
-5044x3363	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716686984.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-5568x3712	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716675143.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-5326x3551	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716686819.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-5259x3506	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716801940.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-5568x3712	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716686764.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-3471x5207	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54715628382.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-3581x5371	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716674973.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-5568x3712	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716686754.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-5114x3409	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54715628337.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-5218x3479	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716813705.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-3712x5568	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716699824.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-4959x3306	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716787679.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-3465x5198	CC BY-SA 4.0	File:Comenda Santa Dulce dos Pobres - 54716594536.jpg	| Plenário do Senado Federal durante sessão de premiações e condecorações, para a entrega da Comenda Santa Dulce dos Pobres a sete pessoas e i
-1000x1000	CC0	File:DULCE PONTES "LAGRIMAS" DISC COVER.jpg	| DULCE PONTES
-### intitle:Tumaco filetype:bitmap catedral
-### Tumaco church
-1239x1752	Public domain	File:RL32713 (IA RL32713-crs).pdf	| RL32713 Subjects: Congressional Research Service; CRS; Congress
-1704x2429	Public domain	File:The world and its peoples photographed and described- a political, geographical, social, and commercial history of the various countries of the world and their political dependencies; (IA worlditspeoplesp00rand).pdf	| Subjects: Geography
-1202x1579	Public domain	File:Panama and the canal in picture and prose - a complete story of Panama.pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
-2293x3383	Public domain	File:The Enterprise 1906-02-17 (IA cssf 000549).pdf	| Note for IA: Image may appear dark, creased, or faded due to the nature of microfilm. Text folded, missing, or skewed is inherent to the ori
-1162x1364	Public domain	File:To the Andes (microform) - being a sketch of a trip to South America, with observations by the way on the family, the church and the state (IA cihm 09475).pdf	| Filmed from a copy of the original publication held by the National Library of Canada 43 Subjects:
-1266x1643	Public domain	File:Willis J. Abbot - Panama and the Canal in Pictures and Prose.pdf	| Panama and the Canal in Pictures and Prose
-1106x1933	Public domain	File:A historical and descriptive narrative of twenty years' residence in South America, containing the travels in Arauco, Chile, Peru, and Colombia (IA b29350347 0002).pdf	| 3 volumes, color plates : (8vo) Subjects: Travel
-1427x1931	Public domain	File:Engineering News and American Railway Journal 1896-12-17- Vol 36 Supplement (IA sim enr 1896-12-17 36 supplement).pdf	| Engineering News and American Railway Journal 1896-12-17: Volume 36, Issue SUPPLEMENT.Digitized from IA1532320-07.Previous issue: sim_enr_18
-2722x3612	Public domain	File:The New York Times 1895-05-04- Vol 44 Iss 13635 (IA per new-york-times-magazine the-new-york-times 1895-05-04 44 13635).pdf	| The New York Times 1895-05-04: Volume 44, Issue 13635.Digitized from IA41661204-07.Previous issue: per_new-york-times-magazine_the-new-york-
-1150x1227	CC BY-SA 2.5	File:Coat of arms of Franklin Misael Betancourt.svg	| 
-### cat:Churches in Tumaco
-### cat:Silla
-SUBCATS: Mangdŏksa
-2048x1536	CC BY-SA 4.0	File:Cuadrilera atada a la silla de montar.jpg	| Cuadrilera attached to the Mexican saddle
-1200x1200	CC BY-SA 4.0	File:Banca de tres puestos, para salas de estar o espera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla diseño elegante.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Pupitre escolar mueble escuela.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Pupitre escolar.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Banca de dos puestos, para salas de estar o espera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Banco o silla alta.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Pupitre escolar con paleta.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla ejecutiva.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla ejecutiva secretarial.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla secretarial.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla ejecutiva secretarial eleganse.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla taburete.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla periquera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butaca de tres puestos.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butaca sillon de tres puestos.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butaca para exteriores sillón.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Sillon sala.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butacá banco silla.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Sillón para sala de espera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla bar.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla cafetería.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla restaurantera.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Butaco silla para bar.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla restaurantera de uso rudo.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Banco, silla, butaco, para barra.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla restaurante.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla restaurantera o para cafetería.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Silla cafeteria o desayunador.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Sillón.png	| buro-mobel.com • Puebla México
-1200x1200	CC BY-SA 4.0	File:Sillón para sala de estar.png	| buro-mobel.com • Puebla México
-### cat:Silla (Valencia)
-### cat:Churches in Silla
-### intitle:Ulmes filetype:bitmap
-3648x3801	CC0	File:Madfeld - ND Baumgruppe aus 2 Eichen und 1 Ulme - 1.jpg	| Baumgruppe aus 2 Eichen und 1 Ulme zwischen Madfeld und Bleiwäsche (Naturdenkmal)
-8368x5584	CC0	File:Naturdenkmal Platane-Ulme-Eibe im Luisenpark 2024-05-11 02.jpg	| Natural monument Platane-Ulme-Eibe im Luisenpark.
-8368x5584	CC0	File:Naturdenkmal Platane-Ulme-Eibe im Luisenpark 2024-05-11 03.jpg	| Natural monument Platane-Ulme-Eibe im Luisenpark.
-8368x5584	CC0	File:Naturdenkmal Sibirische Ulme vor Brunnenstraße 100 2024-05-19 01.jpg	| Natural monument Sibirische Ulme vor Brunnenstraße 100 in Berlin.
-8368x5584	CC0	File:Naturdenkmal Sibirische Ulme vor Brunnenstraße 100 2024-05-19 03.jpg	| Natural monument Sibirische Ulme vor Brunnenstraße 100 in Berlin.
-8368x5584	CC0	File:Naturdenkmal Flatter-Ulme gegenüber An der Tränke 51 2024-06-22 03.jpg	| Natural monument Flatter-Ulme gegenüber An der Tränke 51.
-8368x5584	CC0	File:Naturdenkmal Flatter-Ulme gegenüber An der Tränke 51 2024-06-22 05.jpg	| Natural monument Flatter-Ulme gegenüber An der Tränke 51.
-8368x5584	CC0	File:Naturdenkmal Flatter-Ulme gegenüber An der Tränke 51 2024-06-22 06.jpg	| Natural monument Flatter-Ulme gegenüber An der Tränke 51.
-8368x5584	CC0	File:Naturdenkmal Flatter-Ulme gegenüber An der Tränke 51 2024-06-22 07.jpg	| Natural monument Flatter-Ulme gegenüber An der Tränke 51.
-5584x8368	CC0	File:Naturdenkmal Flatter-Ulme gegenüber An der Tränke 51 2024-06-22 11.jpg	| Natural monument Flatter-Ulme gegenüber An der Tränke 51.
-5584x8368	CC0	File:Naturdenkmal Flatter-Ulme gegenüber An der Tränke 51 2024-06-22 14.jpg	| Natural monument Flatter-Ulme gegenüber An der Tränke 51.
-8368x5584	CC0	File:Naturdenkmal Flatter-Ulme gegenüber An der Tränke 51 2024-06-22 17.jpg	| Natural monument Flatter-Ulme gegenüber An der Tränke 51.
-8368x5584	CC0	File:Naturdenkmal Flatter-Ulme gegenüber An der Tränke 51 2024-06-22 18.jpg	| Natural monument Flatter-Ulme gegenüber An der Tränke 51.
-5584x8368	CC0	File:Naturdenkmal Flatter-Ulme gegenüber An der Tränke 51 2024-06-22 19.jpg	| Natural monument Flatter-Ulme gegenüber An der Tränke 51.
-5424x8144	CC0	File:Naturdenkmal Flatter-Ulme Hegemeisterweg Berlin-Karlshorst 2025-05-06 02.jpg	| Natural monument Flatter-Ulme Hegemeisterweg in Berlin-Karlshorst.
-5424x8144	CC0	File:Naturdenkmal Flatter-Ulme Hegemeisterweg Berlin-Karlshorst 2025-05-06 04.jpg	| Natural monument Flatter-Ulme Hegemeisterweg in Berlin-Karlshorst.
-8144x5424	CC0	File:Naturdenkmal Flatter-Ulme Treptower Park Berlin-Alt-Treptow 2025-05-06 05.jpg	| Natural monument Flatter-Ulme Treptower Park in Berlin-Alt-Treptow.
-8144x5424	CC0	File:Naturdenkmal Sibirische Ulme Kapweg 5 Berlin-Wedding 2025-06-28 05.jpg	| Natural monument Sibirische Ulme Kapweg 5 in Berlin-Wedding.
-5424x8144	CC0	File:Naturdenkmal Sibirische Ulme Kapweg 5 Berlin-Wedding 2025-06-28 06.jpg	| Natural monument Sibirische Ulme Kapweg 5 in Berlin-Wedding.
-8144x5424	CC0	File:Naturdenkmal Sibirische Ulme Kapweg 5 Berlin-Wedding 2025-06-28 09.jpg	| Natural monument Sibirische Ulme Kapweg 5 in Berlin-Wedding.
-5424x8144	CC0	File:Naturdenkmal Flatter-Ulme Treptower Park 2025-10-18 01.jpg	| Natural monument Flatter-Ulme Treptower Park in Berlin-Alt-Treptow.
-8144x5424	CC0	File:Naturdenkmal Flatter-Ulme Treptower Park 2025-10-18 02.jpg	| Natural monument Flatter-Ulme Treptower Park in Berlin-Alt-Treptow.
-8144x5424	CC0	File:Naturdenkmal Flatter-Ulme Treptower Park 2025-10-18 03.jpg	| Natural monument Flatter-Ulme Treptower Park in Berlin-Alt-Treptow.
-8144x5424	CC0	File:Naturdenkmal Flatter-Ulme Treptower Park 2025-10-18 04.jpg	| Natural monument Flatter-Ulme Treptower Park in Berlin-Alt-Treptow.
-8144x5424	CC0	File:Naturdenkmal Flatter-Ulme Treptower Park 2025-10-18 05.jpg	| Natural monument Flatter-Ulme Treptower Park in Berlin-Alt-Treptow.
-8144x5424	CC0	File:Naturdenkmal Berg-Ulme Wilhelm-Griesinger-Krankenhaus Berlin-Biesdorf 2026-05-29 02.jpg	| Natural monument Berg-Ulme Wilhelm-Griesinger-Krankenhaus in Berlin-Biesdorf.
-5424x8144	CC0	File:Naturdenkmal Berg-Ulme Wilhelm-Griesinger-Krankenhaus Berlin-Biesdorf 2026-05-29 03.jpg	| Natural monument Berg-Ulme Wilhelm-Griesinger-Krankenhaus in Berlin-Biesdorf.
-8144x5424	CC0	File:Naturdenkmal Berg-Ulme Wilhelm-Griesinger-Krankenhaus Berlin-Biesdorf 2026-05-29 04.jpg	| Natural monument Berg-Ulme Wilhelm-Griesinger-Krankenhaus in Berlin-Biesdorf.
-8144x5424	CC0	File:Naturdenkmal Berg-Ulme Wilhelm-Griesinger-Krankenhaus Berlin-Biesdorf 2026-05-29 05.jpg	| Natural monument Berg-Ulme Wilhelm-Griesinger-Krankenhaus in Berlin-Biesdorf.
-5424x8144	CC0	File:Naturdenkmal Berg-Ulme Wilhelm-Griesinger-Krankenhaus Berlin-Biesdorf 2026-05-29 06.jpg	| Natural monument Berg-Ulme Wilhelm-Griesinger-Krankenhaus in Berlin-Biesdorf.
-### cat:Churches in Maine-et-Loire
-SUBCATS: Churches in Maine-et-Loire by patron saint | Churches in Maine-et-Loire by century | Churches in Maine-et-Loire by city | Churches in Maine-et-Loire by shape | Churches in Maine-et-Loire by style | Churches in Maine-et-Loire by year of completion | Monuments historiques in Maine-et-Loire (churches) | Cathedrals in Maine-et-Loire | Church towers in Maine-et-Loire | Church elements in Maine-et-Loire | Churches in Maine-et-Loire at night | Ruins of churches in Maine-et-Loire | Protestant churches in Maine-et-Loire | Église des Alleuds (Maine-et-Loire) | Église Saint-Doucelin d'Allonnes | Churches in Arrondissement d'Angers | Église Saint-Pierre d'Angrie | Église Saint-Pierre-Saint-Paul d'Armaillé | Église Saint-Germain-l'Auxerrois d'Auverse | Église Saint-Aubin de Baracé | Église Saint-Symphorien de Bauné | Église Saint-Gilles de Beaucouzé | Église Saint-Jacques de Beausse | Église Saint-Pierre de Bécon-les-Granits | Église Notre-Dame de Bégrolles-en-Mauges | Église abbatiale Notre-Dame de Bellefontaine | Église Saint-Symphorien de La Boissière-sur-Èvre | Église Saint-Gilles de Botz-en-Mauges | Église Saint-Maurille de Bouillé-Ménard | Église Saint-Jacques-et-Saint-Philippe de Bourg-l'Évêque | Église Saint-Symphorien du Bourg-d'Iré | Église Notre-Dame de Bourgneuf-en-Mauges | Église Sainte-Marie-Madeleine de La Boutouchère | Église Saint-Pierre de Bouzillé | Église Saint-Maurille de Brain-sur-Allonnes | Église Notre-Dame de Breil | Église Saint-Étienne de La Breille-les-Pins | Église Saint-Marcel de Briollay | Église Saint-Gervais-et-Saint-Protais de Brion | Église Saint-Maxentiol de Saulgé-l'Hôpital | Église Saint-Nicolas de Brossay | Église Saint-Denis de Candé | Église Saint-Hilaire de Cantenay-Épinard | Église Saint-Martin de Carbay | Église Saint-Martin des Cerqueux-sous-Passavant | Église de la Décollation-de-Saint-Jean-Baptiste des Cerqueux | Église Notre-Dame de Challain-la-Potherie | Église Saint-Aubin de Chambellay | Église Notre-Dame de Champ-sur-Layon | Église Saint-Martin-de-Vertou de Champigné
-1059x705	CC BY-SA 3.0	File:Trinottieres.jpg	| Cloches de l'église des Trinottières à Montreuil-sur-Loir 49140 - France
-3264x2448	CC BY-SA 4.0	File:Clavier du carillon.jpg	| Clavier du carillon du Sacré-Coeur de Cholet
-### Patierno chiesa Napoli filetype:bitmap
-### Confiteor filetype:bitmap
-1295x1600	Public domain	File:Artgate Fondazione Cariplo - Molteni Giuseppe, La confessione.jpg	| Bought and sold repeatedly on the antique market in the second half of the 1980s, this painting came into the Cariplo Collection in its orig
-4733x3159	CC BY 2.0	File:Confiteor at Tridentine Mass.jpg	| Confiteor at Tridentine mass
-4628x3552	Public domain	File:L'amour au collège - air du confiteor - bpt6k1167561n (1 of 2).jpg	| Chansons françaises -- +* 1700......- 1799......+:18e siècle: Éditeur : Thomassin (Paris)
-4628x3552	Public domain	File:L'amour au collège - air du confiteor - bpt6k1167561n (2 of 2).jpg	| Chansons françaises -- +* 1700......- 1799......+:18e siècle: Éditeur : Thomassin (Paris)
-2561x4054	Public domain	File:Confiteor, tg lhhs 2848 03.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2554x4054	Public domain	File:Confiteor, tg lhhs 2848 06.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2500x4034	Public domain	File:Confiteor, tg lhhs 2848 05.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2567x4034	Public domain	File:Confiteor, tg lhhs 2848 07.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2500x4040	Public domain	File:Confiteor, tg lhhs 2848 02.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2500x4027	Public domain	File:Confiteor, tg lhhs 2848 01.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2473x4081	Public domain	File:Confiteor, tg lhhs 2848 13.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2520x4074	Public domain	File:Confiteor, tg lhhs 2848 12.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2547x4060	Public domain	File:Confiteor, tg lhhs 2848 10.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2534x4047	Public domain	File:Confiteor, tg lhhs 2848 08.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2580x4047	Public domain	File:Confiteor, tg lhhs 2848 14.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2527x4054	Public domain	File:Confiteor, tg lhhs 2848 04.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2520x4067	Public domain	File:Confiteor, tg lhhs 2848 09.tif	| Titel:ConfiteorZoo zoo ! mijn oude studiemaat ! - ofschoonObjecttype: HandschriftenMaker: Jan van Beers (Sr.) (1821-1888)Datum: 1880Genre: P
-2053x3321	Public domain	File:Les Cierges du Paradis. Air du Confiteor - bpt6k1913675b (1 of 8).jpg	| Incipit : Dans un des coins du paradis Appartient à l’ensemble documentaire : RISMImp Éditeur : [s.n.]
-2080x3321	Public domain	File:Les Cierges du Paradis. Air du Confiteor - bpt6k1913675b (2 of 8).jpg	| Incipit : Dans un des coins du paradis Appartient à l’ensemble documentaire : RISMImp Éditeur : [s.n.]
-2053x3321	Public domain	File:Les Cierges du Paradis. Air du Confiteor - bpt6k1913675b (3 of 8).jpg	| Incipit : Dans un des coins du paradis Appartient à l’ensemble documentaire : RISMImp Éditeur : [s.n.]
-2053x3321	Public domain	File:Les Cierges du Paradis. Air du Confiteor - bpt6k1913675b (5 of 8).jpg	| Incipit : Dans un des coins du paradis Appartient à l’ensemble documentaire : RISMImp Éditeur : [s.n.]
-2080x3321	Public domain	File:Les Cierges du Paradis. Air du Confiteor - bpt6k1913675b (6 of 8).jpg	| Incipit : Dans un des coins du paradis Appartient à l’ensemble documentaire : RISMImp Éditeur : [s.n.]
-2053x3321	Public domain	File:Les Cierges du Paradis. Air du Confiteor - bpt6k1913675b (7 of 8).jpg	| Incipit : Dans un des coins du paradis Appartient à l’ensemble documentaire : RISMImp Éditeur : [s.n.]
-2080x3321	Public domain	File:Les Cierges du Paradis. Air du Confiteor - bpt6k1913675b (8 of 8).jpg	| Incipit : Dans un des coins du paradis Appartient à l’ensemble documentaire : RISMImp Éditeur : [s.n.]
-2070x3321	Public domain	File:Le Mal d'avanture. Air - Du confiteor où chantez dansez etc - bpt6k19136849 (1 of 4).jpg	| Appartient à l’ensemble documentaire : RISMImp
-2099x3321	Public domain	File:Le Mal d'avanture. Air - Du confiteor où chantez dansez etc - bpt6k19136849 (2 of 4).jpg	| Appartient à l’ensemble documentaire : RISMImp
-2070x3321	Public domain	File:Le Mal d'avanture. Air - Du confiteor où chantez dansez etc - bpt6k19136849 (3 of 4).jpg	| Appartient à l’ensemble documentaire : RISMImp
-2099x3321	Public domain	File:Le Mal d'avanture. Air - Du confiteor où chantez dansez etc - bpt6k19136849 (4 of 4).jpg	| Appartient à l’ensemble documentaire : RISMImp
-2080x3321	Public domain	File:Les Cierges du Paradis. Air du Confiteor - bpt6k1913675b (4 of 8).jpg	| Incipit : Dans un des coins du paradis Appartient à l’ensemble documentaire : RISMImp Éditeur : [s.n.]
-### Bußakt Messe filetype:bitmap
-### adult baptism Catholic filetype:bitmap
-2592x1944	Public domain	File:BaptismalFont ancientChristianStyle.jpg	| Modern baptismal font in the Guardian Angels Catholic Church, London, designed in accordance with early Christian tradition. It is used to p
-1614x2178	No restrictions	File:The Catholic church in colonial days - the thirteen colonies, the Ottawa and Illinois country, Louisiana, Florida, Texas, New Mexico and Arizona, 1521-1763 (1886) (14598119759).jpg	| Identifier: catholicchurchin00sheauoft (find matches) Title: The Catholic church in colonial days : the thirteen colonies, the Ottawa and Il
-4458x3343	CC BY 2.0	File:Infant Baptism Nov 2019 - Flickr - Johnragai-Moment Catcher.jpg	| Infant Baptism Nov 2019 Mandarin
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 43.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-### Taufe Osternacht filetype:bitmap
-2094x2800	CC BY-SA 4.0	File:Infotafel Gunther Brunnen.jpg	| Inschrift: Gunther Brunnen gestaltet von Bildhauer Joseph Michael Neustifter Eggenfelden Text: auf dem Gewölbebogen &gt; Kehrt um, denn das 
-### intitle:Grignion filetype:bitmap portrait
-2400x3087	Public domain	File:George Farmer by Charles Grignion.jpg	| George Farmer, by Charles Grignion (died 1804). See source website for additional information. This set of images was gathered by User:Dcoet
-2401x2886	Public domain	File:Grignion, Charles the younger - Thomas Haines - Google Art Project.jpg	| 
-2074x2251	Public domain	File:Faustina Bordoni (Charles Grignion after Rosalba Carriera).jpg	| 
-5088x2730	CC BY 4.0	File:A sleeping hermaphrodite. Etching by C. Grignion after R. Wellcome L0049026.jpg	| Iconographic Collections Keywords: Francis Greville Brooke; Gian Lorenzo Bernini;
-2261x3420	CC BY 4.0	File:Thomas Blood. Line engraving by C. Grignion after S. Wale. Wellcome V0000599.jpg	| Thomas Blood. Line engraving by C. Grignion after S. Wale. Iconographic Collections Keywords: portrait prints; Thomas Blood; blood, thomas, 
-1920x1804	CC0	File:Charles Grignion the Elder - Portrait study of John Inigo Richards, R.A. - B1977.14.5034 - Yale Center for British Art.jpg	| 
-1920x1263	CC0	File:Charles Grignion the younger - A View of the Canal, Chinese Building, Rotundo and Church in Ranelagh Gardens with the Masquerade - B1977.14.17981 - Yale Center for British Art.jpg	| 
-3040x3608	Public domain	File:Charles Grignion dY, Portræt af Thomas Waller som barn, , KKSgb7492, Statens Museum for Kunst.jpg	| Portræt af Thomas Waller som barn
-2488x4072	Public domain	File:Guido d'Arezzo - Charles Grignion, d'après Giovanni Battista Cipriani - btv1b8420653t.jpg	| Sujet : Gui d'Arezzo (0990?-1050) -- Portraits Portraits Appartient à l’ensemble documentaire : IconMUS1 Appartient à l’ensemble documentair
-2904x3504	Public domain	File:John Blow - Charles Grignion d'après un dessin de R. White - btv1b84158650.jpg	| Sujet : Blow, John (1648?-1708) -- Portraits Portraits Appartient à l’ensemble documentaire : IconMUS1 Appartient à l’ensemble documentaire 
-5156x6673	Public domain	File:Harry Carey - Charles Grignion, d'après James Worsdale - btv1b8416194m.jpg	| Sujet : Carey, Henry (1687-1743) -- Portraits Portraits Appartient à l’ensemble documentaire : IconMUS1 Appartient à l’ensemble documentaire
+OK	fr/ctx_dulp	4160x3120	CC0	PetrusTemplarii	File:Imagem de Santa Dulce dos Pobres - Santuário Santa Paulina.jpg
+   DESC: Imagem de Santa Dulce dos Pobres no Oratório dedicado aos Três Santos Brasileiros, no Santuário Santa Paulina.
+   CATS: CC-Zero | Files with coordinates missing SDC location of creation | Irmã Dulce | Oratório dedicado aos três Santos Brasileiros | Self-published work
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/ctx_dulb	2126x1417	CC BY 2.0	Agecom Bahia from Bahia/Brasil	File:Beatificação de Irmã Dulce no Parque de Exposições.jpg
+   DESC: Padres na cerimônia de Beatifição de Irmã Dulce no Parque de Exposições em Salvador, Bahia Foto: Manu Dias/Secom
+   CATS: 2011 religious events | CC-BY-2.0 | Flickr files uploaded by User:Luan | Flickr images reviewed by File Upload Bot (Magnus Manske) | Images from Fotos GOVBA | Irmã Dulce | Parque de Exposições de Salvador | Religious parties in Salvador (Bahia) | Taken with Canon EOS-1D Mark IV
+   LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
+### cat:Paintings of Óscar Arnulfo Romero
+SUBCATS: Mural Óscar Romero en el Centro Cultural de España en El Salvador
+2112x2816	CC BY-SA 3.0	File:Mural Oscar Romero UES.jpg	| Mural con la imagen de Monseñor Óscar Arnulfo Romero, ubicado en el Edificio Histórico de la Facultad de Jurisprudencia y Ciencias Sociales 
+1600x1200	CC BY 2.0	File:El Salvador killed more than 75.000.jpg	| During the 1980s and early 90's a violent civil war in El Salvador killed more than 75,000 people and left another 8,000 missing and nearly 
+1069x1437	CC BY-SA 3.0	File:Mural Oscar Romero UES (cropped).jpg	| Mural con la imagen de Monseñor Óscar Arnulfo Romero, ubicado en el Edificio Histórico de la Facultad de Jurisprudencia y Ciencias Sociales 
+2896x1944	CC BY 2.0	File:Oscar Romero 2011.jpg	| Oscar Romero
+1839x2052	CC BY-SA 2.0	File:Oscar Romero 2003.jpg	| Oscar Romero 2003
+2816x2112	CC BY 3.0	File:Antiguo meson, típico de la zona - panoramio.jpg	| Antiguo meson, típico de la zona
+2592x1944	CC BY-SA 4.0	File:Biblioteca de la Facultad de Jurisprudencia y Ciencias Sociales (UES).jpg	| Biblioteca de la Facultad de Jurisprudencia y Ciencias Sociales de la Universidad de El Salvador.
+2448x3264	CC BY-SA 4.0	File:Diaz Unregalo De Dios.jpg	| Frank Diaz Escalet, 1998 acrylic on masonite painting entitled "Oscar Romero, Unregalo De Dios Para El Mundo Entero." The painting is in a p
+1272x1692	CC0	File:Burgos - Murales pacifistas del Colegio Santa María la Nueva y San José Artesano 02.jpg	| Murales pacifistas del Colegio Santa María la Nueva y San José Artesano (Burgos, España)
+3000x4000	CC BY-SA 2.0	File:"Romero vive en su pueblo" de Cristian Lopez.jpg	| Intervención mural "Romero vive en su pueblo" de Cristian Lopez, realizada en el Centro Cultural de España en El Salvador como parte de los 
+### cat:Portraits of Óscar Arnulfo Romero
+5616x3744	CC0	File:Visita de Cardenal Angelo Amato - 17978153722.jpg	| Salvador Sanchez Ceren recibe a Cardenal Angelo Amato.
+5616x3744	CC0	File:VISITA MONSEÑOR VINCENZO PAGLIA - Paglia with Sanchez Ceren 2.jpg	| SALVADOR SANCHEZ CEREN , PRESIDENTE DE EL SALVADOR (IZQ.) ENTREGO UN CUADRO QUE CONTIENEN EL ROSTRO DE MONSEÑOR ROMERO A MONSEÑOR VINCENZO P
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero.jpg	| Presidente Salvador Sánchez Cerén, Margarita Villalta de Sánchez y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Cas
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero (20792292475).jpg	| Presidente Salvador Sánchez Cerén, Margarita Villalta de Sánchez y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Cas
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero (20766049736).jpg	| Presidente Salvador Sánchez Cerén, Margarita Villalta de Sánchez y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Cas
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero (20604298750).jpg	| Presidente Salvador Sánchez Cerén y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Casa Abierta-Monseñor Romero" (22 
+5472x3648	CC0	File:Casa Abierta-Monseñor Romero (20170665654).jpg	| Presidente Salvador Sánchez Cerén y el obispo auxiliar Gregorio Rosa Chávez en el evento propagandístico "Casa Abierta-Monseñor Romero" (22 
+5616x3744	CC0	File:Visita de VicePresidente de Cuba a El Salvador.jpg	| Salvador Sanchez Ceren recibe a VicePresidente de Cuba, Miguel Diaz Canel.
+1080x720	CC BY-SA 2.0	File:Romero como gráfica popular.jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
+5472x3648	CC BY-SA 3.0 de	File:El-salvador san-salvador Óscar Romero Catedral metropolitana 4.JPG	| Tomb of Óscar Arnulfo Romero, Metropolitan Cathedral of San Salvador, San Salvador, El Salvador
+5472x3648	CC BY-SA 3.0 de	File:El-salvador san-salvador Óscar Romero Catedral metropolitana 5.JPG	| Tomb of Óscar Arnulfo Romero, Metropolitan Cathedral of San Salvador, San Salvador, El Salvador
+### cat:Celebração Santa Dulce dos Pobres
+1280x720	CC BY 2.0	File:Celebração Santa Dulce dos Pobres (2) (48937053872).jpg	| Celebração Santa Dulce dos Pobres (2)
+1261x841	CC BY 2.0	File:Celebração Santa Dulce dos Pobres (6) (48936323288).jpg	| Celebração Santa Dulce dos Pobres (6)
+1280x720	CC BY 2.0	File:Celebração Santa Dulce dos Pobres (7) (48936868986).jpg	| Celebração Santa Dulce dos Pobres (7)
