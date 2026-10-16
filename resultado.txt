@@ -33,471 +33,275 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-### Pentecost painting El Greco
-1428x3126	Public domain	File:El Greco 006.jpg	| La obra representa al Espíritu Santo descendiendo en forma de lenguas de fuego sobre los apóstoles de Jesucristo.
-1365x2964	Public domain	File:Pentecostés (El Greco, c. 1600) Prado.jpg	| La obra representa al Espíritu Santo descendiendo en forma de lenguas de fuego sobre los apóstoles de Jesucristo.
-2172x2265	Public domain	File:Hosios Loukas Katholikon (sanctuary vault) - Pentecost 01.jpg	| Hosios Loukas
-5152x3864	CC BY-SA 4.0	File:Warszawa-Front of the Pentecost Church.jpg	| Front of the Pentecost Church in Warsaw.
-5104x3864	CC BY-SA 4.0	File:Warszawa-Pentecost Church.jpg	| Pentecost Church in Warsaw.
-3864x5152	CC BY-SA 4.0	File:Warszawa-Cross by the Pentecost Church (2).jpg	| Mission Cross by the Pentecost Church in Warsaw.
-5152x3864	CC BY-SA 4.0	File:Warszawa-Cross by the Pentecost Church.jpg	| Mission Cross by the Pentecost Church in Warsaw.
-5472x3648	CC BY-SA 4.0	File:Painting of Pentecost in Coimbra.jpg	| Painting in Museu Nacional de Machado de Castro, Coimbra, Portugal.
-2997x3346	CC BY-SA 4.0	File:ETH-BIB-Greco, Ausgiessung des Heiligen Geistes (Prado)-Dia 247-16128.tif	| 
-5127x3957	CC BY-SA 3.0	File:The central part of the Pentecost stained glass in St. Andrew chapel of St. Vitus Cathedral, Prague.jpg	| The central part of the Pentecost stained glass in St. Andrew chapel of St. Vitus Cathedral, Prague
-1030x773	CC BY-SA 4.0	File:Pentecost Island.jpg	| Pentecost Island
-2285x3008	CC BY-SA 4.0	File:La Pentecostés, Francisco de Zurbarán.jpg	| Museo de Cádiz. Pintura, óleo sobre lienzo, de Francisco de Zurbarán (ca. 1630-1635). Procede del Consulado de Cargadores de Indias de Cádiz
-1280x720	CC BY-SA 4.0	File:Arrival to the Pentecost island.webm	| MV Princess Marie, arrival on the Pentecost Island
-3216x2136	CC BY-SA 4.0	File:Pentecost Island Beach.jpg	| One of the beaches at Pentecost Island, Vanuatu
-1005x1600	Public domain	File:The Pentecost of Calamity - title page.png	| Title page of "The Pentecost of Calamity" (https://archive.org/details/PentecostOfCalamity)
-1183x1988	Public domain	File:The Pentecost of Calamity - book cover.png	| Book cover of "The Pentecost of Calamity" (https://archive.org/details/PentecostOfCalamity)
-1186x1997	Public domain	File:The Pentecost of Calamity - dust jacket.png	| Dust jacket of "The Pentecost of Calamity" (https://archive.org/details/PentecostOfCalamity)
-5089x7541	Public domain	File:(Barcelona) Apostles of Pentecost, from Bellcaire - Museu Nacional d'Art de Catalunya.jpg	| 
-8256x5504	CC0	File:Woman in a headwrap in Quebec City.jpg	| A passer-by in Quebec City in June 2024. Quebec City, Quebec, Canada.
-2949x2261	Public domain	File:Handling serpents at the Pentecostal Church of God. (Kentucky) by Russell Lee. - NARA - 541335.jpg	| 
-2987x2122	CC BY 4.0	File:Church of the Pentecost in Verkhnya Rozhanka 02.jpg	| Church of the Pentecost in Verkhnya Rozhanka
-3780x2500	CC BY 4.0	File:Church of the Pentecost in Verkhnya Rozhanka 03.jpg	| Church of the Pentecost in Verkhnya Rozhanka
-### Pentecost painting Van Dyck OR Restout OR Tiziano
-1600x2000	Public domain	File:Anthonis van Dyck - Die Ausgießung des Heiligen Geistes.jpg	| In der "Ausgießung des Heiligen Geistes" stellte van Dyck das Pfingstwunder dar, das in der Apostelgeschichte des Neuen Testaments (2, 1-4) 
-1224x1632	Public domain	File:Jean Restout "le jeune".JPG	| 
-2247x3051	Public domain	File:Vecellio di Gregorio Tiziano - autoritratto.jpg	| Autorretrato del pintor italiano Tiziano Vecellio (c. 1490-1576), más conocido como Tiziano.
-2401x1930	Public domain	File:Jean Restout II (the Younger) - A Seated Faun - Google Art Project.jpg	| 
-2736x3648	CC BY-SA 3.0	File:Meaux (77), musée Bossuet - Jean Restout (1692-1768), Saint Pierre guérissant les malades de son ombre.jpg	| French: Saint Pierre guérissant les malades de son ombre.title QS:P1476,fr:"Saint Pierre guérissant les malades de son ombre."label QS:Lfr,"
-1495x2800	Public domain	File:Lille Pdba restout pelerins.jpg	| 
-5079x6010	Public domain	File:Boy in a Child's Chair (Jean Restout d.y.) - Nationalmuseum - 17885.tif	| 
-1826x2295	Public domain	File:Jean Restout Portrait de l'abbé Tournus.jpg	| Portrait of l'abbé Louis-Firmin Tournus (1672-1733)
-1777x2510	Public domain	File:Jean Restout - Martyre de Saint André.jpg	| Le Martyre de Saint André de Jean Restout, 1749
-6064x7368	Public domain	File:Dyck, Anthonis van - Pouring of the Holy Ghost - Bildergalerie Sanssouci.jpeg	| In der "Ausgießung des Heiligen Geistes" stellte van Dyck das Pfingstwunder dar, das in der Apostelgeschichte des Neuen Testaments (2, 1-4) 
-5079x6010	Public domain	File:Boy in a Child's Chair (Jean Restout d.y.) - Nationalmuseum - 17885FXD.jpg	| 
-2834x4000	CC0	File:Jean Charles Levasseur after Jean Bernard Restout, Jean Restout, NGA 65930.jpg	| 
-3600x4486	Public domain	File:Jean Restout - Portrait de l'abbé Tournus (1672-1733) - P1369 - Musée Carnavalet.jpg	| 
-1920x2465	Public domain	File:Jean Restout - Nativité de la Vierge, 1744.jpg	| birth of the Virgin Mary
-1000x649	Public domain	File:Jean Restout d.y. - Handstudie - NMH 2976-1863 - Nationalmuseum.jpg	| 
-1468x1920	Public domain	File:Alpheus and Arethusa, by Jean Restout the Younger (1720).jpg	| Jean Restout's reception piece for the Académie Royale de Peinture et de Sculpture. Now at the Musée des Beaux-Arts de Tours.
-### Saint Paul writing epistle painting
-2401x1766	Public domain	File:Probably Valentin de Boulogne - Saint Paul Writing His Epistles - Google Art Project.jpg	| 
-3200x2354	Public domain	File:Valentin de Boulogne - Saint Paul Writing His Epistles - BF.1991.4 - Museum of Fine Arts.jpg	| 
-1056x1575	Public domain	File:Paul of Tarsus; I. Paul-a character sketch, II (IA pauloftarsusipau00john).pdf	| Subjects: Paul, the Apostle, Saint
-1000x1500	Public domain	File:XVIIth century painting in New England.djvu	| Foreword signed: Clarence S. Brigham, for the committee.; Includes bibliographies.; The rise and development of art in the Massachusetts Bay
-### Saint Paul in prison painting
-2024x3906	Public domain	File:Filippino Lippi 003.jpg	| 
-2560x1712	CC BY-SA 3.0	File:St.Peter und Paul in Söll - Deckenfresko Apostelgeschichte 3.jpg	| St.Peter and Paul parish church in Söll ( Tyrol ). Rococo frescos ( 1768 ) by Christoph Anton Mayr: Saint Peter being freed from prison ( Ac
-1962x3234	Public domain	File:'Saint Paul Visiting Saint Peter in Prison' by Fernando Gallego, Cincinnati.JPG	| 
-2274x3980	Public domain	File:St Paul Visiting St Peter in Prison Filippino Lippi Cappella Brancacci.jpg	| 
-3168x3727	Public domain	File:1627 Rembrandt Paulus im Gefängnis Staatsgalerie Stuttgart anagoria.JPG	| St. Paul in Prison
-3000x2037	Public domain	File:Abraham Bloemaert - Liberation of Saint Peter from Prison.jpg	| 
-2357x2867	Public domain	File:Rembrandt St. Paul in Prison.jpg	| St. Paul in Prison
-2688x3744	Public domain	File:Orłowski Tsar Paul I visiting Tadeusz Kościuszko in prison (detail).jpg	| detail
-3144x2168	Public domain	File:Orłowski Tsar Paul I visiting Tadeusz Kościuszko in prison.jpg	| 
-2752x3328	CC BY-SA 4.0	File:St. Paul in Prison by Rembrandt - Staatsgalerie - Stuttgart - Germany 2017.jpg	| 
-1600x1105	Public domain	File:St Paul in prison.jpg	| St. Paul, imprisoned, ends the letter to the Ephesians, and hands it over to Tychicus (Ephesians 6, 21-23). Wood engraving.
-1052x1462	Public domain	File:The history of modern painting - Richard Muther - revised ed. 1907, vol. 1 (IA historyofmodernp01muth).pdf	| "Index of artists": v. 4, p. 403-444 Bibliography at end of each volume Subjects: Painting
-1172x1656	Public domain	File:A history of painting (IA historyofpaintin02macf).pdf	| "Limited to 1,000 numbered copies, of which this is number 826." Plates accompanied by guard sheets with descriptive letterpress " Bibliogra
-5230x3585	Public domain	File:Paul Célestin Louis (dit Paul Nanteuil) Nanteuil-Leboeuf - Esquisse pour l'église Saint-Gervais , saint Laurent guérissant les aveugles dans sa prison - PPP4748 - Musée des Beaux-Arts de la ville de Paris.jpg	| 
-4952x3742	Public domain	File:Paul Schaan - Façade de la prison Saint-Lazare, rue du faubourg Saint-Denis - P535 - Musée Carnavalet.jpg	| 
-1012x1595	Public domain	File:Scenes from the life of St. Paul and their religious lessons .. (IA scenesfromlifeof00hows).pdf	| 1 Subjects: Paul, the Apostle, Saint
-2048x2644	Public domain	File:Emperor Paul I of Russia granting liberty to General Kościuszko (by Henry Singleton).jpg	| Henry Singleton, R.A. (London 1766–1839) Emperor Paul I of Russia granting liberty to General Kościuszko, 1797 oil on canvas 71.5 x 56.5 cm.
-1260x1030	Public domain	File:Armand Gautier - Henri Rochefort à la prison de Mazas.jpg	| 
-3157x1836	CC BY 4.0	File:Église St Pierre-St Paul de Courbevoie. Chœur. St Pierre délivré de prison, Louis Auguste Lombard (1871).jpg	| Église St Pierre-St Paul de Courbevoie. Chœur. St Pierre délivré de prison, Louis Auguste Lombard (1871)
-5065x4011	Public domain	File:Sanctuaires de Rome. 1 - cachot de St Pierre & de St Paul (aux prisons Mamertines) - btv1b53276160v (1 of 2).jpg	| Sujet : Reproduction (art) Rome, Italie -- Carcer Tullianium Langue : sans contenu linguistique
-### Conversion of Saint Paul painting
-10335x12900	Public domain	File:The Conversion of Saint Paul-Caravaggio (c. 1600-1).jpg	| Conversion of Paul the Apostle
-1088x833	Public domain	File:Tobias Verhaecht - Landscape with the Conversion of Saint Paul.jpg	| 
-1728x2000	Public domain	File:The Conversion of St. Paul by Benjamin West.jpg	| The Conversion of St. Paul
-3236x6868	Public domain	File:Santa Giustina (Padua) - Conversion of St. Paul by school of Veronese.jpg	| 
-2832x2937	CC0	File:The Conversion of Saint Paul MET ep1975.1.11.bw.R.jpg	| Conversion of Paul the Apostle
-3786x3840	CC0	File:The Conversion of Saint Paul MET DP318248.jpg	| Conversion of Paul the Apostle
-3813x3842	CC0	File:The Conversion of Saint Paul MET DP318243.jpg	| Conversion of Paul the Apostle
-3053x2638	CC0	File:The Conversion of Saint Paul MET ep15.106.2.bw.R.jpg	| Painting, predella panel; Paintings
-39255x27482	Public domain	File:Conversion of Paul (Bruegel).jpg	| Питер Брейгель Старший. Обращение Савла. 1567. Дерево, масло. 108 × 156 см. Музей истории искусств, Вена
-4000x2571	CC0	File:Jacopo Tintoretto, The Conversion of Saint Paul, c. 1544, NGA 46142.jpg	| Conversion of Paul the Apostle
-3072x2304	Public domain	File:Conversion of Saint Paul by Caravaggio (Rome) - Detail.jpg	| 
-1200x936	Public domain	File:Peter Paul Rubens (1577-1640) - Conversion of Saint Paul - P.1978.PG.357 - Courtauld Gallery.jpg	| Conversion of Paul the Apostle
-3156x3399	Public domain	File:Denys Calvaert - The Conversion of Saint Paul.jpg	| Conversion of Paul the Apostle
-5044x3970	PDM-owner	File:The Conversion of Saint Paul (SM 2107).png	| Biblical portrayal · historical narration · force · horseman · Paul (apostle) · animal · man · group of people · apparition · miracle · disa
-3024x4032	CC BY-SA 3.0	File:Caravaggio - Conversion of Saint Paul - Cerasi chapel.jpg	| Conversion of Paul the Apostle
-1916x2003	Public domain	File:The Conversion of Saint Paul-Caravaggio Angel (cropped).jpg	| Conversion of Paul the Apostle
-4599x7468	Public domain	File:(Toulouse) Conversion de saint Paul de Tarse, 1670 - Bertholet Flemalle Musée des Augustins.jpg	| 
-2000x1275	Public domain	File:Simon Johannes van der Douw - The Conversion of Saint Paul, l19039-b3v26-01.jpg	| Conversion of Paul the Apostle
-2500x1742	Public domain	File:The Conversion of Saul to Paul, by Peter Paul Rubens (Liechtenstein Museum).jpg	| 
-1438x1917	CC0	File:Painting of the Conversion of Paul Kaukab Damascus.jpg	| A painting depicting the Conversion of Paul the Apostle (falling from his horse due to the heavenly light), located inside the Greek Orthodo
-4102x2964	CC0	File:San Paolo Apostolo (Monte Marenzo) - Conversion of Saint Paul (Francesco Capella).jpg	| Opere di pregio affisse nel presbietrio sono le due tele ritraenti la Conversione e il Martirio di San Paolo, eseguite da Francesco Capella 
-### Saint Paul preaching Athens
-1536x1182	Public domain	File:V&A - Raphael, St Paul Preaching in Athens (1515).jpg	| Raphael, St Paul Preaching in Athens
-1034x803	Public domain	File:Arazzi di raffaello, cartone 02.jpg	| 
-1799x1418	Public domain	File:François de Nomé - St Paul Preaching to the Athenians - Walters 37328.jpg	| These scenes from earliest Christian history are set amid fantasy architecture, mysteriously lit under dark skies. The small scale of the fi
-2333x3733	CC BY-SA 3.0	File:Saint Paul Church (Sharpsburg, Ohio) - interior, stained glass, Saint Paul preaching at the Areopagus.jpg	| Saint Paul Church (Sharpsburg, Ohio) - interior, stained glass, Saint Paul preaching at the Areopagus
-3116x2572	CC BY 4.0	File:Saint Paul. Engraving by C. Du Bosc after Raphael. Wellcome V0032811.jpg	| Saint Paul preaching at Athens. Engraving by C. Du Bosc after Raphael. Iconographic Collections
-3484x5597	CC0	File:Plaque Areopagus Hill Preach St Paul in Athens, Greece.jpg	| Bronze plaque dedicated to the visit of apostle Paul to the Areopagus. It cites the text of Acts 17:22-32: So Paul, standing in the midst of
-3695x2745	CC0	File:Saint Paul preaching in Athens, after Raphael MET DP872698.jpg	| Print; Prints
-2690x3714	CC0	File:Saint Paul Preaching in Athens MET DP810953.jpg	| Drawing; Drawings
-1908x2694	CC0	File:Saint Paul Preaching in Athens MET 46.80.2.jpg	| Drawing; Drawings
-2523x3627	CC0	File:Saint Paul preaching in Athens MET DP825267.jpg	| Print; Prints
-1334x1995	Public domain	File:Drawing, St. Paul Preaching upon the Areopagus in Athens, ca. 1550–1600 (CH 18325905).jpg	| 
-3698x5674	Public domain	File:"St. Paul preaching at Athens" LCCN2011649765.jpg	| Title: "St. Paul preaching at Athens" Abstract/medium: 1 photographic print : gelatin silver ; 9 1/4 x 5 7/8 in. (photo), 18 x 13 7/8 in. (m
-3698x5674	Public domain	File:"St. Paul preaching at Athens" LCCN2011649765.tif	| Title: "St. Paul preaching at Athens" Abstract/medium: 1 photographic print : gelatin silver ; 9 1/4 x 5 7/8 in. (photo), 18 x 13 7/8 in. (m
-2174x3215	CC0	File:Giovanni Paolo Panini, Saint Paul Preaching in Athens, 1734, NGA 131305.jpg	| 
-3486x2855	Public domain	File:Design for a Saint Paul Healing the Cripple at Lystra and a Saint Paul Preaching at Athens by Kunstwerkplaatsen Cuypers & Co. Cuypershuis 0682w.jpg	| Links de heilige Paulus in Lystra, rechts de heilige Paulus in Athene. In rechthoekig kader. Boven elke voorstelling een spitsboog met daari
-2551x3643	CC0	File:Saint Paul preaching in Athens Met DP885747.jpg	| 
-7135x5706	PDM-owner	File:St. Paul preaching at Athens (SM 4314z).png	| Paul in Athens: on the Areopagus he discusses with philosophers (in front of the temple of Ares/Mars), see Acts ch. 17, vv. 19 ss. Historica
-2250x1741	Public domain	File:Raphael - St Paul Preaching at Athens c.1515-6.jpg	| 
-6620x4671	PDM-owner	File:Paul preaching to Athens (SM 5510z).png	| Paul in Athens: on the Areopagus he discusses with philosophers (Acts ch. 17, verses 19 ss.) · historical narration · Biblical portrayal
-1521x2961	CC BY-SA 2.0	File:St. Paul preaching at Athens, St Mary's Church, Shephall (14812605551).jpg	| The stained glass of St Mary's Church, Shephall. This depicts St. Paul preaching at Athens, and is dedicated to Walter Wortham who died in 1
-2048x1546	Public domain	File:St Paul Preaching at Athens - Anon - 8833.jpg	| Offered for sale in July 2021 by Abbott and Holder, when it was described as "ANON (Nineteenth-Century) St Paul Preaching at Athens. Pencil 
-2940x3757	CC BY-SA 4.0	File:London, National Gallery, Rafael Exhibition 2022, Preaching of St Paul (cartoon).jpg	| Cartoon of The Preaching of St Paul by Rafael, exhibited in the National Gallery in London in 2022 during the Rafael exhibition, on loan fro
-1280x1231	Public domain	File:Saint Paul Preaching at Athens (Acts of the Apostles tapestries - Vatican series).jpg	| Saint Paul Preaching at Athens (Acts of the Apostles tapestries - Vatican series)
-1093x1200	Public domain	File:James Thornhill (1675-1676-1734) - Saint Paul Preaching at Athens - 8194 - St Paul's Cathedral.jpg	| 
-1200x887	Public domain	File:Henry Cook (1642-1700) (attributed to) - Saint Paul Preaching in Athens (after Raphael) - WA1845.53 - Hampton Court Palace.jpg	| 
-8256x5504	CC BY-SA 2.0	File:Selsley, All Saints Church, St. Paul Preaching at Athens by William Morris - geograph.org.uk - 7766964.jpg	| Selsley, All Saints Church: St. Paul Preaching at Athens by William Morris
-### Rembrandt apostle Paul
-2645x1763	CC BY-SA 2.5	File:Vatican StPaul Statue.jpg	| St. Paul statue in front of St. Peters Basilica (Vatican). (Sculptor: Adamo Tadolini)
-1225x1856	CC BY 2.5	File:Paulus San Giovanni in Laterano 2006-09-07.jpg	| St. Paul by Pierre-Étienne Monnot. Nave of the Basilica of St. John Lateran (Rome).
-1197x1445	Public domain	File:Rembrandt Harmensz. van Rijn 163.jpg	| 
-1631x1905	Public domain	File:Selfportrait as Saint Paul, by Rembrandt.jpg	| 
-1024x1536	Public domain	File:Self Portrait as Apostle... - Rembrandt Harmenszoon van Rijn.png	| 
-5057x6000	Public domain	File:Rembrandt, The Apostle Paul, 1659, The National Gallery, London.jpg	| 
-1000x1163	Public domain	File:Rembrandt - Self-Portrait as the Apostle Paul - WGA19222.jpg	| 
-1500x1000	Public domain	File:President Barack Obama looks at Rembrandt's Self-portrait as the Apostle Paul.jpg	| President Barack Obama looks at Rembrandt's "Self-portrait as the Apostle Paul" during a tour of the Gallery of Honor at the Rijksmuseum in 
-2357x2867	Public domain	File:Rembrandt St. Paul in Prison.jpg	| St. Paul in Prison
-3267x4096	Public domain	File:Saint Paul, Rembrandt van Rijn (and Workshop?), c. 1657.jpg	| Rembrandt van Rijn (and Workshop?) (Dutch, 1606 - 1669 ), The Apostle Paul, c. 1657, oil on canvas, Widener Collection
-7978x6910	CC BY-SA 3.0	File:Saint-Paul-Saint-Louis Church Interior 1, Paris, France.jpg	| The interior of Saint-Paul-Saint-Louis Church in Paris, France
-6016x4000	CC BY-SA 4.0	File:Colonnade and sky of Saint Paul (Rome).JPG	| Colonnades of and sky above Basilica of Saint Paul Outside the Walls (Rome, Italy).
-2294x2794	CC BY-SA 4.0	File:Amsterdam - Rijksmuseum - Late Rembrandt Exposition 2015 - Self Portrait as Apostle St Paul 1661.jpg	| 
-3228x3746	CC0	File:Portrait of Rembrandt as St. Paul MET DP815710.jpg	| Print; Prints
-2752x3328	CC BY-SA 4.0	File:St. Paul in Prison by Rembrandt - Staatsgalerie - Stuttgart - Germany 2017.jpg	| 
-1458x1991	Public domain	File:Giovanni Francesco Barbieri - Saint Paul.jpg	| 
-5785x4339	CC BY-SA 4.0	File:Münster, St.-Paulus-Dom, Paradies -- 2019 -- 3890.jpg	| Paradies of the St Paul’s Cathedral in Münster, North Rhine-Westphalia, GermanySt. Paul’s Cathedral is the cathedral of the Diocese of Münst
-2757x5612	CC BY-SA 4.0	File:Mary Magdalene church in Gramond 08.jpg	| Stained-glass window of the Mary Magdalene church in Gramond, Aveyron, France
-3191x4000	CC0	File:Rembrandt van Rijn (and Workshop?), The Apostle Paul, c. 1657, NGA 1198.jpg	| 
-3136x8304	CC BY-SA 4.0	File:Saint Paul Rus.jpg	| أيقونة القديس بولس
-2393x3046	CC BY-SA 4.0	File:Villefranche Notre Dame des Marais Saint-Paul.jpg	| Bust of Saint Paul in Église Notre-Dame-des-Marais, Villefranche-sur-Saône in the Rhône department.
-6000x8000	CC0	File:Church of Saints Peter and Paul, Kriva Reka - Saint Paul Mosaic Icon.jpg	| A mosaic icon of Saint Paul the Apostle, located on the right side of the gate and entrance of the Church of Saints Peter and Paul in Kriva 
-4358x2811	CC0	File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg	| Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade
-### Saint Paul El Greco
-8656x10128	Public domain	File:Greco, El - Sts Peter and Paul.jpg	| 
-1760x2222	CC BY 3.0	File:El Greco - Saint Paul.JPG	| Saint Paul
-3417x4000	Public domain	File:El Greco - Апостолы Петр и Павел - Google Art Project.jpg	| 
-2064x2717	Public domain	File:San Pablo (El Greco).jpg	| La obra representa al apóstol San Pablo, llamado el Apóstol de los Gentiles.
-1068x1255	Public domain	File:El Greco - Apostles Peter and Paul - WGA10496.jpg	| 
-4363x5609	Public domain	File:El Greco - Saint Peter and Saint Paul - Google Art Project.jpg	| La obra representa a los apóstoles San Pedro, el primer papa de la Iglesia Católica, y San Pablo, llamado el Apóstol de los gentiles.
+OK	fr/nt_atos1	1600x2000	Public domain	Anthony van Dyck	File:Anthonis van Dyck - Die Ausgießung des Heiligen Geistes.jpg
+   DESC: In der "Ausgießung des Heiligen Geistes" stellte van Dyck das Pfingstwunder dar, das in der Apostelgeschichte des Neuen Testaments (2, 1-4) geschildert wird: Zu Pfingsten versammelten sich die Apostel und wurden vom heiligen Geist erfüllt, so dass sie anfingen, in anderen Sprachen zu predigen. Der dunkle Raum wird im Gemälde von oben nur durch das göttliche Licht erhellt, die Taube des Heiligen Ge
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-100-expired) | PD-old-100-expired | Pentecost (Anthony van Dyck)
+   LICURL:  USAGE: Public domain
+OK	fr/nt_atos2	1365x2964	Public domain	El Greco	File:Pentecostés (El Greco, c. 1600) Prado.jpg
+   DESC: La obra representa al Espíritu Santo descendiendo en forma de lenguas de fuego sobre los apóstoles de Jesucristo.
+   CATS: 16th-century paintings of Pentecost | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Files uploaded by Surajr7 | Human tongues in art | Museo de la Trinidad collection | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Pentecost | Pentecost (Doña María de Aragón reredos)
+   LICURL:  USAGE: Public domain
+OK	fr/nt_atos3	2285x3008	CC BY-SA 4.0	Jl FilpoC	File:La Pentecostés, Francisco de Zurbarán.jpg
+   DESC: Museo de Cádiz. Pintura, óleo sobre lienzo, de Francisco de Zurbarán (ca. 1630-1635). Procede del Consulado de Cargadores de Indias de Cádiz.
+   CATS: 17th-century paintings of Pentecost | CC-BY-SA-4.0 | Paintings by Francisco de Zurbarán in the Museo de Cádiz | Paintings of Pentecost in Spain | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nt_rom1	3191x4000	CC0	Rembrandt van Rijn (and Workshop?)	File:Rembrandt van Rijn (and Workshop?), The Apostle Paul, c. 1657, NGA 1198.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-Zero | Images from the National Gallery of Art | Portrait paintings of males in the National Gallery of Art | Uploaded with pattypan
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/nt_rom2	5057x6000	Public domain	Rembrandt	File:Rembrandt, The Apostle Paul, 1659, The National Gallery, London.jpg
+   DESC: 
+   CATS: 1650s portrait paintings from the Netherlands (male) | 1659 portrait paintings of men | 17th-century oil portraits of men at half length | 17th-century paintings of Saint Paul | 17th-century portrait paintings in the National Gallery, London | 17th-century portrait paintings of bearded men | 17th-century portrait paintings of unidentified men | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Images from the National G
+   LICURL:  USAGE: Public domain
+OK	fr/nt_cor1	4053x5121	Public domain	El Greco	File:El Greco - St. Paul - Google Art Project.jpg
+   DESC: The work represents Saint Paul, called the Apostle of the Gentiles and beheaded according to tradition in Rome during the reign of Emperor Nero.
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Google Art Project works by El Greco | Google Art Project works in Museo del Greco | PD-Art (PD-old-100-expired) | PD-old-100-expired | Saint Paul by El Greco (Museo del Greco, Toledo)
+   LICURL:  USAGE: Public domain
+OK	fr/nt_cor1b	3588x4487	Public domain	El Greco	File:El Greco - St. Paul, 1598–1600.jpg
+   DESC: St. Paul
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-100-expired) | PD-old-100-expired | Saint Paul by El Greco (Saint Louis Art Museum)
+   LICURL:  USAGE: Public domain
+OK	fr/nt_cor2	2240x2953	Public domain	Peter Paul Rubens	File:Saint Paul, by Peter Paul Rubens (Museo del Prado).jpg
+   DESC: 
+   CATS: 17th-century paintings of Saint Paul | Apostolado del duque de Lerma | Artworks missing digital representation of for 2D work | Artworks with SDC link missing | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | The Twelve Apostles by Peter Paul Rubens
+   LICURL:  USAGE: Public domain
+OK	fr/nt_cor2b	1751x2400	Public domain	Peter Paul Rubens	File:Peter Paul Rubens - Saint Paul - 1997.32 - Fogg Museum.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings by Peter Paul Rubens in the Fogg Art Museum | Religious paintings in the Fogg Art Museum
+   LICURL:  USAGE: Public domain
+OK	fr/nt_gal1	10335x12900	Public domain	Caravaggio	File:The Conversion of Saint Paul-Caravaggio (c. 1600-1).jpg
+   DESC: Conversion of Paul the Apostle
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | CC-PD-Mark | Conversion of Saint Paul by Caravaggio (Odescalchi) | Images with extracted images | Large images | PD-Art (PD-old-auto-expired) | PD-old-100-expired
+   LICURL:  USAGE: Public domain
+OK	fr/nt_gal2	4000x2805	Public domain	Peter Paul Rubens	File:Peter Paul Rubens (1577-1640) - Conversion Pauli (Saul) - 762B - Gemäldegalerie.jpg
+   DESC: Conversion of Paul the Apostle
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Artworks with structured data with redirected digital representation of property | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Pages with complex technique templates | Paintings by Peter Paul Rubens in the Gemäldegalerie, Berlin | The Convers
+   LICURL:  USAGE: Public domain
+OK	fr/nt_gal3	3156x3399	Public domain	Denys Calvaert	File:Denys Calvaert - The Conversion of Saint Paul.jpg
+   DESC: Conversion of Paul the Apostle
+   CATS: 17th-century paintings of the Conversion of Saint Paul | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Author died more than 100 years ago public domain images | CC-PD-Mark | Flemish paintings in the Museum of Fine Arts, Budapest | Religious paintings by Denys Calvaert
+   LICURL:  USAGE: Public domain
+OK	fr/nt_ef1	3640x5000	Public domain	Guercino	File:Guercino - Saint Paul - O 279 - Slovak National Gallery.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | Baroque paintings in Slovakia | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Guercino in the Slovak National Gallery | Paintings of saints by Guercino | Religious paintings in the Slovak National Gallery
+   LICURL:  USAGE: Public domain
+OK	fr/nt_ef2	1458x1991	Public domain	Guercino	File:Giovanni Francesco Barbieri - Saint Paul.jpg
+   DESC: 
+   CATS: 17th-century paintings of Saint Paul | CC-PD-Mark | Images from Sotheby's | Images from Sotheby's by Guercino | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings of saints by Guercino | Paintings without Wikidata item
+   LICURL:  USAGE: Public domain
+OK	fr/nt_fil1	2357x2867	Public domain	Rembrandt	File:Rembrandt St. Paul in Prison.jpg
+   DESC: St. Paul in Prison
+   CATS: Apostle Paul in Prison by Rembrandt | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status
+   LICURL:  USAGE: Public domain
+OK	fr/nt_col1	1538x1920	CC BY-SA 4.0	Guido Reni	File:Reni - Saint Paul, 1633 - 1634.jpg
+   DESC: Saint Paul
+   CATS: Artworks without Wikidata item | CC-BY-SA-4.0 | Paintings by Guido Reni in the Museo del Prado | Saints by Guido Reni
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nt_col2	2639x3200	Public domain	Jusepe de Ribera	File:Saint Paul, by Jusepe de Ribera (1591 – 1652).jpg
+   DESC: 
+   CATS: 17th-century paintings of Saint Paul | Apostles by Ribera | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings without Wikidata item | Saint Paul by José de Ribera
+   LICURL:  USAGE: Public domain
+OK	fr/nt_col3	2629x3200	Public domain	José de Ribera	File:Saint Paul, José de Ribera 14.jpg
+   DESC: óleo sobre tela escola Espanhola séc. XVII reentelado, pequenos restauros assinado JUSEPE DE RIBERA ESPAÑOL - atribuível a José de Ribera, «Lo Spagnoletto» (1591-1652) Dimensões (altura x comprimento x largura) - 122 x 97 cm
+   CATS: CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Saint Paul by José de Ribera
+   LICURL:  USAGE: Public domain
+OK	fr/nt_ts1	2250x1741	Public domain	Raphael	File:Raphael - St Paul Preaching at Athens c.1515-6.jpg
+   DESC: 
+   CATS: Artworks without Wikidata item | CC-PD-Mark | PD-Art (PD-old) | PD-Art missing SDC copyright status | PD-old missing SDC copyright status | Saint Paul in Athens by Raffaello Sanzio | Uploaded with pattypan
+   LICURL:  USAGE: Public domain
+OK	fr/nt_ts2	2174x3215	CC0	Giovanni Paolo Panini	File:Giovanni Paolo Panini, Saint Paul Preaching in Athens, 1734, NGA 131305.jpg
+   DESC: 
+   CATS: Artworks with known accession number | Artworks without Wikidata item | CC-Zero | Drawings by Giovanni Paolo Pannini | Drawings in the National Gallery of Art (Washington, D.C.) | Images from the National Gallery of Art | Uploaded with pattypan
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/nt_ts3	1799x1418	Public domain	François de Nomé	File:François de Nomé - St Paul Preaching to the Athenians - Walters 37328.jpg
+   DESC: These scenes from earliest Christian history are set amid fantasy architecture, mysteriously lit under dark skies. The small scale of the figures makes the buildings seem enormous. De Nomé has imagined ancient streetscapes of Athens and Jerusalem as lined with sculpture and rich architectural ornament. In the scene of St. Paul preaching, a circular pagan temple stands next to a lavish entrance to 
+   CATS: 1620s paintings from France | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | Baroque paintings in the Walters Art Museum | CC-PD-Mark | François de Nomé | French paintings in the Walters Art Museum | Items with VRTS permission confirmed | Media contributed by the Walters Art Museum | Media contributed by the Walters Art Museum: needs category review | Media contributed by the Walters Art Museum with wikidata item | PD-Art (PD-old
+   LICURL:  USAGE: Public domain
+OK	fr/nt_tsb1	1631x1905	Public domain	Rembrandt	File:Selfportrait as Saint Paul, by Rembrandt.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Incorrect use of Template:RelativeLocation | Objects with inscriptions in Latin needing translation | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Self-Portrait as the Apostle Paul (Rembrandt - Rijksmuseum Amsterdam) | Template Unknown (source) | Unknown date
+   LICURL:  USAGE: Public domain
+OK	fr/nt_tsb2	2064x2717	Public domain	El Greco and workshop	File:San Pablo (El Greco).jpg
+   DESC: La obra representa al apóstol San Pablo, llamado el Apóstol de los Gentiles.
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | San Pablo, de El Greco (Museo del Prado)
+   LICURL:  USAGE: Public domain
+OK	fr/nt_tit1	2572x3348	Public domain	Paradise Chronicle	File:St.Paul by El Greco.jpg
+   DESC: Painting "Apostle St.Paul" by El Greco at the Exhibition in the Kunstmuseum Basel
+   CATS: CC-BY-SA-4.0 | CC-PD-Mark | PD-Art (PD-old-100) | Portrait paintings of men at bust length | Portrait paintings of men with books | Saint Paul by El Greco | Self-published work
+   LICURL:  USAGE: Public domain
+OK	fr/nt_tit2	3413x2656	Public domain	Peter Paul Rubens / Workshop of Peter Pa	File:Rubens-Rubenshuis-saint Paul.jpg
+   DESC: Conversion of Paul the Apostle
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-BY-SA-4.0 | CC-PD-Mark | PD-Art (PD-old-100) | Paintings by Peter Paul Rubens in the Rubenshuis | Paintings of saints by Peter Paul Rubens | Paintings of the Conversion of Saint Paul | Religious paintings in the Rubenshuis | Self-published work | Taken with Canon EOS 70D
+   LICURL:  USAGE: Public domain
+OK	fr/nt_heb1	4000x3193	CC0	Sir Peter Paul Rubens	File:Sir Peter Paul Rubens, The Meeting of Abraham and Melchizedek, c. 1626, NGA 45640.jpg
+   DESC: the meeting of Abraham and Melchizedek
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-Zero | Images from the National Gallery of Art | Old Testament paintings in the National Gallery of Art | Paintings by Peter Paul Rubens in the National Gallery of Art | Uploaded with pattypan
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/nt_tg1	4159x4839	Public domain	El Greco	File:El Greco - Saint James the Younger - Google Art Project.jpg
+   DESC: 
+   CATS: 1600 oil on canvas paintings | 1600 paintings of people | 1600s religious paintings | 17th-century oil paintings of men at bust length | 17th-century paintings of Saint James the Less | Artworks digital representation of 2D work | Artworks digital representation of unknown type of work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Files from Google Arts & Culture | Google Art Project paintings | Google Art Project works by El Greco | Google Art Project works
+   LICURL:  USAGE: Public domain
+OK	fr/nt_tg2	4127x5121	Public domain	El Greco	File:El Greco - St. James the Less - Google Art Project.jpg
+   DESC: La obra representa a Santiago el Menor, uno de los doce apóstoles de Jesucristo.
+   CATS: 1610s oil on canvas paintings in Spain | 1610s paintings from Spain | 17th-century oil paintings of men at half length | 17th-century paintings of Saint James the Less | Apóstoles, de El Greco (Museo del Greco, Toledo) | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Google Art Project works by El Greco | Google Art Project works in Museo del Greco | Men looking down in art | PD-Art (PD-old-100-expired) | PD-old-100-
+   LICURL:  USAGE: Public domain
+OK	fr/nt_pe1	2318x3051	Public domain	Peter Paul Rubens	File:Pope-peter pprubens.jpg
+   DESC: Saint Peter as Pope—here shown with the pallium and the Keys to Heaven
+   CATS: 17th-century paintings of Saint Peter | Apostolado del duque de Lerma | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Files by User:Wlkernan from en.wikipedia | Men looking up in art | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings of Saint Peter with keys | Paintings of saints by Peter Paul Rubens | Saint Peter's keys in paintings | The Twelve Apostles b
+   LICURL:  USAGE: Public domain
+OK	fr/nt_pe2	4099x5121	Public domain	El Greco	File:El Greco - Saint Peter in Tears - Google Art Project.jpg
+   DESC: La obra representa al apóstol San Pedro, el primer papa de la Iglesia Católica, arrepintiéndose de haber negado a Jesucristo.
+   CATS: 16th-century paintings of Saint Peter | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Google Art Project works by El Greco | Google Art Project works in Museo del Greco | PD-Art (PD-old-100-expired) | PD-old-100-expired | Paintings by El Greco in the Museo del Greco (Toledo) | Paintings of Saint Peter in Spain | Saint Peter by El Greco | Sorrow of Saint Peter
+   LICURL:  USAGE: Public domain
+OK	fr/nt_pe3	3664x4501	Public domain	Rembrandt	File:Rembrandt van Rijn - St. Peter in Prison (The Apostle Peter Kneeling) - Google Art Project.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Files from Google Arts & Culture | Google Art Project paintings | Google Art Project works by Rembrandt | Google Art Project works in The Israel Museum, Jerusalem | Images from The Israel Museum, Jerusalem | PD-Art (PD-old-100-expired) | PD-old-100-expired | St. Nicodemus Church (Deir al-Adas, Jerusalem) | St. Peter in Prison (St. Peter Kneeling) by Rembrandt | Valued im
+   LICURL:  USAGE: Public domain
+OK	fr/nt_pe4	1732x2250	Public domain	Jusepe de Ribera	File:Jusepe de Ribera - Penitent Saint Peter - 1993.60 - Art Institute of Chicago.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | October 2016 in Chicago | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Penitent Saint Peter by Jusepe de Ribera (1993.60)
+   LICURL:  USAGE: Public domain
+OK	fr/nt_jo1	2316x3051	Public domain	El Greco and workshop	File:San Juan Evangelista (El Greco, Museo del Prado).jpg
+   DESC: La obra representa a San Juan Evangelista.
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | San Juan Evangelista, de El Greco (Museo del Prado)
+   LICURL:  USAGE: Public domain
+OK	fr/nt_jo2	3246x3768	CC BY 3.0	Sailko	File:Carlo dolci, san giovanni evangelista, 1640-50 ca. 01.jpg
+   DESC: 
+   CATS: All media supported by Wikimedia CH | Artworks missing digital representation of for 2D work | Artworks with SDC link missing | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-BY-3.0 | Framed paintings in the Gemäldegalerie, Berlin | Images by Sailko - Supported by Wikimedia CH | Photographs of paintings by User:Sailko | Photographs of paintings by User:Sailko without Creator template | Saint John the Evangelist by Carlo Dolc
+   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
+OK	fr/nt_jo3	1437x1920	Public domain	Peter Paul Rubens	File:Rubens apostel johannes grt.jpg
+   DESC: 
+   CATS: 17th-century oil paintings of standing men at half length | 17th-century paintings of Saint John the Evangelist | Apostolado del duque de Lerma | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-100-expired) | PD-old-100-expired | Paintings of John the Evangelist by Peter Paul Rubens | Paintings of Saint John the Apostle | Paintings of Saint John the Evangel
+   LICURL:  USAGE: Public domain
+OK	fr/nt_jo4	1855x2284	CC BY-SA 4.0	Guido Reni	File:Reni - Saint John, 1621.jpg
+   DESC: Saint John
+   CATS: Artworks without Wikidata item | CC-BY-SA-4.0 | Paintings by Guido Reni in the Bob Jones University Museum & Gallery | Saints by Guido Reni
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nt_jo5	4049x5121	Public domain	El Greco	File:El Greco - St. John - Google Art Project.jpg
+   DESC: La obra representa a San Juan Evangelista, uno de los doce apóstoles de Jesucristo y también uno de los cuatro evangelistas.
+   CATS: 17th-century oil paintings of standing men at half length | 17th-century paintings of Saint John the Evangelist | 17th-century paintings of dragons | Apóstoles, de El Greco (Museo del Greco, Toledo) | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Google Art Project works by El Greco | Google Art Project works in Museo del Greco | PD-Art (PD-old-100-expired) | PD-old-100-expired | Paintings of Saint John the Evangeli
+   LICURL:  USAGE: Public domain
+OK	fr/nt_jud1	4019x5121	Public domain	El Greco	File:El Greco - St. Jude Thaddeus - Google Art Project.jpg
+   DESC: La obra representa a San Judas Tadeo, uno de los doce apóstoles de Jesucristo.
+   CATS: 17th-century paintings of Saint Jude Thaddeus | Apóstoles, de El Greco (Museo del Greco, Toledo) | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Google Art Project works by El Greco | Google Art Project works in Museo del Greco | Halberds in art | PD-Art (PD-old-100-expired) | PD-old-100-expired | Paintings of Saint Jude Thaddeus in Spain | Saint Jude Thaddeus with halberd
+   LICURL:  USAGE: Public domain
+OK	fr/nt_jud2	4725x5870	Public domain	Didier Descouens	File:(Albi) Saint Jude Thaddée 1620 - Georges de La Tour Inv.166.jpg
+   DESC: Saint Jude, Albi Apostles series (c. 1620), by Georges de La Tour. Toulouse-Lautrec Museum, Albi, France
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-BY-SA-4.0 | CC-PD-Mark | Files with coordinates missing SDC location of creation | Images by Archaeodontosaurus Albi Musée Toulouse-Lautrec | May 2021 in Tarn | Occitanie photographs taken on 2021-05-21 | PD-old-100-expired | Saint Jude Thaddée 1620 - Georges de La Tour | Valued Images by Archaeodontosaurus | Valued images of Albi | Valued images of paintings in France | Valued im
+   LICURL:  USAGE: Public domain
+OK	fr/nt_ap1	3178x4226	Public domain	Diego Velázquez	File:Diego Velázquez 018 (John the Evangelist from Patmos).jpg
+   DESC: Saint John on the island of Patmos
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Author died more than 100 years ago public domain images | CC-PD-Mark | Files with coordinates missing SDC location of creation (51° N, 1° W) | PD-Art (Yorck Project) | San Juan Evangelista en Patmos (Velázquez) | Yorck Project paintings missing described by source
+   LICURL:  USAGE: Public domain
+OK	fr/nt_ap2	4048x6000	Public domain	Master of the Female Half-Lengths	File:Master of the Female Half-Lengths - Saint John on Patmos (National Gallery, London).jpg
+   DESC: It was on the island of Patmos that Saint John wrote the Book of Revelation. Beside him rests his symbol, the eagle, which holds the saint's ink pot. In the sky above is a vision of a woman and child ('the Woman clothed with the Sun') and the seven-headed dragon of the Apocalypse. On the ground near John is a small devil monster
+   CATS: 1540s religious paintings in the United Kingdom | 16th-century oil on panel paintings in the United Kingdom | 16th-century oil paintings of sitting men at full length | 16th-century religious paintings in the National Gallery, London | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Birds holding objects | CC-PD-Mark | Flemish paintings in the National Gallery, London | Flying dragons
+   LICURL:  USAGE: Public domain
+### Saint Timothy painting
+2024x2613	Public domain	File:Rembrandt Harmensz. van Rijn 153.jpg	| 
+1135x1310	Public domain	File:Century Mag The Feast of Saint Nicholas.png	| 
+1105x1580	Public domain	File:Century Mag St. Apollonia Luini.png	| St. Apollonia, engraved by Timothy Cole after a painting by Bernardino Luini in the church of S. Maurizio, Milan. 1892 (detail).
+1536x2048	CC BY-SA 3.0	File:Спас на крови 110.jpg	| Санкт-Петербург. Спас на крови. Тит и Тимофей
+1800x964	Public domain	File:Byzantine - The Martyrdom of Saint Timothy - Walters W521203V - Obverse Detail.jpg	| The manuscript is known as a menologion, from the Greek for "month". It was written and illuminated in the imperial scriptorium in Constanti
+1389x1800	Public domain	File:Byzantine - The Martyrdom of Saint Timothy - Walters W521203V.jpg	| The manuscript is known as a menologion, from the Greek for "month". It was written and illuminated in the imperial scriptorium in Constanti
+1508x1907	CC BY-SA 3.0	File:Джэймс Фітлер "Самуіл і Ілі".JPG	| Джэймс Фітлер "Самуіл і Ілі". Англія. Лондан. Папера. Гравюра на медзі
+3044x4208	No restrictions	File:Ancient apostles (1918) (14598176219).jpg	| Identifier: ancientapostles00mcka (find matches) Title: Ancient apostles Year: 1918 (1910s) Authors: McKay, David O. (David Oman), 1873-1970
+1524x1920	Public domain	File:Timothy-and-Lois.jpg	| 
+2241x2809	CC0	File:Hannah and the Infant Samuel MET 173286.jpg	| Russian, Saint Petersburg; Tapestry; Textiles-Tapestries
+1292x1578	Public domain	File:Hannah and Samuel in the temple, Rembrandt or his studio, c. 1650, Scottish National Gallery, Edinburgh.jpg	| Hannah and Samuel in the temple, Rembrandt or his studio, c. 1650, Scottish National Gallery, Edinburgh
+2508x2988	CC BY-SA 4.0	File:Hermitage hall 254 - De profetes Hanna by Willem Drost.jpg	| Новый Эрмитаж, зал 254 - Картина Дроста "Пророчица Анна и ребенок"
+5244x4094	PDM-owner	File:The Martyrdom of Saint Januarius and his Fellows (SM 1827).png	| devotional image · depiction of a saint · martyrdom · Saint Januarius · Timotheus / Timothy (governor) · man · group of people · animal · Ca
+1097x1675	Public domain	File:Old Spanish masters engraved by Timothy Cole (IA oldspanishmaster00colerich).pdf	| Subjects: Painting, Spanish; Painting -- Spain History
+2862x1785	Public domain	File:Henryk Siemiradzki - Martyrdom of early Christians - 182561 - National Museum in Warsaw.jpg	| 
+1338x1662	Public domain	File:The Saints of the 22nd of January (K. Tzanes).png	| 
+2446x3261	CC BY-SA 4.0	File:Saint Timothy the Apostle.jpg	| Icon of Saint Timothy in an Orthodox parish in the United States
+### Paul and Timothy painting
+1569x1053	Public domain	File:Century Mag Paul Potter engraving.png	| 
+1046x1322	Public domain	File:Century Mag Portrait of Paul Potter Van der Helst engraving.png	| Portrait of Paulus Potter
+1283x1600	Public domain	File:Timothy Matlack.jpg	| 
+3044x4208	No restrictions	File:Ancient apostles (1918) (14598176219).jpg	| Identifier: ancientapostles00mcka (find matches) Title: Ancient apostles Year: 1918 (1910s) Authors: McKay, David O. (David Oman), 1873-1970
+6814x4502	CC0	File:Fotoreproducties van een portretten van John Endicott, Simon Bradstreet, Timothy Pickering en Leverett Saltonstall Jo. Endicott Simon Bradstreet Timothy Pickering Leverett Saltonstall (titel op object), RP-F-2001-7-799-2.jpg	| IdentificatieTitel(s): Fotoreproducties van een portretten van John Endicott, Simon Bradstreet, Timothy Pickering en Leverett Saltonstall. J
+1058x1672	Public domain	File:Travels of Paul;a course of study for boys' Bible classes, (IA travelsofpaulaco00jack).pdf	| 59 p. 17 cm Bibliography : p. 10-11 Subjects:
+1114x1800	Public domain	File:Travels of Paul; a course of study for boys' Bible classes (IA travelsofpaulcou00jack).pdf	| Bibliography : p. 10-11 Subjects:
+1058x1493	Public domain	File:Scottish painting, past and present, 1620-1908 (IA scottishpainting00cawj).pdf	| Subjects: Painting; Painting
+1516x2033	Public domain	File:Selected proofs from the first and second portfolios of illustrations from Scribner's Monthly and St. Nicholas (IA selectedproofsfr00cole).pdf	| "This book contains 57 illustrations that had appeared in the two magazines."--Cf. Hamilton Includes illustrations by Mary Hallock Foote, El
+1125x1947	Public domain	File:Catalog of Valuable Antique Furniture, Paintings, Engravings and Books, Articles of Vertu, and Curiosities, and also a few Coins, Seals, Watches ... (IA catalogofvaluabl0000leav).pdf	| Subjects: Rossiter, Thomas Prichard; Auction catalogs
+1397x2270	Public domain	File:Catalogue of valuable antique furniture, paintings, engravings, and books, articles of vertu, and curiosities, also a few coins, seals, and watches, etc., etc., etc. (IA catalogueofvalua00leav 1).pdf	| Lots: 693 Priced and named Feb. 5-8, 1873 Subjects: Rossiter, Thomas Prichard
+1549x1989	Public domain	File:Elise, eldest sister of Napoleon Bonaparte. T. Cole after Pierre-Paul Prud'hon.jpg	| Elsie, eldest sister of Napoleon Bonaparte. Engraved by Timothy Cole after a painting by Pierre-Paul Prud'hon
+### Onesimus Philemon
+2126x1414	Public domain	File:Onesimus of Byzantium (Menologion of Basil II).jpg	| Апостол от 70-ти Онисим . Константинополь. 985 г. Миниатюра Минология Василия II. Ватиканская библиотека. Рим.
+1024x682	Public domain	File:Philemon and Onesimus.jpg	| Philemon receiving Onesimus.
+1585x1853	Public domain	File:St Onesimus the apostle.jpg	| St Onesimus the apostle.
+3904x6226	CC0	File:Heilige Faustinus en Heilige Jovita van Brescia, Heilige Juliana, Heilige Onesimus, Heilige Polychronius (15-17 februari) Alle heiligen en de Christelijke feestdagen van het jaar (serietitel), RP-P-OB-20.702.jpg	| IdentificatieTitel(s): Heilige Faustinus en Heilige Jovita van Brescia, Heilige Juliana, Heilige Onesimus, Heilige Polychronius (15-17 febru
+1677x2165	CC0	File:St. Onesimus, Bishop and Martyr Met DP890842.jpg	| 
+1227x1968	Public domain	File:Onesimus the slave - a romance of the days of Nero (IA onesimusslaverom00hoyt).pdf	| Subjects:
+1137x1735	Public domain	File:Onesimus- Christ's freedman; a tale of the Pauline Epistles (IA onesimuschristsf00corw).pdf	| Subjects:
+3935x4919	CC BY-SA 4.0	File:Bishop Onesimus.jpg	| 6th bishop of North Kigezi Diocese
+3008x2000	CC BY-SA 4.0	File:Yılanlı Kilise Saints Onesimus George and Theodore in 2004 6841.jpg	| One of pictures in the Snake Church. A website helped me identify the pictures that I took in 2004.
+5044x5088	CC BY-SA 4.0	File:Bishop Onesimus Asiimwe (North Kigezi Diocese) and Bishop Eng George Bagamuhunda (Retired Bishop of Kigezi Diocese).jpg	| Bishop Onesimus Asiimwe (North Kigezi Diocese) and Bishop Eng George Bagamuhunda (Retired Bishop of Kigezi Diocese)
+4020x5120	CC BY-SA 4.0	File:Bishop Onesimus Asiimwe (North Kigezi Diocese).jpg	| Bishop Onesimus Asiimwe (North Kigezi Diocese)
+3024x4032	CC BY-SA 4.0	File:Bishop Onesimus Asiimwe 1.jpg	| Onesimus Asiimwe (born April 24, 1965) is a Ugandan professional educator and clergyman.
+4032x3024	CC BY 4.0	File:Bishop Onesimus Asiimwe 19th 2.jpg	| Bishop Onesimus Asiimwe (born April 24, 1965) is a Ugandan Anglican bishop, theologian and former chaplain of Makerere University. He has se
+3024x4032	CC BY 4.0	File:Bishop Onesimus Asiimwe 19th.jpg	| Bishop Onesimus Asiimwe (born April 24, 1965) is a Ugandan Anglican bishop, theologian and former chaplain of Makerere University. He has se
+3024x4032	CC BY 4.0	File:Bishop Onesimus Asiimwe 19th 1.jpg	| Bishop Onesimus Asiimwe (born April 24, 1965) is a Ugandan Anglican bishop, theologian and former chaplain of Makerere University. He has se
+2338x1700	CC BY 4.0	File:Bishop Onesimus, Wife and Children.jpg	| Bishop Onesimus with his Wife and Kids
+### Timothy grandmother Lois painting
+3792x2658	No restrictions	File:Ancient apostles (1918) (14804677923).jpg	| Identifier: ancientapostles00mcka Title: Ancient apostles Year: 1918 (1910s) Authors: McKay, David O. (David Oman), 1873-1970 Deseret Sunday
+3044x4208	No restrictions	File:Ancient apostles (1918) (14598176219).jpg	| Identifier: ancientapostles00mcka (find matches) Title: Ancient apostles Year: 1918 (1910s) Authors: McKay, David O. (David Oman), 1873-1970
+1524x1920	Public domain	File:Timothy-and-Lois.jpg	| 
+1006x1577	Public domain	File:New York state's prominent and progressive men (Vol 3) (1900) (IA newyorkstatespro01harr).pdf	| Subjects: New York (State) -- Biography. [from old catalog]
+1418x2014	Public domain	File:Abigail, (IA abigail00sper).pdf	| 196 p. 22 cm Subjects:
+1281x1731	Public domain	File:The pathway of life ... to which is added a biography of Dr. Talmage (IA pathwayoflifetow00thom).pdf	| Subjects:
+1000x1500	Public domain	File:The Pickering genealogy v2.djvu	| Paged continuously
+1275x1650	Public domain	File:Pickering Genealogy v2.pdf	| Pickering Genealogy v2
+1306x1660	Public domain	File:Genealogy and history of representative citizens of the Commonwealth of Massachusetts (IA genealogyhistory00hurd).pdf	| Photocopy Subjects: Massachusetts -- Genealogy; Massachusetts -- Biography
+1312x1652	Public domain	File:Genealogy and history of representative citizens of the commonwealth of Massachusetts (IA genealogyhistory00hurd 0).pdf	| 16 Subjects: genealogy
+### Saint Paul Ephesus Le Sueur
+1000x1186	Public domain	File:Eustache Le Sueur - The Preaching of St Paul at Ephesus - WGA12613.jpg	| 
+1027x1812	Public domain	File:Information and directions for travellers on the continent. (IA informationdirec00star 0).pdf	| viii, 475, [1] p., 2 l. 20 cm Subjects: Europe -- Guidebooks; Italy -- Guidebooks
+1268x1850	Public domain	File:The Architectural review (IA architecturalrev24unse).pdf	| v. 33 cm Some issues accompanied by CD-ROM Vols. for Dec. 1901- have also whole numbering, no. 56- Has occasional supplements Absorbed: Deta
+1045x1525	Public domain	File:Catalogue of books concerning the Greek and Latin classics in the Central Public Libraries, Newcastle-upon-Tyne (IA catalogueofbooks00publrich).pdf	| Subjects: Classical literature
+1154x1589	Public domain	File:Federal Register 1979-10-30- Vol 44 Iss 211 (IA sim federal-register-find 1979-10-30 44 211 0).pdf	| Federal Register 1979-10-30: Volume 44, Issue 211.Digitized from IA1532614-06.Previous issue: sim_federal-register-find_1979-10-30_44_211.Ne
+1360x1206	CC BY 4.0	File:S. Paul préchant a Ephèse =, PK-P-126.088.jpg	| Title: S. Paul préchant à Ephèse =Subtitle: Saint Paul preaching in Ephesus PK-P-126.088Author/creator: Audran, Benoit I (1661-1721)Le Sueur
+1256x1575	CC BY 4.0	File:St. Paul prechant à Ephèse et persuadant les habitans de bruler leurs livres traitans de magie =, PK-P-126.388.jpg	| Title: St. Paul prechant à Ephèse et persuadant les habitans de bruler leurs livres traitans de magie =Subtitle: Saint Paul preaching at Eph
+1035x1614	Public domain	File:Eustace Le Sueur (IA jstor-20538138).pdf	| "Eustace Le Sueur" is an article from &lt;a href="/search.php?query=collection%3Ajstor_illumagaart%20AND%20volume%3A2" rel="nofollow"&gt;The
+1000x1261	Public domain	File:Copie d'après Saint Paul prêchant à Ephèse de Le Sueur 2380.jpg	| painting of Edgar Degas
+1043x1437	Public domain	File:Stories of art and artists (IA storiesofartarti00wate 0).pdf	| xiv, 357 pages : 25 cm Includes index Subjects: Art; Artists -- Biography; Artistes -- Biographies
+### Beheading of Saint Paul painting
+1131x679	Public domain	File:Decapitación de San Pablo.jpg	| Esta obra es un boceto preparatorio del cuadro conocido como La decapitación de San Pablo, que fue pintado por Enrique Simonet en 1887 y que
+4453x1602	Public domain	File:Masaccio. Crucifixion of St. Peter and Beheading of St. John the Baptist..jpg	| lest panel of the Predella from the Pisa Altarpiece
+1440x1800	Public domain	File:Pieter Verelst - Saint Paul - Walters 37272.jpg	| Verelst probably used a live model for this "portrait," but the old man's sword would have identified him to contemporary viewers as the Apo
 4053x5121	Public domain	File:El Greco - St. Paul - Google Art Project.jpg	| The work represents Saint Paul, called the Apostle of the Gentiles and beheaded according to tradition in Rome during the reign of Emperor N
-2253x2952	Public domain	File:El greco prado.jpg	| La obra representa al apóstol San Pablo, llamado el Apóstol de los Gentiles.
-1882x2594	Public domain	File:The Soviet Union 1970 CPA 3957 stamp ('Saint Peter and Saint Paul' (El Greco)) cancelled.jpg	| A USSR stamp
-3000x4000	Public domain	File:Barcelona-Museo Nacional d'Art de Catalunya (VII)-San Pedro y San Pablo (El Greco).jpg	| La obra representa a los apóstoles San Pedro, el primer papa de la Iglesia Católica, y San Pablo, llamado el Apóstol de los gentiles.
-1122x2476	CC BY-SA 4.0	File:Detail of Saint Paul and sword.jpg	| Detail of Saint Paul and his sword
-1097x1508	Public domain	File:San Pablo, de El Greco. (detalle).jpg	| La obra representa al apóstol San Pablo, llamado el Apóstol de los Gentiles.
-6000x4000	CC BY 2.0	File:Cathedral of Toledo, sacristy, with paintings by El Greco (8) (29676399892).jpg	| 
-5898x3840	CC BY 2.0	File:Cathedral of Toledo, sacristy, with paintings by El Greco (9) (29161376594).jpg	| 
-3588x4487	Public domain	File:El Greco - St. Paul, 1598–1600.jpg	| St. Paul
-3481x4306	CC BY-SA 4.0	File:El Greco (1540-1614), Sant Pere i sant Pau (1590-1600), Museu Nacional d'Art de Catalunya.jpg	| 
-1086x1536	Public domain	File:El Greco - Saint Paul (Arteche).jpg	| 
-1076x1536	Public domain	File:El Greco - Saint Paul (Bartholomew).jpg	| 
-3969x3747	CC BY-SA 3.0	File:Saint Paul, detail. El Greco Museum, Toledo. Spain.jpg	| Saint Paul, detail. El Greco Museum, Toledo. Spain
-2572x3348	Public domain	File:St.Paul by El Greco.jpg	| Painting "Apostle St.Paul" by El Greco at the Exhibition in the Kunstmuseum Basel
-### Saint Paul Ribera OR Reni OR Guercino
-1038x1279	Public domain	File:Guido Reni - Self-portrait 2.jpg	| Description The painting was obscured by centuries of grime and an uneven surface, due to the presence of the letter, attached directly to t
-2230x2545	Public domain	File:Saint Peter and Saint Paul mg 0036.jpg	| Saint Peter and Saint Paul
-4848x3052	FAL	File:Rhenium single crystal bar and 1cm3 cube.jpg	| Three high-purity forms of rhenium metal: a single crystal (99.999% pure) made by the floating-zone process, an e-beam remelted bar (99.995%
-4833x5974	Public domain	File:Self-portrait by Guercino.jpg	| Self-portrait. Oil on canvas, 641 x 521 mm (25 1/4 x 20 1/2"). Private Collection, courtesy Richard L. Feigen &amp; Co. Sydney only.
-1432x1800	Public domain	File:Jusepe de Ribera - Saint Paul the Hermit - Walters 37278.jpg	| Paul the Hermit was a 3rd-century saint who escaped persecution by retreating to the Egyptian desert, where he lived in continual meditation
-1301x1600	Public domain	File:San Pablo Ribera (Prado).jpg	| San Pablo (Museo del Prado)
-3640x5000	Public domain	File:Guercino - Saint Paul - O 279 - Slovak National Gallery.jpg	| 
-1538x1920	CC BY-SA 4.0	File:Reni - Saint Paul, 1633 - 1634.jpg	| Saint Paul
-2024x2433	CC BY-SA 4.0	File:Guido Reni 043.png	| Created from: Guido Reni 043.jpg
-3264x2448	CC BY-SA 4.0	File:Рені 03 центр.jpg	| Рені, місто Одеської області на кордоні із Румунією
-2880x4116	Public domain	File:Saint Peter and Saint Paul (by Workshop of Jusepe de Ribera, called Lo Spagnoletto).webp	| Jusepe de Ribera, called Lo Spagnoletto Saint Peter and Saint Paul bears inventory number lower left: 504 oil on canvas 152.8 x 106.5 cm.; 6
-2825x3109	CC BY-SA 2.0	File:Strasbourg (Bas-Rhin) - Palais Rohan - Musée des Beaux-Arts - "Saint Pierre et saint Paul" (Jusepe de Ribera, 1591-1652).jpg	| 
-3852x5270	CC BY 4.0	File:The Assumption of Virgin Mary - Guido Reni.jpg	| The Assumption of Virgin Mary - Guido Reni
-3089x4373	CC BY 4.0	File:The Assumption of Virgin Mary - Guido Reni (unframed).jpg	| The Assumption of Virgin Mary - Guido Reni
-3069x3534	Public domain	File:43 Jusepe de Ribera, Saint Pierre et saint Paul, 1616-17.jpg	| A photograph taken by DCHNwam
-5400x5960	CC BY 4.0	File:Saint Peter and Saint Paul - Jusepe de Ribera.jpg	| Saint Peter and Saint Paul - Jusepe de Ribera
-2133x3199	Public domain	File:Saint Paul, José de Ribera 04.jpg	| óleo sobre tela escola Espanhola séc. XVII reentelado, pequenos restauros assinado JUSEPE DE RIBERA ESPAÑOL - atribuível a José de Ribera, «
-3199x2133	Public domain	File:Saint Paul, José de Ribera 11.jpg	| óleo sobre tela escola Espanhola séc. XVII reentelado, pequenos restauros assinado JUSEPE DE RIBERA ESPAÑOL - atribuível a José de Ribera, «
-2629x3200	Public domain	File:Saint Paul, José de Ribera 14.jpg	| óleo sobre tela escola Espanhola séc. XVII reentelado, pequenos restauros assinado JUSEPE DE RIBERA ESPAÑOL - atribuível a José de Ribera, «
-2639x3200	Public domain	File:Saint Paul, by Jusepe de Ribera (1591 – 1652).jpg	| 
-1400x2000	Public domain	File:Saint Peter and Saint Paul Jusepe de Ribera.jpg	| Saint Peter and Saint Paul - Jusepe de Ribera 17th Century Painting
-3120x4160	CC BY 4.0	File:Finta tomba di Guercino a Cento.jpg	| Lapide e finta tomba di Guercino a Cento
-### Saint Paul Rubens apostle
-2318x3051	Public domain	File:Pope-peter pprubens.jpg	| Saint Peter as Pope—here shown with the pallium and the Keys to Heaven
-1351x1970	Public domain	File:Peter Paul Rubens - Martyrdom of St Thomas.jpg	| 
-1471x1920	Public domain	File:Rubens apostel philippus.jpg	| From Rubens' famous Apostle Series
-1446x1920	Public domain	File:Rubens apostel simon.jpg	| from Rubens famous Twelve Apostles series
-1455x1920	Public domain	File:Rubens apostel thomas.jpg	| 
-1462x1920	Public domain	File:Peter Paul Rubens - St James the Apostle - WGA20192.jpg	| 
-1200x932	Public domain	File:Rubens Heads of two Apostles.jpg	| 
-1469x1920	Public domain	File:Rubens apostel andreas grt.jpg	| 
-1419x1879	Public domain	File:Rubens apostel bartolomeus grt.jpg	| 
-1453x1920	Public domain	File:Rubens apostel mattheus grt.jpg	| 
-1437x1920	Public domain	File:Rubens apostel johannes grt.jpg	| 
-1454x1920	Public domain	File:Rubens apostle Matthias grt.jpg	| 
-1434x1920	Public domain	File:Rubens apostel paulus grt.jpg	| 
-3413x2656	Public domain	File:Rubens-Rubenshuis-saint Paul.jpg	| Conversion of Paul the Apostle
-1720x2544	CC BY 3.0	File:Antoon van dyck e peter paul rubens, san luca evangelista col libro e il bue.jpg	| 
-1471x1920	CC BY-SA 4.0	File:Rubens apostel philippus.png	| Rubens apostel philippus.png
-1200x936	Public domain	File:Peter Paul Rubens (1577-1640) - Conversion of Saint Paul - P.1978.PG.357 - Courtauld Gallery.jpg	| Conversion of Paul the Apostle
-1168x1668	Public domain	File:Peter Paul Rubens (IA gri 33125007738293).pdf	| Bibliography: p. 10-11 Subjects: Rubens, Peter Paul, 1577-1640
-1751x2400	Public domain	File:Peter Paul Rubens - Saint Paul - 1997.32 - Fogg Museum.jpg	| 
-1107x1500	Public domain	File:Anthony van Dyck - The Apostle Saint Peter.jpg	| 
-4000x2805	Public domain	File:Peter Paul Rubens (1577-1640) - Conversion Pauli (Saul) - 762B - Gemäldegalerie.jpg	| Conversion of Paul the Apostle
-2240x2953	Public domain	File:Saint Paul, by Peter Paul Rubens (Museo del Prado).jpg	| 
-2056x2916	CC0	File:Mise au tombeau Rubens Alte Pinakothek.jpg	| Christ entombment, painting unfinished
-### Timothy Lois Eunice Rembrandt OR Dou
-1944x2592	CC BY-SA 3.0	File:Dou with an inland hunting scene.jpg	| 
-4340x5774	Public domain	File:Gerrit Dou - Self-Portrait.JPG	| [detail]
-1113x1365	Public domain	File:Gerrit Dou selfport - cropped and downsized.jpg	| detail
-2516x3472	CC BY-SA 3.0	File:Gérard Dou.jpg	| Gerrit Dou, Self-portrait (c. 1665). 31.3 x 21 cm (12.3 x 8.2 in). Louvre, Paris
-2490x3099	Public domain	File:GD-104-Gerrit Dou-A Scholar Sharpening his Quill.jpg	| 
-2874x3833	Public domain	File:Gerrit Dou - A Young Woman - 1951.325 - Cleveland Museum of Art.tiff	| 
-3912x5102	CC0	File:Portret van Gerard Dou Gerard Dou (titel op object), RP-P-1885-A-9878.jpg	| IdentificatieTitel(s): Portret van Gerard Dou. Gerard Dou (titel op object)Objecttype: prent Objectnummer: RP-P-1885-A-9878Catalogusreferent
-4360x5704	CC0	File:Portret van Gerard Dou, RP-P-1939-700.jpg	| IdentificatieTitel(s): Portret van Gerard DouObjecttype: prent Objectnummer: RP-P-1939-700Catalogusreferentie: Hollstein Dutch 4-2(4). Opmer
-4632x5854	CC0	File:Portret van Gerard Dou, RP-P-1952-354.jpg	| IdentificatieTitel(s): Portret van Gerard DouObjecttype: prent Objectnummer: RP-P-1952-354Catalogusreferentie: Hollstein Dutch 4-CopyOmschri
-4488x5840	CC0	File:Portret van Gerard Dou, RP-P-1958-144.jpg	| IdentificatieTitel(s): Portret van Gerard DouObjecttype: prent Objectnummer: RP-P-1958-144Catalogusreferentie: Hollstein Dutch 4-1(4). Opmer
-3904x5276	CC0	File:Portret van Gerard Dou, RP-P-1909-3068.jpg	| IdentificatieTitel(s): Portret van Gerard DouObjecttype: prent Objectnummer: RP-P-1909-3068Catalogusreferentie: Collectie Rijksmuseum-1(5). 
-3782x5296	CC0	File:Portret van Gerard Dou, RP-P-BI-6448X.jpg	| IdentificatieTitel(s): Portret van Gerard DouObjecttype: prent Objectnummer: RP-P-BI-6448. XCatalogusreferentie: Collectie Rijksmuseum-2(5) 
-3960x5464	CC0	File:Portret van Gerard Dou, RP-P-BI-6449X.jpg	| IdentificatieTitel(s): Portret van Gerard DouObjecttype: prent Objectnummer: RP-P-BI-6449. XCatalogusreferentie: Collectie Rijksmuseum-3(5).
-3920x5300	CC0	File:Portret van Gerard Dou, RP-P-BI-6450X.jpg	| IdentificatieTitel(s): Portret van Gerard DouObjecttype: prent Objectnummer: RP-P-BI-6450. XCatalogusreferentie: Collectie Rijksmuseum-4(5).
-4332x6016	CC0	File:Portret van Gerard Dou, RP-P-BI-6451X.jpg	| IdentificatieTitel(s): Portret van Gerard DouObjecttype: prent Objectnummer: RP-P-BI-6451. XCatalogusreferentie: Collectie Rijksmuseum-5(5).
-4752x3168	CC0	File:Spring & Autumn Bronze Dou, from Xinzheng.jpg	| Xinzheng City Museum, Henan Province, China. Complete indexed photo collection at WorldHistoryPics.com.
-4296x5247	CC BY-SA 4.0	File:Den Haag - Mauritshuis - Gerrit Dou (1613-1675) - The young mother 1658.jpg	| Den Haag - Mauritshuis - Gerrit Dou (1613-1675) - The young mother 1658 - RAW Developing by DxO Photolab 4
-2672x3244	CC BY-SA 4.0	File:Den Haag - Mauritshuis - After Rembrandt, Possibly Gerrit Dou (1613-1675) - Portrait of Rembrandt with a Gorget c. 1629.jpg	| Den Haag - Mauritshuis - After Rembrandt, Possibly Gerrit Dou (1613-1675) - Portrait of Rembrandt with a Gorget c. 1629 - RAW Developing by 
-2247x2813	Public domain	File:Gerrit Dou - Rembrandt's Father.jpg	| Portrait of Rembrandt's Father by Gerrit Dou - Private Collection
-2640x3540	CC BY-SA 4.0	File:Gerrit dou, autoritratto, 1658, 01.jpg	| Paintings in the Uffizi Gallery
-2736x3648	CC BY-SA 4.0	File:Gerrit dou, autoritratto, 1658, 02.jpg	| Paintings in the Uffizi Gallery
-2484x3078	CC BY-SA 4.0	File:Gerrit dou, la scuola serale, 1660-65 ca.jpg	| Paintings in the Uffizi Gallery
-2412x2946	CC BY-SA 4.0	File:Gerrit dou, venditrice di frittelle, 1650-55 ca.jpg	| Paintings in the Uffizi Gallery
-3232x4000	CC BY-SA 4.0	File:Gerrit dou, autoritratto, 1658.jpg	| Self-portrait paintings in the Uffizi Gallery
-1800x1200	CC BY-SA 4.0	File:20250118 Bronze Dou (Food Vessels) on a Square Plinth.jpg	| Bronze Dou (Food Vessels) on a Square Plinth, Warring States
-1800x1200	CC BY-SA 4.0	File:20250118 Pottery Dou with Cover.jpg	| Pottery Dou with Cover, Warring States
-7864x10144	Public domain	File:Dou, Gerrit - Young Mother - KFMV 269 1.jpg	| 
-### Saint Paul Onesimus
-1045x1606	Public domain	File:The appeal to Caesar- a sacred drama .. (IA appealtocaesarsa00jemi).pdf	| Subjects:
-### Saint Peter Rubens OR Reni OR Guercino painting
-1038x1279	Public domain	File:Guido Reni - Self-portrait 2.jpg	| Description The painting was obscured by centuries of grime and an uneven surface, due to the presence of the letter, attached directly to t
-1542x2038	Public domain	File:'King David', painting by Giovanni Francesco Barbieri (il Guercino) c. 1768.jpg	| 
-4848x3052	FAL	File:Rhenium single crystal bar and 1cm3 cube.jpg	| Three high-purity forms of rhenium metal: a single crystal (99.999% pure) made by the floating-zone process, an e-beam remelted bar (99.995%
-2058x2976	CC BY-SA 3.0	File:Guido Reni, consegna delle chiavi, 16241626 ca..jpg	| Pittura italiana del XVII secolo al Louvre
-1952x2160	CC BY 3.0	File:Rubens, consegna delle chiavi, 1613-15 ca. 01.JPG	| 
-3232x2304	CC BY 3.0	File:Rubens, consegna delle chiavi, 1613-15 ca. 02.JPG	| 
-2984x3512	Public domain	File:Christ giving the Keys of Heaven to St. Peter by Peter Paul Rubens - Gemäldegalerie - Berlin - Germany 2017.jpg	| Gemäldegalerie - Berlin - Germany
-3012x3366	CC BY 3.0	File:Rubens, cristo consegna a pietro le chiavi del paradiso, 1613-15 ca. 01.jpg	| 
-4806x3648	CC BY 3.0	File:Rubens, cristo consegna a pietro le chiavi del paradiso, 1613-15 ca. 02.jpg	| 
-2024x2433	CC BY-SA 4.0	File:Guido Reni 043.png	| Created from: Guido Reni 043.jpg
-1932x1650	Public domain	File:After Guido Reni (Bologna 1575-Bologna 1642) - Lot and his Daughters Leaving Sodom - RCIN 402707 - Royal Collection.jpg	| 
-3264x2448	CC BY-SA 4.0	File:Рені 03 центр.jpg	| Рені, місто Одеської області на кордоні із Румунією
-1450x1979	Public domain	File:Rubens (IA rubens02roos).pdf	| Paged continuously Subjects: Rubens, Peter Paul, 1577-1640
-2184x1639	Public domain	File:Reni - After - The flight of Lot and his daughters, after Guido Reni, 1946,0713.1403.jpg	| 
-3852x5270	CC BY 4.0	File:The Assumption of Virgin Mary - Guido Reni.jpg	| The Assumption of Virgin Mary - Guido Reni
-3089x4373	CC BY 4.0	File:The Assumption of Virgin Mary - Guido Reni (unframed).jpg	| The Assumption of Virgin Mary - Guido Reni
-2300x2634	Public domain	File:Peter Paul Rubens (1577-1640) - Christ Giving the Keys of Heaven to Saint Peter - B.116 - Gemäldegalerie.jpg	| Keys of Heaven
-### Tears of Saint Peter El Greco
-1000x1205	Public domain	File:Las lagrimas de san Pedro El Greco 1580.jpg	| Denial of Peter
-2040x2352	Public domain	File:The Penitent Saint Peter by El Greco, San Diego Museum of Art.JPG	| 
-4099x5121	Public domain	File:El Greco - Saint Peter in Tears - Google Art Project.jpg	| La obra representa al apóstol San Pedro, el primer papa de la Iglesia Católica, arrepintiéndose de haber negado a Jesucristo.
-2278x3008	Public domain	File:Francisco de Zurbarán - Tears of St Peter - Google Art Project.jpg	| La obra muestra al apóstol San Pedro, el primer papa de la Iglesia Católica, arrepintiéndose de haber negado a Jesucristo.
-2718x3432	Public domain	File:Les llàgrimes de Sant Pere.jpg	| La obra representa al apóstol San Pedro, el primer papa de la Iglesia Católica, llorando y arrepintiéndose de haber negado a Jesucristo.
-2448x3264	CC BY-SA 3.0	File:Las lágrimas de san Pedro Soumaya 01.jpg	| 
-3888x5184	CC BY-SA 3.0	File:Las lágrimas de san Pedro Soumaya 03.JPG	| Denial of Peter
-3888x5184	CC BY-SA 3.0	File:Las lágrimas de san Pedro Soumaya 02.JPG	| Denial of Peter
-1936x2592	CC BY-SA 3.0	File:Las lágrimas de san Pedro Soumaya 04.JPG	| Denial of Peter
-4000x3000	Public domain	File:San Diego, 2016 - 386.jpg	| San Diego, California, 2016
-2942x3580	Public domain	File:El Greco, Saint Peter Repentant, National Gallery, Oslo (2) (36069411470).jpg	| El Greco, Saint Peter Repentant, National Gallery, Oslo (2)
-6000x4000	Public domain	File:El Greco, Saint Peter Repentant, National Gallery, Oslo (1) (35631222574).jpg	| El Greco, Saint Peter Repentant, National Gallery, Oslo (1)
-6000x4000	CC BY 2.0	File:Cathedral of Toledo, sacristy, with paintings by El Greco (6) (29753151416).jpg	| 
-5675x3987	CC BY 2.0	File:Cathedral of Toledo, sacristy, with paintings by El Greco (7) (29161517284).jpg	| 
-1635x1923	CC BY-SA 4.0	File:3465 Las lágrimas de san Pedro.jpg	| Doménikos Theotokópoulos, El Greco
-3065x3952	Public domain	File:San Pedro arrepentido, por El Greco.jpg	| Denial of Peter
-1368x2000	CC BY-SA 4.0	File:Zurbarán - THE PENITENT SAINT PETER, Delenda 214.jpg	| THE PENITENT SAINT PETER
-3164x3900	Public domain	File:El Greco - Tears of Saint Peter 3164.jpg	| Denial of Peter
-3116x4000	Public domain	File:El Greco - Tears of St. Peter - NG.M.01346 - National Museum of Art, Architecture and Design.jpg	| Denial of Peter
-1161x1536	Public domain	File:El Greco - Tears of Saint Peter, Lionel Harris.jpg	| The Penitence of S. Peter, owned by Lionel Harris, Burlington Magazine, October, 1913, v. 24, pl. 2.
-1295x1605	CC BY-SA 3.0	File:Las lágrimas de san Pedro Soumaya 04 (cropped).JPG	| Denial of Peter
-1165x1536	Public domain	File:El Greco - Saint Peter (Stavros Niarchos).jpg	| 
-4250x4892	Public domain	File:El Greco - The Penitent Saint Peter, ca. 1590-1595, 1940.76.jpg	| The Penitent Saint Peter
-1469x1826	CC BY-SA 4.0	File:'Tears of Saint Peter' (ca 1587-1596) by El Greco - Museo Soumaya - Mexico 2024.jpg	| 'Tears of Saint Peter' (ca 1587-1596) by El Greco - Museo Soumaya - Mexico
-1573x2057	CC BY-SA 4.0	File:'The Penitent Saint Peter' (1650s) by Andrea Vaccaro - Museo Soumaya - Mexico 2024.jpg	| 'The Penitent Saint Peter' (1650s) by Andrea Vaccaro - Museo Soumaya - Mexico
-3120x3832	Public domain	File:El greco, san pietro penitente, 1590 ca.jpg	| Paintings in the Nasjonalmuseet for kunst, arkitektur og design
-### Saint Peter Ribera penitent
-2199x2647	Public domain	File:José de Ribera - St Peter - WGA19372.jpg	| 
-2040x2352	Public domain	File:The Penitent Saint Peter by El Greco, San Diego Museum of Art.JPG	| 
-1576x2000	Public domain	File:The penitent Saint Peter.jpg	| The penitent Saint Peter
-2592x1936	CC BY-SA 3.0	File:Las lágrimas de san Pedro Soumaya 05.JPG	| 
-1339x1920	Public domain	File:Las lágrimas de San Pedro, copia del original de José de Ribera (Museo del Prado).jpg	| La obra representa al apóstol San Pedro, el primer papa de la Iglesia Católica, llorando amargamente y arrepintiéndose de haber negado a Jes
-1185x1574	Public domain	File:Jusepe Ribera - Penitent Saint Peter GG 345.jpg	| 
-1920x2412	CC BY 3.0	File:Jusepe de ribera, pentimento di san pietro, 1628-32, 01.jpg	| 
-2304x3456	CC BY 3.0	File:Jusepe de ribera, pentimento di san pietro, 1628-32, 02.jpg	| 
-2288x3040	CC BY 2.0	File:Jusepe de Ribera, The Penitent Saint Peter, 1628-32 1 27 18 -artinstitutechi (27249950938).jpg	| Jusepe de Ribera, The Penitent Saint Peter, 1628-32 1/27/18 #artinstitutechi
-1732x2250	Public domain	File:Jusepe de Ribera - Penitent Saint Peter - 1993.60 - Art Institute of Chicago.jpg	| 
-1368x2000	CC BY-SA 4.0	File:Zurbarán - THE PENITENT SAINT PETER, Delenda 214.jpg	| THE PENITENT SAINT PETER
-1612x1919	Public domain	File:Ribera - Penitent St Peter, late 1620s, ГЭ-4794.jpg	| 
-1384x1920	Public domain	File:Ribera - Author of the original - Repentance of St. Peter (copy from the lost original), ГЭ-9228.jpg	| 
-1151x931	Public domain	File:Ribera - San Pedro en penitencia, c 1630-1640, 3411.png	| San Pedro en penitencia
-1567x2371	CC BY-SA 4.0	File:J. Berkowetz, Der reuige Petrus, Kupferstich nach Ribera und Perger, D2347-15.jpg	| https://www.oblivion-art.de/index.php/malerei-grafik/19-jahrhundert/perger-s-f-v-1778-1841
-4250x4892	Public domain	File:El Greco - The Penitent Saint Peter, ca. 1590-1595, 1940.76.jpg	| The Penitent Saint Peter
-2880x2880	Public domain	File:Reni - The Penitent Saint Peter, lot.145a.jpg	| 
-2880x2880	Public domain	File:Reni - The Penitent Saint Peter, lot.72.jpg	| 
-2723x4500	Public domain	File:Anthony van Dyck - The Penitent Saint Peter.jpg	| 
-1474x1793	CC BY-SA 4.0	File:'Saint Peter Penitent' (1630s) by Jose de Ribera (Il Españoleto) - Museo Soumaya - Mexico 2024.jpg	| 'Saint Peter Penitent' (1630s) by Jose de Ribera (Il Españoleto) - Museo Soumaya - Mexico
-1908x4032	CC BY-SA 4.0	File:Detail of 'The Penitent Saint Peter' (1650s) by Andrea Vaccaro - Museo Soumaya - Mexico 2024.jpg	| Detail of 'The Penitent Saint Peter' (1650s) by Andrea Vaccaro - Museo Soumaya - Mexico
-1573x2057	CC BY-SA 4.0	File:'The Penitent Saint Peter' (1650s) by Andrea Vaccaro - Museo Soumaya - Mexico 2024.jpg	| 'The Penitent Saint Peter' (1650s) by Andrea Vaccaro - Museo Soumaya - Mexico
-### Saint James the Less painting
-2238x2628	Public domain	File:Enthroned Virgin and Child with SS. James the Greater and James the Lesser.jpg	| 
-5788x3426	Public domain	File:Pere Serra - Saint John the Baptist, Saint Mary Magdalene, Saint James the Less and Saint Paul - Google Art Project.jpg	| 
-4159x4839	Public domain	File:El Greco - Saint James the Younger - Google Art Project.jpg	| 
-1615x1616	Public domain	File:Attributed to Charles François Poerson Saint James Minor.jpg	| 
-4127x5121	Public domain	File:El Greco - St. James the Less - Google Art Project.jpg	| La obra representa a Santiago el Menor, uno de los doce apóstoles de Jesucristo.
-1880x4000	Public domain	File:Saint James Minor A16941.jpg	| 
-3520x6851	Public domain	File:Santa Giustina (Padua) - Martyrdom of St. James the Less by Carlo Caliari.jpg	| 
-3651x2627	CC0	File:Madonna and Child Enthroned with Saints James Minor and Lucy MET ep32.100.87.bw.R.jpg	| Madonna and Child
-2821x3301	CC BY-SA 4.0	File:The Martyrdom of St. James the Less by the Master of Oberaltaich Man of Sorrows - Staatsgalerie - Stuttgart - Germany 2017.jpg	| Staatsgalerie - Stuttgart - Germany
-2759x3462	Public domain	File:St. James the Less, by El Greco, c. 1595, oil on canvas - Hyde Collection - Glens Falls, NY - 20180224 121920.jpg	| 
-1880x4000	CC0	File:Master of Saint Francis, Saint James Minor, c. 1272, NGA 41625.jpg	| 
-3456x3888	CC BY-SA 4.0	File:Michael Willman Opus Magnum 2019 P07 The Matyrdom of St. James the Younger (1663).jpg	| Michael Willman The Matyrdom of St. James the Younger (1663) from Saint Thérèse of Lisieux church in Warsaw-Włochy (originally in Cistercian
-1499x4626	CC BY-SA 4.0	File:-2021-12-31 Saint James the Less, rood screen, Saint Nicholas parish church, Swafield, Norfolk.JPG	| Depictions of Saint James the Less on panels of the dado screen inside Saint Nicholas parish church which is located in the village of Swafi
-7108x14762	Public domain	File:Petrus Johannes van Reysschoot - Saint James the Less - 1934-X-6 - Museum of Fine Arts Ghent (MSK).jpg	| 
-1699x1963	CC BY-SA 4.0	File:The portrait of James the Less, the Apostle.jpg	| Апостол Яків син Алфеїв. Музей образотворчого мистецтва. Будапешт
-1821x4738	CC BY 4.0	File:Panel painting 1 at St Mary Magdalene, Norwich.jpg	| Panel painting 1 at St Mary Magdalene, Norwich. Bishop (Nicholas or Blaise)
-1831x4676	CC BY 4.0	File:Panel painting 8 at St Mary Magdalene, Norwich.jpg	| Panel painting 8 at St Mary Magdalene, Norwich. Saint Helena (double cross).
-6320x3555	CC BY-SA 4.0	File:Tours - Cathédrale Saint-Gatien - Intérieur - 19.jpg	| Tours (Indre-et-Loire, France) - St. Gatian's cathedral - 17th-century paintings of the apostles : saints Bartholomew and James the Less, sa
-2048x3862	Public domain	File:0577Ha. Bicci di Lorenzo. Madonna and Child with St. James the Less, St. John the Baptist, and Angels.jpg	| Madonna and Child with St. James the Less, St. John the Baptist, and Angels, circa 1430 (artist - Bicci di Lorenzo, 1373-1452): Hall 207, St
-### Saint John the Evangelist El Greco
-2257x2881	Public domain	File:El Greco 034.jpg	| La obra representa a San Juan Evangelista.
-2316x3051	Public domain	File:San Juan Evangelista (El Greco, Museo del Prado).jpg	| La obra representa a San Juan Evangelista.
-1000x1274	Public domain	File:El Greco - Sts John and Francis - WGA10549.jpg	| 
-1926x4086	Public domain	File:El Greco - The Virgin of the Immaculate Conception and St John - WGA10466.jpg	| La obra representa a la Inmaculada Concepción siendo contemplada por San Juan Evangelista.
-3541x3703	Public domain	File:Workshop of El Greco - Saint John the Baptist and Saint Francis of Assisi - Google Art Project.jpg	| La obra representa al profeta San Juan Bautista junto a San Francisco de Asís, fundador de la Orden de los franciscanos.
-2257x2951	Public domain	File:John Evangelista and John Baptista.jpg	| La obra representa al profeta San Juan Bautista acompañado por San Juan Evangelista.
-4049x5121	Public domain	File:El Greco - St. John - Google Art Project.jpg	| La obra representa a San Juan Evangelista, uno de los doce apóstoles de Jesucristo y también uno de los cuatro evangelistas.
-3486x4312	CC BY-SA 3.0	File:El Greco Hl. Johannes Ev. und Hl. Franziskus ca. 1600 Uffizien Florenz-01.jpg	| Italian: San Giovanni Evangelista e San Francesco d'Assisi Sts John and Francislabel QS:Len,"Sts John and Francis"label QS:Lde,"Hl. Johannes
-1273x1493	Public domain	File:San Juan Evangelista, de El Greco (detalle).jpg	| La obra representa a San Juan Evangelista.
-1653x1861	Public domain	File:El Greco, c.1609-14, The Vision of Saint John, Metropolitan Museum of Art.jpg	| opening of the fifth seal
-1895x3072	Public domain	File:El Greco and Workshop - Crucifixion with the Virgin Mary and Saint John the Evangelist, c. 1600-1610.jpg	| Crucifixion with the Virgin Mary and Saint John the Evangelist
-2183x2633	Public domain	File:San Juan Evangeliste, El Greco 1608–1614.jpg	| A young rendering of St John in a green tunic and red cloak, pointing with his left hand to the poisoned chalice he is holding in his right 
-2316x3051	CC BY-SA 4.0	File:El Greco 034.png	| Created from: El Greco 034.jpg
-1203x1536	Public domain	File:El Greco - Saint John the Evangelist, Henke Collection.jpg	| 
-1009x1225	Public domain	File:El Greco - Saint John the Evangelist, Joseph Pijoan.jpg	| 
-1732x2274	Public domain	File:El Greco - Saint John the Evangelist, Schorr collection.jpg	| 
-2448x3264	CC BY 2.0	File:Saints John the Evangelist and Francis, Galleria degli Uffizi, Florence (26536828841).jpg	| El Greco, 1600 ca.
-3456x4608	CC BY 2.0	File:Saints John the Evangelist and Francis, Galleria degli Uffizi, Florence (26650268596).jpg	| El Greco, 1600 ca.
-4500x6843	Public domain	File:El Greco - Saint John the Evangelist and an Angel, about 1600, 82.GA.166.jpg	| Saint John the Evangelist and an Angel; El Greco (Domenico Theotokopoulos) (Greek, 1541 - 1614); about 1600; Pen and pale brown ink, gray-br
-2418x2916	CC BY-SA 4.0	File:El greco, ss. giovanni evangelista e francesco, 1600 ca. 01.jpg	| Spanish paintings in the Uffizi Gallery
-2448x3228	CC BY-SA 4.0	File:El greco, ss. giovanni evangelista e francesco, 1600 ca. 02.jpg	| Spanish paintings in the Uffizi Gallery
-2538x3480	CC BY-SA 4.0	File:El greco, ss. giovanni evangelista e francesco, 1600 ca. 03.jpg	| Spanish paintings in the Uffizi Gallery
-3365x2314	CC BY-SA 4.0	File:El greco, ss. giovanni evangelista e francesco, 1600 ca. 04.jpg	| Spanish paintings in the Uffizi Gallery
-### Saint John the Evangelist Rubens OR Reni OR Dolci
-1038x1279	Public domain	File:Guido Reni - Self-portrait 2.jpg	| Description The painting was obscured by centuries of grime and an uneven surface, due to the presence of the letter, attached directly to t
-4848x3052	FAL	File:Rhenium single crystal bar and 1cm3 cube.jpg	| Three high-purity forms of rhenium metal: a single crystal (99.999% pure) made by the floating-zone process, an e-beam remelted bar (99.995%
-1772x2184	Public domain	File:The Virgin and Child with Saint John the Baptist by Guido Reni, Getty Center.JPG	| The Virgin and Child with Saint John the Baptist, oil on canvas painting by Guido Reni, c. 1640-42, Getty Center
-2401x2358	Public domain	File:Carlo Dolci - Virgin and Child with the Infant Saint John the Baptist - Google Art Project.jpg	| Madonna and Child
-1437x1920	Public domain	File:Rubens apostel johannes grt.jpg	| 
-1984x3573	CC BY 4.0	File:Saint John the Evangelist. Line engraving by S.A. Bolswert a Wellcome V0032379.jpg	| Saint John the Evangelist. Line engraving by S.A. Bolswert after Sir P.P. Rubens. Iconographic Collections
-3200x3142	Public domain	File:Carlo Dolci - Virgin and Child with the Infant Saint John the Baptist - 46.28 - Museum of Fine Arts.jpg	| Madonna and Child
-1313x1600	Public domain	File:Carlo Dolci - Salome with the Head of Saint John the Baptist - RES.15.87 - Museum of Fine Arts.jpg	| Salome with the head of John the Baptist
-1855x2284	CC BY-SA 4.0	File:Reni - Saint John, 1621.jpg	| Saint John
-1156x1422	CC BY-SA 3.0	File:Saint John Writing the Book of Revelation by Carlo Dolci at Ringling Museum of Art.jpg	| 
-3246x3768	CC BY 3.0	File:Carlo dolci, san giovanni evangelista, 1640-50 ca. 01.jpg	| 
-3648x5040	CC BY 3.0	File:Carlo dolci, san giovanni evangelista, 1640-50 ca. 02.jpg	| 
-3264x2448	CC BY-SA 4.0	File:Рені 03 центр.jpg	| Рені, місто Одеської області на кордоні із Румунією
-4771x15904	Public domain	File:Peter Paul Rubens - Heilige Johannes - 303 - Royal Museum of Fine Arts Antwerp.tiff	| 
-3852x5270	CC BY 4.0	File:The Assumption of Virgin Mary - Guido Reni.jpg	| The Assumption of Virgin Mary - Guido Reni
-2036x2105	CC BY-SA 4.0	File:Carlo dolci, san giovanni evangelista, 1671 ca.jpg	| Galleria Palatina (Florence) - Sala di Apollo
-3089x4373	CC BY 4.0	File:The Assumption of Virgin Mary - Guido Reni (unframed).jpg	| The Assumption of Virgin Mary - Guido Reni
-2502x2892	CC BY-SA 4.0	File:Carlo dolci, autoritratto, 1647, 01.jpg	| 17th-century Italian paintings in the Uffizi Gallery
-2132x2500	CC BY-SA 4.0	File:Carlo dolci, autoritratto, 1647, 01 (2).jpg	| 17th-century Italian paintings in the Uffizi Gallery
-2611x3272	CC BY-SA 4.0	File:Carlo dolci, autoritratto, 1647, 02.jpg	| 17th-century Italian paintings in the Uffizi Gallery
-1466x1890	Public domain	File:Carlo Dolci - Salome with the Head of Saint John the Baptist (V&A).jpg	| Salome with the head of John the Baptist
-1262x1533	Public domain	File:John the Baptist (circle of Carlo Dolci (?)).jpg	| 
-### Saint John Patmos painting
-3178x4226	Public domain	File:Diego Velázquez 018 (John the Evangelist from Patmos).jpg	| Saint John on the island of Patmos
-1256x1139	Public domain	File:Saint John the Evangelist on Patmos of Protat.jpg	| Иоанн Богослов на острове Патмос
-2880x3094	Public domain	File:Master of the Rotterdam Saint John on Patmos 001.jpg	| Front of a two-sided painting. For the reverse, see File:Saint Agnes by the Master of the Rotterdam Saint John on Patmos Museum Boijmans Van
-1700x1257	Public domain	File:Poussin - Paysage avec saint Jean à Patmos - Chicago Art Institute.jpg	| 
-1635x1900	Public domain	File:Hans Baldung - St John at Patmos - WGA01203.jpg	| Saint John on the island of Patmos Madonna and Child
-3283x3648	Public domain	File:1510 Baldung Der Heilige Johannes auf Patmos anagoria.JPG	| Saint John on the island of Patmos Madonna and Child
-7001x5197	Public domain	File:Nicolas Poussin - Landscape with Saint John on Patmos - Google Art Project.jpg	| 
-3607x4820	Public domain	File:Saint John the Evangelist at Patmos - Google Art Project.jpg	| 
-4048x6000	Public domain	File:Master of the Female Half-Lengths - Saint John on Patmos (National Gallery, London).jpg	| It was on the island of Patmos that Saint John wrote the Book of Revelation. Beside him rests his symbol, the eagle, which holds the saint's
-5460x3365	CC BY-SA 4.0	File:Paintings of Saint John the Evangelist in Monastero del Sacro Speco (Subiaco).jpg	| 
-2334x3508	Public domain	File:Johannes op Patmos Saint John on Patmos Berlin, Staatlichen Museen zu Berlin, Gemaldegalerie HR.jpg	| Front of a two-sided painting. For the reverse, see File:Jheronimus Bosch Scenes from the Passion (full).jpg.
-1756x1887	Public domain	File:Saint Agnes by the Master of the Rotterdam Saint John on Patmos Museum Boijmans Van Beuningen 1083 verso (OK).jpg	| Saint Agnes in an arch, standing, at full-length. Her left hand on her belly and her right hand holding a rope attached to a lamb standing a
-1465x1095	CC BY-SA 4.0	File:Matthias Laurenz Gräff,"Kloster Agios Ioannis Theologos auf Patmos".jpg	| Öl auf Leinwand, 60x80 cm, 2016
-1635x1900	CC0	File:Saint John on Patmos MET DP164867.jpg	| Saint John on the island of Patmos Madonna and Child
-2538x2872	CC0	File:Saint John on Patmos MET GermanCat2 IRRnocap1.jpg	| Saint John on the island of Patmos Madonna and Child
-1226x1861	CC0	File:Saint John on Patmos, Madonna and Child Enthroned, and Death of the Virgin; The Crucifixion MET DT261716.jpg	| Painting, diptych; Paintings
-1208x1861	CC0	File:Saint John on Patmos, Madonna and Child Enthroned, and Death of the Virgin; The Crucifixion MET DT261715.jpg	| Painting, diptych; Paintings
-3228x3228	CC0	File:Roundel with Saint John on Patmos MET cdi32-24-33.jpg	| South Netherlandish (?); Roundel; Glass-Stained
-3208x3148	CC0	File:Roundel with Saint John on Patmos with Apocalyptic Vision MET cdi32-24-65.jpg	| South Netherlandish; Roundel; Glass-Stained
-2334x3508	Public domain	File:Johannes op Patmos Saint John on Patmos Berlin, Staatlichen Museen zu Berlin, Gemaldegalerie HRFXD.jpg	| Front of a two-sided painting. For the reverse, see File:Jheronimus Bosch Scenes from the Passion (full).jpg.
-2115x2546	Public domain	File:Saint John at Patmos by Caroto (Prague).jpg	| National Gallery Prague, Sternberg Palace
-3000x2220	Public domain	File:Nicolas Poussin - Landscape with Saint John on Patmos - 1930.500 - Art Institute of Chicago.jpg	| 
-1000x969	Public domain	File:Anoniem Duitsland ca. 1460-1470 - Heilige Johannes op Patmos - NG4901 - National Gallery.jpg	| Saint John on the island of Patmos
-4000x3634	CC0	File:Titian and Workshop, Saint John the Evangelist on Patmos, c. 1553-1555, NGA 43725.jpg	| Saint John on the island of Patmos
-4048x6000	Public domain	File:Master of the Female Half-Lengths - Saint John on Patmos (National Gallery, London)FXD.jpg	| It was on the island of Patmos that Saint John wrote the Book of Revelation. Beside him rests his symbol, the eagle, which holds the saint's
-4096x3722	Public domain	File:Saint John the Evangelist on Patmos.jpg	| Saint John on the island of Patmos
-17909x26871	Public domain	File:John of Patmos, 1505.jpg	| Иероним Босх. Святой Иоанн на Патмосе. 63.0 x 43.2 см. Масло, дуб. Берлинская картинная галерея. Изображение импортировал Scanirus с сайта B
-6017x5018	Public domain	File:(Castres) Saint Jean l'Evengeliste à Patmos par Joan Mates - Musée Goya.jpg	| 
-### Saint Jude Thaddeus painting
-1220x1400	Public domain	File:St. Jude Thaddaeus Bicci di Lorenzo OPA Florence.jpg	| Fragment of a fresco removed from the nave of the Duomo of Florence at the time of the 17th century restoration, conducted by Baccani.
-4019x5121	Public domain	File:El Greco - St. Jude Thaddeus - Google Art Project.jpg	| La obra representa a San Judas Tadeo, uno de los doce apóstoles de Jesucristo.
-4182x5121	Public domain	File:Anonymous artist from Andalusia - Apostle St Thaddeus (Jude) - Google Art Project.jpg	| A pesar de que en la obra hay una inscripción que afirma que el representado es Santo Tomás Apóstol, la mayoría de los autores coinciden en 
-2243x3373	CC BY 4.0	File:Saint Jude. Gouache. Wellcome V0033347.jpg	| Saint Jude. Gouache. Iconographic Collections
-4790x3097	CC BY-SA 3.0	File:Ulrichstein Bobenhausen II Protestant Church Painting fl 1 2.png	| Protestant church "St. Gangolf" (Oil Paintings: Saint Matthew, Saint Jude Thaddeus) in Bobenhausen II, Ulrichstein, Hesse, Germany
-4185x2948	CC BY-SA 3.0	File:Ulrichstein Bobenhausen II Protestant Church Painting fl 2 3.png	| Protestant church "St. Gangolf" (Oil Paintings: Saint Jude Thaddeus, Saint Simon) in Bobenhausen II, Ulrichstein, Hesse, Germany
-2888x4000	Public domain	File:Saint Judas Thaddeus A17829.jpg	| 
-1705x3606	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.6.bw.R.jpg	| 
-1449x2000	Public domain	File:Saint Judas Thaddeus.jpg	| Saint Judas Thaddeus Property from a Spanish Private Collection JUSEPE DE RIBERA, CALLED LO SPAGNOLETTO Játiva, Valencia 1591 - 1652 Naples 
-3264x4928	CC BY-SA 4.0	File:Kloster Marienborn (Eifel) 57.jpg	| Kloster Marienborn (Eifel), Klosterkirche, Deckenmalerei in der Apsis, Judas Thaddäus
-4725x5870	Public domain	File:(Albi) Saint Jude Thaddée 1620 - Georges de La Tour Inv.166.jpg	| Saint Jude, Albi Apostles series (c. 1620), by Georges de La Tour. Toulouse-Lautrec Museum, Albi, France
-1307x4338	CC BY-SA 4.0	File:-2021-12-31 Saint Jude, Rood screen, Saint Nicholas parish church, Swafield, Norfolk.JPG	| Depictions of Saint Jude on panels of the dado screen inside Saint Nicholas parish church which is located in the village of Swafield, Norfo
-1600x2400	CC BY-SA 4.0	File:Simontornya, ferences templom belső tere 2025 06.jpg	| Main altar (1768) dedicated to Saints Simon and Jude Thaddeus in the Roman Catholic church in Simontornya, Tolna, Hungary
-2000x2400	CC BY-SA 4.0	File:Simontornya, ferences templom belső tere 2025 07.jpg	| Main altar (1768) dedicated to Saints Simon and Jude Thaddeus in the Roman Catholic church in Simontornya, Tolna, Hungary
-1122x1800	Public domain	File:Martyrdom of Saint Simon Zelotes and Saint Judas Thaddeus, circa 1796.jpg	| Martyrdom of Saint Simon Zelotes and Saint Judas Thaddeus, circa 1796.
-3672x4896	CC BY-SA 4.0	File:Lova, chiesa di Santa Giustina - Dipinto 02.jpg	| Lova (Campagna Lupia, Veneto, Italy), Saint Justina church - Painting, Madonna and Child with saints Simon and Jude (?)
-2151x3699	CC BY 4.0	File:Wieserode, die Dorfkirche, Gemälde an der Empore, Judas Thaddäus.jpg	| Wieserode, the village church, painting of Jude the Apostle
-6320x3555	CC BY-SA 4.0	File:Tours - Cathédrale Saint-Gatien - Intérieur - 19.jpg	| Tours (Indre-et-Loire, France) - St. Gatian's cathedral - 17th-century paintings of the apostles : saints Bartholomew and James the Less, sa
-2024x2935	CC0	File:Corrado Giaquinto, Martyrdom of the Apostle Judas Thaddeus (1750s).jpg	| Konstnär: Corrado Giaquinto (1703-1766, italiensk). Titel: Aposteln Judas Taddaios martyrium. Utförd på 1750-talet med olja på duk. Uppsala 
-3321x5442	CC0	File:Varages - Église Notre-Dame de Nazareth - Chœur - Saint Thaddée (Jean Daret).jpg	| Saint Thaddée, par Jean Daret. Huile sur toile (197 x 107 cm), 1653.
-### Abraham Melchizedek Rubens
-2000x1574	Public domain	File:Peter Paul Rubens 016.jpg	| Face à face du pouvoir temporel (représenté par Abraham en armure et ses soldats) et spirituel (représenté par Melchisédech et ses serviteur
-2315x2450	Public domain	File:Abraham Melchizedek Nouailher Louvre OA11017.jpg	| 
-2111x2184	Public domain	File:Abraham Melchizedek Nouailher Louvre OA11017 crop.jpg	| 
-16208x12937	Public domain	File:Peter Paul Rubens - The Meeting of Abraham and Melchizedek - WGA20435.jpg	| the meeting of Abraham and Melchizedek
-1220x900	Public domain	File:Peter Paul Rubens - The Meeting of Abraham and Melchisedek - WGA20438.jpg	| Meeting of Abraham and Melchisidek
-2730x2743	Public domain	File:Meeting Abraham Melchizedek MBA Rennes 73.47.1.jpg	| From the tabernacle of the Capuchin convent in the Marais, Paris.
-3057x2953	Public domain	File:The Meeting of Abraham and Melchizedek - modello (Prado).jpg	| the meeting of Abraham and Melchizedek
-2198x1734	Public domain	File:The Meeting of Abraham and Melchizedek - cartone.jpg	| 
-2736x2004	Public domain	File:Jacob Neefs, Abraham meets Melchizedek, etching after Peter Paul Rubens.jpg	| Abraham meets Melchizedek
-2000x1935	Public domain	File:Peter Paul Rubens, The Meeting of Abraham and Melchizedek, modello, ca. 1626, Museum of Fine Arts, Houston.jpg	| Peter Paul Rubens, modello for tapestry The Meeting of Abraham and Melchizedek, oil on panel, 68 x 65,5 cm, part of Triumph of the Eucharist
-4000x3193	CC0	File:Sir Peter Paul Rubens, The Meeting of Abraham and Melchizedek, c. 1626, NGA 45640.jpg	| the meeting of Abraham and Melchizedek
-1200x674	Public domain	File:John Theodore Heins Senior (1697-1756) - The Meeting of Abraham and Melchizedek - 1401284 - National Trust.jpg	| 
-3566x2960	CC BY-SA 2.0	File:Caen (Calvados) - Musée des Beaux-Arts - "Abraham et Melchisédech" (Pierre Paul Rubens,1577-1640) (explore 07-09-19) (48692020296).jpg	| 
-4000x2785	Public domain	File:Melchizedek and Abraham - MNK XII-A-276 (334018).jpg	| 
-2473x2500	Public domain	File:Attributed to Constantijn van Renesse - The Meeting of Abraham and Melchizedek Genesis 1418-24, I, 215a.jpg	| The Meeting of Abraham and Melchizedek: Genesis 14:18-24
-3294x7344	Public domain	File:Ambrosius Francken I - Abraham en Melchizedek - 138 - Royal Museum of Fine Arts Antwerp.tiff	| the meeting of Abraham and Melchizedek
-3350x4163	Public domain	File:Dieric Bouts - The Meeting of Abraham and Melchizedek.jpg	| Meeting of Abraham and Melchisidek
-1515x1213	Public domain	File:Melchizedech i Abraham (Rzeszów).jpg	| 
-1200x817	Public domain	File:Peter Paul Rubens (1577-1640) - Abraham and Melchisedek - 51 - Glynn Vivian Art Gallery.jpg	| 
-1711x1393	CC BY 4.0	File:Pierre Paul Rubens - Abraham et Melchisédech.jpg	| Pierre Paul Rubens - Abraham et Melchisédech (Musée des Beaux-Arts de Caen)
-3754x3210	Public domain	File:Pieter Paul Rubens. De ontmoeting van Abraham en Melchizedek, GD001697.jpg	| TitlePieter Paul Rubens. De ontmoeting van Abraham en MelchizedekContributorRubens, Peter Paul (1577-1640) (artist)PublisherBerlin: Franz St
-3717x3215	Public domain	File:Peter Paul Rubens. De ontmoeting van Abraham en Melchizedek, GD001698.jpg	| TitlePeter Paul Rubens. De ontmoeting van Abraham en MelchizedekContributorRubens, Peter Paul (1577-1640) (artist)PublisherBerlin: Franz Sto
-1600x1200	Public domain	File:The Holy Bible (Eyre and Spottiswoode 1873) Abraham and Melchizedek 01.jpg	| Engraving from The Holy Bible (Eyre and Spottiswoode, 1873), biblical scene of the meeting of Abraham and Melchizedek.
-1200x909	Public domain	File:Abraham and Melchizedek (Antwerp School).jpg	| Abraham und Melchisedek. Öl/Kupfer, 55 x 73 cm, Antwerpener Schule 17./18. Jhdt.
-### Saint Peter in prison painting
-2244x3287	Public domain	File:Saint-Pierre délivré de sa prison Caraquet.JPG	| Saint-Pierre délivré de sa prisonlabel QS:Len,"Saint-Pierre délivré de sa prison"
-1799x1296	Public domain	File:Alessandro Turchi - Saint Agatha Attended by Saint Peter and an Angel in Prison - Walters 37552.jpg	| According to an early Christian legend, when a 3rd-century Roman official of Sicily desired the Christian woman Agatha, and she refused to y
-1962x3234	Public domain	File:'Saint Paul Visiting Saint Peter in Prison' by Fernando Gallego, Cincinnati.JPG	| 
-2274x3980	Public domain	File:St Paul Visiting St Peter in Prison Filippino Lippi Cappella Brancacci.jpg	| 
-3664x4501	Public domain	File:Rembrandt van Rijn - St. Peter in Prison (The Apostle Peter Kneeling) - Google Art Project.jpg	| 
-7599x5396	Public domain	File:Simon Vouet - Saint Peter Visiting Saint Agatha in Prison.jpg	| 
-3000x2037	Public domain	File:Abraham Bloemaert - Liberation of Saint Peter from Prison.jpg	| 
-2317x3543	CC BY-SA 4.0	File:The Apostle Peter in prison.jpg	| The appearance of the angel to the Apostle Peter.
-2000x1845	Public domain	File:Jan Lievens - Saint Peter released from prison.jpg	| 
-2759x3000	Public domain	File:Anonymous - Liberation of Saint Peter from Prison - 1971.430 - Art Institute of Chicago.jpg	| 
-4547x3386	Public domain	File:Hendrik van Steenwijck II - A prison interior with the Liberation of Saint Peter.jpg	| 
-1110x800	Public domain	File:Hendrick van Steenwijck the younger (c.1580-1649) - Saint Peter Delivered from Prison - 719427 - National Trust.jpg	| 
-1024x736	Public domain	File:Washington Allston - Study for "Belshazzar's Feast", verso, Studies for "Angel Releasing Saint Peter from Prison" - 122.1942 - Fogg Museum.jpg	| 
-3024x4032	CC BY-SA 4.0	File:Saint Pierre délivré de prison par Jean-Baptiste Deshays.jpg	| saint Pierre délivré de prison par Jean-Baptiste Deshays, cathédrale Saint-Louis de Versailles
-5628x6241	CC BY-SA 4.0	File:Saint Agatha visited in prison by Saint Peter - Antonio De Bellis.jpg	| 
-1920x1507	CC0	File:John Martin - The Release of Saint Peter from Prison - B1977.14.4253 - Yale Center for British Art.jpg	| 
-2274x2843	CC BY-SA 4.0	File:St. Peter in Prison by Rembrandt Harmenszoon van Rijn at Israel museum.jpg	| St. Peter in Prison by Rembrandt Harmenszoon van Rijn at Israel museum
-4122x5643	CC BY-SA 4.0	File:Magugnano, chiesa di San Giovanni Battista - Madonna con Bambino, san Girolamo Emiliani e san Pietro liberato dal carcere.jpg	| Magugnano (Brenzone sul Garda, Veneto, Italy), Saint John the Baptist church - Madonna with Child, saint Girolamo Emiliani and saint Peter f
-1200x758	Public domain	File:Vincenzo Frediani (active 1481-1505) - Saint Peter Released from Prison - YORAG , 729 - York Art Gallery.jpg	| 
-6601x5369	CC BY 4.0	File:Saint Peter visits Saint Agatha in her Prison - Alessandro Turchi.jpg	| Saint Peter visits Saint Agatha in her Prison - Alessandro Turchi
+4000x3000	CC BY-SA 4.0	File:Voskopojë St.Nikolaos - Innenraum Fresko 4a Enthauptung.jpg	| Voskopojë ( Albania ). Saint Nicholas church ( 1722 ) - Interior: Fresco ( 1726 ) of the beheading of Saint Paul by David Selenica.
+3231x5920	Public domain	File:Madonna dell'Orto (Venice) - Choir - The beheading of St. Paul.jpg	| 
+3924x2647	CC BY 2.0	File:Pickering, Ss Peter & Paul church, wall painting (33426287713).jpg	| The beheading of St John the Baptist. Salome is dancing at the feast, and she is seen receiving the head. Pic by Jenny
+1736x2920	CC BY 3.0	File:Jacopo tintoretto, decollazione di san paolo, 1556 ca.jpg	| 
+5382x2828	PDM-owner	File:St. John Altarpiece (after Rogier van der Weyden) (SM 878).png	| altarpiece · depiction of a saint · Biblical portrayal · literary representation · historical narration · young John the Baptist · Zechariah
+1043x1560	Public domain	File:A history of painting (IA historyofpaintin07macf).pdf	| "Limited to 1,000 numbered copies, of which this is number 826." Plates accompanied by guard sheets with descriptive letterpress " Bibliogra
+7841x7770	PDM-owner	File:Martyrdom of St Paul (SM 832).png	| altarpiece · depiction of a saint · literary representation · historical narration · martyrdom · force · Paul (apostle) · man · group of peo
+1626x2604	PDM-owner	File:Beheading of St. John the Baptist (SM 878c).png	| altarpiece · depiction of a saint · Biblical portrayal · literary representation · historical narration · martyrdom · force · John the Bapti
+6412x5085	Public domain	File:Simon de Vos - Onthoofding van de heilige Paulus - 877 - Royal Museum of Fine Arts Antwerp.tiff	| 
+### Saint Paul shipwreck Malta painting
+1200x773	Public domain	File:Laurent de La Hyre's Saint Paul Shipwrecked on Malta.jpg	| Acts 28:1-6 is illustrated showing Paul being perceived by the Malta inhabitants as a God.
+1240x671	Public domain	File:Paulus op Malta Centraal Museum 2267.jpg	| Paulus op Malta.
+1600x1227	Public domain	File:Large landscapes (BM R,5.11).jpg	| Landscape with the shipwreck of St Paul at Malta (or the shipwreck of Aeneas); a coastal scene with a blazing beacon on the summit of a rock
+1054x1827	Public domain	File:Notes of a two years' residence in Italy (IA notesoftwoyearsr00geal).pdf	| viii, 294 p. 20 cm Subjects: Italy -- Description and travel
+1041x1564	Public domain	File:The complete poetical and dramatic works of Lord Byron.. (IA completepoetical02byro).pdf	| Subjects:
+2741x1772	Public domain	File:Description of a view of the grand harbour of Malta, and the city of La Valetta - now exhibiting at the Panorama, Leicester Square ; painted by the proprietor, Robert Burford (IA descriptionofvie00burf 18).pdf	| 12 p., [1] folded leaf of plates : 21 cm Subjects: Panoramas -- Malta -- Valletta; Malta -- Description and travel
+1087x1556	Public domain	File:Malta and the Knights hospitallers (IA maltaknightshosp00bedf).pdf	| 80 p. 27cm Subjects: Knights of Malta; Malta -- Description and travel
+1325x2187	Public domain	File:The story of Malta; (IA cu31924028392177).pdf	| 
+1352x2189	Public domain	File:Catalogue of a collection of Oriental and European coins, the collection of Mr. G. Blake ... comprising rarities (of) Siam, China, Japan, Venice, Papal states (IA catalogueofcolle00scot 4).pdf	| 31 p. ; 23 x 15 cm Lots: 641 All copies priced Sale #37 One catalog is the private bid book of numismatists S.H. and Henry Chapman Oct. 10, 
+1112x1785	Public domain	File:Catalogue of a valuable and interesting collection of American and foreign coins and medals ... (05-26-1881) (IA catalogueofvaluaigoj).pdf	| May 26, 1881 Subjects:
+1767x1619	CC BY-SA 4.0	File:20040630630DR Wieck (Greifswald) Bugenhagenkirche Flügelaltar.jpg	| 30.06.2004 17493 Wieck (Greifswald), Kirchstraße: Bugenhagenkirche (GMP: 54.096657,13.446506), erbaut von Friedrich Adler und Friedrich Schu
+1544x1164	Public domain	File:Schelte Adamsz. Bolswert after Rubens - Large landscapes (BM R,5.11) (cropped).jpg	| Landscape with the shipwreck of St Paul at Malta (or the shipwreck of Aeneas); a coastal scene with a blazing beacon on the summit of a rock
+1039x1700	Public domain	File:Miscellanies, antiquarian and historical (IA b22034122).pdf	| 2 unnumbered leaves, 174 pages, 1 unnumbered leaf ; (8vo) On the term "Hebrew"--Remarks on the Melita on which St. Paul was shipwrecked.--Ac
+1139x1891	Public domain	File:The Story of Malta (IA storyofmalta00ball).pdf	| Subjects:
+### Saint Paul apostle portrait painting baroque
+1440x1800	Public domain	File:Pieter Verelst - Saint Paul - Walters 37272.jpg	| Verelst probably used a live model for this "portrait," but the old man's sword would have identified him to contemporary viewers as the Apo
+1308x1818	Public domain	File:George Leland Hunter, Decorative Textiles, Philadelphia 1918.pdf	| "This limited edition has been printed from type and the type distributed." "The material presented in the present volume constituted, for t
+1008x1500	Public domain	File:Classification. Class N- Fine arts (IA classnfinearts00libr).pdf	| At head of title: Library of Congress First edition, 1910, prepared under the direction of Mr. Charles Martel, then chief classifier; 2d edi
+1091x1866	Public domain	File:French prints of the eighteenth century (IA frenchprintsofei00nevi).pdf	| Includes index Subjects: Engraving, Baroque; Engraving, French
+1239x1747	Public domain	File:California Digital Library (IA decorativetextil00huntrich).pdf	| "Working bibliography of decorative textiles": p. 438-[447] Subjects: Textile fabrics; Textile design; Lace and lace making; Embroidery; Wal
+1104x1425	Public domain	File:The study and criticism of Italian art (IA gri 33125001883996).pdf	| First published 1901 In part reprinted from "New York nation" and the "Gazette des beaux-arts." Vasari in the light of recent publications.-
+1085x1458	Public domain	File:The study and criticism of Italian art (IA gri 33125002983506).pdf	| Includes bibliographical references Vasari in the light of recent publications.--Dante's visual images, and his early illustrators.--Some co
+1431x1943	Public domain	File:Decorative textiles, 1918 (IA decorativetextil1918hunt).pdf	| "This limited edition has been printed from type and the type distributed." "The material presented in the present volume constituted, for t
