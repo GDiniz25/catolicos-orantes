@@ -1,0 +1,33 @@
+name: Checagem de build (sem deploy)
+on:
+  push:
+    branches: [checagem]
+    paths-ignore: ['_check/**']
+permissions: { contents: write }
+concurrency: { group: checagem, cancel-in-progress: true }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm ci
+      - name: Build
+        env:
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          VITE_SUPABASE_PUBLISHABLE_KEY: ${{ secrets.VITE_SUPABASE_PUBLISHABLE_KEY }}
+          PUBLIC_LOGIN_GOOGLE: ${{ vars.PUBLIC_LOGIN_GOOGLE }}
+        run: |
+          mkdir -p _check
+          set -o pipefail
+          npm run build > _check/build.txt 2>&1 && echo OK > _check/status.txt || echo FALHOU > _check/status.txt
+          tail -80 _check/build.txt > _check/build-tail.txt
+          if [ -f _check/paginas.txt.in ]; then :; fi
+          for p in $(cat check-paginas.txt 2>/dev/null); do f="dist/$p.html"; [ -f "$f" ] || f="dist/$p"; echo "=== $p" >> _check/paginas.txt; if [ -f "$f" ]; then python3 -c "import re,sys;h=open('$f').read();t=re.search(r'<title>(.*?)</title>',h);print('TITLE:',t.group(1) if t else None);print('DESC:',(re.search(r'name=\"description\" content=\"([^\"]*)',h) or [None,None])[1]);txt=re.sub(r'<script.*?</script>|<style.*?</style>','',h,flags=re.S);txt=re.sub(r'<[^>]+>',' ',txt);txt=re.sub(r'\s+',' ',txt);i=txt.find('Pular');print(txt[:2500])" >> _check/paginas.txt; else echo "NAO EXISTE" >> _check/paginas.txt; fi; done
+          rm -f _check/build.txt
+      - name: Gravar resultado
+        run: |
+          git config user.name bot && git config user.email bot@users.noreply.github.com
+          git add -f _check && git commit -m "resultado da checagem" && git push
