@@ -3,7 +3,12 @@ name: Build e deploy (Hostinger)
 on:
   push:
     branches: [main]
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      espelhar:
+        description: 'Copiar as imagens para a Hostinger (sim/nao)'
+        required: false
+        default: 'sim'
   # Disparado pelo botão "Publicar alterações no site" do /admin e pela publicação agendada
   repository_dispatch:
     types: [rebuild]
@@ -40,6 +45,7 @@ jobs:
         run: npm run build
 
       - name: Recuperar cópia das imagens (cache entre builds)
+        if: ${{ github.event.inputs.espelhar != 'nao' }}
         uses: actions/cache/restore@v4
         with:
           path: .cache/imagens
@@ -47,11 +53,12 @@ jobs:
           restore-keys: imagens-
 
       - name: Servir as imagens pelo próprio site (sem depender do Supabase na visita)
+        if: ${{ github.event.inputs.espelhar != 'nao' }}
         run: node scripts/espelhar-imagens.mjs
 
       # Salva já aqui (e não só no fim): se o envio falhar, a próxima publicação não baixa tudo de novo
       - name: Guardar cópia das imagens
-        if: always()
+        if: ${{ always() && github.event.inputs.espelhar != 'nao' }}
         uses: actions/cache/save@v4
         with:
           path: .cache/imagens
@@ -69,6 +76,7 @@ jobs:
       # Imagens primeiro, com lftp: retoma de onde parou e só envia o que ainda não existe
       # (o nome de cada imagem leva a versão, então tamanho igual = arquivo igual)
       - name: Enviar imagens para a Hostinger (lftp, com retomada)
+        if: ${{ github.event.inputs.espelhar != 'nao' }}
         env:
           FTP_SERVER: ${{ secrets.FTP_SERVER }}
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
