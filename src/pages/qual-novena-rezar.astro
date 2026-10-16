@@ -62,9 +62,10 @@ const FAQ = [
         <h2 class="font-display text-2xl font-semibold text-co-warm-brown">Novenas sugeridas para você</h2>
         <p id="qn-motivo" class="mt-2 text-[15px] text-co-warm-brown/80"></p>
         <p id="qn-vazio" hidden class="mt-2 text-[15px] text-co-warm-brown/80">Não encontramos uma intenção clara no texto. Tente com outras palavras ou escolha uma das intenções acima. Qualquer novena pode ser rezada por qualquer necessidade.</p>
-        <ul id="qn-lista" class="gs gs-sm2 mt-5 gap-4">
+        <ul id="qn-lista" class="gs gs-sm2 mt-5 gap-4"></ul>
+        <ul id="qn-reserva" hidden>
           {usadas.map((a) => (
-            <li data-novena={a.slug} hidden>
+            <li data-novena={a.slug}>
               <a href={`/novenas/${a.slug}`} class="group block h-full overflow-hidden rounded-2xl border border-co-warm-sand-dark bg-white hover:border-co-warm-brown/35">
                 <CapaArtigo category="novenas" image_url={a.image_url} class="aspect-[16/9] w-full" sizes="(min-width: 640px) 50vw, calc(100vw - 32px)" />
                 <div class="p-4">
@@ -118,11 +119,11 @@ const FAQ = [
       const motivo = document.getElementById('qn-motivo')!;
       motivo.textContent = intencoesAchadas.length ? `Pelo que você escreveu: ${intencoesAchadas.join(', ').toLowerCase()}.` : '';
       const lista = document.getElementById('qn-lista')!;
-      itens.forEach((li) => (li.hidden = true));
+      const reserva = document.getElementById('qn-reserva')!;
+      itens.forEach((li) => reserva.appendChild(li));
       ordem.forEach((s) => {
         const li = itens.find((l) => l.dataset.novena === s);
         if (!li) return;
-        li.hidden = false;
         li.querySelector('.qn-porque')!.textContent = 'Tradicional para: ' + (motivos.get(s) || []).join(', ').toLowerCase();
         lista.appendChild(li);
       });
