@@ -77,3 +77,4 @@ for (let p = 0; !SO_CORTE && p * 20 < inteira.length; p++) {
 }
 console.log(lista.length, 'imagens');
 // 1792175697
+// 1792177561
