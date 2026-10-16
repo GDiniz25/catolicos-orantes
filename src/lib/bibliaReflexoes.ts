@@ -32,8 +32,14 @@ export const livroPorSlug = new Map(LIVROS.map((l) => [l.slug, l]));
 export const livroPorNome = new Map(LIVROS.map((l) => [l.nome, l]));
 
 const arquivos = import.meta.glob<{ default: ReflexaoCapitulo[] }>('/src/data/biblia-reflexoes/*.json', { eager: true });
+// Só vão ao ar os arquivos já revisados (lista em biblia-publicados.json); os demais são rascunho
+import publicados from '@/data/biblia-publicados.json';
+const liberados = new Set(publicados as string[]);
 const mapa = new Map<string, ReflexaoCapitulo>();
-for (const mod of Object.values(arquivos)) for (const r of mod.default) if (livroPorSlug.has(r.livro)) mapa.set(`${r.livro}/${r.cap}`, r);
+for (const [caminho, mod] of Object.entries(arquivos)) {
+  if (!liberados.has(caminho.split('/').pop()!.replace(/\.json$/, ''))) continue;
+  for (const r of mod.default) if (livroPorSlug.has(r.livro)) mapa.set(`${r.livro}/${r.cap}`, r);
+}
 
 export const reflexao = (livro: string, cap: number) => mapa.get(`${livro}/${cap}`);
 export const todasReflexoes = () => [...mapa.values()].sort((a, b) => ordemLivro(a.livro) - ordemLivro(b.livro) || a.cap - b.cap);
