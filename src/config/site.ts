@@ -182,6 +182,7 @@ export const STATIC_PAGES = [
   { path: '/terco-da-misericordia', title: 'Terço da Misericórdia guiado', changefreq: 'monthly', priority: 0.7 },
   { path: '/via-sacra', title: 'Via Sacra', changefreq: 'monthly', priority: 0.7 },
   { path: '/lectio-divina', title: 'Lectio Divina guiada', changefreq: 'daily', priority: 0.7 },
+  { path: '/qual-novena-rezar', title: 'Qual novena rezar', changefreq: 'monthly', priority: 0.7 },
   { path: '/planejador-de-novena', title: 'Planejador de novena', changefreq: 'monthly', priority: 0.7 },
   { path: '/consagracao-a-nossa-senhora', title: 'Consagração a Nossa Senhora em 33 dias', changefreq: 'monthly', priority: 0.7 },
   { path: '/teste-de-temperamento', title: 'Teste de temperamento', changefreq: 'monthly', priority: 0.7 },
