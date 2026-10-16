@@ -65,84 +65,96 @@ OK	fr/ev_jo3	3607x4820	Public domain	Unknown authorUnknown author	File:Saint Joh
    DESC: 
    CATS: 17th-century oil paintings of sitting men at full length | 17th-century paintings, artist and year missing | 17th-century paintings in Catalonia | 17th-century paintings of Saint John the Evangelist | 17th-century paintings of people with birds | 17th-century religious paintings in Catalonia | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | Baroque paintings in the Museu Nacional d'Art de Catalunya | CC-PD-Mark | Files from Google
    LICURL:  USAGE: Public domain
-### Frans Hals Saint Mark Pushkin
-3671x4498	Public domain	File:Hals young man.jpg	| 
-1852x2187	Public domain	File:Portrait of a Young Man by Frans Hals.JPG	| 
-3058x3730	Public domain	File:The Standard Bearer (Floris Soop, 1604–1657), by Rembrandt van Rijn.jpg	| 
-2149x3022	Public domain	File:The New International Encyclopædia 1st ed. v. 09.djvu	| The New International Encyclopædia (1st ed.), 1905, v. 9.
-### Saint Mark the Evangelist Google Art Project
-2317x3000	Public domain	File:Hans Baldung Grien - The Trinity and Mystic Pietà - Google Art Project.jpg	| 
-3607x4820	Public domain	File:Saint John the Evangelist at Patmos - Google Art Project.jpg	| 
-2052x4561	Public domain	File:Juan de Valdés Leal - Saint John the Evangelist - Google Art Project.jpg	| 
-5788x3426	Public domain	File:Pere Serra - Saint Peter, Saint Claire, Saint James the Great and Saint John the Evangelist - Google Art Project.jpg	| 
-2335x3523	Public domain	File:Master of Aiguatèbia - Martyrdom of Saint John the Evangelist - Google Art Project.jpg	| 
-3596x5182	Public domain	File:Bernardo Cavallino - Saint John the Evangelist - Google Art Project.jpg	| 
-3389x7452	Public domain	File:Guerau Gener - Nativity and Saint John the Evangelist - Google Art Project.jpg	| 
-4097x5665	Public domain	File:Mateo Cerezo - Saint John the Evangelist - Google Art Project.jpg	| La obra representa a San Juan Evangelista.
-3211x4354	Public domain	File:Gospel Book - Google Art Project (4198040).jpg	| 
-4029x6073	Public domain	File:Colijn de Coter - Saint John the Evangelist Weeping - Google Art Project.jpg	| 
-2960x4726	Public domain	File:Workshop of Willem Vrelant (Flemish, died 1481, active 1454 - 1481) - The Pietà; Saint John the Evangelist - Google Art Project.jpg	| 
-3157x4435	Public domain	File:Mesrop of Khizan (Armenian, active 1605 - 1651) - Saint John the Evangelist - Google Art Project.jpg	| 
-3109x4496	Public domain	File:Malnazar - Saint John the Evangelist - Google Art Project.jpg	| 
-3106x4501	Public domain	File:Emperor Domitian Speaking to Saint John the Evangelist and Saint John the Evangelist in a Vat of Boi... - Google Art Project.jpg	| 
+OK	fr/ev_mc2	2167x2000	Public domain	Guercino	File:Guercino - Saint Marc.jpg
+   DESC: 
+   CATS: 17th-century drawings | Artworks without Wikidata item | CC-PD-Mark | Drawings by Il Guercino | Drawings in the Musée des Beaux-Arts d'Orléans | Drawings of Saint Mark | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Taken with Panasonic Lumix DMC-TZ2
+   LICURL:  USAGE: Public domain
+OK	fr/ev_mc3	2000x2693	Public domain	Carlo Maratta	File:El evangelista san Marcos (Maratta).jpg
+   DESC: 
+   CATS: 17th-century paintings of Saint Mark | 17th-century religious paintings in the Museo Thyssen-Bornemisza | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Italian paintings in the Museo Thyssen-Bornemisza | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings of Saint Mark in Spain | Religious paintings by Carlo Maratta
+   LICURL:  USAGE: Public domain
+OK	fr/ev_mc4	4001x5142	Public domain	Andrea Mantegna	File:Andrea Mantegna - St. Mark the Evangelist - Google Art Project.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Google Art Project works by Andrea Mantegna | Google Art Project works in Städel Museum | PD-Art (PD-old-100-expired) | PD-old-100-expired | Saint Mark the Evangelist by Andrea Mantegna (Städel Museum)
+   LICURL:  USAGE: Public domain
+OK	fr/ev_lc2	2636x3388	Public domain	Frans Hals	File:Frans Hals 086 big.jpg
+   DESC: 
+   CATS: 16th-century oil paintings of men at half length | 16th-century paintings of Luke the Evangelist | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Der Evangelist Lukas (Frans Hals) | Images from Web Gallery of Art | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Unknown date
+   LICURL:  USAGE: Public domain
+OK	fr/ev_lc3	2385x3078	Public domain	Unknown	File:The Evangelist Luke - Google Art Project.jpg
+   DESC: 
+   CATS: 9th-century illuminated manuscripts | Artworks without Wikidata item | CC-PD-Mark | Carolingian manuscripts | Google Art Project works by unknown artist | Google Art Project works in The Morgan Library & Museum | Illuminated manuscripts in the Morgan Library & Museum | Miniatures of Saint Luke | PD-Art (PD-old-100-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Scrolls in art
+   LICURL:  USAGE: Public domain
+### Guercino Saint Luke Displaying a Painting of the Virgin
+1129x1231	Public domain	File:Discourses delivered to the students of the Royal Academy (IA abt3418.0001.001.umich.edu).pdf	| Illustrated t. -p Mode of access: Internet Subjects: Art
+1164x1539	Public domain	File:The catalogue of the magnificent gallery of paintings, the property of John Willett Willett, Esq. which will be sold by auction by Peter Coxe & Co. in Maddox Street (IA catalogueofmagni00pete).pdf	| Library's copy annotated with all prices, including indication of which lots were bought in Library's copy bound with: Christie, Mr. A catal
+1137x1500	Public domain	File:Catalogue of the splendid collection of pictures belonging to Prince Lucien Buonaparte which will be exhibited for sale by private contract, on Monday the sixth day of February (IA gri 33125008548246).pdf	| [2], 2, [3], 8-46, [4] pages ; 21 cm (8vo) Exhibition and sale by private contract Signatures: [A]-F⁴ G²(-G2) Verso of F4 erroneously number
+1014x1429	Public domain	File:The history of the picture called the Madonna dell'Impannata - in the possession of the Rev. John Sanford (IA historyofpicture00unse).pdf	| Subjects: Sanford, John
+1008x1520	Public domain	File:Annals of the artists of Spain. A new ed., incorporating the author's own notes, additions and emendations (IA annalsofartistso02stiruoft).pdf	| 26 Subjects: Art -- Spain; Artists, Spanish
+### Nelson-Atkins Guercino Luke
+### Frans Hals Saint Mark
+1142x1280	Public domain	File:Frans Hals 008.jpg	| 
+2048x1086	Public domain	File:Frans Hals 012.jpg	| 
+2024x2818	Public domain	File:Frans Hals 036.jpg	| 
+6082x7605	Public domain	File:Frans Hals 060.jpg	| 
+1178x1332	Public domain	File:Frans Hals - Luitspelende nar.jpg	| 
+2740x3508	Public domain	File:Frans Hals - St Matthew - Museum of Western European and Oriental Art, Odessa.jpg	| 
+2703x3500	Public domain	File:Frans Hals 085.jpg	| 
+2303x1584	Public domain	File:Frans Hals - Banquet of the Officers of the St Hadrian Civic Guard Company - WGA11092.jpg	| From left to right: Willem Claesz. Vooght, Johan Damius, Willem Warmont, Johan Schatter, Gilles de Wildt, Nicolaes van Napels, Outgert Akers
+2915x3226	Public domain	File:Frans Hals - Zigeunermädchen.jpg	| Gemälde stellt ein Zigeunermädchen dar
+1059x804	Public domain	File:Frans Hals - detail showing Cavalier hats.jpg	| 
+2741x3588	Public domain	File:Frans Hals 085 (before restavration).jpg	| 
 3304x4232	Public domain	File:Frans Hals (Dutch - Saint John the Evangelist - Google Art Project.jpg	| 
-2960x4726	Public domain	File:Willem Vrelant (Flemish, died 1481, active 1454 - 1481) - Saint John the Evangelist - Google Art Project.jpg	| 
-3106x4508	Public domain	File:Saint John the Evangelist Dictating - Google Art Project.jpg	| 
-3010x4398	Public domain	File:Saint John the Evangelist - Google Art Project (6815249).jpg	| 
-2684x3439	Public domain	File:Benedetto Luti - Saint John the Evangelist - Google Art Project.jpg	| 
-4831x7607	Public domain	File:Bartolomeo Passerotti - The Coronation of the Virgin with Saints Luke, Dominic, and John the Evangelist - Google Art Project.jpg	| 
-2726x3410	Public domain	File:Tzanes Emmanuel - St Mark the Evangelist - Google Art Project.jpg	| 
-1212x1676	Public domain	File:German - Portrait of the Evangelist Mark - Google Art Project.jpg	| 
-2427x3433	Public domain	File:Byzantine - Evangelist Mark Seated in his Study - Google Art Project.jpg	| 
-2159x3387	Public domain	File:Malnazar - Saint Mark - Google Art Project-cropped.jpg	| Սուրբ Մարկոս Ավետարանիչ
-2175x3368	Public domain	File:Malnazar - Saint John the Evangelist - Google Art Project cropped.jpg	| Սուրբ Հովհաննես Ավետարանիչ
-4001x5142	Public domain	File:Andrea Mantegna - St. Mark the Evangelist - Google Art Project.jpg	| 
-2807x4172	Public domain	File:St. Mark the Evangelist - Google Art Project.jpg	| Mark is one of the four evangelists. He was a pupil of Peter the Apostle and the founder of the Church in Egypt. Some researchers consider t
-3361x4159	Public domain	File:Saint John the Evangelist - Google Art Project (hAEjOiNImm TOQ).jpg	| In this Byzantine New Testament, Saint John the Evangelist stands with a book representing his Gospel. The naturalistic treatment of the fig
-3317x5121	Public domain	File:Attributed to Cristóbal García Salmerón - St John The Evangelist - Google Art Project.jpg	| La obra representa al apóstol San Juan Evangelista.
-2385x3078	Public domain	File:The Evangelist Luke - Google Art Project.jpg	| 
-### Guercino Saint Mark
-2167x2000	Public domain	File:Guercino - Saint Marc.jpg	| 
-1266x1820	Public domain	File:Guercino Saint Francis with an angel 01.jpg	| 
-3497x4259	Public domain	File:Guercino (workshop) Saint Cecilia.jpg	| 
-4453x2980	Public domain	File:Guercino - Saint Matthew and the Angel - Google Art Project.jpg	| 
-3785x4591	Public domain	File:Guercino - St. Cecilia - Google Art Project.jpg	| 
-1625x2835	Public domain	File:Guercino - Burial of Saint Petronilla - Google Art Project.jpg	| 
-2226x2952	Public domain	File:Santa Inés (Guercino).jpg	| 
-3096x4128	Public domain	File:Guercino Saint Francis with an angel (detail) 01.jpg	| 
-3096x4128	Public domain	File:Guercino Saint Francis with an angel (detail) 02.jpg	| 
-3096x4128	Public domain	File:Guercino Saint Francis with an angel (detail) 03.jpg	| 
-3096x4128	Public domain	File:Guercino Saint Francis with an angel (detail) 04.jpg	| 
-3096x4128	Public domain	File:Guercino Saint Francis with an angel (detail) 05.jpg	| 
-4128x6416	Public domain	File:Augustins - Martirio di San Giovanni e San Paolo - Giovanni Francesco Barbieri, Il Guercino - 2004 1 53.jpg	| 
-3640x5000	Public domain	File:Guercino - Saint Paul - O 279 - Slovak National Gallery.jpg	| 
-1801x2142	Public domain	File:Guercino Martyrdom of Saint Sebastian.jpg	| One of Guercino's 17th century paintings of Saint Sebastian. Property of Federico Castelluccio.
-1729x1920	Public domain	File:Guercino - Saint Augustine meditating on the Trinity, 1636.jpg	| Saint Augustine meditating on the Trinity
-2315x3000	Public domain	File:Guercino - Saint Joseph with the Christ Child, c.1637.jpg	| Saint Joseph with the Christ Child
-1581x2000	Public domain	File:(giovanni francesco barbieri called guercino saint alexius in a brown w084015).jpg	| 
-4466x3003	Public domain	File:Saint Matthew and the Angel by Guercino (1591–1666).jpg	| Guercino, Saint Matthew and the Angel, 1622, oil on canvas, Musei Capitolini, Rome.
-### Saint Mark writing gospel lion painting baroque
-1345x2127	Public domain	File:Strenuous Americans (IA strenuousamerica00dibb).pdf	| 9 p., 3 l., 15-370 p. 23 cm Bibliography at end of each chapter Jesse James.--Admiral Dewey.--Brigham Young.--Frances E. Willard.--James J. 
-### San Marco evangelista dipinto
-2048x1351	Public domain	File:Fra Angelico 093.jpg	| 
-3264x2448	CC BY-SA 3.0	File:Camporosso-chiesa san michele-dipinto.JPG	| Chiesa di San Michele Arcangelo di Camporosso, Liguria, Italia
-1221x800	Public domain	File:Angelico, linaioli tabernacle 05.jpg	| 
-3246x1374	CC BY-SA 3.0	File:Cima, leone di s. marco e santi, dal palazzo dei camerlenghi, 01.JPG	| 
-4352x3264	CC BY-SA 3.0	File:Il leone di san Marco tra i santi di Giambattista Cima da Conegliano (1).JPG	| Gallerie dell'Accademia - MIBAC
-4352x3264	CC BY-SA 3.0	File:Il leone di san Marco tra i santi di Giambattista Cima da Conegliano (2).JPG	| Gallerie dell'Accademia - MIBAC
-1330x1517	Public domain	File:Ancona Chiesa del Sacramento Podesti San Marco.JPG	| la foto raffigura un particolare di un affresco eseguito da Francesco Podesti sulle vele della cupola della Chiesa del SS. Sacramento, ad An
-2000x2693	Public domain	File:El evangelista san Marcos (Maratta).jpg	| 
-2316x3590	Public domain	File:Notizie storiche dell'antica chiesa di San Pier Forelli in Prato.djvu	| Introduction signed: P. Claudio Guasti
-7068x2786	CC BY-SA 4.0	File:Accademia - Il Leone di San Marco e Santi by Cima da Conegliano.jpg	| 
-7096x6366	CC BY-SA 3.0	File:Markus Evangelist Zwickl Pfarrkirche St. Ulrich in Gröden.jpg	| Pendentive with symbol of Mark the Evangelist painted by by Josef Barth AD 1870 in the parish church of Urtijëi.
-1006x1397	Public domain	File:Storia della pittura in Italia dal secolo II al secolo XVI (IA gri 33125003146384).pdf	| Includes bibliographical references and index v. 1. Dai primi tempi cristiani fino alla morte di Giotto. 2 ed. con aggiunta di un'appendice.
-1002x1400	Public domain	File:Storia della pittura in Italia dal secolo II al secolo XVI (IA gri 33125003146400).pdf	| Includes bibliographical references and index v. 1. Dai primi tempi cristiani fino alla morte di Giotto. 2 ed. con aggiunta di un'appendice.
-1072x1500	Public domain	File:Pinacoteca della Imp. Reg. Accademia veneta delle belle arti (IA gri 33125008651776).pdf	| 2 v. : 46 cm Vol. 2 has imprint: Venezia : Dalla tipografia di Giuseppe Antonelli, MDCCCXXXIV Vol. 2 has a large pictorial title vignette, e
-1118x1500	Public domain	File:Notizie intorno alle opere di Gaudenzio Ferrari, pittore e plasticatore (IA gri 33125012655250).pdf	| [4], 56 p., [1] leaf of plates : 33 cm Frontispiece portrait of Gaudenzio Ferrari designed and engraved by Benedetto Bordiga Includes biblio
-1143x1500	Public domain	File:Documenti per la storia dell'augusta ducale Basilica di San Marco in Venezia - dal nono secola sino alla fine del decimo ottavo dall'Archivio di Stato e dalla Biblioteca marciana in Venezia (IA gri 33125014620641).pdf	| Dedication signed: Ferdinando Ongania, editore Six hundred copies printed Includes index Subjects: Basilica di San Marco (Venice, Italy); Ma
-1056x1529	Public domain	File:Raffaello (IA raffaello00ming 0).pdf	| Bibliography: p. [281]-288 Subjects: Raphael, 1483-1520
-1072x1450	Public domain	File:Le vite de' più eccellenti pittori, scultori et architetti (IA gri 33125011256746).pdf	| Vol. 2 of Getty copy apparently missing last leaf of preliminary gathering and first leaf of succeeding gathering A⁴ Binding: diced calfskin
-2465x1048	CC BY-SA 4.0	File:The Lion of Saint Mark between Saints John the Baptist, Mark, Mary Magdalene and Jeronimo.jpg	| The Lion of Saint Mark between Saints John the Baptist, Mark, Mary Magdalene and Jeronimo
-### Frans Hals Saint Luke Odessa
-2636x3388	Public domain	File:Frans Hals 086 big.jpg	| 
-6619x8439	Public domain	File:Frans Hals - De heilige Johannes de Evangelist (Getty Center).jpg	| 
+3212x3728	Public domain	File:Frans Hals - Portrait of a Woman - 272-1955 - Saint Louis Art Museum.jpg	| 
+3919x4297	Public domain	File:Der Lautenspieler (Frans Hals)--WUS03751.jpg	| The Lute Player
+2683x4101	Public domain	File:Der Lautenspieler (Frans Hals)--WUS03752.jpg	| The Lute Player
+1975x2198	Public domain	File:Frans Hals - Gipsy Girl.jpg	| 
+### Saint Luke painting the Virgin ox evangelist
+3657x3905	Public domain	File:Joachim Patinir - The Assumption of the Virgin, with the Nativity, the Resurrection, the Adoration of the Magi, the As... - Google Art Project.jpg	| adoration of the Magi Assumption of Mary
+2260x2396	CC BY-SA 3.0	File:Joachim patinir, assunzione della vergine e scene della vita di cristo, 1510-20 ca., 01.JPG	| 
+1752x1096	CC BY-SA 3.0	File:Joachim patinir, assunzione della vergine e scene della vita di cristo, 1510-20 ca., 03.JPG	| 
+2716x1708	CC BY-SA 3.0	File:Joachim patinir, assunzione della vergine e scene della vita di cristo, 1510-20 ca., 05.JPG	| 
+3648x2432	CC BY-SA 3.0	File:Joachim patinir, assunzione della vergine e scene della vita di cristo, 1510-20 ca., 04.JPG	| 
+2076x2112	CC BY-SA 3.0	File:Joachim patinir, assunzione della vergine e scene della vita di cristo, 1510-20 ca., 06.JPG	| 
+3524x2432	CC BY-SA 3.0	File:Joachim patinir, assunzione della vergine e scene della vita di cristo, 1510-20 ca., 08.JPG	| 
+3304x2432	CC BY-SA 3.0	File:Joachim patinir, assunzione della vergine e scene della vita di cristo, 1510-20 ca., 07.JPG	| 
+1133x1641	Public domain	File:A guide to the Cathedral Church of Saint John the Divine in the city of New York, (IA guidetocathedral00hall 0).pdf	| 116 p. incl. front., illus. 17 cm Subjects: Cathedral of St. John the Divine (New York, N.Y.)
+1052x1693	Public domain	File:An explanation of the view of Rome, taken from the tower of the Capitol - now exhibiting at H.A. Barker and J. Burford's Panorama, near the New Church, in the Strand (IA explanationofvie00bark).pdf	| 24 p., [1] folded leaf of plates : 23 cm Subjects: Panoramas -- Italy -- Rome; Rome (Italy) -- Description and travel
+1993x1500	Public domain	File:The frescoes in the chapel at Eton College - facsimiles of the drawings by R. H. Essex (IA gri 33125013358425).pdf	| 21 p. : 28 x 39 cm Ed. limited to 250 copies Subjects: Essex, Richard Hamilton, 1802-1855; Eton College; Mural painting and decoration -- En
+3808x5152	Public domain	File:The Frankfurt Altarpiece of the Exaltation of the True Cross (SM 2024).png	| In the central panel the Glorification of the cross by the Saints, the prophets and the angels is shown. On the right, are the 4 the patriar
+1079x1325	Public domain	File:The portrait of Jesus Maria Hodegedria, painted by St. Luke, the evangelist (IA JesusMariaHodegedria).pdf	| Digitized by Google. Subjects: Jesus Christ -- Art; Luke, Saint; Mary, Blessed Virgin, Saint -- Art; Hodegetria
+### Saint Mark evangelist lion writing oil painting 17th century
+2000x1573	Public domain	File:The Four Evangelists (Abraham Bloemaert).jpg	| The four evangelists traditionally appeared alone, but in 1526, Albrecht Dürer showed two groups of two evangelists, and about 1566, Frans F
+1131x1579	Public domain	File:Bryan's dictionary of painters and engravers (IA bryansdiction05brya).pdf	| Subjects: Painters; Engravers
+1187x1689	Public domain	File:Dictionary of painters and engravers (IA gri 33125001306287).pdf	| Subjects: Painters; Engravers
+2566x3502	Public domain	File:The New-York Evangelist 1885-10-01- Vol 56 Iss 40 (IA sim evangelist-and-religious-review 1885-10-01 56 40).pdf	| The New-York Evangelist 1885-10-01: Volume 56, Issue 40.Digitized from IA1532522-06.Previous issue: sim_evangelist-and-religious-review_1885
+1127x1914	Public domain	File:Catalogue of an extensive and valuable collection of genuine antiquities and objects of art ... (05-02-1888) (IA catalogueofexten00fros 0).pdf	| May 2, 1888 Subjects:
+### Evangelist Mark lion Rubens OR Jordaens OR Reni OR Strozzi
+1038x1279	Public domain	File:Guido Reni - Self-portrait 2.jpg	| Description The painting was obscured by centuries of grime and an uneven surface, due to the presence of the letter, attached directly to t
+4848x3052	FAL	File:Rhenium single crystal bar and 1cm3 cube.jpg	| Three high-purity forms of rhenium metal: a single crystal (99.999% pure) made by the floating-zone process, an e-beam remelted bar (99.995%
+2242x3314	Public domain	File:Fierens-Gevaert - Jordaens, Laurens.djvu	| Jordaens
+3369x5472	CC0	File:Bernardo Strozzi by Guido Galletti, 1939, marble - Accademia Ligustica di Belle Arti - DSC02372.JPG	| Exhibit in the Accademia Ligustica di Belle Arti, Genoa, Italy. This artwork is old enough so that it is in the public domain. Photography w
+3648x5472	CC BY 2.0	File:Jacob Jordaens - painter (25399351320).jpg	| Belgium
+1091x1425	Public domain	File:Jacob Jordaens - Zelfportret - Autoportrait - Fonds Generet - Koning Boudewijnstichting - Fondation Roi Baudouin.jpg	| 
+3632x5368	CC BY-SA 4.0	File:Xanten Dom Jordaens workshop Adoration of the Shepherds 01.jpg	| Atelier van Jacob Jordaens, Aanbidding der herders (1667), olie op doek, schenking van de kanunniken Johannes Hölter, hermann Cox, Arnold Ho
+4032x1908	CC BY-SA 4.0	File:Statue of Jacob Jordaens in Antwerp, Gemeenteplaats by Jules Pècher.jpg	| Statue of Jacob Jordaens in Antwerp, Gemeenteplaats by Jules Pècher
+4290x5868	CC0	File:Portret van Jacob Jordaens, RP-P-OB-7895.jpg	| IdentificatieTitel(s): Portret van Jacob JordaensObjecttype: prent Objectnummer: RP-P-OB-7895Catalogusreferentie: Hollstein Dutch 108-1(5). 
+4868x6498	CC0	File:Portret van Jacob Jordaens, RP-P-1940-1514.jpg	| IdentificatieTitel(s): Portret van Jacob JordaensObjecttype: prent Objectnummer: RP-P-1940-1514Catalogusreferentie: Hollstein Dutch 108-3(5)
+4612x6482	CC0	File:Portret van Jacob Jordaens, RP-P-OB-7896.jpg	| IdentificatieTitel(s): Portret van Jacob JordaensObjecttype: prent Objectnummer: RP-P-OB-7896Catalogusreferentie: Hollstein Dutch 108-4(5). 
+4650x6542	CC0	File:Portret van Jacob Jordaens, RP-P-1907-417.jpg	| IdentificatieTitel(s): Portret van Jacob JordaensObjecttype: prent Objectnummer: RP-P-1907-417Catalogusreferentie: Hollstein Dutch 108-5(5).
+2938x2783	CC BY-SA 4.0	File:El bufón, la mujer y el gato a la ventana (Jacob Jordaens).jpg	| Colección privada. Jacob Jordaens (1641-1645). óleo sobre lienzo.
+4920x5970	Public domain	File:Musée Ingres-Bourdelle - Tête de Faune - Jacob Jordaens - Joconde06070000138.jpg	| 
+4407x5432	CC BY-SA 4.0	File:Den Haag - Mauritshuis - Jacob Jordaens (1593-1678) - The Adoration of the Shepherds c. 1617.jpg	| Den Haag - Mauritshuis - Jacob Jordaens (1593-1678) - The Adoration of the Shepherds c. 1617 - RAW Developing by DxO Photolab 4
+1974x1563	CC BY-SA 4.0	File:La adoración de los Reyes, Jacob Jordaens.jpg	| Catedral de Sevilla. Pintura, óleo sobre lienzo, de Jacob Jordaens (1669).
+2700x3600	CC BY 4.0	File:Jacob Jordaens statue Antwerp.jpg	| Statue of artist Jacob Jordaens in Antwerp, Belgium
+3264x4928	CC BY-SA 4.0	File:Jordaens birthplace.jpg	| Maison de naissance de Jacques Jordaens, Hoogstraat à Anvers
+3852x5270	CC BY 4.0	File:The Assumption of Virgin Mary - Guido Reni.jpg	| The Assumption of Virgin Mary - Guido Reni
+3838x2746	CC0	File:Binnenplein van het huis van Jacob Jordaens, RP-P-OB-49.202.jpg	| IdentificatieTitel(s): Binnenplein van het huis van Jacques JordaensObjecttype: prent boekillustratie Objectnummer: RP-P-OB-49.202Catalogusr
+5577x4494	CC BY 4.0	File:Pêche miraculeuse - Jacob Jordaens.jpg	| Pêche miraculeuse - Jacob Jordaens
+3261x4891	CC BY 4.0	File:Standbeeld Jacob Jordaens.jpg	| Standbeeld van Jacob Jordaens aan de Oever in Antwerpen
+2554x3409	CC BY-SA 4.0	File:Piedad, Jacob Jordaens.jpg	| Iglesia de Santo Domingo (Sanlúcar de Barrameda). Pietà, óleo sobre lienzo, obra de Jacob Jordaens (ca. 1645-1650), procedente de la Capilla
+1781x842	Public domain	File:Jacob Jordaens signature vectorized.svg	| Jacob Jordaens signature vectorized
+5412x7216	Public domain	File:De schilder Jacob Jordaens (Joseph Pollard, 1891).jpg	| Bust of the painter Jordaens, by Joseph Pollard.
+3500x2765	Public domain	File:Kupferstichkabinett (SMB) Jacob Jordaens 1553678.jpg	| Ausführung: Jacob Jordaens (der Ältere) (1593-1678), Zeichner*in Sammlungstitel: Das Gastmahl der Kleopatra; Übersetzung: Cleopatra about to
+4448x3304	CC BY-SA 4.0	File:Adoración de los Reyes, Jacob Jordaens.jpg	| Capilla de San Antonio, Catedral de Sevilla. Pintura de la Adoración de los Reyes Magos, óleo sobre lienzo, por Jacob Jordaens (1669).
+4258x2899	CC BY-SA 4.0	File:La Circuncisión, Jacob Jordaens.jpg	| Capilla de San Antonio, Catedral de Sevilla. Pintura de Jacob Jordaens (1669)
