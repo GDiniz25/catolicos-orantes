@@ -16,7 +16,9 @@ const focos = await todos('image_focus?select=url,foco,metodo,largura,altura&ord
 const arts = await todos('articles?select=slug,category,image_url&published=eq.true');
 const usos = new Map();
 for (const a of arts) if (a.image_url) usos.set(a.image_url, [...(usos.get(a.image_url) || []), `${a.category}/${a.slug}`]);
-const lista = focos.map((f, i) => ({ i, ...f, usos: usos.get(f.url) || [] }));
+const novo = fs.existsSync('foco-novo.json') ? new Map(JSON.parse(fs.readFileSync('foco-novo.json', 'utf8'))) : null;
+const lista = focos.map((f, i) => ({ i, ...f, foco: novo?.get(f.url) ?? f.foco, usos: usos.get(f.url) || [] }));
+const SO_CORTE = !!novo;
 fs.mkdirSync('recortes', { recursive: true });
 fs.writeFileSync('recortes/indice.json', JSON.stringify(lista, null, 0));
 const W = 320, Hh = 180;
@@ -42,7 +44,7 @@ async function trab() {
     } catch (e) {
       img = await sharp({ create: { width: W, height: Hh, channels: 3, background: '#c00' } }).png().toBuffer();
     }
-    try {
+    if (!SO_CORTE) try {
       const S = 300;
       const im = await sharp(buf).resize(S, S, { fit: 'contain', background: '#555' }).toBuffer();
       const m = await sharp(buf).metadata();
@@ -68,7 +70,7 @@ for (let p = 0; p * POR < cel.length; p++) {
   for (let k = 0; k < POR && p * POR + k < cel.length; k++) comps.push({ input: cel[p * POR + k], left: (k % COL) * (W + 6), top: Math.floor(k / COL) * (Hh + 28) });
   await sharp({ create: { width: COL * (W + 6), height: LIN * (Hh + 28), channels: 3, background: '#888' } }).composite(comps).jpeg({ quality: 70 }).toFile(`recortes/folha-${String(p).padStart(2, '0')}.jpg`);
 }
-for (let p = 0; p * 20 < inteira.length; p++) {
+for (let p = 0; !SO_CORTE && p * 20 < inteira.length; p++) {
   const comps = [];
   for (let k = 0; k < 20 && p * 20 + k < inteira.length; k++) if (inteira[p * 20 + k]) comps.push({ input: inteira[p * 20 + k], left: (k % 5) * 306, top: Math.floor(k / 5) * 326 });
   await sharp({ create: { width: 5 * 306, height: 4 * 326, channels: 3, background: '#222' } }).composite(comps).jpeg({ quality: 70 }).toFile(`recortes/inteira-${String(p).padStart(2, '0')}.jpg`);
