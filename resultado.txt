@@ -229,3 +229,192 @@ OK	fr/nt_mal1	1200x773	Public domain	Laurent de La Hyre	File:Laurent de La Hyre'
    DESC: Acts 28:1-6 is illustrated showing Paul being perceived by the Malta inhabitants as a God.
    CATS: 1630 paintings | 1630s paintings from France | 1630s paintings in the United Kingdom | 17th-century oil on canvas paintings in the United Kingdom | 17th-century paintings of New Testament | 17th-century religious paintings in the United Kingdom | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Campfires in art | French paintings in the Birmingham Museum of Art | Items wit
    LICURL:  USAGE: Public domain
+OK	fr/nt_heb2	3350x4163	Public domain	Dieric Bouts	File:Dieric Bouts - The Meeting of Abraham and Melchizedek.jpg
+   DESC: Meeting of Abraham and Melchisidek
+   CATS: 1460s paintings of Old Testament | 15th-century paintings of Abraham | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item: quick statements | Artworks with Wikidata item missing institution | Artworks with mismatching digital representation of | CC-PD-Mark | Meeting between Abraham and Melchizedek | PD-Art (PD-old-100-expired) | PD-old-100-expired | Paintings of Melchizedek | Triptych of the Last Supper by Dieric Bouts - Meeting of Abraham and 
+   LICURL:  USAGE: Public domain
+OK	fr/nt_heb3	3057x2953	Public domain	Peter Paul Rubens	File:The Meeting of Abraham and Melchizedek - modello (Prado).jpg
+   DESC: the meeting of Abraham and Melchizedek
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Author died more than 100 years ago public domain images | CC-PD-Mark | Eucharist series - Modelli | PD-old missing SDC copyright status | Paintings by Rubens in the Museo del Prado | Taken with Hasselblad H4D-50
+   LICURL:  USAGE: Public domain
+### Dürer Four Apostles
+1000x2774	Public domain	File:Albrecht Dürer 026.jpg	| 
+1000x2785	Public domain	File:Albrecht Dürer 027.jpg	| 
+2174x2472	Public domain	File:Vier Apostel (Albrecht Duerer).jpg	| Die vier Apostel, ein Diptychon Albrecht Dürers. Linke Tafel: Johannes und Petrus; rechte Tafel: Markus und Paulus
+3264x2448	CC BY-SA 3.0	File:St. Wendel Schlossplatz.JPG	| Aufgenommen in St. Wendel am Schlossplatz
+3000x2250	CC0	File:20160416Wendalinusstr St Wendel.jpg	| Riefer/Thome: Albrecht Dürer - Die vier Apostel - Wandmalerei in St. Wendel)
+3318x4146	CC BY-SA 4.0	File:Sts. Paul, Mark, John and Peter by Albrecht Durer - Alte Pinakothek - Munich - Germany 2017.jpg	| Linke Tafel: Johannes und Petrus; rechte Tafel: Markus und Paulus
+1344x1528	CC BY-SA 4.0	File:Durer- the Four apostles.jpg	| The latest work of Durer -the four evangelists
+1018x1514	Public domain	File:Dürer - Hermann Knackfuss, 1900, English edition (IA durer00knac 1).pdf	| 
+1323x1966	Public domain	File:Stamp 1972 UAE-UQ MiNr0587A pm B002.jpg	| Stamp of the United Arab Emirates (Emirate Umm al-Qiwain); 1972; commemorative stamp of the issue "500th Anniversary of birth of Albrecht Dü
+4160x3120	CC BY-SA 4.0	File:Königsplatz München Ubahn Ostwand 8.jpg	| In der Münchener Ubahnstation Königsplatz abgebildetes Bildnis
+4041x4069	CC0	File:Albrecht Dürer, The Four Apostles.jpg	| Images from Munich Project
+1840x2073	CC BY-SA 4.0	File:Four Apostles by Dürer.jpg	| Four Apostles by Dürer
+1311x3749	Public domain	File:Albrecht Dürer - The Four Apostles, Saints John and Peter.jpg	| 
+1306x3749	Public domain	File:Albrecht Dürer - The Four Apostles, Saints Mark and Paul.jpg	| 
+2664x3749	Public domain	File:Albrecht Dürer - The Four Apostles, Saints John, Peter, Mark and Paul.jpg	| Linke Tafel: Johannes und Petrus; rechte Tafel: Markus und Paulus
+3791x3221	Public domain	File:Albrecht Dürer. De vier apostelen, GD002610.jpg	| TitleAlbrecht Dürer. De vier apostelenContributorDürer, Albrecht (German painter, printmaker, engraver and scientist, 1471-1528) (artist)Ser
+### Saint Paul Lievens
+3872x2592	CC BY-SA 3.0	File:Church of St. Paul, Antwerp, Belgium (aerial view).jpg	| South face of the church of Saint Paul in central Antwerp, Belgium, as seen from the top floor of the Boerentoren building. In the backgroun
+2675x3016	Public domain	File:Jan Lievens, Painting of St Paul, ca. 1627-29. Oil on canvas. Nationalmuseum Sweden.jpg	| St Paul
+3085x4531	Public domain	File:Lieven van Lathem (Flemish - The Beheading of Saint John the Baptist - Google Art Project.jpg	| 
+3205x4366	Public domain	File:Lieven van Lathem (Flemish - The Martyrdom of Saint Andrew - Google Art Project.jpg	| 
+3094x4516	Public domain	File:Lieven van Lathem (Flemish - Saint Michael - Google Art Project.jpg	| 
+3131x4458	Public domain	File:Lieven van Lathem (Flemish - Saint Veronica - Google Art Project.jpg	| 
+3094x4516	Public domain	File:Lieven van Lathem (Flemish - The Temptation of Saint Anthony - Google Art Project.jpg	| 
+3172x4409	Public domain	File:Lieven van Lathem (Flemish - Charles the Bold Presented by Saint George - Google Art Project.jpg	| 
+3129x4466	Public domain	File:Lieven van Lathem (Flemish - Saint John on Patmos - Google Art Project.jpg	| 
+3205x4366	Public domain	File:Lieven van Lathem (Flemish - Saint George and the Dragon - Google Art Project.jpg	| 
+3205x4366	Public domain	File:Lieven van Lathem (Flemish - Saint Martin Dividing his Cloak - Google Art Project.jpg	| 
+2105x3488	Public domain	File:Metternich - Lettres du prince de Metternich à la comtesse de Liéven, éd. Hanoteau, 1909.djvu	| Lettres_du_prince_de_Metternich_à_la_comtesse_de_Liéven
+3674x4047	Public domain	File:Apostle Paul (Jan Lievens) - Nationalmuseum - 132629.tif	| New acquisition, September 2012 Painting of St Paul by Jan Lievens Nationalmuseum's extensive collection of Dutch old masters has been enric
+2550x3260	Public domain	File:Two Old Men Disputing (“St. Peter and St. Paul”).jpg	| Two Old Men Disputing (“St. Peter and St. Paul”), formerly attributed to Rembrandt, later seen as a copy from the 18th century. Now attribut
+3529x3819	CC BY-SA 4.0	File:The Apostle Paul, made 1627-1629, by Jan Lievens (1607-1674). Nationalmuseum, Stockholm, Sweden.jpg	| The Apostle Paul, made 1627-1629, by Jan Lievens (1607-1674). Nationalmuseum, Stockholm, Sweden. Oil on canvas. NM 7087. Purchase 2012 Wiros
+1002x1500	Public domain	File:Iconographie, ou, Vies des hommes illustres du XVII. siecle (IA gri 33125008491165).pdf	| [55] engraved plates in v. 1 (5 double page), [70] in v. 2. Most are signed by Van Dyck as painter (v. 1, plate [5] by Rubens, plate [32] by
+1050x1556	Public domain	File:Onze kunst (IA onzekunst04busc).pdf	| Editor: Jan. 1907- P. Buschmann Vol. 1-46 also called jaarg. 1-25 Publication suspended 1921, 1923-24, 1927-June 1928 Subjects: Art
+4304x5817	CC0	File:Martyre de saint Lievens d'après Rubens (Dutuit 36 p. 123), GDUT8351.jpg	| Auteur(s): Rubens, Pierre Paul (Siegen, 28–06–1577 - Anvers (Antwerpen), 30–05–1640), auteur du modèle Caukercken, Cornelis van (Anvers (Ant
+### Saint Paul Mattia Preti
+6563x8751	Public domain	File:Preti, Mattia - St. Paul the Hermit - c. 1656-1660.jpg	| 
+1379x1751	Public domain	File:Dolci Saint Paul the hermit.jpg	| 
+1432x1800	Public domain	File:Jusepe de Ribera - Saint Paul the Hermit - Walters 37278.jpg	| Paul the Hermit was a 3rd-century saint who escaped persecution by retreating to the Egyptian desert, where he lived in continual meditation
+4658x6000	Public domain	File:Saints Presenting a Devout Woman to the Virgin and Child - Pittoni.jpg	| 
+3852x4777	Public domain	File:Mattia Preti - Saint Paul the Hermit - Google Art Project.jpg	| 
+2401x2295	Public domain	File:Mattia Preti - The Martyrdom of Saint Paul - Google Art Project.jpg	| 
+2741x3019	CC BY 4.0	File:Saint Antony the Great and Saint Paul the Hermit. Engraving Wellcome V0033162.jpg	| Saint Antony the Great and Saint Paul the Hermit. Engraving by C. Mellan. Iconographic Collections Keywords: Claude Mellan
+2256x3106	CC BY 4.0	File:Saint Antony the Great and Saint Paul the Hermit. Engraving Wellcome V0033163.jpg	| Saint Antony the Great and Saint Paul the Hermit. Engraving by C. Mellan. Iconographic Collections Keywords: Claude Mellan
+2617x3243	CC BY 4.0	File:Saint Paul the Hermit and Saint Antony the Great with other Wellcome V0033165.jpg	| The death of Saint Gunther von Niederalteich: he receives the eucharist from Šebíř (Severus) bishop of Prague. Engraving by R. Sadeler. Sade
+2291x3113	CC BY 4.0	File:Saint Paul, the first hermit Engraving by Wellcome V0033537.jpg	| Saint Paul the Hermit. Engraving by P. Trière, 1797, after A. Esteve after J. Ribera. Iconographic Collections
+2361x3224	CC BY 4.0	File:Saint Antony Abbot with Saint Paul the Hermit. Lithograph by Wellcome V0033573.jpg	| Saint Antony Abbot with Saint Paul the Hermit. Lithograph by F. Blanchar after J. de Madrazo after D.R. de Silva Velazquez. Iconographic Col
+2047x1013	CC BY-SA 4.0	File:Order of St Paul the Hermit monastery St Lawrence in Buda 1300s IMG 9984 BudHistMus.JPG	| This part of a column capitel once stood as a part of the Monastery to Saint Lawrence of the Order of Saint Paul the Hermit , in Buda (Budap
+2683x3502	Public domain	File:St Paul the Hermit - Nationalmuseum - 18499.tif	| 
+4820x5900	Public domain	File:Accademia - Saint Anthony abbot and saint Paul hermit by Giovanni Girolamo Savoldo cat328.jpg	| 
+3200x3058	Public domain	File:Mattia Preti - The Martyrdom of Saint Paul - 69.17 - Museum of Fine Arts.jpg	| 
+4056x5500	Public domain	File:Mattia Preti - Saint Paul the Hermit - 1969.109 - Cleveland Museum of Art.tiff	| 
+1228x1818	CC BY-SA 2.0	File:Saint Paul the Hermit.jpg	| Andrea Bergondi — San Paolo Primo Eremita (1772)
+7572x9957	CC0	File:Cave Church of Saint Paul, Monastery of Saint Paul - Narthex, Saints Sarapion, Anthony, and Paul the Hermit - MSBZ004 B77 - Dumbarton Oaks.jpg	| 
+7449x9953	CC0	File:Cave Church of Saint Paul, Monastery of Saint Paul - Narthex, Saints Sarapion, Anthony, and Paul the Hermit - MSBZ004 B84 - Dumbarton Oaks.jpg	| 
+8060x10145	CC0	File:Saint Paul Monastery Library manuscripts, Egypt - Page of unidentified Coptic manuscript with Saint Paul the Hermit illustration - MSBZ004 B117 - Dumbarton Oaks.jpg	| 
+1904x2362	CC0	File:Saint Paul Monastery Library manuscripts, Egypt - Page of unidentified Coptic manuscript with Saint Paul the Hermit illustration - MSBZ004-B122 - Dumbarton Oaks.jpg	| 
+7484x9881	CC0	File:Icon of Saint Paul the Hermit, Monastery of Saint Paul, Egypt - MSBZ004 B31 - Dumbarton Oaks.jpg	| 
+5133x6451	PDM-owner	File:Hermit Saint (Paul the Hermit?) (SM 2492).png	| depiction of a saint · man · prayer · apparition · vision · age · deprivation · penitence · wasteland · night · message · fear · reading · s
+1693x1684	CC BY 4.0	File:Saint Paul, the first hermit Engraving by Wellcome V0033537 (cropped).jpg	| Saint Paul the Hermit. Engraving by P. Trière, 1797, after A. Esteve after J. Ribera. Iconographic Collections
+1400x978	Public domain	File:Ribera - Saint Paul the Hermit, c. 1640, MM.75.01.jpg	| Saint Paul the Hermit
+1925x2397	Public domain	File:Jodocus van Hamme - Saint Paul the Hermit and Anthony Abbot.jpg	| 
+5578x4847	CC0	File:An Angel Blowing a Trumpet (recto); The Virgin and Child with Kneeling Saints (verso), by Mattia Preti (Getty 108GXR).jpg	| 
+1000x956	Public domain	File:Mattia Preti (1613-1699) - The Martyrdom of Saint Paul.jpg	| Mattia Preti (1613-1699) - The Martyrdom of Saint Paul.
+### Saint Paul Serodine
+1011x650	Public domain	File:Giovanni Serodine - Parting of Sts Peter and Paul Led to Martyrdom - WGA21163.jpg	| 
+1135x1500	Public domain	File:Recueil d'estampes d'après les plus beaux tableaux et d'après les plus beaux desseins qui sont en France , dans le Cabinet du roy, dans celuy de Monseigneur le duc d'Orléans (IA gri 33125008509784).pdf	| 2 v. : 55 cm Plates engraved by Chereau, Surugue, Edelinck, Valée, Simonneau, Cochin, Tardieu, Le Sueur, et al. after paintings by Raphael, 
+### Saint Paul Batoni
+2452x3435	CC BY 2.5	File:Front of the Basilica of Saint Paul Outside the Walls - Roma - Italy.jpg	| Facciata della Basilica di San Paolo fuori le Mura a Roma.
+1937x2334	CC BY-SA 3.0	File:Statue of Saint Paul, Damascus.jpg	| Statue of Saint Paul at Bab Kisan, Damascus, Syria. Statue of Paul as he was struck down by the light, on the road to Damascus (Acts 9:3). T
+3782x2816	CC BY-SA 3.0	File:Eglise Saint-Pierre-Saint-Paul Rueil-Malmaison.jpg	| Saint-Pierre-Saint-Paul church (i.e. Saints Peter and Paul church) in Rueil-Malmaison (Hauts-de-Seine, France)
+2592x3888	CC BY-SA 3.0	File:Paris Saint-Paul-Saint-Louis885.JPG	| Kirche St-Paul-St-Louis in Paris, gesehen von der rue des jardins Saint-Paul
+4592x3056	CC0	File:Gate saint paul Rhodes.jpg	| The "Saint-Paul Gate" in Rhodes, Greece.
+5540x3927	CC BY-SA 3.0	File:Martyrdom of Saint Paul parish church Kastelruth.jpg	| Painting of martyrdom of Saint Paul in the Parish church of Kastelruth around 1899 - on the left polychromed wooden baroque sculpture of Sai
+4484x3164	CC0	File:Church Saint Peter Saint Paul, inside, Oberammergau, Bavaria, Germany.jpg	| Interior of the church Saint-Peter Saint-Paul, Oberammergau, Bavaria, Germany.
+7978x6910	CC BY-SA 3.0	File:Saint-Paul-Saint-Louis Church Interior 1, Paris, France.jpg	| The interior of Saint-Paul-Saint-Louis Church in Paris, France
+1632x2428	CC BY-SA 4.0	File:La Roche-Mabile - Église Saint-Pierre-et-Saint-Paul - 6.jpg	| Saint-Peter-and-Saint-Paul's church in La Roche-Mabile (Orne, Normandie, France).
+5434x3847	CC BY-SA 4.0	File:Statue and Colonnade of Saint Paul in Rome.jpg	| Statue and Colonnade of Saint Paul in Rome
+3963x5684	CC BY-SA 4.0	File:Statue of Saint Paul in Rome.jpg	| Statue of Saint Paul in Rome
+6016x4000	CC BY-SA 4.0	File:Colonnade and sky of Saint Paul (Rome).JPG	| Colonnades of and sky above Basilica of Saint Paul Outside the Walls (Rome, Italy).
+3187x4027	CC BY-SA 4.0	File:Cathédrale Saint-Étienne de Toulouse - Saint Paul ressuscitant Eutyque par Jacques François Courtin PM31001406.jpg	| 
+4820x5900	Public domain	File:Accademia - Saint Anthony abbot and saint Paul hermit by Giovanni Girolamo Savoldo cat328.jpg	| 
+4155x5321	CC BY-SA 4.0	File:Facade of San Francesco della Vigna (Venice) Saint Paul by Tiziano Aspetti.jpg	| San Francesco della Vigna, in Venice, facade by Andrea Palladio. St. Paul by Tiziano Aspetti.
+3456x4608	CC BY-SA 4.0	File:Strasbourg Église Saint-Paul de 1310996.jpg	| Église Saint-Paul de Strasbourg
+5504x8256	Public domain	File:Augustins - Saint Paul - Maître de Rieux RA 555 C.jpg	| 
+4172x6119	CC BY-SA 3.0	File:Saint Paul. Detail of the mosaic in Arian Baptistery. Ravenna, Italy.jpg	| Saint Paul. Detail of the mosaic in Arian Baptistery. Ravenna, Italy
+2925x4758	CC BY-SA 4.0	File:Saint Paul church in Nimes 06.jpg	| Portal of the Saint Paul church in Nîmes, Gard, France This building is classé au titre des monuments historiques de la France. It is indexe
+3024x3024	CC BY-SA 4.0	File:Église Saint-Paul de Saint-Paul-sur-Save.jpg	| Église Saint-Paul de Saint-Paul-sur-Montaigut
+14486x11677	CC BY-SA 4.0	File:Nave, looking East, Church of St Peter and St Paul, East Harling.jpg	| Nave, looking east. Church of St Peter and St Paul, East Harling. .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:coll
+8661x11891	CC BY-SA 4.0	File:Nave, looking West, Church of St Peter and St Paul, East Harling.jpg	| Nave, looking west. Church of St Peter and St Paul, East Harling. .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:coll
+1014x1200	Public domain	File:Pompeo Batoni (1708-1787) - Saint Paul - 266911 - National Trust.jpg	| 
+3556x4443	Public domain	File:(Albi) Saint Paul (copie) - Georges de La Tour - MTL inv.165.jpg	| 
+1664x1800	CC BY-SA 4.0	File:Lille Eglise Saint-André, haut-relief Saint Paul IA59001592.jpg	| This object is inscrit Monument Historique in the base Palissy, database of the French furniture patrimony of the French ministry of culture
+4804x8156	CC BY 4.0	File:Baldachin of Saint Paul Outside the Walls.jpg	| baldachin of Saint Paul Outside the Walls
+3648x4000	CC BY-SA 4.0	File:Cathédrale Saint-Paul-Aurélien - intérieur - orgue (Saint-Pol-de-Léon).jpg	| Organ of the Saint-Paul-Aurélien Cathedral in Saint-Pol-de-Léon (Côtes-d'Armor, France).
+5400x5960	CC BY 4.0	File:Saint Peter and Saint Paul - Jusepe de Ribera.jpg	| Saint Peter and Saint Paul - Jusepe de Ribera
+5707x7982	CC BY-SA 4.0	File:(Auch) Cathédrale Sainte-Marie d'Auch - Chapelle Saint-Jean-Baptiste - Saint Vincent de Paul avec deux religieuses.jpg	| 
+4358x2811	CC0	File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg	| Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade
+### Saint Paul apostle oil painting museum
+1631x1905	Public domain	File:Selfportrait as Saint Paul, by Rembrandt.jpg	| 
+1000x1186	Public domain	File:Eustache Le Sueur - The Preaching of St Paul at Ephesus - WGA12613.jpg	| 
+1200x773	Public domain	File:Laurent de La Hyre's Saint Paul Shipwrecked on Malta.jpg	| Acts 28:1-6 is illustrated showing Paul being perceived by the Malta inhabitants as a God.
+2775x2121	Public domain	File:'The Apostle Paul on the Island of Melit' by Jan Miense Molenaer, Pushkin Museum.JPG	| 
+6984x9250	Public domain	File:Anthony van Dyck - The Apostle Simon - 85.PB.99 - J. Paul Getty Museum.jpg	| 
+3674x4047	Public domain	File:Apostle Paul (Jan Lievens) - Nationalmuseum - 132629.tif	| New acquisition, September 2012 Painting of St Paul by Jan Lievens Nationalmuseum's extensive collection of Dutch old masters has been enric
+1879x3727	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.4.bw.R.jpg	| 
+1740x3536	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.3.bw.R.jpg	| 
+1742x3581	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.2.bw.R.jpg	| 
+1811x3689	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.5.bw.R.jpg	| 
+1760x3635	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.7.bw.R.jpg	| 
+1789x3615	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.8.bw.R.jpg	| 
+1705x3606	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.6.bw.R.jpg	| 
+1657x3495	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.10.bw.R.jpg	| 
+1756x3619	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.9.bw.R.jpg	| 
+1796x3605	CC0	File:The Twelve Apostles- Saints Bartholomew, Andrew, Matthew, James the Greater, Thaddeus, Philip, James the Lesser, Simon, Peter, Paul, Thomas, and John MET ep27.39.11.bw.R.jpg	| 
+3123x3708	CC0	File:The Holy Family with Saint Paul and a Donor MET DT241494.jpg	| Holy Family
+6980x5084	Public domain	File:Beaux-Arts de Carcassonne - La séparation de Saint Pierre et de Saint Paul 1671 - Giovanni Lanfranco 106x144.jpg	| 
+1200x936	Public domain	File:Peter Paul Rubens (1577-1640) - Conversion of Saint Paul - P.1978.PG.357 - Courtauld Gallery.jpg	| Conversion of Paul the Apostle
+3312x4000	Public domain	File:Johann Carl Loth - Saint Paul - M.Ob.2032 - National Museum in Warsaw.jpg	| 
+2318x2500	Public domain	File:Konrad Krzyżanowski - Apostles Peter and Paul, sketch - MP 32 MNW - National Museum in Warsaw.jpg	| 
+1751x2400	Public domain	File:Peter Paul Rubens - Saint Paul - 1997.32 - Fogg Museum.jpg	| 
+2159x3000	Public domain	File:Ukjent kunstner - Painting - NG.M.01659 - National Museum of Art, Architecture and Design.jpg	| 
+1699x1963	CC BY-SA 4.0	File:The portrait of James the Less, the Apostle.jpg	| Апостол Яків син Алфеїв. Музей образотворчого мистецтва. Будапешт
+1104x1500	Public domain	File:Anthony van Dyck - The Apostle Saint Paul.jpg	| 
+5400x5960	CC BY 4.0	File:Saint Peter and Saint Paul - Jusepe de Ribera.jpg	| Saint Peter and Saint Paul - Jusepe de Ribera
+### Saint Paul Bartolomeo Montagna OR Masaccio OR Fra Bartolomeo
+1576x1877	Public domain	File:Fra Bartolomeo 004.jpg	| Au centre, représentation de la Vierge à l'Enfant sur un nuage porté par des anges. Auteur d'eux, présence de cinq saints avec leurs différe
+1307x2088	Public domain	File:Fra bartolomeo, giobbe.jpg	| 
+2346x4226	Public domain	File:Masaccio. Madonna and Child. 1426. National Gallery, London.jpg	| Madonna and Child
+2370x2954	Public domain	File:Fra Bartolomeo - Holy Family with St John - Google Art Project.jpg	| 
+2713x6001	Public domain	File:Bartolomeo Montagna - Saint Paul - Google Art Project.jpg	| 
+1532x3076	CC BY 3.0	File:Bartolomeo montagna, san paolo, 1482, 01.JPG	| 
+2120x3420	CC BY 3.0	File:Bartolomeo montagna, san paolo, 1482, 02.JPG	| 
+1401x1764	Public domain	File:Fra Bartolomeo - Vierge à l'enfant.jpg	| Vierge à l'enfant de Baccio della Porta dit Fra Bartolomeo, 1er quart 16e siècle
+4320x3850	CC BY-SA 4.0	File:Effige Tommaso di ser Giovanni di Mone Cassai (Masaccio).jpg	| Effige Tommaso di ser Giovanni di Mone Cassai (Masaccio) sulla facciata di Casa Masaccio (San Giovanni Valdarno)
+3000x2925	Public domain	File:Baccio della Porta, gen. Fra Bartolomeo, Kunsthistorisches Museum Wien, Gemäldegalerie - Darbringung Christi im Tempel - GG 207 - Kunsthistorisches Museum.jpg	| Presentation of Jesus at the Temple
+3144x4000	Public domain	File:Fra Bartolomeo - Cristo benedicente, 421.jpg	| Cristo benedicente
+1200x948	Public domain	File:Fra Bartolomeo - compianto sul Cristo morto, 1175443.jpg	| compianto sul Cristo morto
+5543x2004	CC BY-SA 4.0	File:Masaccio, Crucifixion of St Peter and Decapitation of St John the Baptist, predella panel of the altar for St Maria del Carmine, Pisa, c1426, Berlin, Gemäldegalerie.jpg	| Masaccio, The Crucifixion of Saint Peter and the Decapitation of Saint John the Baptist, predella panel of the altar for St Maria del Carmin
+5770x2252	CC BY-SA 4.0	File:Masaccio, Adoration of the Magi, predella panel of the altar for St Maria del Carmine, Pisa, c1426, Berlin, Gemäldegalerie.jpg	| Masaccio, Adoration of the Magi, predella panel of the altar for St Maria del Carmine, Pisa, c1426, Berlin, Gemäldegalerie
+5153x3698	CC BY-SA 4.0	File:Masaccio, Crucifixion of St Peter, predella of the altar for St Maria del Carmine, Pisa, c1426, tempera, Berlin, Gemäldegalerie.jpg	| Masaccio, Crucifixion of St Peter, part of a predella panel of the altar for St Maria del Carmine, Pisa, so-called Pisa Altarpiece, c. 1426,
+5900x2308	CC BY-SA 4.0	File:Masaccio, Murder of the Elders of St Julian and Legend of the Virgins by St Nicholas, predella panel of the altar for St Maria del Carmine, Pisa, c1426, Berlin, Gemäldegalerie.jpg	| Masaccio: Murder of the Elders of St Julian and Legend of the Virgins by St Nicholas, predella panel of the altarpiece for St Maria del Carm
+5057x9504	CC BY 4.0	File:03 2015 Basilica di Santa Maria del Carmine (Firenze)-Cappella Brancacci-Adamo Eva Cacciata Paradiso terrestre-Masaccio- Photo Paolo Villa FOTO9202 tris.jpg	| 
+3092x4515	CC0	File:Three Studies of Trees, by Fra Bartolomeo (Getty 108GXN).jpg	| 
+7241x5725	CC0	File:Heads of Two Dominican Friars, by Fra Bartolomeo (Getty 109NES).jpg	| 
+5592x5580	CC BY 4.0	File:Holy Family with child St. John - Fra Bartolomeo.jpg	| Holy Family with child St. John - Fra Bartolomeo
+3648x2736	CC BY-SA 4.0	File:Via Masaccio 218.jpg	| Via Masaccio (Florence)
+2816x2112	CC BY-SA 4.0	File:Via fra bartolomeo 04 graffiti.jpg	| Via Fra Bartolomeo (Florence)
+2816x2112	CC BY-SA 4.0	File:Via fra bartolomeo 01.jpg	| Via Fra Bartolomeo (Florence)
+2112x2816	CC BY-SA 4.0	File:Via fra bartolomeo 02.jpg	| Via Fra Bartolomeo (Florence)
+2000x2416	Public domain	File:Vafflard - Masaccio.jpg	| Pierre-Auguste Vafflard, "The Death of Masaccio", vers 1820 ?
+### Saint Paul van Dyck OR Jordaens
+3414x4589	Public domain	File:Anthonis van Dyck 084.jpg	| 
+2242x3314	Public domain	File:Fierens-Gevaert - Jordaens, Laurens.djvu	| Jordaens
+2099x2760	Public domain	File:Dyck Apostel Paulus@Nieders. Landesmuseum20160811.JPG	| Das Schwert an der rechten Schulter soll ein Hinweis auf seinen Märtyrertod in Rom sein.
+1533x2038	CC BY 4.0	File:Kunsthistorisches Museum Wien, Anthony van Dyck, Maria mit Kind und den Hl. Rosalia, Petrus und Paulus.JPG	| Vienna, Museum of Art History, Anthony van Dyck, Mary with child, St.Rosalia, Pieter and Paul
+1091x1425	Public domain	File:Jacob Jordaens - Zelfportret - Autoportrait - Fonds Generet - Koning Boudewijnstichting - Fondation Roi Baudouin.jpg	| 
+3930x6394	CC0	File:Jacob Jordaens - The Conversion of Saul with Horseman and Banner - 1954.366 - Cleveland Museum of Art.tif	| According to the Bible, in the year following the death of Jesus Christ, Saul of Tarsus (who became Saint Paul) was on the road to Damascus.
+4050x6406	CC0	File:Jacob Jordaens - The Conversion of Saul with Christ and the Cross - 1954.367 - Cleveland Museum of Art.tif	| 
+1920x1361	Public domain	File:Jacob Jordaens (I) - Paulus en Barnabas te Lystra (Hand.14-16-18) - ГЭ-491 - Hermitage Museum.jpg	| 
+4290x5868	CC0	File:Portret van Jacob Jordaens, RP-P-OB-7895.jpg	| IdentificatieTitel(s): Portret van Jacob JordaensObjecttype: prent Objectnummer: RP-P-OB-7895Catalogusreferentie: Hollstein Dutch 108-1(5). 
+4868x6498	CC0	File:Portret van Jacob Jordaens, RP-P-1940-1514.jpg	| IdentificatieTitel(s): Portret van Jacob JordaensObjecttype: prent Objectnummer: RP-P-1940-1514Catalogusreferentie: Hollstein Dutch 108-3(5)
+4612x6482	CC0	File:Portret van Jacob Jordaens, RP-P-OB-7896.jpg	| IdentificatieTitel(s): Portret van Jacob JordaensObjecttype: prent Objectnummer: RP-P-OB-7896Catalogusreferentie: Hollstein Dutch 108-4(5). 
+4650x6542	CC0	File:Portret van Jacob Jordaens, RP-P-1907-417.jpg	| IdentificatieTitel(s): Portret van Jacob JordaensObjecttype: prent Objectnummer: RP-P-1907-417Catalogusreferentie: Hollstein Dutch 108-5(5).
+2938x2783	CC BY-SA 4.0	File:El bufón, la mujer y el gato a la ventana (Jacob Jordaens).jpg	| Colección privada. Jacob Jordaens (1641-1645). óleo sobre lienzo.
+1111x1493	Public domain	File:Anthonis van Dyck, Kunsthistorisches Museum Wien, Gemäldegalerie - Maria mit Kind und den Hll. Rosalia, Petrus und Paulus - GG 482 - Kunsthistorisches Museum.jpg	| 
+1281x1787	Public domain	File:Jacob Jordaens, his life and work (IA cu31924032185963).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
+1039x1600	Public domain	File:Jacob Jordaens (IA jstor-20538036).pdf	| "Jacob Jordaens" is an article from &lt;a href="/search.php?query=collection%3Ajstor_illumagaart%20AND%20volume%3A2" rel="nofollow"&gt;The I
+4407x5432	CC BY-SA 4.0	File:Den Haag - Mauritshuis - Jacob Jordaens (1593-1678) - The Adoration of the Shepherds c. 1617.jpg	| Den Haag - Mauritshuis - Jacob Jordaens (1593-1678) - The Adoration of the Shepherds c. 1617 - RAW Developing by DxO Photolab 4
+1974x1563	CC BY-SA 4.0	File:La adoración de los Reyes, Jacob Jordaens.jpg	| Catedral de Sevilla. Pintura, óleo sobre lienzo, de Jacob Jordaens (1669).
+1146x828	Public domain	File:Jacob Jordaens - Conversion of St Paul.jpg	| 
+2700x3600	CC BY 4.0	File:Jacob Jordaens statue Antwerp.jpg	| Statue of artist Jacob Jordaens in Antwerp, Belgium
+3264x4928	CC BY-SA 4.0	File:Jordaens birthplace.jpg	| Maison de naissance de Jacques Jordaens, Hoogstraat à Anvers
+3838x2746	CC0	File:Binnenplein van het huis van Jacob Jordaens, RP-P-OB-49.202.jpg	| IdentificatieTitel(s): Binnenplein van het huis van Jacques JordaensObjecttype: prent boekillustratie Objectnummer: RP-P-OB-49.202Catalogusr
+5577x4494	CC BY 4.0	File:Pêche miraculeuse - Jacob Jordaens.jpg	| Pêche miraculeuse - Jacob Jordaens
+3261x4891	CC BY 4.0	File:Standbeeld Jacob Jordaens.jpg	| Standbeeld van Jacob Jordaens aan de Oever in Antwerpen
+5412x7216	Public domain	File:De schilder Jacob Jordaens (Joseph Pollard, 1891).jpg	| Bust of the painter Jordaens, by Joseph Pollard.
+3500x2765	Public domain	File:Kupferstichkabinett (SMB) Jacob Jordaens 1553678.jpg	| Ausführung: Jacob Jordaens (der Ältere) (1593-1678), Zeichner*in Sammlungstitel: Das Gastmahl der Kleopatra; Übersetzung: Cleopatra about to
+4448x3304	CC BY-SA 4.0	File:Adoración de los Reyes, Jacob Jordaens.jpg	| Capilla de San Antonio, Catedral de Sevilla. Pintura de la Adoración de los Reyes Magos, óleo sobre lienzo, por Jacob Jordaens (1669).
+4258x2899	CC BY-SA 4.0	File:La Circuncisión, Jacob Jordaens.jpg	| Capilla de San Antonio, Catedral de Sevilla. Pintura de Jacob Jordaens (1669)
