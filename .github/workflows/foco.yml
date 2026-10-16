@@ -1,10 +1,8 @@
 name: Foco das imagens (rostos)
 
 # Refina o ponto de corte das imagens procurando rostos e reconstrói o site.
+# Só manual: rodar com --refazer recalcula tudo (os focos marcados à mão ficam preservados).
 on:
-  push:
-    branches: [main]
-    paths: ['scripts/imagens-rosto.py']
   workflow_dispatch: {}
 
 concurrency:
