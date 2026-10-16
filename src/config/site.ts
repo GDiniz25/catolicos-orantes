@@ -146,6 +146,13 @@ export const CATEGORIES: CategoryConfig[] = [
     description: 'Guia para quem quer se tornar católico ou voltar à Igreja: batismo de adulto, crisma, confissão, Missa, comunhão e dúvidas de quem está começando.',
     keywords: 'como se tornar católico, voltar para a igreja, conversão católica, RICA, crisma de adulto, primeira vez na missa',
   },
+  {
+    slug: 'casamento',
+    title: 'Casamento Católico',
+    subtitle: 'Tudo para casar na Igreja: o rito parte por parte, leituras, músicas por momento, símbolos, documentos e padrinhos.',
+    description: 'Guia do casamento católico: rito do matrimônio, leituras e salmos, músicas para cada momento, alianças e símbolos, documentos, curso de noivos e padrinhos.',
+    keywords: 'casamento católico, casamento na igreja, músicas para casamento, leituras para casamento, padrinhos de casamento, documentos para casar na igreja',
+  },
 ];
 
 export const CATEGORY_SLUGS = CATEGORIES.map((c) => c.slug);

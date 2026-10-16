@@ -7,7 +7,7 @@ arq = f'lote-{lote}.json'
 if not os.path.exists(arq): print('arquivo nao existe'); sys.exit(1)
 sai = json.load(open(arq, encoding='utf-8'))
 slugs = set(l.strip() for l in open('_slugs-site.txt') if l.strip())
-cats = {'/'+c for c in ['como-rezar-o-terco','santos-e-oracoes','milagres-eucaristicos','catecismo','liturgia-das-horas','novenas','sacramentos','devocoes-marianas','calendario-liturgico','exame-de-consciencia','oracoes-do-dia-a-dia','documentos-da-igreja','ladainhas','duvidas-da-fe','vida-espiritual','primeiros-passos','liturgia-diaria','santo-do-dia','versiculo-do-dia']}
+cats = {'/'+c for c in ['como-rezar-o-terco','santos-e-oracoes','milagres-eucaristicos','catecismo','liturgia-das-horas','novenas','sacramentos','devocoes-marianas','calendario-liturgico','exame-de-consciencia','oracoes-do-dia-a-dia','documentos-da-igreja','ladainhas','duvidas-da-fe','vida-espiritual','primeiros-passos','casamento','liturgia-diaria','santo-do-dia','versiculo-do-dia']}
 allowed = {'p','h2','h3','ul','ol','li','strong','em','a','table','thead','tbody','tr','th','td','blockquote','br'}
 errs = []
 feitos = {a['slug'] for a in sai}

@@ -238,6 +238,7 @@ const PADRAO_CATEGORIA = {
   'duvidas-da-fe': ['Christ teaching painting'],
   'vida-espiritual': ['Saint in prayer painting'],
   'primeiros-passos': ['Return of the Prodigal Son Rembrandt'],
+  casamento: ['Marriage of the Virgin painting', 'Wedding at Cana painting'],
 };
 
 /** Outras buscas para temas muito usados: aumentam o número de pinturas diferentes */

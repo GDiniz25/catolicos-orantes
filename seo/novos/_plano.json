@@ -1795,5 +1795,309 @@
    "painel": "https://www.miracolieucaristici.org/pr/Liste/scheda_b.html?nat=svizzera&wh=ettiswil",
    "arquivo_catalogo": "/home/claude/catalogo/catalogo/svizzera__ettiswil.txt"
   }
+ ],
+ "C1": [
+  {
+   "category": "casamento",
+   "slug": "musicas-para-casamento-catolico",
+   "titulo_sugerido": "Músicas para casamento católico: roteiro por momento",
+   "foco": "Guia mestre por momento do rito (entrada do noivo, padrinhos, damas, noiva, liturgia, alianças, ofertório, comunhão, assinaturas, saída), separando música litúrgica, clássica e popular católica, com critério da Igreja e links para os artigos de cada momento."
+  },
+  {
+   "category": "casamento",
+   "slug": "musicas-entrada-da-noiva",
+   "titulo_sugerido": "Músicas para entrada da noiva na igreja católica",
+   "foco": "As mais citadas (Mendelssohn, Ave Maria de Schubert e de Bach-Gounod, Cânon de Pachelbel, Jesus alegria dos homens etc.), o sentido do momento e as orientações diocesanas."
+  },
+  {
+   "category": "casamento",
+   "slug": "musicas-entrada-do-noivo-e-padrinhos",
+   "titulo_sugerido": "Músicas para entrada do noivo e dos padrinhos",
+   "foco": "Opções citadas pelas fontes para a entrada do noivo, da mãe do noivo e dos padrinhos; instrumental x cantada; tempo de cada entrada."
+  },
+  {
+   "category": "casamento",
+   "slug": "musicas-entrada-damas-e-pajens",
+   "titulo_sugerido": "Músicas para entrada das damas e pajens",
+   "foco": "Entrada das crianças e das alianças: músicas citadas, cuidado com trilhas de filmes (proibidas em várias dioceses), sugestões litúrgicas."
+  },
+  {
+   "category": "casamento",
+   "slug": "musicas-para-aliancas-e-comunhao-no-casamento",
+   "titulo_sugerido": "Músicas para alianças e comunhão no casamento",
+   "foco": "Momentos dentro do rito: entrega das alianças, ofertório, comunhão (se houver Missa); músicas litúrgicas adequadas e por quê."
+  },
+  {
+   "category": "casamento",
+   "slug": "musicas-para-saida-dos-noivos",
+   "titulo_sugerido": "Músicas para saída dos noivos e assinaturas",
+   "foco": "Assinatura dos livros e saída: músicas mais citadas (marchas, Ode à Alegria, Aleluia de Handel) e critério."
+  }
+ ],
+ "C2": [
+  {
+   "category": "casamento",
+   "slug": "musicas-proibidas-no-casamento-na-igreja",
+   "titulo_sugerido": "Músicas proibidas no casamento na igreja: o que vale",
+   "foco": "Musicam Sacram 43, Sacrosanctum Concilium 112-121, normas de Osasco e Ponta Grossa; o que é proibido, o que pode antes/depois do rito; desmentido do suposto decreto de Leão XIV (não há documento)."
+  },
+  {
+   "category": "casamento",
+   "slug": "marcha-nupcial-na-igreja",
+   "titulo_sugerido": "Marcha nupcial na igreja: Mendelssohn, Wagner e regras",
+   "foco": "Origem das duas marchas (Sonho de uma noite de verão; Lohengrin), por que alguns liturgistas desaconselham Wagner, sem afirmar proibição não confirmada."
+  },
+  {
+   "category": "casamento",
+   "slug": "ave-maria-no-casamento",
+   "titulo_sugerido": "Ave Maria no casamento: Schubert ou Gounod?",
+   "foco": "Diferença das duas Ave Maria, origem, em que momento costuma tocar, se é adequada à liturgia (texto da oração mariana; Schubert original era em alemão, Ellens dritter Gesang; versão latina)."
+  },
+  {
+   "category": "casamento",
+   "slug": "coral-ou-musicos-para-casamento-catolico",
+   "titulo_sugerido": "Coral ou músicos para casamento: como escolher",
+   "foco": "Como contratar coral/músicos, ensaio com a equipe de liturgia, repertório aprovado pela paróquia, perguntas a fazer; sem preços inventados."
+  },
+  {
+   "category": "casamento",
+   "slug": "salmo-para-casamento",
+   "titulo_sugerido": "Salmo para casamento: os salmos previstos no Ritual",
+   "foco": "Os salmos responsoriais previstos no Ritual do Matrimônio, por que o salmo é cantado ou proclamado e não trocado por canção, como escolher."
+  }
+ ],
+ "C3": [
+  {
+   "category": "casamento",
+   "slug": "leituras-para-casamento-catolico",
+   "titulo_sugerido": "Leituras para casamento católico: todas as opções",
+   "foco": "Lista de primeiras leituras do Antigo Testamento, segundas leituras e Evangelhos do Ritual (nn. 179 a 222 conforme pesquisa), resumo de cada uma, como escolher, quem pode ler."
+  },
+  {
+   "category": "casamento",
+   "slug": "primeira-leitura-para-casamento",
+   "titulo_sugerido": "Primeira leitura para casamento: Gênesis, Tobias e Cântico",
+   "foco": "Leituras do Antigo Testamento previstas (Gn 1 e 2, Tb, Ct, Eclo, Jr 31...), sentido de cada uma, só referências e paráfrase (citação bíblica curta permitida)."
+  },
+  {
+   "category": "casamento",
+   "slug": "segunda-leitura-para-casamento",
+   "titulo_sugerido": "Segunda leitura para casamento: Paulo, Pedro e João",
+   "foco": "Leituras do Novo Testamento previstas (Rm 8, Rm 12, 1Cor 6, 1Cor 12-13, Ef 5, Cl 3, 1Pd 3, 1Jo 3 e 4, Ap 19), sentido de cada uma."
+  },
+  {
+   "category": "casamento",
+   "slug": "1-corintios-13-no-casamento",
+   "titulo_sugerido": "1 Coríntios 13 no casamento: o hino ao amor",
+   "foco": "A leitura mais escolhida: contexto, explicação versículo por versículo, como proclamar, cuidado com versões; citação bíblica permitida."
+  },
+  {
+   "category": "casamento",
+   "slug": "evangelho-para-casamento-catolico",
+   "titulo_sugerido": "Evangelho para casamento: as opções do Ritual",
+   "foco": "Evangelhos previstos (Mt 5, Mt 7, Mt 19, Mt 22, Mc 10, Jo 2 Bodas de Caná, Jo 15, Jo 17), sentido e quem proclama (só o diácono ou padre)."
+  },
+  {
+   "category": "casamento",
+   "slug": "como-ler-na-missa-de-casamento",
+   "titulo_sugerido": "Como ler bem a leitura no casamento: dicas",
+   "foco": "Quem pode ser leitor, preparação, ritmo, ambão, aclamações finais, erros comuns; prático."
+  },
+  {
+   "category": "casamento",
+   "slug": "oracao-dos-fieis-para-casamento",
+   "titulo_sugerido": "Oração dos fiéis para casamento: modelos e como fazer",
+   "foco": "O que é a oração universal, estrutura, modelos de preces escritos como sugestão (marcados), quem lê."
+  }
+ ],
+ "C4": [
+  {
+   "category": "casamento",
+   "slug": "rito-do-matrimonio-passo-a-passo",
+   "titulo_sugerido": "Rito do Matrimônio: a cerimônia católica parte por parte",
+   "foco": "Sequência oficial com Missa e sem Missa (segunda edição típica), cada parte explicada."
+  },
+  {
+   "category": "casamento",
+   "slug": "casamento-com-missa-ou-sem-missa",
+   "titulo_sugerido": "Casamento com Missa ou sem Missa: o que muda",
+   "foco": "CIC 1621, comunhão, casos mistos, duração, como decidir."
+  },
+  {
+   "category": "casamento",
+   "slug": "votos-de-casamento-catolico",
+   "titulo_sugerido": "Votos de casamento católico: o consentimento",
+   "foco": "Interrogações, consentimento e recepção; por que não se trocam votos personalizados dentro do rito (onde cabe a mensagem pessoal); paráfrase da fórmula, sem copiar o Ritual brasileiro."
+  },
+  {
+   "category": "casamento",
+   "slug": "bencao-nupcial",
+   "titulo_sugerido": "Bênção nupcial: o que é e quando acontece",
+   "foco": "Lugar após o Pai-Nosso na Missa, sentido, fórmulas (sem reproduzir), casos em que pode ser dada fora da Missa."
+  },
+  {
+   "category": "casamento",
+   "slug": "ordem-de-entrada-no-casamento-catolico",
+   "titulo_sugerido": "Ordem de entrada no casamento católico",
+   "foco": "Formas de entrada previstas no Ritual (procissão com ministros e noivos) x cortejo de costume (padrinhos, pais, damas, noiva com o pai); variações."
+  },
+  {
+   "category": "casamento",
+   "slug": "quanto-tempo-dura-o-casamento-na-igreja",
+   "titulo_sugerido": "Quanto tempo dura o casamento na igreja",
+   "foco": "Duração típica com e sem Missa (sem números inventados: dar faixas só se a fonte disser), o que alonga, pontualidade e tempo reservado pela paróquia."
+  }
+ ],
+ "C5": [
+  {
+   "category": "casamento",
+   "slug": "simbolos-do-casamento-catolico",
+   "titulo_sugerido": "Símbolos do casamento católico: significado de cada um",
+   "foco": "Hub: alianças, véu, vestido, buquê, arras, laço, velas, padrinhos; separa rito e costume."
+  },
+  {
+   "category": "casamento",
+   "slug": "aliancas-de-casamento-significado",
+   "titulo_sugerido": "Alianças de casamento: significado e bênção",
+   "foco": "Fórmula da entrega (paráfrase), história documentada, mito da veia do amor tratado como lenda, mão direita/esquerda no Brasil como costume."
+  },
+  {
+   "category": "casamento",
+   "slug": "veu-de-noiva-significado",
+   "titulo_sugerido": "Véu de noiva: significado na tradição católica",
+   "foco": "Velação no rito antigo e na tradição, véu como acessório hoje, o que é costume."
+  },
+  {
+   "category": "casamento",
+   "slug": "arras-laco-e-velas-no-casamento",
+   "titulo_sugerido": "Arras, laço e velas no casamento: liturgia ou costume",
+   "foco": "O que é rito aprovado (adaptações hispânicas/EUA) e o que não é no Brasil; como pedir à paróquia."
+  },
+  {
+   "category": "casamento",
+   "slug": "vestido-de-noiva-na-igreja",
+   "titulo_sugerido": "Vestido de noiva na igreja: o que a Igreja pede",
+   "foco": "Modéstia e dignidade como orientação, origem do branco como costume (rainha Vitória só se confirmado), o que paróquias costumam pedir; sem regras inventadas."
+  },
+  {
+   "category": "casamento",
+   "slug": "bodas-de-cana-e-o-casamento",
+   "titulo_sugerido": "Bodas de Caná: o que ensinam sobre o casamento",
+   "foco": "Jo 2,1-11, sentido para o matrimônio (CIC 1613), Maria intercessora, aplicação para os noivos."
+  }
+ ],
+ "C6": [
+  {
+   "category": "casamento",
+   "slug": "documentos-para-casamento-na-igreja",
+   "titulo_sugerido": "Documentos para casamento na Igreja Católica: lista",
+   "foco": "Lista da CNBB (certidão de batismo com até 6 meses, habilitação civil etc.), o que varia, viúvos, quem mora em outra paróquia."
+  },
+  {
+   "category": "casamento",
+   "slug": "como-marcar-casamento-na-igreja",
+   "titulo_sugerido": "Como marcar casamento na igreja: passo a passo",
+   "foco": "Da escolha da paróquia à cerimônia, prazos (3 meses mínimo em várias dioceses), entrevista, curso, ensaio."
+  },
+  {
+   "category": "casamento",
+   "slug": "curso-de-noivos",
+   "titulo_sugerido": "Curso de noivos católico: como funciona",
+   "foco": "O que é, conteúdo, formatos, duração variável, onde fazer, se online vale (depende da diocese)."
+  },
+  {
+   "category": "casamento",
+   "slug": "padrinhos-de-casamento-na-igreja",
+   "titulo_sugerido": "Padrinhos de casamento na Igreja: quantos e quem",
+   "foco": "Testemunhas (cân. 1108, duas), padrinhos como costume, quem pode, limite por paróquia, casais."
+  },
+  {
+   "category": "casamento",
+   "slug": "proclamas-de-casamento",
+   "titulo_sugerido": "Proclamas de casamento: o que são",
+   "foco": "Cân. 1067 e 1069, regra da CNBB, onde se publicam, para que servem."
+  },
+  {
+   "category": "casamento",
+   "slug": "habilitacao-matrimonial",
+   "titulo_sugerido": "Habilitação matrimonial: o processo na paróquia",
+   "foco": "Entrevista separada, formulário, impedimentos (cân. 1083 a 1094 em linhas gerais), liberdade."
+  },
+  {
+   "category": "casamento",
+   "slug": "crisma-para-casar",
+   "titulo_sugerido": "Crisma para casar: é obrigatória?",
+   "foco": "Cân. 1065 (recomendado se possível sem grave incômodo), prática diocesana, primeira comunhão."
+  },
+  {
+   "category": "casamento",
+   "slug": "certidao-de-batismo-para-casamento",
+   "titulo_sugerido": "Certidão de batismo para casamento: como pedir",
+   "foco": "Validade de 6 meses, anotações à margem, pedir na paróquia do batismo, batizado em outra cidade."
+  }
+ ],
+ "C7": [
+  {
+   "category": "casamento",
+   "slug": "casamento-religioso-com-efeito-civil",
+   "titulo_sugerido": "Casamento religioso com efeito civil: como fazer",
+   "foco": "CC 1.515 e 1.516, habilitação no cartório, prazo de 90 dias para registro, Lei 6.015 (indicar divergência e conferir com cartório)."
+  },
+  {
+   "category": "casamento",
+   "slug": "casamento-comunitario-na-igreja",
+   "titulo_sugerido": "Casamento comunitário na Igreja: como participar",
+   "foco": "O que é, requisitos iguais, como encontrar, vantagens; sem datas inventadas."
+  },
+  {
+   "category": "casamento",
+   "slug": "quanto-custa-casar-na-igreja",
+   "titulo_sugerido": "Quanto custa casar na igreja: taxas e ofertas",
+   "foco": "Por que há taxas (manutenção), o que costuma ser cobrado, sacramento não se compra, sem valores inventados."
+  },
+  {
+   "category": "casamento",
+   "slug": "casar-na-igreja-depois-do-civil",
+   "titulo_sugerido": "Casar na igreja depois de casado no civil",
+   "foco": "Convalidação/regularização: quem já é casado só no civil, documentos, curso; diferença de sanação na raiz (cân. 1161) em linhas gerais."
+  },
+  {
+   "category": "casamento",
+   "slug": "divorciado-pode-casar-na-igreja",
+   "titulo_sugerido": "Divorciado pode casar na igreja? O que diz a Igreja",
+   "foco": "Vínculo indissolúvel, nulidade matrimonial como caminho (sem prometer), viúvo pode casar; acolhimento (Amoris Laetitia) com cuidado."
+  },
+  {
+   "category": "casamento",
+   "slug": "casamento-no-advento-e-na-quaresma",
+   "titulo_sugerido": "Casamento na Quaresma e no Advento: pode?",
+   "foco": "O que a Igreja permite (Ritual: em tempo penitencial, sobriedade; proibição no Tríduo e Semana Santa conforme normas), confirmar fontes."
+  }
+ ],
+ "C8": [
+  {
+   "category": "casamento",
+   "slug": "casar-fora-da-igreja",
+   "titulo_sugerido": "Casamento fora da igreja: quando o bispo permite",
+   "foco": "Cân. 1115 e 1118, normas diocesanas (Osasco, BH), casamento em sítio/praia geralmente não permitido."
+  },
+  {
+   "category": "casamento",
+   "slug": "santo-antonio-casamenteiro",
+   "titulo_sugerido": "Santo Antônio casamenteiro: história e devoção",
+   "foco": "Por que é chamado casamenteiro (tradição popular, origem incerta), simpatias x devoção (simpatias não são católicas), oração a Santo Antônio (tradicional), 13 de junho."
+  },
+  {
+   "category": "casamento",
+   "slug": "santos-padroeiros-dos-casais",
+   "titulo_sugerido": "Santos padroeiros dos noivos e dos casais",
+   "foco": "Santo Antônio, São José, Santos Luís e Zélia Martin, Santa Gianna Beretta Molla, beatos Quattrocchi, São Rafael (Tobias); só fatos confirmados."
+  },
+  {
+   "category": "casamento",
+   "slug": "renovacao-dos-votos-de-casamento",
+   "titulo_sugerido": "Renovação dos votos de casamento na Igreja",
+   "foco": "Bodas de prata e ouro na Igreja, bênção dos casais no aniversário (Ritual de Bênçãos), como pedir; não é novo sacramento."
+  }
  ]
 }

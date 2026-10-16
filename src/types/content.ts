@@ -31,4 +31,5 @@ export type CategorySlug =
   | 'ladainhas'
   | 'duvidas-da-fe'
   | 'vida-espiritual'
-  | 'primeiros-passos';
+  | 'primeiros-passos'
+  | 'casamento';

@@ -179,6 +179,17 @@ export const CATEGORY_CONTENT: Record<string, CategoryContent> = {
       { q: 'Preciso de um diretor espiritual?', a: 'Não é obrigatório, mas a tradição da Igreja o recomenda para quem quer crescer na vida de oração e no discernimento (CIC 2690).' },
     ],
   },
+  casamento: {
+    lead: 'Casamento católico é o sacramento em que um homem e uma mulher batizados se entregam um ao outro para toda a vida diante de Deus e da Igreja. Aqui está tudo para preparar o grande dia com fé: o rito, as leituras, as músicas, os símbolos e os passos na paróquia.',
+    intro: `<p>Casar na Igreja começa muito antes da cerimônia: conversa com o padre, documentos, curso de noivos, escolha das leituras e das músicas. Nesta seção cada etapa está explicada com base no <strong>Ritual do Matrimônio</strong>, no Catecismo e no Código de Direito Canônico, separando o que é liturgia do que é costume.</p>
+<p>As normas práticas, como prazos, taxas e músicas permitidas, variam de diocese para diocese. Por isso os artigos indicam o que é regra da Igreja inteira e o que depende da sua paróquia.</p>
+<p>Para entender o sacramento em profundidade, leia também <a href="/sacramentos/o-sacramento-do-matrimonio-na-igreja-catolica">O Sacramento do Matrimônio na Igreja Católica</a> e <a href="/sacramentos/preparacao-para-o-matrimonio-catolico">Preparação para o Matrimônio católico</a>.</p>`,
+    faq: [
+      { q: 'Com quanto tempo de antecedência devo procurar a paróquia?', a: 'Muitas dioceses pedem no mínimo três meses antes da data, mas o ideal é procurar com seis meses a um ano, por causa da agenda da igreja e do curso de noivos. Confirme a regra na sua paróquia.' },
+      { q: 'Quantos padrinhos são necessários?', a: 'A Igreja exige duas testemunhas (cân. 1108). O número de padrinhos além disso é costume e cada paróquia pode limitar.' },
+      { q: 'Posso escolher qualquer música para o casamento na igreja?', a: 'Não. A música faz parte da liturgia e deve servir à oração. Muitas dioceses proíbem trilhas de filmes, novelas e canções populares dentro do rito. Combine a lista com a paróquia.' },
+    ],
+  },
   'primeiros-passos': {
     lead: 'Primeiros passos na fé é o guia para quem quer se tornar católico ou voltar à Igreja: o que fazer, por onde começar e as respostas para as dúvidas de quem está chegando.',
     intro: `<p>Quem está chegando à Igreja, ou voltando depois de anos, costuma ter as mesmas perguntas: como me batizar adulto, posso comungar, o que faço na Missa, por onde começo a ler a Bíblia, como me confessar depois de tanto tempo. Nesta seção cada pergunta recebe uma <strong>resposta direta e acolhedora</strong>, fiel ao Catecismo e ao Direito Canônico.</p>
