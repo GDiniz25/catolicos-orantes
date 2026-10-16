@@ -33,369 +33,268 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-### Louis-Marie Grignion de Montfort portrait
-2800x4658	Public domain	File:Catalogue général de la librairie française, 1867, tome 19.djvu	| Ed.: v. 1-11 (1840-85) Lorenz ; v. 12-27, D. Jordell ; v. 28- H. Stein
-1087x1552	Public domain	File:Anthologie des poetes bretons du 17e siecle (IA anthologiedespoe00halguoft).pdf	| 26 Subjects: French literature -- Brittany; French poetry -- 17th century; Poets, French
-### Les Ulmes église
-2335x3568	Public domain	File:Schweitzer - J. S. Bach, le musicien-poète.djvu	| Roman pour Wikisource
-1275x1650	Public domain	File:Ulmes - Nice et ses environs.djvu	| Nice et ses environs
-8478x5872	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (012 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8480x5872	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (018 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8481x5871	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (024 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8475x5873	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (028 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8454x5873	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (032 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8574x5871	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (040 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8548x5875	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (047 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8553x5820	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (049 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8342x5869	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (055 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8490x5872	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (065 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8498x5873	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (069 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8499x5874	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (070 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8496x5877	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (081 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8487x5874	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (087 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8492x5871	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (113 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8491x5869	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (114 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-5779x8253	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (119 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8491x5871	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (121 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8490x5872	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (122 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8495x5872	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (123 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8468x5872	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (140 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8495x5879	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (142 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8490x5874	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (154 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8492x5873	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (161 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8490x5875	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (164 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8510x5875	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (165 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8506x5875	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (175 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-8502x5876	Public domain	File:Recueil de lettres et de pièces originales, et de copies de pièces indiquées comme telles dans le dépouillement qui suit. - btv1b90598645 (179 of 180).jpg	| Sujet : Charles IX, roi de France. Pièces et recueils divers. Cour. Nouvelles (XVIe s.). France. Pitorre (François II). François II, roi de 
-### Morne-Rouge église Notre-Dame de la Délivrande
-2448x3264	CC BY-SA 3.0	File:ND Délivrande Morne-Rouge 1.jpg	| Façade de l'église Notre-Dame de la Délivrande du Morne-Rouge
-2296x5491	CC BY-SA 4.0	File:Our Lady church in Arcanhac 03.jpg	| Our Lady church in Arcanhac in commune of La Fouillade, Aveyron, France
-2527x4780	CC BY-SA 4.0	File:Our Lady church in Arcanhac 01.jpg	| Our Lady church in Arcanhac in commune of La Fouillade, Aveyron, France
-2641x4325	CC BY-SA 4.0	File:Our Lady church in Arcanhac 04.jpg	| Our Lady church in Arcanhac in commune of La Fouillade, Aveyron, France
-3487x5085	CC BY-SA 4.0	File:Our Lady church in Arcanhac 06.jpg	| Window of the Our Lady church in Arcanhac in commune of La Fouillade, Aveyron, France
-5536x3782	CC BY-SA 4.0	File:Our Lady church in Rouens (1).jpg	| Our Lady church in Rouens in commune of Saint-Hippolyte, Aveyron, France
-3233x5650	CC BY-SA 4.0	File:Our Lady church in Rouens (3).jpg	| Bell tower of the Our Lady church in Rouens in commune of Saint-Hippolyte, Aveyron, France
-3688x5532	CC BY-SA 4.0	File:Our Lady church in Salgues 07.jpg	| Window of the Our Lady of Mount Carmel church in Salgues, Aveyron, France
-2884x5719	CC BY-SA 4.0	File:Our Lady church in Solsac (1).jpg	| Our Lady of the Assumption church in Solsac, commune of Salles-la-Source, Aveyron, France
-2974x4981	CC BY-SA 4.0	File:Our Lady church in Solsac (2).jpg	| Our Lady of the Assumption church in Solsac, commune of Salles-la-Source, Aveyron, France
-5674x3873	CC BY-SA 4.0	File:Our Lady church in Solsac (8).jpg	| Our Lady of the Assumption church in Solsac, commune of Salles-la-Source, Aveyron, France
-5256x3276	CC BY-SA 4.0	File:Our Lady church in Solsac (9).jpg	| Our Lady of the Assumption church in Solsac, commune of Salles-la-Source, Aveyron, France
-5386x3542	CC BY-SA 4.0	File:Our Lady church in Solsac (10).jpg	| Our Lady of the Assumption church in Solsac, commune of Salles-la-Source, Aveyron, France
-5572x3715	CC BY-SA 4.0	File:Our Lady church in Veilhes 02.jpg	| Our Lady church in Veilhes, Tarn, France
-2932x5253	CC BY-SA 4.0	File:Our Lady church in Algans (2).jpg	| Our Lady of the Assumption church in Algans, Tarn, France
-3179x5102	CC BY-SA 4.0	File:Our Lady church in Blan (3).jpg	| Our Lady church in Blan, Tarn, France
-3058x4604	CC BY-SA 4.0	File:Our Lady church in Lescout (3).jpg	| Portal of the Our Lady church in Lescout, Tarn, France
-4324x3677	CC BY-SA 4.0	File:Our Lady church in Larequille (1).jpg	| Our Lady church in Larequille, Allier, France
-6395x4384	CC BY-SA 4.0	File:Our Lady church in Larequille (7).jpg	| Our Lady church in Larequille, Allier, France
-5443x3637	CC BY-SA 4.0	File:Our Lady church in Peschadoires (1).jpg	| Our Lady church in Peschadoires, Puy-de-Dôme, France
-5472x3932	CC BY-SA 4.0	File:Our Lady church in Buc (4).jpg	| Our Lady church in Buc, commune of Belcastel-et-Buc, Aude, France
-2490x5533	CC BY-SA 4.0	File:Our Lady church in Glassac (2).jpg	| Our Lady church in Glassac, commune of Saint-Christophe-Vallon, Aveuron, France
-5764x3843	CC BY-SA 4.0	File:Our Lady church in Armentieux (1).jpg	| Our Lady church in Armentieux, Gers, France
-3153x5599	CC BY-SA 4.0	File:Our Lady church in Armentieux (4).jpg	| Our Lady church in Armentieux, Gers, France
-5732x3744	CC BY-SA 4.0	File:Our Lady church in Armentieux (6).jpg	| Our Lady church in Armentieux, Gers, France
-3258x5206	CC BY-SA 4.0	File:Our Lady church in Castex (2).jpg	| Our Lady church in Castex, commune of Ladevèze-Ville, Gers, France
-3342x4371	CC BY 4.0	File:Our Lady church in Kiszombor (1).jpg	| Our Lady church in Kiszombor, Csongrád-Csanád County, Hungary
-3622x5032	CC BY 4.0	File:Our Lady church in Kiszombor (4).jpg	| Our Lady church in Kiszombor, Csongrád-Csanád County, Hungary
-### Onil iglesia San Jaime
-1081x1539	Public domain	File:Diccionario geográfico-estadístico-histórico de España y sus posesiones de ultramar (IA diccionariogeogr08mado).pdf	| 26 45 NEW Subjects: Geography
-### Patierno chiesa
-1016x1743	Public domain	File:Claudio Conti - La figlia del marinajo - melodramma tragico in quattro atti - libretto (IA lafigliadelmarin00dari).pdf	| 24 pages ; 19 cm "Personaggi/Attori: DIEGO. Sig. Cetrone'; MARIA. Sig.a Mancusi; FERNANDO. Sig. Parisott; L' ALCADE. Sig. De Giorgio; CARLO.
-1004x1683	Public domain	File:Amilcare Ponchielli - Roderico l'ultimo re dei Goti (IA rodericolultimor00guid).pdf	| 28 pages ; 18 cm Roderico re dei Goti (Guidi, after R. Southey: Roderick)--Grove Music Online Errata on page 3 Includes cast list and stage 
-4382x5414	CC BY-SA 4.0	File:Gazzetta Musicale di Milano, 1867.djvu	| Gazzetta Musicale di Milano, 1867
-1443x1937	Public domain	File:Il Cittadino Italiano n 156-1891 (IA CittadinoItaliano1878-832).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1375x1987	Public domain	File:Il Cittadino Italiano n 205-1882 (IA CittadinoItaliano1884-1529).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1368x1989	Public domain	File:Il Cittadino Italiano n 215-1882 (IA CittadinoItaliano1884-1662).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
-1443x2060	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 236 (1889) (IA IlFriuli 236 1889).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
-4481x5965	CC BY-SA 4.0	File:Gazzetta Musicale di Milano, 1881.djvu	| Gazzetta Musicale di Milano, 1881
-### Silla iglesia Asunción
-2358x3812	Public domain	File:Jorge Thompson - La Guerra del Paraguay.pdf	| Libro: La guerra del Paraguay (Tomo I) : Acompañada de un bosquejo histórico del país, de Jorge Thompson ; Traducción de Diego Lewis y Angel
-1118x1956	Public domain	File:Viver a escape - comedia en tres actos y en verso (IA viverescapecomed00garc 0).pdf	| 82 pages ; 21 cm On cover: El Teatro Imprint on cover: Madrid : A. Gullón, 1877 No. 10, in vol. 107 with binder's title: Teatro Español Borr
-3052x4617	Public domain	File:Recuerdos de provincia (1916).djvu	| 333 p. 19 cm
-3020x4026	Public domain	File:Altar de la Virgen de la Silla, Iglesia de Nuestra Señora de la Asunción (El Barco de Ávila).jpg	| Capilla de la Cofradía del Santísimo Rosario. Altar situado en la cabecera de la nave de la Epístola, con retablo de Juan Gómez (1663-1667) 
-3025x4034	CC BY 4.0	File:Virgen de la Silla, El Barco de Ávila.jpg	| Iglesia Mayor de la Asunción de Nuestra Señora, El Barco de Ávila. Imagen titular de la Cofradía del Santísimo Rosario (1574), bendecida hac
-1275x1652	Public domain	File:Guía de La Paz y breve historia de la ciudad en su cuarto centenario 1548 - 1948.pdf	| Ejemplar perteneciente a la colección de la Fundación Flavio Machicado Viscarra, digitalizado en octubre de 2025 en el marco de una alianza 
-### Tumaco catedral
-### Lanciano miracolo eucaristico reliquia
-### Nhá Chica Baependi
+### cat:Louis de Montfort
+### intitle:Montfort Grignion filetype:bitmap
+2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 01.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 02.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 03.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 04.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 05.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 06.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 07.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 08.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 09.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 10.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 11.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+2048x1536	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 12.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 13 ies.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 14 ies.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 15 ies.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+3888x2592	CC BY-SA 3.0	File:Marienheide - St Ludwig Maria Grignion von Montfort 16 ies.jpg	| St. Ludwig Maria Grignion von Montfort in Marienheide
+3241x4862	CC BY-SA 3.0	File:Statue de saint Louis-Marie Grignion de Montfort, Basilique Notre Dame de Bonne Nouvelle, Rennes, France.jpg	| Statue de saint Louis-Marie Grignion de Montfort dans la chapelle à l'ouest du chœur de la basilique Notre Dame de Bonne Nouvelle de Rennes.
+2990x4500	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 03.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine.
+2947x4435	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 02.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
+4672x3104	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 01.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort-sur-Meu dans le département d'Ille-et-Vilaine.
+4672x3104	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 06.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
+4672x3104	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 04.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
+3104x4672	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 05.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
+4672x3104	CC BY-SA 3.0	File:Eglise-St-Louis-Marie-Grignion-de-Montfort 07.jpg	| L'Église Saint-Louis-Marie-Grignion-de-Montfort se situe sur la commune de Montfort Sur Meu dans le département d'Ille-et-Vilaine. This buil
+3000x4000	CC BY-SA 4.0	File:Eglise-Saint-Louis-Marie-Grignion-de-Montfort.jpg	| Église de Saint-Louis-Marie Grignion de Montfort à Montfort-sur-Meu
+4000x3000	CC BY-SA 4.0	File:Eglise-Saint-Louis-Marie-Grignion-de-Montfort-2.jpg	| Eglise-Saint-Louis-Marie Grignion de Montfort
+3456x4608	CC BY-SA 4.0	File:Église du Pin (St Grignion de Montfort).jpg	| Statue de Saint Louis-Marie Grignion de Montfort
+1775x1523	CC0	File:Devotieprent van de heilige Ludovicus Grignion van Montfort, asset I1VFlV7ZyRj58GHpnpjlxz5Y.tif	| Title: Devotieprent van de heilige Ludovicus Grignion van MontfortDating: 1939Format original: hoogte 14 cm (zakje fiche)breedte 20 cm (zakj
+1333x2003	CC0	File:Devotieprent van de heilige Ludovicus Grignion van Montfort, asset K2fUQgQKGXoHcGjlaH0ygPMN.tif	| Title: Devotieprent van de heilige Ludovicus Grignion van MontfortCreator: Boumard et Fils (uitgever)Format original: hoogte 12.3 cm (devoti
+### cat:Les Ulmes
+SUBCATS: Maps of Les Ulmes | Pierre couverte du Mousseau
+### cat:Le Morne-Rouge
+SUBCATS: Calvaire de Morne-Rouge | Our Lady Church (Le Morne-Rouge)
+1558x1676	Public domain	File:Mount Pelée 1902 - Morne Rouge.jpg	| Main Street, Morne Rouge, Martinique, after the eruption of Mount Pelée, Aug 30, 1902. Left half of a stereoscope card.
+1530x1036	Attribution	File:Morne-Rouge Martinique.jpg	| View over Le Morne-Rouge in the direction of the cloud-hidden Mount Pelée, Martinique
+5080x3944	Public domain	File:Ferns near Morne Rouge YORYM-TA0309.jpg	| Gently sloping hillside covered in ferns.
+1840x1232	CC BY 3.0 pl	File:Le Morne Rouge - fern trees 2008.jpg	| Fern trees in Le Morne Rouge, Martinique
+1632x1192	Public domain	File:Martinique. Village du Morne-Rouge (1899) - (photogr.) Salles ; (photogr. reprod. par Radiguet & Massiot) - btv1b5965904m.jpg	| Sujet : Antilles, Archipel des Martinique, Île de la Morne Rouge, Le Appartient à l’ensemble documentaire : PhoVerre1 Appartient à l’ensembl
+1576x1424	Public domain	File:Martinique. Panorama du Morne-Rouge, vue prise du Nord, la croix au-dessus du Camp (partie Ouest) (au loin le massif des Carbets) (1899) - (photogr.) Salles ; (photogr. reprod. par Radiguet & Massiot) - btv1b5965902s.jpg	| Sujet : Antilles, Archipel des Martinique, Île de la Morne Rouge, Le Carbet, Pitons du Appartient à l’ensemble documentaire : PhoVerre1 Appa
+1576x1408	Public domain	File:Martinique. Panorama du Morne-Rouge, vue prise du Nord, la croix au-dessus du Camp (partie Est) (piton aigu piton gelé) (5 mars 1899) - (photogr.) Salles ; (photogr. reprod. par Radiguet & Massiot) - btv1b59659036.jpg	| Sujet : Antilles, Archipel des Martinique, Île de la Morne Rouge, Le Carbet, Pitons du Appartient à l’ensemble documentaire : PhoVerre1 Appa
+### cat:Onil
+SUBCATS: Ballot papers for the 2023 Spanish local elections for Onil | Buildings in Onil | Coats of arms of Onil | Festivals in Onil | Maps of Onil | Plaza de los Deportistas Olímpicos de Onil | Port de Canalís d'Onil
+3240x4320	CC BY-SA 3.0	File:Homenaje a Eusebio Sempere.JPG	| Homenaje a Eusebio Sempere, escultura de Pablo Serrano (1984)
+4450x3009	CC BY-SA 4.0	File:Vista d'Onil des del castell de Castalla.jpg	| Vista d'Onil des del castell de Castalla.
+4421x3010	CC BY-SA 4.0	File:Onil des del castell de Castalla.jpg	| Onil des del castell de Castalla.
+2400x3600	CC BY-SA 3.0	File:Capitania Gadaffis 2007 (1) - panoramio.jpg	| Capitania Gadaffis 2007 (1)
+3600x2400	CC BY-SA 3.0	File:Capitania Gadaffis 2007 (2) - panoramio.jpg	| Capitania Gadaffis 2007 (2)
+1936x1288	CC BY-SA 3.0	File:Nit de les fogueres (1) - panoramio.jpg	| Nit de les fogueres (1)
+3888x2592	CC BY-SA 3.0	File:Nit de les fogueres (2) - panoramio.jpg	| Nit de les fogueres (2)
+4208x3120	CC BY-SA 4.0	File:Parque Félix Rodríguez de la Fuente, Onil.jpg	| Parque de Félix Rodríguez de la Fuente en Onil (Alicante).
+4208x3120	CC BY-SA 4.0	File:Calle Cervantes, Onil.jpg	| Calle de Cervantes en la localidad alicantina de Onil.
+4208x3120	CC BY-SA 4.0	File:Calle Jaime I - Calle Eras, Onil.jpg	| Calle de Jaime I y calle Eras en la localidad alicantina de Onil.
+3120x4208	CC BY-SA 4.0	File:Calle Jaime I, Onil.jpg	| Calle de Jaime I en la localidad alicantina de Onil.
+4208x3120	CC BY-SA 4.0	File:Calle Valencia - Calle San Jaime (Onil) 01.jpg	| Calle de Valencia y calle de San Jaime en la localidad alicantina de Onil.
+4208x3120	CC BY-SA 4.0	File:Calle Valencia - Calle San Jaime (Onil) 02.jpg	| Calle de Valencia y calle de San Jaime en la localidad alicantina de Onil.
+4208x3120	CC BY-SA 4.0	File:Calle Mayor, Onil.jpg	| Calle Mayor de la localidad alicantina de Onil.
+### cat:Patierno
+### intitle:Patierno filetype:bitmap
+3648x2736	CC BY-SA 4.0	File:S. Pietro a Patierno (13).jpg	| Giuseppe Rotelli, Organo a trasmissione pneumatica della Parrocchia di S. Pietro a Patierno (NA) Tastiere e registri
+4417x5707	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (01 of 20).jpg	| Éditeur : H. Lemoine (Paris)
+4340x5703	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (11 of 20).jpg	| Éditeur : H. Lemoine (Paris)
+4416x5703	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (18 of 20).jpg	| Éditeur : H. Lemoine (Paris)
+4386x5703	Public domain	File:À Barcelone ! Boléro pour bandurria ou mandoline avec accompagnement de piano par E. Patierno - bpt6k3278731 (20 of 20).jpg	| Éditeur : H. Lemoine (Paris)
+4499x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (01 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (02 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (03 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (04 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (05 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (06 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (07 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (08 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (09 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (10 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (11 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8666x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (12 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (13 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (14 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8666x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (15 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (16 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8650x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (17 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+8634x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (18 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+4575x5755	Public domain	File:Méthode de bandurria par E. Patierno - btv1b10075403d (19 of 19).jpg	| Appartient à l’ensemble documentaire : MethMusiq Éditeur : H. Lemoine (Paris)
+3155x4091	Public domain	File:On les aura certainement. Chanson marche, paroles de Briollet, musique de E. Patierno - bpt6k384870h (1 of 6).jpg	| Appartient à l’ensemble documentaire : GG14182 Briollet, Paul (1864-1937). Auteur du texte Éditeur : imp. de Cavel (Paris)
+3203x4091	Public domain	File:On les aura certainement. Chanson marche, paroles de Briollet, musique de E. Patierno - bpt6k384870h (3 of 6).jpg	| Appartient à l’ensemble documentaire : GG14182 Briollet, Paul (1864-1937). Auteur du texte Éditeur : imp. de Cavel (Paris)
+4091x3203	Public domain	File:On les aura certainement. Chanson marche, paroles de Briollet, musique de E. Patierno - bpt6k384870h (6 of 6).jpg	| Appartient à l’ensemble documentaire : GG14182 Briollet, Paul (1864-1937). Auteur du texte Éditeur : imp. de Cavel (Paris)
+### cat:Silla
+SUBCATS: Mangdŏksa
+2048x1536	CC BY-SA 4.0	File:Cuadrilera atada a la silla de montar.jpg	| Cuadrilera attached to the Mexican saddle
+1200x1200	CC BY-SA 4.0	File:Banca de tres puestos, para salas de estar o espera.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla diseño elegante.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Pupitre escolar mueble escuela.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Pupitre escolar.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Banca de dos puestos, para salas de estar o espera.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Banco o silla alta.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Pupitre escolar con paleta.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla ejecutiva.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla ejecutiva secretarial.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla secretarial.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla ejecutiva secretarial eleganse.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla taburete.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla periquera.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Butaca de tres puestos.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Butaca sillon de tres puestos.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Butaca para exteriores sillón.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Sillon sala.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Butacá banco silla.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Sillón para sala de espera.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla bar.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla cafetería.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla restaurantera.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Butaco silla para bar.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla restaurantera de uso rudo.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Banco, silla, butaco, para barra.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla restaurante.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla restaurantera o para cafetería.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Silla cafeteria o desayunador.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Sillón.png	| buro-mobel.com • Puebla México
+1200x1200	CC BY-SA 4.0	File:Sillón para sala de estar.png	| buro-mobel.com • Puebla México
+### cat:Tumaco
+SUBCATS: Events in Tumaco | La Florida Airport, Colombia | Playa El Morro, Tumaco | United States Navy images from Tumaco
+1440x1080	Public domain	File:Tumaco from Air.jpg	| An aerial view of Tumaco, Colombia.
+2076x1664	CC BY 2.5	File:MunsNarino Tumaco.png	| Image depicting map location of the town and municipality of Tumaco in the Nariño Department, Colombia
+1632x1224	CC0	File:Playa del Bajito en Tumaco.JPG	| Playa del Bajito en Tumaco
+1632x1224	CC0	File:Panoramica de la isla la Viciosa en Tumaco.JPG	| Panoramica de la isla la Viciosa en Tumaco
+3070x2193	Public domain	File:US Navy 110602-N-RM525-201 The Military Sealift Command hospital ship USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colombia, during.jpg	| TUMACO, Colombia (June 2, 2011) The Military Sealift Command hospital ship USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colom
+4024x2538	Public domain	File:US Navy 110605-F-ET173-025 ailors embarked aboard the Military Sealift Command hospital ship USNS Comfort (T-AH 20) paint the walls of Institucion.jpg	| TUMACO, Colombia (June 5, 2011) Sailors embarked aboard the Military Sealift Command hospital ship USNS Comfort (T-AH 20) paint the walls of
+4256x2832	Public domain	File:US Navy 110609-F-ET173-433 USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colombia, during Continuing Promise 2011.jpg	| TUMACO, Colombia (June 9, 2011) The Military Sealift Command hospital ship USNS Comfort (T-AH 20) is anchored off the coast of Tumaco, Colom
+1353x1446	CC BY-SA 3.0	File:Colombia - Nariño - Tumaco.svg	| Mapa del Municipio de Tumaco, Nariño (Colombia)
+4256x3071	CC BY-SA 2.0	File:Inauguración Polideportivo en Tumaco (8475457139).jpg	| Fotos Juan Pablo Bello SIG
+4256x3071	CC BY-SA 2.0	File:Inauguración Polideportivo en Tumaco (8475457353).jpg	| Fotos Juan Pablo Bello SIG
+4256x3024	CC BY-SA 2.0	File:Inauguración Polideportivo en Tumaco (8476546344).jpg	| Fotos Juan Pablo Bello SIG
+2848x4288	CC BY-SA 2.0	File:Colombian Police (6893679119).jpg	| Bajo el lema "Tumaco Soy yo" Ministerio de Defensa, el Ejército Nacional y la Policía Nacional realizaron en el municipio de Tumaco, Nariño,
+1134x860	CC BY-SA 4.0	File:Stinkfish tumaco 2016.jpg	| Tumaco / Nariño / Colombia / 2016
+3072x2048	CC BY 3.0	File:Military area in Tomaco - panoramio.jpg	| Military area in Tomaco
+3072x2048	CC BY 3.0	File:Military area in Tomaco - panoramio (1).jpg	| Military area in Tomaco
+3072x2048	CC BY 3.0	File:Military instalation -) - panoramio.jpg	| Military instalation :-)
+4288x3216	CC BY-SA 4.0	File:PuenteMorro.jpg	| Puente él Morro
+2048x1536	CC BY-SA 4.0	File:Bajo Mira.jpg	| Foto tomada en Bajo Mira, municipio de Tumaco, en diciembre de 2017.
+3120x1920	CC BY-SA 4.0	File:Atardecertumaco.jpg	| atardecer del puente del morro
+1440x960	CC BY-SA 4.0	File:ParqueColón.jpg	| Situr Nariño
+8192x5464	Public domain	File:20260123Tumaco, Nariño- Erradicar para la paz - 2.jpg	| Colombia in the 2020s
+5088x3392	Public domain	File:20260123Tumaco, Nariño- Erradicar para la paz - 1.jpg	| Colombia in the 2020s
+### cat:Eucharistic miracle of Lanciano
+1179x1536	Public domain	File:Miracolo Eucaristico di Lanciano - foto dal vivo.JPG	| Eucharistic miracle of Lanciano - live photo.JPG Photo taken by me, with flash, as I passed in front of the blind. More photo details by cli
+2048x1536	Public domain	File:Eucharistic Miracle of Lanciano - rear-lighted panel - side.JPG	| Eucharistic Miracle of Lanciano - rear-lighted panel - side.JPG Made by myself. The panel is public for all visitors.
+2576x1952	Public domain	File:Eucharistic Miracle of Lanciano - rear-lighted panel - front.JPG	| Eucharistic Miracle of Lanciano - rear-lighted panel - front.JPG Made by myself. The panel is public for all visitors.
+1520x2040	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 18 novembre 1970.JPG	| Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 18 novembre 1970.JPG Made by myself. The panel is public
+1512x2028	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 4 marzo 1971.JPG	| Eucharistic Miracle of Lanciano - public documentation - ricognizione scientifica - 4 marzo 1971.JPG Made by myself. The panel is public for
+1528x2036	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - Ruggero Bertelli.JPG	| Eucharistic Miracle of Lanciano - public documentation - Ruggero Bertelli.JPG Made by myself. The panel is public for all visitors.
+1936x2564	Public domain	File:Eucharistic Miracle of Lanciano - public documentation - L'Osservatore Romano.JPG	| Eucharistic Miracle of Lanciano - public documentation - L'Osservatore Romano Made by myself. The panel is public for all visitors.
+2592x3888	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco, altare del miracolo eucaristico.JPG	| altare del miracolo eucaristico nella Chiesa di San Francesco a Lanciano
+2592x3888	CC BY-SA 4.0	File:Lanciano - Chiesa di San Francesco, altare del miracolo eucaristico 01.JPG	| altare del miracolo eucaristico nella Chiesa di San Francesco a Lanciano
+3672x4896	CC BY-SA 4.0	File:Lanciano, chiesa di San Francesco - Altare del miracolo eucaristico.jpg	| Lanciano (Abruzzo, Italy), Saint Francis church - Altar of the eucharistic miracle
+### cat:Chiesa di San Francesco (Lanciano)
+### cat:Nhá Chica
+SUBCATS: Nhá Chica (Almeida Júnior)
+2248x4000	CC BY 3.0	File:Santa Nhá Chica.jpg	| Imagem de Santa Nhá Chica
 2248x4000	CC BY-SA 3.0	File:Santa Nhá Chica de Baependi.jpg	| Imagem fotografada na Igreja Nossa Senhora de Fátima, São Lourenço - MG
 1632x1224	CC BY-SA 3.0	File:Santuário da Conceição (Nhá Chica) - Baependi - MG - panoramio.jpg	| Santuário da Conceição (Nhá Chica) - Baependi - MG
 3881x1300	CC BY-SA 3.0	File:Santuário de Nhá Chica - Baependi, MG - panoramio.jpg	| Santuário de Nhá Chica - Baependi, MG
-### Irmã Dulce
-1018x1285	CC BY-SA 3.0	File:Irmã Dulce.jpg	| Irmã Dulce
-2126x1417	CC BY 2.0	File:Beatificação de Irmã Dulce no Parque de Exposições.jpg	| Padres na cerimônia de Beatifição de Irmã Dulce no Parque de Exposições em Salvador, Bahia Foto: Manu Dias/Secom
-2126x1417	CC BY 2.0	File:Obras Sociais Irmã Dulce.jpg	| Apresentação do projeto de Beatificação de Irmã Dulce Na foto: Obras Sociais Irmã Dulce Autora: Carol Garcia / AGECOM
-5184x3456	CC BY-SA 2.0	File:Igreja Irmã Dulce (3).jpg	| Igreja Irmã Dulce. Foto-Tatiana Azeviche-Setur (3)
-3008x2000	CC BY-SA 2.0	File:Memorial Irmã Dulce.jpg	| Memorial Irmã Dulce. Foto: Rita Barreto - Setur
-2000x3008	CC BY-SA 2.0	File:Memorial Irmã Dulce 2.jpg	| Memorial Irmã Dulce. Foto: Rita Barreto - Setur
-5184x3456	CC BY-SA 2.0	File:Igreja Irmã Dulce (1).jpg	| Igreja Irmã Dulce. Foto-Tatiana Azeviche-Setur (1)
-4928x3264	CC BY-SA 2.0	File:Praça Irmã Dulce, banco.jpg	| Largo de Roma.
-4928x3264	CC BY-SA 2.0	File:Praça Irmã Dulce.jpg	| Largo de Roma.
-4288x2848	CC BY-SA 2.0	File:Memorial de Irmã Dulce, fachada.jpg	| Memorial de Irmã Dulce, na Cidade Baixa, retrata a trajetória da freira baiana. Foto: Jota Freitas - Setur- Bahiatursa.
-4288x2848	CC BY-SA 2.0	File:Memorial Irmã Dulce, objetos pessoais.jpg	| No memorial, visitantes podem ter acesso a objetos pessoais de Irmã Dulce. Foto: Jota Freitas - Setur-Bahiatursa
-1536x2048	CC BY 3.0	File:Heróis do Brasil - Irmã Dulce, Mulher Maravilha - panoramio.jpg	| Heróis do Brasil - Irmã Dulce, Mulher Maravilha
-3310x2365	CC BY-SA 2.0	File:Congresso Brasileiro de Turismo Religioso 41971370982.jpg	| Congresso Brasileiro de Turismo Religioso, May 9-12, 2018, Salvador, Bahia, Brazil.
-1920x1080	CC BY 3.0	File:Canonização da irmã Dulce.webm	| 11.10.2019 - Neste domingo, mais de 40 mil pessoas são esperadas na missa de canonização da irmã Dulce, no Vaticano. O vice-presidente, Hami
-3120x4160	CC BY-SA 4.0	File:Santa Dulce dos Pobres 0.jpg	| Santa Dulce dos Pobres
-3120x4160	CC BY-SA 4.0	File:Santa Dulce dos Pobres.jpg	| Santa Dulce dos Pobres
-4160x3120	CC0	File:Oratório dedicado aos Três Santos Brasileiros - Santuário Santa Paulina 2.jpg	| Oratório edicado aos Três Santos Brasileiros no Santuário Santa Paulina.
-4160x3120	CC0	File:Imagem de Santa Dulce dos Pobres - Santuário Santa Paulina.jpg	| Imagem de Santa Dulce dos Pobres no Oratório dedicado aos Três Santos Brasileiros, no Santuário Santa Paulina.
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686063976).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686064166).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686064304).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686064662).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Na foto: Corp
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4685432101).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686065370).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4685432675).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-### Óscar Romero
-1126x329	Public domain	File:Óscar Arnulfo Romero signature.svg	| Óscar Arnulfo Romero signature
-1536x2048	CC BY-SA 3.0	File:MONUMENTO A MONSEÑOR OSCAR ARNULFO ROMERO - panoramio.jpg	| Monumento a Monseñor Óscar Arnulfo Romero en San Salvador
-1200x976	Public domain	File:Óscar Arnulfo Romero meets Pope Paul VI.jpg	| Monseñor Romero junto al papa Pablo VI. Seis semanas antes de la muerte del sumo pontífice. El arzobispo de San Salvador le entrega una foto
-2212x2080	CC BY-SA 4.0	File:Óscar Romero (al centro) y Rutilio Grande (al lado derecho) c. 1977.jpg	| Oscar Romero (al centro) junto a Rutilio Grande (al lado derecho) en la toma de arzobispado c. 1977
-3024x4032	CC BY-SA 4.0	File:Tomb of Óscar Arnulfo Romero y Galdámez.jpg	| The tomb of Saint Óscar Arnulfo Romero y Galdámez (1917–1980), the Archbishop of the Roman Catholic Archdiocese of San Salvador from 22 Febr
-4000x3000	CC0	File:Monumento a Óscar Arnulfo Romero 01.jpg	| Monument to Óscar Arnulfo Romero by Chilean artist Francisca Cerda at Plaza República de El Salvador in Vitacura, Santiago, Chile
-3000x4000	CC0	File:Monumento a Óscar Arnulfo Romero 02.png	| Monument to Óscar Arnulfo Romero by Chilean artist Francisca Cerda at Plaza República de El Salvador in Vitacura, Santiago, Chile
-2570x3855	CC BY-SA 4.0	File:Monumento a Óscar Arnulfo Romero, Vitacura, Santiago 20240421.jpg	| Monumento a Óscar Arnulfo Romero, Vitacura, Santiago, Región Metropolitana, Chile
+2592x1936	CC BY-SA 3.0	File:Nhá Chica - Parque das Águas - Caxambu, MG - panoramio.jpg	| Nhá Chica - Parque das Águas - Caxambu, MG
+1850x2840	Public domain	File:Foto da Beata Nhá Chica.jpg	| Depicted person: Nhá Chica – beatified Brazilian person
+1196x896	Public domain	File:Igreja de Nhá Chica em 1894.jpg	| Igreja erguida por Nhá Chica, por volta de 1894
+### cat:Dulce Lopes Pontes
+### cat:Óscar Romero
+### cat:Pope Leo I
+### intitle:Romero mural filetype:bitmap
+2112x2816	CC BY-SA 3.0	File:Mural Oscar Romero UES.jpg	| Mural con la imagen de Monseñor Óscar Arnulfo Romero, ubicado en el Edificio Histórico de la Facultad de Jurisprudencia y Ciencias Sociales 
+1413x1815	Public domain	File:La literatura by Julio Romero de Torres.jpg	| La literatura, (1905) Julio Romero de Torres. Pintura sobre mural. Perteneciente al Círculo de la Amistad, Córdoba (España).
+1069x1437	CC BY-SA 3.0	File:Mural Oscar Romero UES (cropped).jpg	| Mural con la imagen de Monseñor Óscar Arnulfo Romero, ubicado en el Edificio Histórico de la Facultad de Jurisprudencia y Ciencias Sociales 
+6000x4000	CC BY-SA 3.0	File:2013, Que Viva San Felipe, Leopoldo Romero - panoramio.jpg	| 2013, Que Viva San Felipe, Leopoldo Romero
+2048x1536	CC BY-SA 4.0	File:Mural a los caidos, detalle nombre Mons. Romero, El Salvador.jpg	| Detalle nombre Mons. Romero.
+4000x3000	CC BY-SA 4.0	File:Botanical Garden La Concepción (Romero, 1994).jpg	| Mural vidriado a modo de mapa orientativo en el jardín botánico La Concepción, Málaga, España, obra de Pablo Romero del año 1994. Al pie del
+2048x1536	CC BY-SA 4.0	File:Mural a los caidos, detalle nombre Mons. Romero, El Salvador (no watermark).jpg	| Detalle nombre Mons. Romero.
+1080x608	CC BY-SA 2.0	File:Intervención "Romero vive en su pueblo" de Cristian Lopez.jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
+1080x720	CC BY-SA 2.0	File:Mural "Romero viven en su pueblo".jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
+1080x720	CC BY-SA 2.0	File:Romero como gráfica popular.jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
+1080x720	CC BY-SA 2.0	File:Avances mural Óscar Romero.jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
+1080x720	CC BY-SA 2.0	File:Esbozo mural Óscar Romero.jpg	| Intervención "Romero vive en su pueblo" de Cristian Lopez
 3000x4000	CC BY-SA 2.0	File:"Romero vive en su pueblo" de Cristian Lopez.jpg	| Intervención mural "Romero vive en su pueblo" de Cristian Lopez, realizada en el Centro Cultural de España en El Salvador como parte de los 
-### Saint Leo the Great painting
-1139x700	Public domain	File:Leoattila-Raphael.jpg	| The fresco was completed after the death of Julius II (pontiff from 1503 to 1513), during the pontificate of his successor Leo X (pontiff fr
-1700x1065	Public domain	File:Saint-antony-beaten-by-the-devils-- Sassetta--Siena Pinacoteca.jpg	| 
-5927x8161	Public domain	File:Guido Reni - Saint James the Greater - Google Art Project.jpg	| 
-1674x2208	No restrictions	File:A history of painting (1911) (14803444203).jpg	| Identifier: historyofpaintin01macf (find matches) Title: A history of painting Year: 1911 (1910s) Authors: Macfall, Haldane, 1860-1928 Subje
-5100x3648	CC BY-SA 4.0	File:Musée Unterlinden - Matthias Grünewald - retable d'Issenheim - Saint Sébastien, Crucifixion, Saint Antoine abbé & Déposition (1512-1516) (1).jpg	| 
-3200x3800	CC BY-SA 4.0	File:Musée Unterlinden - Matthias Grünewald - retable d'Issenheim - Tentation de Saint Antoine & Visite de Saint Antoine à Saint Paul (1512-1516) (1).jpg	| 
-1037x1441	Public domain	File:A new history of painting in Italy, from the II to the XVI century; (IA gri 33125002699086).pdf	| Includes bibliographical references and index 1. Early Christian art; Giotto &amp; his followers.--II. The Sienese school of the XIV century
-1362x2241	Public domain	File:The perfect painter, or, a compleat history of the original, progress and improvement of painting .. (IA gri 33125011166077).pdf	| By Henry Bell. A reissue of the 1728 edition, which was entitled 'A historical essay on the original of painting', with a new t.p. See ESTC 
-1070x1487	Public domain	File:Herrera Mozo – Pope St. Leo the Great.jpg	| Francisco de Herrera el Mozo (spanish, 1622-1685): Saint Leo Magnus (pope Leo I), Prado Museum, Madrid, Spain
-### Cosmas and Damian painting
-1139x893	Public domain	File:Fra Angelico - Saint Cosmas and Saint Damian Crucifixed and Stoned - WGA0516.jpg	| 
-1146x900	Public domain	File:Fra Angelico - Saint Cosmas and Saint Damian Condamned - WGA00514.jpg	| 
-1151x900	Public domain	File:Fra Angelico - Sepulchring of Saint Cosmas and Saint Damian - WGA00518.jpg	| 
-1200x936	Public domain	File:Fra Angelico - Saint Cosmas and Saint Damian Salvaged - WGA00513.jpg	| 
-1662x1196	CC BY 4.0	File:SS. Cosmas and Damian dressing a chest wound. Oil painting. Wellcome L0010257.jpg	| SS. Cosmas and Damian dressing a chest wound. Oil painting by Antoine de Favray. Iconographic Collections Keywords: Plaster; Prayer; Praying
-1278x1530	CC BY 4.0	File:SS. Cosmas and Damian. Oil painting. Wellcome L0013786.jpg	| SS. Cosmas and Damian. Oil painting. Iconographic Collections
-1276x1670	CC BY 4.0	File:Saints Cosmas and Damian. Oil painting formerly attributed t Wellcome M0005375.jpg	| Saints Cosmas and Damian. Oil painting formerly attributed to Jaime Huguet. Iconographic Collections Keywords: Jaime Huguet
-3272x3222	CC BY 4.0	File:Saints Cosmas and Damian, oil painting. Wellcome M0005992.jpg	| Saints Cosmas and Damian, oil painting, in the Museo Arqueologico, Granada. Wellcome Images Keywords: Cosmas; Damian
-2551x4130	CC BY 4.0	File:Saint Cosmas and Saint Damian. Oil paintings. Wellcome M0006608.jpg	| Saint Cosmas and Saint Damian. Oil paintings. Iconographic Collections Keywords: Dr. of Beechy Armitage
-2565x4194	CC BY 4.0	File:Painting of Saints Cosmas and Damian Wellcome M0007691.jpg	| Painting of Saints Cosmas and Damian. In possession of Senor Lazaro, Madrid. Wellcome Images Keywords: Damian; Cosmas
-2059x5371	CC BY 4.0	File:Martyrdom of Saints Cosmas and Damian. Wellcome M0007693.jpg	| Martyrdom of Saints Cosmas and Damian, wing of Triptich. In Antwerp Museum. Wellcome Images Keywords: Cosmas; Damian; Ambrosius Franken
-2184x3576	CC BY 4.0	File:Saint Cosmas and Saint Damian. Oil paintings. Wellcome V0017386.jpg	| Saint Cosmas and Saint Damian. Oil paintings. Iconographic Collections
-2735x3344	CC BY 4.0	File:SS. Cosmas and Damian. Oil painting. Wellcome V0017398.jpg	| SS. Cosmas and Damian. Oil painting. Iconographic Collections
-2476x3087	CC BY 4.0	File:SS. Cosmas and Damian in a landscape. Oil painting, 17th c. Wellcome V0017401.jpg	| SS. Cosmas and Damian in a landscape. Oil painting by a Spanish painter, 17th century. Iconographic Collections Keywords: Flask; Urine; name
-5727x3702	Public domain	File:Santa Giustina (Padua) - Chapel of Saint Luke - Martyrdom of Saints Cosmas and Damian by Antonio Balestra.jpg	| 
-5933x3937	Public domain	File:Santa Giustina (Padua) - Chapel of Saint Matthias - Saints Cosmas and Damian saved by the angel (1718) Antonio Balestra.jpg	| 
-5236x6396	CC BY-SA 4.0	File:Barcelona Cathedral Interior - Chapel of Saints Cosmas and Damian - Saints Cosmas and Damian by Bernat Martorell and Miquel Nadal.jpg	| 
-1577x1920	Public domain	File:Master of Saints Cosmas and Damian - Saint Mary Magdalen - 1970.80 - Yale University Art Gallery.jpg	| 
-3614x2710	Public domain	File:Martyrdom of Sts. Cosmas and Damian - Fra Angelico - Louvre.jpg	| Pittura italiana del Quattrocento al Louvre, Parigi
-2626x6873	Public domain	File:Ambrosius Francken I - Marteldood van de heiligen Cosmas en Damianus - 148 - Royal Museum of Fine Arts Antwerp.tiff	| 
-### Elijah chariot of fire painting
-1576x2291	Public domain	File:Emetrius (Meister der Schule von Távara) 002.jpg	| 
-6862x3291	CC BY-SA 4.0	File:3 Affreschi, centro Resurrezione di Cristo, destra Elia guarisce il figlio della vedova e a sinistra Elia e il carro di fuoco, Battista Franco.jpg	| 
-3269x2138	Public domain	File:Elijah Taken Up in a Chariot of Fire E11219.jpg	| 
-1080x1661	Public domain	File:Poulakis Theodoros-The ascension of prophen Elijah and scenes from his life (borders).jpg	| The Ascension of the Prophet Elijah and scenes from his life
-3269x2138	CC0	File:Giuseppe Angeli, Elijah Taken Up in a Chariot of Fire, c. 1740-1755, NGA 41685.jpg	| 
-1922x2500	CC0	File:De hemelvaart van Elia (in doos met 43 tekeningen), RP-T-1983-353.jpg	| IdentificatieTitel(s): De hemelvaart van Elia (in doos met 43 tekeningen)Objecttype: tekening Objectnummer: RP-T-1983-353VervaardigingVervaa
-6346x5186	CC0	File:Hemelvaart van Elia Les plat-fonds ou les tableaux des galeries De plafonds of gallerystukken (serietitel), RP-P-OB-70.071.jpg	| IdentificatieTitel(s): Hemelvaart van Elia. Les plat-fonds ou les tableaux des galeries / De plafonds of gallerystukken (serietitel)Objectty
-6562x5232	CC0	File:Hemelvaart van Elia Les plat-fonds ou les tableaux des galeries De plafonds of gallerystukken (serietitel), RP-P-OB-66.328.jpg	| IdentificatieTitel(s): Hemelvaart van Elia. Les plat-fonds ou les tableaux des galeries / De plafonds of gallerystukken (serietitel)Objectty
-6212x5250	CC0	File:Hemelvaart van Elia Les plat-fonds ou les tableaux des galeries De plafonds of gallerystukken (serietitel), RP-P-OB-66.327.jpg	| IdentificatieTitel(s): Hemelvaart van Elia. Les plat-fonds ou les tableaux des galeries. De plafonds of gallerystukken (serietitel)Objecttyp
-6434x5282	CC0	File:Hemelvaart van Elia Les plat-fonds ou les tableaux des galeries De plafonds of gallerystukken (serietitel), RP-P-OB-66.326.jpg	| IdentificatieTitel(s): Hemelvaart van Elia. Les plat-fonds ou les tableaux des galeries / De plafonds of gallerystukken (serietitel)Objectty
-6764x5178	CC0	File:Hemelvaart van Elia Les plat-fonds ou les tableaux des galeries De plafonds of gallerystukken (serietitel), RP-P-OB-66.325.jpg	| IdentificatieTitel(s): Hemelvaart van Elia. Les plat-fonds ou les tableaux des galeries / De plafonds of gallerystukken (serietitel)Objectty
-5796x4918	CC0	File:Hemelvaart van Elia Les plat-fonds ou les tableaux des galeries De plafonds of gallerystukken (serietitel), RP-P-OB-66.324.jpg	| IdentificatieTitel(s): Hemelvaart van Elia. Les plat-fonds ou les tableaux des galeries / De plafonds of gallerystukken (serietitel)Objectty
-1131x1768	Public domain	File:Mary- the queen of the house of David and mother of Jesus (IA maryqueenofhouse00wals).pdf	| Subjects: Mary, Blessed Virgin, Saint; Christian women saints
-1064x1527	Public domain	File:Catalogue (with notes) of the collection of paintings in oil and water colours, by living and deceased artists (IA cataloguewithnot00birm).pdf	| 53 p. ; 21 cm Subjects: Birmingham City Museum and Art Gallery -- Catalogs; Painting -- England -- Birmingham -- Catalogs
-1025x1362	Public domain	File:St. Nicholas (serial) (IA stnicholasserial281dodg).pdf	| "Conducted by Mary Mapes Dodge." Publication suspended Mar. 1940-Feb. 1943; July 1943 Imprint varies: published 1873-July 1881, by Scribner;
-8000x6000	CC BY-SA 4.0	File:Victoria and Albert Museum. Mosane Plaque depicting Alexander the Great flying with Griffins.jpg	| Alexander the Great flies with griffins on an enamel recalling Elijah's ascent into heaven on a chariot of fire. It may have decorated a cro
-3808x2118	CC0	File:De hemelvaart van Elia, SK-A-1617.jpg	| IdentificatieTitel(s): De hemelvaart van EliaObjecttype: schilderij Objectnummer: SK-A-1617Opschriften / Merken: signatuur en datum, rechtso
-4608x2184	CC BY-SA 4.0	File:'Saint Francis Taken Up by Elijah's Chariot of Fire' (18th cent.) by unidentified painter - Ex-Monastery of San Diego Churubusco - Mexico 2024.jpg	| Ex-Monastery of San Diego Churubusco - Mexico
-### Elijah prophet painting
-1255x932	Public domain	File:Abraham Bloemaert - Landscape with the Prophet Elijah in the Desert - WGA2277.jpg	| 
-1003x1200	Public domain	File:Peter Paul Rubens - The Prophet Elijah Receiving Bread and Water from an Angel - WGA20436.jpg	| 
-2022x2694	Public domain	File:Prophet Elijah, Serbian painter, 18th c.jpg	| 
-2592x3872	Public domain	File:The Prophet Elijah.JPG	| The Prophet Elijah, 1668, Tempera on panel
-2550x1287	Public domain	File:'Woodland Scenery with Prophet Elijah and Animals' by Gillis de Hondecoeter, 1624, Hermitage.JPG	| Woodland Scenery with Prophet Elijah and Animals by Gillis de Hondecoeter, 1624, Hermitage
-6807x4939	Public domain	File:Gaspar de Crayer - The prophet Elijah fed by a raven.jpg	| 
-1060x1200	Public domain	File:The Prophet Elijah and the Angel - cartone.jpg	| 
-1107x1978	Public domain	File:'The Immaculate Conception with the Prophet Elijah' by Corrado Giaquinto.jpg	| The Immaculate Conception with the Prophet Elijah by Corrado Giaquinto, oil on canvas with a painted arched top, 104 by 59.4 cm.
-4000x3055	Public domain	File:The Prophet Elijah and the Widow of Zarephath A10797.jpg	| 
-2000x2000	Public domain	File:Prophet Elijah and S.Nicholas by I.Bilibin (1932, priv.coll).jpg	| Ivan Yakovlevich Bilibin 1876-1942 ILLUSTRATION FROM THE FAIRY TALE THE PROPHET ELIJAH AND SAINT NICHOLAS signed in Latin and with initials 
-1220x780	Public domain	File:Paolo Fiammingo - The Lord Commands the Prophet Elijah to Proceed to Zarepath.jpg	| 
-1080x1661	Public domain	File:Poulakis Theodoros-The ascension of prophen Elijah and scenes from his life (borders).jpg	| The Ascension of the Prophet Elijah and scenes from his life
-2362x1715	Public domain	File:Abraham van Dijck - The Prophet Elijah with the Widow of Zarephath and her Son - KMS3578 - Statens Museum for Kunst.jpg	| 
-4255x5023	Public domain	File:Circle of Peter Paul Rubens - The prophet Elijah nourished by the Angel.jpg	| 
-4000x3055	CC0	File:Cornelis van Poelenburch, The Prophet Elijah and the Widow of Zarephath, c. 1630, NGA 131041.jpg	| 
-2997x4000	CC0	File:Jan Pietersz Saenredam, after Abraham Bloemaert, The Prophet Elijah with the Widow of Zarephath, 1604, NGA 154024.jpg	| 
-1172x1200	Public domain	File:British (English) School - The Prophet Elijah - 1430496.16 - National Trust.jpg	| 
-3042x4000	CC0	File:The Virgin of Carmen and the Souls of Purgatory with St. Joseph and the Prophet Elijah MET DP-15280-003.jpg	| 
-2880x4766	Public domain	File:The Immaculate Conception with the Prophet Elijah).webp	| 
-2186x2912	Public domain	File:Semen Spiridonov Kholmogorets. Prophet Elijah. 1678.jpg	| Семён Спиридонов Колмогорец. Илья Пророк, с житием в 26 клеймах. 1678 г. Дерево, левкас, темпера. Ярославский художественный музей, Россия. 
-1400x1946	Public domain	File:Semen Spiridonov Kholmogorets. Prophet Elijah. 1678. Border scene.jpg	| Некий муж предвещает отцу Илии о рождении ему сына Клеймо иконы Илья Пророк, с житием в 26 клеймах. 1678 г. Дерево, темпера Ярославский худо
-3016x3612	Public domain	File:Fyodor Zubov.Prophet Elijah in the Desert.1672.jpg	| Фёдор Евтихиев Зубов. Илия Пророк в пустыне. 1672. дерево, левкас, темпера Из церкви Ильи Пророка, Ярославль, Россия.
-3112x2398	Public domain	File:Petr Brandl - Dream of Prophet Elijah - with frame.jpg	| 
-### tabernacle sanctuary lamp church
-3456x4608	CC BY-SA 3.0	File:Cathedral of St. Matthew the Apostle DC Sanctuary lamp.JPG	| The sanctuary lamp in the Cathedral of St. Matthew the Apostle in Washington D.C.
-5616x3744	CC BY-SA 3.0	File:Malta - Mosta - Rotunda in 57 ies.jpg	| Interior of the Rotunda of St. Marija Assunta in Mosta, Malta
-3000x3755	CC BY-SA 4.0	File:Saint Matthias Catholic Church (Columbus, Ohio) -tabernacle.JPG	| Saint Matthias Catholic Church (Columbus, Ohio) -tabernacle
-3648x5472	CC BY-SA 4.0	File:Igreja de Nossa Senhora do Rosário dos Pretos Salvador Sanctuary Lamp 2019-1602.jpg	| Sanctuary lamp, Igreja de Nossa Senhora do Rosário dos Pretos, Salvador, Bahia, Brazil.
-2686x4029	CC BY-SA 4.0	File:Igreja de Nossa Senhora de Nazaré Salvador Bahia Altar Lamp 2019-0174.jpg	| Altar lamp, Igreja de Nossa Senhora de Nazaré (Church of Our Lady of Nazareth), Salvador, Bahia, Brazil.
-3179x2383	CC BY-SA 4.0	File:St. Joseph's Church, Cardiff - Sanctuary.jpg	| The sanctuary of St. Joseph's R.C. Church, Cardiff, Wales, as viewed from the central aisle.
-3401x5101	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0166.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-4160x6240	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0090.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-3623x5434	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0164.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-4076x5095	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0165.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-2970x3712	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0050.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-5200x4160	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0079.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-3511x5266	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0017.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-3881x5821	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0091.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-3710x5565	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0112.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-5053x4042	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0113.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-3751x5627	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0109.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-4080x3264	CC BY-SA 4.0	File:Basílica de São Sebastião Salvador Altar Lamp 2019-0110.jpg	| Basilica of Saint Sebastian (Basílica de São Sebastião), Salvador, Bahia, Brazil.
-2480x3508	CC BY-SA 4.0	File:Věčné světlo - stébla trávy.jpg	| věčné světlo
-1503x2106	Public domain	File:Photograph of a sanctuary lamp Cuypershuis 0686 (116).jpg	| Foto van een godslamp. Afkomstig uit een verzamelmap met 116 foto's van producten uit de Kunstwerkplaatsen Cuypers &amp; Co. (Cuypershuis, i
-4005x5634	CC0	File:Saint-Charles-Borromée Church, Charlesbourg, Quebec 11.jpg	| Saint-Charles-Borromée Church is a Catholic church located in the Trait-Carré neighborhood, in the Charlesbourg borough, in Quebec City, Que
-6720x4480	CC BY-SA 4.0	File:Dülmen, St.-Viktor-Kirche, Ewiges Licht -- 2021 -- 6715.jpg	| Former sanctuary lamp in a storage room in the tower of the St Viktor Church, Dülmen, North Rhine-Westphalia, GermanyThe Roman Catholic pari
-6720x4480	CC BY-SA 4.0	File:Dülmen, St.-Viktor-Kirche, Ewiges Licht -- 2021 -- 6716.jpg	| Former sanctuary lamp in a storage room in the tower of the St Viktor Church, Dülmen, North Rhine-Westphalia, GermanyThe Roman Catholic pari
-4912x3264	CC BY 4.0	File:Sioni Church, Altar lamp, Christianity in Georgia, Khevi, Georgia.jpg	| Altar lamp. Christianity in Georgia. Sioni Church, Khevi, Georgia.
-4912x3264	CC BY 4.0	File:Sioni Church, Altar lamp, Khevi, Georgia.jpg	| Altar lamp. Christianity in Georgia. Sioni Church, Khevi, Georgia.
-4912x3264	CC BY 4.0	File:Sioni Church, Altar lamp 2, Khevi, Georgia.jpg	| Altar lamp. Christianity in Georgia. Sioni Church, Khevi, Georgia.
-5306x3901	CC0	File:Godslamp, Louis I Joseph Jourdain, Namen, Collectie Stad Antwerpen, DIVA, S2006-3.jpg	| 
-3000x4000	CC BY 4.0	File:Ulvenhout Sint-Laurentiuskerk zilveren godslamp.jpg	| Silver sanctuary lamp in the Saint Lawrence church in Ulvenhout
-2722x4083	CC BY 4.0	File:Sanctuary lamp, Christ the King Catholic Church, Auckland.jpg	| The sanctuary lamp of Chirst the King Catholic Church in New Windsor, Auckland.
-3755x5251	CC BY 4.0	File:Sanctuary lamp, Sacred Heart Church, Ponsonby.jpg	| The sanctuary lamp of Sacred Heart Church in Ponsonby, Auckland.
-### baptismal font church
-2517x3953	CC BY-SA 3.0	File:Baptismal font Parish Church of Urtijëi.jpg	| Baptismal font in wood, gilded, 1908 in the Parish Church of Urtijëi. Note the copper Holy Water dispenser to the side.
-4450x6463	CC BY-SA 4.0	File:Baptismal font - Église Saint-Jérôme - Toulouse.jpg	| Church Saint-Jérôme from Toulouse, baptismal font.
-4861x5804	CC BY-SA 4.0	File:Eglise Saint-Caprais (Toulouse) Baptismal font.jpg	| Church Saint-Caprais in Toulouse. Baptismal font.
-4404x3151	CC BY-SA 4.0	File:Baptismal font of Saint-Sernin.jpg	| Basilica of St. Sernin, Toulouse, Haute-Garonne, France - The baptismal fonts.
-4752x7360	CC BY-SA 4.0	File:Chiesa di San Canciano - baptismal font.jpg	| Church of San Canciano Venice, baptismal font.
-7360x4912	CC BY-SA 4.0	File:Duomo (Verona) - San Giovanni in Fonte - baptismal font.jpg	| San Giovanni in Fonte - Old church included in the complex of the Verona Cathedral - The baptismal font of the late IX century.
-7360x4912	CC BY-SA 4.0	File:Duomo (Verona) - San Giovanni in Fonte - baptismal font - Flight into Egypt.jpg	| San Giovanni in Fonte - Old church included in the complex of the Verona Cathedral - The baptismal font of the late IXe century - Flight int
-3638x5457	CC BY-SA 4.0	File:AT 11723 Pfarrkirche Schöngrabern Innenraum baptismal font 6114.jpg	| Internal view of the parish church Schöngrabern, Weinviertel, Lower Austria
-5454x4906	CC BY-SA 4.0	File:Madonna dell'Orto (Venice) - Interior - Baptismal Fonts.jpg	| Madonna dell'Orto, Venice Interior - Baptismal font
-1384x4480	CC BY-SA 3.0	File:Parish church St. Ulrich - Urtijëi - Baptismal font.jpg	| Baptismal font, Parish church St. Ulrich, Urtijëi, South Tyrol, Italy.
-3712x4791	Public domain	File:Church of the Eremitani (Padua) - Interior - The baptismal font.jpg	| 
-4825x7541	CC BY-SA 4.0	File:Barcelona Cathedral Interior - Baptismal fonts.jpg	| The Cathedral of the Holy Cross and Saint Eulalia in Barcelona. The baptismal font is made in white marble of Carrara, carved by the Florent
-5727x10367	CC BY-SA 4.0	File:Wiesenthau St.Matthäus Baptismal font 2240124.jpg	| Baptismal font of the catholic parish church St. Matthäus in Wiesenthau
-3780x6048	CC BY-SA 4.0	File:Steyr Stadtpfarrkirche Taufbecken Baptismal font-1148-8.jpg	| The baptismal font of the parish church of Steyr was created in 1569 (Renaissance) by Saxon tin foundries. It is made of tin plates over woo
-2981x4471	CC BY-SA 4.0	File:Chorzow Luther church baptismal font 2021.jpg	| Chorzów, Martin Luther church, baptismal font
-3206x4809	CC BY-SA 4.0	File:Dundalk St. Nicholas' Church of Ireland Baptismal Font 2022 09 16.jpg	| Baptismal font of St. Nicholas' Church of Ireland in the centre of the nave, looking west.
-6258x6095	CC BY-SA 4.0	File:0120 GER Kiel St Nikolai church baptismal font ceiling.jpg	| 'ceiling' of baptismal font - St Nikolai church - Kiel, Germany
-5245x3502	CC BY-SA 4.0	File:Salisbury - Cathedral - Baptismal font and nave.jpg	| Salisbury (UK) - Cathedral - Baptismal font and nave
-4032x2016	CC BY-SA 4.0	File:Baptismal font in the Church of the Assumption.jpg	| baptismal font in the Church of the Assumption, ascribed to the O'Tunney workshop by Breda Lynch. This side shows the coats of arms of the B
-4032x2016	CC BY-SA 4.0	File:Baptismal font in the Church of the Assumption 2.jpg	| baptismal font in the Church of the Assumption, ascribed to the O'Tunney workshop by Breda Lynch[1]
-4032x2016	CC BY-SA 4.0	File:Baptismal font in the Church of the Assumption 3.jpg	| baptismal font in the Church of the Assumption, ascribed to the O'Tunney workshop by Breda Lynch[1]
-4032x2016	CC BY-SA 4.0	File:Baptismal font in the Church of the Assumption 4.jpg	| baptismal font in the Church of the Assumption, ascribed to the O'Tunney workshop by Breda Lynch[1]. This side shows the vault ceiling of a 
-4032x2016	CC BY-SA 4.0	File:Thomastown baptismal font.jpg	| Thomastown baptismal font by O'Tunney
-4160x3120	CC BY-SA 4.0	File:Jerpoint baptismal font.jpg	| Jerpoint baptismal font in Thomastown RC church possibly depicting a cloister arcade
-2296x4080	CC BY-SA 4.0	File:Baptismal font at St Paul's Church in Piltown.jpg	| baptismal font at St Paul's Church in Piltown, but originally from the church in Fiddown KK039-022002
-2296x4080	CC BY-SA 4.0	File:Baptismal font at St Paul's Church in Piltown 2.jpg	| baptismal font at St Paul's Church in Piltown, but originally from the church in Fiddown KK039-022002
-3060x4080	CC BY-SA 4.0	File:Baptismal font at St Paul's Church in Piltown 3.jpg	| baptismal font at St Paul's Church in Piltown, but originally from the church in Fiddown KK039-022002
-3481x5222	CC BY 4.0	File:Baptismal font, Christ the King Catholic Church, Auckland.jpg	| A baptismal font and holy water containers in Chirst the King Catholic Church, New Windsor, Auckland.
-### adult baptism Easter Vigil
-2450x3724	Public domain	File:Chronicles of Clovis - Saki.djvu	| 
-1231x1441	Public domain	File:A catechism of Christian baptism (microform) (IA cihm 33473).pdf	| '"We are buried with him by baptism into death"--Paul.' Includes bibliographical references Filmed from a copy of the original publication h
-1168x1435	Public domain	File:Thirty-second report of the Diocesan Church Society of New Brunswick, 1867 (microform) (IA cihm 43864).pdf	| Tables "Incorporated by act of Parliament, 16 Victoria, Cap. iv. 14th April, 1853." Filmed from a copy of the original publication held by t
-1185x1429	Public domain	File:An Abridgement of the Quebec catechism (microform) (IA cihm 46066).pdf	| "Approved and authorised." Filmed from a copy of the original publication held by the Seminary of Quebec, Library 43 Subjects: Catholic Chur
-1172x1425	Public domain	File:An Abridgement of the Quebec catechism (microform) (IA cihm 46067).pdf	| "Revised and authorised by His Lordship the Right Rev. Jos. Signay, Lord Bishop of Quebec." Filmed from a copy of the original publication h
-1162x1425	Public domain	File:An Abridgement of the Quebec catechism (microform) (IA cihm 47744).pdf	| "Revised and authorised by His Lordship the Rt. Rev. Jos. Signay, Lord Bishop of Quebec." Filmed from a copy of the original publication hel
-1168x1418	Public domain	File:An Abridgement of the Quebec catechism (microform) (IA cihm 47745).pdf	| "Revised and authorised by His Lordship eht [sic] Rt. Rev. Jos. Signay, Bishop of Quebec." Filmed from a copy of the original publication he
-1150x1352	Public domain	File:The Jesuit relations and allied documents (microform) - travels and explorations of the Jesuit missionaries in New France, 1610-1791 (IA cihm 07557).pdf	| "Vol. XXIII Hurons, Quebec, Iroquois 1642-1643." Part of a CIHM set. For individual microfiches in this set see CIHM microfiche nos. 07534-0
-3872x2576	CC BY-SA 4.0	File:Erwachsenentaufe Neviges 2023.jpg	| Erwachsenentaufe in der Osternacht 2023 im Mariendom Neviges
-2790x4362	Public domain	File:Prayerbookforrel00lasa 0.djvu	| Prayer-book for religious: a complete manual of prayers and devotions for the use of the members of all religious communities
-1043x1368	Public domain	File:Illinois Catholic historical review (IA illinoiscatholic04illi 0).pdf	| v. 24 cm CLICK ON WEB ADDRESS TO REACH SELECTED VOLUMES Subjects: Catholic Church; genealogy
-### infant baptism Catholic church
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 03.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-3888x5184	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 01.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 02.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 04.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 12.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 13.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 15.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 14.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 16.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 17.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 18.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 19.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 20.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 21.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 22.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 23.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 24.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 25.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 26.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 27.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 28.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 29.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 30.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 31.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 35.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 36.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 39.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 38.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 40.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-5184x3888	CC BY-SA 4.0	File:Roman Catholic Infant Baptism in Pandi Church 41.jpg	| This photograph demonstrates the Roman Catholic Liturgy of infant baptism : a) the child is anointed with Chrism, b) Paschal candle lighting
-### Confiteor Mass priest
-1920x1088	CC BY-SA 3.0	File:Recke Festmesse St Dionysius Schuldbekenntnis.webmhd.webm	| A Festive Mass in the Roman Catholic St Dionysius Parish Church (Pfarrkirche St. Dionysius) in Recke, Kreis Steinfurt, North Rhine-Westphali
-1118x1733	Public domain	File:Priest and man - a story of love and duty (IA priestmanstoryof00rene).pdf	| Copyright date from verso of t.p Subjects:
-1177x1402	Public domain	File:Select hymns for the use of the Catholic Church (microform) - to which are prefixed feasts and fasts ; acts of contrition, faith, hope and charity ; prayers for mass ; vespers for Sundays (IA cihm 64817).pdf	| Filmed from a copy of the original publication held by the Harold Campbell Vaughan Memorial Library, Acadia University 43 Subjects: Catholic
-### Holy Mass elevation host
-1858x3106	Public domain	File:Low Mass Ceremonial (Burnett).djvu	| Low Mass Ceremonial: in accordance with the English rite as set forth in the Book of Common Prayer. Djvu file with 76 images
-1208x1747	Public domain	File:The Holy Land, Syria, Idumea, Arabia, Egypt, & Nubia. (IA holylandsyriaidu5to6robe).pdf	| Each volume is separately dated after the place of publication in the imprint: v. 1 April 16th 1855, v. 2 October 1st 1855, v. 3 December 15
-1379x2185	Public domain	File:The Mass - a study of the roman liturgy (IA cu31924029398553).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
-1275x1650	Public domain	File:Instructions On The Prayers And Ceremonies Of The Holy Sacrifice Of The Mass, Volume 2 (IA InstructionsPrayersCeremoniesMassV2).pdf	| &lt;a href="https://archive.org/details/InstructionsPrayersCeremoniesMassV1" rel="nofollow"&gt;Instructions On The Prayers And Ceremonies Of
-1175x1418	Public domain	File:Sacerdos sanctificatus, or, Discourses on the mass and office (microform) - with a preparation and Thanksgiving before and after mass for every day in the week (IA cihm 44337).pdf	| Text in English and Latin Filmed from a copy of the original publication held by the Seminary of Quebec, Library 43 Subjects: Mass; Mass; Me
-### woman reading Bible painting
-1368x2000	Public domain	File:Albert Anker Ältere Frau in der Bibel lesend 1904.jpg	| 
-2549x3460	CC BY 4.0	File:Two people interrupted while reading the "forbidden book" (t Wellcome V0048174.jpg	| Two people interrupted while reading the "forbidden book" (the Bible?). Wood engraving by M. Klinkicht after K. Ooms. Iconographic Collectio
-2864x3491	CC BY-SA 4.0	File:Amsterdam - Rijksmuseum 1885 - The Gallery of Honour (1st Floor) - Portrait of an old woman reading the Bible c. 1630-35 by Gerrit Dou.jpg	| 
-1424x2068	No restrictions	File:Daily Bible illustrations - being original readings for a year, on subjects from sacred history, biography, georgaphy, antiquities, and theology - Especially designed for the family circle (1850) (14580210537).jpg	| Identifier: dailybibleillust01kitt (find matches) Title: Daily Bible illustrations : being original readings for a year, on subjects from sa
-3502x3168	Public domain	File:Old Woman Reading the Bible (Quiringh Gerritsz. van Brekelenkam) - Nationalmuseum - 17360.tif	| 
-3683x2453	CC0	File:Grote schade door wolkbreuk in Zuid-Limburg (Valkenburg) vrouw in verzakte woon, Bestanddeelnr 932-2714.jpg	| Collectie / Archief : Fotocollectie Anefo Reportage / Serie : [ onbekend ] Beschrijving : Grote schade door wolkbreuk in Zuid-Limburg (Valke
-2234x3081	Public domain	File:Woman in Art.djvu	| Includes index
-1070x1641	Public domain	File:Babel and Bible; (IA babelbibl00deli).pdf	| Subjects: Bible
-1050x1500	CC BY-SA 4.0	File:The Holy Bible (LSV).pdf	| The Literal Standard Version is a complete, formal equivalence, idiomatically-literal English translation of The Holy Bible based on the Mas
-1129x1975	Public domain	File:The cottage Bible and family expositor, containing the Old and New Testaments (IA cottagebiblefami02pattuoft).pdf	| 26 Subjects: Bible
-2877x3459	CC BY-SA 4.0	File:Amsterdam - Rijksmuseum 1885 - The Gallery of Honour (1st Floor) - Portrait of an old woman reading the Bible c. 1630-35 by Gerrit Dou.png	| Amsterdam - Rijksmuseum 1885 - The Gallery of Honour (1st Floor) - Portrait of an old woman reading the Bible c. 1630-35 by Gerrit Dou
-3200x2528	Public domain	File:Philippe Mercier - The Bible Lesson, or L'instruction Maternelle.jpg	| (See source) Depicting the artist's family, and thought to show them reading the Pilgrim's Progress rather than the Bible as its original ti
-### Saint Paul writing epistles painting
-2401x1766	Public domain	File:Probably Valentin de Boulogne - Saint Paul Writing His Epistles - Google Art Project.jpg	| 
-3200x2354	Public domain	File:Valentin de Boulogne - Saint Paul Writing His Epistles - BF.1991.4 - Museum of Fine Arts.jpg	| 
-1056x1575	Public domain	File:Paul of Tarsus; I. Paul-a character sketch, II (IA pauloftarsusipau00john).pdf	| Subjects: Paul, the Apostle, Saint
-1000x1500	Public domain	File:XVIIth century painting in New England.djvu	| Foreword signed: Clarence S. Brigham, for the committee.; Includes bibliographies.; The rise and development of art in the Massachusetts Bay
-### washing of the feet painting Giotto
-1381x1886	Public domain	File:Christ washing the Apostles' feet - Otto III Gospels.png	| Christ washing the Apostles' feet, from the Otto III Gospels. Beyerische Staatsbibliothek, Munich.
-1032x900	Public domain	File:Pietro Lorenzetti - The Washing of the Feet - WGA13506.jpg	| Christ washing the Disciples' feet
-1800x691	Public domain	File:Jacopo Tintoretto - Christ Washing the Feet of His Disciples - WGA22427.jpg	| Christ washing the Disciples' feet
-1100x1197	Public domain	File:Jacopo Tintoretto - Christ Washing the Feet of His Disciples (detail) - WGA22429.jpg	| Christ washing the Disciples' feet
-1000x968	Public domain	File:Giotto di Bondone - No. 30 Scenes from the Life of Christ - 14. Washing of Feet - WGA09215.jpg	| Christ washing the Disciples' feet
-3106x4508	Public domain	File:Christ Washing the Apostles' Feet - Google Art Project.jpg	| 
-1400x2040	CC0	File:England Washing of the Feet.jpg	| 
-2224x3183	CC BY 4.0	File:A maidservant washing a woman's feet. Engraving by P. Pelée Wellcome V0019949.jpg	| A maidservant washing a woman's feet. Engraving by P. Pelée after A.E. Plassan. Iconographic Collections Keywords: Antoine Emile Plassan; P.
-3864x5152	CC BY-SA 4.0	File:Jesus washing Saint Peter's feet.JPG	| Part of the Plougastel-Daoulas calvary
-9672x6584	Public domain	File:Christ Washing the Disciples' Feet E10791.jpg	| Christ washing the Disciples' feet
-2624x2544	Public domain	File:Washing of the Feet - Capella dei Scrovegni - Padua 2016.jpg	| Capella dei Scrovegni - Padua
-3072x2048	CC BY-SA 4.0	File:Left wall (1) - Capella degli Scrovegni - Padua 2016.jpg	| 
-1072x760	Public domain	File:Claude Vignon - The washing of the feet.jpg	| 
-5184x3456	CC BY-SA 4.0	File:Washing of the feet - Baptistry - Duomo - Siena 2016.jpg	| Baptistry - Duomo - Siena
-3547x2836	CC0	File:Christ Washing the Disciples' Feet MET DP812204.jpg	| drawing
-2184x1734	CC0	File:Christ Washing the Disciples' Feet MET 55.18.1.jpg	| drawing
-7015x6650	CC BY-SA 3.0	File:Capella degli Scrovegni (Padova) jm56813.jpg	| A stroll through Padua
-9008x7195	Public domain	File:Jesus washing his apostles feet LCCN2003679784.jpg	| Title: Jesus washing his apostles feet Physical description: 1 print. Notes: This record contains unverified data from PGA shelflist card.; 
-9008x7195	Public domain	File:Jesus washing his apostles feet LCCN2003679784.tif	| Title: Jesus washing his apostles feet Physical description: 1 print. Notes: This record contains unverified data from PGA shelflist card.; 
-4624x3472	CC BY-SA 4.0	File:Padova, Cappella degli Scrovegni, affrescchi (06).jpg	| Padua, Veneto, Italy. Scrovegni Chapel.
-2812x3722	Public domain	File:Church of the Holy Sepulchre and surroundings. Ceremony of washing the Apostles' feet LOC matpc.00871 (cropped).jpg	| Title: Church of the Holy Sepulchre and surroundings. Ceremony of washing the Apostles' feet Abstract/medium: G. Eric and Edith Matson Photo
-1295x2695	Public domain	File:Petrus Norbertus van Reysschoot - The Washing of the Feet.jpg	| Christ washing the Disciples' feet
-### baptismal register book
-2753x166	Public domain	File:Proposed form of register for baptisms. Fleuron T109097-3.png	| Fleuron from book: Proposed form of register for baptisms.
-1227x1775	Public domain	File:The baptismal register of Fort Duquesne, (from June, 1754, to Dec. 1756) (IA baptismalregiste01lamb).pdf	| Cover-title: Register of Fort Duquesne A reprint and translation of the "Registres des baptesmes et sepultures qui se sont faits au Fort Duq
-1291x1697	Public domain	File:The first book of the marriage, baptismal, and burial registers, of Ecclesfield Parish Church, Yorkshire, from 1558 to 1619; also the churchwardens' accounts, from 1520 to 1546 (IA firstbookofmarri00ecclrich).pdf	| Subjects: Registers of births, etc. -- England Ecclesfield; Churchwardens' accounts; genealogy
-1181x1418	Public domain	File:A treatise on infant baptism (microform) - shewing the scruptural grounds and historical evidence of that ordinance; together with a brief exposition of the baptismal offices of the Church of England (IA cihm 32706).pdf	| Errata--p. [xiv] Filmed from a copy of the original publication held by the National Library of Canada 43 Subjects: Infant baptism; Baptism;
-1130x1856	Public domain	File:Birth and Baptismal Certificate 1792.tif	| Pennsylvania German Fraktur Art By permission of Rare Book Department, Free Library of Philadelphia See: https://libwww.freelibrary.org/digi
-2136x1580	Public domain	File:Publick Baptism of Infants (BCP, 1863).png	| "The Ministration of Publick Baptism of Infants", illustration by Henry Warren, and ornaments designed by Owen Jones for the illustrated and
-1768x1272	Public domain	File:Publick Baptism of Infants (BCP, 1845; p. 281).png	| "The Ministration of Publick Baptism of Infants", illustration by Henry Warren, and ornaments designed by Owen Jones for the 1845 illustrate
-1178x1794	Public domain	File:Public Baptism of Infants (BCP, 1843; p. 347).png	| "Public Baptism of Infants", illustration by Richard Westall from the 1843 Illustrated Book of Common Prayer.
-2090x2962	Public domain	File:Ladys Book-V05.djvu	| Volume 5, 1832
-1873x2967	Public domain	File:Ladys Book-V06.djvu	| Volume 6, 1833
-1891x3065	Public domain	File:Ladys Book-V13.djvu	| Lady's Book, Volume 13, 1836
-1640x1232	Public domain	File:1792 Christening at St Mary's Leigh.jpg	| A page from the parish register book of St Mary's Church in Leigh, recording those baptised between Oct 14 and Oct 24 of 1792. Including tha
-1037x1391	Public domain	File:Extracts from the doop-boek, or, Baptismal register of the Reformed Protestant Dutch Church of Schenectady, N.Y (IA extractsfromdoop00firs 0).pdf	| 14 p. ; 26 cm CLICK ON WEB ADDRESS TO REACH THIS DOCUMENT Subjects: First Reformed Dutch Church of Schenectady; Baptismal records; Church re
-1029x1291	Public domain	File:History of the Old Dutch Church at Totowa, Paterson, New Jersey, 1755-1827 - baptismal register, 1756-1808 (IA historyofolddutc00nels 0).pdf	| "100 copies printed on heavy paper. 100 copies printed on thin paper. All for private circulation." Includes index 16 Subjects: Old Dutch Ch
+1222x1486	CC BY-SA 4.0	File:Raquel Romero, La Paz. Mayo 2025.jpg	| La investigadora Raquel Romero durante el conversatorio Memorias virtualizadas, arte mural de La Paz y El Alto realizado en el café Wayruru 
+4276x6414	CC BY-SA 4.0	File:2025 Soledad a Poppins de Sar. Joseba Murazábal. Avenida de Romero Donallo. Santiago. Galiza.jpg	| ‘Soledad, a Poppins de Sar’ by Joseba Murazábal. Avenida de Romero Donallo, Santiago de Compostela, Galicia (Spain).
+4342x6513	CC BY-SA 4.0	File:2025 Soledad a Poppins de Sar. Joseba Murazábal. Avenida de Romero Donallo. Santiago de Compostela. Galiza.jpg	| ‘Soledad, a Poppins de Sar’ by Joseba Murazábal. Avenida de Romero Donallo, Santiago de Compostela, Galicia (Spain).
+4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 02.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
+4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 03.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
+4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 01.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
+4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 04.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
+4032x3024	CC BY-SA 4.0	File:Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia 05.jpg	| Marga Sanchez Romero, CEIP L’Albereda. Luis García-Berlanga Martí, Valencia
+### intitle:"Leo I" pope filetype:bitmap
+1576x2096	CC0	File:Paus Leo I Leo primus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-60-5.jpg	| IdentificatieTitel(s): Paus Leo ILeo primus (titel op object). Liber Chronicarum (serietitel)Objecttype: prent boekillustratie albumblad Obj
+4000x6000	Public domain	File:Altar of Leo the Great (440-461 AD) Marble Relief of Meeting of Pope Leo I and Attila the Hun, by Alessandro Algardi, 1646-53 (48466535252).jpg	| Vatican City, Rome, Italy. Complete indexed photo collection at WorldHistoryPics.com.
+2880x5647	Public domain	File:Rafaël - Pope Leo I Meeting Attila, Related to a Fresco by Raphael in the Vatican, I 508 (PK).jpg	| 
+4840x3672	CC0	File:Ontmoeting tussen paus Leo I de Grote en Attila de Hun, RP-P-OB-41.771.jpg	| IdentificatieTitel(s): Ontmoeting tussen paus Leo I de Grote en Attila de HunObjecttype: prent Objectnummer: RP-P-OB-41.771Catalogusreferent
+### Holy Mass elevation filetype:bitmap
+5000x3621	Public domain	File:June 1962 WEST (SIDE) ELEVATION AND NORTH (REAR) ELEVATION - Shaker Church Family Brethren's Shop, U.S. Route 20, Hancock, Berkshire County, MA HABS MASS,2-HANC,1-6.tif	| 
+5000x3608	Public domain	File:June 1962 NORTH ELEVATION (RIGHT) AND EAST ELEVATION (LEFT) - Shaker Church Family Washhouse and Machine Shop, U.S. Route 20, Hancock, Berkshire County, MA HABS MASS,2-HANC,14-10.tif	| 
+5000x3607	Public domain	File:June 1962 VIEW OF SOUTH (FRONT) ELEVATION AND WEST (SIDE) ELEVATION, DURING RECONSTRUCTION - Shaker Meetinghouse (second), U.S. Route 20, Hancock, Berkshire County, MA HABS MASS,2-HANC,16-12.tif	| 
+5000x3555	Public domain	File:June 1962 SOUTH ELEVATION - Shaker Ministry's Washhouse, U.S. Route 20, Hancock, Berkshire County, MA HABS MASS,2-HANC,18-1.tif	| 
+5000x3581	Public domain	File:November 1959 SOUTH ELEVATION - Allen House, Bars Road, Deerfield, Franklin County, MA HABS MASS,6-DEER.V,2-3.tif	| Allen, Samuel
+4923x3508	Public domain	File:Historic American Buildings Survey EXTERIOR ELEVATION, EAST SIDE, SHOWING PORTION OF SOUTH ELEVATION - November 1959 - Simeon Alexander House, 188 Main Street, East Northfield, HABS MASS,6-NORTHE,2-1.tif	| 
+4903x3503	Public domain	File:Sept. 1968 SOUTH ELEVATION - African Society Baptist Church, York Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,32-1.tif	| 
+4863x3473	Public domain	File:November 1968 NORTHEAST ELEVATION - Reuben R. Bunker House, Academy Hill, Nantucket, Nantucket County, MA HABS MASS,10-NANT,37-2.tif	| 
+4868x3503	Public domain	File:November 1968 NORTHEAST ELEVATION - Reuben R. Bunker House, Academy Hill, Nantucket, Nantucket County, MA HABS MASS,10-NANT,37-1.tif	| 
+4888x3533	Public domain	File:October 1969 SOUTH ELEVATION - Jared Coffin House, 29 Broad Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,39-1.tif	| 
+3490x4914	Public domain	File:November 1968 WEST ELEVATION - Jared Coffin House, 29 Broad Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,39-2.tif	| 
+4893x3538	Public domain	File:October 1969 SOUTH ELEVATION - Jethro Coffin House, Sunset Hill, Nantucket, Nantucket County, MA HABS MASS,10-NANT,40-4.tif	| Shurrocks, Alfred F
+3605x5000	Public domain	File:July, 1970 SOUTHEAST ELEVATION - Eliab Hussey House, 31 India Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,75H-1.tif	| Jenkins, John; Jenkins, Perez
+3603x5000	Public domain	File:July, 1970 SOUTHEAST ELEVATION - Benjamin Swift House, 29 India Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,75I-1.tif	| 
+4888x3553	Public domain	File:November 1968 NORTHWEST ELEVATION - Nantucket Looms, 16 Main Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,63-2.tif	| 
+5000x3582	Public domain	File:July, 1970 WEST ELEVATION - Matthew Beard House, 18 Orange Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,76N-2.tif	| Beard, John
+3586x5000	Public domain	File:September 1968 WEST ELEVATION - Peleg Coggeshall House, 10 Orange Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,76I-1.tif	| 
+5000x3595	Public domain	File:July, 1970 WEST ELEVATION - Seth Folger House, 26 Orange Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,76Q-1.tif	| 
+5000x3575	Public domain	File:July, 1970 WEST ELEVATION - Nathaniel Woodbury House, 22 Orange Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,76P-2.tif	| 
+4803x3483	Public domain	File:October 1969 NORTH WEST ELEVATION - Sandanwede, 79 Hulbert Avenue, Nantucket, Nantucket County, MA HABS MASS,10-NANT,70-2.tif	| Hulbert, Edwin J
+4823x3498	Public domain	File:September 1968 SOUTHEAST ELEVATION - Sandanwede, 79 Hulbert Avenue, Nantucket, Nantucket County, MA HABS MASS,10-NANT,70-1.tif	| Hulbert, Edwin J
+5000x3559	Public domain	File:October 1969 NORTHEAST REAR, AND SOUTHEAST SIDE, ELEVATION OF NORTH BUILDING, 'MIDWAY' AND NORTHEAST ELEVATION OF SOUTH BUILDING - Sea Cliff Inn, 31 Cliff Road, Nantucket, HABS MASS,10-NANT,69-15.tif	| Robinson, Charles H
+4903x3538	Public domain	File:September 1968 SOUTH ELEVATION - Swain-Macy House, 99 Main Street, Nantucket, Nantucket County, MA HABS MASS,10-NANT,59-3.tif	| Swain, Valentine; Macy, Thomas
+5000x3597	Public domain	File:VIEW OF WEST ELEVATION, WITH SCALE - Quincy Market, South Market Street, Boston, Suffolk County, MA HABS MASS,13-BOST,118-6.tif	| Parris, Alexander
+5383x3589	CC BY-SA 4.0	File:Kopenhagen (DK), Runder Turm -- 2017 -- 1633.jpg	| This is a photo of a monument in Denmark identified by the ID
+5312x2988	CC BY 4.0	File:Traditional Latin Mass - Elevation.jpg	| Traditional Latin Mass - Elevation
+3174x4232	Public domain	File:Mass Held at Camp Kosciuszko to Honor Legacy of Holy Father Francis (8987077).jpg	| U.S. Army Garrison Poland contract priest Father Dawid Stelmach leads a memorial Mass honoring the life and legacy of Holy Father Francis at
+4535x3401	Public domain	File:Mass Held at Camp Kosciuszko to Honor Legacy of Holy Father Francis (8987078).jpg	| U.S. Army Garrison Poland contract priest Father Dawid Stelmach leads a memorial Mass honoring the life and legacy of Holy Father Francis at
+### Mass priest altar Catholic filetype:bitmap
+2816x2112	CC BY-SA 3.0	File:Fresco of Agnus Dei in Greek Catholic Cathedral of Hajdudorog.jpg	| The fresco of the Agnus Dei from the sanctuary of the Greek Catholic Cathedral of Hajdúdorog, Hungary. The fresco was painted in the end of 
+3217x2411	CC BY-SA 3.0	File:Altarneupergkirchen.jpg	| Neuer Altar der Pfarrkirche Pergkirchen (seit 2009)
+4608x3456	CC BY-SA 4.0	File:Messe ND Villeneuve.JPG	| Messe en l'église ND de Villeneuve-sur-Yonne.
+1830x2529	CC BY-SA 3.0 at	File:Altar der Mollner Pfarrkirche.jpg	| Volksaltar und Tabernakel-Hochaltar der Mollner Pfarrkirche
+4190x2783	CC BY 2.0	File:Academia Christiana - Université d'été 2016 (4).jpg	| Messe d'ouverture de l'Université d'été d'Academia Christiana (2016), célébrée par l'abbé de Nedde.
+6034x4479	CC BY-SA 4.0	File:Dülmen, Heilig-Kreuz-Kirche, Altar -- 2019 -- 3113-7.jpg	| Altar at Holy Cross Church in Dülmen, North Rhine-Westphalia, GermanyThe Holy Cross Church is a Roman Catholic parish church that houses the
+3778x2592	CC BY-SA 4.0	File:Altar servers.jpg	| After Vatican II, girls were permitted to serve at Mass. Servers ordinarily wear an alb similar to the priest's.
+4978x6867	PDM-owner	File:Mass reading priest (SM 1848z).png	| genre · Holy Mass (divine service, especially of Roman Catholic Church) · fixed altar · incense used in the church
+1080x1440	CC BY-SA 3.0	File:Priest celebrating Mass at Altar of Leo I in St. Peter's Basilica.jpg	| Photo of catholic priest celebrating Mass at Altar of Leo I in St. Peter's Basilica in Vatican City.
+5126x3850	CC BY-SA 4.0	File:Pfk Kainach Volksaltar 01.jpg	| Der von Gustav Troger im Jahr 2004 aus Kainacher Marmor gestaltete Volksaltar in der Pfarrkirche Kainach bei Voitsberg
+4896x3672	CC BY-SA 4.0	File:NEK 825 priests-bishops.jpg	| Catholic priests at the beginning of the Holy Mass - Statio orbis in Budapest on September 12, 2021
+4896x3672	CC BY-SA 4.0	File:NEK 843 priests-postcommunion.jpg	| Catholic priests after Communion during Holy Mass - Statio orbis in Budapest on September 12, 2021
+4896x3672	CC BY-SA 4.0	File:NEK 845 priests-postcommunion.jpg	| Catholic bishops and priests after Communion during Holy Mass - Statio orbis in Budapest on September 12, 2021
+5184x3888	CC BY-SA 4.0	File:Pfk Frojach Volksaltar 02.jpg	| Der Volksaltar in der Pfarrkirche Frojach
+5184x3888	CC BY-SA 4.0	File:Pfk Frojach Volksaltar 01.jpg	| Der Volksaltar in der Pfarrkirche Frojach
+1278x1277	Public domain	File:Catholic Picture Dictionary (Pfeiffer) - Altar.jpg	| The table on which the priest offers the Holy Sacrifice of the Mass
+1158x539	Public domain	File:Catholic Picture Dictionary (Pfeiffer) - Altar cards.jpg	| Cards on which are printed some of the prayers which the priest says during Mass. There are three: one for the middle of the altar and one f
+3400x1913	CC BY-SA 4.0	File:Priests of the Archdiocese of Lipa 2024-06-29.jpg	| The Roman Catholic Archdiocese of Lipa held its annual celebration of Pope's Day on the Solemnity of Saints Peter and Paul at the Minor Basi
+5184x3888	CC BY-SA 4.0	File:Pfk St.Leonhard Graz Altarbereich 02.jpg	| This is a photo of public art indexed in a public art catalogue of Graz (Austria) under the number: 1107 (commons, de) .
+5184x3888	CC BY-SA 4.0	File:Pfk St.Leonhard Graz Altarbereich 01.jpg	| This is a photo of public art indexed in a public art catalogue of Graz (Austria) under the number: 1107 (commons, de) .
+1284x835	Public domain	File:Prelates, Priests, and Altar Boys at the 1904 Eucharistic Congress in New York (clean).png	| A cleaned up version of File:Prelates, Priests, and Altar Boys at the 1904 Eucharistic Congress in New York.png to remove the page folds.
+1284x835	Public domain	File:Prelates, Priests, and Altar Boys at the 1904 Eucharistic Congress in New York.png	| Prelates, Priests, and Altar Boys after Mass on the third day of the 1904 Eucharistic Congress in New York on September 29, 1904.
+5022x3648	CC0	File:Cathedral of St. Michael and St. Gudula - Choir 01.jpg	| The choir of the Cathedral of St. Michael and St. Gudula in Brussels, Belgium, including the altars (people's altar in front, former high al
+2048x1536	CC BY 4.0	File:NS 0423 darovanje.jpg	| A deacon and altar boys prepare the altar for the offering of the gifts at Holy Mass and they help the priest in this
+6000x4000	CC BY 4.0	File:Priest reading Gospel verses before the altar.jpg	| Christmas Eve Mass at St. Paul the Apostle Chaldean Catholic Church in Sikanian village, Kirkuk, Iraq.
+4641x6994	CC BY-SA 4.0	File:Inneres der Pfarrkirche Steyr-Ennsleite 5.jpg	| Pfarrkirche Steyr-Ennsleite: Blick auf den Altar und die Orgel an der Ostseite
+### cat:Saint Louis de Montfort
+SUBCATS: Saint Louis de Montfort churches | Calvaire de Pontchâteau | Cour Cathuis (Nantes) | Croix de Fromenteau (Vallet, Loire-Atlantique) | Saint Louis de Montfort on stained-glass windows | Sculptures of Saint Louis de Montfort
+4752x3168	CC BY-SA 3.0	File:Guyonniere CalvaireMeslay 59028.JPG	| Calvaire de Montfort, le Meslay, Fr-85-La Guyonnière.
+4752x3168	CC BY-SA 4.0	File:W2370-Mervent ErmitageMontfort Maison 37783.JPG	| Site de l'ermitage de Grignion de Montfort, sa maison, Fr-85-Forêt de Mervent.
+4752x3168	CC BY-SA 4.0	File:W2372-Mervent ErmitageMontfort X 37708.JPG	| Site de l'ermitage de Grignion de Montfort, sa croix, Fr-85-Forêt de Mervent.
+3168x4752	CC BY-SA 4.0	File:W2373-Mervent ErmitageMontfort X 37780.JPG	| Site de l'ermitage de Grignion de Montfort, la croix commémorative, Fr-85-Forêt de Mervent.
+2560x1440	CC BY-SA 4.0	File:Louis de Montfort sculpture Thailand.png	| Louis de Montfort sculpture on a building of Assumption College Bangkok, Thailand
+1788x1245	Public domain	File:PL Grignon de Montfort - O doskonałym nabożeństwie.djvu	| Skany książki. Drugie wydanie - pierwsze przed 1945!
+2400x2904	CC BY-SA 4.0	File:LouisdeMontfort 2003 24 x20.jpg	| Louis de Montfort (24" x 20"), painted by artist Brian Whelan c. 2003
+3168x4752	CC BY-SA 4.0	File:W2935 StLaurentSurSevre StLaurent TombeauMontfort 80320Eos.jpg	| Tombeau de Saint Louis de Montfort basilique Saint-Laurent, Fr-85-Saint-Laurent-sur-Sèvre
+3168x4752	CC BY-SA 4.0	File:W2936 StLaurentSurSevre StLaurent TombeauMontfort 80321Eos.jpg	| Tombeau de Saint Louis de Montfort basilique Saint-Laurent, Fr-85-Saint-Laurent-sur-Sèvre
+3104x3811	CC BY-SA 2.0	File:Dinan (Côtes-d'Armor) - Basilique Saint-Sauveur - Vitrail (50588975428).jpg	| Dinan (Côtes-d'Armor) - Basilique Saint-Sauveur - Vitrail
+3376x5984	CC BY-SA 4.0	File:W3759 Mallievre StGilles Tresor ReliquaireGrignionDeMontfortXIX 7792XA2.jpg	| Mallièvre, Trésor (reliquaire L.M.G. de Montfort, XIX°), église Saint-Gilles (XIX°)
