@@ -40,7 +40,7 @@ jobs:
         run: npm run build
 
       - name: Recuperar cópia das imagens (cache entre builds)
-        uses: actions/cache@v4
+        uses: actions/cache/restore@v4
         with:
           path: .cache/imagens
           key: imagens-${{ github.run_id }}
@@ -48,6 +48,14 @@ jobs:
 
       - name: Servir as imagens pelo próprio site (sem depender do Supabase na visita)
         run: node scripts/espelhar-imagens.mjs
+
+      # Salva já aqui (e não só no fim): se o envio falhar, a próxima publicação não baixa tudo de novo
+      - name: Guardar cópia das imagens
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/imagens
+          key: imagens-${{ github.run_id }}
 
       - name: Conferir arquivos essenciais
         run: |
@@ -57,6 +65,20 @@ jobs:
           test -f dist/robots.txt
           test -f dist/.htaccess
           echo "Páginas geradas: $(find dist -name '*.html' | wc -l)"
+
+      # Imagens primeiro, com lftp: retoma de onde parou e só envia o que ainda não existe
+      # (o nome de cada imagem leva a versão, então tamanho igual = arquivo igual)
+      - name: Enviar imagens para a Hostinger (lftp, com retomada)
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          sudo apt-get install -y -qq lftp > /dev/null
+          for tentativa in 1 2 3; do
+            lftp -u "$FTP_USERNAME","$FTP_PASSWORD" "$FTP_SERVER" -e "set ftp:ssl-allow no; set net:max-retries 4; set net:reconnect-interval-base 5; set net:timeout 60; mirror -R --ignore-time --parallel=3 --no-perms dist/img/ img/; quit" && break
+            echo "Tentativa $tentativa falhou; tentando de novo em 20 s"; sleep 20
+          done
 
       - name: Enviar para a Hostinger (FTP)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
@@ -69,6 +91,12 @@ jobs:
           timeout: 120000
           # A conta FTP da Hostinger já abre dentro de public_html: enviar para a raiz dela
           server-dir: ./
+          # As imagens vão pelo lftp no passo anterior
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            img/**
 
       - name: Avisar buscadores (IndexNow)
         continue-on-error: true
