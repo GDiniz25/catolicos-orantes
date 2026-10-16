@@ -2099,5 +2099,157 @@
    "titulo_sugerido": "Renovação dos votos de casamento na Igreja",
    "foco": "Bodas de prata e ouro na Igreja, bênção dos casais no aniversário (Ritual de Bênçãos), como pedir; não é novo sacramento."
   }
+ ],
+ "NV1": [
+  {
+   "category": "novenas",
+   "slug": "novena-a-sao-rafael-arcanjo",
+   "titulo_sugerido": "Novena a São Rafael Arcanjo: proteção, cura e encontros",
+   "foco": "Arcanjo do livro de Tobias (Tb 5 a 12): guia de Tobias, cura de Tobit, protege o casamento de Tobias e Sara. Intenções: proteção, cura, viagens, encontrar a pessoa certa, relacionamento e noivado, superar obstáculos para ficar junto de quem se ama. Festa dos Arcanjos 29/09; novena 20 a 28/09; pode ser rezada em qualquer época."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-santo-expedito",
+   "titulo_sugerido": "Novena a Santo Expedito: causas urgentes",
+   "foco": "Mártir de Melitene (Armênia), séc. IV, festa 19/04; devoção popular das causas urgentes; separar lenda (corvo, 'hodie') como tradição; não prometer prazos."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-sao-jorge",
+   "titulo_sugerido": "Novena a São Jorge: proteção e coragem na fé",
+   "foco": "Mártir (séc. IV), festa 23/04, grande devoção no Brasil; dragão como símbolo; proteção, coragem, vencer o mal; separar lenda e história."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-nossa-senhora-do-perpetuo-socorro",
+   "titulo_sugerido": "Novena a Nossa Senhora do Perpétuo Socorro",
+   "foco": "Ícone bizantino em Roma (Redentoristas, Igreja de Santo Afonso), festa 27/06; novena perpétua das quartas-feiras; ajuda em necessidades."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-nossa-senhora-do-carmo",
+   "titulo_sugerido": "Novena a Nossa Senhora do Carmo: escapulário",
+   "foco": "Festa 16/07; Ordem do Carmo; escapulário como sacramental; novena 7 a 15/07."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-nossa-senhora-das-dores",
+   "titulo_sugerido": "Novena a Nossa Senhora das Dores: consolo no sofrimento",
+   "foco": "Memória 15/09; sete dores de Maria; consolo para quem sofre, luto, doença; novena 6 a 14/09."
+  }
+ ],
+ "NV2": [
+  {
+   "category": "novenas",
+   "slug": "novena-a-nossa-senhora-do-bom-parto",
+   "titulo_sugerido": "Novena a Nossa Senhora do Bom Parto: gestantes",
+   "foco": "Devoção popular para gestação e parto; sem data universal; rezar nos meses finais da gravidez; lembrar acompanhamento médico; cuidado com promessas."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-sao-geraldo-majela",
+   "titulo_sugerido": "Novena a São Geraldo Majela: protetor das gestantes",
+   "foco": "Redentorista italiano (1726-1755), festa 16/10, padroeiro das mães e gestantes; novena 7 a 15/10; fatos verificados."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-da-divina-misericordia",
+   "titulo_sugerido": "Novena da Divina Misericórdia: os 9 dias",
+   "foco": "Começa na Sexta-feira Santa e termina na véspera do Domingo da Divina Misericórdia (2º domingo da Páscoa; 2027: 26/03 a 03/04, domingo 04/04 — CONFIRA as datas da Páscoa de 2027); Santa Faustina; NÃO copiar o texto do Diário (traduções protegidas): descrever a intenção de cada dia e oferecer sugestões de oração próprias; Terço da Misericórdia (link /terco-da-misericordia)."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-sagrada-familia",
+   "titulo_sugerido": "Novena à Sagrada Família: pela família",
+   "foco": "Festa no domingo da oitava do Natal (2026: 27/12; confira); intenções pela família, casais, filhos, lares em crise."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-santa-monica",
+   "titulo_sugerido": "Novena a Santa Mônica: pelos filhos afastados da fé",
+   "foco": "Mãe de Santo Agostinho, festa 27/08; perseverança na oração pelos filhos e cônjuge; Confissões de Agostinho (sem citar frases não verificadas)."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-sao-charbel",
+   "titulo_sugerido": "Novena a São Charbel: cura e paz",
+   "foco": "Monge maronita libanês (1828-1898), canonizado 1977, festa 24/07; devoção forte no Brasil, costume do dia 22; cura e paz interior; sem prometer cura, lembrar medicina."
+  }
+ ],
+ "NV3": [
+  {
+   "category": "novenas",
+   "slug": "novena-a-santa-edwiges",
+   "titulo_sugerido": "Novena a Santa Edwiges: pelos endividados e pobres",
+   "foco": "Duquesa da Silésia (1174-1243), festa 16/10; padroeira popular dos endividados no Brasil; novena 7 a 15/10; responsabilidade financeira e caridade."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-sao-cosme-e-sao-damiao",
+   "titulo_sugerido": "Novena a São Cosme e São Damião: saúde e crianças",
+   "foco": "Mártires médicos gêmeos, memória litúrgica 26/09 (no Brasil a festa popular é 27/09); saúde, médicos, crianças; distinguir da devoção sincrética sem desrespeito."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-santa-dulce-dos-pobres",
+   "titulo_sugerido": "Novena a Santa Dulce dos Pobres: caridade e enfermos",
+   "foco": "Primeira santa nascida no Brasil (Salvador, 1914-1992), canonizada 13/10/2019, memória 13/08; enfermos e pobres; Obras Sociais Irmã Dulce."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-sao-padre-pio",
+   "titulo_sugerido": "Novena a São Padre Pio: sofrimento e confiança",
+   "foco": "Capuchinho (1887-1968), canonizado 2002, memória 23/09; sofrimento, confissão, confiança; não atribuir frases sem fonte."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-sao-camilo-de-lelis",
+   "titulo_sugerido": "Novena a São Camilo de Lélis: pelos enfermos",
+   "foco": "Fundador dos Camilianos (1550-1614), padroeiro dos doentes, hospitais e profissionais de saúde, memória 14/07."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-nossa-senhora-auxiliadora",
+   "titulo_sugerido": "Novena a Nossa Senhora Auxiliadora: ajuda dos cristãos",
+   "foco": "Festa 24/05; Pio VII 1815; Dom Bosco e Salesianos; novena 15 a 23/05; jovens, educação, proteção."
+  }
+ ],
+ "NV4": [
+  {
+   "category": "novenas",
+   "slug": "novena-da-graca-sao-francisco-xavier",
+   "titulo_sugerido": "Novena da Graça a São Francisco Xavier",
+   "foco": "Tradicionalmente de 4 a 12 de março (origem ligada ao jesuíta Marcelo Mastrilli, 1633 — confirme); festa 3/12; missionário jesuíta; pedir graças e vocação missionária."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-pelas-almas-do-purgatorio",
+   "titulo_sugerido": "Novena pelas almas do purgatório e por Finados",
+   "foco": "Rezar pelos falecidos (CIC 1030-1032, 2Mc 12,46); novena de 24/10 a 1/11 antes de Finados (2/11); indulgências de 1 a 8/11 (confira norma atual); luto cristão."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-nossa-senhora-do-rosario",
+   "titulo_sugerido": "Novena a Nossa Senhora do Rosário",
+   "foco": "Memória 7/10 (Lepanto 1571, Pio V); outubro mês do Rosário; novena 28/09 a 6/10; rezar o terço cada dia (link /terco-guiado)."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-santa-barbara",
+   "titulo_sugerido": "Novena a Santa Bárbara: proteção nas tempestades",
+   "foco": "Mártir dos primeiros séculos, memória 4/12 (fora do calendário universal desde 1969, mantida localmente; explique); proteção, mineiros, bombeiros; separar lenda."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-sao-cristovao",
+   "titulo_sugerido": "Novena a São Cristóvão: proteção dos motoristas",
+   "foco": "Mártir do séc. III, 25/07 (memória local desde 1969, explique); padroeiro dos motoristas e viajantes; bênção dos veículos; lenda do menino Jesus no ombro como tradição."
+  },
+  {
+   "category": "novenas",
+   "slug": "novena-a-sao-benedito",
+   "titulo_sugerido": "Novena a São Benedito: humildade e serviço",
+   "foco": "Frade franciscano siciliano (1524-1589), filho de escravizados africanos, canonizado 1807, memória 4/04 (no Brasil festa popular em datas variadas); padroeiro dos cozinheiros; humildade."
+  }
  ]
 }

@@ -1,0 +1,167 @@
+---
+import { Compass } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import CapaArtigo from '@/components/astro/CapaArtigo.astro';
+import { INTENCOES, PALAVRAS_DE_RISCO } from '@/data/novenasPorIntencao';
+import { getArticlesByCategory } from '@/lib/data';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Novenas', path: '/novenas' }, { name: 'Qual novena rezar', path: '/qual-novena-rezar' }];
+
+// Só entram as novenas que já têm artigo publicado
+const artigos = await getArticlesByCategory('novenas');
+const porSlug = new Map(artigos.map((a) => [a.slug, a]));
+const intencoes = INTENCOES.map((i) => ({ ...i, novenas: i.novenas.filter((s) => porSlug.has(s)) })).filter((i) => i.novenas.length);
+const usadas = [...new Set(intencoes.flatMap((i) => i.novenas))].map((s) => porSlug.get(s)!);
+const nomeCurto = (t: string) => t.split(':')[0].trim();
+const dados = intencoes.map(({ id, nome, palavras, novenas }) => ({ id, nome, palavras, novenas }));
+
+const FAQ = [
+  { q: 'Como saber qual novena rezar?', a: 'Pense na sua intenção principal e procure o santo ou a invocação de Nossa Senhora que a tradição da Igreja liga a ela: São Rafael para quem busca a pessoa certa e proteção, Santa Rita e São Judas para causas difíceis, São José para o trabalho e a família, Nossa Senhora do Bom Parto para a gravidez. Não existe novena errada: qualquer novena pode ser rezada por qualquer necessidade.' },
+  { q: 'Posso rezar duas novenas ao mesmo tempo?', a: 'Pode, mas costuma ser melhor rezar uma de cada vez, com atenção e constância. Se forem duas, reserve um momento tranquilo para cada uma.' },
+  { q: 'A novena garante a graça pedida?', a: 'Não. A novena é perseverança na oração, como Jesus ensina em Lucas 18,1. Os santos intercedem por nós junto de Deus (Catecismo, n. 956), e a resposta é sempre de Deus, que sabe o que é melhor.' },
+  { q: 'O que escrevo aqui fica salvo?', a: 'Não. A sugestão é feita no seu próprio aparelho: o texto não é enviado nem guardado pelo site.' },
+];
+---
+<BaseLayout
+  title="Qual novena rezar? Encontre a novena para o seu pedido"
+  description="Conte qual é a sua necessidade e veja qual novena rezar: proteção, namoro, saúde, emprego, família, gravidez, dívidas, luto e causas difíceis."
+  path="/qual-novena-rezar"
+  keywords="qual novena rezar, novena para proteção, novena para namoro, novena para conseguir emprego, novena para saúde, novena para causas impossíveis, novena para gravidez"
+  jsonLd={[{ '@type': 'WebPage', '@id': `${absUrl('/qual-novena-rezar')}#webpage`, url: absUrl('/qual-novena-rezar'), name: 'Qual novena rezar', inLanguage: 'pt-BR' }, faqSchema(FAQ), breadcrumbSchema(crumbs)]}
+>
+  <PageHeader title="Qual novena rezar?" subtitle="Escreva com suas palavras o que você quer pedir a Deus. Sugerimos as novenas que a tradição da Igreja liga a essa intenção." icon={Compass} crumbs={crumbs} tom={CATEGORY_VISUAL['novenas']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-4xl space-y-14 px-4">
+      <section aria-labelledby="pedido-titulo" class="rounded-2xl border border-co-warm-sand-dark bg-white p-5 md:p-7">
+        <h2 id="pedido-titulo" class="font-display text-2xl font-semibold text-co-warm-brown">Qual é a sua necessidade?</h2>
+        <form id="qn-form" class="mt-4 space-y-4" novalidate>
+          <label for="qn-texto" class="block text-[15px] text-co-warm-brown/80">Exemplo: quero pedir proteção para mim e para minha namorada e que Deus abra o caminho para ficarmos juntos.</label>
+          <textarea id="qn-texto" rows="4" maxlength="1000" class="w-full rounded-xl border border-co-warm-sand-dark bg-co-warm-cream/40 p-4 text-[16px] leading-relaxed text-co-warm-brown focus:border-co-warm-brown/50 focus:outline-none focus:ring-2 focus:ring-co-warm-brown/20" placeholder="Escreva aqui o seu pedido"></textarea>
+          <button type="submit" class="inline-flex min-h-[48px] w-full items-center justify-center rounded-xl bg-co-warm-brown px-6 font-semibold text-white hover:bg-co-warm-brown/90 sm:w-auto">Ver novenas sugeridas</button>
+          <p class="text-[13px] text-co-warm-brown/65">O texto fica só no seu aparelho. Nada é enviado nem guardado.</p>
+        </form>
+        <div class="mt-6">
+          <p class="mb-3 text-[15px] font-medium text-co-warm-brown">Ou escolha uma intenção:</p>
+          <ul class="flex flex-wrap gap-2">
+            {intencoes.map((i) => (
+              <li><button type="button" data-chip={i.id} class="qn-chip min-h-[40px] rounded-full border border-co-warm-sand-dark bg-co-warm-cream/60 px-4 text-[14px] text-co-warm-brown hover:border-co-warm-brown/40 aria-pressed:border-co-warm-brown aria-pressed:bg-co-warm-brown aria-pressed:text-white" aria-pressed="false">{i.nome}</button></li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
+      <section id="qn-resultado" aria-live="polite" hidden>
+        <div id="qn-risco" hidden class="mb-6 rounded-2xl border-2 border-co-warm-brown bg-co-warm-cream p-5">
+          <p class="font-semibold text-co-warm-brown">Você não está sozinho. Se está pensando em tirar a própria vida, ligue agora para o CVV no <a href="tel:188" class="underline">188</a> (gratuito, 24 horas) ou acesse cvv.org.br. Em emergência, ligue 192 (SAMU).</p>
+          <p class="mt-2 text-[15px] text-co-warm-brown/80">Procure também alguém de confiança e, quando puder, um padre. A oração caminha junto com essa ajuda.</p>
+        </div>
+        <h2 class="font-display text-2xl font-semibold text-co-warm-brown">Novenas sugeridas para você</h2>
+        <p id="qn-motivo" class="mt-2 text-[15px] text-co-warm-brown/80"></p>
+        <p id="qn-vazio" hidden class="mt-2 text-[15px] text-co-warm-brown/80">Não encontramos uma intenção clara no texto. Tente com outras palavras ou escolha uma das intenções acima. Qualquer novena pode ser rezada por qualquer necessidade.</p>
+        <ul id="qn-lista" class="gs gs-sm2 mt-5 gap-4">
+          {usadas.map((a) => (
+            <li data-novena={a.slug} hidden>
+              <a href={`/novenas/${a.slug}`} class="group block h-full overflow-hidden rounded-2xl border border-co-warm-sand-dark bg-white hover:border-co-warm-brown/35">
+                <CapaArtigo category="novenas" image_url={a.image_url} class="aspect-[16/9] w-full" sizes="(min-width: 640px) 50vw, calc(100vw - 32px)" />
+                <div class="p-4">
+                  <p class="font-display text-lg font-semibold text-co-warm-brown group-hover:underline">{nomeCurto(a.title)}</p>
+                  <p class="qn-porque mt-1 text-[14px] text-co-warm-brown/70"></p>
+                </div>
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p class="mt-5 text-[15px] text-co-warm-brown/80">Escolheu? Use o <a href="/planejador-de-novena" class="font-medium underline">Planejador de Novena</a> para receber lembretes e marcar os 9 dias.</p>
+      </section>
+
+      <section aria-labelledby="por-intencao">
+        <h2 id="por-intencao" class="font-display text-2xl font-semibold text-co-warm-brown">Novenas por intenção</h2>
+        <p class="mt-2 text-[15px] text-co-warm-brown/80">As indicações seguem a devoção tradicional ligada a cada santo. A graça vem de Deus, e qualquer novena pode ser rezada por qualquer pedido.</p>
+        <div class="mt-6 space-y-8">
+          {intencoes.map((i) => (
+            <div id={`novena-${i.id}`} class="scroll-mt-24">
+              <h3 class="font-display text-xl font-semibold text-co-warm-brown">{i.titulo}</h3>
+              <p class="mt-1 text-[15px] leading-relaxed text-co-warm-brown/80">{i.texto}</p>
+              <ul class="mt-3 flex flex-wrap gap-x-5 gap-y-2">
+                {i.novenas.map((s) => <li><a href={`/novenas/${s}`} class="font-medium text-co-warm-brown underline decoration-co-warm-brown/30 underline-offset-4 hover:decoration-co-warm-brown">{nomeCurto(porSlug.get(s)!.title)}</a></li>)}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+  <script is:inline type="application/json" id="qn-dados" set:html={JSON.stringify({ intencoes: dados, risco: PALAVRAS_DE_RISCO })} />
+  <script>
+    const dados = JSON.parse(document.getElementById('qn-dados')!.textContent || '{}') as {
+      intencoes: { id: string; nome: string; palavras: string[]; novenas: string[] }[];
+      risco: string[];
+    };
+    const norm = (t: string) => ' ' + t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, ' ').trim() + ' ';
+    const form = document.getElementById('qn-form') as HTMLFormElement;
+    const texto = document.getElementById('qn-texto') as HTMLTextAreaElement;
+    const resultado = document.getElementById('qn-resultado')!;
+    const chips = [...document.querySelectorAll<HTMLButtonElement>('.qn-chip')];
+    const itens = [...document.querySelectorAll<HTMLLIElement>('[data-novena]')];
+
+    function mostrar(pontos: Map<string, number>, motivos: Map<string, string[]>, intencoesAchadas: string[], risco: boolean) {
+      resultado.hidden = false;
+      document.getElementById('qn-risco')!.hidden = !risco;
+      const ordem = [...pontos.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([s]) => s);
+      document.getElementById('qn-vazio')!.hidden = ordem.length > 0;
+      const motivo = document.getElementById('qn-motivo')!;
+      motivo.textContent = intencoesAchadas.length ? `Pelo que você escreveu: ${intencoesAchadas.join(', ').toLowerCase()}.` : '';
+      const lista = document.getElementById('qn-lista')!;
+      itens.forEach((li) => (li.hidden = true));
+      ordem.forEach((s) => {
+        const li = itens.find((l) => l.dataset.novena === s);
+        if (!li) return;
+        li.hidden = false;
+        li.querySelector('.qn-porque')!.textContent = 'Tradicional para: ' + (motivos.get(s) || []).join(', ').toLowerCase();
+        lista.appendChild(li);
+      });
+      resultado.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
+    }
+
+    function sugerir(pesos: Map<string, number>, risco = false) {
+      const pontos = new Map<string, number>();
+      const motivos = new Map<string, string[]>();
+      const achadas: string[] = [];
+      for (const i of dados.intencoes) {
+        const p = pesos.get(i.id) || 0;
+        if (!p) continue;
+        achadas.push(i.nome);
+        i.novenas.forEach((s, pos) => {
+          pontos.set(s, (pontos.get(s) || 0) + p * Math.max(0.4, 1 - pos * 0.15));
+          motivos.set(s, [...(motivos.get(s) || []), i.nome]);
+        });
+      }
+      mostrar(pontos, motivos, achadas, risco);
+    }
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const t = norm(texto.value);
+      const pesos = new Map<string, number>();
+      for (const i of dados.intencoes) {
+        const n = i.palavras.filter((p) => t.includes(' ' + p)).length;
+        if (n) pesos.set(i.id, n);
+      }
+      chips.forEach((c) => c.setAttribute('aria-pressed', 'false'));
+      sugerir(pesos, dados.risco.some((r) => t.includes(' ' + r)));
+    });
+
+    chips.forEach((c) =>
+      c.addEventListener('click', () => {
+        chips.forEach((o) => o.setAttribute('aria-pressed', String(o === c)));
+        sugerir(new Map([[c.dataset.chip!, 1]]));
+      }),
+    );
+  </script>
+</BaseLayout>
