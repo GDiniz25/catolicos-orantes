@@ -1,0 +1,19 @@
+name: folhas de recorte
+on: { push: { branches: [verificar-imagens], paths: [recortes.mjs, .github/workflows/recortes.yml] } }
+permissions: { contents: write }
+jobs:
+  r:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm i sharp@0.33.5 --no-save
+      - env:
+          SB_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          SB_KEY: ${{ secrets.VITE_SUPABASE_PUBLISHABLE_KEY }}
+        run: rm -rf recortes && node recortes.mjs
+      - run: |
+          git config user.name bot && git config user.email bot@users.noreply.github.com
+          git add -A recortes && git commit -m "folhas de recorte" && git pull --rebase && git push
