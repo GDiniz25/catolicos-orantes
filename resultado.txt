@@ -81,150 +81,61 @@ OK	fr/at2_m6	1164x1290	Public domain		File:La victoire de Judas Macchabée - Fra
    DESC: 
    CATS: Artworks missing digital representation of for 2D work | Artworks with SDC link missing | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Author died more than 70 years ago public domain images | CC-PD-Mark | François-Joseph Heim | Judas Maccabeus | PD US expired | Paintings in Musée Magnin
    LICURL:  USAGE: Public domain
-### Prayer of Solomon painting
-4096x3282	Public domain	File:Solomon's ship LCCN2003689369.jpg	| Title: Solomon's ship Abstract/medium: 1 photographic print.
-4096x3282	Public domain	File:Solomon's ship LCCN2003689369.tif	| Title: Solomon's ship Abstract/medium: 1 photographic print.
-3695x5380	Public domain	File:Cyclopedia Of Painters And Paintings Volume III.djvu	| 
-1081x1841	Public domain	File:The prayer life of Jesus, (IA prayerlifeofjesu00dodd).pdf	| xii p. 1 l, 15-173 p. 20 cm Subjects: Jesus Christ -- Prayers; Prayer
-1408x2029	Public domain	File:A catalogue of the paintings in the Museo del Prado at Madrid (IA catalogueofpaint00muse 0).pdf	| Subjects: Painting
-1656x2716	Public domain	File:Exhibition of modern works in painting and sculpture - forming the collection of the late George McCulloch (IA exhibitionofmode00mccu).pdf	| Includes index Subjects: Art, Modern
-1041x1433	Public domain	File:A new history of painting in Italy, from the II to the XVI century; (IA gri 33125002699102).pdf	| Includes bibliographical references and index 1. Early Christian art; Giotto &amp; his followers.--II. The Sienese school of the XIV century
-1820x2914	Public domain	File:Exhibition of modern works in painting and sculpture - forming the collection of the late George McCulloch (IA gri 33125006236794).pdf	| Catalog of an exhibition held at the Royal Academy of Arts, Jan. 4-Mar 13, 1909 Includes index Subjects: Art, European; Art, Modern
-1150x1672	Public domain	File:Cyclopedia of painters and paintings (IA cu31924061775510).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
-1154x1618	Public domain	File:Cyclopedia of painters and paintings (IA cu31924061775841).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
-2400x2400	Public domain	File:Gregory of Narek ; Origen of Alexandria ; Arewelts'i, Vardan ; Gregory of Tat'ew. Four commentaries on King Solomon’s Song of Songs. Ejmiadzin, Armenia, 1787 CE.jpg	| Gregory of Narek / Origen of Alexandria / Arewelts'i, Vardan / Gregory of Tat'ew. Four commentaries on King Solomon’s Song of Songs. Ejmiadz
-4096x3246	Public domain	File:King David in prayer before the Ark of the Covenant, Leonaert Bramer.jpeg	| Solomon's idolatry
-### Solomon kneeling altar
-1478x1125	CC BY 3.0	File:Freemasons Hall. London. Shrine. Casket. Front. 1939.jpg	| Casket for the Roll of Honour, Freemasons' Hall, Great Queen Street, London. 1939. The shrine takes the form of an altar on a boat. It conta
-2105x3400	CC0	File:Southern France, Toulouse(?), 13th century - Fol. 160r, Chronicles II, historiated initial C, Solomon kneeling before an - 2008.2.160.a - Cleveland Museum of Art.jpg	| Biblical manuscripts were highly prized and important possessions of churches, monasteries, cathedral schools, and universities throughout m
-3576x5776	CC0	File:Southern France, Toulouse(?), 13th century - Fol. 160r, Chronicles II, historiated initial C, Solomon kneeling before an - 2008.2.160.a - Cleveland Museum of Art.tif	| Biblical manuscripts were highly prized and important possessions of churches, monasteries, cathedral schools, and universities throughout m
-4248x3602	CC0	File:Salomo bidt om wijsheid, RP-P-OB-4511AA(R).jpg	| IdentificatieTitel(s): Salomo bidt om wijsheidObjecttype: prent boekillustratie Objectnummer: RP-P-OB-4511. AA(R)Catalogusreferentie: Hollst
-1289x2041	Public domain	File:Before the altar; or, A series of annotated propositions on liturgics to which is added a selection of standard forms (IA beforealtarorser00schu).pdf	| Subjects:
-1139x1627	Public domain	File:Art among the Hebrews. The Temple of Solomon (IA jstor-25527460).pdf	| "Art among the Hebrews. The Temple of Solomon" is an article from &lt;a href='/search.php?query=collection%3Ajstor_crayon%20AND%20volume%3A3
-5834x4054	CC0	File:Inwijding van de tempel van Salomo, RP-P-1896-A-19368-2087.jpg	| IdentificatieTitel(s): Inwijding van de tempel van SalomoObjecttype: prent boekillustratie Objectnummer: RP-P-1896-A-19368-2087Catalogusrefe
-5902x4156	CC0	File:Inwijding van de tempel van Salomo, RP-P-1896-A-19368-2088.jpg	| IdentificatieTitel(s): Inwijding van de tempel van SalomoObjecttype: prent boekillustratie Objectnummer: RP-P-1896-A-19368-2088Catalogusrefe
-2628x1904	CC0	File:Inwijding van de tempel van Salomo, RP-P-2019-3199.jpg	| IdentificatieTitel(s): Inwijding van de tempel van SalomoObjecttype: prent boekillustratie Objectnummer: RP-P-2019-3199Opschriften / Merken:
-### Solomon offering sacrifice painting
-2000x1629	Public domain	File:Sébastien Bourdon King Solomon Sacrificing To the Idols.jpg	| King Solomon Sacrificing to the Idols
-3695x5380	Public domain	File:Cyclopedia Of Painters And Paintings Volume III.djvu	| 
-1225x1722	Public domain	File:Catalogue of a collection of paintings and some art objects .. (IA catalogueofcolle03john).pdf	| "Three hundred copies printed for private distribution." I. Italian paintings, by Bernhard Berenson.--II. Flemish and Dutch paintings, by W.
-1408x2029	Public domain	File:A catalogue of the paintings in the Museo del Prado at Madrid (IA catalogueofpaint00muse 0).pdf	| Subjects: Painting
-1035x1491	Public domain	File:A book about fans; the history of fans and fan-painting (IA gri 33125008346864).pdf	| Subjects: Fans; Fan painting; Fans
-1054x1700	Public domain	File:Catalogue of a collection of paintings and some art objects .. (IA cu31924020553032).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
-1150x1672	Public domain	File:Cyclopedia of painters and paintings (IA cu31924061775510).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
-1154x1618	Public domain	File:Cyclopedia of painters and paintings (IA cu31924061775841).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
-1241x1760	Public domain	File:A curious collection of original paintings, ... 1691-10-22 (IA bim early-english-books-1641-1700 a-curious-collection-of- 1691-10-22).pdf	| A curious collection of original paintings, ... 1691-10-22..Digitized from IA40310711-07.Previous issue: bim_early-english-books-1641-1700_a
-1210x1710	Public domain	File:Cyclopedia of painters and paintings (IA cyclopediaofpain03chamuoft).pdf	| Bibliography: v. 1. p. xxi-xxxviii 26 29 Subjects: Painters -- Dictionaries; Painting
-### King Solomon painting Google Art Project
-5001x4056	Public domain	File:Sir Edward John Poynter - The visit of the Queen of Sheba to King Solomon - Google Art Project.jpg	| 
-1275x1650	Public domain	File:Co-operative housekeeping.djvu	| Feminist work addressing inequality of unpaid domestic work
-5100x6600	Public domain	File:Women in the Fine Arts From the Seventh Century B.C. to the Twentiet.djvu	| Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.
-5100x6600	Public domain	File:Notes & Queries for Somerset and Dorset v3.djvu	| Book digitized by Google and uploaded to the Internet Archive by user tpb.
-1290x1688	Public domain	File:Representative Women of New England.djvu	| Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.
-1062x1362	Public domain	File:Notes and Queries - Series 4 - General Index.pdf	| 
-1200x1643	Public domain	File:United States Naval Medical Bulletin Vol. 45, Nos. 1-6, 1945 (IA NavalMedicalBulletin451945).pdf	| Table of Contents Number 1 PREFACE iii NOTICE TO CONTRIBUTORS iv SPECIAL ARTICLES Tape Method of Skin-Grafting —Samuel G. Berkow 1 Posttraum
-3805x2548	Public domain	File:Sir Edward John Poynter - The visit of the Queen of Sheba to King Solomon - Google Art ProjectFXD.jpg	| 
-1427x1887	Public domain	File:French cathedrals (IA FrenchCathedrals).pdf	| INDEX TO THE ILLUSTRATIONS. AMIENS CATHEDRAL West Front to face page 1 Plan 6 South-east view 12 View from the fields 17 View of the Nave lo
-1275x1650	Public domain	File:Plants Of The Holy Land- With Their Fruits And Flowers, Beautifully Illustrated By Original Drawings, Colored From Nature (IA PlantsOfTheHolyLand).pdf	| "The work is intended to comprise notices of every plant mentioned in the Scriptures, with its fruit and flowers. In this respect we believe
-1275x1650	Public domain	File:Harper's New Monthly Magazine (IA harpersnewmonthl34harp).pdf	| "Harper's New Monthly Magazine", by Harper &amp; Brothers, New York, NY. 1850-1922. PDF courtesy of HathiTrust: https://catalog.hathitrust.o
-1275x1650	Public domain	File:The Canadian antiquarian and numismatic journal (IA series1vols09to10canj).pdf	| Series 1, vols. 9-10. Subjects: Numismatics
-1275x1650	Public domain	File:Harper's New Monthly Magazine (IA harpersnewmonthl1harp).pdf	| "Harper's New Monthly Magazine", by Harper &amp; Brothers, New York, NY. 1850-1922. PDF courtesy of HathiTrust- https-catalog.hathitrust.org
-2129x3385	Public domain	File:The Strand Magazine (Volume 22).djvu	| 
-1195x1610	Public domain	File:Illustrated History of Lane County, Oregon (HT nyp.33433081822359).pdf	| 508 p. front., plates, ports., map. 30 cm.; subjects: Pacific Coast Indians, Wars with, 1847-1865. Oregon &gt; Oregon /History. Lane County 
-1275x1650	CC BY 2.5	File:05May2006.pdf	| n:Wikinews:Print edition for May 5, 2006.
-### Andrea Sacchi Divine Wisdom
-3456x2304	CC BY 3.0	File:Galleria di luca giordano, 1682-85, antro dell'eternità e nascita dell'uomo 01.JPG	| Apotheosis of the Medici family by Luca Giordano
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 02.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 01.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 03.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 04.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 05.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 06.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 07.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 09 globo.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 08.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 10.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 12.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 11.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 13.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 14 sole.JPG	| 
-3000x2957	Public domain	File:Drawing, Design for Allegory of Divine Wisdom, Reception Room, Palazzo Barberini, Rome, Italy, 1629–33 (CH 18111015).jpg	| Design for a ceiling painting. In the center, one figure sits raised above a group of other figures, who all appear to be focused on the rai
-2500x1845	Public domain	File:Divina Sapienza (An Allegory of Divine Wisdom) (BM 1875,0710.3115).jpg	| Divine wisdom enthroned on a cloud surrounded by allegorical figures including Holiness, Purity, Perspicacity, Nobility, Justice (with scale
-1331x2016	Public domain	File:Ædes Barberinæ ad Qvirinalem (IA aedesbarberinaea00teti).pdf	| Added t.p. engraved by Camillo Cungi after Guido Ubaldo Abattini. Full-page port. of Urban VIII Barberini by J.F. Greuter after Andrea Camas
-3264x2448	CC BY-SA 4.0	File:Trionfo della Divina Sapienza di Andrea Sacchi in palazzo Barberini, Roma 1629-33.jpg	| Trionfo della Divina Sapienza, realizzato da Andrea Sacchi in una sala di palazzo Barberini a Roma nel 1629-33
-1674x964	CC BY-SA 4.0	File:Sacchi, Andrea - Allegory of Divine Wisdom - 1629-1633 (with details).svg	| Andrea Sacchi, Trionfo della Divina Sapienza, 1629-33 - Palazzo Barberini, Roma. Con schede di dettaglio delle figure dipinte.
-2780x6000	Public domain	File:Lucca Giordano, Allegory of Divine Wisdom (1682–85), Modelli for the Palazzo Medici Riccardi, Florence.png	| Lucca Giordano, Allegory of Divine Wisdom (1682–85), Modelli for the Palazzo Medici Riccardi, Florence
-3421x2909	CC0	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG1.jpg	| Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto
-5585x3723	CC0	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG4.jpg	| Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto
-4848x2866	CC0	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG3.jpg	| Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto
-4782x3604	CC0	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG2.jpg	| Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto
-4912x3274	CC0	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG5.jpg	| Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto
-4813x3208	CC0	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG6.jpg	| Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto
-6000x4000	CC0	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG7.jpg	| Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto
-### Allegory of Divine Wisdom painting
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 02.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 01.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 03.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 04.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 05.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 06.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 07.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 09 globo.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 08.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 10.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 12.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 11.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 13.JPG	| 
-3456x2304	CC BY 3.0	File:Andrea sacchi, allegoria della divina sapienza, 1629-33, 14 sole.JPG	| 
-3000x2957	Public domain	File:Drawing, Design for Allegory of Divine Wisdom, Reception Room, Palazzo Barberini, Rome, Italy, 1629–33 (CH 18111015).jpg	| Design for a ceiling painting. In the center, one figure sits raised above a group of other figures, who all appear to be focused on the rai
-1500x2495	Public domain	File:The young captive prince, a tale of allegory and fact (IA youngcaptiveprin00east).pdf	| Subjects: Princes
-1033x1629	Public domain	File:Iconografia dantesca; the pictorial representations to Dante's Divine comedy (IA iconografiadantesca00volk).pdf	| "Limited edition of 250 numbered copies. no. 42." "List of manuscripts" : p. xi-xiii "List of illustrated editions" : p. xiv-xvi Bibliograph
-5309x6664	CC0	File:Allegory of prudence by Wolff-Christian von der Müde.jpg	| Allegory of prudence by Wolff-Christian von der Müde. At the centre of the composition is a female figure, personifying Prudence. She sits o
-2780x6000	Public domain	File:Lucca Giordano, Allegory of Divine Wisdom (1682–85), Modelli for the Palazzo Medici Riccardi, Florence.png	| Lucca Giordano, Allegory of Divine Wisdom (1682–85), Modelli for the Palazzo Medici Riccardi, Florence
-### Judgement of Solomon Poussin
-1100x730	Public domain	File:Le Jugement de Salomon - 1649 - Nicolas Poussin - Louvre - INV 7277 ; MR 2316.jpg	| Judgment of Solomon
-1097x700	Public domain	File:Sebastiano del Piombo - The Judgment of Solomon - WGA21124.jpg	| Judgment of Solomon
-3256x2652	CC BY 4.0	File:One of the prostitutes whose child has died and whom Solomon Wellcome V0034687.jpg	| One of the prostitutes whose child has died and whom Solomon will judge. Stipple engraving after N. Poussin. Iconographic Collections Keywor
-5066x3415	CC BY-SA 4.0	File:Fresco of judgment of Solomon in Palazzo Farnese (Caprarola).jpg	| Fresco of judgment of Solomon in Palazzo Farnese (Caprarola)
-2000x1340	CC BY-SA 4.0	File:Jugement-de-salomon-poussin lignes courbes.jpg	| Curved lines in Le Jugement de Salomon by Poussin. Curved lines are noticeably poignant on the left side of the painting, where the drama is
-2000x1340	CC BY-SA 4.0	File:Jugement-de-salomon-poussin lignes diagonales.jpg	| Diagonal lines in Le Jugement de Salomon by Nicolas Poussin. The areas where more than two diagonals are intersecting are circled in yellow.
-2000x1340	CC BY-SA 4.0	File:Jugement-de-salomon-poussin lignes droites.jpg	| Straight lines in Le Jugement de Salomon by Nicolas Poussin.
-2000x1340	CC BY-SA 4.0	File:Jugement-de-salomon-poussin lignes symétrie.jpg	| Symmetry and thematic correspondance in Le Jugement de Salomon by Nicolas Poussin. Each colored circle on one side the painting has an echo 
-1455x951	Public domain	File:Jugement de Salomon, Jean Dughet, d'après Poussin, vers 1670.jpg	| 
-1289x971	Public domain	File:Jugement de Salomon, Guillaume Chasteau, d'après Poussin, 1680.jpg	| 
-1171x871	Public domain	File:Jugement de Salomon, Étienne Gantrel, d'après Poussin, version de Robert Hecquet, vers 1750.jpg	| 
-1638x1097	CC BY-SA 4.0	File:Jugement-de-salomon-poussin contraste des couleurs.jpg	| The Judgment of Solomon, but highly contrasted and saturated.
-1192x822	Public domain	File:Le Jugement de Salomon, Martial Desbois, Tabellae selectae ac Explicatae, Padoue, 1691 CROP.png	| 
-1011x1004	Public domain	File:Médaillon du Jugement de Salomon, d'après Poussin.jpg	| 
-1383x960	Public domain	File:Jugement de Salomon, Jean Dughet, d'après Poussin, entre 1653 et 1670.png	| 
-1500x1032	Public domain	File:Poussin - Le Jugement de Salomon, 1649, INV 7277 ; MR 2316.jpg	| Judgment of Solomon
-1261x845	CC BY-SA 4.0	File:Le Jugement de Salomon, Nicolas Poussin, Palette de couleur.png	| Palette de couleur du Jugement de Salomon de Nicolas Poussin (400).
-1276x903	Public domain	File:Jugement de Salomon, Guillaume Chasteau, d'après Poussin, vers 1670 CROP.jpg	| 
-1159x842	Public domain	File:Jugement de Salomon, Étienne Gantrel, d'après Poussin, version de Robert Hecquet, vers 1750 CROP.jpg	| 
-6000x4020	Public domain	File:Le Jugement de Salomon - 1649 - Nicolas Poussin - Louvre - INV 7277 ; MR 2316 (2).jpg	| Judgment of Solomon
-1262x845	CC BY-SA 4.0	File:Jugement de salomon Nicolas Poussin couleurs chaudes couleurs froides.png	| Jugement de salomon Nicolas Poussin couleurs chaudes couleurs froides
-### Judgement of Solomon Valentin
-1531x1956	Public domain	File:A new almanack, or prognostication for... 1671. 1671 (IA bim early-english-books-1641-1700 a-new-almanack-or-progn almanacs-l-m-d 1671).pdf	| A new almanack, or prognostication for... 1671. 1671..Digitized from IA40310607-36.Previous issue: bim_early-english-books-1641-1700_an-alma
-1350x2041	Public domain	File:A treatise of the sibyls, ... 1661 (IA bim early-english-books-1641-1700 a-treatise-of-the-sibyls blondel-david 1661).pdf	| A treatise of the sibyls, ... 1661..Digitized from IA40313705-77.Next issue: bim_early-english-books-1641-1700_-a-law-dict_blount-thomas_169
-### Judas Maccabeus Rubens
-1041x1470	Public domain	File:The twentieth century chronology of the world, being a digest of universal history from earliest times to 1903 A. D (IA twentiethcentury00horw).pdf	| Subjects: Chronology, Historical
-1102x1845	Public domain	File:Supplement to $15,000 Catalogue, No. 53 (IA supplementto15000053stei).pdf	| Subjects: Numismatics; Fixed Price Lists
-1050x1500	Public domain	File:The Great Handel Festival at the Crystal Palace (IA jstor-3370489).pdf	| "The Great Handel Festival at the Crystal Palace" is an article from &lt;a href="/search.php?query=collection%3Ajstor_musitimesingclas%20AND
-### Ciseri Maccabees
-### Judas Maccabaeus painting oil
-1955x3053	Public domain	File:Poems by Isaac Rosenberg (1922).djvu	| 1922 collection of poems written by Isaac Rosenberg.
-1275x1650	Public domain	File:The Numismatist, vol. 8 (IA TheNumismatist1895Vol08).pdf	| Subjects: Numismatics
-1275x1650	Public domain	File:The Canadian antiquarian and numismatic journal (IA series1vols11to13canj).pdf	| Series 1, vols. 11-13. Subjects: Numismatics
-### Holy Wisdom icon
-1200x1659	Public domain	File:Holy Wisdom (1812, Russian museum).jpg	| Icon Sophia, the Holy Wisdom, and syzygy Sophia with Jesus Christ
-1395x932	CC BY-SA 3.0	File:Uspenskiy sobor 005.JPG	| Фрески при входе в Успенский собор София Премудрость Божия. Фреска восточного фасада Успенского собора. На восточном фасаде Успенского собор
-1321x1728	Public domain	File:Holy Wisdom (16th c., Vologda museum).jpg	| Icon of Holy Wisdom ("Novgorod type"), from the "warm" church (heated winter church)of St. George in Vologda (late 16 century)
-2405x3224	Public domain	File:Holy Wisdom created home.jpg	| "Wisdom hath builded her house" (Премудрость созда Себе дом), Novgorod (1548). The title of this type of icon is from Proverbs 9:1 and refer
-2618x3508	Public domain	File:Holy Wisdom (17th c., Yaroslavl museum).jpg	| София Премудрость Божия Дерево, темпера. Ярославский музей-заповедник Середина XVII в. 180 × 131.4 см Инв. ЯМЗ 41526, ИК 405
-2954x2943	CC BY-SA 3.0	File:Pelena Holy Wisdom (16th c, GIM).jpg	| София Премудрость Божия. Пелена. Ткань - Италия (?), 2-я пол. 15 в.; шитье - Россия, нач. 16 в. Шелк (камка крупноузорная), шелковые, золотн
-1241x2440	CC BY-SA 3.0	File:Pelena Holy Wisdom (16th c, GIM) detail.jpg	| София Премудрость Божия. Пелена. Ткань - Италия (?), 2-я пол. 15 в.; шитье - Россия, нач. 16 в. Шелк (камка крупноузорная), шелковые, золотн
-2849x4289	Public domain	File:Saint Sophia The Wisdom of God - Google Art Project.jpg	| In the center there is a figure of Our Lady of the Sign, standing on a crescent-shaped moon. She is portrayed in rotunda, supported by seven
-1200x680	Public domain	File:Holy Wisdom (Yaroslavl, 19th c, priv.coll).jpg	| MacDougall's Fine Art Auctions
-1162x1365	Public domain	File:Holy Wisdom (Alma-Ata).jpg	| София Премудрость Божия // Государственный музей искусств имени А. Кастеева Республики Казахстан, Алматы
-1200x1644	Public domain	File:Holy Wisdom (16th c., Novgorod museum).jpg	| София Премудрость Божия // Новгородский государственный объединенный музей-заповедник "Holy Wisdom" icon, Novgorod museum. This is the icon 
-1600x1136	CC BY 4.0	File:Church of Saint Sophia Holy Wisdom 2000.jpg	| Обезглавленный храм Софии Премудрости Божией у Пушечного двора
+OK	fr/at2_s7	3421x2909	CC0	Fabrizio Garrisi	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG1.jpg
+   DESC: Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto della Sala della Divina Sapienza (Sala n. 18 nella numerazione dell'allestimento della galleria nel 2024), Roma
+   CATS: Allegory of Divine Wisdom by Andrea Sacchi | CC-Zero | Self-published work
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/at2_s8	6000x4000	CC0	Fabrizio Garrisi	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG7.jpg
+   DESC: Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto della Sala della Divina Sapienza (Sala n. 18 nella numerazione dell'allestimento della galleria nel 2024), Roma
+   CATS: Allegory of Divine Wisdom by Andrea Sacchi | CC-Zero | Self-published work
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/at2_s9	2618x3508	Public domain	Anonymous Russian icon painter (before 1	File:Holy Wisdom (17th c., Yaroslavl museum).jpg
+   DESC: София Премудрость Божия Дерево, темпера. Ярославский музей-заповедник Середина XVII в. 180 × 131.4 см Инв. ЯМЗ 41526, ИК 405
+   CATS: CC-PD-Mark | Icons in Yaroslavl Museum-Preserve | Icons of Sophia the Wisdom of God | Icons of Yaroslavl | PD-Art (PD-old-70) | PD-Art (PD-old default) | PD-Art missing SDC copyright status | PD-old missing SDC copyright status | Uploaded by Shakko/Photos | Uploaded by Shakko/Photos (icons)
+   LICURL:  USAGE: Public domain
+OK	fr/at2_s10	2405x3224	Public domain	Anonymous Russian icon painter (before 1	File:Holy Wisdom created home.jpg
+   DESC: "Wisdom hath builded her house" (Премудрость созда Себе дом), Novgorod (1548). The title of this type of icon is from Proverbs 9:1 and refers to the identification of Christ the Logos with Divine Wisdom (Hagia Sophia). The highly allegoric composition is centered on the "Feast of Wisdom" of Ephesians 3:8-12 The image of the "Power and Wisdom of GOD" on the throne is surrounded by the ranks of the 
+   CATS: 1548 in Russia | 16th-century icons in the Tretyakov Gallery | 16th-century icons of Russia | CC-PD-Mark | Epistle to the Ephesians | Files, uploaded by Shakko from various sources | Kirillov Monastery (Veliky Novgorod) | PD-Art (PD-old-100) | PD-Art missing SDC copyright status | PD-old missing SDC copyright status | Wisdom hath builded her house (icon, Novgorod)
+   LICURL:  USAGE: Public domain
+OK	fr/at2_s11	6000x4020	Public domain	Nicolas Poussin	File:Le Jugement de Salomon - 1649 - Nicolas Poussin - Louvre - INV 7277 ; MR 2316 (2).jpg
+   DESC: Judgment of Solomon
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Estienne Gantrel | Files with derivative versions | Images from Web Gallery of Art | Images with extracted images | Le Jugement de Salomon - Nicolas Poussin | Musée du Louvre:Inventory/INV | PD-Art (PD-old-100-expired) | PD-old-100-expired | User:Zolo/files to check | WGA School: French | WGA form: painting | WGA time period: 1601-1650 | WGA type: religious
+   LICURL:  USAGE: Public domain
+OK	fr/at2_s12	4782x3604	CC0	Fabrizio Garrisi	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG2.jpg
+   DESC: Andrea Sacchi, La Divina Sapienza, 1630 circa. Gallerie Nazionali Barberini Corsini, Galleria di Palazzo Barberini, Decorazione del soffitto della Sala della Divina Sapienza (Sala n. 18 nella numerazione dell'allestimento della galleria nel 2024), Roma
+   CATS: Allegory of Divine Wisdom by Andrea Sacchi | CC-Zero | Self-published work
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/big_at2_m1	4000x2783	Public domain	Wojciech Korneli Stattler	File:Stattler, Wojciech Korneli - The Maccabees (1842) (4k).jpg
+   DESC: Measurements: height: 262 cm, width: 371 cm; with frame: height: 311.5 cm, width: 423 cm, depth: 21.5 cm "Wojciech Korneli Stattler's work oscillates between classicism and romanticism, and between religious, historical and portrait themes. He was influenced by both Italian quattro and cinquecento painting, especially Raphael, and the art of the German Nazarenes. These fascinations are legible in 
+   CATS: Author died more than 70 years ago public domain images | CC-PD-Mark | CC-Zero | PD US expired | Polish paintings in the National Museum in Kraków
+   LICURL:  USAGE: Public domain
+### Ciseri martirio Maccabei
+2736x3648	CC BY 2.5	File:Antonio ciseri, santa felicita e il martirio dei maccabei, 1860 circa.JPG	| 
+### Antonio Ciseri Maccabees
+### Rubens Judas Maccabaeus Nantes
+### Judas Maccabeus praying for the dead
+1143x1827	Public domain	File:The book and its story - a narrative for the young (IA bookitsstorynarr00lnr1 1).pdf	| Subjects:
+1120x1731	Public domain	File:The Book and its story;a narrative for the young- (IA bookitsstoryanar00rany).pdf	| xiv p., 1 1., 508 p. 19 cm Subjects: British and Foreign Bible Society; Bible -- History
+1295x1985	Public domain	File:Questions answered,gathered from the Question corner department of the "Signs of the times", (IA questionsanswere00wilc).pdf	| 245 p. 21 cm Subjects: Seventh-Day Adventists -- Doctrinal and controversial works
+1210x1429	Public domain	File:Pastoral address of the Right Reverend Doctor Connolly Bishop of St. John, N.B. to the clergy and laity of the diocese for the Lent of MDCCCLIV (microform) (IA cihm 51170).pdf	| '"They say to him ... "--Luke v. 33-35.' Filmed from a copy of the original publication held by the Seminary of Quebec, Library 43 Subjects:
+1275x1800	Public domain	File:Is the Doctrine of Purgatory Taught by the Early Fathers? (IA jstor-30064920).pdf	| "Is the Doctrine of Purgatory Taught by the Early Fathers?" is an article from &lt;a href="/search.php?query=collection%3Ajstor_cathlayman%2
+### Mother with seven sons painting
+1370x2188	Public domain	File:Andreyev - The Seven Who Were Hanged.djvu	| Short story by Leonid Andreyev.
+4318x7055	CC0	File:India, Calcutta, Kalighat painting, 19th century - Seven Heroes or Warriors Killing Abhimanya, Son of Arjuna - 2003.144 - Cleveland Museum of Art.tif	| Abhimanyu (son of Arjuna and Subhadra, nephew of Krishna) is a tragic figure from the epic Mahabharata (The Great History of the Descendants
+1245x1958	Public domain	File:The works of Kathleen Norris. (Vol. 1, MOTHER, THE TREASURE) (IA worksofkathleenn01norr).pdf	| 11 v. 22 cm "Autograph edition, limited to two hundred and sevety-seven copies, of which this is no. 276." I. Mother. The treasure.--II. The
+1100x1510	Public domain	File:The history of modern painting - Richard Muther - revised ed. 1907, vol. 2 (IA historyofmod02muth).pdf	| "Index of artists": v. 4, p. 403-444 Bibliography at end of each volume Subjects: Painting
+1052x1462	Public domain	File:The history of modern painting - Richard Muther - revised ed. 1907, vol. 1 (IA historyofmodernp01muth).pdf	| "Index of artists": v. 4, p. 403-444 Bibliography at end of each volume Subjects: Painting
+1172x1656	Public domain	File:A history of painting (IA historyofpaintin02macf).pdf	| "Limited to 1,000 numbered copies, of which this is number 826." Plates accompanied by guard sheets with descriptive letterpress " Bibliogra
+1181x1666	Public domain	File:A history of painting (IA historyofpaintin06macf).pdf	| "Limited to 1,000 numbered copies, of which this is number 826." Plates accompanied by guard sheets with descriptive letterpress " Bibliogra
+1000x1500	Public domain	File:Seven Men (1920).djvu	| 
+### Salomo bidt om wijsheid schilderij
+1045x1500	Public domain	File:Geïllustreerde catalogus der tentoonstelling van schilderijen van Wasili Wereschagin (IA gri 33125016427698).pdf	| 48 pages : 20 cm Subjects: Vereshchagin, Vasiliĭ Vasilʹevich, 1842-1904 -- Exhibitions; Vereshchagin, Vasiliĭ Vasilʹevich, 1842-1904
+### Solomon Gibeon dream painting
+1083x1800	Public domain	File:Thoughts on dreaming. Wherein the notion of the sensory and the opinion that it is shut up from the inspection of the soul in sleep (IA b30352411).pdf	| 2 leaves, 96 pages ; (8vo) Subjects: Dreams
+1077x1700	Public domain	File:Hand-book of Bible biography (IA handbookofbibleb00barn).pdf	| "List of the principal works consulted": p. [8]-9 Subjects: Bible; Bible
+1175x1914	Public domain	File:Jesus before Pilate, a monograph of the crucifixion, including the reports, letters and acts of pontius Pilate concerning the trial and crucifixion of Jesus of Nazareth- (IA jesusbeforepilat00clou).pdf	| First published, 1880, under title: Gesta Pilati The "Acts of Pilate" (p. [37]-134) are also known as the "Gospel of Nicodemus" The "Report 
+1127x1610	Public domain	File:The comprehensive analysis of the Bible; (IA comprehensiveana00essi).pdf	| Subjects: Bible; Bible
+1060x1633	Public domain	File:Standard library catalogue of 2500 approved books. (IA standardlibraryc00bake 2).pdf	| 114 p. 17 cm Subjects: Best books -- United States; Libraries -- United States -- Book lists
+1331x2202	Public domain	File:Young folks Bible history (Vol. 2- Old Testament) (IA youngfolksbibleh02unse).pdf	| 4 v. 23 cm Subjects:
+2929x3954	Public domain	File:The New York Evangelist 1853-10-27- Vol 24 Iss 43 (IA sim evangelist-and-religious-review 1853-10-27 24 43).pdf	| The New York Evangelist 1853-10-27: Volume 24, Issue 43.Digitized from IA1532521-02.Previous issue: sim_evangelist-and-religious-review_1853
+1493x2225	Public domain	File:Description of Banvard's great pictures of Jerusalem and the Holy Land - painted from authentic drawings made upon the spot, during an extensive journ (IA descriptionofban00banv 1).pdf	| 32 pages : 23 cm Cover title: Description of Banvard's pilgrimage to the Holy Land Subjects: Palestine -- Description and travel
