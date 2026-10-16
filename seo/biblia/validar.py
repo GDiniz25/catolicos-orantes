@@ -58,7 +58,10 @@ for d in dados:
     if n > 1800: errs.append(f'{k}: {n} palavras (maximo 1800)')
     for proib in ('poderosa', 'mergulh', 'jornada', 'neste artigo'):
         if proib in texto.lower(): errs.append(f'{k}: palavra a evitar "{proib}"')
-    aspas = re.findall(r'[“"]([^”"]{120,})[”"]', texto)
+    # pares de aspas na ordem (abre, fecha), para não contar o trecho entre duas citações
+    marcas = re.findall(r'[“”"«»]', texto)
+    pedacos = re.split(r'[“”"«»]', texto)
+    aspas = [pedacos[i] for i in range(1, len(pedacos), 2) if len(pedacos[i]) >= 160]
     if aspas: errs.append(f'{k}: citacao longa entre aspas ({len(aspas)}): resuma ou parafraseie')
 if len(sys.argv) >= 5:
     lv, a, b = sys.argv[2], int(sys.argv[3]), int(sys.argv[4])
