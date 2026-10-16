@@ -1,0 +1,103 @@
+---
+import { BookOpen, ChevronLeft, ChevronRight } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/astro/Breadcrumbs.astro';
+import Faq from '@/components/astro/Faq.astro';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { addHeadingIds } from '@/lib/toc';
+import { absUrl, breadcrumbSchema, faqSchema, publisherRef } from '@/lib/seo';
+import { imagemDoLivro, livroPorSlug, reflexao, todasReflexoes, type ReflexaoCapitulo } from '@/lib/bibliaReflexoes';
+
+export function getStaticPaths() {
+  return todasReflexoes().map((r) => ({ params: { livro: r.livro, cap: String(r.cap) }, props: { r } }));
+}
+const { r } = Astro.props as { r: ReflexaoCapitulo };
+const livro = livroPorSlug.get(r.livro)!;
+const ref = `${livro.nome} ${r.cap}`;
+const path = `/biblia/${r.livro}/${r.cap}`;
+const tom = CATEGORY_VISUAL['catecismo'];
+const img = imagemDoLivro(r.livro);
+const anterior = r.cap > 1 && reflexao(r.livro, r.cap - 1) ? r.cap - 1 : null;
+const proximo = r.cap < livro.capitulos && reflexao(r.livro, r.cap + 1) ? r.cap + 1 : null;
+const { html, toc } = addHeadingIds(r.html);
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Bíblia', path: '/biblia' },
+  { name: livro.nome, path: `/biblia/${r.livro}` },
+  { name: `Capítulo ${r.cap}`, path },
+];
+const jsonLd: Record<string, unknown>[] = [
+  {
+    '@type': 'Article',
+    '@id': `${absUrl(path)}#article`,
+    headline: r.titulo,
+    description: r.meta,
+    inLanguage: 'pt-BR',
+    url: absUrl(path),
+    mainEntityOfPage: absUrl(path),
+    about: { '@type': 'CreativeWork', name: ref, isPartOf: { '@type': 'Book', name: 'Bíblia Sagrada' } },
+    ...(img ? { image: absUrl(img.src) } : {}),
+    author: publisherRef,
+    publisher: publisherRef,
+  },
+  breadcrumbSchema(crumbs),
+  faqSchema(r.faq),
+];
+---
+<BaseLayout title={r.titulo} description={r.meta} path={path} ogType="article" image={img ? absUrl(img.src) : undefined} imageAlt={img?.alt} jsonLd={jsonLd} hidePrayerCTA>
+  <main id="conteudo">
+    <header class="relative overflow-hidden border-b border-co-warm-sand-dark" style={`background:${tom.fundo}`}>
+      <span class="pointer-events-none absolute -right-10 -top-8 hidden opacity-[0.07] md:block" style={`color:${tom.tinta}`} aria-hidden="true"><BookOpen className="h-72 w-72" strokeWidth={1.1} /></span>
+      <div class="container relative mx-auto max-w-6xl px-4 pb-8 pt-6 md:pb-12 md:pt-8">
+        <Breadcrumbs crumbs={crumbs} class="mb-5" />
+        <div class="max-w-[46rem]">
+          <a href={`/biblia/${r.livro}`} class="inline-flex items-center gap-2 rounded-full bg-white/70 px-3 py-1 text-sm font-semibold hover:bg-white" style={`color:${tom.tinta}`}>
+            <BookOpen className="h-4 w-4" strokeWidth={1.8} aria-hidden="true" />{livro.nome}
+          </a>
+          <h1 class="mt-4 font-display text-3xl font-semibold leading-tight md:text-[2.75rem] md:leading-[1.15]">{r.titulo}</h1>
+          <p class="mt-4 text-lg leading-relaxed text-co-warm-brown/85">Leia {ref} na sua Bíblia e acompanhe aqui a explicação, o que a Igreja ensina e uma reflexão para rezar.</p>
+        </div>
+      </div>
+    </header>
+
+    <div class="container mx-auto grid max-w-6xl gap-10 px-4 pt-8 md:pt-10 lg:grid-cols-[minmax(0,46rem)_minmax(0,1fr)] lg:gap-14">
+      <article class="min-w-0">
+        {img && (
+          <figure class="mb-10">
+            <img src={img.src} alt={img.alt} width="1200" height="675" class="aspect-[16/9] w-full rounded-lg bg-co-warm-cream object-cover" style={`object-position:${img.foco ?? '50% 25%'}`} loading="eager" fetchpriority="high" decoding="async" />
+            <figcaption class="mt-2 text-[13px] leading-snug text-co-warm-brown/75">{img.credito}</figcaption>
+          </figure>
+        )}
+        <div class="article-prose" data-prose>
+          <Fragment set:html={html} />
+        </div>
+        <div class="mt-12"><Faq title={`Perguntas sobre ${ref}`} items={r.faq} /></div>
+
+        <nav class="mt-12 grid grid-cols-2 gap-3" aria-label="Capítulos">
+          {anterior ? (
+            <a href={`/biblia/${r.livro}/${anterior}`} class="flex min-h-[64px] items-center gap-2 rounded-lg border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35">
+              <ChevronLeft className="h-5 w-5 shrink-0" aria-hidden="true" /><span><span class="block text-[13px] text-co-warm-brown/75">Anterior</span><span class="font-semibold">{livro.nome} {anterior}</span></span>
+            </a>
+          ) : <span />}
+          {proximo ? (
+            <a href={`/biblia/${r.livro}/${proximo}`} class="flex min-h-[64px] items-center justify-end gap-2 rounded-lg border border-co-warm-sand-dark bg-white p-4 text-right hover:border-co-warm-brown/35">
+              <span><span class="block text-[13px] text-co-warm-brown/75">Próximo</span><span class="font-semibold">{livro.nome} {proximo}</span></span><ChevronRight className="h-5 w-5 shrink-0" aria-hidden="true" />
+            </a>
+          ) : <span />}
+        </nav>
+        <p class="mb-16 mt-8 text-[15px] text-co-warm-brown/80">Está lendo a Bíblia inteira? Acompanhe no <a href="/plano-de-leitura-da-biblia" class="font-medium text-co-warm-terracotta underline-offset-4 hover:underline">Plano de leitura da Bíblia</a> ou reze o texto com a <a href="/lectio-divina" class="font-medium text-co-warm-terracotta underline-offset-4 hover:underline">Lectio Divina</a>.</p>
+      </article>
+
+      {toc.length >= 3 && (
+        <aside class="hidden lg:block">
+          <nav aria-label="Nesta página" class="sticky top-24 rounded-lg border border-co-warm-sand-dark bg-white p-5">
+            <p class="mb-3 text-sm font-semibold text-co-warm-brown/80">Nesta página</p>
+            <ol class="space-y-0.5 text-[15px]">
+              {toc.map((t) => <li><a href={`#${t.id}`} class="block rounded-md px-3 py-1.5 leading-snug text-co-warm-brown/80 hover:bg-co-warm-cream hover:text-co-warm-terracotta">{t.text}</a></li>)}
+            </ol>
+          </nav>
+        </aside>
+      )}
+    </div>
+  </main>
+</BaseLayout>

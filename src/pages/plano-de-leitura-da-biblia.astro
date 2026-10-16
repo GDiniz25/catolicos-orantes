@@ -6,6 +6,7 @@ import ContaProgresso from '@/components/islands/ContaProgresso';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import Faq from '@/components/astro/Faq.astro';
 import PlanoLeitura from '@/components/islands/PlanoLeitura';
+import { disponiveis } from '@/lib/bibliaReflexoes';
 import { CATEGORY_VISUAL } from '@/config/categoryVisual';
 import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
 
@@ -26,8 +27,9 @@ const FAQ = [
   <PageHeader title="Plano de leitura da Bíblia" subtitle="Escolha um plano, marque o que leu e acompanhe seu progresso. Fica salvo neste aparelho e, se você entrar com seu e-mail, em qualquer aparelho." icon={BookOpenCheck} crumbs={crumbs} tom={CATEGORY_VISUAL['catecismo']} />
   <main id="conteudo" class="py-8 md:py-12">
     <div class="container mx-auto max-w-3xl space-y-12 px-4">
-      <PlanoLeitura client:load />
+      <PlanoLeitura client:load disponiveis={disponiveis()} />
       <div class="mx-auto mt-8 max-w-2xl"><ContaProgresso client:idle origem="plano-leitura" texto="Entre com seu e-mail para guardar os dias lidos e seguir o plano no celular ou no computador. Sem senha: enviamos um link de acesso." /></div>
+      <a href="/biblia" class="block rounded-xl border-2 border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Bíblia explicada, capítulo por capítulo</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">Contexto, explicação de cada trecho, o que a Igreja ensina e uma reflexão para rezar. Os links aparecem em cada dia do plano.</span></a>
       <section class="grid gap-4 sm:grid-cols-2">
         <a href="/lectio-divina" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Lectio Divina guiada</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">Reze a Palavra em quatro passos.</span></a>
         <a href="/encontre-na-biblia" class="rounded-xl border border-co-warm-sand-dark bg-white p-5 hover:border-co-warm-brown/35"><span class="font-display text-xl font-semibold">Encontre na Bíblia</span><span class="mt-1 block text-[15px] text-co-warm-brown/75">Versículos por tema e situação.</span></a>

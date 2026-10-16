@@ -1,3 +1,4 @@
+import { imagemDoLivro, livrosComReflexao, todasReflexoes } from '@/lib/bibliaReflexoes';
 import { SITE_URL, CATEGORIES, STATIC_PAGES } from '@/config/site';
 import { getAllArticles, getSaintsWithSlug, getSaintsByDate, getLiturgiaJanela } from '@/lib/data';
 import { saintIndexavel } from '@/lib/saints';
@@ -73,6 +74,15 @@ export async function buildSitemaps(): Promise<Record<string, SitemapUrl[]>> {
     ...padroeirosLista.map((p) => ({ loc: `/padroeiros/${p.slug}`, changefreq: 'yearly', priority: 0.6 })),
     ...['casados', 'jovens', 'criancas', 'primeira-confissao'].map((p) => ({ loc: `/exame-de-consciencia/${p}`, changefreq: 'yearly', priority: 0.6 })),
   ];
+
+  const biblia = todasReflexoes();
+  if (biblia.length) {
+    out.biblia = [
+      { loc: '/biblia', changefreq: 'weekly', priority: 0.7 },
+      ...livrosComReflexao().map((l) => ({ loc: `/biblia/${l.slug}`, changefreq: 'monthly', priority: 0.6 })),
+      ...biblia.map((r) => ({ loc: `/biblia/${r.livro}/${r.cap}`, changefreq: 'yearly', priority: 0.6, image: imagemDoLivro(r.livro) ? `${SITE_URL}${imagemDoLivro(r.livro)!.src}` : null })),
+    ];
+  }
 
   for (const c of CATEGORIES) {
     const list = articles.filter((a) => a.category === c.slug);

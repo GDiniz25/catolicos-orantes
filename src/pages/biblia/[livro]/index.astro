@@ -1,0 +1,44 @@
+---
+import { BookOpen } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, itemListSchema } from '@/lib/seo';
+import { imagemDoLivro, livrosComReflexao, reflexao, type Livro } from '@/lib/bibliaReflexoes';
+
+export function getStaticPaths() {
+  return livrosComReflexao().map((l) => ({ params: { livro: l.slug }, props: { l } }));
+}
+const { l } = Astro.props as { l: Livro };
+const path = `/biblia/${l.slug}`;
+const caps = Array.from({ length: l.capitulos }, (_, i) => ({ n: i + 1, r: reflexao(l.slug, i + 1) }));
+const prontos = caps.filter((c) => c.r);
+const img = imagemDoLivro(l.slug);
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Bíblia', path: '/biblia' }, { name: l.nome, path }];
+const titulo = `${l.nome}: explicação e reflexão de cada capítulo`;
+const descricao = `Explicação de ${l.nome} capítulo por capítulo: contexto, sentido de cada trecho, o que a Igreja ensina e uma reflexão para rezar.`;
+---
+<BaseLayout title={titulo.length > 60 ? `${l.nome}: explicação de cada capítulo` : titulo} description={descricao} path={path} image={img ? absUrl(img.src) : undefined} imageAlt={img?.alt}
+  jsonLd={[{ '@type': 'CollectionPage', '@id': `${absUrl(path)}#webpage`, url: absUrl(path), name: titulo, inLanguage: 'pt-BR' }, breadcrumbSchema(crumbs), itemListSchema(prontos.map((c) => ({ name: c.r!.titulo, path: `${path}/${c.n}` })))]}>
+  <PageHeader title={l.nome} subtitle={`Explicação e reflexão de cada capítulo de ${l.nome}, para ler a Bíblia com a Igreja.`} icon={BookOpen} crumbs={crumbs} tom={CATEGORY_VISUAL['catecismo']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-4xl space-y-10 px-4">
+      {img && (
+        <figure>
+          <img src={img.src} alt={img.alt} width="1200" height="675" class="aspect-[16/9] w-full rounded-lg bg-co-warm-cream object-cover" style={`object-position:${img.foco ?? '50% 25%'}`} decoding="async" />
+          <figcaption class="mt-2 text-[13px] text-co-warm-brown/75">{img.credito}</figcaption>
+        </figure>
+      )}
+      <section aria-labelledby="capitulos">
+        <h2 id="capitulos" class="font-display text-2xl font-semibold">Capítulos de {l.nome}</h2>
+        {prontos.length < l.capitulos && <p class="mt-2 text-[15px] text-co-warm-brown/75">{prontos.length} de {l.capitulos} capítulos com reflexão. Os demais estão sendo preparados.</p>}
+        <ol class="gs gs-sm2 mt-5 gap-3">
+          {prontos.map((c) => (
+            <li><a href={`${path}/${c.n}`} class="block h-full rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35"><span class="block text-[13px] font-semibold text-co-warm-terracotta">Capítulo {c.n}</span><span class="mt-1 block font-display text-lg font-semibold leading-snug">{c.r!.titulo.replace(`${l.nome} ${c.n}: `, '')}</span></a></li>
+          ))}
+        </ol>
+      </section>
+      <p class="text-[15px] text-co-warm-brown/80">Para ler a Bíblia inteira com constância, use o <a href="/plano-de-leitura-da-biblia" class="font-medium text-co-warm-terracotta underline-offset-4 hover:underline">Plano de leitura da Bíblia</a>.</p>
+    </div>
+  </main>
+</BaseLayout>

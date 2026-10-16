@@ -1,0 +1,40 @@
+---
+import { BookOpen } from 'lucide-react';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageHeader from '@/components/astro/PageHeader.astro';
+import Faq from '@/components/astro/Faq.astro';
+import { CATEGORY_VISUAL } from '@/config/categoryVisual';
+import { absUrl, breadcrumbSchema, faqSchema } from '@/lib/seo';
+import { LIVROS, capitulosCom } from '@/lib/bibliaReflexoes';
+
+const crumbs = [{ name: 'Início', path: '/' }, { name: 'Bíblia', path: '/biblia' }];
+const livros = LIVROS.map((l) => ({ ...l, prontos: capitulosCom(l.slug).length })).filter((l) => l.prontos > 0);
+const FAQ = [
+  { q: 'Como entender a Bíblia?', a: 'Leia cada trecho no seu contexto, perguntando quem fala, para quem e em que momento. A Igreja ensina a ler a Escritura dentro da Tradição e com a ajuda do Magistério, pedindo a luz do Espírito Santo.' },
+  { q: 'Por onde começar a ler a Bíblia?', a: 'Os Evangelhos são o melhor começo, porque mostram a vida e as palavras de Jesus. Depois vale seguir para os Atos dos Apóstolos, as cartas e os Salmos.' },
+  { q: 'Posso ler a Bíblia sozinho?', a: 'Pode e deve. A leitura pessoal ganha com uma boa explicação, com a Missa e com a orientação de um sacerdote ou catequista quando surgirem dúvidas.' },
+];
+---
+<BaseLayout title="Bíblia explicada: reflexão de cada capítulo" description="Explicação católica da Bíblia capítulo por capítulo: contexto, sentido de cada trecho, o que a Igreja ensina e reflexão para rezar a Palavra."
+  path="/biblia" jsonLd={[{ '@type': 'CollectionPage', '@id': `${absUrl('/biblia')}#webpage`, url: absUrl('/biblia'), name: 'Bíblia explicada', inLanguage: 'pt-BR' }, breadcrumbSchema(crumbs), faqSchema(FAQ)]}>
+  <PageHeader title="Bíblia explicada" subtitle="Cada capítulo com contexto, explicação, o que a Igreja ensina e uma reflexão para rezar." icon={BookOpen} crumbs={crumbs} tom={CATEGORY_VISUAL['catecismo']} />
+  <main id="conteudo" class="py-8 md:py-12">
+    <div class="container mx-auto max-w-4xl space-y-12 px-4">
+      {(['NT', 'AT'] as const).map((t) => {
+        const lista = livros.filter((l) => l.testamento === t);
+        return lista.length > 0 && (
+          <section aria-labelledby={`t-${t}`}>
+            <h2 id={`t-${t}`} class="font-display text-2xl font-semibold">{t === 'NT' ? 'Novo Testamento' : 'Antigo Testamento'}</h2>
+            <ul class="gs gs-sm2 mt-5 gap-3">
+              {lista.map((l) => (
+                <li><a href={`/biblia/${l.slug}`} class="block h-full rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35"><span class="block font-display text-xl font-semibold">{l.nome}</span><span class="mt-1 block text-[14px] text-co-warm-brown/75">{l.prontos === l.capitulos ? `${l.capitulos} capítulos` : `${l.prontos} de ${l.capitulos} capítulos`}</span></a></li>
+              ))}
+            </ul>
+          </section>
+        );
+      })}
+      <p class="text-[15px] text-co-warm-brown/80">Os demais livros estão sendo preparados. Para ler a Bíblia com constância, use o <a href="/plano-de-leitura-da-biblia" class="font-medium text-co-warm-terracotta underline-offset-4 hover:underline">Plano de leitura da Bíblia</a>.</p>
+      <Faq title="Perguntas frequentes" items={FAQ} />
+    </div>
+  </main>
+</BaseLayout>

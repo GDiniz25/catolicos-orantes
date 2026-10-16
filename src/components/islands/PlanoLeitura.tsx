@@ -9,8 +9,34 @@ const add = (d: Date, n: number) => new Date(d.getTime() + n * 86400000);
 const curta = (d: Date) => `${d.getUTCDate()} ${MESES[d.getUTCMonth()]}`;
 const KEY = "co-leitura-biblia-v1";
 type Estado = { plano: string; inicio: string; feitos: number[] };
+const slugLivro = (nome: string) => nome.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+/** "Gênesis 1-3; Êxodo 1 | Mateus 1" vira a lista de capítulos com a página de reflexão, quando ela existe */
+function capitulosDa(leitura: string, disp: Record<string, number[]>) {
+  const out: { nome: string; cap: number; href: string }[] = [];
+  for (const parte of leitura.split(/ \| |; /)) {
+    const m = parte.match(/^(.+) (\d+)(?:-(\d+))?$/);
+    if (!m) continue;
+    const slug = slugLivro(m[1]);
+    for (let c = Number(m[2]); c <= Number(m[3] ?? m[2]); c++) if (disp[slug]?.includes(c)) out.push({ nome: m[1], cap: c, href: `/biblia/${slug}/${c}` });
+  }
+  return out;
+}
+function Reflexoes({ leitura, disp, grande = false }: { leitura: string; disp: Record<string, number[]>; grande?: boolean }) {
+  const caps = capitulosDa(leitura, disp);
+  if (!caps.length) return null;
+  return (
+    <div className={grande ? "mt-4" : "mt-2 pl-8"}>
+      {grande && <p className="mb-2 text-sm font-semibold text-co-warm-brown/80">Explicação e reflexão de cada capítulo:</p>}
+      <ul className="flex flex-wrap gap-2">
+        {caps.map((c) => (
+          <li key={c.href}><a href={c.href} className={`inline-flex items-center rounded-full border border-co-warm-sand-dark bg-co-warm-cream/60 px-3 font-medium text-co-warm-brown hover:border-co-warm-brown/40 ${grande ? "min-h-[40px] text-[15px]" : "min-h-[32px] text-[13px]"}`}>{c.nome} {c.cap}</a></li>
+        ))}
+      </ul>
+    </div>
+  );
+}
 
-export default function PlanoLeitura() {
+export default function PlanoLeitura({ disponiveis = {} }: { disponiveis?: Record<string, number[]> }) {
   const [e, setE] = useState<Estado>({ plano: PLANOS[0].id, inicio: "2000-01-01", feitos: [] });
   const [h, setH] = useState("2000-01-01");
   const [bloco, setBloco] = useState(0);
@@ -55,6 +81,7 @@ export default function PlanoLeitura() {
         <div className="rounded-2xl border-2 border-co-warm-terracotta bg-white p-5 md:p-8">
           <p className="text-sm font-semibold text-co-warm-terracotta">Próxima leitura: dia {proximo}{diaHoje === proximo ? " (hoje)" : diaHoje > proximo ? ` (você está ${diaHoje - proximo} ${diaHoje - proximo === 1 ? "dia" : "dias"} atrasado, sem problema)` : ""}</p>
           <p className="mt-2 font-display text-2xl font-semibold leading-snug md:text-3xl">{leituras[proximo - 1].split(" | ").join(" e ")}</p>
+          <Reflexoes leitura={leituras[proximo - 1]} disp={disponiveis} grande />
           <button type="button" onClick={() => marcar(proximo)} className="mt-5 min-h-[3rem] rounded-md bg-[#36613F] px-6 font-semibold text-white">Marcar como lido</button>
         </div>
       )}
@@ -84,6 +111,7 @@ export default function PlanoLeitura() {
                     <span className={`block text-[16px] ${ok ? "text-co-warm-brown/75 line-through" : ""}`}>{l.split(" | ").join(" e ")}</span>
                   </span>
                 </label>
+                <Reflexoes leitura={l} disp={disponiveis} />
               </li>
             );
           })}
