@@ -1,0 +1,46 @@
+{
+ "mateus": {
+  "arquivo": "File:Guercino - Saint Matthew and the Angel - Google Art Project.jpg",
+  "original": "4453x2980",
+  "saida": "1600x1071",
+  "bytes": 289401,
+  "licenca": "Public domain",
+  "autor": "Guercino",
+  "data": "1622date QS:P571,+1622-00-00T00:00:00Z/9",
+  "titulo": "Saint Matthew and the Angeltitle QS:P1476,en:\"Saint Matthew and the Angel\"label QS:Len,\"Saint Matthew and the Angel\"",
+  "credito": "lAGlclUBQU4hDA at Google Cultural Institute maximum zoom level"
+ },
+ "marcos": {
+  "arquivo": "File:El evangelista san Marcos (Maratta).jpg",
+  "original": "2000x2693",
+  "saida": "1600x2154",
+  "bytes": 475528,
+  "licenca": "Public domain",
+  "autor": "Carlo Maratta",
+  "data": "between 1655 and 1660date QS:P571,+1650-00-00T00:00:00Z/7,P1319,+1655-00-00T00:0",
+  "titulo": "Saint Mark the Evangelist",
+  "credito": "[2]"
+ },
+ "lucas": {
+  "arquivo": "File:Frans Hals 086 big.jpg",
+  "original": "2636x3388",
+  "saida": "1600x2057",
+  "bytes": 520867,
+  "licenca": "Public domain",
+  "autor": "Frans Hals",
+  "data": "circa 1625date QS:P571,+1625-00-00T00:00:00Z/9,P1480,Q5727902",
+  "titulo": "Saint Luke.",
+  "credito": "Web Gallery of Art: Image Info about artworkwga QS:P11807,\"h/hals/frans/02-1626/22stluke\""
+ },
+ "joao": {
+  "arquivo": "File:Zampieri St John Evangelist.jpg",
+  "original": "4569x6000",
+  "saida": "1600x2101",
+  "bytes": 427917,
+  "licenca": "Public domain",
+  "autor": "Domenichino",
+  "data": "between 1624 and 1629date QS:P571,+1624-00-00T00:00:00Z/8,P1319,+1624-00-00T00:0",
+  "titulo": "Saint John the Evangelistlabel QS:Lfr,\"Saint Jean l'évangéliste\"label QS:Len,\"Saint John the Evangelist\"label QS:Lit,\"Sa",
+  "credito": "National Gallery, London"
+ }
+}
