@@ -33,135 +33,130 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/at_jud2	2018x2265	Public domain	Rembrandt	File:Rembrandt - Judith at the Banquet of Holofernes (previously known as Artemisia).jpg
-   DESC: Judith and Holofernes
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Details of Judith at the Banquet of Holofernes (previously known as Artemisia) by Rembrandt | Images with annotations | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Taken with Panasonic Lumix DMC-TZ2
+OK	fr/at_mac11	1241x1015	Public domain	Antoine-Jean Gros	File:Eleazar préfère la mort - Antoine-Jean Gros - MM 1938F478.jpg
+   DESC: Eleazar préfère la mort au crime de violer la loi en mangeant des viandes défendues, peint par Antoine-Jean Gros
+   CATS: 2 Maccabees | Artworks missing digital representation of for 2D work | Artworks with SDC link missing | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Author died more than 70 years ago public domain images | CC-PD-Mark | PD US expired | Paintings by Antoine-Jean Gros | Religious paintings in Musée Magnin
    LICURL:  USAGE: Public domain
-OK	fr/at_jud3	2466x3200	Public domain	Horace Vernet	File:Horace Vernet - Judith and Holofernes - 79.3 - Museum of Fine Arts.jpg
-   DESC: Judith and Holofernes
-   CATS: 1828 paintings by Horace Vernet | 19th-century paintings of Judith and Holofernes | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Old Testament paintings in the Museum of Fine Arts, Houston | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings by Horace Vernet | Paintings of Judith beh
+OK	fr/at_mac12	3456x2304	CC BY 3.0	Sailko	File:Pilastro con icone, 600-650 ca. 03 solomone e i maccabei.jpg
+   DESC: Santa Maria Antiqua (Rome) - Interior
+   CATS: 2 Maccabees | 7th-century art in Rome | 7th-century frescos in Italy | All media supported by Wikimedia CH | Artworks without Wikidata item | Byzantine frescos in Santa Maria Antiqua (Rome) | CC-BY-3.0 | Images by Sailko - Supported by Wikimedia CH | Italian MiBAC disclaimer warning | Jewish martyrs | Photographs by User:Sailko | Photographs of paintings by User:Sailko | Self-published work | Woman with seven sons
+   LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
+OK	fr/at_mac13	2607x1423	Public domain	Unknown authorUnknown author	File:Die neun Helden - Drei juedische Helden.jpg
+   DESC: Einblattholzschnitte der 9 Helden, eingeklebt in Cod. Bern A 45. Aus: Robert L. Wyß: Die neun Helden. Eine ikonographische Studie. In: Zeitschrift für Schweizerische Archäologie und Kunstgeschichte 17 (1957), Taf. 27-29
+   CATS: Bern Cod. A 45 | CC-PD-Mark | David as one of the Nine Worthies | David in miniatures | Joshua as one of the Nine Worthies | Joshua in miniatures | Judas Maccabeus as one of the Nine Worthies | PD-Art (PD-old-70) | PD-Art (PD-old default) | PD-Art missing SDC copyright status | PD-old missing SDC copyright status | Template Unknown (author) | Three Worthy Jews
    LICURL:  USAGE: Public domain
-OK	fr/at_can4	3000x2539	Public domain	Johann Friedrich Overbeck	File:SulamithMaria1811.jpg
-   DESC: scetch for Sulamith and Maria, aka Italia and Germania
-   CATS: Artworks without Wikidata item | CC-PD-Mark | Friedrich Overbeck | Images from zeno.org | Italia and Germania | Longfellow National Historic Site | PD-Art (PD-old-auto-expired) | PD-old-100-expired
-   LICURL:  USAGE: Public domain
-OK	fr/at_mac7	2997x3997	CC BY-SA 4.0	Jl FilpoC	File:Judas Macabeo, Palacio de los Condes de Alba y Aliste (Zamora).jpg
-   DESC: Patio del Palacio de los Condes de Alba y Aliste, Zamora. Tondo laureado de Judas Macabeo talla en piedra atribuida a Gil de Ronza.
-   CATS: CC-BY-SA-4.0 | Gil de Ronza | Judas Maccabeus as one of the Nine Worthies | Portrait medaillons of the Palacio de los Condes de Alba y Aliste (Zamora) | Reliefs of human faces looking right | Renaissance relief tondos | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_mac8	2014x2545	CC BY-SA 4.0	Comitis De Sousa	File:19-do Duque Judas Macabeu.jpg
-   DESC: Duque Judas Macabeu
-   CATS: CC-BY-SA-4.0 | Judas Maccabeus as one of the Nine Worthies | Livro do Armeiro-Mor | Nine Worthies (Livro do Armeiro-Mor) | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_mac9	1884x3096	CC BY-SA 4.0	Francesco Bini	File:Antonio ciseri, i maccabei, 1857-63 (fi, s. felicita) 01.jpg
-   DESC: "Bellezza divina", 2015 exhibition in Palazzo Strozzi, Florence
-   CATS: All media supported by Wikimedia CH | CC-BY-SA-4.0 | Images by Sailko - Supported by Wikimedia CH | Photographs by User:Sailko | Photographs of paintings by User:Sailko | Religious paintings by Antonio Ciseri | Santa Felicita (Florence) - Interior | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_mac10	4222x6294	CC0	Rijksmuseum	File:Judas de Makkabeeër Judas Machabeus (titel op object) Negen besten (serietitel), RP-P-1983-45-41.jpg
-   DESC: IdentificatieTitel(s): Judas de Makkabeeër. Judas Machabeus (titel op object). Negen besten (serietitel)Objecttype: prent albumblad Serienummer: 6/9Objectnummer: RP-P-1983-45-41Omschrijving: Judas de Makkabeeër, een beroemde veldheer uit het Oude Testament, staat met een lans en een schild in de handen in een landschap. Hij maakt deel uit van De Negen Besten. Aan de hemel verschijnt het tetragram 
-   CATS: Album met voorstellingen van Sibillen en andere voorbeelden van deugdzaamheid | CC-Zero | Judas Maccabeus | Prints by Nicolaes de Bruyn in the Rijksmuseum Amsterdam
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/at_dan4	1944x2592	CC BY-SA 4.0	Eric Gaba (Sting - fr:Sting)	File:Congonhas sanctuary of Bom Jesus prophet Daniel.jpg
-   DESC: Statue of the prophet Daniel sculpted by Aleijadinho in front of the church of the sanctuary of Bom Jesus of Matosinhos at Congonhas, Minas Gerais, Brazil ; material : soapstone.
-   CATS: Brazil photographs taken on 2007-12-22 | CC-BY-SA-4.0,3.0,2.5,2.0,1.0 | Daniel (Santuário do Bom Jesus de Matosinhos) | Files with coordinates missing SDC location of creation (21° S, 44° W) | GFDL | License migration redundant | Self-published work | Taken with Sony DSC-P93
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_jos3	1863x3232	CC BY-SA 4.0	Phillip Medhurst	File:L'ange et Josué devant Jéricho (Joshua 5 13) • invenit James Tissot • pinxit James Tissot • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg
-   DESC: Printed reproduction M. de Brunoff &amp; Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last were painted after his death in 1902 by other artists.
-   CATS: Angels | CC-BY-SA-4.0 | Jericho | Joshua (Biblical figure) | Old Testament by James Tissot | Self-published work
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_jos4	3000x2554	Public domain	James Tissot	File:Tissot Moses and Joshua in the Tabernacle.jpg
-   DESC: Moses and Joshua in the Tabernacle, c. 1896-1902, by James Jacques Joseph Tissot (French, 1836-1902) or follower, gouache on board, 7 3/8 x 8 13/16 in. (18.7 x 22.5 cm), at the Jewish Museum, New York
-   CATS: 1890s paintings | Ark of the Covenant in paintings | Author died more than 100 years ago public domain images | CC-PD-Mark | Joshua in paintings | Men kneeling in art | PD-old missing SDC copyright status | Paintings of Moses by James Tissot | Priestly breastplate | Tabernacle | Temples of the Israelites
-   LICURL:  USAGE: Public domain
-OK	fr/at_lev3	4001x3092	Public domain	Unknown authorUnknown author	File:Moses and Aaron with the Tablets of the Law - Google Art Project.jpg
-   DESC: 
-   CATS: 1690s religious paintings | 1692 paintings | 17th-century paintings of Moses | 17th-century paintings of biblical prophets | 17th-century paintings of standing men at full length | Aaron in paintings | Artworks with known accession number | CC-PD-Mark | Files from Google Arts & Culture | Google Art Project paintings | Google Art Project works by unknown artist | Google Art Project works in The Jewish Museum, London | Jewish Museum London | Moses and Aaron | PD-Art (PD-old-100-expired) | PD-old-1
-   LICURL:  USAGE: Public domain
-OK	fr/at_sir5	1576x2063	CC0	Rijksmuseum	File:Jezus Sirach Jesus filius sirach (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-18-2.jpg
-   DESC: IdentificatieTitel(s): Jezus Sirach. Jesus filius sirach (titel op object). Liber Chronicarum (serietitel)Objecttype: prent boekillustratie albumblad Objectnummer: RP-P-2016-49-18-2Opschriften / Merken: opschrift, rechtsboven, geschreven met pen: ‘139’Omschrijving: Een bloemkelk met een man in bontmantel en hoed, naar rechts gekeerd. De tekst identificeert hem als Jezus, zoon van Sirach. De prent 
-   CATS: CC-Zero | Ecclesiasticus | Liber Chronicarum, Old Testament
-   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/at_sir6	1402x1969	Public domain	Workshop of Jörg Breu the Younger	File:Fugger Ehrenbuch 001.jpg
-   DESC: Geheimes Ehrenbuch der Fugger, hergestellt in der Werkstatt Jörg Breu d. J., 1545–1549 Erste Seite mit Darstellung des Hohepriesters Jesus Sirach
-   CATS: Author died more than 100 years ago public domain images | CC-PD-Mark | Ecclesiasticus | Geheimes Ehrenbuch der Fugger | High priests
-   LICURL:  USAGE: Public domain
-### Ecclesiasticus initial manuscript
-3416x5688	CC0	File:Southern France, Toulouse(?), 13th century - Fol. 257r, Ecclesiasticus, historiated initial O, Sirach seated with a scro - 2008.2.257.a - Cleveland Museum of Art.tif	| Biblical manuscripts were highly prized and important possessions of churches, monasteries, cathedral schools, and universities throughout m
-1512x2379	Public domain	File:A catalogue of manuscripts in different languages ... from the twelfth to the eighteenth century ... To which is added a small collection of manuscripts in the oriental languages (IA b29319122).pdf	| Subjects: Manuscripts; Codicology; Manuscripts
-1322x2218	Public domain	File:Universal palaeography or Fac-similes of writings of all nations and periods copied from the most celebrated and authentic manuscripts in the libraries and archives of France Italy Germany (IA b29328226 0002).pdf	| Subjects: Paleography; Paleography
-1206x1843	Public domain	File:A second catalogue of manuscripts, in different languages ... from the twelfth to the eighteenth century ... (IA b29344414).pdf	| Subjects:
-1322x2218	Public domain	File:Universal palaeography, or, Fac-similes of writings of all nations and periods, copied from the most celebrated and authentic manuscripts in the libraries and archives of France, It (IA b29328226 0002).pdf	| 2 volumes : (8vo) + Subjects: Paleography; Paleography
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (033 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (056 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (134 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (135 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (167 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (189 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (244 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (251 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (254 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (277 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (316 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (339 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (389 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (491 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3115x4654	Public domain	File:Biblia sacra. - btv1b525172465 (511 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-2976x4678	Public domain	File:Biblia sacra. - btv1b525172465 (548 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-3186x4860	Public domain	File:Biblia sacra. - btv1b525172465 (580 of 584).jpg	| Sujet : Initiales historiées Messe. Conseils pour célébrer Messe. Préfaces Notation musicale Reliures au chiffre de Louis-Philippe BIBLIA SA
-### Sirach Bible miniature
-3048x4100	Public domain	File:Notes and Queries - Series 9 - General Index.djvu	| 
-1004x1514	Public domain	File:Dictionary of the Apostolic Church Volume 2.pdf	| published 1915
-1320x2181	Public domain	File:Inaugural address, delivered November 20, 1902 (IA inauguraladdress00sche).pdf	| Subjects:
-1089x1591	Public domain	File:Dictionary of the apostolic church (IA dictionaryaposto02hast).pdf	| Bibliography: v.1, p.xiv; v.2, p.xii Subjects:
-### Jesus Sirach Gemälde
-1129x1622	Public domain	File:Furstenthum Reuss altere Linie , Amtsgerichtsbezirke Greiz, Burgk und Zeulenroda (IA furstenthumreuss00lehf 0).pdf	| With: Furstenthum Reuss jungere Linie. Bd. 1-2 / P. Lehfeldt. -- Jena : G. Fischer, 1891-1896 With: Furstenthum Reuss jungere Linie. Bd. 1-2
-1175x1650	Public domain	File:Die Handschriften-verzeichnisse der Königlichen Bibliothek zu Berlin (IA diehandschriften03preu).pdf	| 1. bd. Verzeichniss der sanskrit-handschriften, von A. Weber. [1. bd.] 1853. -- 2. bd. Verzeichniss der hebraeischen handschriften, von M. S
-### Liber Ecclesiasticus
-3507x2480	Public domain	File:Ben-Sira-Kahana-1912.djvu	| This is a vowelized Hebrew edition of the apocryphal book of Ben Sira accompanied by a brief commentary. The text is based on Hebrew manuscr
-3516x4093	Public domain	File:Zentralbibliothek Zürich - Alle Weissheit ist bey Gott dem Herrn - 000012138.jpg	| (Book of Sirach, first chapter, German translation), anonymous artist 1654
-1600x1200	CC BY-SA 3.0	File:Sirach eg1.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1294x1600	CC BY-SA 3.0	File:Sirach eg2.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach eg3.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1099x1600	CC BY-SA 3.0	File:Sirach eg4.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach eg5.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach eg6.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach eg7.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach sf.JPG	| Foyer communal et salle des fêtes de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-2809x3350	CC0	File:King Solomon speaks with Sirach and in the back its Wisdom as a person.jpg	| Ο βασιλιάς Σολομώντας μιλά με τον Σειράχ και στο βάθος η Σοφία προσωποποιημένη. King Solomon talks with Sirach and in the background Wisdom 
-3820x6040	CC0	File:Christus met Jesus Sirach junior en senior Titelpagina voor Salvator de Leon, In Ecclesiasticum Iesu Filii Sirach, Antwerpen, 1640, RP-P-OB-6928.jpg	| IdentificatieTitel(s): Christus met Jesus Sirach junior en senior. Titelpagina voor: Salvator de Leon, In Ecclesiasticum Iesu Filii Sirach, 
-1576x2063	CC0	File:Jezus Sirach Jesus filius sirach (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-18-2.jpg	| IdentificatieTitel(s): Jezus Sirach. Jesus filius sirach (titel op object). Liber Chronicarum (serietitel)Objecttype: prent boekillustratie 
-5184x3456	CC BY-SA 4.0	File:Église Saint-Clément de Sirach - 1.jpg	| Église Saint-Clément de Sirach depuis le sentier de Llugols
-4160x2340	CC BY-SA 4.0	File:Vallée de Caillan à Ria-Sirach - 4.jpg	| Vallée du Caillan depuis Llugols
-2340x4160	CC BY-SA 4.0	File:Vallée de Caillan à Ria-Sirach - 3.jpg	| Vallée du Caillan depuis le sentier menant à Llugols.
-3270x2598	CC BY-SA 4.0	File:66161-Ria-Sirach-Sols.png	| Carte des infrastructures et de l’occupation des sols en 2018 de la commune de fr:Ria-Sirach (France).
-3507x2480	CC BY-SA 4.0	File:66161-Ria-Sirach-Routes-Hydro.png	| Carte du réseau hydrographique et des infrastrctures de la commune de fr:Ria-Sirach (France).
-3057x2480	CC BY-SA 4.0	File:66161-Ria-Sirach-ZNIEFF1.png	| Carte des zones naturelles d'intérêt écologique, faunistique et floristique (ZNIEFF) de type 1 de la commune de fr:Ria-Sirach (France).
-3519x2480	CC BY-SA 4.0	File:66161-Ria-Sirach-ZNIEFF2.png	| Carte des zones naturelles d'intérêt écologique, faunistique et floristique (ZNIEFF) de type 2 de la commune de fr:Ria-Sirach (France).
-5846x4133	CC BY-SA 4.0	File:66161-Ria-Sirach-Natura2000.png	| Carte des sites classés au titre de la Directive Habitats (ZSC/pSIC/SIC) et des zones de protection spéciale (ZPS) sur la commune de fr:Ria-
-4076x3307	CC BY-SA 4.0	File:66161-Ria-Sirach-argile.png	| Carte de l'aléa retrait-gonflement des argiles sur la commune de fr:Ria-Sirach (France).
-4677x3307	CC BY-SA 4.0	File:66161-Ria-Sirach-Zone inondable.png	| Carte des zones inondables de la commune de fr:Ria-Sirach (France).
-3908x3210	CC BY 2.0	File:The book of Ben Sira (52050363861).jpg	| Genizah of Cairo, 12th century Institut du Monde Arabe, Paris
-3455x2760	CC BY-SA 4.0	File:Ria-Sirach (et Prades).jpg	| Ria (au premier plan) et Sirach (à droite), vallée de la Têt, Pyrénées-Orientales (66). Au fond : Prades.
-2643x2354	CC BY-SA 4.0	File:Sirach-église.jpg	| Église Saint-Clément de Sirach, commune de Ria-Sirach, Conflent, Pyrénées-Orientales.
-1314x2181	Public domain	File:Ben Sira mi-Yerushalayim, translated by Joshua Hezil (Vilna, 1803) (IA ben-sira-mi-yerushalayim-trans-joshua-hezil-vilna-1803-images).pdf	| Sefer Ben Sira mi-Yerushalayim (ספר בן סירא מירושלים): The Book of Ben Sira of Jerusalem, the &lt;a href="https://en.wikipedia.org/wiki/Bibl
-### Maccabees Rubens Nantes
-1337x1702	Public domain	File:Chart of famous characters, and salient points of history (IA chartoffamouscha00hewi).pdf	| Subjects: Chronology, Historical
-1339x1758	Public domain	File:Chart of famous characters, and salient points of history (IA chartoffamouscha01hewi).pdf	| Subjects: Chronology, Historical
-1289x1679	Public domain	File:Chart of famous characters, and salient points of history, 2000 B.C.-1900 A.D. A useful index for reference, and a key to history (IA chartoffamouscha00hewirich).pdf	| Subjects: Chronology, Historical
-### Judas Maccabaeus painting
-1586x2466	Public domain	File:A Jewish State 1917.djvu	| A Jewish State, 1917 Translation by Sylvie d'Avigdor and Jacob De Haas
-1955x3053	Public domain	File:Poems by Isaac Rosenberg (1922).djvu	| 1922 collection of poems written by Isaac Rosenberg.
-1275x1650	Public domain	File:The Canadian antiquarian and numismatic journal (IA series1vols11to13canj).pdf	| Series 1, vols. 11-13. Subjects: Numismatics
-### Eleazar Maccabees painting
-3456x2304	CC BY 3.0	File:Pilastro con icone, 600-650 ca. 03 solomone e i maccabei.jpg	| Santa Maria Antiqua (Rome) - Interior
-1037x1527	Public domain	File:John Adams Library (IA historyofenglish02wart).pdf	| ESTC Also available on microfilm John Adams Library copy transferred from the supervisors of the Temple and School Fund. Quincy, Mass., 1894
+### Rossetti The Beloved Bride
+1052x1200	Public domain	File:The Beloved by Dante Gabriel Rossetti.jpg	| 
+1220x1386	Public domain	File:The Beloved D-G-Rossetti-1866.jpg	| ‘My beloved is mine, and I am his.’ Song of Solomon
+1064x1172	Public domain	File:John Barrymore in The Beloved Rogue.jpg	| John Barrymore in the American romantic adventure film The Beloved Rogue (1927) - publicity still (cropped : see source).
+1392x2733	Public domain	File:Poster of the movie The Beloved Rogue.jpg	| Poster for the 1927 film The Beloved Rogue. A renewal search was done in both motion picture and artwork categories for the years 1954 and 1
+1000x665	CC BY-SA 4.0	File:Rosa Beloved 0zz.jpg	| Location taken: Merrifield Garden Center, Merrifield VA USA. Names: Rosa 'Beloved' , Beloved Rose, Hybrid Tea Ros Classification: Plantae &g
+2772x3030	CC BY 3.0	File:Dante gabriel rossetti, l'amata (la sposa), 1865-66.jpg	| 
+1316x1536	CC BY-SA 4.0	File:N03053 10.jpg	| The Beloved ('The Bride') 1865-6 Dante Gabriel Rossetti 1828-1882 Purchased with assistance from Sir Arthur Du Cros Bt and Sir Otto Beit KCM
+1797x2051	Public domain	File:Dante gabriel rossetti, l'amata (la sposa), 1865-66FXD.jpg	| 
+5900x3933	CC BY-SA 4.0	File:London - Tate Britain - '1550-1880' Room - Panorama View 02 - The Lady of Shalott 1888 by John William Waterhouse - King Cophetua and the Beggar Maid 1884 by Edward Burne-Jones - The Beloved 1865 by Dante Gabriel Rossetti.jpg	| London - Tate Britain - '1550-1880' Room - Panorama View - The Lady of Shalott 1888 by John William Waterhouse - King Cophetua and the Begga
+2912x2288	Public domain	File:Poster - Beloved Rogue, The (1927) 05.jpg	| Lobby card for The Beloved Rogue (1927)
+### Giosuè dipinto
+6256x4561	Public domain	File:Poussin, Nicolas - The Victory of Joshua over the Amalekites.jpg	| 
+4118x3000	Public domain	File:Poussin Nicolas - The Victory of Joshua over the Amalekites copy.jpg	| 
+5103x3353	Public domain	File:Joshua Commanding the Sun to Stand Still upon Gibeon (1816) John Martin - NGA 2004.64.1.jpg	| 
+1024x749	Public domain	File:Poussin - Josué et les Amorites Moscou.jpg	| Pendant to The Victory of Joshua over the Amalekites in St. Petersburg.
+1200x880	Public domain	File:The Victory of Joshua over Amorites. Nicolas Poussin - 1624-1626.jpg	| The Victory of Joshua over Amorites, as in the Book of Joshua. Oil on canvas by Nicolas Poussin; ca. 1624-1626. 97 cm (38.19 in.) x 134 cm (
+2118x3411	Public domain	File:Mosè Bianchi - Mother Breastfeeding.jpg	| 
+2971x4002	Public domain	File:Agostini - Guida illustrata di Montepiano e sue adiacenze, Ducci, Firenze, 1892.djvu	| 
+4000x2628	CC0	File:John Martin, Joshua Commanding the Sun to Stand Still upon Gibeon, 1816, NGA 129865.jpg	| 
+1200x875	Public domain	File:Nicolas Poussin - The Victory of Joshua over Amorites - Pushkin museum.jpg	| Pendant to The Victory of Joshua over the Amalekites in St. Petersburg.
+1039x1497	Public domain	File:Atti dell'imp. regia Accademia di belle arti in Milano per la distribuzione de' premi .. (IA attidellimpregia1885acca).pdf	| Form of name of the Accademia in the title varies slightly Publisher varies Subjects: Art, Italian
+1485x1872	Public domain	File:Atti di Accademia di archeologia, lettere e belle arti (IA gri 33125000923496).pdf	| Library's copy of nuova serie, v. 11 (1930) is imperfect; lacks p. 129-160 of parte seconda Subjects: Classical antiquities; Archaeology
+1300x1812	Public domain	File:Il buon cuore - Anno IX, n. 10 - 5 marzo 1910.pdf	| 
+3054x3892	CC BY-SA 4.0	File:Ars et Labor, 1907 vol. II.djvu	| Ars et Labor, 1907 vol. II
+3243x4283	CC BY-SA 4.0	File:Rivista Minima, 1877.djvu	| Rivista Minima, 1877
+1999x1451	Public domain	File:Poussin - Victory of Joshua over the Amalekites, 1624-1625, ГЭ-1195.jpg	| 
+1200x890	Public domain	File:Пуссен Н. Картина. Битва израильтян с аммореями. Около 1624 - 1625, Ж-1046.jpg	| 
+2593x3003	CC BY-SA 4.0	File:Beata Vergine Addolorata di Collagù abc23.jpg	| stemma del vescovo Giosuè Cattarossi, con il motto "in Christo virescit", sotto al portico dipinto da Ugo Grignaschi. Santuario della Beata 
+1312x1841	Public domain	File:Agli scienziati d'Italia del VII Congresso; donno dell' Accademia Pontaniana (IA agliscienziatidi00acca).pdf	| From the library of Conte Antonio Cavagna Sangiuliani di Gualdana I. Notizia de' lavori dell' Accademia Pontaniana per gli anni 1835 e segue
+### Josué peinture
+1000x858	Public domain	File:Rahab and the Emissaries of Joshua.jpg	| 
+6256x4561	Public domain	File:Poussin, Nicolas - The Victory of Joshua over the Amalekites.jpg	| 
+4118x3000	Public domain	File:Poussin Nicolas - The Victory of Joshua over the Amalekites copy.jpg	| 
+5103x3353	Public domain	File:Joshua Commanding the Sun to Stand Still upon Gibeon (1816) John Martin - NGA 2004.64.1.jpg	| 
+3183x2767	Public domain	File:Nîmes,Beaux Arts020.jpg	| 
+1344x997	Public domain	File:HOUASSE René-Antoine Bataille de Josué contre les Amalécites.jpg	| 
+4000x2628	CC0	File:John Martin, Joshua Commanding the Sun to Stand Still upon Gibeon, 1816, NGA 129865.jpg	| 
+1439x2277	Public domain	File:Poissons, ecrevisses et crabes, de diverses couleurs et figures extraordinaires, que l'on trouve autour des isles Moluques et sur les côtes des terres Australes (IA PoissonsecrevisIRena).pdf	| statement of responsibility: divisé en deux tomes, dont le premier a été copié sur les originaux de Monsr. Baltazar Coyett ... Le second tom
+1058x1500	Public domain	File:Les manuscrits à peintures de la Cité de Dieu de Saint-Augustin (IA gri 33125000850764).pdf	| Tome I-II, paged continuously; t. III: Plates, with title within ornamental border. In 2 portfolios "Cette étude ... a été imprimée aux frai
+1006x1283	Public domain	File:Repertoire de peintures du Moyen Âge et la Renaissance (1280-1580) (IA gri 33125007531441).pdf	| Library's copy 1, v. 3 includes errata slip Library's copy 1, v.5 is incomplete Subjects: Painting; Painting, Medieval; Painting, Renaissanc
+1216x1743	Public domain	File:Histoire des arts industriels au Moyen Âge et à l'époque de la Renaissance (IA histoiredesartsi03laba 0).pdf	| "100 exemplaires numérotés"--Colophon Includes lithographs by Lemercier Includes bibliographical references and index Tome premier. Sculptur
+1754x1239	Public domain	File:Paysages de la Bible E et W Finden vol. 1 (IA gravures paysages bible ancien nouveau testament turner harding finden 1846).pdf	| PAYSAGES DE LA BIBLE : VUES DES LIEUX LES PLUS REMARQUABLES MENTIONNÉS DANS L'ANCIEN ET LE NOUVEAU TESTAMENT. Vers 1832, J. M. W. Turner (17
+4000x6000	CC BY-SA 4.0	File:Paris (75006) Église Saint-Germain-des-Prés - Intérieur - Peintures murales de la nef - 15.jpg	| Peinture murale de la quatrième travée de Saint-Germain-des-Prés à Paris (75006), côté nord. Aaron et Josué. Peintre : Hippolyte Flandrin.
+1999x1451	Public domain	File:Poussin - Victory of Joshua over the Amalekites, 1624-1625, ГЭ-1195.jpg	| 
+2300x1521	Public domain	File:Vien - Josué arrêtant le soleil MU FABRE 09483 PE 59 10 1.jpg	| 
+8341x5111	Public domain	File:Josué défait les Amalécites - Jacques Courtois - Musée du Louvre Peintures INV 3437 ; B 2614.jpg	| 
+9334x5838	Public domain	File:Josué défait les Amorrhéens - Jacques Courtois - Musée du Louvre Peintures INV 3438 ; B 2615.jpg	| 
+### Joshua son of Nun painting
+2245x3887	Public domain	File:Cyclopedia of painters and paintings - Volume I.djvu	| 
+1339x1820	Public domain	File:Collection of pictures of W.G. Coesvelt, esq., of London (IA collectionofpict02unse).pdf	| 3 p. l., [v]-xii, 27 p. 33 cm Added lithographed t.p Subjects: Coesvelt, William G. -- Art collections; Painting -- Private collections -- G
+1181x1735	Public domain	File:Joshua Reynolds - Max Osborn, 1908 (IA joshuareynolds00osbo).pdf	| "Liebhaber-Ausgaben" "Literatur": p. [130] Subjects: Sir Joshua Reynolds, 1723–1792
+1052x1462	Public domain	File:The history of modern painting - Richard Muther - revised ed. 1907, vol. 1 (IA historyofmodernp01muth).pdf	| "Index of artists": v. 4, p. 403-444 Bibliography at end of each volume Subjects: Painting
+1043x1560	Public domain	File:A history of painting (IA historyofpaintin07macf).pdf	| "Limited to 1,000 numbered copies, of which this is number 826." Plates accompanied by guard sheets with descriptive letterpress " Bibliogra
+1220x1658	Public domain	File:The works of Sir Joshua Reynolds, Knt., late president of the Royal Academy , containing his Discourses, Idlers, A journey to Flanders and Holland (now first published) (IA worksofsirjoshua02reyn 0).pdf	| Plate engraved by Caroline Watson after Reynolds' self-portrait ESTC (RLIN) Binding. c.2: old tree calf; armorial device blind stamped on fr
+1287x2079	Public domain	File:Annual reports of the selectmen and overseers of the poor of the town of Harwich (IA annualreportsofs1906harw).pdf	| Description based on : 1867.; Some reports include the reports of Surveyors of Highways, Town Clerk and Treasurer, School Committee, Road Co
+1337x1987	Public domain	File:Annual reports of the selectmen and overseers of the poor of the town of Harwich (IA annualreportsofs1909harw).pdf	| Description based on : 1867.; Some reports include the reports of Surveyors of Highways, Town Clerk and Treasurer, School Committee, Road Co
+1316x2060	Public domain	File:Annual reports of the selectmen and overseers of the poor of the town of Harwich (IA annualreportsofs1914harw).pdf	| Description based on : 1867.; Some reports include the reports of Surveyors of Highways, Town Clerk and Treasurer, School Committee, Road Co
+1410x2089	Public domain	File:Annual reports of the selectmen and overseers of the poor of the town of Harwich (IA annualreportsofs1915harw).pdf	| Description based on : 1867.; Some reports include the reports of Surveyors of Highways, Town Clerk and Treasurer, School Committee, Road Co
+1412x2156	Public domain	File:Annual reports of the selectmen and overseers of the poor of the town of Harwich (IA annualreportsofs1920harw).pdf	| Description based on : 1867.; Some reports include the reports of Surveyors of Highways, Town Clerk and Treasurer, School Committee, Road Co
+1387x2225	Public domain	File:Annual reports of the selectmen and overseers of the poor of the town of Harwich (IA annualreportsofs1924harw).pdf	| Description based on : 1867.; Some reports include the reports of Surveyors of Highways, Town Clerk and Treasurer, School Committee, Road Co
+1022x1454	Public domain	File:Six centuries of painting (IA sixcenturiesofpa00davirich).pdf	| Subjects: Painting -- History
+1297x1768	Public domain	File:Universities and their sons; history, influence and characteristics of American universities, with biographical sketches and portraits of alumni and recipients of honorary degrees (IA universitiesandt02cham).pdf	| Special editors approved by authorities of the respective universities: Harvard, William Roscoe Thayer, Yale, Charles Henry Smith: Princeton
+1375x1885	Public domain	File:Catalogue of the valuable paintings collected by the late Joseph Jefferson (IA catalogueofvalua00amer 0).pdf	| 74 lots Introduction by Charles A. Walker List of artists represented and their work Sale held at Mendelssohn Hall Lancour: 2320 Lugt: 64322
+1164x1454	Public domain	File:Nearly five hundred paintings of the early English, French, Flemish, Dutch, Italian, Spanish and American schools from the widely known Blakeslee Galleries (IA nearlyfivehundre00amer).pdf	| Includes index Lugt: 75536 Lancour: 3345 Date of sale: March 06, 07, 08, 09, 10, 1916 Place of sale: New York Johnson Collection copy bound 
+1058x1579	Public domain	File:Cyclopedia of painters and paintings (IA cu31924061775890).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
+1029x1352	Public domain	File:Catalogue of the works of Sir David Wilkie, R.A., deceased, including all the sketches made during his last tour in the East; painting implements (IA b1469026).pdf	| Place of sale: London; Date of sale: Apr. 25-30, 1842 Subjects: Auction catalogs; David Wilkie
+### Joshua prophet icon
+1037x1441	Public domain	File:A new history of painting in Italy, from the II to the XVI century; (IA gri 33125002699086).pdf	| Includes bibliographical references and index 1. Early Christian art; Giotto &amp; his followers.--II. The Sienese school of the XIV century
+1047x1562	Public domain	File:Encyclopædia of religion and ethics (IA encyclopaediaofr10hast).pdf	| Vols. 6-12 "edited by James Hastings, with the assistance of John A. Selbie and Louis H. Gray." Some vols. are "Edition completed and correc
+1179x1627	Public domain	File:The poetical works of Thomas Moore (IA poeticalworksof00moor).pdf	| Title on added t.p.: Moore's poetical works Subjects:
+1300x1650	Public domain	File:Essay on the Nature and Symbolical Character of the Cherubim of the Jewish Tabernacle (IA jstor-30078892).pdf	| "Essay on the Nature and Symbolical Character of the Cherubim of the Jewish Tabernacle" is an article from &lt;a href="/search.php?query=col
+1377x2147	Public domain	File:Εξαστιχόν υπούν. sive Jconum... 1677 (IA bim early-english-books-1641-1700 -sive-jc whitehall-robert 1677).pdf	| Εξαστιχόν υπούν. sive Jconum... 1677..Digitized from IA40313706-14.Previous issue: bim_early-english-books-1641-1700_a-true-copy-of-a-letter
+1106x1625	Public domain	File:Encyclopaedia of religion and ethics (IA encyclopaediaofr07hast).pdf	| Vols. 6-12 "edited by James Hastings, with the assistance of John A. Selbie and Louis H. Gray." Plates printed on both sides Publishers reve
+1029x1345	Public domain	File:Catalogus librorum, ... 1681 (IA bim early-english-books-1641-1700 catalogus-librorum- lawson-george 1681).pdf	| Catalogus librorum, ... 1681..Digitized from IA40313706-35.Previous issue: bim_early-english-books-1641-1700_p-rami-dialecticae-libr_la-rame
+### Cantico dei cantici dipinto
+2086x3256	Public domain	File:Bettinelli - Opere edite e inedite, Tomo 18, 1800.djvu	| 52
+1448x2340	Public domain	File:Prose e poesie (Carrer) II.djvu	| Volume 2 di "Prose e poesie" di Luigi Carrer
+1506x2110	Public domain	File:Al chiarissimo professore Cesare Costa, che mirabilmente architettò il Teatro comunale di Reggio, i concittadini (IA alchiarissimopro00unse).pdf	| 45 p., [1] leaf of plates : 32 cm Introduction signed: Paolo Gaddi A collection of poems in praise of the architect Cesare Costa Lithographe
+1208x1702	Public domain	File:La cappella del coro nella Basilica di Loreto - dipinta dal comm. Lodovico Seitz (IA lacappelladelcor00mila).pdf	| Edition in German (published 1909) has title: Die Wandmalerei von Prof. Ludwig Seitz in der deutschen Kapelle der Basilika zu Loreto Include
+1391x1891	Public domain	File:L'arte (IA larte8190unse).pdf	| Imprint varies: Ulrico Hoepli &amp; Danesi, 1900-1904; Dell'Unione cooperativa editrice, 1905; Casa editrice de l'arte, 1906-1929; Torino : 
+1504x2058	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 253 (1896) (IA IlFriuli-253 1896).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1533x2079	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 60 (1902) (IA IlFriuli 60-1902).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+### Song of Songs illumination bride
+2418x3730	Public domain	File:Love Songs.djvu	| 
+1287x1812	Public domain	File:Official report of the centennial celebration of the founding of the city of Cleveland and the settlement of the Western Reserve (IA officialreportof00clev 1).pdf	| Subjects:
+1375x2187	Public domain	File:The Christmas bride (Felix aeternus)a Christmas play in three acts (IA christmasbridefe00klar).pdf	| 48 p. 24 cm Subjects: Christmas plays
+1268x1716	Public domain	File:A gallery of English and American women famous in song (IA galleryofenglish00copp).pdf	| Title vignette; added t.-p. (illuminated): Women in song An earlier edition, with different illustrations and somewhat different contents ap
+1112x1400	Public domain	File:THE AMERICAN LIBRARY OF ART LITERATURE AND SONG.CHOICE SELECTIONS VOL-IV (IA americanlibraryo000346mbp).pdf	| Subjects:
+2430x3646	Public domain	File:Songs for a Little House (1917).djvu	| The 1917 edition of Songs for a Little House by Christopher Morley
+### Solomon Shulamite painting
+1216x1964	Public domain	File:Rock-flower, (IA rockflower00fost).pdf	| ix, 118 p. 22 cm Poems Subjects:
+1256x1433	Public domain	File:The Windsor magazine - an illustrated monthly for men and women (IA acd6136.0037.001.umich.edu).pdf	| Mode of access: Internet SPEC: In the Parker Family Sir Arthur Conan Doyle Collection. Gift of Dr. Philip Parker Subjects:
+1158x1500	Public domain	File:The life and works of Vittorio Carpaccio (IA gri 33125003600786).pdf	| "Chronological list of the principal works by Vittore Carpaccio": p.xxv-xxvi Subjects: Carpaccio, Vittore, 1455?-1525?
+1356x1983	Public domain	File:English painters of the present day- essays by J. Beavington Atkinson, Sidney Colvin, P.G. Hamerton, W.M. Rossetti, and Tom Taylor (IA englishpainterso00atkiuoft).pdf	| Edward J. Poynter, A.R.A. - Albert Moore, by Sidney Colvin. Edward Burne Jones, by Sidney Colvin. Simeon Solomon - Frederick Walker, by Sidn
+### Maccabean martyrs icon
+### Maccabees Solomonia
+4590x5884	CC0	File:Verbranding van de zonen van Solomonia Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object), RP-P-OB-44.756.jpg	| IdentificatieTitel(s): Verbranding van de zonen van Solomonia. Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object)Obje
+4542x5758	CC0	File:Verbranding van de zonen van Solomonia Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object), RP-P-1896-A-19368-1721.jpg	| IdentificatieTitel(s): Verbranding van de zonen van Solomonia. Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object)Obje
+5106x6542	CC0	File:Verbranding van de zonen van Solomonia Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object), RP-P-OB-44.757.jpg	| IdentificatieTitel(s): Verbranding van de zonen van Solomonia. Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object)Obje
+6172x4628	CC0	File:Marteldood van de zeven zonen van Solomonia, RP-P-OB-45.941.jpg	| IdentificatieTitel(s): Marteldood van de zeven zonen van SolomoniaObjecttype: prent Objectnummer: RP-P-OB-45.941Catalogusreferentie: Van Eeg
+### Judas Maccabeus Rembrandt
+1041x1470	Public domain	File:The twentieth century chronology of the world, being a digest of universal history from earliest times to 1903 A. D (IA twentiethcentury00horw).pdf	| Subjects: Chronology, Historical
+1102x1845	Public domain	File:Supplement to $15,000 Catalogue, No. 53 (IA supplementto15000053stei).pdf	| Subjects: Numismatics; Fixed Price Lists
+### Holy Maccabees painting
 1275x1954	Public domain	File:New century reference library of the world's most important knowledge … (Vol. 1, A-CODE) (IA newcenturyrefere01unse).pdf	| 8 v. 21 cm Subjects: Encyclopedias and dictionaries
-1033x1931	Public domain	File:The New imperial encyclopedia and dictionary;a library of universal knowledge and an unabridged dictionary of the English language under one alphabet;(Vol. 1, A-AMMO) (IA newimperialencyc01unse).pdf	| 40 v. 21 cm Subjects: Encyclopedias and dictionaries
-1243x1858	Public domain	File:People's cyclopedia;a complete library of reference containing the exact knowledge of the world condensed to the plainest terms consistent with accuracy and clearness, (Vol. 1, A-Cons) (IA peoplescyclopedi01unse).pdf	| 5 v. 20 cm Subjects: Encyclopedias and dictionaries. [
-1091x1447	Public domain	File:The cyclopædia; or, Universal dictionary of arts, sciences, and literature (IA cyclopaediaoruni01rees).pdf	| fAE5.R329 plates --- --------Plates ... London, Longman, Hurst, Rees, Orme &amp; Brown [etc.] 1820. 6 v. plates (part col.; incl. music) map
-1720x2410	Public domain	File:The Examiner 1828-01-27- Iss 1043 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1828-01-27 1043).pdf	| The Examiner 1828-01-27: Volume None, Issue 1043.Digitized from IA1532516-01.Previous issue: sim_examiner-a-weekly-paper-on-politics-literat
-1275x1650	Public domain	File:The Canadian antiquarian and numismatic journal (IA series1vols11to13canj).pdf	| Series 1, vols. 11-13. Subjects: Numismatics
-1241x1015	Public domain	File:Eleazar préfère la mort - Antoine-Jean Gros - MM 1938F478.jpg	| Eleazar préfère la mort au crime de violer la loi en mangeant des viandes défendues, peint par Antoine-Jean Gros
-### Sophonias prophet painting
-1018x1967	Public domain	File:Zephaniah from Yaroslavl (18 c, priv.coll).jpg	| THE PROPHET SAFONIY 12,000-15,000 GBP YAROSLAVL, SECOND HALF OF THE 18TH CENTURY. 89 by 46 cm. The icon comes from the Prophets' row of a ch
-1067x1600	CC BY 4.0	File:Prophet Sophonias (Zephaniah)? PRIZREN 2 IMG 4776-2.jpg	| Chruch of Theotokos of Ljeviš, Prizren, Fresco painting
+1066x1958	Public domain	File:The New imperial encyclopedia and dictionary;a library of universal knowledge and an unabridged dictionary of the English language under one alphabet;(Vol. 29, PETR-POLYG) (IA newimperialencyc29unse).pdf	| 40 v. 21 cm Subjects: Encyclopedias and dictionaries
+1216x1500	Public domain	File:The Art journal (IA gri 33125006187450).pdf	| From 1851-1854 called "New ser., v. 3-6"; 1855-1861 called "New ser., v. 1-7"; 1862-1880 called "New ser., v. 1-19" Subjects: Art
+1187x1564	Public domain	File:Hand-list descriptive of a collection of books and manuscripts of exceptional rarity and importance (IA handlistdescript00jpea).pdf	| Subjects: Rare books; Manuscripts
+2885x4022	Public domain	File:The New York Evangelist 1847-09-09- Vol 18 Iss 36 (IA sim evangelist-and-religious-review 1847-09-09 18 36).pdf	| The New York Evangelist 1847-09-09: Volume 18, Issue 36.Digitized from IA1532521-02.Previous issue: sim_evangelist-and-religious-review_1847
+2208x3258	Public domain	File:The Glendale Evening News 1918-09-07 (IA cgl 003562).pdf	| CA-R Notes for IA: Image may appear dark or faded due to the nature of microfilm. Some text runs off the page, inherent to the original.Seri
+1275x2054	Public domain	File:Mason's Coin and Stamp Collectors' Magazine (IA masonscoinstampc04n2maso).pdf	| Subjects: Numismatics; Collectors and collecting; Periodicals
+1122x1358	Public domain	File:Father Damen's lecture, Tuesday evening, 19th December, 1871 (microform) - answers to popular objections against the Catholic Church - a verbatim report (IA cihm 06253).pdf	| Includes advertising matter Filmed from a copy of the original publication held by the University of Alberta, Edmonton 43 Subjects: Catholic
+4000x2783	Public domain	File:Stattler, Wojciech Korneli - The Maccabees (1842) (4k).jpg	| Measurements: height: 262 cm, width: 371 cm; with frame: height: 311.5 cm, width: 423 cm, depth: 21.5 cm "Wojciech Korneli Stattler's work o
+1366x2129	Public domain	File:Epigrams upon the paintings of the most eminent masters, ... 1700 (IA bim early-english-books-1641-1700 epigrams-upon-the-painti ezsun-john 1700).pdf	| Epigrams upon the paintings of the most eminent masters, ... 1700..Digitized from IA40313003-38.Previous issue: bim_early-english-books-1641
