@@ -13,7 +13,8 @@ export function getStaticPaths() {
 }
 const { r } = Astro.props as { r: ReflexaoCapitulo };
 const livro = livroPorSlug.get(r.livro)!;
-const ref = `${livro.nome} ${r.cap}`;
+const ref = r.livro === 'salmos' ? `Salmo ${r.cap}` : `${livro.nome} ${r.cap}`;
+const nomeCap = (n: number) => (r.livro === 'salmos' ? `Salmo ${n}` : `${livro.nome} ${n}`);
 const path = `/biblia/${r.livro}/${r.cap}`;
 const tom = CATEGORY_VISUAL['catecismo'];
 const img = imagemDoLivro(r.livro);
@@ -24,7 +25,7 @@ const crumbs = [
   { name: 'Início', path: '/' },
   { name: 'Bíblia', path: '/biblia' },
   { name: livro.nome, path: `/biblia/${r.livro}` },
-  { name: `Capítulo ${r.cap}`, path },
+  { name: r.livro === 'salmos' ? `Salmo ${r.cap}` : `Capítulo ${r.cap}`, path },
 ];
 const jsonLd: Record<string, unknown>[] = [
   {
@@ -76,12 +77,12 @@ const jsonLd: Record<string, unknown>[] = [
         <nav class="mt-12 grid grid-cols-2 gap-3" aria-label="Capítulos">
           {anterior ? (
             <a href={`/biblia/${r.livro}/${anterior}`} class="flex min-h-[64px] items-center gap-2 rounded-lg border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35">
-              <ChevronLeft className="h-5 w-5 shrink-0" aria-hidden="true" /><span><span class="block text-[13px] text-co-warm-brown/75">Anterior</span><span class="font-semibold">{livro.nome} {anterior}</span></span>
+              <ChevronLeft className="h-5 w-5 shrink-0" aria-hidden="true" /><span><span class="block text-[13px] text-co-warm-brown/75">Anterior</span><span class="font-semibold">{nomeCap(anterior)}</span></span>
             </a>
           ) : <span />}
           {proximo ? (
             <a href={`/biblia/${r.livro}/${proximo}`} class="flex min-h-[64px] items-center justify-end gap-2 rounded-lg border border-co-warm-sand-dark bg-white p-4 text-right hover:border-co-warm-brown/35">
-              <span><span class="block text-[13px] text-co-warm-brown/75">Próximo</span><span class="font-semibold">{livro.nome} {proximo}</span></span><ChevronRight className="h-5 w-5 shrink-0" aria-hidden="true" />
+              <span><span class="block text-[13px] text-co-warm-brown/75">Próximo</span><span class="font-semibold">{nomeCap(proximo)}</span></span><ChevronRight className="h-5 w-5 shrink-0" aria-hidden="true" />
             </a>
           ) : <span />}
         </nav>

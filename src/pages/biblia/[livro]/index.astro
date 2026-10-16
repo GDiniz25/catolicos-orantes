@@ -14,7 +14,7 @@ const path = `/biblia/${l.slug}`;
 const caps = Array.from({ length: l.capitulos }, (_, i) => ({ n: i + 1, r: reflexao(l.slug, i + 1) }));
 const prontos = caps.filter((c) => c.r);
 const img = imagemDoLivro(l.slug);
-const tema = (t: string, n: number) => { const x = t.replace(`${l.nome} ${n}: `, '').replace(`${l.nome} ${n}`, '').trim(); return x ? x[0].toUpperCase() + x.slice(1) : `${l.nome} ${n}`; };
+const tema = (t: string, n: number) => { const x = t.replace(`${l.nome} ${n}: `, '').replace(`Salmo ${n}: `, '').replace(`${l.nome} ${n}`, '').trim(); return x ? x[0].toUpperCase() + x.slice(1) : `${l.nome} ${n}`; };
 const crumbs = [{ name: 'Início', path: '/' }, { name: 'Bíblia', path: '/biblia' }, { name: l.nome, path }];
 const titulo = `${l.nome}: explicação e reflexão de cada capítulo`;
 const descricao = `Explicação de ${l.nome} capítulo por capítulo: contexto, sentido de cada trecho, o que a Igreja ensina e uma reflexão para rezar.`;
@@ -35,7 +35,7 @@ const descricao = `Explicação de ${l.nome} capítulo por capítulo: contexto, 
         {prontos.length < l.capitulos && <p class="mt-2 text-[15px] text-co-warm-brown/75">{prontos.length} de {l.capitulos} capítulos com reflexão. Os demais estão sendo preparados.</p>}
         <ol class="gs gs-sm2 mt-5 gap-3">
           {prontos.map((c) => (
-            <li><a href={`${path}/${c.n}`} class="block h-full rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35"><span class="block text-[13px] font-semibold text-co-warm-terracotta">Capítulo {c.n}</span><span class="mt-1 block font-display text-lg font-semibold leading-snug">{tema(c.r!.titulo, c.n)}</span></a></li>
+            <li><a href={`${path}/${c.n}`} class="block h-full rounded-xl border border-co-warm-sand-dark bg-white p-4 hover:border-co-warm-brown/35"><span class="block text-[13px] font-semibold text-co-warm-terracotta">{l.slug === 'salmos' ? `Salmo ${c.n}` : `Capítulo ${c.n}`}</span><span class="mt-1 block font-display text-lg font-semibold leading-snug">{tema(c.r!.titulo, c.n)}</span></a></li>
           ))}
         </ol>
       </section>

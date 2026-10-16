@@ -23,7 +23,8 @@ for d in dados:
     for f in ('titulo', 'meta', 'html', 'faq'):
         if not d.get(f): errs.append(f'{k}: campo {f} vazio')
     t, m, h = d.get('titulo', ''), d.get('meta', ''), d.get('html', '')
-    ref = f'{nome[lv]} {cp}'
+    sl = lv == 'salmos'
+    ref = f'Salmo {cp}' if sl else f'{nome[lv]} {cp}'
     if not t.startswith(ref): errs.append(f'{k}: titulo deve comecar com "{ref}"')
     if len(t) > 60: errs.append(f'{k}: titulo {len(t)}')
     if not 120 <= len(m) <= 155: errs.append(f'{k}: meta {len(m)}')
@@ -34,7 +35,8 @@ for d in dados:
         if '—' in txt or '–' in txt or ' · ' in txt: errs.append(f'{k}: travessao ou ponto medio'); break
     fp = re.search(r'<p>(.*?)</p>', h, re.S)
     if not h.startswith('<p>') or not fp or '<strong>' not in fp.group(1): errs.append(f'{k}: primeiro paragrafo sem strong')
-    for sec in (f'<h2>Contexto de {ref}</h2>', f'<h2>Explicação de {ref}</h2>', '<h2>Reflexão para hoje</h2>', f'<h2>Para rezar com {ref}</h2>', '<h2>Fontes</h2>'):
+    de, com = ('do ', 'o ') if sl else ('de ', '')
+    for sec in (f'<h2>Contexto {de}{ref}</h2>', f'<h2>Explicação {de}{ref}</h2>', '<h2>Reflexão para hoje</h2>', f'<h2>Para rezar com {com}{ref}</h2>', '<h2>Fontes</h2>'):
         if sec not in h: errs.append(f'{k}: falta secao {sec}')
     if not re.search(r'<h2>O que .*?\?</h2>', h): errs.append(f'{k}: falta h2 "O que ... ensina ...?"')
     exp = re.search(r'<h2>Explicação de .*?</h2>(.*?)<h2>', h, re.S)
