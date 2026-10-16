@@ -197,111 +197,35 @@ OK	fr/nt_ap2	4048x6000	Public domain	Master of the Female Half-Lengths	File:Mast
    DESC: It was on the island of Patmos that Saint John wrote the Book of Revelation. Beside him rests his symbol, the eagle, which holds the saint's ink pot. In the sky above is a vision of a woman and child ('the Woman clothed with the Sun') and the seven-headed dragon of the Apocalypse. On the ground near John is a small devil monster
    CATS: 1540s religious paintings in the United Kingdom | 16th-century oil on panel paintings in the United Kingdom | 16th-century oil paintings of sitting men at full length | 16th-century religious paintings in the National Gallery, London | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Birds holding objects | CC-PD-Mark | Flemish paintings in the National Gallery, London | Flying dragons
    LICURL:  USAGE: Public domain
-### Saint Timothy painting
-2024x2613	Public domain	File:Rembrandt Harmensz. van Rijn 153.jpg	| 
-1135x1310	Public domain	File:Century Mag The Feast of Saint Nicholas.png	| 
-1105x1580	Public domain	File:Century Mag St. Apollonia Luini.png	| St. Apollonia, engraved by Timothy Cole after a painting by Bernardino Luini in the church of S. Maurizio, Milan. 1892 (detail).
-1536x2048	CC BY-SA 3.0	File:Спас на крови 110.jpg	| Санкт-Петербург. Спас на крови. Тит и Тимофей
-1800x964	Public domain	File:Byzantine - The Martyrdom of Saint Timothy - Walters W521203V - Obverse Detail.jpg	| The manuscript is known as a menologion, from the Greek for "month". It was written and illuminated in the imperial scriptorium in Constanti
-1389x1800	Public domain	File:Byzantine - The Martyrdom of Saint Timothy - Walters W521203V.jpg	| The manuscript is known as a menologion, from the Greek for "month". It was written and illuminated in the imperial scriptorium in Constanti
-1508x1907	CC BY-SA 3.0	File:Джэймс Фітлер "Самуіл і Ілі".JPG	| Джэймс Фітлер "Самуіл і Ілі". Англія. Лондан. Папера. Гравюра на медзі
-3044x4208	No restrictions	File:Ancient apostles (1918) (14598176219).jpg	| Identifier: ancientapostles00mcka (find matches) Title: Ancient apostles Year: 1918 (1910s) Authors: McKay, David O. (David Oman), 1873-1970
-1524x1920	Public domain	File:Timothy-and-Lois.jpg	| 
-2241x2809	CC0	File:Hannah and the Infant Samuel MET 173286.jpg	| Russian, Saint Petersburg; Tapestry; Textiles-Tapestries
-1292x1578	Public domain	File:Hannah and Samuel in the temple, Rembrandt or his studio, c. 1650, Scottish National Gallery, Edinburgh.jpg	| Hannah and Samuel in the temple, Rembrandt or his studio, c. 1650, Scottish National Gallery, Edinburgh
-2508x2988	CC BY-SA 4.0	File:Hermitage hall 254 - De profetes Hanna by Willem Drost.jpg	| Новый Эрмитаж, зал 254 - Картина Дроста "Пророчица Анна и ребенок"
-5244x4094	PDM-owner	File:The Martyrdom of Saint Januarius and his Fellows (SM 1827).png	| devotional image · depiction of a saint · martyrdom · Saint Januarius · Timotheus / Timothy (governor) · man · group of people · animal · Ca
-1097x1675	Public domain	File:Old Spanish masters engraved by Timothy Cole (IA oldspanishmaster00colerich).pdf	| Subjects: Painting, Spanish; Painting -- Spain History
-2862x1785	Public domain	File:Henryk Siemiradzki - Martyrdom of early Christians - 182561 - National Museum in Warsaw.jpg	| 
-1338x1662	Public domain	File:The Saints of the 22nd of January (K. Tzanes).png	| 
-2446x3261	CC BY-SA 4.0	File:Saint Timothy the Apostle.jpg	| Icon of Saint Timothy in an Orthodox parish in the United States
-### Paul and Timothy painting
-1569x1053	Public domain	File:Century Mag Paul Potter engraving.png	| 
-1046x1322	Public domain	File:Century Mag Portrait of Paul Potter Van der Helst engraving.png	| Portrait of Paulus Potter
-1283x1600	Public domain	File:Timothy Matlack.jpg	| 
-3044x4208	No restrictions	File:Ancient apostles (1918) (14598176219).jpg	| Identifier: ancientapostles00mcka (find matches) Title: Ancient apostles Year: 1918 (1910s) Authors: McKay, David O. (David Oman), 1873-1970
-6814x4502	CC0	File:Fotoreproducties van een portretten van John Endicott, Simon Bradstreet, Timothy Pickering en Leverett Saltonstall Jo. Endicott Simon Bradstreet Timothy Pickering Leverett Saltonstall (titel op object), RP-F-2001-7-799-2.jpg	| IdentificatieTitel(s): Fotoreproducties van een portretten van John Endicott, Simon Bradstreet, Timothy Pickering en Leverett Saltonstall. J
-1058x1672	Public domain	File:Travels of Paul;a course of study for boys' Bible classes, (IA travelsofpaulaco00jack).pdf	| 59 p. 17 cm Bibliography : p. 10-11 Subjects:
-1114x1800	Public domain	File:Travels of Paul; a course of study for boys' Bible classes (IA travelsofpaulcou00jack).pdf	| Bibliography : p. 10-11 Subjects:
-1058x1493	Public domain	File:Scottish painting, past and present, 1620-1908 (IA scottishpainting00cawj).pdf	| Subjects: Painting; Painting
-1516x2033	Public domain	File:Selected proofs from the first and second portfolios of illustrations from Scribner's Monthly and St. Nicholas (IA selectedproofsfr00cole).pdf	| "This book contains 57 illustrations that had appeared in the two magazines."--Cf. Hamilton Includes illustrations by Mary Hallock Foote, El
-1125x1947	Public domain	File:Catalog of Valuable Antique Furniture, Paintings, Engravings and Books, Articles of Vertu, and Curiosities, and also a few Coins, Seals, Watches ... (IA catalogofvaluabl0000leav).pdf	| Subjects: Rossiter, Thomas Prichard; Auction catalogs
-1397x2270	Public domain	File:Catalogue of valuable antique furniture, paintings, engravings, and books, articles of vertu, and curiosities, also a few coins, seals, and watches, etc., etc., etc. (IA catalogueofvalua00leav 1).pdf	| Lots: 693 Priced and named Feb. 5-8, 1873 Subjects: Rossiter, Thomas Prichard
-1549x1989	Public domain	File:Elise, eldest sister of Napoleon Bonaparte. T. Cole after Pierre-Paul Prud'hon.jpg	| Elsie, eldest sister of Napoleon Bonaparte. Engraved by Timothy Cole after a painting by Pierre-Paul Prud'hon
-### Onesimus Philemon
-2126x1414	Public domain	File:Onesimus of Byzantium (Menologion of Basil II).jpg	| Апостол от 70-ти Онисим . Константинополь. 985 г. Миниатюра Минология Василия II. Ватиканская библиотека. Рим.
-1024x682	Public domain	File:Philemon and Onesimus.jpg	| Philemon receiving Onesimus.
-1585x1853	Public domain	File:St Onesimus the apostle.jpg	| St Onesimus the apostle.
-3904x6226	CC0	File:Heilige Faustinus en Heilige Jovita van Brescia, Heilige Juliana, Heilige Onesimus, Heilige Polychronius (15-17 februari) Alle heiligen en de Christelijke feestdagen van het jaar (serietitel), RP-P-OB-20.702.jpg	| IdentificatieTitel(s): Heilige Faustinus en Heilige Jovita van Brescia, Heilige Juliana, Heilige Onesimus, Heilige Polychronius (15-17 febru
-1677x2165	CC0	File:St. Onesimus, Bishop and Martyr Met DP890842.jpg	| 
-1227x1968	Public domain	File:Onesimus the slave - a romance of the days of Nero (IA onesimusslaverom00hoyt).pdf	| Subjects:
-1137x1735	Public domain	File:Onesimus- Christ's freedman; a tale of the Pauline Epistles (IA onesimuschristsf00corw).pdf	| Subjects:
-3935x4919	CC BY-SA 4.0	File:Bishop Onesimus.jpg	| 6th bishop of North Kigezi Diocese
-3008x2000	CC BY-SA 4.0	File:Yılanlı Kilise Saints Onesimus George and Theodore in 2004 6841.jpg	| One of pictures in the Snake Church. A website helped me identify the pictures that I took in 2004.
-5044x5088	CC BY-SA 4.0	File:Bishop Onesimus Asiimwe (North Kigezi Diocese) and Bishop Eng George Bagamuhunda (Retired Bishop of Kigezi Diocese).jpg	| Bishop Onesimus Asiimwe (North Kigezi Diocese) and Bishop Eng George Bagamuhunda (Retired Bishop of Kigezi Diocese)
-4020x5120	CC BY-SA 4.0	File:Bishop Onesimus Asiimwe (North Kigezi Diocese).jpg	| Bishop Onesimus Asiimwe (North Kigezi Diocese)
-3024x4032	CC BY-SA 4.0	File:Bishop Onesimus Asiimwe 1.jpg	| Onesimus Asiimwe (born April 24, 1965) is a Ugandan professional educator and clergyman.
-4032x3024	CC BY 4.0	File:Bishop Onesimus Asiimwe 19th 2.jpg	| Bishop Onesimus Asiimwe (born April 24, 1965) is a Ugandan Anglican bishop, theologian and former chaplain of Makerere University. He has se
-3024x4032	CC BY 4.0	File:Bishop Onesimus Asiimwe 19th.jpg	| Bishop Onesimus Asiimwe (born April 24, 1965) is a Ugandan Anglican bishop, theologian and former chaplain of Makerere University. He has se
-3024x4032	CC BY 4.0	File:Bishop Onesimus Asiimwe 19th 1.jpg	| Bishop Onesimus Asiimwe (born April 24, 1965) is a Ugandan Anglican bishop, theologian and former chaplain of Makerere University. He has se
-2338x1700	CC BY 4.0	File:Bishop Onesimus, Wife and Children.jpg	| Bishop Onesimus with his Wife and Kids
-### Timothy grandmother Lois painting
-3792x2658	No restrictions	File:Ancient apostles (1918) (14804677923).jpg	| Identifier: ancientapostles00mcka Title: Ancient apostles Year: 1918 (1910s) Authors: McKay, David O. (David Oman), 1873-1970 Deseret Sunday
-3044x4208	No restrictions	File:Ancient apostles (1918) (14598176219).jpg	| Identifier: ancientapostles00mcka (find matches) Title: Ancient apostles Year: 1918 (1910s) Authors: McKay, David O. (David Oman), 1873-1970
-1524x1920	Public domain	File:Timothy-and-Lois.jpg	| 
-1006x1577	Public domain	File:New York state's prominent and progressive men (Vol 3) (1900) (IA newyorkstatespro01harr).pdf	| Subjects: New York (State) -- Biography. [from old catalog]
-1418x2014	Public domain	File:Abigail, (IA abigail00sper).pdf	| 196 p. 22 cm Subjects:
-1281x1731	Public domain	File:The pathway of life ... to which is added a biography of Dr. Talmage (IA pathwayoflifetow00thom).pdf	| Subjects:
-1000x1500	Public domain	File:The Pickering genealogy v2.djvu	| Paged continuously
-1275x1650	Public domain	File:Pickering Genealogy v2.pdf	| Pickering Genealogy v2
-1306x1660	Public domain	File:Genealogy and history of representative citizens of the Commonwealth of Massachusetts (IA genealogyhistory00hurd).pdf	| Photocopy Subjects: Massachusetts -- Genealogy; Massachusetts -- Biography
-1312x1652	Public domain	File:Genealogy and history of representative citizens of the commonwealth of Massachusetts (IA genealogyhistory00hurd 0).pdf	| 16 Subjects: genealogy
-### Saint Paul Ephesus Le Sueur
-1000x1186	Public domain	File:Eustache Le Sueur - The Preaching of St Paul at Ephesus - WGA12613.jpg	| 
-1027x1812	Public domain	File:Information and directions for travellers on the continent. (IA informationdirec00star 0).pdf	| viii, 475, [1] p., 2 l. 20 cm Subjects: Europe -- Guidebooks; Italy -- Guidebooks
-1268x1850	Public domain	File:The Architectural review (IA architecturalrev24unse).pdf	| v. 33 cm Some issues accompanied by CD-ROM Vols. for Dec. 1901- have also whole numbering, no. 56- Has occasional supplements Absorbed: Deta
-1045x1525	Public domain	File:Catalogue of books concerning the Greek and Latin classics in the Central Public Libraries, Newcastle-upon-Tyne (IA catalogueofbooks00publrich).pdf	| Subjects: Classical literature
-1154x1589	Public domain	File:Federal Register 1979-10-30- Vol 44 Iss 211 (IA sim federal-register-find 1979-10-30 44 211 0).pdf	| Federal Register 1979-10-30: Volume 44, Issue 211.Digitized from IA1532614-06.Previous issue: sim_federal-register-find_1979-10-30_44_211.Ne
-1360x1206	CC BY 4.0	File:S. Paul préchant a Ephèse =, PK-P-126.088.jpg	| Title: S. Paul préchant à Ephèse =Subtitle: Saint Paul preaching in Ephesus PK-P-126.088Author/creator: Audran, Benoit I (1661-1721)Le Sueur
-1256x1575	CC BY 4.0	File:St. Paul prechant à Ephèse et persuadant les habitans de bruler leurs livres traitans de magie =, PK-P-126.388.jpg	| Title: St. Paul prechant à Ephèse et persuadant les habitans de bruler leurs livres traitans de magie =Subtitle: Saint Paul preaching at Eph
-1035x1614	Public domain	File:Eustace Le Sueur (IA jstor-20538138).pdf	| "Eustace Le Sueur" is an article from &lt;a href="/search.php?query=collection%3Ajstor_illumagaart%20AND%20volume%3A2" rel="nofollow"&gt;The
-1000x1261	Public domain	File:Copie d'après Saint Paul prêchant à Ephèse de Le Sueur 2380.jpg	| painting of Edgar Degas
-1043x1437	Public domain	File:Stories of art and artists (IA storiesofartarti00wate 0).pdf	| xiv, 357 pages : 25 cm Includes index Subjects: Art; Artists -- Biography; Artistes -- Biographies
-### Beheading of Saint Paul painting
-1131x679	Public domain	File:Decapitación de San Pablo.jpg	| Esta obra es un boceto preparatorio del cuadro conocido como La decapitación de San Pablo, que fue pintado por Enrique Simonet en 1887 y que
-4453x1602	Public domain	File:Masaccio. Crucifixion of St. Peter and Beheading of St. John the Baptist..jpg	| lest panel of the Predella from the Pisa Altarpiece
-1440x1800	Public domain	File:Pieter Verelst - Saint Paul - Walters 37272.jpg	| Verelst probably used a live model for this "portrait," but the old man's sword would have identified him to contemporary viewers as the Apo
-4053x5121	Public domain	File:El Greco - St. Paul - Google Art Project.jpg	| The work represents Saint Paul, called the Apostle of the Gentiles and beheaded according to tradition in Rome during the reign of Emperor N
-4000x3000	CC BY-SA 4.0	File:Voskopojë St.Nikolaos - Innenraum Fresko 4a Enthauptung.jpg	| Voskopojë ( Albania ). Saint Nicholas church ( 1722 ) - Interior: Fresco ( 1726 ) of the beheading of Saint Paul by David Selenica.
-3231x5920	Public domain	File:Madonna dell'Orto (Venice) - Choir - The beheading of St. Paul.jpg	| 
-3924x2647	CC BY 2.0	File:Pickering, Ss Peter & Paul church, wall painting (33426287713).jpg	| The beheading of St John the Baptist. Salome is dancing at the feast, and she is seen receiving the head. Pic by Jenny
-1736x2920	CC BY 3.0	File:Jacopo tintoretto, decollazione di san paolo, 1556 ca.jpg	| 
-5382x2828	PDM-owner	File:St. John Altarpiece (after Rogier van der Weyden) (SM 878).png	| altarpiece · depiction of a saint · Biblical portrayal · literary representation · historical narration · young John the Baptist · Zechariah
-1043x1560	Public domain	File:A history of painting (IA historyofpaintin07macf).pdf	| "Limited to 1,000 numbered copies, of which this is number 826." Plates accompanied by guard sheets with descriptive letterpress " Bibliogra
-7841x7770	PDM-owner	File:Martyrdom of St Paul (SM 832).png	| altarpiece · depiction of a saint · literary representation · historical narration · martyrdom · force · Paul (apostle) · man · group of peo
-1626x2604	PDM-owner	File:Beheading of St. John the Baptist (SM 878c).png	| altarpiece · depiction of a saint · Biblical portrayal · literary representation · historical narration · martyrdom · force · John the Bapti
-6412x5085	Public domain	File:Simon de Vos - Onthoofding van de heilige Paulus - 877 - Royal Museum of Fine Arts Antwerp.tiff	| 
-### Saint Paul shipwreck Malta painting
-1200x773	Public domain	File:Laurent de La Hyre's Saint Paul Shipwrecked on Malta.jpg	| Acts 28:1-6 is illustrated showing Paul being perceived by the Malta inhabitants as a God.
-1240x671	Public domain	File:Paulus op Malta Centraal Museum 2267.jpg	| Paulus op Malta.
-1600x1227	Public domain	File:Large landscapes (BM R,5.11).jpg	| Landscape with the shipwreck of St Paul at Malta (or the shipwreck of Aeneas); a coastal scene with a blazing beacon on the summit of a rock
-1054x1827	Public domain	File:Notes of a two years' residence in Italy (IA notesoftwoyearsr00geal).pdf	| viii, 294 p. 20 cm Subjects: Italy -- Description and travel
-1041x1564	Public domain	File:The complete poetical and dramatic works of Lord Byron.. (IA completepoetical02byro).pdf	| Subjects:
-2741x1772	Public domain	File:Description of a view of the grand harbour of Malta, and the city of La Valetta - now exhibiting at the Panorama, Leicester Square ; painted by the proprietor, Robert Burford (IA descriptionofvie00burf 18).pdf	| 12 p., [1] folded leaf of plates : 21 cm Subjects: Panoramas -- Malta -- Valletta; Malta -- Description and travel
-1087x1556	Public domain	File:Malta and the Knights hospitallers (IA maltaknightshosp00bedf).pdf	| 80 p. 27cm Subjects: Knights of Malta; Malta -- Description and travel
-1325x2187	Public domain	File:The story of Malta; (IA cu31924028392177).pdf	| 
-1352x2189	Public domain	File:Catalogue of a collection of Oriental and European coins, the collection of Mr. G. Blake ... comprising rarities (of) Siam, China, Japan, Venice, Papal states (IA catalogueofcolle00scot 4).pdf	| 31 p. ; 23 x 15 cm Lots: 641 All copies priced Sale #37 One catalog is the private bid book of numismatists S.H. and Henry Chapman Oct. 10, 
-1112x1785	Public domain	File:Catalogue of a valuable and interesting collection of American and foreign coins and medals ... (05-26-1881) (IA catalogueofvaluaigoj).pdf	| May 26, 1881 Subjects:
-1767x1619	CC BY-SA 4.0	File:20040630630DR Wieck (Greifswald) Bugenhagenkirche Flügelaltar.jpg	| 30.06.2004 17493 Wieck (Greifswald), Kirchstraße: Bugenhagenkirche (GMP: 54.096657,13.446506), erbaut von Friedrich Adler und Friedrich Schu
-1544x1164	Public domain	File:Schelte Adamsz. Bolswert after Rubens - Large landscapes (BM R,5.11) (cropped).jpg	| Landscape with the shipwreck of St Paul at Malta (or the shipwreck of Aeneas); a coastal scene with a blazing beacon on the summit of a rock
-1039x1700	Public domain	File:Miscellanies, antiquarian and historical (IA b22034122).pdf	| 2 unnumbered leaves, 174 pages, 1 unnumbered leaf ; (8vo) On the term "Hebrew"--Remarks on the Melita on which St. Paul was shipwrecked.--Ac
-1139x1891	Public domain	File:The Story of Malta (IA storyofmalta00ball).pdf	| Subjects:
-### Saint Paul apostle portrait painting baroque
-1440x1800	Public domain	File:Pieter Verelst - Saint Paul - Walters 37272.jpg	| Verelst probably used a live model for this "portrait," but the old man's sword would have identified him to contemporary viewers as the Apo
-1308x1818	Public domain	File:George Leland Hunter, Decorative Textiles, Philadelphia 1918.pdf	| "This limited edition has been printed from type and the type distributed." "The material presented in the present volume constituted, for t
-1008x1500	Public domain	File:Classification. Class N- Fine arts (IA classnfinearts00libr).pdf	| At head of title: Library of Congress First edition, 1910, prepared under the direction of Mr. Charles Martel, then chief classifier; 2d edi
-1091x1866	Public domain	File:French prints of the eighteenth century (IA frenchprintsofei00nevi).pdf	| Includes index Subjects: Engraving, Baroque; Engraving, French
-1239x1747	Public domain	File:California Digital Library (IA decorativetextil00huntrich).pdf	| "Working bibliography of decorative textiles": p. 438-[447] Subjects: Textile fabrics; Textile design; Lace and lace making; Embroidery; Wal
-1104x1425	Public domain	File:The study and criticism of Italian art (IA gri 33125001883996).pdf	| First published 1901 In part reprinted from "New York nation" and the "Gazette des beaux-arts." Vasari in the light of recent publications.-
-1085x1458	Public domain	File:The study and criticism of Italian art (IA gri 33125002983506).pdf	| Includes bibliographical references Vasari in the light of recent publications.--Dante's visual images, and his early illustrators.--Some co
-1431x1943	Public domain	File:Decorative textiles, 1918 (IA decorativetextil1918hunt).pdf	| "This limited edition has been printed from type and the type distributed." "The material presented in the present volume constituted, for t
+OK	fr/nt_tim1	1524x1920	Public domain	Willem Drost	File:Timothy-and-Lois.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Biblical women | CC-PD-Mark | Dutch paintings in the Hermitage | Grandmothers in art | Hermitage hall 254 - Rembrandt's hall | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Willem Drost | Saint Timothy in the Temple by Rembrandt
+   LICURL:  USAGE: Public domain
+OK	fr/nt_tim2	2024x2613	Public domain	Willem Drost	File:Rembrandt Harmensz. van Rijn 153.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Author died more than 100 years ago public domain images | CC-PD-Mark | Collection Earl of Ellesmere | PD-Art (Yorck Project) | PD-old missing SDC copyright status | Saint Timothy in the Temple by Rembrandt | Yorck Project paintings missing described by source
+   LICURL:  USAGE: Public domain
+OK	fr/nt_tim3	2446x3261	CC BY-SA 4.0	Moralmonke	File:Saint Timothy the Apostle.jpg
+   DESC: Icon of Saint Timothy in an Orthodox parish in the United States
+   CATS: CC-BY-SA-4.0 | Saint Timothy in paintings | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nt_one1	1585x1853	Public domain	Unknown authorUnknown author	File:St Onesimus the apostle.jpg
+   DESC: St Onesimus the apostle.
+   CATS: CC-PD-Mark | Onesimus of Byzantium | PD-Art (PD-old-70) | PD-Art missing SDC copyright status | PD-old missing SDC copyright status | Template Unknown (author)
+   LICURL:  USAGE: Public domain
+OK	fr/nt_one2	1677x2165	CC0	Jacques Callot	File:St. Onesimus, Bishop and Martyr Met DP890842.jpg
+   DESC: 
+   CATS: Artworks with known accession number | Artworks without Wikidata item | CC-Zero | Images from Metropolitan Museum of Art | Male Christian saints in art | Onesimus of Byzantium | Prints by Jacques Callot in the Metropolitan Museum of Art | Uploaded with pattypan
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/nt_ver1	1440x1800	Public domain	Pieter Hermansz Verelst	File:Pieter Verelst - Saint Paul - Walters 37272.jpg
+   DESC: Verelst probably used a live model for this "portrait," but the old man's sword would have identified him to contemporary viewers as the Apostle Paul holding the symbol of his martyrdom, the sword by which he was beheaded. Paul's theology--emphasizing that personal salvation depends more on the believer's having faith in Christ's capacity to save than on carrying out good works--was fundamental fo
+   CATS: Artworks digital representation of 2D work | Artworks from the Netherlands in the Walters Art Museum | Artworks with Wikidata item | Artworks with known accession number | Baroque paintings in the Walters Art Museum | CC-PD-Mark | Christian paintings in the Walters Art Museum | Items with VRTS permission confirmed | Media contributed by the Walters Art Museum | Media contributed by the Walters Art Museum: needs category review | Media contributed by the Walters Art Museum with wikidata item | PD
+   LICURL:  USAGE: Public domain
+OK	fr/nt_atos4	6064x7368	Public domain	Anthony van Dyck	File:Dyck, Anthonis van - Pouring of the Holy Ghost - Bildergalerie Sanssouci.jpeg
+   DESC: In der "Ausgießung des Heiligen Geistes" stellte van Dyck das Pfingstwunder dar, das in der Apostelgeschichte des Neuen Testaments (2, 1-4) geschildert wird: Zu Pfingsten versammelten sich die Apostel und wurden vom heiligen Geist erfüllt, so dass sie anfingen, in anderen Sprachen zu predigen. Der dunkle Raum wird im Gemälde von oben nur durch das göttliche Licht erhellt, die Taube des Heiligen Ge
+   CATS: 17th-century paintings in the Bildergalerie Sanssouci, Potsdam | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Files from Google Arts & Culture | PD-Art (PD-old-100-expired) | PD-old-100-expired | Pentecost (Anthony van Dyck)
+   LICURL:  USAGE: Public domain
+OK	fr/nt_mal1	1200x773	Public domain	Laurent de La Hyre	File:Laurent de La Hyre's Saint Paul Shipwrecked on Malta.jpg
+   DESC: Acts 28:1-6 is illustrated showing Paul being perceived by the Malta inhabitants as a God.
+   CATS: 1630 paintings | 1630s paintings from France | 1630s paintings in the United Kingdom | 17th-century oil on canvas paintings in the United Kingdom | 17th-century paintings of New Testament | 17th-century religious paintings in the United Kingdom | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Campfires in art | French paintings in the Birmingham Museum of Art | Items wit
+   LICURL:  USAGE: Public domain
