@@ -1,75 +1,221 @@
 {
- "mateus": {"arquivo": "File:Guercino - Saint Matthew and the Angel - Google Art Project.jpg"},
- "marcos": {"arquivo": "File:El evangelista san Marcos (Maratta).jpg"},
- "lucas": {"arquivo": "File:Frans Hals 086 big.jpg"},
- "joao": {"arquivo": "File:Zampieri St John Evangelist.jpg"},
- "atos-dos-apostolos": {"arquivo": "File:Dyck, Anthonis van - Pouring of the Holy Ghost - Bildergalerie Sanssouci.jpeg"},
- "romanos": {"arquivo": "File:Jan Lievens, Painting of St Paul, ca. 1627-29. Oil on canvas. Nationalmuseum Sweden.jpg"},
- "1-corintios": {"arquivo": "File:El Greco - St. Paul - Google Art Project.jpg"},
- "2-corintios": {"arquivo": "File:Saint Paul, by Peter Paul Rubens (Museo del Prado).jpg"},
- "galatas": {"arquivo": "File:Denys Calvaert - The Conversion of Saint Paul.jpg"},
- "efesios": {"arquivo": "File:Guercino - Saint Paul - O 279 - Slovak National Gallery.jpg"},
- "filipenses": {"arquivo": "File:Rembrandt St. Paul in Prison.jpg"},
- "colossenses": {"arquivo": "File:Reni - Saint Paul, 1633 - 1634.jpg"},
- "1-tessalonicenses": {"arquivo": "File:(Albi) Saint Paul (copie) - Georges de La Tour - MTL inv.165.jpg"},
- "2-tessalonicenses": {"arquivo": "File:Saint Paul, by Jusepe de Ribera (1591 – 1652).jpg"},
- "1-timoteo": {"arquivo": "File:Giovanni Francesco Barbieri - Saint Paul.jpg"},
- "2-timoteo": {"arquivo": "File:Timothy-and-Lois.jpg"},
- "tito": {"arquivo": "File:St.Paul by El Greco.jpg"},
- "filemon": {"arquivo": "File:Pieter Verelst - Saint Paul - Walters 37272.jpg"},
- "hebreus": {"arquivo": "File:Dieric Bouts - The Meeting of Abraham and Melchizedek.jpg"},
- "tiago": {"arquivo": "File:El Greco - St. James the Less - Google Art Project.jpg"},
- "1-pedro": {"arquivo": "File:Pope-peter pprubens.jpg"},
- "2-pedro": {"arquivo": "File:El Greco - Saint Peter in Tears - Google Art Project.jpg"},
- "1-joao": {"arquivo": "File:San Juan Evangelista (El Greco, Museo del Prado).jpg"},
- "2-joao": {"arquivo": "File:Reni - Saint John, 1621.jpg"},
- "3-joao": {"arquivo": "File:Rubens apostel johannes grt.jpg"},
- "judas": {"arquivo": "File:El Greco - St. Jude Thaddeus - Google Art Project.jpg"},
- "apocalipse": {"arquivo": "File:Diego Velázquez 018 (John the Evangelist from Patmos).jpg"},
- "genesis": {"arquivo": "File:El sueño de Jacob, por José de Ribera.jpg"},
- "exodo": {"arquivo": "File:Rembrandt - Moses with the Ten Commandments - Google Art Project.jpg"},
- "levitico": {"arquivo": "File:Moses and Aaron with the Tablets of the Law - Google Art Project.jpg"},
- "numeros": {"arquivo": "File:Rembrandt - L'Ânesse du prophète Balaam - J 95 - Musée Cognacq-Jay.jpg"},
- "deuteronomio": {"arquivo": "File:Philippe de Champaigne - Moses Presenting the Tablets of the Law - c. 1648.jpg"},
- "josue": {"arquivo": "File:De 'Vorst van het Heir des Heeren' verschijnt aan Jozua bij Jericho (Jozua 513), SK-A-1578.jpg"},
- "juizes": {"arquivo": "File:The Angel and Gideon (Gerbrandt van den Eeckhout) - Nationalmuseum - 17422.tif"},
- "rute": {"arquivo": "File:Julius Schnorr von Carolsfeld- Ruth im Feld des Boaz.jpg"},
- "1-samuel": {"arquivo": "File:Eeckhout, Gerbrand van den - The Infant Samuel brought by Hannah to Eli - Ashmolean Museum.jpg"},
- "2-samuel": {"arquivo": "File:Workshop of Peter Paul Rubens - King David playing the harp.jpg"},
- "1-reis": {"arquivo": "File:Giovanni Lanfranco - Elijah Receiving Bread from the Widow of Zarephath - 76.PA.1 - J. Paul Getty Museum.jpg"},
- "2-reis": {"arquivo": "File:Lambert Jacobsz - Elisha Refusing Naaman’s Gifts - LJ-100 - Leiden Collection.jpg"},
- "1-cronicas": {"arquivo": "File:Francúzsky maliar - Old Testament Scene (Solomon and King David) - O 253 - Slovak National Gallery.jpg"},
- "2-cronicas": {"arquivo": "File:La dédicace par Salomon du temple (1 Kings 10 2) • invenit James Tissot • pinxit Michel Simonidy • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg"},
- "esdras": {"arquivo": "File:Codex Amiantinus. Firenze, Biblioteca Medicea Laurenziana, Amiat.1, fol. 5r.jpg"},
- "neemias": {"arquivo": "File:345.3 402 Néhémie voit les ruines de Jérusalem (Nehemiah 2 17) • invenit James Tissot • pinxit Michel Simonidy • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg"},
- "tobias": {"arquivo": "File:Andrea Vaccaro - Tobias Meets the Archangel Raphael - Google Art Project.jpg"},
- "judite": {"arquivo": "File:Rembrandt - Judith at the Banquet of Holofernes (previously known as Artemisia).jpg"},
- "ester": {"arquivo": "File:Guercino - Esther before Ahasuerus - Google Art Project.jpg"},
- "1-macabeus": {"arquivo": "File:19-do Duque Judas Macabeu.jpg"},
- "2-macabeus": {"arquivo": "File:Pilastro con icone, 600-650 ca. 03 solomone e i maccabei.jpg"},
- "jo": {"arquivo": "File:William Blake, Job and His Daughters, 1799-1800, NGA 30221.jpg"},
- "salmos": {"arquivo": "File:Hendrick ter Brugghen - King David playing the harp among angels - M.Ob.529 MNW - National Museum in Warsaw.jpg"},
- "proverbios": {"arquivo": "File:Arent de Gelder - Old Testament Figure, Probably King Solomon - AG-104 - Leiden Collection.jpg"},
- "eclesiastes": {"arquivo": "File:King Solomon (Zahrtmann).jpg"},
- "cantico-dos-canticos": {"arquivo": "File:Dante gabriel rossetti, l'amata (la sposa), 1865-66.jpg"},
- "sabedoria": {"arquivo": "File:Luca Giordano - Dream of Solomon - WGA09004.jpg"},
- "eclesiastico": {"arquivo": "File:Fugger Ehrenbuch 001.jpg"},
- "isaias": {"arquivo": "File:Michelangelo Buonarroti 028.jpg"},
- "jeremias": {"arquivo": "File:Пророк Иеремия, Микеланжело Буонаротти.jpg"},
- "lamentacoes": {"arquivo": "File:Rembrandt Harmensz. van Rijn - Jeremia treurend over de verwoesting van Jeruzalem - Google Art Project.jpg"},
- "baruc": {"arquivo": "File:Washington Allston - Jeremiah Dictating His Prophecy of the Destruction of Jerusalem to Baruch the Scribe - 1866.1 - Yale University Art Gallery.jpg"},
- "ezequiel": {"arquivo": "File:Ezekiel by Michelangelo, restored - large.jpg"},
- "daniel": {"arquivo": "File:Congonhas sanctuary of Bom Jesus prophet Daniel.jpg"},
- "oseias": {"arquivo": "File:Congonhas sanctuary of Bom Jesus prophet Hosea.jpg"},
- "joel": {"arquivo": "File:Michelangelo Buonarroti 029.jpg"},
- "amos": {"arquivo": "File:AmosProfeta.jpg"},
- "abdias": {"arquivo": "File:AbadiasProfeta.jpg"},
- "jonas": {"arquivo": "File:Michelangelo Buonarroti 030.jpg"},
- "miqueias": {"arquivo": "File:Pier leone ghezzi, michea, 1718 ca.jpg"},
- "naum": {"arquivo": "File:NahumProfeta.jpg"},
- "habacuc": {"arquivo": "File:Aleijadinho - Detalhe do profeta Habacuc - Santuário do Bom Jesus de Matosinhos - Congonhas.jpg"},
- "sofonias": {"arquivo": "File:Sophonie (Zephaniah 1 1) • invenit James Tissot • pinxit Charles Hoffbauer • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg"},
- "ageu": {"arquivo": "File:Aggée (Haggai 1 3-4) • invenit James Tissot • pinxit Charles Hoffbauer • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg"},
- "zacarias": {"arquivo": "File:Michelangelo Buonarroti 031.jpg"},
- "malaquias": {"arquivo": "File:Der Prophet Maleachi D 15Jh.jpg"}
+ "mateus": {
+  "arquivo": "File:Guercino - Saint Matthew and the Angel - Google Art Project.jpg"
+ },
+ "marcos": {
+  "arquivo": "File:El evangelista san Marcos (Maratta).jpg"
+ },
+ "lucas": {
+  "arquivo": "File:Frans Hals 086 big.jpg"
+ },
+ "joao": {
+  "arquivo": "File:Zampieri St John Evangelist.jpg"
+ },
+ "atos-dos-apostolos": {
+  "arquivo": "File:Dyck, Anthonis van - Pouring of the Holy Ghost - Bildergalerie Sanssouci.jpeg"
+ },
+ "romanos": {
+  "arquivo": "File:Jan Lievens, Painting of St Paul, ca. 1627-29. Oil on canvas. Nationalmuseum Sweden.jpg"
+ },
+ "1-corintios": {
+  "arquivo": "File:El Greco - St. Paul - Google Art Project.jpg"
+ },
+ "2-corintios": {
+  "arquivo": "File:Saint Paul, by Peter Paul Rubens (Museo del Prado).jpg"
+ },
+ "galatas": {
+  "arquivo": "File:Denys Calvaert - The Conversion of Saint Paul.jpg"
+ },
+ "efesios": {
+  "arquivo": "File:Guercino - Saint Paul - O 279 - Slovak National Gallery.jpg"
+ },
+ "filipenses": {
+  "arquivo": "File:Rembrandt St. Paul in Prison.jpg"
+ },
+ "colossenses": {
+  "arquivo": "File:Reni - Saint Paul, 1633 - 1634.jpg"
+ },
+ "1-tessalonicenses": {
+  "arquivo": "File:(Albi) Saint Paul (copie) - Georges de La Tour - MTL inv.165.jpg"
+ },
+ "2-tessalonicenses": {
+  "arquivo": "File:Saint Paul, by Jusepe de Ribera (1591 – 1652).jpg"
+ },
+ "1-timoteo": {
+  "arquivo": "File:Giovanni Francesco Barbieri - Saint Paul.jpg"
+ },
+ "2-timoteo": {
+  "arquivo": "File:Timothy-and-Lois.jpg"
+ },
+ "tito": {
+  "arquivo": "File:St.Paul by El Greco.jpg"
+ },
+ "filemon": {
+  "arquivo": "File:Pieter Verelst - Saint Paul - Walters 37272.jpg"
+ },
+ "hebreus": {
+  "arquivo": "File:Dieric Bouts - The Meeting of Abraham and Melchizedek.jpg"
+ },
+ "tiago": {
+  "arquivo": "File:El Greco - St. James the Less - Google Art Project.jpg"
+ },
+ "1-pedro": {
+  "arquivo": "File:Pope-peter pprubens.jpg"
+ },
+ "2-pedro": {
+  "arquivo": "File:El Greco - Saint Peter in Tears - Google Art Project.jpg"
+ },
+ "1-joao": {
+  "arquivo": "File:San Juan Evangelista (El Greco, Museo del Prado).jpg"
+ },
+ "2-joao": {
+  "arquivo": "File:Reni - Saint John, 1621.jpg"
+ },
+ "3-joao": {
+  "arquivo": "File:Rubens apostel johannes grt.jpg"
+ },
+ "judas": {
+  "arquivo": "File:El Greco - St. Jude Thaddeus - Google Art Project.jpg"
+ },
+ "apocalipse": {
+  "arquivo": "File:Diego Velázquez 018 (John the Evangelist from Patmos).jpg"
+ },
+ "genesis": {
+  "arquivo": "File:El sueño de Jacob, por José de Ribera.jpg"
+ },
+ "exodo": {
+  "arquivo": "File:Rembrandt - Moses with the Ten Commandments - Google Art Project.jpg"
+ },
+ "levitico": {
+  "arquivo": "File:Moses and Aaron with the Tablets of the Law - Google Art Project.jpg"
+ },
+ "numeros": {
+  "arquivo": "File:Rembrandt - L'Ânesse du prophète Balaam - J 95 - Musée Cognacq-Jay.jpg"
+ },
+ "deuteronomio": {
+  "arquivo": "File:Philippe de Champaigne - Moses Presenting the Tablets of the Law - c. 1648.jpg"
+ },
+ "josue": {
+  "arquivo": "File:De 'Vorst van het Heir des Heeren' verschijnt aan Jozua bij Jericho (Jozua 513), SK-A-1578.jpg"
+ },
+ "juizes": {
+  "arquivo": "File:The Angel and Gideon (Gerbrandt van den Eeckhout) - Nationalmuseum - 17422.tif"
+ },
+ "rute": {
+  "arquivo": "File:Julius Schnorr von Carolsfeld- Ruth im Feld des Boaz.jpg"
+ },
+ "1-samuel": {
+  "arquivo": "File:Eeckhout, Gerbrand van den - The Infant Samuel brought by Hannah to Eli - Ashmolean Museum.jpg"
+ },
+ "2-samuel": {
+  "arquivo": "File:Workshop of Peter Paul Rubens - King David playing the harp.jpg"
+ },
+ "1-reis": {
+  "arquivo": "File:Giovanni Lanfranco - Elijah Receiving Bread from the Widow of Zarephath - 76.PA.1 - J. Paul Getty Museum.jpg"
+ },
+ "2-reis": {
+  "arquivo": "File:Lambert Jacobsz - Elisha Refusing Naaman’s Gifts - LJ-100 - Leiden Collection.jpg"
+ },
+ "1-cronicas": {
+  "arquivo": "File:Francúzsky maliar - Old Testament Scene (Solomon and King David) - O 253 - Slovak National Gallery.jpg"
+ },
+ "2-cronicas": {
+  "arquivo": "File:La dédicace par Salomon du temple (1 Kings 10 2) • invenit James Tissot • pinxit Michel Simonidy • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg"
+ },
+ "esdras": {
+  "arquivo": "File:Codex Amiantinus. Firenze, Biblioteca Medicea Laurenziana, Amiat.1, fol. 5r.jpg"
+ },
+ "neemias": {
+  "arquivo": "File:345.3 402 Néhémie voit les ruines de Jérusalem (Nehemiah 2 17) • invenit James Tissot • pinxit Michel Simonidy • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg"
+ },
+ "tobias": {
+  "arquivo": "File:Andrea Vaccaro - Tobias Meets the Archangel Raphael - Google Art Project.jpg"
+ },
+ "judite": {
+  "arquivo": "File:Rembrandt - Judith at the Banquet of Holofernes (previously known as Artemisia).jpg"
+ },
+ "ester": {
+  "arquivo": "File:Guercino - Esther before Ahasuerus - Google Art Project.jpg"
+ },
+ "1-macabeus": {
+  "arquivo": "File:19-do Duque Judas Macabeu.jpg"
+ },
+ "2-macabeus": {
+  "arquivo": "File:Stattler, Wojciech Korneli - The Maccabees (1842) (4k).jpg"
+ },
+ "jo": {
+  "arquivo": "File:William Blake, Job and His Daughters, 1799-1800, NGA 30221.jpg"
+ },
+ "salmos": {
+  "arquivo": "File:Hendrick ter Brugghen - King David playing the harp among angels - M.Ob.529 MNW - National Museum in Warsaw.jpg"
+ },
+ "proverbios": {
+  "arquivo": "File:Arent de Gelder - Old Testament Figure, Probably King Solomon - AG-104 - Leiden Collection.jpg"
+ },
+ "eclesiastes": {
+  "arquivo": "File:King Solomon (Zahrtmann).jpg"
+ },
+ "cantico-dos-canticos": {
+  "arquivo": "File:Dante gabriel rossetti, l'amata (la sposa), 1865-66.jpg"
+ },
+ "sabedoria": {
+  "arquivo": "File:Arent de Gelder - Old Testament Figure, Probably King Solomon - AG-104 - Leiden Collection.jpg"
+ },
+ "eclesiastico": {
+  "arquivo": "File:Fugger Ehrenbuch 001.jpg"
+ },
+ "isaias": {
+  "arquivo": "File:Michelangelo Buonarroti 028.jpg"
+ },
+ "jeremias": {
+  "arquivo": "File:Пророк Иеремия, Микеланжело Буонаротти.jpg"
+ },
+ "lamentacoes": {
+  "arquivo": "File:Rembrandt Harmensz. van Rijn - Jeremia treurend over de verwoesting van Jeruzalem - Google Art Project.jpg"
+ },
+ "baruc": {
+  "arquivo": "File:Washington Allston - Jeremiah Dictating His Prophecy of the Destruction of Jerusalem to Baruch the Scribe - 1866.1 - Yale University Art Gallery.jpg"
+ },
+ "ezequiel": {
+  "arquivo": "File:Ezekiel by Michelangelo, restored - large.jpg"
+ },
+ "daniel": {
+  "arquivo": "File:Congonhas sanctuary of Bom Jesus prophet Daniel.jpg"
+ },
+ "oseias": {
+  "arquivo": "File:Congonhas sanctuary of Bom Jesus prophet Hosea.jpg"
+ },
+ "joel": {
+  "arquivo": "File:Michelangelo Buonarroti 029.jpg"
+ },
+ "amos": {
+  "arquivo": "File:AmosProfeta.jpg"
+ },
+ "abdias": {
+  "arquivo": "File:AbadiasProfeta.jpg"
+ },
+ "jonas": {
+  "arquivo": "File:Michelangelo Buonarroti 030.jpg"
+ },
+ "miqueias": {
+  "arquivo": "File:Pier leone ghezzi, michea, 1718 ca.jpg"
+ },
+ "naum": {
+  "arquivo": "File:NahumProfeta.jpg"
+ },
+ "habacuc": {
+  "arquivo": "File:Aleijadinho - Detalhe do profeta Habacuc - Santuário do Bom Jesus de Matosinhos - Congonhas.jpg"
+ },
+ "sofonias": {
+  "arquivo": "File:Sophonie (Zephaniah 1 1) • invenit James Tissot • pinxit Charles Hoffbauer • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg"
+ },
+ "ageu": {
+  "arquivo": "File:Aggée (Haggai 1 3-4) • invenit James Tissot • pinxit Charles Hoffbauer • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg"
+ },
+ "zacarias": {
+  "arquivo": "File:Michelangelo Buonarroti 031.jpg"
+ },
+ "malaquias": {
+  "arquivo": "File:Der Prophet Maleachi D 15Jh.jpg"
+ }
 }
