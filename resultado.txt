@@ -33,111 +33,187 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/c_d18	1979x2560	Public domain	Francesco Gioli	File:At the mass (1872), by Francesco Gioli.jpg
-   DESC: 
-   CATS: 1872 genre paintings from Italy | 1872 oil on canvas paintings | 1872 paintings in unidentified private collections | 1872 paintings of people | 19th-century oil paintings of standing women at full length | 19th-century paintings of females in profile, facing left | 19th-century paintings of kneeling women | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | CC-PD-Mark | Gossip in art | Kneeling in prayer in art | PD-Art (PD-old
+OK	fr/c_e39	2808x1827	Public domain	various	File:Die Gartenlaube (1891) b 040.jpg
+   DESC: caption: "Auf dem Standesamt.Nach einem Gemälde von B. Vautier."
+   CATS: Benjamin Vautier (1829-1898) | CC-PD-Mark | Gartenlaube (1891) | Illustrations from Gartenlaube | Marriage in art | Offices in art | PD-old-75-expired | PD-old missing SDC copyright status | PD-scan (PD-old-75-expired)
    LICURL:  USAGE: Public domain
-OK	fr/c_d46a	1867x2952	Public domain	Gaspar de Crayer	File:Gaspar de Crayer - St Anthony of Padua with the Child Jesus.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Gaspar de Crayer in the Museo del Prado | Paintings of Roman Catholic saints by Gaspar de Crayer | Paintings of Saint Anthony of Padua | Religious paintings by Gaspar de Crayer
-   LICURL:  USAGE: Public domain
-OK	fr/c_d46b	1154x995	Public domain	Antonio de Pereda	File:Antonio de Pereda - St Anthony of Padua with Christ Child, 17th-century.jpg
-   DESC: 
-   CATS: Artworks missing digital representation of for 2D work | Artworks with SDC link missing | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | F-number f/11 | Lens focal length 63 mm | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Saint Anthony of Padua with the Christ Child (Antonio de Pereda - Budapest Museum of Fine Arts) | Taken with Fujifilm GFX100 | WGA School: Spanish | WGA form: painting | WGA time period: 
-   LICURL:  USAGE: Public domain
-OK	fr/c_d46c	2806x4314	Public domain	Francisco de Zurbarán	File:Francisco de Zurbarán - Sto Antonio de Padua.jpg
-   DESC: 
-   CATS: 1620s oil on canvas paintings | 1620s paintings from Spain | 17th-century paintings of Jesus Christ as a baby | 17th-century paintings of Saint Anthony of Padua | 17th-century religious paintings in the Museu de Arte de São Paulo | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Baroque paintings in the Museu de Arte de São Paulo | CC-PD-Mark | Christian figures on clouds | Files allo
-   LICURL:  USAGE: Public domain
-OK	fr/c_d46d	2682x4343	CC BY-SA 4.0	José Luis Filpo Cabana	File:San Antonio de Padua y el Niño (Bartolomé Esteban Murillo).jpg
-   DESC: Murillo y los capuchinos de Sevilla. Murillo pinta (1668-1669) a San Antonio de Padua con el Niño para el retablo mayor de la iglesia del Convento de los Capuchinos (Sevilla).
-   CATS: CC-BY-SA-4.0 | San Antonio de Padua con el Niño Jesús, de Murillo (Museo de Bellas Artes de Sevilla) | Self-published work
+OK	fr/c_e28	3092x2057	CC BY-SA 4.0	SpKerzen	File:Hochzeitskerze.png
+   DESC: individuelle Hochzeitskerze
+   CATS: CC-BY-SA-4.0 | Candles in Germany | GFDL | License migration redundant | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/c_d13a	2943x2250	Public domain	Paolo Veronese	File:Veronese (Paolo Caliari) - The Creation of Eve - 1930.286 - Art Institute of Chicago.jpg
-   DESC: 
-   CATS: 16th-century paintings of Adam and Eve | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Old Testament paintings in the Art Institute of Chicago | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Paolo Veronese in the Art Institute of Chicago | Paintings of Old Testament by Paolo Veronese | Paintings of the Creation of Eve
+OK	fr/c_e33	3303x4226	Public domain	Workshop of Andrea del Verrocchio	File:Workshop of Andrea del Verrocchio. Tobias and the Angel. 33x26cm. 1470-75. NG London.jpg
+   DESC: Tobias and the Angel
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Files with derivative versions | Images from the National Gallery, London | Objects with inscriptions in Italian needing translation | PD-Art (PD-old-100-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Tobias and the Angel by Andrea del Verrocchio
    LICURL:  USAGE: Public domain
-OK	fr/c_d13b	2635x2007	Public domain	Jan Steen	File:Steen, Jan Havickszoon - The Marriage of Tobias and Sarah - c. 1673.jpg
-   DESC: Tobias and Sara
-   CATS: 1670s oil on canvas paintings in the United States | 17th-century religious paintings in the United States | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Dutch paintings in the California Palace of the Legion of Honor | File uploads by User:Mattes (flat) | Marriage contracts in art | Marriage in Old Testament | Oil paintings of people | Old Testament paintings by Jan S
-   LICURL:  USAGE: Public domain
-OK	fr/c_z1	490x834	Public domain	Francisco de Zurbarán	File:Francisco de Zurbarán 035.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Files, uploaded by Shakko from various sources | Images from Web Gallery of Art | PD-Art (PD-old-auto-expired) | PD-Art (Yorck Project) | PD-old-100-expired | Pages with non-numeric formatnum arguments | Saint Apollonia by Zurbarán | WGA School: Spanish | WGA form: painting | WGA time period: 1601-1650 | WGA type: religious
-   LICURL:  USAGE: Public domain
-OK	fr/c_z2	2850x4096	Public domain	Francisco de Zurbarán and workshop	File:Francisco de Zurbarán 043.jpg
-   DESC: 
-   CATS: 1650s oil on canvas paintings | 17th-century paintings of penitent Saint Jerome | Artworks missing digital representation of for 2D work | Artworks with SDC link missing | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license | Licensed-PD-Art missing SDC copyright license | Licensed-PD-Art missing SDC digital representation of | PD-
-   LICURL:  USAGE: Public domain
-OK	fr/c_z3	2024x2704	Public domain	Francisco de Zurbarán	File:Francisco de Zurbarán 048.jpg
-   DESC: 
-   CATS: 1638 paintings | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Author died more than 100 years ago public domain images | Baroque paintings of men | CC-PD-Mark | PD-Art (Yorck Project) | Paintings of male saints by Zurbarán | Romanus of Caesarea | Yorck Project paintings missing described by source
-   LICURL:  USAGE: Public domain
-### Gervex mariage civil
-2236x3495	Public domain	File:About - Le Décaméron du salon de peinture pour 1881.djvu	| Critique d'art
-1868x1500	Public domain	File:La parisienne par l'image - trois siècles de grâces féminines (IA gri 33125000261822).pdf	| 3 v. : 28 x 35 cm Spine title: Trois siècles de grâces fêminines v. 1. Le lit -- v. 2. Les mères -- v. 3. Le foyer Subjects: Painting, Frenc
-1500x1216	Public domain	File:Le Panorama - Exposition universelle, 1900 (IA gri 33125009332541).pdf	| "320 photographies"--P. facing t.p., v. 2. A folded 8-page panorama at the end of v. 2 depicts national pavillions erected along the Seine "
-1214x2012	Public domain	File:Les Beaux-arts illustrés (IA lesbeauxartsillu02unse).pdf	| v. : 31-38 cm "Journal hebdomadaire" (varies) T. 1- vol. t.p. has subtitle: "Journal hebdomadaire de l'art et de la curiosité" Each issue fo
-1112x1718	Public domain	File:Nos peintres dessinés par eux mèmes (IA nospeintresdessi00mloc).pdf	| Illus. t.-p Preface signed: A.-M. de Bélina No more published? Subjects: Painters
-1414x2008	Public domain	File:Revue des arts décoratifs (IA revuedesartsdeco10unio).pdf	| At head of title: v. 1, Union centrale, Musée des arts décoratifs; v. 2, 5-16, Union centrale des arts décoratifs; v. 17-21, L'art dans la v
-1020x1637	Public domain	File:Gazette des beaux-arts (IA gazettedesbeauxa57pari).pdf	| Avery index to architectural periodicals. Second edition. Revised and enlarged. Supplement Artbibliographies modern Recently published artic
-1104x1629	Public domain	File:Cent dessins - extraits des oeuvres de Victor Hugo - album specimen (IA centdessinsextra00hugo).pdf	| 31 Subjects: Hugo, Victor, 1802-1885
-### mariage civil mairie peinture
-1809x2849	Public domain	File:Rochegude - Promenades dans toutes les rues de Paris, 10.djvu	| Promenades dans toutes les rues de Paris, 20 volumes
-2236x3495	Public domain	File:About - Le Décaméron du salon de peinture pour 1881.djvu	| Critique d'art
-1571x2588	Public domain	File:Crébillon - Théâtre complet, éd. Vitu, 1923.djvu	| 
-2416x3723	Public domain	File:Taine - Sa vie et sa correspondance, t. 1, 1902, 3e éd.djvu	| Sa_vie_et_sa_correspondance
-3906x6024	Public domain	File:Andrieux - Pierre Gassendi, prévôt de l’Église de Digne, 1927.djvu	| Thèse pour le doctorat ès lettres, Faculté de lettres de Paris&lt;br /&gt;
-1688x2794	Public domain	File:Le Roy - George Sand et ses amis.djvu	| George Sand et ses amis, Société d'éditions littéraires et artistiques, Librairie Paul Ollendorff, 1903
-8533x12125	Public domain	File:Alexandre - Les Primitifs français, paru dans Le Figaro, 13 avril 1904.djvu	| Article de presse
-1252x1587	Public domain	File:Delacroix, raconté par lui-même - étude biographique d'après ses lettres, son journal, etc. (IA delacroixraconte01more).pdf	| Subjects: Delacroix, Eugène, 1798-1863
-1039x1508	Public domain	File:Annales du Cercle archéologique de Mons (IA gri 33125006724757).pdf	| Sloan candidate Subjects:
-1210x1500	Public domain	File:Le Moniteur des architectes (IA gri 33125011190770).pdf	| "Recueil mensuel de monuments pour servir à l'étude de l'art architectural &amp; des travaux publics." (Varies.) Editor: René Sargent Issues
-1354x1945	Public domain	File:Inventaire général des richesses d'art de la France (IA inventairegenera31fran).pdf	| At head of title: Ministère de l'instruction publique et des beaux-arts [1] Archives du Musée des monuments français (3 pts.). 1883-1897 -- 
-1322x1952	Public domain	File:Inventaire général des richesses d'art de la France (IA inventairegenera56fran).pdf	| At head of title: Ministère de l'instruction publique et des beaux-arts [1] Archives du Musée des monuments français (3 pts.). 1883-1897 -- 
-1239x1754	Public domain	File:Hugo - Œuvres inédites, v. 1.pdf	| Œuvres inédites, de Victor Hugo, v. 1.
-### arras coins wedding
-1018x1679	Public domain	File:The reigning belle. A society novel (IA reigningbellesoc00step).pdf	| Subjects:
-1202x1572	Public domain	File:Dallas USDA Club news (IA CAT11083418052).pdf	| NAL holdings:v. 2, no. 1- Jan. 1950- Some issues omit numbering Drops vol. numbering with no. 1, Aug. 1960 Subjects:
-1106x1850	Public domain	File:Catalogue of a collection of United States and foreign coins, medals, fractional currency, etc., formed by the late Bernhardt Flauding ... and an invoice from the estate of the late (IA catalogueofcolle00mass 5).pdf	| Feb. 16, 1888 Subjects: Brown, Charles
-1168x1837	Public domain	File:Catalogue of an extensive miscellaneous collection of coins and medals ... (02-08-1883) (IA catalogueofexten00fros 2).pdf	| Feb. 8, 1883 Subjects:
-1118x1752	Public domain	File:Catalogue of an interesting collection of ancient coins and rare masonic medals, the collection of Alfred Curtain ... (11-27-1882) (IA catalogueofinter00scot 0).pdf	| Masonic Subjects: Curtain, Alfred
-1077x1745	Public domain	File:Catalogue of a silver cabinet, ancient and modern portrait coins and medals of artistic and historical value ... (03-14-1884) (IA catalogueofsilve00fros 1).pdf	| March 14, 1884 Subjects: March, J. W
-1172x1891	Public domain	File:Catalogue of the splendid collection of ancient Greek and Roman, German, European and oriental coins formed by the late Wilhelm Boeing ... United States silver dollars of A. Bridgman ... (IA catalogueofsplen00chap 1).pdf	| Greek , Roman , German , European , Oriental , U.S Subjects: Bridgman, A
-1193x1966	Public domain	File:The historical collection of modern silver coins and medals formed by Ludwig Dreier, esq., member of the American Numismatic and Arch. Society of New York. (05-06-1891) (IA historicalcollec00fros 0).pdf	| May 6, 1891 Subjects: Dreier, Ludwig
-2106x2618	Public domain	File:Victoria Daily Times (1915-07-20) (IA victoriadailytimes19150720).pdf	| Historic newspaper from British Columbia - Canada Subjects: British Columbia; Newspapers
-1612x2338	Public domain	File:Poems Forrest.djvu	| collection of poetry
-1193x1595	Public domain	File:Notes and queries (IA notesqueries18511lond).pdf	| "For readers and writers, collectors and librarians," (varies) Humanities index Abstracts of English studies America, history and life Annua
-### wedding candles altar church
-2600x4360	Public domain	File:Worship in the Church of England.djvu	| worship
-3456x4608	CC BY-SA 3.0	File:CubaoCathedraljf9525 17.JPG	| Upload Wizard photos of Cubao Cathedral[1], formally known as the Immaculate Conception Cathedral of , is a Roman Catholic church located in
-1999x2792	Public domain	File:History of a church (Dunker) with comments featuring the First Church of the Brethren of Philadelphia, Pa, 1813-1943.djvu	| History of the Dunker (German Baptist Brethren) church.
-1147x1822	Public domain	File:A bachelor's wedding trip (IA bachelorswedding00sher).pdf	| Subjects:
-1443x1870	Public domain	File:A descriptive catalogue of the imperial exhibition, containing the altar-pieces, and other curious paintings, from the monasteries lately suppressed in the dominions of the Emperor (IA gri 33125007126044).pdf	| Photoreproduction Subjects: Bertels, Mr. (John), -1792; Art, European; Art
-1006x1556	Public domain	File:St. Bridget of Sweden ; a chapter of mediaeval church history (IA stbridgetofswede00gronrich).pdf	| Subjects: Bridget, of Sweden, Saint, ca. 1303-1373
-1058x1681	Public domain	File:The old service-books of the English Church (IA oldservicebook00word).pdf	| Includes bibliographical references and index 27 Subjects: Church of England; Liturgies, English
-### wedding lasso rosary
-2275x2675	Public domain	File:Victoria Daily Times (1925-09-23) (IA victoriadailytimes19250923).pdf	| Historic newspaper from British Columbia - Canada Subjects: British Columbia; Newspapers
-### Hochzeitskerze
-3092x2057	CC BY-SA 4.0	File:Hochzeitskerze.png	| individuelle Hochzeitskerze
-### Standesamt Gemälde
-2808x1827	Public domain	File:Die Gartenlaube (1891) b 040.jpg	| caption: "Auf dem Standesamt.Nach einem Gemälde von B. Vautier."
-2317x2783	Public domain	File:Atlas Crusius.jpg	| Atlas Crusius. Ölgemälde eines unbekannten Künstlers, Stadtarchiv Chemnitz. Als Leihgabe im Alten Rathaus Chemnitz, Standesamt.
-3541x1239	CC BY-SA 3.0	File:Flyer Friedrichsdorf.pdf	| Flyer Friedrichsdorf
-1154x1622	Public domain	File:Berliner Architekturwelt (IA berlinerarchitek05vere).pdf	| "Zeitschrift für Baukunst, Malerei, Plastik und Kunstgewerbe der Gegenwart." Unter Mitwirkung der Vereinigung Berliner Architekten, 1898-191
-1145x1604	Public domain	File:Die Kunstdenkmäler der Provinz Hannover (IA diekunstdenkmale323unse).pdf	| Vols. 23-29 have title: Die Kunstdenkmale der Provinz Hannover; v. 30- have title: Die Kunstdenkmale des Landes Niedersachsen Some vols. hav
-1175x1500	Public domain	File:Architektonische Rundschau (IA gri 33125006282525).pdf	| 31 v. : 38-39 cm Some ills. folded "Skizzenblätter aus allen Gebieten der Baukunst" "Herausgegeben von Ludwig Eisenlohr und Carl Weigle" Vol
-1166x1500	Public domain	File:Max Klinger Radirungen, Zeichnungen, Bilder und Sculpturen des Künstlers, mit den drei vollständigen Folgen Zeichnungen über das Thema "Christus" (IA gri 33125016509438).pdf	| [6], 66, [3] p., 61 leaves of plates : 50 cm Plates are line and aquatint photogravures, printed chine collé. They are accompanied by guard-
-1362x1825	Public domain	File:Kunstgewerbeblatt (IA kunstgewerbeblat10unse).pdf	| "Monatsschrift für Geschichte und Litteratur der Kleinkunst, Organ für die Bestrebungen der Kunstgewerbe-Vereine." Title varies slightly Edi
-1295x1800	Public domain	File:Centralblatt der Bauverwaltung (IA centralblattderb2119unse).pdf	| 22 v. : 35 cm Imprint varies "Herausgegeben im Ministerium der Öffentlichen Arbeiten" Vol. 1-10, 1881-1890, 1 v., Vol. 11-20, 1891-1900, 1 v
-2441x3241	Public domain	File:Abendpost 1899-12-28- Vol 11 Iss 304 (IA sim abendpost-sonntagpost 1899-12-28 11 304).pdf	| Abendpost 1899-12-28: Volume 11, Issue 304.Digitized from IA1534306-01.Previous issue: sim_abendpost-sonntagpost_1899-12-27_11_303.Next issu
-3264x2448	CC BY-SA 4.0	File:Laberweinting Asbach Riesmarterll.jpg	| Das Riesmarterl geht auf einen Unfall mit einem Ochsengespann im Jahr 1885 zurück. In den 1980er Jahren ließ Konrad Stadler das stark beschä
-3962x2230	CC BY-SA 4.0	File:2025-02-26 Altes Rathaus in Laatzen, Standesamt mit Hochzeitszimmer und Gemälde von Anton Dieffenbach.jpg	| Das Alte Rathaus in Laatzen in der Region Hannover ist ein 18. Jahrhundert in Alt-Laatzen errichtetes Herrenhaus des ehemaligen Rittergutes 
-3204x2252	CC BY-SA 4.0	File:2025-02-26 Altes Rathaus in Laatzen, Standesamt mit Hochzeitszimmer und Gemälde von Anton Dieffenbach (84811).jpg	| Das Alte Rathaus in Laatzen in der Region Hannover ist ein 18. Jahrhundert in Alt-Laatzen errichtetes Herrenhaus des ehemaligen Rittergutes 
-4000x2252	CC BY-SA 4.0	File:2025-02-26 Altes Rathaus in Laatzen, Standesamt mit Hochzeitszimmer und Gemälde von Anton Dieffenbach (19378).jpg	| Das Alte Rathaus in Laatzen in der Region Hannover ist ein 18. Jahrhundert in Alt-Laatzen errichtetes Herrenhaus des ehemaligen Rittergutes 
-4000x2252	CC BY-SA 4.0	File:2025-02-26 Altes Rathaus in Laatzen, Standesamt mit Hochzeitszimmer und Gemälde von Anton Dieffenbach (89269).jpg	| Das Alte Rathaus in Laatzen in der Region Hannover ist ein 18. Jahrhundert in Alt-Laatzen errichtetes Herrenhaus des ehemaligen Rittergutes 
-4000x2252	CC BY-SA 4.0	File:2025-02-26 Altes Rathaus in Laatzen, Standesamt mit Hochzeitszimmer und Gemälde von Anton Dieffenbach (18467).jpg	| Das Alte Rathaus in Laatzen in der Region Hannover ist ein 18. Jahrhundert in Alt-Laatzen errichtetes Herrenhaus des ehemaligen Rittergutes 
-3972x2236	CC BY-SA 4.0	File:2025-02-26 Altes Rathaus in Laatzen, Standesamt mit Hochzeitszimmer und Gemälde von Anton Dieffenbach (55921).jpg	| Das Alte Rathaus in Laatzen in der Region Hannover ist ein 18. Jahrhundert in Alt-Laatzen errichtetes Herrenhaus des ehemaligen Rittergutes 
-4000x2252	CC BY-SA 4.0	File:2025-02-26 Altes Rathaus in Laatzen, Standesamt mit Hochzeitszimmer und Gemälde von Anton Dieffenbach (26484).jpg	| Das Alte Rathaus in Laatzen in der Region Hannover ist ein 18. Jahrhundert in Alt-Laatzen errichtetes Herrenhaus des ehemaligen Rittergutes 
-1150x1558	Public domain	File:Die Kunst - Monatsheft für freie und angewandte Kunst (IA diekunstmonatshe16mnuoft).pdf	| United with Das Schöne Heim to form Die Kunst und das schöne Heim 26 Subjects: Art -- Periodicals
-### Trauung Standesamt historisch
+### unity candle
+3600x2400	CC BY 2.0	File:CL wedding unity candle (14239948242).jpg	| Uploaded by PE Virginia State Parks Wedding page: https://www.dcr.virginia.gov/state-parks/weddings
+1900x1313	GODL-India	File:"Unity in Diversity” A cross-section of people from different faith offering their prayer to Jesus Christ by lighting the candle in a church on the eve of Christmas, in New Delhi on December 24, 2009.jpg	| "Unity in Diversity”: A cross-section of people from different faith offering their prayer to Jesus Christ by lighting the candle in a churc
+1949x2984	Public domain	File:Candle of Vision.djvu	| Clark Library copy: 20 cm.; advertisements, 4 p., bound in at end
+7360x4912	Public domain	File:Juneteenth vigil at at Incirlik Air Base, Turkey 1.jpg	| U.S. Air Force Col. Randy Oakland, 39th Air Base Wing commander, holds a candle during a Juneteenth vigil June 17, 2020, at Incirlik Air Bas
+1191x1862	Public domain	File:The faith of France - studies in spiritual differences & unity (IA faithoffrancestu00barrrich).pdf	| Subjects: World War, 1914-1918 -- Religious aspects; France -- Religion
+5568x3712	Public domain	File:Expedition 61 crew celebrates Christmas day in the Unity module.jpg	| The Expedition 61 crew celebrates Christmas day with a brunch inside the International Space Station's Unity module decorated with stockings
+4404x3372	Public domain	File:Initiation ritual of the Leiden student fraternity L.S.C. whereby a man places a candle on the forehead of a man lying in a bed, surrounded by five other fraternity members in a bedroom, AHM-F-591308-1208.tiff	| Title: Initiation ritual of the Leiden student fraternity L.S.C. whereby a man places a candle on the forehead of a man lying in a bed, surr
+1275x1800	Public domain	File:The Blessing and Kissing of Candles (IA jstor-30066484).pdf	| "The Blessing and Kissing of Candles" is an article from &lt;a href='/search.php?query=collection%3Ajstor_cathlayman%20AND%20volume%3A5' dat
+1704x2272	CC BY-SA 3.0	File:Márai-Denkmal, Városházplatz 1, 2022 Miskolc.jpg	| County hall courtyard memorial place. National Unity Monument, installed on October 22, 2020, based on the plans of Zsolt Kovács, sculptor R
+3709x2414	CC BY-SA 4.0	File:Husband and Wife Lighting Candles on All Souls' Day".jpg	| In a poignant display of shared reverence, a husband and wife stand side by side as they tenderly place candles on graves on All Souls' Day.
+1501x2000	CC0	File:Christmas Greetings from the President of Ukraine, Volodymyr Zelenskyy at Saint Sophia Cathedral in Kyiv on 23 December 2024.jpg	| This is the sound of light. This is the sound of a miracle. This is the sound of life. This is the sound of Christmas. Our "Shchedryk." Our 
+5999x3999	Public domain	File:U S Army and Allies Participate in Estonia's Veteran Memorial Ceremony (8990786).jpg	| MAJ Adrian Betancourt, Task Force Voit OIC, lights a candle for the fallen Estonian Veterans during the vigil. The ceremony honors the falle
+5999x3999	Public domain	File:U S Army and Allies Participate in Estonia's Veteran Memorial Ceremony (8990788).jpg	| CDR Richard Rosenbusch, Naval Attache Attache for US Embassy in Estonia, lights a candle for the fallen Estonian Veterans during the vigil. 
+1227x1893	Public domain	File:The faith of France - studies in spiritual differences & unity (IA faithoffrancestu00barr 0).pdf	| xxiv, 294 pages ; 20 cm Subjects: World War, 1914-1918 -- Religious aspects; Religion; Religious aspects of war; France -- Religion; France
+2647x3706	CC0	File:EL0A1485.jpg	| Couple who have lit the traditional Catholic Unity Candle with central framing of the candle
+### wedding candle
+1590x2048	CC BY 2.5	File:Wedding ceremony in the Orthodox Church of Valyava.jpg	| Wedding ceremony in the Orthodox Church of Valyava. Author: Vadym Oleksienko.
+4752x3168	CC BY-SA 3.0	File:Boda en Casapueblo - Wedding Planner Uruguay.JPG	| Wedding in Casapueblo
+2995x4500	CC BY-SA 2.0	File:Candle (7667098490).jpg	| Photographed at a wedding reception of a friend of mine. I took photos at the reception and the photo book has printed now! I'm about to sen
+1200x899	Public domain	File:CA 20131125 (11054562384).jpg	| Grooms and godparents
+1704x1134	Public domain	File:Floating wedding candles.jpg	| Group of floating candles, wedding centerpiece 2005.
+3600x2400	CC BY 2.0	File:CL wedding unity candle (14239948242).jpg	| Uploaded by PE Virginia State Parks Wedding page: https://www.dcr.virginia.gov/state-parks/weddings
+4264x3411	CC BY-SA 4.0	File:Dülmen, Rathaus, Trauzimmer -- 2017 -- 9623-9.jpg	| Wedding room in the town hall, Dülmen, North Rhine-Westphalia, Germany
+2592x1728	CC BY-SA 4.0	File:Candle light on a dinner.jpg	| Nigerian wedding aw
+1280x720	CC BY-SA 4.0	File:Boy's Mehndi candle tradition in pakistan.jpg	| This image described the love of boy's freinds on his weeding mehndi night in pakistan
+2736x3648	CC BY-SA 2.0	File:Traditional Chinese Wedding (8329598503).jpg	| Traditional Chinese Wedding
+3648x5472	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 01.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii). Jardin botanique Roger-Van den Hende, Université Laval.
+3648x5472	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 02.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii). Jardin botanique Roger-Van den Hende, Université Laval.
+3637x5455	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 03.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii). Jardin botanique Roger-Van den Hende, Université Laval.
+4556x3645	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 04.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii). Jardin botanique Roger-Van den Hende, Université Laval.
+5451x3634	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 05.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii). Jardin botanique Roger-Van den Hende, Université Laval.
+5443x3629	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 06.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii). Jardin botanique Roger-Van den Hende, Université Laval.
+4000x3000	CC BY-SA 4.0	File:Dankeskirche, Bad Nauheim, altar area before a wedding.jpg	| Dankeskirche, Bad Nauheim, altar area before a wedding
+3320x4980	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 09.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii) au jardin botanique Roger-Van den Hende, Université Laval.
+3648x5472	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 08.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii) au jardin botanique Roger-Van den Hende, Université Laval.
+3506x5259	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 07.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii) au jardin botanique Roger-Van den Hende, Université Laval.
+3535x5303	CC BY-SA 4.0	File:Verbascum chaixii 'Wedding Candles' JRVdH 10.jpg	| Molène de Chaix 'Wedding Candles' (Verbascum chaixii) au jardin botanique Roger-Van den Hende, Université Laval.
+2296x4080	CC BY-SA 4.0	File:Registry office wedding room Vielseslokale Aarhus City Hall 04.jpg	| White furniture, light-coloured carpet, white candle, wood-panelled walls with flowers painted on them. The flowers are Danish flowers, with
+4096x2822	Public domain	File:An Armenian wedding procession, School of Jean Baptiste Vanmour, 18th century.jpg	| An Armenian wedding procession, School of Jean Baptiste Vanmour, 18th century oil on canvas, framed 75 by 118.1cm. In this composition, a gr
+### arras de boda
+1339x1883	Public domain	File:1581 Reportorio de la nueua Recopilacion de las leyes del Reyno.pdf	| Reportorio de la nueva Recopilacion de las leyes del Reyno, hecho por el Licenciado Diego de Atiença, impreso en Alcalá de Henares por Juan 
+5184x3456	CC BY 4.0	File:0 Arras, salle des mariages de l'hôtel de ville (1).JPG	| Wedding hall in the Arras town hall (Nord-Pas-de-Calais, France).
+5184x3456	CC BY 4.0	File:0 Arras, salle des mariages de l'hôtel de ville (2).JPG	| Wedding hall in the Arras town hall (Nord-Pas-de-Calais, France).
+1087x1537	Public domain	File:Boletín de la Sociedad Española de Excursiones (IA boletindelasocie13soci).pdf	| Title varies slightly Publication suspended 1936-1939 Subjects: Art; Architecture; Cathedrals
+1175x1966	Public domain	File:Bodas trágicas - cuadro dramático, escrito expresamente para la señora Civili (IA bodastrgicascuad00eche).pdf	| 14 pages ; 21 cm Imprint on cover: Madrid : Sociedad de Autores Españoles, 1917 No. 4, in vol. 80 with binder's title: Teatro Español Borrás
+1402x1931	Public domain	File:El campanero de San Pablo - drama en cuatro actos, precedido de un prólogo (IA elcampanerodesan00bouc 1).pdf	| 24 p. ; 26 cm Caption title At head of title: Biblioteca Dramática No. 9, in vol. 591 with binder's title: Teatro Español : serie A Subjects
+1350x2110	Public domain	File:El trapero de Madrid - drama en cuatro actos, precedido de un prólogo (IA eltraperodemadri00lomb 0).pdf	| 28 p. ; 27 cm Subjects:
+1520x2568	Public domain	File:Los muebles de Tomasa - disparate cómico en un acto (IA losmueblesdetoma00vall).pdf	| 5 p. ; 26 cm Caption title At head of title: Biblioteca Dramática No. 52, in vol. 605 with binder's title: Teatro Español : serie A Subjects
+1029x1939	Public domain	File:Sangre plebeya - comedia en tres actos - arreglo escénico de la novela El filón de M. Martínez Barrionuevo (IA sangreplebeyacom00salv).pdf	| 99 pages ; 20 cm Subjects:
+1266x1766	Public domain	File:Primera parte, de la politica de escriptvras de Nicolas de Yrolo Calar, natural de Cadiz. ... Van por estilo nueuo, y pueden ser de prouecho a todo estado de gentes (IA primerapartedela00yrol).pdf	| Title within woodcut border; coat of arms on t.p Head- and tailpieces; initials Place of publication from colophon Sabin Medina, J.T. México
+1864x2918	Public domain	File:Obras completas de Eusebio Blasco (Tomo XVI).djvu	| Vol. 1. - Primeros y últimos veros; Vol. 2. - Una senora comprometida; Del amor y otros excesos; Don Juan, el del Ojo pito; Vol. 3. - Busili
+1385x2135	Public domain	File:Veladas del invierno, en torno de una mesa de labor (IA veladasdelinvier00sinu).pdf	| 2 v. in 1, plates ; 22 cm Not found in Ticknor Collection catalog copy cataloged 201905 Subjects:
+2460x4204	Public domain	File:El Cristo de Velázquez. Poema de Miguel de Unamuno (1920).djvu	| El Cristo de Velázquez, poema. Madrid: Calpe. 1920
+1585x636	Public domain	File:Primeras bodas celebradas en diciembre.jpg	| En medio de ceremonias sencillas, tuvo lugar esta mañana en el Palacio Arzobispal, el enlace de la señorita Paz Trinidad, hija del gerente d
+1554x1033	Public domain	File:Obras completas de Juan Valera - tomo 20 - bdh0000201266.pdf	| Obras completas de Juan Valera - tomo 20 - Crítica literaria
+1214x2004	Public domain	File:Obras de Don InigoLopez de Mendoza, margues de Santillana (IA obrasdedoninigol00sant).pdf	| viii, clxxx, 651 p., 1 leaf : 28 cm "Glosario": p. [525]-590 Subjects:
+1458x2029	Public domain	File:Libro 0282. Libro 1º de Listas de los Colegiales existentes en este Real Seminario desde 18 de abril de 1683 hasta 7 de octubre de 1753 (IA AHUSLibro0282).pdf	| Más detalles:DESCRIPCIÓN: 1 libro (434 h.)SIGNATURA: AHUS Libro 0282PRODUCTOR: Real Colegio Seminario de San TelmoIDENTIFICADOR DE LA INSTIT
+### Las arras boda
+1339x1883	Public domain	File:1581 Reportorio de la nueua Recopilacion de las leyes del Reyno.pdf	| Reportorio de la nueva Recopilacion de las leyes del Reyno, hecho por el Licenciado Diego de Atiença, impreso en Alcalá de Henares por Juan 
+2550x3301	Public domain	File:Las mil noches y una noche v16.djvu	| Spanish translation of "The one thousand nights and one night". This book is translated from the one done by J.C. Mardrus, published from 18
+1239x1841	Public domain	File:El Correo sino-annamita (microform) - ó correspondencia de las misiones del sagrado Orden de Predicadores en Formosa, China, Tung-king, Formosa y Japon (IA aqn8205.0001.001.umich.edu).pdf	| Microfilm no. 52 Vol 28, of Correo Sino-Annamita Microfilm no. 52 Microfilm Subjects: Dominicans; Dominicans
+1175x1966	Public domain	File:Bodas trágicas - cuadro dramático, escrito expresamente para la señora Civili (IA bodastrgicascuad00eche).pdf	| 14 pages ; 21 cm Imprint on cover: Madrid : Sociedad de Autores Españoles, 1917 No. 4, in vol. 80 with binder's title: Teatro Español Borrás
+1041x1862	Public domain	File:El rabano por las hojas - comedia en tres actos (IA elrabanoporlasho00gily).pdf	| 64 pages ; 20 cm No. 3, in vol. 110 with binder's title: Teatro Español Borrás Subjects:
+1089x1922	Public domain	File:Las de Ulloa - comedia en tres actos y en prosa (IA lasdeulloacomedi00zara 0).pdf	| 112 p. ; 20 cm On cover: Sociedad de Autores Españoles No. 6, in vol. 581 with binder's title: Teatro Español : serie A Subjects:
+1391x1966	Public domain	File:Semanario literario ilustrado - dedicado especialmente a las familias católicas de la República (IA semanarioliterar01ague).pdf	| "Director, Lic. Victoriano Agüeros." Subjects: Catholic Church
+1241x1777	Public domain	File:Benedictina de F. Nicolas Bravo ... - en que trata la milagrosa vida del glorioso S. Benito, patriarca de los monges, con vna breue recapitulacion de las religiones (IA benedictinadefni00brav).pdf	| [24], 484, [34] pages ; 20 cm Decorative initials; text within a framed border Includes marginal notes and index copy cataloged 201905 condi
+1108x1622	Public domain	File:Nos Don Manuel Antonio de Palmero y Rallo ... Obispo de Gerona ... A las religiosas suietas a nuestras iurisdiccion, sus directores y demas nuestros Diocesanos (IA A11411015).pdf	| Más detalles EditorS.l. : s.n.Fecha de creación1768FormatoXXVIII p. ; 4ºFuenteCatálogo de la bibliotecaIdentificadorOCLC : (OCoLC)928877829P
+2078x2891	Public domain	File:Pedro Prado - Las copas (1921).djvu	| Pedro Prado, Las copas. 1921. Ediciones selectas América. Año III. Núm. 41.
+1585x636	Public domain	File:Primeras bodas celebradas en diciembre.jpg	| En medio de ceremonias sencillas, tuvo lugar esta mañana en el Palacio Arzobispal, el enlace de la señorita Paz Trinidad, hija del gerente d
+1592x1604	Public domain	File:En las nupcias de María Vecín y Juan Tellechea.jpg	| Los nuevo Señores de Tellechea, fotografiados después de la ceremonia de su enlace, en el Palacio Arzobispal. De izquierda a derecha: Doña M
+1604x2208	Public domain	File:Libro 0164. Libro donde sientan todas las Partidas de dinero que entra en el Arca de tres llaves de este Real Colegio Seminario, que empieza desde primero de henero del año de 1732 h (IA AHUSLibro0164).pdf	| Más detalles:DESCRIPCIÓN: 1 libro SIGNATURA: AHUS Libro 164PRODUCTOR: Real Colegio Seminario de San TelmoIDENTIFICADOR DE LA INSTITUCIÓN: 41
+1441x2135	Public domain	File:Libro 0680. Informaciones de legitimidad y limpieza de sangre para la obtención de grados en las distintas Facultades de la Universidad de Sevilla. (IA AHUSLibro0680).pdf	| Más detalles: DESCRIPCIÓN: 428 folios SIGNATURA: AHUS Libro 680 PRODUCTOR: Universidad de Sevilla IDENTIFICADOR DE LA INSTITUCIÓN: 41091 AHU
+1552x2177	Public domain	File:Libro 0685. Informaciones de legitimidad y limpieza de sangre para la obtención de grados en las distintas Facultades de la Universidad de Sevilla. (IA AHUSLibro0685).pdf	| Más detalles: DESCRIPCIÓN: 553 folios SIGNATURA: AHUS Libro 685 PRODUCTOR: Universidad de Sevilla IDENTIFICADOR DE LA INSTITUCIÓN: 41091 AHU
+1456x2125	Public domain	File:Libro 0704. Informaciones de legitimidad y limpieza de sangre para la obtención de grados en las distintas Facultades de la Universidad de Sevilla. (IA AHUSLibro0704).pdf	| Más detalles: DESCRIPCIÓN: 366 folios SIGNATURA: AHUS Libro 704 PRODUCTOR: Universidad de Sevilla IDENTIFICADOR DE LA INSTITUCIÓN: 41091 AHU
+1506x2114	Public domain	File:Libro 0719 Informaciones de legitimidad y limpieza de sangre para la obtención de grados en las distintas Facultades de la Universidad de Sevilla. (IA AHUSLibro0719).pdf	| Más detalles: DESCRIPCIÓN: 473 folios (Indicar el nº de folios del libro) SIGNATURA: AHUS Libro 719 PRODUCTOR: Universidad de Sevilla IDENTI
+1518x2083	Public domain	File:Libro 0735. Informaciones de legitimidad y limpieza de sangre para la obtención de grados en las distintas Facultades de la Universidad de Sevilla. (IA AHUSLibro0735).pdf	| Más detalles: DESCRIPCIÓN: 663 folios SIGNATURA: AHUS Libro 735 PRODUCTOR: Universidad de Sevilla IDENTIFICADOR DE LA INSTITUCIÓN: 41091 AHU
+1208x1712	Public domain	File:Oracion funebre, que en las solemnes exequias, que celebró el cuerpo de cirujanos de la Real Armada ... el dia 12 de octubre de 1776 a la memoria de Don Pedro Virgili ... (IA b30411671).pdf	| 62 pages : (folio) Subjects:
+### monedas arras
+1647x2683	Public domain	File:Ramos de violetas.djvu	| Archivo djvu
+3648x2736	CC BY-SA 2.0	File:El último viaje de la fragata Mercedes (recreacion).jpg	| ============================================ Recreacion del cargamento de la fragata Nuestra Señora de las Mercedes, bautizada por la empres
+1339x1883	Public domain	File:1581 Reportorio de la nueua Recopilacion de las leyes del Reyno.pdf	| Reportorio de la nueva Recopilacion de las leyes del Reyno, hecho por el Licenciado Diego de Atiença, impreso en Alcalá de Henares por Juan 
+1242x1961	Public domain	File:Las harpías en Madrid y Tiempo de regocijo (1907).djvu	| Título Colección selecta de antiguas novelas españoles, Volumen7 Editor Librería de los Bibliófilos Españoles, 1907 Procedencia del original
+1093x1887	Public domain	File:El esclavo, o, La venida del Mesías - melodrama lírico en dos actos y siete cuadros (IA elesclavoolaveni00chap).pdf	| 58 pages ; 20 cm On cover: Biblioteca Lírico-dramática y Teatro Cómico Imprint on cover: Madrid : Arregui y Aruej, 1891 No. 26, in vol. 132 
+1560x2508	Public domain	File:Entre cielo y tierra - juguete cómico en un acto (IA entrecieloytierr00vill 0).pdf	| 6 p. ; 26 cm Caption title At head of title: Biblioteca Dramática No. 15, in vol. 606 with binder's title: Teatro Español : serie A Subjects
+2597x3393	Public domain	File:Regeneracion 1914-01-03 (IA csmha 000322).pdf	| Description: Mexican-American anarchist newspaper and arm of the Mexican Liberal Party, founded by Jesus Flores Magon and later published an
+1087x1631	Public domain	File:Novísima recopilación de las leyes de España T. 1 (IA BRes002060).pdf	| Dividida en XII libros en que se reforma la recopilacion publicada por el Señor Don Felipe II en el año de 1567, reimpresa últimamente en el
+1093x1866	Public domain	File:Catalogue of a large and interesting collection of mediaeval and modern copper coins ... (Fixed Price List) Third sale. (12-1883) (IA catalogueoflarge00lowl 1).pdf	| Medieval and Modern copper coins Subjects:
+1685x2625	Public domain	File:Anales de la Sociedad Científica Argentina - Tomo 76.djvu	| 
+1250x885	Public domain	File:Viage del Parnaso - 1614 - bdh0000082795.pdf	| Viage del Parnaso compuesto por Miguel de Ceruantes Saauedra; dirigido a don Rodrigo de Tapia, cauallero del Habito de Santiago. En Madrid: 
+2531x3325	Public domain	File:Ecos del Congreso Araucanista - MC0076719.pdf	| 3 páginas
+2112x1502	Public domain	File:Discursos leídos ante la Real Academia Española en la recepción pública de Don Serafín Álvarez Quint - bdh0000292553.pdf	| 55 p.; 26 cm Contiene el discurso de recepción de Serafín Álvarez Quintero y el de contestación de Ricardo León y Román
+1362x1852	Public domain	File:Defensa del pueblo, Dios, patria, libertad, La. 1890. Vol. 7, No. 474. Junio. 0002008463ocr.pdf	| La Defensa del Pueblo, Dios, patria, libertad newspaper. Monterrey, Nuevo León, México. 1890 edition. Abraham P. de la Garza (director and e
+1135x1775	Public domain	File:Diccionario enciclopedico hispano-americano de literatura, siencias y artes. Edicion profusamente ilustrada con miles de pequeños grabados intercalados en el texto y tirados (IA diccionarioencic21vizu).pdf	| "Apéndice": v. 24-25; "Apéndice segungo redactado por distinquidos profesores y publicistas de España y América, bajo la dirección de Pelayo
+1393x1966	Public domain	File:Libro 0039. Cuentas de la administración de los bienes del Real Seminario de San Telmo. Años 1741-1742 (IA AHUSLibro0039).pdf	| Más detalles: DESCRIPCIÓN: 505 folios SIGNATURA: AHUS Libro 39 PRODUCTOR: Real Colegio Seminario de San Telmo IDENTIFICADOR DE LA INSTITUCIÓ
+1525x2120	Public domain	File:Libro 0797. Expedientes académicos de alumnos, años 1825-1845 (IA AHUSLibro0797).pdf	| Más detalles: DESCRIPCIÓN: 611 folios SIGNATURA: AHUS Libro 797 PRODUCTOR: Universidad de Sevilla IDENTIFICADOR DE LA INSTITUCIÓN: 41091 AHU
+### wedding cord
+2576x1932	CC BY-SA 2.0	File:Wedding with wedding cords in hand.jpg	| Tara and Liam, a newly wedded couple, carry wedding cords as they celebrate their wedding.
+4752x3168	CC BY-SA 2.0	File:Wedding cord ceremony.jpg	| Wedding cord ceremony
+4074x4060	CC BY-SA 4.0	File:Cord Automobile in 1970.jpg	| Cord Automobile in 1970- this is how my father convinced my mother he was an exciting guy with money. Then they sold it and started saving f
+6000x4000	CC BY-SA 4.0	File:The wedding knot.jpg	| The ritual is an epitome of promise that both bride and groom take to live together for ages
+3872x2592	CC BY-SA 2.0	File:View of a rust corded silk and plush wedding dress from 1887 in the Vestry House Museum - geograph.org.uk - 5605420.jpg	| View of a rust corded silk and plush wedding dress from 1887 in the Vestry House Museum
+4631x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (42 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (43 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4685x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (47 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4685x6103	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (48 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (01 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (07 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (08 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (09 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (10 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (11 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (12 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (16 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (19 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (21 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (23 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (29 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (30 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (31 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (26 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (28 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (32 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (37 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (38 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4662x6180	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (39 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+4600x6202	Public domain	File:Wedding Cake - caprice-valse pour le piano avec accompagnement d'instruments à cordes - op. 76 - par C. Saint-Saëns - bpt6k1174877w (40 of 48).jpg	| Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Wedding cake. Piano, orchestre à cordes. R 124] Titre uniforme : Saint-Saën
+### Catholic wedding candles
+3025x4417	Public domain	File:Out of due time, Ward, 1906.djvu	| 
+3456x4608	CC BY-SA 3.0	File:CubaoCathedraljf9525 17.JPG	| Upload Wizard photos of Cubao Cathedral, formally known as the Immaculate Conception Cathedral of , is a Roman Catholic church located in Qu
+1100x1566	Public domain	File:The lost rosary; (IA lostrosary00olea).pdf	| Subjects:
+1139x1664	Public domain	File:A heroine of charity and other stories (IA heroineofcharity00cott).pdf	| Subjects: Catholics
+1118x1827	Public domain	File:A Round table of the representative French Catholic novelists, with portraits, biographical sketches, and bibliography (IA roundtableofrepr00unse).pdf	| Subjects: French fiction; French literature
+1206x1922	Public domain	File:In God's country;Catholic stories of home and abroad, (IA ingodscountrycat00boyt).pdf	| 403 p. 21 cm Subjects:
+1129x1827	Public domain	File:The tower of David -a book of stories for the program of women's organizations - (IA towerofdavidaboo00levi).pdf	| [2], 203, [3] p. (last 3 p. blank) ; 20 cm Bibliography: p. 199-203 The mother with nothing to give -- A Succoth table -- Vivian gets a book
+### Kerzen Altar Trauung
+### candele matrimonio
+2138x3366	Public domain	File:Marco e Tòdaro.djvu	| Marco e Tòdaro: versi in vernacolo venezian de un mestro de Canaregio. Venezia, tipografia antica ditta Cordela, 1886
+1378x2556	Public domain	File:Goldoni - Raccolta di commedie scelte dell'avvocato C. Goldoni. Tomo 1. -8.. 5, 1819.djvu	| Vol. 1. Il matrimonio per concorso; Il burbero benefico; G18'innamorati; La scozzese.- Vol. 2. La bottega del caffé; L'avventuriere onorato;
+1197x1845	Public domain	File:Ordine delle solennità e cerimoniali nell' occasione del matrimonio di sua Altezza Imeriale Maria Luigia, principessa reale d'Ungheria e di Boemia (IA ordinedellesolen00unse).pdf	| Account of the marriage festivities celebrated in Vienna, Austria Subjects: Napoleon I, Emperor of the French, 1769-1821; Marie Louise, Empr
+1500x2150	Public domain	File:Natura ed arte - rassegna quindicinal illustrata italiana e straniera di scienze, lettere ed arti (IA naturaedarterass4112unse).pdf	| 20 v. : 28-29 cm Description based on: Anno 1891/92, v. 1o; title from vol. t.p Latest issue consulted: 1910/1911, v. 2o Subjects: Arts -- P
+1091x1668	Public domain	File:Relatione del fvnerale et eseqvie fatte in Milano, - per ordine della Cat. Maestà del potentiss. re di Spagna don Filippo Terzo nostro signore (IA relationedelfvne00picc).pdf	| Library's copy remargined: original pages, trimmed to 22 x 15 cm., pasted on larger leaves. A separate pagination, continuous within the bou
+1389x1960	Public domain	File:Il Cittadino Italiano n 176-1878 (IA CittadinoItaliano1882-1108).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1352x1970	Public domain	File:Il Cittadino Italiano n 97-1891 (IA CittadinoItaliano1883-3713).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1383x1987	Public domain	File:Il Cittadino Italiano n 208-1882 (IA CittadinoItaliano1884-1565).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1372x1945	Public domain	File:Il Cittadino Italiano n 175-1884 (IA CittadinoItaliano1886-1099).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1377x1945	Public domain	File:Il Cittadino Italiano n 284-1884 (IA CittadinoItaliano1886-2581).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1364x2012	Public domain	File:Il Cittadino Italiano n 32-1887 (IA CittadinoItaliano1889-2786).pdf	| Il Cittadino Italiano - giornale - religioso - politico - scientifico - commerciale Subjects: Friuli; Periodico;
+1533x2183	Public domain	File:Esaminatore Friulano 20-01-1880 (IA EsaminatoreFriulano20-01-1880).pdf	| Esaminatore Friulano - Periodico settimanale politico religioso Subjects: Friuli; Periodico;
+1539x2164	Public domain	File:Esaminatore Friulano 28-09-1882 (IA EsaminatoreFriulano28-09-1882).pdf	| Esaminatore Friulano - Periodico settimanale politico religioso Subjects: Friuli; Periodico;
+1410x1993	Public domain	File:Giunta domenicale al Friuli n. 13 (1851) (IA GiuntadomenicalealFriulin13-1851).pdf	| Giunta domenicale al Friuli - periodico storico friulano Subjects: Friuli; Periodico; Giunta domenicale al Friuli
+1514x2022	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 102 (1899) (IA IlFriuli-102 1899).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1533x2095	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 304 (1900) (IA IlFriuli-304 1900).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1479x2029	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 39 (1896) (IA IlFriuli-39 1896).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1456x2089	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 7 (1906) (IA IlFriuli1906-156).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1460x2066	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 22 (1892) (IA IlFriuli 22 1892).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1502x2064	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 302 (1895) (IA IlFriuli 302 1895).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+1495x2056	Public domain	File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 46 (1891) (IA IlFriuli 46 1891).pdf	| Il Friuli - giornale politico-amministrativo-letterario-commerciale Subjects: Friuli; Periodico;
+### wedding coins
+3000x2010	Public domain	File:Tricia and Ed Cox's wedding - NARA - 194363.tif	| Scope and content: Pictured: Pat Nixon, President Nixon, Tricia and Ed Cox. Subject: Wedding - Tricia.
+2439x3000	Public domain	File:Tricia Nixon in her wedding gown - NARA - 194364.tif	| Scope and content: Pictured: Tricia Nixon. Subject: Tricia- Activities.
+1148x1811	Public domain	File:Wedding-1942.png	| Watson wedding
+1216x807	Public domain	File:Javanese marriage, groom pouring rice and coins into bride's scarf, Wedding Ceremonials, p40.jpg	| Javanese marriage, groom pouring rice and coins into bride's scarf
+1680x2240	CC BY 4.0	File:Gg-diamond-wedding-anniversary-coin-2007-events-223.jpg	| To mark the Diamond Wedding Anniversary of the marriage of Her Majesty, Queen Elizabeth II of New Zealand, and the Duke of Edinburgh, New Ze
+2241x1207	CC BY-SA 4.0	File:2.5 Pahlavi Royal Wedding Gold coin.jpg	| دو و نیم پهلوی جشن ازدواج
+2439x3000	Public domain	File:Tricia Nixon in Her Wedding Gown.jpg	| Tricia Nixon in Her Wedding Gown, 6/25/1971
+2465x1235	CC BY-SA 4.0	File:4 dollar of Bermuda, Elizabeth II Silver Wedding - 1972.png	| 4 dollar of Bermuda, Elizabeth II Silver Wedding - 1972
+2721x1364	CC0	File:2 Gulden - Francis Joseph I Silver Wedding Jubilee.jpg	| 2 Gulden - Francis Joseph I Silver Wedding Jubilee
+2190x3132	Public domain	File:1914-04-24, Los Contemporáneos y los Maestros, Las arras. El rey doliente, de Vicente Díez de Tejada, Romero Calvet.jpg	| Portada de Las arras. El rey doliente.
+1732x1883	Public domain	File:1914-04-24, Los Contemporáneos y los Maestros, Las arras. El rey doliente, Ilustración de Romero Calvet (03).jpg	| Ilustración de Romero Calvet en Las arras. El rey doliente.
+1497x2286	Public domain	File:1914-04-24, Los Contemporáneos y los Maestros, Las arras. El rey doliente, Ilustración de Romero Calvet (08).jpg	| Ilustración de Romero Calvet en Las arras. El rey doliente.
+1343x2093	Public domain	File:1914-04-24, Los Contemporáneos y los Maestros, Las arras. El rey doliente, Ilustración de Romero Calvet (09).jpg	| Ilustración de Romero Calvet en Las arras. El rey doliente.
