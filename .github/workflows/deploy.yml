@@ -39,6 +39,16 @@ jobs:
           PUBLIC_LOGIN_GOOGLE: ${{ vars.PUBLIC_LOGIN_GOOGLE }}
         run: npm run build
 
+      - name: Recuperar cópia das imagens (cache entre builds)
+        uses: actions/cache@v4
+        with:
+          path: .cache/imagens
+          key: imagens-${{ github.run_id }}
+          restore-keys: imagens-
+
+      - name: Servir as imagens pelo próprio site (sem depender do Supabase na visita)
+        run: node scripts/espelhar-imagens.mjs
+
       - name: Conferir arquivos essenciais
         run: |
           test -f dist/index.html
