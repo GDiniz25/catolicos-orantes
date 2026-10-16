@@ -74,7 +74,7 @@ export const CATEGORY_CONTENT: Record<string, CategoryContent> = {
   novenas: {
     lead: 'Novena é a oração feita durante nove dias seguidos com uma intenção, à imitação dos nove dias em que os Apóstolos e Maria rezaram entre a Ascensão e Pentecostes.',
     intro: `<p>A <strong>novena</strong> é uma forma de oração perseverante. Durante nove dias, a pessoa ou a comunidade reza pedindo uma graça, preparando uma festa ou agradecendo. A origem está nos nove dias de oração no Cenáculo, antes da vinda do Espírito Santo (cf. At 1,14).</p>
-<p>Nesta seção estão as novenas mais rezadas no Brasil, com o texto completo de cada dia: Nossa Senhora Aparecida, Nossa Senhora Desatadora dos Nós, Santa Rita, Santo Expedito, São Rafael Arcanjo, Sagrado Coração de Jesus, Espírito Santo, Natal e muitas outras. Não sabe qual escolher? Veja <a href="/qual-novena-rezar">qual novena rezar para cada necessidade</a>.</p>
+<p>Nesta seção estão as novenas mais rezadas no Brasil, com o texto completo de cada dia: Nossa Senhora Aparecida, Nossa Senhora Desatadora dos Nós, Santa Rita, Santo Expedito, Sagrado Coração de Jesus, Espírito Santo, Natal e muitas outras. Não sabe qual escolher? Veja <a href="/qual-novena-rezar">qual novena rezar para cada necessidade</a>.</p>
 <p>Uma novena não é fórmula mágica. É um pedido feito com fé e confiança, unido à oração da Igreja.</p>`,
     faq: [
       { q: 'Por que a novena tem nove dias?', a: 'Pelo exemplo dos Apóstolos, que rezaram com Maria durante os nove dias entre a Ascensão de Jesus e Pentecostes. O número lembra perseverança na oração.' },
