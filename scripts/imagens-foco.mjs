@@ -22,9 +22,12 @@ const UA = 'CatolicosOrantes/1.0 (contato@catolicosorantes.com.br)';
 const artigos = await fetchAll(db, 'articles', 'image_url', 'id');
 const santos = await fetchAll(db, 'saints_calendar', 'image_url', 'id');
 const urls = [...new Set([...artigos, ...santos].map((r) => r.image_url).filter(Boolean))];
-const feitos = new Set((await fetchAll(db, 'image_focus', 'url', 'url')).map((r) => r.url));
-// --refazer: recalcula tudo (ex.: depois de mudar o método)
-const pendentes = process.argv.includes('--refazer') ? urls : urls.filter((u) => !feitos.has(u));
+const focos = await fetchAll(db, 'image_focus', 'url,metodo', 'url');
+const feitos = new Set(focos.map((r) => r.url));
+// Foco marcado à mão (revisão visual) nunca é recalculado
+const manuais = new Set(focos.filter((r) => r.metodo === 'manual').map((r) => r.url));
+// --refazer: recalcula tudo (ex.: depois de mudar o método), menos os manuais
+const pendentes = process.argv.includes('--refazer') ? urls.filter((u) => !manuais.has(u)) : urls.filter((u) => !feitos.has(u));
 console.log(`${urls.length} imagens, ${pendentes.length} sem foco${gravar ? '' : ' (SIMULAÇÃO: calcula 5 e não grava)'}`);
 
 const pct = (v) => `${Math.round(Math.min(1, Math.max(0, v)) * 100)}%`;

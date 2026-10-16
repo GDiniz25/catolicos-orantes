@@ -4,7 +4,7 @@ Refina o foco das imagens (tabela image_focus) procurando rostos.
 O smartcrop (scripts/imagens-foco.mjs) acha a área com mais detalhe, mas numa pintura de corpo
 inteiro isso costuma ser o meio da roupa. Aqui:
   1. procura rostos (OpenCV, cascatas frontal e de perfil); achou: o corte centraliza o rosto mais alto e maior;
-  2. sem rosto e imagem em pé (retrato): o corte sobe para o terço de cima, onde fica a cabeça;
+  2. sem rosto e imagem em pé (retrato): o corte vai para o alto, onde fica a cabeça (12% da altura no centro);
   3. sem rosto e imagem deitada: mantém o smartcrop.
 Só processa as linhas com metodo = 'smartcrop' (ainda não refinadas).
 
@@ -108,7 +108,11 @@ def processar(linha, conteudo):
             px = 0.5 + (px - 0.5) * 0.8  # sem colar na borda
             return url, f'{round(px * 100)}% {round(py * 100)}%', 'rosto'
         if h > w * 1.15:
-            return url, f'{round(sx * 100)}% {round(min(sy, 0.2) * 100)}%', 'retrato'
+            # Sem rosto achado numa imagem em pé: a cabeça costuma ficar perto de 12% da altura.
+            # Centraliza esse ponto no quadro 16:9 (em imagens muito altas isso dá quase 0%, o topo).
+            hc = w * 9 / 16
+            py = clamp((0.12 * h - hc / 2) / (h - hc)) if h > hc + 1 else 0
+            return url, f'{round(sx * 100)}% {round(py * 100)}%', 'retrato'
         return url, base, 'smartcrop-ok'
     except Exception as e:
         return url, None, f'erro: {e}'
