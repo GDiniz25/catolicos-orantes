@@ -77,8 +77,8 @@ OK	fr/at2_m5	4680x3712	Public domain	Didier Descouens	File:Scuola Grande dei Car
    DESC: 
    CATS: Author died more than 100 years ago public domain images | CC-BY-SA-4.0 | CC-PD-Mark | Giustino Menescardi | Images by Archaeodontosaurus Venice Church | May 2017 in Venice | Paintings without Wikidata item | Photographs taken on 2017-05-23 | Scuola Grande dei Carmini - Sala dell'Archivio | Valued Images by Archaeodontosaurus | Valued Images by Archaeodontosaurus Venice | Valued images missing SDC creator | Valued images missing SDC depicts | Valued images missing SDC source of file | Valued ima
    LICURL:  USAGE: Public domain
-OK	fr/at2_m6	1164x1290	Public domain		File:La victoire de Judas Macchabée - François Joseph Heim - MM 1938F501.jpg
-   DESC: 
+OK	fr/at2_m6	1164x1290	Public domain	François Joseph Heim	File:La victoire de Judas Macchabée - François Joseph Heim - MM 1938F501.jpg
+   DESC: La victoire de Judas Macchabée, peint par François Joseph Heim
    CATS: Artworks missing digital representation of for 2D work | Artworks with SDC link missing | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Author died more than 70 years ago public domain images | CC-PD-Mark | François-Joseph Heim | Judas Maccabeus | PD US expired | Paintings in Musée Magnin
    LICURL:  USAGE: Public domain
 OK	fr/at2_s7	3421x2909	CC0	Fabrizio Garrisi	File:Andrea Sacchi, La Divina Sapienza, 1630 circa. Palazzo Barberini -FG1.jpg
@@ -109,33 +109,111 @@ OK	fr/big_at2_m1	4000x2783	Public domain	Wojciech Korneli Stattler	File:Stattler
    DESC: Measurements: height: 262 cm, width: 371 cm; with frame: height: 311.5 cm, width: 423 cm, depth: 21.5 cm "Wojciech Korneli Stattler's work oscillates between classicism and romanticism, and between religious, historical and portrait themes. He was influenced by both Italian quattro and cinquecento painting, especially Raphael, and the art of the German Nazarenes. These fascinations are legible in 
    CATS: Author died more than 70 years ago public domain images | CC-PD-Mark | CC-Zero | PD US expired | Polish paintings in the National Museum in Kraków
    LICURL:  USAGE: Public domain
-### Ciseri martirio Maccabei
-2736x3648	CC BY 2.5	File:Antonio ciseri, santa felicita e il martirio dei maccabei, 1860 circa.JPG	| 
-### Antonio Ciseri Maccabees
-### Rubens Judas Maccabaeus Nantes
-### Judas Maccabeus praying for the dead
-1143x1827	Public domain	File:The book and its story - a narrative for the young (IA bookitsstorynarr00lnr1 1).pdf	| Subjects:
-1120x1731	Public domain	File:The Book and its story;a narrative for the young- (IA bookitsstoryanar00rany).pdf	| xiv p., 1 1., 508 p. 19 cm Subjects: British and Foreign Bible Society; Bible -- History
-1295x1985	Public domain	File:Questions answered,gathered from the Question corner department of the "Signs of the times", (IA questionsanswere00wilc).pdf	| 245 p. 21 cm Subjects: Seventh-Day Adventists -- Doctrinal and controversial works
-1210x1429	Public domain	File:Pastoral address of the Right Reverend Doctor Connolly Bishop of St. John, N.B. to the clergy and laity of the diocese for the Lent of MDCCCLIV (microform) (IA cihm 51170).pdf	| '"They say to him ... "--Luke v. 33-35.' Filmed from a copy of the original publication held by the Seminary of Quebec, Library 43 Subjects:
-1275x1800	Public domain	File:Is the Doctrine of Purgatory Taught by the Early Fathers? (IA jstor-30064920).pdf	| "Is the Doctrine of Purgatory Taught by the Early Fathers?" is an article from &lt;a href="/search.php?query=collection%3Ajstor_cathlayman%2
-### Mother with seven sons painting
-1370x2188	Public domain	File:Andreyev - The Seven Who Were Hanged.djvu	| Short story by Leonid Andreyev.
-4318x7055	CC0	File:India, Calcutta, Kalighat painting, 19th century - Seven Heroes or Warriors Killing Abhimanya, Son of Arjuna - 2003.144 - Cleveland Museum of Art.tif	| Abhimanyu (son of Arjuna and Subhadra, nephew of Krishna) is a tragic figure from the epic Mahabharata (The Great History of the Descendants
-1245x1958	Public domain	File:The works of Kathleen Norris. (Vol. 1, MOTHER, THE TREASURE) (IA worksofkathleenn01norr).pdf	| 11 v. 22 cm "Autograph edition, limited to two hundred and sevety-seven copies, of which this is no. 276." I. Mother. The treasure.--II. The
-1100x1510	Public domain	File:The history of modern painting - Richard Muther - revised ed. 1907, vol. 2 (IA historyofmod02muth).pdf	| "Index of artists": v. 4, p. 403-444 Bibliography at end of each volume Subjects: Painting
-1052x1462	Public domain	File:The history of modern painting - Richard Muther - revised ed. 1907, vol. 1 (IA historyofmodernp01muth).pdf	| "Index of artists": v. 4, p. 403-444 Bibliography at end of each volume Subjects: Painting
-1172x1656	Public domain	File:A history of painting (IA historyofpaintin02macf).pdf	| "Limited to 1,000 numbered copies, of which this is number 826." Plates accompanied by guard sheets with descriptive letterpress " Bibliogra
-1181x1666	Public domain	File:A history of painting (IA historyofpaintin06macf).pdf	| "Limited to 1,000 numbered copies, of which this is number 826." Plates accompanied by guard sheets with descriptive letterpress " Bibliogra
-1000x1500	Public domain	File:Seven Men (1920).djvu	| 
-### Salomo bidt om wijsheid schilderij
-1045x1500	Public domain	File:Geïllustreerde catalogus der tentoonstelling van schilderijen van Wasili Wereschagin (IA gri 33125016427698).pdf	| 48 pages : 20 cm Subjects: Vereshchagin, Vasiliĭ Vasilʹevich, 1842-1904 -- Exhibitions; Vereshchagin, Vasiliĭ Vasilʹevich, 1842-1904
-### Solomon Gibeon dream painting
-1083x1800	Public domain	File:Thoughts on dreaming. Wherein the notion of the sensory and the opinion that it is shut up from the inspection of the soul in sleep (IA b30352411).pdf	| 2 leaves, 96 pages ; (8vo) Subjects: Dreams
-1077x1700	Public domain	File:Hand-book of Bible biography (IA handbookofbibleb00barn).pdf	| "List of the principal works consulted": p. [8]-9 Subjects: Bible; Bible
-1175x1914	Public domain	File:Jesus before Pilate, a monograph of the crucifixion, including the reports, letters and acts of pontius Pilate concerning the trial and crucifixion of Jesus of Nazareth- (IA jesusbeforepilat00clou).pdf	| First published, 1880, under title: Gesta Pilati The "Acts of Pilate" (p. [37]-134) are also known as the "Gospel of Nicodemus" The "Report 
-1127x1610	Public domain	File:The comprehensive analysis of the Bible; (IA comprehensiveana00essi).pdf	| Subjects: Bible; Bible
-1060x1633	Public domain	File:Standard library catalogue of 2500 approved books. (IA standardlibraryc00bake 2).pdf	| 114 p. 17 cm Subjects: Best books -- United States; Libraries -- United States -- Book lists
-1331x2202	Public domain	File:Young folks Bible history (Vol. 2- Old Testament) (IA youngfolksbibleh02unse).pdf	| 4 v. 23 cm Subjects:
-2929x3954	Public domain	File:The New York Evangelist 1853-10-27- Vol 24 Iss 43 (IA sim evangelist-and-religious-review 1853-10-27 24 43).pdf	| The New York Evangelist 1853-10-27: Volume 24, Issue 43.Digitized from IA1532521-02.Previous issue: sim_evangelist-and-religious-review_1853
-1493x2225	Public domain	File:Description of Banvard's great pictures of Jerusalem and the Holy Land - painted from authentic drawings made upon the spot, during an extensive journ (IA descriptionofban00banv 1).pdf	| 32 pages : 23 cm Cover title: Description of Banvard's pilgrimage to the Holy Land Subjects: Palestine -- Description and travel
+OK	fr/at2_m7	2736x3648	CC BY 2.5	Antonio Ciseri	File:Antonio ciseri, santa felicita e il martirio dei maccabei, 1860 circa.JPG
+   DESC: 
+   CATS: Altar paintings | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing author | Artworks with Wikidata item missing genre | Artworks with Wikidata item missing medium | CC-BY-2.5 | CC-BY-SA-3.0-migrated | GFDL | License migration redundant | Photographs of paintings by User:Sailko | Religious paintings by Antonio Ciseri | Reredos in Italy | Santa Felicita (Florence) - Interior | Self-published work | Taken with Nikon Coolpix P5000
+   LICURL: https://creativecommons.org/licenses/by/2.5 USAGE: Creative Commons Attribution 2.5
+### Maccabees icon
+3002x5098	CC0	File:Moeder van de Makkabeeën Mater Machab (titel op object) Beroemde vrouwen uit het Oude Testament (serietitel) Icones Illvstrivm Feminarvm Veteris Testamenti (serietitel), RP-P-1887-A-11775.jpg	| IdentificatieTitel(s): Moeder van de Makkabeeën. Mater Machab (titel op object). Beroemde vrouwen uit het Oude Testament (serietitel). Icone
+3544x5482	CC0	File:Moeder van de Makkabeeën Mater Machab (titel op object) Beroemde vrouwen uit het Oude Testament (serietitel) Icones Illvstrivm Feminarvm Veteris Testamenti (serietitel), RP-P-1963-256.jpg	| IdentificatieTitel(s): Moeder van de Makkabeeën. Mater Machab (titel op object). Beroemde vrouwen uit het Oude Testament (serietitel). Icone
+1275x1954	Public domain	File:New century reference library of the world's most important knowledge … (Vol. 1, A-CODE) (IA newcenturyrefere01unse).pdf	| 8 v. 21 cm Subjects: Encyclopedias and dictionaries
+1243x1858	Public domain	File:People's cyclopedia;a complete library of reference containing the exact knowledge of the world condensed to the plainest terms consistent with accuracy and clearness, (Vol. 1, A-Cons) (IA peoplescyclopedi01unse).pdf	| 5 v. 20 cm Subjects: Encyclopedias and dictionaries. [
+1085x1641	Public domain	File:A universal English-German and German-English dictionary (IA b24872209 0003).pdf	| Added title-page in German 1. English and German (A-K, L-Z) -- 2. German and English Subjects:
+1097x1558	Public domain	File:Encyclopædia of religion and ethics (IA encyclopaediaofr02hast).pdf	| Vols. 6-12 "edited by James Hastings, with the assistance of John A. Selbie and Louis H. Gray." Some vols. are "Edition completed and correc
+1047x1562	Public domain	File:Encyclopædia of religion and ethics (IA encyclopaediaofr10hast).pdf	| Vols. 6-12 "edited by James Hastings, with the assistance of John A. Selbie and Louis H. Gray." Some vols. are "Edition completed and correc
+2988x5312	CC BY-SA 2.0	File:Right Pillar with Icons Fresco 01.jpg	| The face of the pillar host an exceptional series of wall icons comissioned by different donors for personal worship: the Virgin enthroned w
+2268x4032	CC BY-SA 2.0	File:Right Pillar with Icons Fresco 02.jpg	| The face of the pillar host an exceptional series of wall icons comissioned by different donors for personal worship: the Virgin enthroned w
+1960x4032	CC BY-SA 2.0	File:Right Pillar with Icons Fresco 03.jpg	| The face of the pillar host an exceptional series of wall icons comissioned by different donors for personal worship: the Virgin enthroned w
+3317x4000	Public domain	File:Menaion icon (17 c., TsAK) - August.jpg	| Икона "Минея". Август. Центральная Россия, первая четверть XVII века. Музей христианского искусства «Церковно-археологический кабинет». Инв.
+1377x2147	Public domain	File:Εξαστιχόν υπούν. sive Jconum... 1677 (IA bim early-english-books-1641-1700 -sive-jc whitehall-robert 1677).pdf	| Εξαστιχόν υπούν. sive Jconum... 1677..Digitized from IA40313706-14.Previous issue: bim_early-english-books-1641-1700_a-true-copy-of-a-letter
+1106x1625	Public domain	File:Encyclopaedia of religion and ethics (IA encyclopaediaofr07hast).pdf	| Vols. 6-12 "edited by James Hastings, with the assistance of John A. Selbie and Louis H. Gray." Plates printed on both sides Publishers reve
+1237x1704	Public domain	File:The character of a London diurnall, ... 1647 (IA bim early-english-books-1641-1700 the-character-of-a-londo cleveland-john 1647 2).pdf	| The character of a London diurnall, ... 1647..Digitized from &lt;a href="https://archive.org/details/sim_raw_scan_IA40313010-83/page/n639" r
+### Holy Maccabean martyrs
+1024x712	Public domain	File:Stattler-Machabeusze.jpg	| 
+2334x2915	Public domain	File:150.The Courage of a Mother.jpg	| The Courage of a Mother (2 Macc. 7:20-42)
+2000x2350	Public domain	File:Menalogical icon for August (c. 1800, Russia. Priv. coll.).jpg	| A Menalogical icon for the month of August. Tempera on wood panel with double kovcheg. Arranged over four registers. The patron saints of ea
+1944x2592	Public domain	File:Pirgi Katranitsa St Demetrius Church Holy Maccabean martyrs.jpg	| Pirgi Katranitsa St Demetrius Church Holy Maccabean martyrs
+2352x1568	CC BY-SA 4.0	File:Новосілка. Храм Святих Мучеників Макавейських (Положення Ризи Пр. Богородиці).jpg	| Novosilka. Church of the Holy Maccabean Martyrs
+2080x3408	CC BY 3.0	File:Pilastro con icone, 600-650 ca. 02 solomone e i maccabei.jpg	| Santa Maria Antiqua (Rome) - Interior
+3456x2304	CC BY 3.0	File:Pilastro con icone, 600-650 ca. 03 solomone e i maccabei.jpg	| Santa Maria Antiqua (Rome) - Interior
+2852x4212	Public domain	File:The Roman Breviary Bute 1908 - vol. 2.djvu	| vol. 2
+2690x4094	Public domain	File:The Roman Breviary Bute 1908 - vol. 3.djvu	| Vol. 3
+2748x4062	Public domain	File:The Roman Breviary Bute 1908 - vol. 4.djvu	| Vol. 4
+3240x4320	CC BY-SA 3.0 rs	File:The Dormition of St. Sava and the Holy Maccabee Martyrs (Patriarchate of Peć, 17th c.).png	| The Dormition of St. Sava and the Holy Maccabee Martyrs (Patriarchate of Peć, 17th c.)
+2272x3077	Public domain	File:Huntington Beach News - 1918-05-31 (IA castaoca 000357).pdf	| Series Title: Huntington Beach News Subjects: californiarevealed
+1070x1520	Public domain	File:Sent Salomoen martyr-08.png	| The Crucified and the Mater Dolorosa with the Suffering Maccabees in the Cauldron
+3317x4000	Public domain	File:Menaion icon (17 c., TsAK) - August.jpg	| Икона "Минея". Август. Центральная Россия, первая четверть XVII века. Музей христианского искусства «Церковно-археологический кабинет». Инв.
+### Solomonia Maccabees
+4590x5884	CC0	File:Verbranding van de zonen van Solomonia Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object), RP-P-OB-44.756.jpg	| IdentificatieTitel(s): Verbranding van de zonen van Solomonia. Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object)Obje
+4542x5758	CC0	File:Verbranding van de zonen van Solomonia Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object), RP-P-1896-A-19368-1721.jpg	| IdentificatieTitel(s): Verbranding van de zonen van Solomonia. Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object)Obje
+5106x6542	CC0	File:Verbranding van de zonen van Solomonia Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object), RP-P-OB-44.757.jpg	| IdentificatieTitel(s): Verbranding van de zonen van Solomonia. Salomona, een Hebreeuwsche Vrouwe, en haar zeven Zoonen (titel op object)Obje
+6172x4628	CC0	File:Marteldood van de zeven zonen van Solomonia, RP-P-OB-45.941.jpg	| IdentificatieTitel(s): Marteldood van de zeven zonen van SolomoniaObjecttype: prent Objectnummer: RP-P-OB-45.941Catalogusreferentie: Van Eeg
+### Judas Machabée peinture
+2476x3505	Public domain	File:Bouillet - Chassang - Dictionnaire universel d'histoire-geo - 1878 - P2 - H-P.djvu	| Dictionnaire historique
+1863x3068	Public domain	File:Feller - Dictionnaire historique - 1797 - T02.djvu	| Dictionnaire de mots
+1762x3078	Public domain	File:Feller - Dictionnaire historique - 1797 - T06.djvu	| Dictionnaire de mots
+2420x3984	Public domain	File:Feller-Weiss-Busson - Biographie, 1847, Tome 1, AA-BEZ.djvu	| Dictionnaire historique
+4267x6400	Public domain	File:Feller - Dictionnaire historique - 1818 - T02-BAA-CEU.djvu	| Dictionnaire historique
+4267x6175	Public domain	File:Migne - Encyclopédie théologique - Tome 02-3.djvu	| 
+2242x3188	Public domain	File:Dictionnaire de la Bible - F. Vigouroux - Tome IV.djvu	| Dictionnaire en 5 volumes de Fulcran Vigouroux, prêtre de Saint-Sulpice
+1083x1579	Public domain	File:Le livre d'or des familles, ou La Terre-sainte illustrée (IA lelivredordesfam00luth).pdf	| Subjects: genealogy
+1193x1918	Public domain	File:Notionaire, ou mémorial raisonné de ce qu'il y a d'utile et d'intéressant dans les connoissances acquises depuis la création du monde jusqu'à présent (IA b30537599).pdf	| viii, 733 pages, 1 unnumbered leaf : (8vo) De la musique exécutante -- Des instruments de musique -- Du plein-chant Subjects: Musical instru
+1772x2704	Public domain	File:Biographie universelle, ou dictionnaire de tous les hommes qui se sont fait remarquer ... (IA b29333313 0002).pdf	| Subjects:
+1045x1541	Public domain	File:Dictionnaire raisonné du mobilier français de l'époque carlovingienne à la Renaissance (IA gri 33125008700730).pdf	| t. 1. Meubles.--t. 2. Utensiles. Orfévrerie. Instruments de musique. Jeux, passe-temps. Outils, outillage.--t. 3-4. Vêtements, bijoux de cor
+1443x1975	Public domain	File:Les voyages artistiques mis à la portée de tout le monde - Jérusalem & la Palestine (IA lesvoyagesartist00nico).pdf	| At head of title: L'Abbé Nicole Subjects:
+4267x6084	Public domain	File:L’Artiste - journal de la littérature et des beaux-arts, 1847, T8.djvu	| Revue des beaux-arts et des belles-lettres de Paris
+2334x3660	Public domain	File:Péladan - La Décadence latine - Éthopée VI, La Victoire du mari, 1889.djvu	| La Décadence latine - Éthopée VI, La Victoire du mari, Avec commémoration de Jules Barbey d’Aurevilly
+1037x1735	Public domain	File:Debora (IA deboramr01mr).pdf	| Sequel to: La juive au Vatican 31 Subjects:
+1062x2037	Public domain	File:Dictionnaire historique, ou, Histoire abrégée des hommes qui se sont fait un nom par le génie, les talens, les vertus, les erreurs, depuis le commencement du monde jusqu'a n (IA dictionnairehist02fell).pdf	| 8 v Later edition published in 1848 under title: Biographie universelle commitment to retain 20151208 Subjects: Biography -- Dictionaries --
+### Makkabäer Gemälde
+1091x1329	Public domain	File:Museum, Blätter für bildende Kunst, Nr. 24, 16 Juni 1834, 2 Jhrg. - Our Digital Library (IA dlibra.bibliotekaelblaska pl.24.550630).pdf	| Czasopismo niemieckie - tygodnik z dziedziny sztuki, założone przez Franza Kuglera (1808-1858) w 1833 r., ukazywało się do 1837 r. Kugler – 
+### Machabeusze obraz
+1024x712	Public domain	File:Stattler-Machabeusze.jpg	| 
+3888x2592	CC BY-SA 4.0	File:Plafond de la chapelle des Maccabées 3.jpg	| Ceiling of the Maccabees Chapel, Saint-Pierre cathedral, Geneva, Switzerland.
+1920x2560	GFDL	File:Maccabees Shrine Detail02.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail04.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail05.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail06.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail07.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail09.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail10.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail12.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail13.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail14.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail15.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail16.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail18.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail19.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail20.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail21.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail24.JPG	| Maccabees Shrine (Cologne).
+1920x2560	GFDL	File:Maccabees Shrine Detail25.JPG	| Maccabees Shrine (Cologne).
+2560x1920	GFDL	File:Maccabees Shrine Detail28.JPG	| Maccabees Shrine (Cologne).
+2560x1920	GFDL	File:Maccabees Shrine Detail29.JPG	| Maccabees Shrine (Cologne).
+2560x1920	GFDL	File:Maccabees Shrine Detail30.JPG	| Maccabees Shrine (Cologne).
+2560x1920	GFDL	File:Maccabees Shrine Detail31.JPG	| Maccabees Shrine (Cologne).
+2560x1920	GFDL	File:Maccabees Shrine Detail32.JPG	| Maccabees Shrine (Cologne).
+2560x1920	GFDL	File:Maccabees Shrine Detail34.JPG	| Maccabees Shrine (Cologne).
+1200x901	CC0	File:The Maccabees 1.jpg	| Британские музыканты The Maccabees
+4000x2783	Public domain	File:Wojciech Korneli Stattler - The Maccabees - MNK II-a-562 - National Museum Kraków.jpg	| 
+1037x691	CC BY 2.0	File:The Maccabees 01 (19163671901).jpg	| The Maccabees at Gentlemen of the Road Waverly, IA 6/20/15
+### Maccabei dipinto
+2867x4317	Public domain	File:Ida Baccini, La mia vita ricordi autobiografici.djvu	| Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.
+1051x1500	Public domain	File:Bullettino della Società Dantesca Italiana vol. XIII 1906.djvu	| Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.
+2350x3558	Public domain	File:Il Baretti - Anno II, n. 1, Torino, 1925.djvu	| Il Baretti, Anno II, n. 1, a cura di Pietro Gobetti, Unitipografica Pinerolese, Pinerolo 1925
+1543x2260	Public domain	File:Iconologia del cavaliere Cesare Ripa, perugino (IA b30535505 0005).pdf	| 5 volumes : (4to) First published in 1593, without illustrations Includes indexes Subjects: Emblems; Emblems
+1058x1500	Public domain	File:Sculture e pitture sagre estratte dai cimiterj di Roma - pubblicate gia dagli autori della Roma sotterranea ed ora nuovamente date in luce colle spiegazioni per ordine di n. s. Clemente XII .. (IA gri 33125008746287).pdf	| Added t.p., half titles and spine titles: Roma sotterranea Title vignettes, head and tail pieces, initials Imprint varies: v. 2, Nella Stamp
+1085x1550	Public domain	File:Iconologia del cavaliere Cesare Ripa, perugino (IA iconologiadelcav05ripa).pdf	| First published in 1593, without illustrations Includes excerpts from "Geroglifici morali" by Vincenzo Ricci, published in Naples in 1626 En
+1391x1891	Public domain	File:L'arte (IA larte8190unse).pdf	| Imprint varies: Ulrico Hoepli &amp; Danesi, 1900-1904; Dell'Unione cooperativa editrice, 1905; Casa editrice de l'arte, 1906-1929; Torino : 
+1314x1879	Public domain	File:Leonardo da Vinci (IA leonardodavinci1187tipo).pdf	| 9 v. : v. 1: 31-38 cm "Periodico illustrato di educazione e diletto." Subjects: Leonardo, da Vinci, 1452-1519 -- Periodicals
+1029x1477	Public domain	File:Relazione dei lavori eseguiti dall'Ufficio nel quadriennio 1899-902 (i.e 1899-1902) (IA relazionedeilavo00uffi).pdf	| At head of title: Ufficio tecnico per la conservazione dei monumenti de roma e provincia e delle provincie di Aquila e Chieti Subjects: Uffi
+1072x1443	Public domain	File:Spiegazione del funerale celebrato da molti cittadini di Bologna insieme uniti per la morte del marchese Antonio Felice Monti, cavaliere dell'ordine dello Spirito Santo (IA spiegazionedelfu00dall).pdf	| Page [1] at end: Imprimatur Signatures: A² Subjects: Monti, Antonio Felice, 1681-1738; Festivals
+1100x1416	Public domain	File:Del Tesoro Britannico, Part I. overo Il Museo Nummario, ove si contengono le Medaglie Greche e Latine in ogni metallo e forma, non prima pubblicate, Vol. I (IA dli.granth.74734).pdf	| Source: Asiatic Society of MumbaiIdentifier: BK_00082074Digitization Sponsor: Government of Maharashtra Original Source: &lt;a href="https:/
+1733x2225	Public domain	File:Esaminatore Friulano 21-09-1876 (IA EsaminatoreFriulano21-09-1876).pdf	| Esaminatore Friulano - Periodico settimanale politico religioso Subjects: Friuli; Periodico;
+1272x1791	Public domain	File:Il buon cuore - Anno XIII, n. 37 - 14 novembre 1914.pdf	| 
+### Eleazar martyr painting
+3456x2304	CC BY 3.0	File:Pilastro con icone, 600-650 ca. 03 solomone e i maccabei.jpg	| Santa Maria Antiqua (Rome) - Interior
+1297x2047	Public domain	File:Earthlings (IA earthlings00king).pdf	| (In Lippincott's Monthly Magazine. Philadephia, 1888. 23 cm. v. 42, p. [599]-679) Subjects:
+1056x1481	Public domain	File:A history of the parish of Trinity Church in the city of New York (IA historyofparisho00dixm 0).pdf	| Pt.5 compiled by John A. Dix, edited by Leicester C. Lewis, and published for Trinity Church by Columbia University Press; pt.6 by Charles T
+1054x1468	undefined	File:Ecclesiastical dictionary - containing in concise form information upon ecclesiastical, biblical, and historical subjects (IA ecclesiasticaldi00theiuoft).pdf	| 
+### Fugel Makkabäer
