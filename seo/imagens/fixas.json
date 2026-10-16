@@ -1,5 +1,8 @@
 {
- "ladainhas/ladainha-da-humildade": "File:Jacopo Tintoretto - Christ washing the Feet of the Disciples - Google Art Project.jpg",
+ "ladainhas/ladainha-da-humildade": {
+  "arquivo": "File:Giotto di Bondone - No. 30 Scenes from the Life of Christ - 14. Washing of Feet - WGA09215.jpg",
+  "alt": "Jesus lava os pés dos apóstolos, afresco de Giotto na Capela Scrovegni"
+ },
  "ladainhas/ladainha-do-espirito-santo": "File:Bohemian Master - The Pentecost - Google Art Project.jpg",
  "ladainhas/ladainha-de-santa-luzia": "File:Lorenzo Lotto - Pala di Santa Lucia (Pinacoteca Civica, Jesi).jpg",
  "ladainhas/ladainha-do-santissimo-sacramento": "File:La Última Cena (Juan de Juanes) (restaurada).jpg",
@@ -437,16 +440,16 @@
   "alt": "Igreja matriz de São Tiago, em Moncada, vila do milagre eucarístico de 1392"
  },
  "milagres-eucaristicos/milagre-eucaristico-de-onil-espanha": {
-  "arquivo": "File:Vista d'Onil des del castell de Castalla.jpg",
-  "alt": "Vista de Onil, em Alicante, cidade do milagre eucarístico de 1824"
+  "arquivo": "File:Iglesia de Santiago Apóstol de Onil, Alicante 01.jpg",
+  "alt": "Igreja paroquial de Santiago Apóstolo, em Onil (Alicante), cidade do milagre eucarístico"
  },
  "milagres-eucaristicos/milagre-eucaristico-de-morne-rouge-martinica": {
-  "arquivo": "File:Mount Pelée 1902 - Morne Rouge.jpg",
-  "alt": "Morne-Rouge em 1902, ano da erupção do Monte Pelée ligada ao milagre eucarístico"
+  "arquivo": "File:ND Délivrande Morne-Rouge 1.jpg",
+  "alt": "Fachada e torre da igreja Notre-Dame de la Délivrande, em Morne-Rouge, na Martinica"
  },
  "milagres-eucaristicos/milagre-eucaristico-de-silla-espanha": {
-  "arquivo": "File:Port de Silla, 4.jpg",
-  "alt": "Barcas no Port de Silla, canal da Albufera no município de Silla (Valência), cidade do milagre de 1907"
+  "arquivo": "File:Silla Valencia 03.JPG",
+  "alt": "Torre sineira e cúpula da igreja paroquial de Silla, em Valência"
  },
  "milagres-eucaristicos/milagre-eucaristico-de-canosio-italia": {
   "arquivo": "File:Lago della Meja.jpg",
@@ -529,8 +532,8 @@
   "alt": "Casamento de Tobias e Sara, do livro de Tobias, pintura de Jan Steen"
  },
  "casamento/segunda-leitura-para-casamento": {
-  "arquivo": "File:Manuscript Leaf with the Opening of the Epistle of Saint Paul to the Ephesians, from a Bible MET sf1998-538-2s1.jpg",
-  "alt": "Folha de Bíblia medieval iluminada com o início da Carta de São Paulo aos Efésios"
+  "arquivo": "File:Saint Paul, attributed to Bartolomé Esteban Murillo (1617–1682).jpg",
+  "alt": "São Paulo Apóstolo com o livro de suas cartas e a espada, pintura atribuída a Murillo"
  },
  "casamento/1-corintios-13-no-casamento": {
   "arquivo": "File:Valentin de Boulogne - Saint Paul Writing His Epistles - BF.1991.4 - Museum of Fine Arts.jpg",
@@ -625,8 +628,8 @@
   "alt": "Sacramento da Crisma ministrado pelo bispo, pintura de Nicolas Poussin"
  },
  "casamento/certidao-de-batismo-para-casamento": {
-  "arquivo": "File:Baptême de Louis Martin.jpg",
-  "alt": "Página manuscrita de livro de batismos de 1823, com o registro de São Luís Martin"
+  "arquivo": "File:Baptismal font of Saint-Sernin.jpg",
+  "alt": "Pia batismal de bronze na Basílica de Saint-Sernin, em Toulouse"
  },
  "casamento/casamento-religioso-com-efeito-civil": {
   "arquivo": "File:Die Gartenlaube (1891) b 040.jpg",
@@ -763,5 +766,61 @@
  "novenas/novena-a-sao-benedito": {
   "arquivo": "File:Sant'Antonio di Padova (Palermo) 14 07 2024 09.jpg",
   "alt": "Imagem de São Benedito com o Menino Jesus nos braços, em igreja de Palermo, na Sicília"
+ },
+ "duvidas-da-fe/ato-penitencial-da-missa": {
+  "arquivo": "File:Confiteor at Tridentine Mass.jpg",
+  "alt": "Sacerdote e ministros inclinados ao pé do altar rezando o Confiteor no início da Missa"
+ },
+ "duvidas-da-fe/como-a-missa-e-dividida-estrutura-e-partes-explicadas": {
+  "arquivo": "File:Traditional Latin Mass - Elevation.jpg",
+  "alt": "Sacerdote eleva a Hóstia consagrada diante do altar durante a Missa"
+ },
+ "duvidas-da-fe/o-que-e-o-sacrario-e-por-que-a-lampada-fica-acesa": {
+  "arquivo": "File:Saint Matthias Catholic Church (Columbus, Ohio) -tabernacle.JPG",
+  "alt": "Sacrário iluminado com a lâmpada vermelha do Santíssimo acesa ao lado, em igreja católica"
+ },
+ "ladainhas/ladainha-de-sao-luis-maria-grignion-de-montfort": {
+  "arquivo": "File:Chanzeaux (49) Église Saint-Pierre - Intérieur - Baie 119-3.jpg",
+  "alt": "Vitral de São Luís Maria Grignion de Montfort com crucifixo e rosário, igreja de Chanzeaux"
+ },
+ "milagres-eucaristicos/o-milagre-eucaristico-de-lanciano": {
+  "arquivo": "File:Miracolo Eucaristico di Lanciano - foto dal vivo.JPG",
+  "alt": "Relicário de prata com a Hóstia-carne e o cálice com o Sangue do milagre de Lanciano"
+ },
+ "primeiros-passos/como-comecar-a-ler-a-biblia": {
+  "arquivo": "File:Albert Anker Ältere Frau in der Bibel lesend 1904.jpg",
+  "alt": "Senhora idosa lendo a Bíblia com atenção, pintura de Albert Anker (1904)"
+ },
+ "sacramentos/batismo-de-adulto-na-igreja-catolica-passo-a-passo": {
+  "arquivo": "File:Erwachsenentaufe Neviges 2023.jpg",
+  "alt": "Batismo de adultos na Vigília Pascal de 2023 na catedral mariana de Neviges, Alemanha"
+ },
+ "sacramentos/o-batismo-significado-rito-e-gracas": {
+  "arquivo": "File:Chiesa di San Canciano - baptismal font.jpg",
+  "alt": "Pia batismal de mármore com tampa dourada na igreja de San Canciano, em Veneza"
+ },
+ "santos-e-oracoes/beata-nha-chica-a-santa-mineira": {
+  "arquivo": "File:Foto da Beata Nhá Chica.jpg",
+  "alt": "Fotografia antiga da Beata Nhá Chica, sentada, com véu e vestido claro"
+ },
+ "santos-e-oracoes/profeta-elias-o-profeta-de-fogo": {
+  "arquivo": "File:Giuseppe Angeli, Elijah Taken Up in a Chariot of Fire, c. 1740-1755, NGA 41685.jpg",
+  "alt": "Elias arrebatado ao céu num carro de fogo diante de Eliseu, pintura de Giuseppe Angeli"
+ },
+ "santos-e-oracoes/santa-dulce-dos-pobres-anjo-bom-da-bahia": {
+  "arquivo": "File:Imagem de Santa Dulce dos Pobres - Santuário Santa Paulina.jpg",
+  "alt": "Imagem de Santa Dulce dos Pobres de hábito azul e branco, com crianças junto a si"
+ },
+ "santos-e-oracoes/sao-cosme-e-sao-damiao-os-santos-medicos": {
+  "arquivo": "File:SS. Cosmas and Damian dressing a chest wound. Oil painting. Wellcome L0010257.jpg",
+  "alt": "São Cosme e São Damião tratam a ferida de um doente, pintura de Antoine de Favray"
+ },
+ "santos-e-oracoes/sao-leao-magno-papa-e-doutor": {
+  "arquivo": "File:Herrera Mozo – Pope St. Leo the Great.jpg",
+  "alt": "São Leão Magno com a tiara papal e o báculo, pintura de Francisco de Herrera, o Moço (Prado)"
+ },
+ "santos-e-oracoes/sao-oscar-romero-martir-da-justica": {
+  "arquivo": "File:Mural Oscar Romero UES.jpg",
+  "alt": "Mural de São Óscar Romero de batina e cruz peitoral, na Universidade de El Salvador"
  }
 }
