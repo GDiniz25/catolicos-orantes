@@ -33,385 +33,107 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/nv_rafael	2647x3118	Public domain	Titian	File:Titian - L'arcangelo Raffaele e Tobiolo.jpg
-   DESC: Tobias and the Angel
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Photos by User:M0tty | Taken with Canon EOS 450D | The Archangel Raphael and Tobias by Titian (Gallerie dell'Accademia, Venice)
+OK	fr/nv_parto1	1000x1260	Public domain	Piero della Francesca	File:Piero della Francesca - Madonna del Parto - WGA17613.jpg
+   DESC: 
+   CATS: CC-PD-Mark | Images from Web Gallery of Art | Madonna del Parto by Piero della Francesca | PD-Art (PD-old-100) | Paintings without Wikidata item | WGA School: Italian | WGA files missing P6243 property | WGA form: painting | WGA time period: 1451-1500 | WGA type: religious
    LICURL:  USAGE: Public domain
-OK	fr/nv_rafael2	5529x7769	Public domain	Filippino Lippi	File:Tobias and the Angel - Filippino Lippi.jpg
-   DESC: National Gallery of Art Scan
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Featured pictures on Wikipedia, English | Featured pictures on Wikipedia, Persian | Files with Assessments template missing SDC Commons no value quality assessment | Images from the National Gallery of Art | Old Testament paintings in the National Gallery of Art | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings
-   LICURL:  USAGE: Public domain
-OK	fr/nv_expedito	1360x2048	CC BY-SA 3.0	José Luiz	File:Saint Expeditus na Igreja da Conceição Velha - Lisbon.JPG
-   DESC: Imagem de Santo Expedito na Igreja da Conceição Velha
-   CATS: CC-BY-SA-3.0 | Information field template with formatting | Interior of Igreja de Nossa Senhora da Conceição Velha | José Luiz uploads | Self-published work | Statues of Saint Expeditus | Taken with Canon EOS 300D
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/nv_expedito2	1391x2423	CC BY 3.0	Piotr Rymuza	File:The statue of St. Expeditus.jpg
-   DESC: The statue of St. Expeditus from the Holy Saviour Church in Warsaw
-   CATS: Aediculae in Warsaw | CC-BY-3.0 | Files with coordinates missing SDC location of creation | Salvator church in Warsaw | Self-published work | Statues of Christian saints in Warsaw | Statues of Saint Expeditus
+OK	fr/nv_parto2	2806x3600	CC BY-SA 4.0	Aliasflaubert	File:Madonna-del-Parto.jpg
+   DESC: Fresque de Piero della Francesca datant de 1460 et représentant la Vierge Marie enceinte, désignant son ventre de la main droite
+   CATS: CC-BY-SA-4.0 | Madonna del Parto by Piero della Francesca | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nv_parto3	2080x2688	CC BY 3.0	sailko	File:Piero della francesca, Madonna del Parto, 1455 ca. 01.JPG
+   DESC: 
+   CATS: All media supported by Wikimedia CH | Artworks with Wikidata item | CC-BY-3.0 | Images by Sailko - Supported by Wikimedia CH | Madonna del Parto by Piero della Francesca | Pages with complex technique templates | Photographs by User:Sailko | Photographs of paintings by User:Sailko | Self-published work
    LICURL: https://creativecommons.org/licenses/by/3.0 USAGE: Creative Commons Attribution 3.0
-OK	fr/nv_jorge	1853x2362	Public domain	Rogier van der Weyden	File:Rogier van der Weyden - Saint George and the Dragon, NGA, Washington.jpg
-   DESC: Saint George and the Dragon
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Saint George and the Dragon (1966.1.1)
-   LICURL:  USAGE: Public domain
-OK	fr/nv_carmo	2396x3967	Public domain	Sebastian Stettner	File:Stetner - Madonna with the Scapular, 1740.jpg
-   DESC: Our Lady of Mount Carmel - Madonna with the Scapular. Madonna extradites the scapular to St Simeon Stoke
-   CATS: 1740 paintings | 1740s paintings in Hungary | 1740s religious paintings | 18th-century paintings in the Budapest Historical Museum | 18th-century paintings of Madonna and Child | 18th-century religious paintings in Hungary | Artworks without Wikidata item | CC-PD-Mark | Creator templates with redirected Wikidata link | PD-Art (PD-old-100) | PD-self | Paintings by Sebastian Stetner | Paintings of Madonna and Child in Hungary | Paintings of Our Lady of Carmel presenting the scapular to Saint Simon
-   LICURL:  USAGE: Public domain
-OK	fr/nv_dores	2830x2954	Public domain	Guido Reni	File:Reni, Guido - Mater Dolorosa - Google Art Project.jpg
-   DESC: Our Lady of Sorrows
-   CATS: 17th-century religious paintings in the United Kingdom | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Files from Google Arts & Culture | Google Art Project paintings | Google Art Project works by Guido Reni | Google Art Project works in Dulwich Picture Gallery | PD-Art (PD-old-100-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings by Guido Reni in t
-   LICURL:  USAGE: Public domain
-OK	fr/nv_dores2	2480x3600	Public domain	Workshop of El Greco	File:El Greco - Mater Dolorosa (Gemäldegalerie, Berlin).jpg
-   DESC: Our Lady of Sorrows
-   CATS: 16th-century paintings of Mater dolorosa | 16th-century religious paintings in the Gemäldegalerie, Berlin | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Mater Dolorosa (El Greco) | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings of Mater dolorosa in Germany | Spanish paintings in the Gemäldegalerie, Berlin
-   LICURL:  USAGE: Public domain
-OK	fr/nv_majela	2304x3072	Public domain	Vito Calise	File:San Gerardo Maiella.jpg
-   DESC: San Gerardo Maiella, chiesa di Santa Brigida, Napoli, opera anteriore al 1905.
-   CATS: PD-self | Self-published work | Statues of Gerard Majella | Taken with Vivitar ViviCam 7340
-   LICURL:  USAGE: Public domain
-OK	fr/nv_miseric	4553x7680	Public domain	Eugeniusz Kazimirowski	File:Divina Misericordia (Eugeniusz Kazimirowski, 1934).jpg
-   DESC: Divine Mercy. Painting in Divine Mercy Sanctuary in Vilnius
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | CC-PD-Mark | Jesus, I Trust in You painting by Eugeniusz Kazimirowski | PD-1996 (with a reason) | PD-Art (PD-old-auto-1996) | PD-old-80-1996
-   LICURL:  USAGE: Public domain
-OK	fr/nv_monica	3520x4500	Public domain	Ary Scheffer	File:Scheffer, Ary - Saint Augustin et Sainte Monique - 88.45 - Musée de la Vie romantique.jpg
+OK	fr/nv_charbel3	3442x5163	CC BY-SA 4.0	JackyM59	File:St Charbel.jpg
+   DESC: Statue de Saint Charbel dans l'église d'Aniche
+   CATS: CC-BY-SA-4.0 | Charbel | Files with coordinates missing SDC location of creation (50° N, 3° E) | Self-published work | Statues of Saint Charbel | Église Saint-Martin d'Aniche
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nv_charbel4	3163x2393	CC BY-SA 4.0	RomanDeckert	File:TyreSourLebanon MaroniteSanctuaireDesSaintsMartyrsDeTyr RomanDeckert01112019.jpg
+   DESC: A portrait of Saint Charbel Makhlouf seen from the "Sanctuary of Holy Martyrs" underneath the Maronite Cathedral "Our Lady of the Seas" in Tyre/Sour, Southern Lebanon
+   CATS: CC-BY-SA-4.0 | Charbel | Sanctuaire Des Saints Martyrs De Tyr | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nv_dulce3	3120x4160	CC BY-SA 4.0	Eugenio Hansen, OFS	File:Santa Dulce dos Pobres.jpg
+   DESC: Santa Dulce dos Pobres
+   CATS: CC-BY-SA-4.0 | Capela da Universidade São Judas Tadeu | Files by Eugenio Hansen | Irmã Dulce | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nv_dulce4	3120x4160	CC BY-SA 4.0	Eugenio Hansen, OFS	File:Santa Dulce dos Pobres 0.jpg
+   DESC: Santa Dulce dos Pobres
+   CATS: CC-BY-SA-4.0 | Capela da Universidade São Judas Tadeu | Files by Eugenio Hansen | Irmã Dulce | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nv_dulce5	2000x3008	CC BY-SA 2.0	Turismo Bahia	File:Memorial Irmã Dulce 2.jpg
+   DESC: Memorial Irmã Dulce. Foto: Rita Barreto - Setur
+   CATS: CC-BY-SA-2.0 | Flickr files uploaded by User:Luan | Flickr images reviewed by FlickreviewR | Images from Turismo Bahia | Memorial Irmã Dulce | Taken with Nikon D50
+   LICURL: https://creativecommons.org/licenses/by-sa/2.0 USAGE: Creative Commons Attribution-Share Alike 2.0
+OK	fr/nv_edw2	3148x4447	Public domain	Court workshop of Duke Ludwig I of Liegn	File:Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish - Saint Hedwig of Silesia with Duke Ludwig of Legnica and Brieg and Duchess Agnés - Google Art Project.jpg
    DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Images from Paris Musées | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings of musée de la Vie romantique | Religious paintings by Ary Scheffer
+   CATS: Agnes of Głogów-Żagań, Duchess of Legnica-Brzeg | Artworks with known accession number | Artworks without Wikidata item | CC-PD-Mark | Files from Google Arts & Culture | Google Art Project works by Court workshop of Duke Ludwig I the Fair | Google Art Project works in The J. Paul Getty Museum | Images with extracted images | Ludwik I the Fair in miniature | MS. LUDWIG XI 7 (Getty museum) - Hedwig Codex | PD-Art (PD-old-100-expired) | PD-old-100-expired | Portraits with patron saints | Unsupporte
    LICURL:  USAGE: Public domain
-OK	fr/nv_charbel	4000x6000	CC BY-SA 4.0	FOSS-the-world	File:Statue of St. Charbel.jpg
-   DESC: Statue of St. Charbel Makhlouf in Faraya, Lebanon and visitors of the monument.
-   CATS: CC-BY-SA-4.0 | Christian statues | Colossal statues in Lebanon | Saints | Self-published work | Statues of Saint Charbel | Statues of men in Lebanon
+OK	fr/nv_edw3	2177x2731	Public domain	Unknown artistUnknown artist (Master of 	File:HedwigAltar.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | Bascinets in art of the 1430s | Battle of Legnica | CC-PD-Mark | Chichaks in art | Frog-mouth helmets in art of the 1430s | Kettle hats in art of the 1430s | PD-Art (PD-old-100) | Saint Hedwig Altar | Template Unknown (artist)
+   LICURL:  USAGE: Public domain
+OK	fr/nv_edw4	1000x1427	Public domain	AnonymousUnknown author	File:Hedwig von Schlesien.jpg
+   DESC: Miniatur, 1353, Schlackenwerther Codex, die erste deutsche Übersetzung der Hedwigslegende
+   CATS: 1353 works in Europe | Agnes of Głogów-Żagań, Duchess of Legnica-Brzeg | CC-PD-Mark | Christian rosaries in art | Dimensions of people | Ludwik I the Fair in miniature | MS. LUDWIG XI 7 (Getty museum) - Hedwig Codex | PD-Art (PD-old-100-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings of Saint Hedwig of Andechs | Paintings of women holding books | Women kneeling in art | Women looking down in art
+   LICURL:  USAGE: Public domain
+OK	fr/nv_majela2	3648x5472	CC BY-SA 4.0	Etienne5962	File:Autel de Saint Gérard Majella dans l'église Saint-Piat de Roncq - 07 - Statue de Saint Gérard Majella.jpg
+   DESC: Autel de Saint Gérard Majella dans l'église Saint-Piat de Roncq - Statue de Saint Gérard Majella
+   CATS: Altar of Saint Gérard Majella in Église Saint-Piat de Roncq | CC-BY-SA-4.0 | Self-published work | Statues and sculptures in église Saint-Piat de Roncq
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/nv_charbel2	4608x3072	CC BY-SA 4.0	LLEW	File:St Charbel Makhlouf Annaya.jpg
-   DESC: Klasztor w Annaya
-   CATS: Annaya | CC-BY-SA-4.0 | Maronite Catholic churches in Lebanon | Maronite Catholic eparchies | Saint Charbel churches | Self-published work
+OK	fr/nv_majela3	1474x2022	Public domain	AnonymousUnknown author photographer	File:Photograph of a statue of Saint Gerard Majella Cuypershuis 0694a (04).jpg
+   DESC: Foto van een standbeeld van de heilige Gerardus Majella. Afkomstig uit een verzamelmap met 98 foto's van producten uit de Kunstwerkplaatsen Cuypers &amp; Co. (Cuypershuis, inventarisnummer 0694a).
+   CATS: Artworks main subject 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing artist | Artworks with Wikidata item missing genre | Artworks with Wikidata item missing medium | Artworks with known accession number | CC-PD-Mark | PD-old missing SDC copyright status | PD Old | Photographs in the Cuypershuis of statues | Statues by the Kunstwerkplaatsen Cuypers & Co. | Statues of Gerard Majella | Template Unknown (other) | Template Unknown (unspecified)
+   LICURL:  USAGE: Public domain
+OK	fr/nv_xavier2	6589x8402	Public domain		File:Franciscus de Xabier.jpg
+   DESC: Franz Xaver
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing medium | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Files with no machine-readable author | Images with extracted images | PD-Art (PD-old-100-expired) | PD-old-100-expired | Portrait of St. Francis Xavier (Kobe City Museum) | Template Unknown (author)
+   LICURL:  USAGE: Public domain
+OK	fr/nv_ps1	4000x3000	CC BY-SA 4.0	LMP 2001	File:Our Mother of Perpetual Help closeup 2023-06-14.jpg
+   DESC: Closeup view of the Our Mother of Perpetual Help image at Baclaran Church.
+   CATS: CC-BY-SA-4.0 | Files with coordinates missing SDC location of creation | Interior of the Baclaran Church | Our Lady of Perpetual Help icons in the Philippines | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/nv_edwiges	3304x4046	Public domain	Unknown authorUnknown author	File:Legend of Saint Hedwig of Silesia Triptych (wings).jpg
-   DESC: wings of the Legend of Saint Hedwig Triptych
-   CATS: CC-PD-Mark | PD-Art (PD-old) | PD-Art missing SDC copyright status | PD-old missing SDC copyright status | Saint Hedwig Altar | Template Unknown (author)
-   LICURL:  USAGE: Public domain
-OK	fr/nv_cosme	3008x3760	Public domain	Unknown authorUnknown author	File:Saints Cosmas and Damian icon, Syria (1778).jpg
-   DESC: Saints Saints Cosmas and Damian icon
-   CATS: 1778 paintings | 18th-century icons | Artworks without Wikidata item | Icons of Cosmas and Damian | Icons of Syria | Icônes arabes: art chrétien du Levant (2003) | One hundred Icon project | PD-Ottoman | Template Unknown (author) | Works by Michel Bakni
-   LICURL:  USAGE: Public domain
-OK	fr/nv_dulce	1018x1285	CC BY-SA 3.0	André Koehne	File:Irmã Dulce.jpg
-   DESC: Irmã Dulce
-   CATS: CC-BY-SA-2.5,2.0,1.0 | CC-BY-SA-3.0-migrated | Drawings by André Koehne | GFDL | Irmã Dulce | License migration redundant | Self-published work | Sent by André Koehne
-   LICURL: http://creativecommons.org/licenses/by-sa/3.0/ USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/nv_dulce2	4160x3120	CC0	PetrusTemplarii	File:Imagem de Santa Dulce dos Pobres - Santuário Santa Paulina.jpg
-   DESC: Imagem de Santa Dulce dos Pobres no Oratório dedicado aos Três Santos Brasileiros, no Santuário Santa Paulina.
-   CATS: CC-Zero | Files with coordinates missing SDC location of creation | Irmã Dulce | Oratório dedicado aos três Santos Brasileiros | Self-published work
+OK	fr/nv_ps2	1636x1861	CC0	Ihavearidiculousname	File:Nuestra Señora del Perpetuo Socorro de Baclaran, 2024.jpg
+   DESC: Captured icon when it was brought down from her altar until her feast day in June.
+   CATS: Baclaran Church | CC-Zero | Our Lady of Perpetual Help icons | Self-published work
    LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/nv_pio	1470x2250	Public domain	Muschio Di Quercia (photo of a photo), F	File:Padre Pio da Pietrelcina.jpg
-   DESC: Padre Pio da Pietralcina
-   CATS: 1947 in Italy | CC-BY-3.0 | PD-1996 | PD Italy (20 years after creation) | Portrait photographs of Padre Pio | Self-published work | Taken with Huawei MediaPad M2 10.0
+OK	fr/nv_ps3	3000x3688	Public domain	LimosaCorel	File:Our Holy Mother Of Perpetual Succour.jpg
+   DESC: Actual poster of the Our Mother of Perpetual Help scanned digitally for public distribution from the Redemptorist Priests in Baclaran, Rizal, Philippines. Bought for 100 pesos at their market. Cleaner photo, restored.
+   CATS: CC-PD-Mark | Our Lady of Perpetual Help icons | PD-Art (PD-old-100) | PD-Art missing SDC copyright status | PD-old missing SDC copyright status
    LICURL:  USAGE: Public domain
-OK	fr/nv_camilo	2917x4001	Public domain	Cristóbal Lozano	File:Cristóbal Lozano - Ecstasy of Saint Camillus de Lellis - Google Art Project.jpg
-   DESC: 
-   CATS: 1760s religious paintings | 1762 oil on canvas paintings | 18th-century paintings of cherub heads | 18th-century paintings of male saints | 18th-century religious paintings in Peru | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | Artworks with known accession number | CC-PD-Mark | Cristóbal Lozano | Files from Google Arts & Culture | Google Art Project paintings | Google Art Project works by Cristóbal Lozano | Google Art Pro
-   LICURL:  USAGE: Public domain
-OK	fr/nv_auxil	2848x4288	Public domain	Tommaso Andrea Lorenzone (1824-1902), at	File:María Auxiliadora Entera.jpg
-   DESC: Painting of Mary Help of Christians. Located in the Basilica of Our Lady Help of Christians, Turin, Italy.
-   CATS: 1860s religious paintings | 1865 paintings in Italy | 19th-century paintings in Turin | 19th-century paintings of Madonna and Child in Italy | 19th-century religious paintings in Italy | CC-PD-Mark | Maria Ausiliatrice (Turin) - Interior | Mary Help of Christians | PD-Art (PD-old-auto) | PD-old-100 | Salesians of Don Bosco | Tommaso Lorenzone
-   LICURL:  USAGE: Public domain
-OK	fr/nv_auxil2	2304x3072	CC BY-SA 3.0	Stebunik	File:Mary Torino.jpg
-   DESC: Tomaso Lorenzone: Picture of Mary Help of Christians in Valdocco, Torino (1868)
-   CATS: CC-BY-SA-3.0 | Maria Ausiliatrice (Turin) - Interior | Paintings in Turin | Reredos in Italy | Self-published work | Taken with Nikon Coolpix L5 | Tommaso Andrea Lorenzone
-   LICURL: https://creativecommons.org/licenses/by-sa/3.0 USAGE: Creative Commons Attribution-Share Alike 3.0
-OK	fr/nv_xavier	1662x2522	Public domain	Attributed to Giuseppe Vermiglio	File:Giuseppe Vermiglio (attr) Saint Francis Xavier (cropped).jpg
-   DESC: Der heilige Franz Xaver, Öl auf Leinwand, achteckig, 82 x 72 cm, Zuschreibung an Vermiglio vorgeschlagen durch Vilmos Tátrai
-   CATS: 17th-century paintings of Francis Xavier | CC-PD-Mark | Extracted images | Images from Dorotheum | Octagonal paintings | PD-Art (PD-old-100-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings by Giuseppe Vermiglio | Paintings in unidentified private collections
-   LICURL:  USAGE: Public domain
-OK	fr/nv_purg	2393x3200	Public domain	Luca Giordano	File:Luca Giordano - Madonna and Child with Souls in Purgatory - BF.2004.1 - Museum of Fine Arts.jpg
-   DESC: Madonna and Child
-   CATS: 1660s paintings of Madonna and Child | 17th-century paintings of Madonna and Child in the Museum of Fine Arts, Houston | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings of Madonna and Child by Luca Giordano | Paintings of Madonna and Ch
-   LICURL:  USAGE: Public domain
-OK	fr/nv_purg2	2357x3177	Public domain	Unknown authorUnknown author	File:Virgin of Carmel Saving Souls in Purgatory - Google Art Project.jpg
-   DESC: 
-   CATS: 17th-century paintings in the Brooklyn Museum | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Files from Google Arts & Culture | Google Art Project paintings | Google Art Project works by unknown artist | Google Art Project works in Brooklyn Museum | PD-Art (PD-old-100-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings of Madonna and Child in the Bro
-   LICURL:  USAGE: Public domain
-OK	fr/nv_rosario	7276x9992	Public domain		File:(Castres) La Vierge au chapelet - Murillo - Musée Goya.jpg
-   DESC: 
-   CATS: (Castres) Murillo - La Vierge au chapelet - Musée Goya | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-BY-SA-4.0 | CC-PD-Mark | Files with coordinates missing SDC location of creation | Images by Archaeodontosaurus Musée Goya | March 2024 in Tarn | PD-old-100-expired | Photographs taken on 2024-03-27 | Valued Images by Archaeodontosaurus | Valued Images by Archaeodontosaurus Cast
-   LICURL:  USAGE: Public domain
-OK	fr/nv_barbara	1720x2301	Public domain	Parmigianino	File:Parmigianino - Saint Barbara - c. 1522.jpg
-   DESC: 
-   CATS: 1520s paintings from Italy | 1520s paintings in Spain | 1520s religious paintings | 1521 paintings | 1522 paintings | 1523 paintings | 16th-century paintings of Christian saints | 16th-century religious paintings in Spain | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | Baroque paintings of women | CC-PD-Mark | File uploads by User:Mattes (flat) | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-exp
-   LICURL:  USAGE: Public domain
-OK	fr/nv_cristovao	2024x2520	Public domain	Konrad Witz	File:Konrad Witz 004.jpg
-   DESC: 
-   CATS: 1430s religious paintings | 15th-century paintings of Saint Christopher | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Gothic paintings in Switzerland | Gothic religious paintings | PD-Art (PD-old-100-expired) | PD-Art (Yorck Project) | PD-old-100-expired | Saint Christopher by Konrad Witz
-   LICURL:  USAGE: Public domain
-OK	fr/nv_cristovao2	3990x6350	Public domain	Hieronymus Bosch	File:Jheronimus Bosch - Saint Christopher - Google Art Project.jpg
-   DESC: 
-   CATS: 1500 oil on panel paintings | 1500s paintings in the Netherlands | 1500s religious paintings | 16th-century paintings of Saint Christopher | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Google Art Project works by Hieronymus Bosch | Google Art Project works in Museum Boijmans Van Beuningen | Middeleeuwse Kunst der Noordelijke Nederlanden Rijksmuseum Amsterdam 1958 | Mu
-   LICURL:  USAGE: Public domain
-OK	fr/nv_benedito	1536x2048	CC BY-SA 4.0	Marcosviniciusrs	File:2024.05.21 São Benedito Pirenópolis 05.jpg
-   DESC: Imagem de São Benedito, peça barroca do século XVIII, pertencente a Irmandade São Benedito, venerada no Juizado na Igreja Matriz de Pirenópolis
-   CATS: CC-BY-SA-4.0 | Churches in Pirenópolis | Files with coordinates missing SDC location of creation | Paróquia Nossa Senhora do Rosário (Pirenópolis) | Self-published work
+OK	fr/nv_ps4	4000x6016	CC BY-SA 4.0	Livioandronico2013	File:Decoration and mosaic above the door of Sant'Alfonso de Liguori (Rome).jpg
+   DESC: Decoration and mosaic above the door of Sant'Alfonso de Liguori (Rome)
+   CATS: CC-BY-SA-4.0 | Mosaics of Our Lady of Perpetual Help | Quality images | Quality images by Livioandronico2013 | Quality images of Rome | Sant'Alfonso de Liguori (Rome) | Self-published work
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/nv_benedito2	2432x4320	CC0	Effems	File:Sant'Antonio di Padova (Palermo) 14 07 2024 09.jpg
-   DESC: Statua raffigurante San Benedetto il Moro.
-   CATS: CC-Zero | Sant'Antonio di Padova (Palermo) - Statues | Sculptures of Benedict the Moor | Self-published work
+OK	fr/nv_ps5	2203x2392	CC BY-SA 4.0	Adrian Tync	File:Piekary Slaskie Our Lady of Perpetual Help church icon copy.jpg
+   DESC: obraz w ołtarzu kościoła Matki Bożej Nieustającej Pomocy w Piekarach Śląskich, jest to obraz wzorowany na rzymskiej ikonie Matki Bożej Nieustającej Pomocy
+   CATS: Ave Maria (inscription) | CC-BY-SA-4.0 | Files with coordinates missing SDC location of creation | Images by Gower | Our Lady of Perpetual Help church in Piekary Śląskie | Our Lady of Perpetual Help icons in Poland | Poland photographs taken on 2018-09-20 | Self-published work | September 2018 in Silesian Voivodeship
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/nv_sf1	2788x2079	CC0	Giovanni Battista Salvi da Sassoferrato	File:Holy family Sassoferrato Condé Chantilly.jpg
+   DESC: Holy Family
+   CATS: 1640s religious paintings in France | 17th-century oil on canvas paintings in France | 17th-century paintings of Holy Family | 17th-century religious paintings in the Musée Condé | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | Base Joconde | CC-Zero | Files with coordinates missing SDC location of creation (49° N, 2° E) | Italian Baroque paintings in France | Mur de la peinture italienne - Galerie de peinture du château de Chant
    LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/nv_bomparto	2752x3624	CC BY-SA 4.0	RickMorais	File:Nossa Senhora da Piedade (do espólio da antiga Igreja do Carmo, venerada como a Senhora do Bom Parto) - Igreja do Santíssimo Sacramento (2020-02-26).png
-   DESC: Our Lady of Piety, from the old Igreja do Carmo, and also venerated as Our Lady of Good Birth, in the Igreja do Santíssimo Sacramento, Lisbon, Portugal.
-   CATS: CC-BY-SA-4.0 | Interior of Igreja do Santíssimo Sacramento | Photographs by Ricardo Bettencourt Morais | Portugal photographs taken on 2020-02-26 | Self-published work | Statues of Pietà in Portugal
-   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-### Our Mother of Perpetual Help icon
-1020x764	CC BY 2.0	File:Our Lady of Perpetual Help.jpg	| Shrine of Our Lady of Perpetual Help, San Luis Potosi city, San Luis Potosi state, Mexico
-3000x3688	Public domain	File:Our Holy Mother Of Perpetual Succour.jpg	| Actual poster of the Our Mother of Perpetual Help scanned digitally for public distribution from the Redemptorist Priests in Baclaran, Rizal
-3114x4447	CC BY-SA 3.0	File:Mother of Perpetual Help Chapel (Washington Basilica).JPG	| Mother of Perpetual Help Chapel at the Basilica of the National Shrine of the Immaculate Conception in Washington, D.C. It is a gift of the 
-4000x6016	CC BY-SA 4.0	File:Decoration and mosaic above the door of Sant'Alfonso de Liguori (Rome).jpg	| Decoration and mosaic above the door of Sant'Alfonso de Liguori (Rome)
-4608x3456	CC BY-SA 4.0	File:Jf0820Mother Perpetual Help Parish Church Cabanatuan Cityfvf 22.JPG	| Mother of Perpetual Help Parish Church, Dambana ng Mahal na Ina ng Laging Saklolo Solemnly Dedicated June 27, 2007 Vicariate of St. Nicholas
-1024x768	CC BY-SA 4.0	File:904ajfMother Perpetual Help Parish Cabanatuan Nuevafvf 34.jpg	| Mother of Perpetual Help Parish Church, Dambana ng Mahal na Ina ng Laging Saklolo Solemnly Dedicated June 27, 2007 Vicariate of St. Nicholas
-1024x768	CC BY-SA 4.0	File:904ajfMother Perpetual Help Parish Cabanatuan Nuevafvf 36.jpg	| Mother of Perpetual Help Parish Church, Dambana ng Mahal na Ina ng Laging Saklolo Solemnly Dedicated June 27, 2007 Vicariate of St. Nicholas
-3000x4000	CC BY-SA 4.0	File:Our Lady of Perpetual Help Catholic Church (Grove City, Ohio) - stained glass, Our Lady of Perpetual Help.jpg	| Our Lady of Perpetual Help Catholic Church (Grove City, Ohio) - stained glass, Our Lady of Perpetual Help
-2736x3648	CC BY-SA 3.0	File:POL Przeworsk - Basilica of the Holy Spirit - Our Lady of Perpetual Help Altar.jpg	| Ołtarz Matki Bożej Nieustającej Pomocy w Bazylice Ducha Świętego w Przeworsku.
-5152x3864	CC BY-SA 4.0	File:Łódź-Our Lady of Perpetual Help church.jpg	| Closed Our Lady of Perpetual Help church in Łódź.
-2203x2392	CC BY-SA 4.0	File:Piekary Slaskie Our Lady of Perpetual Help church icon copy.jpg	| obraz w ołtarzu kościoła Matki Bożej Nieustającej Pomocy w Piekarach Śląskich, jest to obraz wzorowany na rzymskiej ikonie Matki Bożej Nieus
-3864x4800	CC BY-SA 4.0	File:Nossa Senhora do Perpetuo Socorro HD.jpg	| Our Lady of Perpetual Help in High Quality enhanced by artificial inteligence
-5472x3648	CC BY-SA 4.0	File:National Shrine of Our Mother of Perpetual Help (Baclaran Church).jpg	| The National Shrine of Our Mother of Perpetual Help (Filipino: Pambansáng Dambana ng Iná ng Laging Saklolo), also known as the Redemptorist 
-4000x3000	CC BY-SA 4.0	File:Our Mother of Perpetual Help closeup 2023-06-14.jpg	| Closeup view of the Our Mother of Perpetual Help image at Baclaran Church.
-2048x1536	CC BY-SA 4.0	File:Our Lady of Perpetual Help Basilica.jpg	| Our Lady of Perpetual Help Basilica
-5616x3744	CC BY 2.0	File:Our Lady of Perpetual Help (26890680706).jpg	| Colfax County, Nebraska
-1636x1861	CC0	File:Nuestra Señora del Perpetuo Socorro de Baclaran, 2024.jpg	| Captured icon when it was brought down from her altar until her feast day in June.
-6000x3376	CC BY-SA 4.0	File:National Shrine of Our Mother of Perpetual Help - Toronto, ON.jpg	| The National Shrine of Our Mother of Perpetual Help in St. Patrick's Church (church in Ontario, Canada)
-4863x4026	CC BY-SA 4.0	File:Our Lady of Perpetual Help church in Suchan (2).jpg	| Our Lady of Perpetual Help church in Suchań, West Pomeranian Voivodeship, Poland
-3703x5378	CC BY-SA 4.0	File:Our Lady of Perpetual Help church in Suchan (5).jpg	| Portal of the Our Lady of Perpetual Help church in Suchań, West Pomeranian Voivodeship, Poland
-5101x5331	CC BY-SA 4.0	File:Our Lady of Perpetual Help church in Suchan (4).jpg	| Our Lady of Perpetual Help church in Suchań, West Pomeranian Voivodeship, Poland
-5765x3893	CC BY-SA 4.0	File:Our Lady of Perpetual Help church in Suchan (6).jpg	| Bell tower of the Our Lady of Perpetual Help church in Suchań, West Pomeranian Voivodeship, Poland
-3352x5572	CC BY-SA 4.0	File:Our Lady of Perpetual Help church in Suchan (15).jpg	| Bell tower of the Our Lady of Perpetual Help church in Suchań, West Pomeranian Voivodeship, Poland
-3472x4624	CC BY-SA 4.0	File:Our Lady of Perpetual Help church in Przemyśl.jpg	| Our Lady of Perpetual Help church in Przemyśl
-3072x4080	Public domain	File:Relief icon of Our Lady of Perpetual Help.jpg	| A metal relief icon depicting the Virgin Mary with Child (Our Lady of Perpetual Help). The creator of the original work passed away in 1946.
-### Madonna del Perpetuo Soccorso
-2008x1673	CC BY-SA 3.0	File:Chiesa Porto Cesareo.jpg	| Porto Cesareo, chiesa della Madonna del Perpetuo Soccorso.
-2448x3264	CC BY-SA 3.0	File:Corfino (Villa Collemandina)-santuario madonna del monte-facciata.jpg	| Santuario della Madonna del Monte di Corfino, Villa Collemandina, Toscana, Italia
-2654x1304	CC BY-SA 3.0	File:Corfino (Villa Collemandina)-santuario madonna del monte-lapide.jpg	| Santuario della Madonna del Monte di Corfino, Villa Collemandina, Toscana, Italia
-3264x2448	CC BY-SA 3.0	File:Corfino (Villa Collemandina)-santuario madonna del monte-navata.jpg	| Navata del Santuario della Madonna del Monte di Corfino, Villa Collemandina, Toscana, Italia
-2448x3264	CC BY-SA 3.0	File:Corfino (Villa Collemandina)-santuario madonna del monte-presbiterio.jpg	| Presbiterio del Santuario della Madonna del Monte di Corfino, Villa Collemandina, Toscana, Italia
-3264x2448	CC BY-SA 3.0	File:Corfino (Villa Collemandina)-santuario madonna del monte-organo.jpg	| Organo del Santuario della Madonna del Monte di Corfino, Villa Collemandina, Toscana, Italia
-1536x2048	CC BY-SA 4.0	File:Chiesa Madonna soccorso.jpg	| Prospetto della Chiesa S. Maria del Perpetuo Soccorso
-4896x3672	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso 01.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary
-4896x3672	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso 03.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary
-3616x4821	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Campanile.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Belltower
-3398x2548	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Targa in facciata.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Plaque on the facade
-4896x3672	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso 02.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary
-3450x4600	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Stemma dei Francescani.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Coat of arms of the Franciscan order
-3356x4476	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Statua 02.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Statue
-3228x4304	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Statua 03.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Statue
-3284x4380	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Statua 01.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Statue
-3372x4496	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Statua 04.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Statue
-3557x4742	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Statua 06.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Statue
-3414x4552	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Statua 05.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Statue
-3504x4671	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Campanile 2.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Belltower
-4896x3672	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Interno 03.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Interior
-4896x3672	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso 04.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary
-3632x4842	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Interno 01.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Interior
-4896x3672	CC BY-SA 4.0	File:Bussolengo, santuario della Madonna del Perpetuo Soccorso - Interno 02.jpg	| Bussolengo (Veneto, Italy), Our Lady of Perpetual Help sanctuary - Interior
-2434x3476	CC BY-SA 4.0	File:Madonna del Latte, chiesa di Santa Maria del Perpetuo Soccorso (Ferrara).jpg	| Madonna del Latte, proveniente dall'edicola votiva di piazzale di San Giovanni, chiesa di Santa Maria del Perpetuo Soccorso (Ferrara)
-### Holy Family painting
-2024x1648	Public domain	File:Giorgione 047.jpg	| Holy Family
-1600x2308	Public domain	File:The Holy Family - Rafael.jpg	| Holy Family
-1177x950	Public domain	File:Giorgione, sacra famiglia.jpg	| Holy Family
-2788x2079	CC0	File:Holy family Sassoferrato Condé Chantilly.jpg	| Holy Family
-3555x4598	Public domain	File:Albani, Francesco - Holy Family - Google Art Project.jpg	| Holy Family
-2233x2641	Public domain	File:Orazio Samacchini - The Holy Family, with St Catherine of Alexandria, St Margaret of Antioch and St Francis of Assisi - Google Art Project.jpg	| 
-6480x4512	Public domain	File:A Meat Stall with the Holy Family Giving Alms - Pieter Aertsen - Google Cultural Institute.jpg	| Holy Family distributing alms on their journey to Egypt to escape from Herod's harassment. Various foods – plates in the foreground, meats, 
-2318x2387	Public domain	File:Tondo Doni 2015.png	| Holy Family
-1200x973	Public domain	File:Giorgione The Holy Family.jpg	| Giorgione (Venetian, 1477/1478 - 1510 ), The Holy Family, probably c. 1500, oil on panel transferred to hardboard, Samuel H. Kress Collectio
-4998x3294	Public domain	File:Accademia - Holy Family with Saints Catherine of Alexandria and John the Baptist by Palma il Vecchio.jpg	| 
-4876x6178	CC BY-SA 4.0	File:The Holy Family by Jan van Bijlert.jpg	| Holy Family
-5252x5804	CC BY-SA 4.0	File:The Holy Family - Rubens.jpg	| The Holy Family with St Anne - Rubens
-1651x1680	Public domain	File:Tondo Doni, por Miguel Ángel.jpg	| Holy Family
-4492x7442	CC BY-SA 4.0	File:Ca' Rezzonico - The holy family and Saint John Baptist by Francesco Zugno.jpg	| The holy family and St. John the Baptist, by Francesco Zugno. Salon of the Allegory, Ca' Rezzonico, Venice
-4000x3243	CC0	File:Giorgione, The Holy Family, probably c. 1500, NGA 41590.jpg	| Holy Family
-1094x796	Public domain	File:Joseph Mallord William Turner (1775-1851) - Holy Family - N00473 - National Gallery.jpg	| Holy Family
-8663x8663	CC BY-SA 4.0	File:Gemäldegalerie Alte Meister (Dresden) Piero di Cosimo Heilige Familie um 1500.jpg	| 
-5142x5142	Public domain	File:Tondo Doni 2021.jpg	| Holy Family
-12286x9962	Public domain	File:Giorgione - Sacra Famiglia Benson (ca. 1500).jpg	| Holy Family
-8076x10671	CC BY-SA 4.0	File:Holy Family Christmas (1978) a painting by James C. Kulhanek.jpg	| The painting, Holy Family Christmas (1978), is in the possession of James F. Kulhanek, son of the artist James C. Kulhanek, from his father'
-6662x11944	Public domain	File:(Venice) Saint Cajetan's Vision of the Holy Family by Giambattista Tiepolo - Gallerie Accademia.jpg	| 
-5684x8060	CC BY 4.0	File:The Holy Family - Rembrandt.jpg	| The Holy Family - Rembrandt
-5520x6408	CC BY 4.0	File:Canigiani Holy Family - Raphael.jpg	| Canigiani Holy Family - Raphael
-5521x7178	CC BY 4.0	File:The Holy Family - Sodoma.jpg	| The Holy Family - Sodoma
-5647x6639	CC BY 4.0	File:Holy Family Resting on the Flight to Egypt - Pietro da Cortona.jpg	| Holy Family Resting on the Flight to Egypt - Pietro da Cortona
-5592x5580	CC BY 4.0	File:Holy Family with child St. John - Fra Bartolomeo.jpg	| Holy Family with child St. John - Fra Bartolomeo
-5297x4266	CC BY-SA 4.0	File:(Treviso) Holy Family by Paris Bordone - Musei Civici (Treviso) - Santa Caterina.jpg	| 
-3024x4032	CC0	File:Holy Family Painting - St Margaret's Church, Leicester.jpg	| Holy Family Painting - St Margaret's Church, Leicester
-5268x6756	CC BY 4.0	File:Holy Family with Saint John the Baptist and an Angel - Il Sodoma.jpg	| Holy Family with Saint John the Baptist and an Angel - Il Sodoma
-### Sagrada Familia pintura
-2395x3051	Public domain	File:Rafael - La Perla.JPG	| La Perla, Rafael e ateliê. Museu do Prado, Madrid.
-1741x2717	Public domain	File:La Sagrada Familia con Santa Ana y San Juanito.jpg	| La obra representa a los tres miembros de la Sagrada Familia cristiana junto a Santa Ana, la madre de la Virgen María, y el pequeño San Juan
-3051x2288	Public domain	File:Sagrada Familia del pajarito (Murillo).jpg	| La obra representa a los tres miembros de la Sagrada Familia cristiana.
-3817x2876	Public domain	File:Matthias Stom - Holy Family - Google Art Project.jpg	| Holy Family
-3872x2592	CC BY-SA 3.0	File:Sagrada Família 2010.JPG	| The Basílica i Temple Expiatori de la Sagrada Família (English: Basilica and Expiatory Church of the Holy Family; Spanish: Basílica y Templo
-2366x2640	CC BY-SA 3.0	File:El greco, sacra famiglia, 1580-85 ca. 01.JPG	| 
-2432x3480	CC BY-SA 3.0	File:El greco, sacra famiglia, 1580-85 ca. 02.JPG	| 
-1931x2952	Public domain	File:BMVB - Doménico Theotokópoulus - La Sagrada Família amb Santa Anna i Sant Joanet - 8606.jpg	| La obra representa a los tres miembros de la Sagrada Familia cristiana junto a Santa Ana, la madre de la Virgen María, y el pequeño San Juan
-1474x1641	Public domain	File:La Sagrada Familia con Santa Ana y San Juanito (detalle).jpg	| La obra representa a los tres miembros de la Sagrada Familia cristiana junto a Santa Ana, la madre de la Virgen María, y el pequeño San Juan
-1182x665	CC BY-SA 4.0	File:Altar con escultura de la Sagrada Familia en la Parroquia de la Sagrada Familia.jpg	| Center sculpture of the Holy Family, a painting on each side, edging below the sculpture and paintings, ornaments with flowers on the altar,
-2304x3456	CC BY-SA 4.0	File:Detalle de una columna y pintura del ábside de la Parroquia de la Sagrada Familia.jpg	| Detail of a column and painting in the apse of the Sagrada Familia Parrish (Holy Family) in the Roma neighborhood in Mexico City.
-4032x6048	CC BY-SA 4.0	File:Barcelona - Plaça de la Sagrada Família - View NE on La Sagrada Família - Passion façade I.jpg	| Barcelona - Plaça de la Sagrada Família - View NE on La Sagrada Família - Passion façade
-6048x4032	CC BY-SA 4.0	File:Barcelona - Plaça de la Sagrada Família - View ENE on La Sagrada Família - Passion façade.jpg	| Barcelona - Plaça de la Sagrada Família - View ENE on La Sagrada Família - Passion façade
-4032x6048	CC BY-SA 4.0	File:Barcelona - Plaça de la Sagrada Família - View NNE on La Sagrada Família - Passion façade I.jpg	| Barcelona - Plaça de la Sagrada Família - View NNE on La Sagrada Família - Passion façade
-6587x8607	CC BY-SA 4.0	File:Barcelona - Exterior of the Apse of the Sagrada Família - Western exposure.jpg	| Exterior of the Apse of the Sagrada Família - Western exposure Basilica and Expiatory Church of the Holy Family Native name La Sagrada Famíl
-5466x8062	CC BY-SA 4.0	File:(Barcelona) Sagrada Família Orgel - Posterior part in the ambulatory.jpg	| 
-2367x2571	CC BY-SA 4.0	File:La Sagrada Familia, Cathédrale Notre-Dame d'Arequipa.jpg	| This is a photo of a monument in Peru, identified by ID
-5504x5934	CC BY-SA 4.0	File:(Barcelona) Pulpits of La Sagrada Família.jpg	| 
-3017x3695	CC0	File:Capilla de la Sagrada Familia (20241012 184906).jpg	| The Chapel of the Sagrada Familia is a side chapel of the Church of Santa María de Gracia in Cartagena (Spain), built in the 18th century an
-2972x4048	CC BY-SA 4.0	File:Crucifix on the top of La Sagrada Família Barcelona.jpg	| Crucifix on the top of La Sagrada Família Barcelona, Spain.
-4592x3448	CC BY-SA 4.0	File:Firma de Miguel Cabrera en la pintura La Sagrada Familia y el Hermano Pedro Basto 01.jpg	| Firma de Miguel Cabrera en la pintura La Sagrada Familia y el Hermano Pedro Basto
-4592x3448	CC BY-SA 4.0	File:Firma de Miguel Cabrera en la pintura La Sagrada Familia y el Hermano Pedro Basto 02.jpg	| Firma de Miguel Cabrera en la pintura La Sagrada Familia y el Hermano Pedro Basto
-### Madonna del Parto Piero della Francesca
-2592x1944	CC BY-SA 3.0	File:Monterchi, museo della madonna del parto 02.JPG	| 
-1000x1260	Public domain	File:Piero della Francesca - Madonna del Parto - WGA17613.jpg	| 
-1903x2000	CC BY-SA 3.0	File:Piero Madonna del parto.jpg	| 
-3164x1368	CC BY 3.0	File:Domenico fiscali, restauro del padiglione della madonna del parto di piero della francesca, 1911.JPG	| Museo della Madonna del Parto, Monterchi
-2304x3456	CC BY 3.0	File:Madonna del latte già sotto la madonna del parto di piero della francesca, xiv sec.JPG	| Museo della Madonna del Parto, Monterchi
-2080x2688	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 01.JPG	| 
-2296x2238	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 02.JPG	| Museo della Madonna del Parto, Monterchi
-2700x2288	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 03.JPG	| Museo della Madonna del Parto, Monterchi
-1836x3220	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 04.JPG	| Museo della Madonna del Parto, Monterchi
-3456x2304	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 05.JPG	| Museo della Madonna del Parto, Monterchi
-3100x2240	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 07.JPG	| Museo della Madonna del Parto, Monterchi
-2304x3456	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 06.JPG	| Museo della Madonna del Parto, Monterchi
-2304x3332	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 08.JPG	| Museo della Madonna del Parto, Monterchi
-2428x2304	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 10.JPG	| Museo della Madonna del Parto, Monterchi
-3456x2304	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 09.JPG	| Museo della Madonna del Parto, Monterchi
-3456x2304	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 11.JPG	| Museo della Madonna del Parto, Monterchi
-3456x2304	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 13.JPG	| Museo della Madonna del Parto, Monterchi
-3456x2304	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 12.JPG	| Museo della Madonna del Parto, Monterchi
-1920x3280	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 14.JPG	| Museo della Madonna del Parto, Monterchi
-2304x3456	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 15.JPG	| Museo della Madonna del Parto, Monterchi
-2304x3456	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 16.JPG	| Museo della Madonna del Parto, Monterchi
-3456x2304	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 17.JPG	| Museo della Madonna del Parto, Monterchi
-3200x2080	CC BY 3.0	File:Piero della francesca, Madonna del Parto, 1455 ca. 18.JPG	| Museo della Madonna del Parto, Monterchi
-3000x4000	CC BY-SA 4.0	File:Madonna del Parto (Rome).jpg	| Ofrendas de bebes cuyos partos salieron bien.
-2806x3600	CC BY-SA 4.0	File:Madonna-del-Parto.jpg	| Fresque de Piero della Francesca datant de 1460 et représentant la Vierge Marie enceinte, désignant son ventre de la main droite
-2024x1934	CC BY-SA 4.0	File:Monterchi - Comune di Monterchi - 2023-09-27 18-34-14 001.jpg	| Monterchi
-2000x3008	CC BY-SA 4.0	File:Monterchi - Comune di Monterchi - 2023-09-27 18-34-14 002.jpg	| Monterchi
-### Charbel Makhlouf portrait
-3163x2393	CC BY-SA 4.0	File:TyreSourLebanon MaroniteSanctuaireDesSaintsMartyrsDeTyr RomanDeckert01112019.jpg	| A portrait of Saint Charbel Makhlouf seen from the "Sanctuary of Holy Martyrs" underneath the Maronite Cathedral "Our Lady of the Seas" in T
-### Annaya monastery
-1156x1872	Public domain	File:Notes on the early history and geography of British Burma - the Shwe Dagon Pagoda (IA b2935125x).pdf	| Subjects: Historical geography; Historiography
-### Hedwig Codex
-2603x1835	Public domain	File:Saint Hedwig's family.jpg	| Saint Hedwig's family from Legend of Saint Hedwig (in the center sit: Hedwig of Andechs and Henry I the Bearded, from left stand: Gertrude, 
-1293x953	Public domain	File:Święta Jadwiga i Henryk Brodaty 1.jpg	| Legenda Świętej Jadwigi
-1297x965	Public domain	File:Śmierć Świętej Jadwigi.jpg	| Legenda Świętej Jadwigi
-1277x881	Public domain	File:Bolesław Rogatka z babcią.jpg	| Hedwig of Andechs bathing her grandson Boleslaus II Rogatka of Silesia; Anna von Böhmen attending
-1000x1427	Public domain	File:Hedwig von Schlesien.jpg	| Miniatur, 1353, Schlackenwerther Codex, die erste deutsche Übersetzung der Hedwigslegende
-3151x4443	Public domain	File:Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish - Christ Blessing Saint Hedwig; Saint Hedwig Washing Her Grandson's Face - Google Art Project.jpg	| 
-3151x4443	Public domain	File:Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish - Hedwig Listening to a Reading; Hedwig Praying - Google Art Project.jpg	| 
-3151x4443	Public domain	File:Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish - Heinrich Sleeping and Hedwig Praying; Heinrich and Hedwig with Their Children - Google Art Project.jpg	| 
-3151x4349	Public domain	File:Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish - The Family of Berthold VI; The Marriage of Hedwig and Heinrich - Google Art Project.jpg	| At the top in the center sit her father Berthold IV, Count of Andechs-Meran, and her mother Agnes. Seated to the left are Hedwig, with a hal
-3148x4447	Public domain	File:Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish - Saint Hedwig of Silesia with Duke Ludwig of Legnica and Brieg and Duchess Agnés - Google Art Project.jpg	| 
-3150x4442	Public domain	File:Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish - The Life of the Blessed Hedwig - Google Art Project.jpg	| 
-3102x4443	Public domain	File:Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish - Hedwig Caring for the Sick; Hedwig Caring for Prisoners - Google Art Project.jpg	| 
-3088x4443	Public domain	File:Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish - Hedwig and the New Convent; Nuns from Bamberg Settling at the New Convent - Google Art Project.jpg	| 
-3150x4442	Public domain	File:MS. LUDWIG XI 7 (Getty museum) - Hedwig Codex fol. 9v Genealogy.jpg	| Genealogy; Unknown maker; 1353; Tempera colors, colored washes, and ink on parchment; Leaf: 34.1 x 24.8 cm (13 7/16 x 9 3/4 in.); Ms. Ludwig
-1300x1792	Public domain	File:Andechs family Hedwig Codex.jpg	| At the top in the center sit her father Berthold VI, Count of Andechs-Meran, and her mother Agnes. Seated to the left are Hedwig, with a hal
-### Saint Hedwig painting
-2177x2731	Public domain	File:HedwigAltar.jpg	| 
-1000x1427	Public domain	File:Hedwig von Schlesien.jpg	| Miniatur, 1353, Schlackenwerther Codex, die erste deutsche Übersetzung der Hedwigslegende
-1761x1975	Public domain	File:Hl. Hedwig - opis pl.JPG	| opis postaci na płótnie
-2504x1409	CC BY-SA 4.0	File:Saint Hedwig 17th c., basilica, Nowe Miasto Lubawskie.jpg	| Obraz świętej Jadwigi z XVII w. ufundowany przez wojewodę chełmińskiego Pawła Działyńskiego. W bazylice św. Tomasza Apostoła w Nowym Mieście
-2896x3736	Public domain	File:Anonymous - Legend of Saint Hedwig - Google Art Project.jpg	| 
-1416x3472	Public domain	File:Warsaw National Museum Silesian art 2019 P21 Legend of Saint Hedwig part I.jpg	| Legend of Saint Hedwig (Wings of Triptych) taken from Saint Bernardino of Siena church in Wrocław.
-1480x3448	Public domain	File:Warsaw National Museum Silesian art 2019 P22 Legend of Saint Hedwig part 2.jpg	| Legend of Saint Hedwig (Wings of Triptych) taken from Saint Bernardino of Siena church in Wrocław.
-3304x4046	Public domain	File:Legend of Saint Hedwig of Silesia Triptych (wings).jpg	| wings of the Legend of Saint Hedwig Triptych
-1645x4046	Public domain	File:Legend of Saint Hedwig of Silesia Triptych (right panel).jpg	| right panel of the Legend of Saint Hedwig Triptych
-1645x4046	Public domain	File:Legend of Saint Hedwig of Silesia Triptych (left panel).jpg	| left panel of the Legend of Saint Hedwig Triptych
-### Padre Pio photograph 1940s
-### Irmã Dulce foto
-2126x1417	CC BY 2.0	File:Beatificação de Irmã Dulce no Parque de Exposições.jpg	| Padres na cerimônia de Beatifição de Irmã Dulce no Parque de Exposições em Salvador, Bahia Foto: Manu Dias/Secom
-2126x1417	CC BY 2.0	File:Obras Sociais Irmã Dulce.jpg	| Apresentação do projeto de Beatificação de Irmã Dulce Na foto: Obras Sociais Irmã Dulce Autora: Carol Garcia / AGECOM
-5184x3456	CC BY-SA 2.0	File:Igreja Irmã Dulce (3).jpg	| Igreja Irmã Dulce. Foto-Tatiana Azeviche-Setur (3)
-3008x2000	CC BY-SA 2.0	File:Memorial Irmã Dulce.jpg	| Memorial Irmã Dulce. Foto: Rita Barreto - Setur
-2000x3008	CC BY-SA 2.0	File:Memorial Irmã Dulce 2.jpg	| Memorial Irmã Dulce. Foto: Rita Barreto - Setur
-5184x3456	CC BY-SA 2.0	File:Igreja Irmã Dulce (1).jpg	| Igreja Irmã Dulce. Foto-Tatiana Azeviche-Setur (1)
-4928x3264	CC BY-SA 2.0	File:Inauguração da Praça Irmã Dulce.jpg	| Largo de Roma.
-4928x3264	CC BY-SA 2.0	File:Praça Irma Dulce, parque.jpg	| Largo de Roma.
-4928x3264	CC BY-SA 2.0	File:Praça Irmã Dulce, banco.jpg	| Largo de Roma.
-4928x3264	CC BY-SA 2.0	File:Praça Irmã Dulce.jpg	| Largo de Roma.
-4288x2848	CC BY-SA 2.0	File:Memorial de Irmã Dulce, fachada.jpg	| Memorial de Irmã Dulce, na Cidade Baixa, retrata a trajetória da freira baiana. Foto: Jota Freitas - Setur- Bahiatursa.
-4288x2848	CC BY-SA 2.0	File:Memorial Irmã Dulce, objetos pessoais.jpg	| No memorial, visitantes podem ter acesso a objetos pessoais de Irmã Dulce. Foto: Jota Freitas - Setur-Bahiatursa
-3216x2136	CC BY-SA 2.0	File:Capela Santo Antônio e Memorial Irmã Dulce.jpg	| Capela Stº.Antonio e Memorial Irmã Dulce. Foto: Rita Barreto - Setur
-2126x1414	CC BY 2.0	File:Ministra Dilma Roussef visita as Obras Sociais Irmã Dulce Hospital (3994943065).jpg	| A ministra-chefe da Casa Civil, Dilma Roussef, visitou nesta sexta-feira (9) as Obras Sociais Irmã Dulce, em Salvador. Foto: Manu Dias / AGE
-2126x1414	CC BY 2.0	File:Ministra Dilma Roussef visita as Obras Sociais Irmã Dulce Hospital (3995703744).jpg	| A ministra-chefe da Casa Civil, Dilma Roussef, visitou nesta sexta-feira (9) as Obras Sociais Irmã Dulce, em Salvador. Foto: Manu Dias / AGE
-2126x1414	CC BY 2.0	File:Ministra Dilma Roussef visita as Obras Sociais Irmã Dulce Hospital (3995703698).jpg	| A ministra-chefe da Casa Civil, Dilma Roussef, visitou nesta sexta-feira (9) as Obras Sociais Irmã Dulce, em Salvador. Foto: Manu Dias / AGE
-2126x1414	CC BY 2.0	File:Ministra Dilma Roussef visita as Obras Sociais Irmã Dulce Hospital (3994943321).jpg	| A ministra-chefe da Casa Civil, Dilma Roussef, visitou nesta sexta-feira (9) as Obras Sociais Irmã Dulce, em Salvador. Foto: Manu Dias / AGE
-2126x1414	CC BY 2.0	File:Ministra Dilma Roussef visita as Obras Sociais Irmã Dulce Hospital (3994943735).jpg	| A ministra-chefe da Casa Civil, Dilma Roussef, visitou nesta sexta-feira (9) as Obras Sociais Irmã Dulce, em Salvador. Foto: Manu Dias / AGE
-2126x1414	CC BY 2.0	File:Ministra Dilma Roussef visita as Obras Sociais Irmã Dulce Hospital (3994943587).jpg	| A ministra-chefe da Casa Civil, Dilma Roussef, visitou nesta sexta-feira (9) as Obras Sociais Irmã Dulce, em Salvador. Foto: Manu Dias / AGE
-1772x1181	CC BY 2.0	File:Ministra Dilma Roussef visita as Obras Sociais Irmã Dulce (4007981961).jpg	| O governador Jaques Wagner acompanhou a ministra-chefe da Casa Civil, Dilma Roussef, em visita às Obras Sociais Irmã Dulce, em Salvador. Fot
-2126x1414	CC BY 2.0	File:Ministra Dilma Roussef visita as Obras Sociais Irmã Dulce Hospital (3995706040).jpg	| A ministra-chefe da Casa Civil, Dilma Roussef, visitou nesta sexta-feira (9) o túmulo de Irmã Dulce, na capela do Hospital Santo Antônio. Fo
-1417x1772	CC BY 2.0	File:Ministra Dilma Roussef visita as Obras Sociais Irmã Dulce Hospital (3994946155).jpg	| A ministra-chefe da Casa Civil, Dilma Roussef, visitou nesta sexta-feira (9) as Obras Sociais Irmã Dulce, em Salvador. Foto: Manu Dias / AGE
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686063976).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686064166).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner assina testemunho na solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4685431425).jpg	| Governador Jaques Wagner assina testemunho na solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto 
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686064304).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686064662).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Na foto: Corp
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4685432101).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4686065370).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-2126x1417	CC BY 2.0	File:Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação (4685432675).jpg	| Governador Jaques Wagner participa da solenidade do Translado das Relíquias de Irmã Dulce, última etapa antes da beatificação. Foto: Manu Di
-### Maria Auxiliadora
-1712x1368	CC BY 2.0	File:Basílica María Auxiliadora (La Paz - Bolivia).jpg	| Imagen de la Basílica María Auxiliadora "centro" en la ciudad de La Paz, Bolivia
-1600x1200	CC0	File:Orense - Parroquia Maria Auxiliadora (PP Salesianos) 01.jpg	| Parroquia de María Auxiliadora (PP Salesianos) en Orense (Galicia, España)
-1536x2048	CC BY-SA 3.0	File:Maria Auxiliadora church (Barcelona) 2.jpg	| Maria Auxiliadora church (Barcelona)
-2560x1920	CC BY-SA 3.0	File:Maria Auxiliadora Trelew.JPG	| Iglesia Maria Auxiliadora en el centro de Trelew
-4128x2322	CC BY 3.0	File:Maria Auxiliadora Lima PE.jpg	| Main altar in Saint Mary of Help Basilica, Breña District, Lima-Peru.
-3298x2303	CC BY-SA 4.0	File:Salesians i porxo del santuari de Maria Auxiliadora, Alcoi.jpg	| Salesians i porxo del santuari de Maria Auxiliadora, Alcoi.
-1156x1743	CC BY-SA 4.0	File:Colegio de Maria Auxiliadora (Calle 34).jpg	| Entrance to the school along Calle 34
-1536x2048	CC BY-SA 4.0	File:Colegio de Maria Auxiliadora (fachada).jpg	| The side of the school along Calle 34
-1704x2424	CC0	File:Basílica de Santa María Auxiliadora, Sevilla.jpg	| Basílica de María Auxiliadora (Sevilla)
-4896x3672	CC BY-SA 4.0	File:Iglesia Maria Auxiliadora, Quito (exterior) pic.b02a.jpg	| Iglesia Maria Auxiliadora, Quito Historic Center of Quito Quito, Ecuador Quito Colonial Center Centro histórico de Quito Photography by Davi
-4896x3672	CC BY-SA 4.0	File:Iglesia Maria Auxiliadora, Quito (exterior) pic.bb01.jpg	| Iglesia Maria Auxiliadora, Quito Historic Center of Quito Quito, Ecuador Quito Colonial Center Centro histórico de Quito Photography by Davi
-4896x3672	CC BY-SA 4.0	File:Iglesia Maria Auxiliadora, Quito (exterior) pic.a01aa.jpg	| Iglesia Maria Auxiliadora, Quito Historic Center of Quito Quito, Ecuador Quito Colonial Center Centro histórico de Quito Photography by Davi
-4896x3672	CC BY-SA 4.0	File:Iglesia Maria Auxiliadora, Quito (exterior) pic.a01.jpg	| Iglesia Maria Auxiliadora, Quito Historic Center of Quito Quito, Ecuador Quito Colonial Center Centro histórico de Quito Photography by Davi
-3514x2353	CC BY-SA 2.0	File:María Auxiliadora Álvarez.jpg	| Miércoles 16 de noviembre de 2016. Bajo el marco de "Di / verso - Encuentro de poemas en la Ciudad de México", en el Mezzanine Sur de la Bib
-4624x2604	CC BY-SA 4.0	File:Panel bronce (parroquia Maria Auxiliadora, Orense).jpg	| Detalle de la firma de Diego de Giráldez en una obra de Cristo con varios mártires salesianos. Parroquia de María Auxiliadora, Orense.
-2448x3264	CC BY-SA 4.0	File:Col·legi Maria Auxiliadora, Sueca.jpg	| Col·legi Maria Auxiliadora, Sueca
-4000x6000	CC BY-SA 4.0	File:Quito Iglesia de María Auxiliadora seen in front.jpg	| Iglesia de María Auxiliadora seen in front, Quito, Pichincha, Ecuador
-4000x6000	CC BY-SA 4.0	File:Quito Iglesia de María Auxiliadora front door.jpg	| The front door of Iglesia de María Auxiliadora, Quito, Pichincha, Ecuador
-11770x11722	CC BY-SA 4.0	File:Maria Auxiliadora ilustratona Ana Leticia Lira.png	| Retrato biográfico de Maria Auxiliadora, feito a lápis de cor, gouache e papel.
-2159x2878	CC BY 4.0	File:SANTUARIO MARIA AUXILIADORA 20230416.jpg	| Santuario Maria Auxiliadora ubicado en Punta Arenas, MG
-3120x4160	CC BY-SA 4.0	File:Catedral de María Auxiliadora (Trelew).jpg	| Catedral de María Auxiliadora (Trelew) (edificio religioso católico en Trelew, provincia del Chubut, Argentina)
-3120x4160	CC BY-SA 4.0	File:Iglesia María Auxiliadora, Montevideo02.jpg	| Iglesia María Auxiliadora
-3120x4160	CC BY-SA 4.0	File:Iglesia María Auxiliadora, Montevideo05.jpg	| Talleres Don Bosco y Iglesia María Auxiliadora
-1530x2040	CC BY-SA 4.0	File:Parroquia María Auxiliadora, Cordón03.jpg	| Parroquia María Auxiliadora
-1530x2040	CC BY-SA 4.0	File:Parroquia María Auxiliadora, Cordón.jpg	| Parroquia María Auxiliadora, barrio Cordón
-3024x4032	CC BY-SA 4.0	File:Santuario de María Auxiliadora, Ronda 20251208 124651.jpg	| Santuario de María Auxiliadora, Ronda, Spain.
-2219x2462	CC BY-SA 4.0	File:Santuario de María Auxiliadora, Ronda 20251208 124721.jpg	| Santuario de María Auxiliadora, Ronda, Spain.
-3024x4032	CC BY-SA 4.0	File:Santuario de María Auxiliadora, Ronda 20251208 124829.jpg	| Santuario de María Auxiliadora, Ronda, Spain.
-2069x3119	CC BY-SA 4.0	File:Santuario de María Auxiliadora, Ronda 20251208 124913.jpg	| Santuario de María Auxiliadora, Ronda, Spain.
-### Francis Xavier portrait
-6589x8402	Public domain	File:Franciscus de Xabier.jpg	| Franz Xaver
-1791x2583	CC BY-SA 4.0	File:Church St Francis Xavier - Banská Bystrica (Besztercebánya).jpg	| This media shows the protected monument with the number 601-2327/3 CHMSK/601-2327/3,CHMSK/601-2327(other) in the Slovak Republic.
-1984x1488	CC BY-SA 3.0	File:St Francis Xavier 1.JPG	| St Francis Xavier Church Liverpool
-1488x1984	CC BY-SA 3.0	File:St Francis Xavier 2.JPG	| St Francis Xavier church Liverpool
-5106x2801	CC BY-SA 2.0	File:St Francis Xavier Cathedral, Bangalore oblique.jpg	| St. Francis Xavier's Cathedral, Bangalore by Saad Faruque
-1152x864	CC BY-SA 4.0	File:St. Francis Xavier's Church Pizhala.jpg	| Catholic Church in Pizhala
-2846x3908	CC BY 4.0	File:Portrait of Francis Xavier Dercum Wellcome M0013212.jpg	| Portrait of Francis Xavier Dercum Wellcome Images Keywords: Francis Xavier Dercum
-4400x5856	Public domain	File:Sister St Francis Xavier Le Fer.jpg	| Portrait photo of Irma Le Fer de la Motte, later Sister Saint Francis Xavier, member of the w:Sisters of Providence of Saint Mary-of-the-Woo
-5371x7167	Public domain	File:Francis Xavier Winterhalter - Portrait of a Lady - 44.20 - Minneapolis Institute of Arts.jpg	| Three quarter length portrait of a woman.
-4736x3169	CC BY-SA 4.0	File:St Francis Xavier school, Liverpool 2019-3.jpg	| Frontage of the Grade II listed former school, now part of Liverpool Hope University.
-4599x3984	CC BY-SA 4.0	File:St Francis Xavier College Church - St Louis MO - nave on Holy Thursday.jpg	| St Francis Xavier College Church - St Louis MO - nave on Holy Thursday
-4160x2340	CC BY-SA 4.0	File:St Francis Xavier Church-front.jpg	| St. Francis Xavier Church. Constructed in 1895 in the Ojibwe community of Chippewa City, Minnesota it is listed on the NRHP. Operated by the
-4160x2340	CC BY-SA 4.0	File:St. Francis Xavier Church-back.jpg	| St. Francis Xavier Church. Constructed in 1895 in the Ojibwe community of Chippewa City, Minnesota it is listed on the NRHP. Operated by the
-1408x1052	CC BY-SA 4.0	File:St-Francis-Xavier-Interior.png	| St. Francis Xavier Church. Constructed in 1895 in the Ojibwe community of Chippewa City, Minnesota it is listed on the NRHP. Operated by the
-3680x3680	Public domain	File:Xabier face.jpg	| 
-6589x6236	Public domain	File:Franciscus de Xabier (cropped).jpg	| 
-4000x6000	CC BY-SA 4.0	File:MV St. Francis Xavier - assembly station No.1 - Oct 2024.jpg	| Assembly station/muster point on the deck of MV St. Francis Xavier, a passenger/RoRo ferry operated by 2GO Travel. Photograph taken on a bri
-3865x5797	CC BY-SA 4.0	File:MV St. Francis Xavier - evacuation chute No. 1 - Oct 2024.jpg	| Evacuation chute No. 1 on the deck of MV St. Francis Xavier. Photograph taken while docked in the port of Nasipit, Mindanao island, Philippi
-2857x4285	CC BY-SA 3.0	File:Hrodna St Francis Xavier Church 2023-06-24 5446.jpg	| Church of Saint Francis Xavier, Hrodna.
-5326x3551	CC BY-SA 3.0	File:Hrodna St Francis Xavier Church 2023-06-24 5456.jpg	| Church of Saint Francis Xavier, Hrodna.
-1280x1600	CC BY-SA 4.0	File:St Francis Xavier Cathedral (Geraldton) - Apse.jpg	| The apse within St Francis Xavier Cathedral (Geraldton).
-1200x1600	CC BY-SA 4.0	File:St Francis Xavier Cathedral (Geraldton) - Nave.jpg	| Interview view of St Francis Xavier Cathedral (Geraldton) from the nave.
-5000x4000	CC BY-SA 4.0	File:St. Francis Xavier Church, Tilbury, Ontario, 2026-09-07 13.jpg	| St. Francis Xavier Church, Tilbury, Ontario, 2026-09-07; detail of cornerstone
-10181x9163	CC BY-SA 4.0	File:St. Francis Xavier Church, Tilbury, Ontario, 2026-09-07 16.jpg	| St. Francis Xavier Church, Tilbury, Ontario, 2026-09-07
-1299x1600	Public domain	File:Francis Xavier crucifix2.webp	| Produced in 18th century. Original photocopy as per ebay listing. Realism style, portrait. 69.0x56.0cm (26.2"x22.0"), made in the United kin
-### Saint Benedict the Moor painting
-2000x3008	CC BY-SA 2.5	File:Igreja de Santa Isabel (interior) - Piranguinho, Minas Gerais.jpg	| Interior da Igreja Matriz Santa Isabel em Piranguinho, Minas Gerais, Brasil. A igreja localiza-se na praça Coronel Brás e foi construída em 
-1139x1547	Public domain	File:A catalogue of the printed books in the library. Of the Society of antiquaries of London (IA b22013908).pdf	| "Prepared by Nicholas Carlisle, secretary" Appended: A catalogue of manuscripts in the library of the Society of antiquaries of London. 1816
-1158x1635	Public domain	File:On the Pike,the first complete booklet of the Pike and amusement features of the Louisiana purchase exposition ... (IA onpikethefirstco00unse).pdf	| 47 p. 17 cm Subjects: Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)
-1233x1595	Public domain	File:Mexican painting and painters; a brief sketch of the development of the Spanish school of painting in Mexico (IA gri 33125007583657).pdf	| "Limited edition of five hundred copies printed for the author." This copy no. 45 Subjects: Painting; Painters
-1102x1716	Public domain	File:The pictorial field-book of the revolution ; or, illustrations by pen and pencil, of the history, biography, scenery,relics, and traditions of the war for Independence (IA pictorialfieldbo0001loss).pdf	| 2 v. : 26 cm Spine title: Field-book of the revolution Includes bibliographical references and index Subjects: United States -- History -- R
+OK	fr/nv_sf2	3817x2876	Public domain	Matthias Stom	File:Matthias Stom - Holy Family - Google Art Project.jpg
+   DESC: Holy Family
+   CATS: 1640s paintings in Catalonia | 17th-century paintings of Holy Family | 17th-century religious paintings in Catalonia | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | Baroque paintings in the Museu Nacional d'Art de Catalunya | CC-PD-Mark | Candlelight paintings | Files from Google Arts & Culture | Google Art Project paintings | Google Art Project works by Matthias Stom | Google Art Project works in the Museu Nacional d'Art de Cat
+   LICURL:  USAGE: Public domain
+OK	fr/nv_sf3	5684x8060	CC BY 4.0	GoldenArtists	File:The Holy Family - Rembrandt.jpg
+   DESC: The Holy Family - Rembrandt
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with digital representation of different depicts | Artworks with known accession number | CC-BY-4.0 | Quality images | Quality images by GoldenArtists | Quality images missing SDC creator | Quality images of Munich | Quality images of Rembrandt by GoldenArtists | Self-published work | The Holy Family by Rembrandt (Alte Pinakothek)
+   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
+OK	fr/nv_sf4	3555x4598	Public domain	Francesco Albani	File:Albani, Francesco - Holy Family - Google Art Project.jpg
+   DESC: Holy Family
+   CATS: 17th-century paintings of Holy Family | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Files from Google Arts & Culture | Google Art Project paintings | Google Art Project works by Francesco Albani | Google Art Project works in Dulwich Picture Gallery | PD-Art (PD-old-100-expired) | PD-old-100-expired | Paintings by Francesco Albani in the Dulwich Picture Gallery
+   LICURL:  USAGE: Public domain
+### Sant Alfonso Esquilino Perpetuo Soccorso icona
+### Our Lady of Perpetual Help original icon Rome
+3648x2736	CC0	File:Saint Alphonsus de Liguori - Rome - Our lady of perpetual help.JPG	| Saint Alphonsus de Liguori - Rome - apse with original icon of Our lady of perpetual help
+3456x4608	CC BY-SA 3.0	File:PuraChurchjf6428 10.JPG	| (F-1887) Saint Antoninus Parish Church of Pura - Poblacion Pura, Tarlac[1] 2312 Tarlac, Philippines Titular: St. Antoninus, May 10 Parish Pr
+3000x4000	CC BY-SA 4.0	File:Sant'Alfonso all'Esquilino -Roma fc04.jpg	| Church of Holy Redeemer and St. Alphonsus Liguori, Rome
+4000x3000	CC BY-SA 4.0	File:Sant'Alfonso all'Esquilino -Roma fc06.jpg	| Church of Holy Redeemer and St. Alphonsus Liguori, Rome
+1025x1812	Public domain	File:The portfolio of origins and inventions -being an etymological compendium ... - (IA portfoliooforigi00pull).pdf	| xx, 443 p. ; 19 cm Original title: The etymological compendium. London : W. Tegg, 1828 Subjects: Encyclopedias and dictionaries
+1062x1850	Public domain	File:The etymological compendium; or, portfolio of origins and inventions .. Containing a particular account of London. And its public buildings ... (IA b29337355).pdf	| Subjects:
+2114x2650	Public domain	File:Victoria Daily Times (1914-04-02) (IA victoriadailytimes19140402).pdf	| Historic newspaper from British Columbia - Canada Subjects: British Columbia; Newspapers
+1387x2255	Public domain	File:Windsor Forest - Pope (1720).djvu	| Windsor Forest, by Alexander Pope, fourth edition published in 1720
+### Charbel Makhlouf painting icon
+### Gerardo Maiella dipinto
