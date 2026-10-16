@@ -1,1 +1,26 @@
-{}
+{
+ "mateus": {
+  "src": "/arte/biblia/mateus.jpg",
+  "alt": "São Mateus, idoso e de barba branca, recebe o Evangelho de um anjo que aponta o livro, pintura de Guercino",
+  "credito": "Guercino, São Mateus e o Anjo, 1622. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 0%"
+ },
+ "marcos": {
+  "src": "/arte/biblia/marcos.jpg",
+  "alt": "São Marcos de barba branca, pensativo junto aos livros e ao tinteiro, com a cabeça do leão aos pés, de Carlo Maratta",
+  "credito": "Carlo Maratta, O Evangelista São Marcos, c. 1655-1660. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 10%"
+ },
+ "lucas": {
+  "src": "/arte/biblia/lucas.jpg",
+  "alt": "São Lucas escreve o Evangelho com a pena sobre o livro aberto, com o touro ao fundo, pintura de Frans Hals",
+  "credito": "Frans Hals, São Lucas, c. 1625. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 41%"
+ },
+ "joao": {
+  "src": "/arte/biblia/joao.jpg",
+  "alt": "São João Evangelista de manto vermelho olha para o céu com a pena na mão, com a águia e dois anjinhos, de Domenichino",
+  "credito": "Domenichino, São João Evangelista, c. 1624-1629. Domínio público, via Wikimedia Commons.",
+  "foco": "50% 12%"
+ }
+}
