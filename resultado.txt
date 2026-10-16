@@ -33,390 +33,420 @@ OK	fr/big_bacf1	2232x3968	CC BY 2.0	jean-louis Zimmermann from Orange, FRANC	Fil
    DESC: chapelle de la rue du Bac (PARIS,FR75)
    CATS: CC-BY-2.0 | Flickr images reviewed by FlickreviewR 2 | Glass coffins | Interior of Chapelle Notre-Dame de la Médaille Miraculeuse | Relics of Catherine Labouré
    LICURL: https://creativecommons.org/licenses/by/2.0 USAGE: Creative Commons Attribution 2.0
-OK	fr/at_jos1	4390x6736	CC0	Ferdinand Bol	File:De 'Vorst van het Heir des Heeren' verschijnt aan Jozua bij Jericho (Jozua 513), SK-A-1578.jpg
-   DESC: The 'captain of God's army' appears to Joshua near Jericho. Above them the heavens open from which cherubs fly. On of them is holding a snake biting its own tail as the symbol of eternity. Joshua is depicted wearing a suit of armor holding a sword and a shield in his hands. Part of five paintings that served as wall hangings of the achterzaal (back room) of Nieuwegracht 6 in Utrecht. Of the sixth 
-   CATS: Artworks main subject 2D work | Artworks with Wikidata item | Artworks with known accession number | Bol Room | CC-Zero | Jacoba Lampsins collection | Joshua in paintings | Old Testament paintings in the Rijksmuseum Amsterdam | Paintings by Ferdinand Bol in the Rijksmuseum Amsterdam | Paintings in the Peace Palace | Religious paintings by Ferdinand Bol | Unknown date
+OK	fr/at_dan2	7232x5530	Public domain	Rembrandt	File:Rembrandt Harmensz. van Rijn (Dutch - Daniel and Cyrus before the Idol Bel - Google Art Project.jpg
+   DESC: Der Perserkönig Kyros fragt den jüdischen Propheten Daniel, warum er nicht auch das Kultbild des Gottes Bel verehre. Daniel antwortete, er huldige nur dem lebendigen Gott, nicht einer von Menschen gemachten Skulptur aus Bronze und Lehm. Als Kyros den täglichen Verbrauch der Opfergaben als Beweis einwendet, werden die Türen des Tempels nach Einbringung der Opfergaben versiegelt. Die Priester Bels a
+   CATS: 1630s oil on panel paintings | 1633 paintings | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Daniel and Cyrus before the Idol Bel by Rembrandt | Files from Google Arts & Culture | Google Art Project works by Rembrandt | PD-Art (PD-old-100-expired) | PD-old-100-expired | Rembrandt’s Orient. West Meets East in Dutch Art of the 17th Century
+   LICURL:  USAGE: Public domain
+OK	fr/at_dan3	4000x3180	Public domain	Bartlomiej Strobel	File:Bartholomaus Strobel - Daniel and king Cyrus before Bel (Daniel 14-1-2) - M.Ob.1284 - National Museum in Warsaw.jpg
+   DESC: 
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Daniel and Cyrus before the Idol Bel by Bartholomäus Strobel | PD-Art (PD-old-auto-expired) | PD-old-100-expired
+   LICURL:  USAGE: Public domain
+OK	fr/at_job5	4000x2786	CC0	William Blake	File:William Blake, Job and His Daughters, 1799-1800, NGA 30221.jpg
+   DESC: 
+   CATS: Artworks with known accession number | Artworks without Wikidata item | CC-Zero | Images from the National Gallery of Art | Old Testament paintings in the National Gallery of Art | Uploaded with pattypan
    LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/at_jos2	5001x3409	Public domain	Benjamin West	File:Benjamin West - Joshua passing the River Jordan with the Ark of the Covenant - Google Art Project.jpg
+OK	fr/at_job6	4134x2563	Public domain	Kristian Zahrtmann	File:Kristian Zahrtmann - Job and His Friends - KMS1661 - Statens Museum for Kunst.jpg
    DESC: 
-   CATS: 1800 paintings of people | 1800s religious paintings | Ark of the Covenant in paintings | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | British paintings in the Art Gallery of New South Wales | CC-PD-Mark | Crossing the Jordan | Equestrian portraits of men in armour | Featured pictures on Wikipedia, English | Files from Google Arts & Culture | Files with Assessments template missing SDC Commons no value quality assessment | Goog
+   CATS: 1887 paintings by Kristian Zahrtmann | 19th-century paintings of Job | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | Artworks with known accession number | CC-PD-Mark | Job and his friends | Old Testament paintings by Kristian Zahrtmann | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Kristian Zahrtmann in Statens Museum for Kunst | Paintings of nude people by Kristian Zahrtmann
    LICURL:  USAGE: Public domain
-OK	fr/at_rs3	6510x4986	Public domain	Abraham van Dijck	File:Abraham van Dijck Der Prophet Elisa weist Naamans Gaben zurück c1655.jpg
-   DESC: 
-   CATS: 1650 paintings of people | 17th-century paintings, location missing | 17th-century paintings of Old Testament | Abraham van Dijck | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | CC-PD-Mark | Images from Hampel Auctions | Naaman | PD-Art (PD-old-100-expired) | PD-old-100-expired | Paintings of Elisha
+OK	fr/at_job7	6493x9078	Public domain	Alexandre-Gabriel Decamps	File:Alexandre-Gabriel Decamps - Job and His Friends - 39.48 - Minneapolis Institute of Arts.jpg
+   DESC: Job discussing with his friends
+   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | Artworks with known accession number | CC-PD-Mark | Job and his friends | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Alexandre-Gabriel Decamps | Religious paintings in the Minneapolis Institute of Art
    LICURL:  USAGE: Public domain
-OK	fr/at_rs4	3000x2061	Public domain	Lambert Jacobsz	File:Lambert Jacobsz - Elisha Refusing Naaman’s Gifts - LJ-100 - Leiden Collection.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Lambert Jacobsz | Leiden Collection | PD-Art (PD-old-auto-expired) | PD-old-100-expired
-   LICURL:  USAGE: Public domain
-OK	fr/at_sab1	1280x883	Public domain	Luca Giordano	File:Luca Giordano - Dream of Solomon - WGA09004.jpg
-   DESC: 
-   CATS: 1690s oil on canvas paintings in Spain | 1690s paintings of angels | 1690s religious paintings | 1694 paintings in Spain | 1694 paintings of people | 17th-century paintings of God the Father | 17th-century paintings of angels with humans | 17th-century religious paintings in Spain | Angels on clouds | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Dream of Solomon | Imag
-   LICURL:  USAGE: Public domain
-OK	fr/at_sal1	4000x3196	Public domain	Hendrick ter Brugghen	File:Hendrick ter Brugghen - King David playing the harp among angels - M.Ob.529 MNW - National Museum in Warsaw.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | King David playing the harp by Hendrick ter Brugghen | Old Testament paintings in the National Museum in Warsaw | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Religious paintings by Hendrick ter Brugghen
-   LICURL:  USAGE: Public domain
-OK	fr/at_sal2	4096x2749	Public domain	Peter Paul Rubens	File:Peter Paul Rubens - King David Playing the Harp - BF812 - Barnes Foundation.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | David in paintings | Eucharist series - Modelli | Harps in paintings | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings by Peter Paul Rubens in the Barnes Foundation | Paintings of David playing harp | Paintings of Old Testament by Rubens | Religious paintings in the Barnes Foundatio
-   LICURL:  USAGE: Public domain
-OK	fr/at_sal3	3262x4088	Public domain	Workshop of Peter Paul Rubens	File:Workshop of Peter Paul Rubens - King David playing the harp.jpg
-   DESC: 
-   CATS: 1640s oil on canvas paintings | 1640s paintings of people | 1640s religious paintings | 17th-century paintings of David | CC-PD-Mark | Creator Peter Paul Rubens missing SDC depicts | Images from Dorotheum | Men facing left in art | PD-Art (PD-old-100) | Paintings of David playing harp | Paintings without Wikidata item | Workshop of Peter Paul Rubens
-   LICURL:  USAGE: Public domain
-OK	fr/at_sal4	2000x2489	Public domain	Guercino	File:Giovanni francesco barbieri il guercino king david).jpg
-   DESC: in a George III carved and gilt-gesso frame designed by James 'Athenian' Stuart for Spencer House and possibly carved by Thomas Vardy, circa 1768, carved with lotus and acanthus buds, egg and dart and an outer palmette band, and with a cavetto moulded, foliate, beaded and egg and dart edge
-   CATS: CC-PD-Mark | Images from Christie's by Guercino | Old Testament paintings by Guercino | PD-Art (PD-old-70) | PD-Art (PD-old default) | Paintings without Wikidata item
-   LICURL:  USAGE: Public domain
-OK	fr/at_sal5	2439x1946	Public domain	Hendrick ter Brugghen	File:Brugghen King David.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | King David playing the harp by Hendrick ter Brugghen | PD-Art (PD-old-auto-expired) | PD-old-100-expired
-   LICURL:  USAGE: Public domain
-OK	fr/at_esd1	4338x6000	CC BY-SA 4.0	Gennadii Saus i Segura	File:Codex Amiantinus. Firenze, Biblioteca Medicea Laurenziana, Amiat.1, fol. 5r.jpg
-   DESC: Codex Amiantinus. Firenze, Biblioteca Medicea Laurenziana, Amiat.1, fol. 5r
-   CATS: CC-BY-SA-4.0 | Codex Amiatinus - Ezra miniature | Items with disputed copyright information | Self-published work
+OK	fr/at_sir2	2479x2451	CC BY-SA 4.0	Doppelklecks	File:Koelner Dom Jesus Sirach Fenster.jpg
+   DESC: Kölner Dom: Das Jesus-Sirach-Fenster ist Teil des Welter-Zyklus und seit März 2017 nach Restaurierung wieder im Obergaden des südlichen Querhauses eingesetzt.
+   CATS: CC-BY-SA-4.0 | Self-published work | South transept stained-glass windows (Cologne Cathedral)
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_esd2	1576x2266	Public domain	Meister des Codex Amiatinus	File:Meister des Codex Amiatus 001.jpg
-   DESC: 
-   CATS: Codex Amiatinus - Ezra miniature | Illustrations of bookcases | Interiors of libraries in art | Men with books in art | PD-Art (Yorck Project) | Paintings of saints writing | Paintings without Wikidata item | Scriptoriums in art | Yorck Project paintings missing SDC digital representation of
-   LICURL:  USAGE: Public domain
-OK	fr/at_jud1	3627x4928	Public domain	Sandro Botticelli	File:Sandro Botticelli, Ritorno di Giuditta dal campo nemico - Rückkehr der Judith nach Bethulia - The Return of Judith to Bethulia.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Judith and Holofernes (Botticelli,Uffizi) | PD-Art (PD-old-100-expired) | PD-old-100-expired
-   LICURL:  USAGE: Public domain
-OK	fr/at_job3	1576x2329	Public domain	Georges de La Tour	File:Georges de La Tour 044.jpg
-   DESC: 
-   CATS: 17th-century paintings of Job | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Job mocked by his Wife by Georges de La Tour | PD-Art (PD-old-auto-expired) | PD-Art (Yorck Project) | PD-old-100-expired | Paintings of Job in France | Paintings of couples | People with candles in art
-   LICURL:  USAGE: Public domain
-OK	fr/at_job4	3584x2824	CC0	Gaspare Traversi	File:Traversi Job mocked by his wife 01.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-Zero | Job mocked by his wife by Gaspare Traversi | Picture frames in the National Museum in Warsaw | Self-published work
+OK	fr/at_sir3	3880x5984	CC0	Rijksmuseum	File:Jezus Sirach en de personificatie van Gods wijsheid, RP-P-OB-6961.jpg
+   DESC: IdentificatieTitel(s): Jezus Sirach en de personificatie van Gods wijsheidObjecttype: prent titelpagina Objectnummer: RP-P-OB-6961Catalogusreferentie: Judson&amp;van de Velde 70. Opmerking: 1(2), 2 staten in de collectie van het RijksmuseumOpschriften / Merken: verzamelaarsmerk, verso, gestempeld: Lugt 240Omschrijving: De personificatie van Gods wijsheid (Dei Sapientia) troont in de wolken en geef
+   CATS: CC-Zero | Ecclesiasticus | Engravings of personifications in the Rijksmuseum Amsterdam | Prints after Rubens in the Rijksmuseum Amsterdam | Prints by Cornelis Galle (I) in the Rijksmuseum Amsterdam | Title pages in the Rijksmuseum Amsterdam
    LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
-OK	fr/at_can1	2623x4929	Public domain	Gustave Moreau	File:Gustave Moreau - Song of Songs (Cantique des Cantiques) - Google Art Project.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Collections of the Ohara Museum of Art | Files from Google Arts & Culture | Google Art Project paintings | Google Art Project works by Gustave Moreau | Google Art Project works in Ohara Museum of Art | PD-Art (PD-old-100-expired) | PD-old-100-expired | Paintings by Gustave Moreau in the Ohara Museum of Art | Song of Songs by Gustave Moreau
-   LICURL:  USAGE: Public domain
-OK	fr/at_can2	4075x6899	Public domain	Gustaaf Wappers	File:Gustaf Wappers - De Sulammitische - 1555 - Royal Museum of Fine Arts Antwerp.tiff
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Gustaf Wappers in the Royal Museum of Fine Arts Antwerp
-   LICURL:  USAGE: Public domain
-OK	fr/at_can3	2000x3000	CC BY 4.0	Paolobon140	File:Gaetano Motelli (1806-1858) La sposa dei Sacri Cantici (1854) dettaglio di tre quarti.jpg
-   DESC: Gaetano Motelli (1806-1858) La sposa dei Sacri Cantici (1854) dettaglio di tre quarti
-   CATS: Braids in art | CC-BY-4.0 | Female human breasts in art | Photos by Paolobon140 | Self-published work | Shulamite | Statues of sitting women in Italy | The Bride of the Song of Songs by Gaetano Motelli
-   LICURL: https://creativecommons.org/licenses/by/4.0 USAGE: Creative Commons Attribution 4.0
-OK	fr/at_bar1	1567x1920	Public domain	Washington Allston	File:Washington Allston - Jeremiah Dictating His Prophecy of the Destruction of Jerusalem to Baruch the Scribe - 1866.1 - Yale University Art Gallery.jpg
-   DESC: 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | Baruch | CC-PD-Mark | PD-Art (PD-old-auto-expired) | PD-Art missing SDC copyright status | PD-old-100-expired | PD-old missing SDC copyright status | Paintings by Washington Allston | Paintings in the Yale University Art Gallery | Paintings of Jeremiah
-   LICURL:  USAGE: Public domain
-OK	fr/at_bar2	1200x1600	Public domain	Luis Rizo	File:BarucProfeta.jpg
-   DESC: Profeta Baruc - Doze profetas de Aleijadinho Congonhas Minas Gerais
-   CATS: Baruch (Santuário do Bom Jesus de Matosinhos) | PD-self | Self-published work | Taken with Canon PowerShot A570 IS
-   LICURL:  USAGE: Public domain
-OK	fr/at_abd1	3990x2660	CC BY-SA 4.0	Renatoasfe	File:Profeta Abdias.jpg
-   DESC: This is a photo of a monument in Brazil identified by the ID
-   CATS: Brazil photographs taken on 2016-08-22 | CC-BY-SA-4.0 | Images from Wiki Loves Monuments 2017 | Images from Wiki Loves Monuments 2017 in Brazil | Images from Wiki Loves Monuments 2017 in Brazil - Minas Gerais | Images from Wiki Loves Monuments missing SDC depicts | Images from Wiki Loves Monuments missing SDC location of creation | Listed monuments in Minas Gerais | Self-published work | Uploaded via Campaign:wlm-br
+OK	fr/at_sir4	3416x5688	CC0		File:Southern France, Toulouse(?), 13th century - Fol. 257r, Ecclesiasticus, historiated initial O, Sirach seated with a scro - 2008.2.257.a - Cleveland Museum of Art.tif
+   DESC: Biblical manuscripts were highly prized and important possessions of churches, monasteries, cathedral schools, and universities throughout medieval Europe. The biblical texts were known as the vulgate, the translations made by Saint Jerome in the fourth century from Hebrew and Greek into Latin, which became the definitive and official Latin version of the Roman Church. In the 13th century, the bib
+   CATS: Artworks with known accession number | Artworks without Wikidata item | CC-Zero | Ecclesiasticus | Files with no machine-readable author | Illuminated manuscripts in the Cleveland Museum of Art | Images from Cleveland Museum of Art | Unsupported object | Uploaded with pattypan
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/at_lev2	2043x1597	CC0	Simon Speed	File:FirtsOfferingAaron.JPG
+   DESC: "The First Offering of Aaron" (1864) by Simeon Solomon. Pen and black carbon ink on paper. Illustrating the ninth chapter of Leviticus. On display at The Higgins museum and gallery, Bedford. I have desaturated the image, as all the colour came from the lighting.
+   CATS: 1864 works in the United Kingdom | 19th-century drawings of animals | 19th-century religious drawings | Book of Leviticus | CC-Zero | Drawings by Simeon Solomon | Drawings of Aaron | Photos by Simon Speed | Pre-Raphaelite paintings of Old Testament | Self-published work | Taken with Nikon Coolpix S520 | The Higgins, Bedford
+   LICURL: http://creativecommons.org/publicdomain/zero/1.0/deed.en USAGE: Creative Commons Zero, Public Domain Dedication
+OK	fr/at_mac3	4542x3185	CC BY-SA 4.0	Zairon	File:Manta Castello della Manta Interno Sala Baronale 08.jpg
+   DESC: Baronal Hall of Manta Castle, Manta, Province of Cuneo, Region of Piedmont, Italy
+   CATS: Alexander the Great as one of the Nine Worthies | CC-BY-SA-4.0 | Coats of arms of King Arthur | David as one of the Nine Worthies | Federico I, Marquis of Saluzzo | Federico II, Marquis of Saluzzo | Fur fashion in 1336 | Fur linings in art | Hector as one of the Nine Worthies | Joshua as one of the Nine Worthies | Joshua in paintings | Judas Maccabeus as one of the Nine Worthies | Julius Caesar as one of the Nine Worthies | King Arthur as one of the Nine Worthies | Lion sejant in chair as the ar
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_abd2	1200x1600	Public domain	Luis Rizo	File:AbadiasProfeta.jpg
-   DESC: Profeta Abdias - Doze profetas de Aleijadinho Congonhas Minas Gerais
-   CATS: Obadiah (Santuário do Bom Jesus de Matosinhos) | PD-self | Self-published work
-   LICURL:  USAGE: Public domain
-OK	fr/at_nau1	1200x1468	Public domain	Luis Rizo	File:NahumProfeta.jpg
-   DESC: Profeta Naum - Doze profetas de Aleijadinho Congonhas Minas Gerais
-   CATS: Images which had their watermark removed | Nahum (Santuário do Bom Jesus de Matosinhos) | PD-self | Self-published work | Taken with Canon PowerShot A570 IS
-   LICURL:  USAGE: Public domain
-OK	fr/at_hab1	1875x2500	CC BY-SA 4.0	Ricardo André Frantz - Tetraktys	File:Aleijadinho - Detalhe do profeta Habacuc - Santuário do Bom Jesus de Matosinhos - Congonhas.jpg
-   DESC: This is a photo of a monument in Brazil identified by the ID
-   CATS: Brazil photographs taken on 2015-09-30 | CC-BY-SA-4.0 | Habakkuk (Santuário do Bom Jesus de Matosinhos) | Images from Wiki Loves Monuments 2015 | Images from Wiki Loves Monuments 2015 in Brazil | Images from Wiki Loves Monuments 2015 in Brazil - Minas Gerais | Images from Wiki Loves Monuments missing SDC depicts | Images from Wiki Loves Monuments missing SDC location of creation | Photographs by Ricardo André Frantz | Self-published work | Uploaded via Campaign:wlm-br
+OK	fr/at_mac4	4584x3141	CC BY-SA 4.0	Zairon	File:Manta Castello della Manta Interno Sala Baronale 14.jpg
+   DESC: Baronal Hall of Manta Castle, Manta, Province of Cuneo, Region of Piedmont, Italy
+   CATS: CC-BY-SA-4.0 | Carolus Magnus as one of the Nine Worthies | Coats of arms of Carolus Magnus | Coats of arms of King Arthur | David as one of the Nine Worthies | Federico I, Marquis of Saluzzo | Frescos of Carolus Magnus | Fur fashion in 1336 | Fur linings in art | Godfrey of Bouillon as one of the Nine Worthies | Godfrey of Bouillon in frescos | Jerusalem Cross | Joshua as one of the Nine Worthies | Joshua in paintings | Judas Maccabeus as one of the Nine Worthies | King Arthur as one of the Nin
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_amo2	4272x2848	CC BY-SA 4.0	Renatoasfe	File:Profeta Amós.jpg
-   DESC: This is a photo of a monument in Brazil identified by the ID
-   CATS: Brazil photographs taken on 2016-08-22 | CC-BY-SA-4.0 | Images from Wiki Loves Monuments 2017 | Images from Wiki Loves Monuments 2017 in Brazil | Images from Wiki Loves Monuments 2017 in Brazil - Minas Gerais | Images from Wiki Loves Monuments missing SDC depicts | Images from Wiki Loves Monuments missing SDC location of creation | Listed monuments in Minas Gerais | Self-published work | Uploaded via Campaign:wlm-br
+OK	fr/at_mac5	4582x3211	CC BY-SA 4.0	Zairon	File:Manta Castello della Manta Interno Sala Baronale 15.jpg
+   DESC: Baronal Hall of Manta Castle, Manta, Province of Cuneo, Region of Piedmont, Italy
+   CATS: Alexander the Great as one of the Nine Worthies | CC-BY-SA-4.0 | David as one of the Nine Worthies | Federico I, Marquis of Saluzzo | Federico II, Marquis of Saluzzo | Fur fashion in 1336 | Fur linings in art | Hector as one of the Nine Worthies | Joshua as one of the Nine Worthies | Joshua in paintings | Judas Maccabeus as one of the Nine Worthies | Julius Caesar as one of the Nine Worthies | Lion sejant in chair as the arms of Alexander the Great | Maestro del Castello della Manta | Male fur c
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_amo3	1200x1600	CC BY-SA 4.0	moraiserica	File:Profeta Amós em Congonhas, MG.jpg
-   DESC: Profeta Amós, esculpido por Aleijadinho, no Santuário de Bom Jesus de Matozinhos (Congonhas, MG)
-   CATS: Adro dos Profetas | Aleijadinho | Brazil | CC-BY-SA-4.0 | Minas Gerais | Self-published work
+OK	fr/at_mac6	4592x2876	CC BY-SA 4.0	Zairon	File:Manta Castello della Manta Interno Sala Baronale 16.jpg
+   DESC: Baronal Hall of Manta Castle, Manta, Province of Cuneo, Region of Piedmont, Italy
+   CATS: CC-BY-SA-4.0 | Carolus Magnus as one of the Nine Worthies | Coats of arms of Carolus Magnus | Coats of arms of King Arthur | David as one of the Nine Worthies | Federico I, Marquis of Saluzzo | Federico II, Marquis of Saluzzo | Frescos of Carolus Magnus | Fur fashion in 1336 | Fur linings in art | Godfrey of Bouillon as one of the Nine Worthies | Godfrey of Bouillon in frescos | Jerusalem Cross | Joshua as one of the Nine Worthies | Joshua in paintings | Judas Maccabeus as one of the Nine Worthi
    LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
-OK	fr/at_amo4	1200x1600	Public domain	Luis Rizo	File:AmosProfeta.jpg
-   DESC: Profeta Amos - Doze profetas de Aleijadinho Congonhas Minas Gerais
-   CATS: Amos (Santuário do Bom Jesus de Matosinhos) | PD-self | Self-published work | Taken with Canon PowerShot A570 IS
-   LICURL:  USAGE: Public domain
-OK	fr/at_sof1	3120x4160	Public domain	James Tissot	File:Tissot Drawing 412 Zephaniah Zephaniah 1 14 for Brunoff 399 Sophonie.jpg
-   DESC: Pen and ink sketch by James Tissot for his painted illustrations of the Old Testament; one of 200 worked up by other artists after his death and published as chromolithographs by Maurice Brunoff in 1904.
-   CATS: Author died more than 70 years ago public domain images | Book of Zephaniah | CC-PD-Mark | Old Testament by James Tissot | PD-1996 | PD-US missing SDC copyright status | PD-old missing SDC copyright status | Zephaniah
-   LICURL:  USAGE: Public domain
-OK	fr/at_age1	3456x4608	Public domain	James Tissot	File:Tissot Drawing 413 Haggai Haggai 1 3-4 for Brunoff 400 Aggée.jpg
-   DESC: Pen and ink sketch by James Tissot for his painted illustrations of the Old Testament; one of 200 worked up by other artists after his death and published as chromolithographs by Maurice Brunoff in 1904.
-   CATS: Author died more than 70 years ago public domain images | Book of Haggai | CC-PD-Mark | Haggai | PD-1996 | PD-US missing SDC copyright status | PD-old missing SDC copyright status
-   LICURL:  USAGE: Public domain
-OK	fr/at_sol4	2530x2822	Public domain	Kristian Zahrtmann	File:King Solomon (Zahrtmann).jpg
-   DESC: Half-length portrait of a young man with his right hand on his cheek. He is in a violet gown over an open white shirt, a golden ring around his head.
-   CATS: 1881 paintings by Kristian Zahrtmann | 1881 portrait paintings from Denmark | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing dimensions | Artworks with Wikidata item missing genre | CC-PD-Mark | Collection Hans Tobiesen | Collection Valdemar Glückstadt | Images from Bruun Rasmussen Kunstauktioner | Old Testament paintings by Kristian Zahrtmann | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Solomon in paintings
-   LICURL:  USAGE: Public domain
-OK	fr/at_sol5	2550x2845	Public domain	Arent de Gelder	File:Arent de Gelder - Old Testament Figure, Probably King Solomon - AG-104 - Leiden Collection.jpg
-   DESC: 
-   CATS: 1680s paintings of Old Testament | 1680s religious paintings in the United States | 17th-century paintings of men | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | CC-PD-Mark | Fur collars in art | Fur fashion in 1678 | Leiden Collection | Male portrait paintings with lynx (clothing) | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings by Aert de Gelder | Taken with Hasselb
-   LICURL:  USAGE: Public domain
-OK	fr/at_sol6	3973x3320	Public domain	Luca Giordano	File:Giordano, Luca — Solomo und die Königin von Saba — 1697-1698.JPG
-   DESC: Solomon and the Queen of Sheba
-   CATS: 1690s paintings from Italy | 1690s religious paintings in the Alte Pinakothek | 17th-century paintings of Old Testament | 17th-century paintings of Solomon and Sheba | 17th-century religious paintings in Germany | Ambiguous location in EXIF | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Das Alte Testament – Geschichten und Gestalten | Ermine (clothing) in art | File uploads by User:Mattes (flat) | Framed paintings 
-   LICURL:  USAGE: Public domain
-OK	fr/at_sol7	3000x2373	Public domain	Lavinia Fontana	File:Visit of the Queen of Sheba to Solomon by L. Fontana (c. 1600, NGI).jpg
-   DESC: In this, one of her most ambitious portraits, Vincenzo II Gonzaga and his wife Eleonora de’ Medici are depicted in the guise of King Solomon and the Queen of Sheba. This Old Testament story was chosen because the Gonzaga family of Mantua claimed ancient connections with the Queen of Sheba. This painting was apparently inspired by an actual event that occurred in 1600, when the Dukes of Mantua pass
-   CATS: 1600 paintings | 17th-century paintings of people with dogs | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with accession number from Wikidata | Artworks with known accession number | Artworks with redirected Wikidata link | Artworks with structured data with redirected digital representation of property | CC-PD-Mark | Court dwarves | Eleonora de' Medici | Files, uploaded by Shakko from various sources | Old Testament paintings in the National Gallery of Ir
-   LICURL:  USAGE: Public domain
-OK	fr/at_sol8	5000x3786	Public domain	Gerard de Lairesse	File:Francúzsky maliar - Old Testament Scene (Solomon and King David) - O 253 - Slovak National Gallery.jpg
-   DESC: 
-   CATS: 1690 paintings of people | 1690s paintings from France | 1690s paintings of Old Testament | 17th-century paintings in the Slovak National Gallery | Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | Artworks with known accession number | Baroque paintings in Slovakia | CC-PD-Mark | David and Solomon | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Paintings of Old Testament by Gérard de Lairesse | Portraits as biblical char
-   LICURL:  USAGE: Public domain
-OK	fr/at_sol9	11446x11392	Public domain	Ferdinand Bol	File:Salomo ontvangt geschenken Rijksmuseum SK-A-1579.jpeg
-   DESC: The looted treasure from the temple of Jerusalem is being presented to Cyrus, king of the Persians. The king is standing on the footsteps of the temple, while a number of silver and gold dishes, beakers and jugs are carried to him. Part of five paintings that served as wall hangings of the achterzaal (back room) of Nieuwegracht 6 in Utrecht. Of the sixth wall hanging by Jan van Bijlert only a frag
-   CATS: Artworks digital representation of 2D work | Artworks digital representation of unknown type of work | Artworks with Wikidata item | Artworks with known accession number | Bol Room | CC-PD-Mark | CC-Zero | GWToolset Batch Upload | Gifts in art | Images from the Rijksmuseum | Images uploaded by Fæ | Jacoba Lampsins collection | Large images | Old Testament paintings in the Rijksmuseum Amsterdam | PD Old | PD US | Paintings by Ferdinand Bol in the Rijksmuseum Amsterdam | Paintings in the Peace Pal
-   LICURL:  USAGE: Public domain
-OK	fr/at_sb2	3031x2022	Public domain	Circle of Bartlomiej Strobel	File:Bartholomäus Strobel dJ Nathan ermahnt Daniel.jpg
-   DESC: "The prophet Nathan admonishes King David" (2 Sam 12:1–15). Oil on panel, about 57 x 84.5 cm
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with Wikidata item missing genre | CC-PD-Mark | David and Nathan | Images from Dorotheum | PD-Art (PD-old-100) | Paintings by Bartholomäus Strobel | Paintings of thrones
-   LICURL:  USAGE: Public domain
-OK	fr/at_mac2	4000x2783	Public domain	Wojciech Korneli Stattler	File:Stattler, Wojciech Korneli - The Maccabees (1842) (4k).jpg
-   DESC: Measurements: height: 262 cm, width: 371 cm; with frame: height: 311.5 cm, width: 423 cm, depth: 21.5 cm "Wojciech Korneli Stattler's work oscillates between classicism and romanticism, and between religious, historical and portrait themes. He was influenced by both Italian quattro and cinquecento painting, especially Raphael, and the art of the German Nazarenes. These fascinations are legible in 
-   CATS: Author died more than 70 years ago public domain images | CC-PD-Mark | CC-Zero | PD US expired | Polish paintings in the National Museum in Kraków
-   LICURL:  USAGE: Public domain
-OK	fr/at_gen3	2952x2223	Public domain	Jusepe de Ribera	File:El sueño de Jacob, por José de Ribera.jpg
-   DESC: El cuadro narra el sueño misterioso del patriarca Jacob, según relata el Génesis, quien aparece dormido, recostado sobre el brazo izquierdo. Detrás de él se encuentra un árbol y al otro lado la escala de luz por la que suben y bajan los ángeles. El asunto muestra la capacidad técnica de Ribera para construir un discurso metafórico. A través de la representación de un pastor tendido a descansar en 
-   CATS: Artworks digital representation of 2D work | Artworks with Wikidata item | Artworks with known accession number | CC-PD-Mark | Jacob's Dream, by José de Ribera | PD-Art (PD-old-auto-expired) | PD-old-100-expired | Taken with Hasselblad H3D-39
-   LICURL:  USAGE: Public domain
-### Jesus Sirach
-1676x1402	Public domain	File:Schnorr von Carolsfeld Bibel in Bildern 1860 149.png	| Woodcut for "Die Bibel in Bildern", 1860.
-1383x2337	Public domain	File:Ben-Sira Hebrew (Vienna 1814).djvu	| A vowelized Hebrew translation of Ben Sira from the ancient translations into Greek and Syriac (Septuagint and Peshitta), accompanied by the
-1330x2408	Public domain	File:Ben-Sira Hebrew (Vienna 1818).djvu	| A vowelized Hebrew translation of Ben Sira from the ancient translations into Greek and Syriac (Septuagint and Peshitta) by Yehudah Leib ben
-3507x2480	Public domain	File:Ben-Sira-Kahana-1912.djvu	| This is a vowelized Hebrew edition of the apocryphal book of Ben Sira accompanied by a brief commentary. The text is based on Hebrew manuscr
-1097x1738	Public domain	File:Ben-Sira-1842.djvu	| A translation of Ben Sira into Hebrew from German.
-1402x1969	Public domain	File:Fugger Ehrenbuch 001.jpg	| Geheimes Ehrenbuch der Fugger, hergestellt in der Werkstatt Jörg Breu d. J., 1545–1549 Erste Seite mit Darstellung des Hohepriesters Jesus S
-1368x933	Public domain	File:BEN-SIRA-BALFOUR.JPG	| בית הספר בלפור
-3516x4093	Public domain	File:Zentralbibliothek Zürich - Alle Weissheit ist bey Gott dem Herrn - 000012138.jpg	| (Book of Sirach, first chapter, German translation), anonymous artist 1654
-4608x3456	CC BY-SA 4.0	File:Memorial plaque to Yaakov Ben-Sira in Tel Aviv.JPG	| לוחית זיכרון ליעקב בן-סירה בשדרות רוטשילד 133 בתל אביב
-1944x2592	CC BY-SA 3.0	File:Ben sira - panoramio.jpg	| Jerusalem, Ben Sira street, view from the tower - High-angle shot
-1944x2592	CC BY-SA 3.0	File:Ben sira - panoramio (1).jpg	| Jerusalem, view from the tower in Ben Sira street
-3880x5984	CC0	File:Jezus Sirach en de personificatie van Gods wijsheid, RP-P-OB-6961.jpg	| IdentificatieTitel(s): Jezus Sirach en de personificatie van Gods wijsheidObjecttype: prent titelpagina Objectnummer: RP-P-OB-6961Catalogusr
-3820x6040	CC0	File:Christus met Jesus Sirach junior en senior Titelpagina voor Salvator de Leon, In Ecclesiasticum Iesu Filii Sirach, Antwerpen, 1640, RP-P-OB-6928.jpg	| IdentificatieTitel(s): Christus met Jesus Sirach junior en senior. Titelpagina voor: Salvator de Leon, In Ecclesiasticum Iesu Filii Sirach, 
-1576x2063	CC0	File:Jezus Sirach Jesus filius sirach (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-18-2.jpg	| IdentificatieTitel(s): Jezus Sirach. Jesus filius sirach (titel op object). Liber Chronicarum (serietitel)Objecttype: prent boekillustratie 
-6026x2336	CC0	File:Wijsheden van Jezus Sirach, boven Gnomae seu sententiae vitae utiles ex ecclesiastico, RP-P-OB-47.485A.jpg	| IdentificatieTitel(s): Wijsheden van Jezus Sirach, boven. Gnomae seu sententiae vitae utiles ex ecclesiasticoObjecttype: prent Objectnummer:
-2479x2451	CC BY-SA 4.0	File:Koelner Dom Jesus Sirach Fenster.jpg	| Kölner Dom: Das Jesus-Sirach-Fenster ist Teil des Welter-Zyklus und seit März 2017 nach Restaurierung wieder im Obergaden des südlichen Quer
-1960x4032	CC BY-SA 4.0	File:Sira Pub - The Entrance - 4 Ben Sira st. Jerusalem.jpg	| פאב סירה - הכניסה לפאב - רח' בן-סירא 4 ירושלים
-1960x4032	CC BY-SA 4.0	File:Sira Pub - inner room - 4 Ben Sira st. Jerusalem - no. 1.jpg	| פאב סירה - אחד החדרים הפנימיים בפאב - תמונה מס. 1
-4624x3472	CC BY 4.0	File:Brothers of Light in Ben Sira street Jerusalem 02.jpg	| Brothers of Light in Ben Sira street Jerusalem
-4624x3472	CC BY 4.0	File:AMGOSHA in Ben Sira street Jerusalem.jpg	| Graffiti in Jerusalem
-4208x3120	CC BY 4.0	File:Street art in Café Sira 01.jpg	| Street art in Café Sira
-4208x3120	CC BY 4.0	File:Street art in Café Sira 04.jpg	| Street art in Café Sira
-### Siracide
-3507x2480	Public domain	File:Ben-Sira-Kahana-1912.djvu	| This is a vowelized Hebrew edition of the apocryphal book of Ben Sira accompanied by a brief commentary. The text is based on Hebrew manuscr
-3516x4093	Public domain	File:Zentralbibliothek Zürich - Alle Weissheit ist bey Gott dem Herrn - 000012138.jpg	| (Book of Sirach, first chapter, German translation), anonymous artist 1654
-1886x1239	CC BY 2.0	File:Eastern Parson Spider (Herpyllus ecclesiasticus).jpg	| Searsmont, Maine, 1/13/13
-1600x1200	CC BY-SA 3.0	File:Sirach eg1.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1294x1600	CC BY-SA 3.0	File:Sirach eg2.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach eg3.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1099x1600	CC BY-SA 3.0	File:Sirach eg4.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach eg5.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach eg6.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach eg7.JPG	| Eglise de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-1600x1200	CC BY-SA 3.0	File:Sirach sf.JPG	| Foyer communal et salle des fêtes de Sirach, Ria-Sirach, Pyrénées-Orientales, France
-3416x5688	CC0	File:Southern France, Toulouse(?), 13th century - Fol. 257r, Ecclesiasticus, historiated initial O, Sirach seated with a scro - 2008.2.257.a - Cleveland Museum of Art.tif	| Biblical manuscripts were highly prized and important possessions of churches, monasteries, cathedral schools, and universities throughout m
-2809x3350	CC0	File:King Solomon speaks with Sirach and in the back its Wisdom as a person.jpg	| Ο βασιλιάς Σολομώντας μιλά με τον Σειράχ και στο βάθος η Σοφία προσωποποιημένη. King Solomon talks with Sirach and in the background Wisdom 
-1576x2063	CC0	File:Jezus Sirach Jesus filius sirach (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-18-2.jpg	| IdentificatieTitel(s): Jezus Sirach. Jesus filius sirach (titel op object). Liber Chronicarum (serietitel)Objecttype: prent boekillustratie 
-5184x3456	CC BY-SA 4.0	File:Église Saint-Clément de Sirach - 1.jpg	| Église Saint-Clément de Sirach depuis le sentier de Llugols
-3270x2598	CC BY-SA 4.0	File:66161-Ria-Sirach-Sols.png	| Carte des infrastructures et de l’occupation des sols en 2018 de la commune de fr:Ria-Sirach (France).
-2288x1928	CC BY-SA 4.0	File:Eastern Parson Spider - Herpyllus ecclesiasticus .jpg	| Eastern Parson Spider - Herpyllus ecclesiasticus
-3507x2480	CC BY-SA 4.0	File:66161-Ria-Sirach-Routes-Hydro.png	| Carte du réseau hydrographique et des infrastrctures de la commune de fr:Ria-Sirach (France).
-3057x2480	CC BY-SA 4.0	File:66161-Ria-Sirach-ZNIEFF1.png	| Carte des zones naturelles d'intérêt écologique, faunistique et floristique (ZNIEFF) de type 1 de la commune de fr:Ria-Sirach (France).
-3519x2480	CC BY-SA 4.0	File:66161-Ria-Sirach-ZNIEFF2.png	| Carte des zones naturelles d'intérêt écologique, faunistique et floristique (ZNIEFF) de type 2 de la commune de fr:Ria-Sirach (France).
-5846x4133	CC BY-SA 4.0	File:66161-Ria-Sirach-Natura2000.png	| Carte des sites classés au titre de la Directive Habitats (ZSC/pSIC/SIC) et des zones de protection spéciale (ZPS) sur la commune de fr:Ria-
-4076x3307	CC BY-SA 4.0	File:66161-Ria-Sirach-argile.png	| Carte de l'aléa retrait-gonflement des argiles sur la commune de fr:Ria-Sirach (France).
-3908x3210	CC BY 2.0	File:The book of Ben Sira (52050363861).jpg	| Genizah of Cairo, 12th century Institut du Monde Arabe, Paris
-3455x2760	CC BY-SA 4.0	File:Ria-Sirach (et Prades).jpg	| Ria (au premier plan) et Sirach (à droite), vallée de la Têt, Pyrénées-Orientales (66). Au fond : Prades.
-2643x2354	CC BY-SA 4.0	File:Sirach-église.jpg	| Église Saint-Clément de Sirach, commune de Ria-Sirach, Conflent, Pyrénées-Orientales.
-### Ben Sira painting
-1676x1402	Public domain	File:Schnorr von Carolsfeld Bibel in Bildern 1860 149.png	| Woodcut for "Die Bibel in Bildern", 1860.
-2452x1953	Public domain	File:Sirály - 1905.tif	| Basch Árpád festménye - Sirály. Illusztráció az Ujság Album melléklete 6. oldalán. Heczeg Ferenc a Szelek szárnyán című albummal kedveskedet
-3870x1827	Public domain	File:Village Statistics 1945 full.pdf	| Village Statistics 1945
-1345x1954	Public domain	File:Palestine index gazetteer (1948).pdf	| Compiled from the 16 sheets of the 1/100.000 Palestine series PDR 1512/3776-91, the 1/250.000 South sheet PDR 1509/3951 ... and from five sh
-1300x1958	Public domain	File:1931 Palestine Census.pdf	| w:1931 census of Palestine
-5455x7087	CC0	File:'Magic of the Wood' - large abstract and colorful painting on canvas, painted by Dutch artist Fons Heijnsbroek in 1992, with acrylic paint - free download art image in high resolution, TIFF.tif	| 'Magic of the Wood' - large abstract and colorful painting on canvas in contrasting colors, painted in 1992 by contemporary Dutch artist Fon
-3000x4000	CC BY-SA 4.0	File:Bundesglasfaser 0013.jpg	| On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took pla
-3000x4000	CC BY-SA 4.0	File:Bundesglasfaser 0014.jpg	| On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took pla
-3000x4000	CC BY-SA 4.0	File:Bundesglasfaser 0017.jpg	| On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took pla
-3000x4000	CC BY-SA 4.0	File:Bundesglasfaser 0020.jpg	| On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took pla
-3000x4000	CC BY-SA 4.0	File:Bundesglasfaser 0028.jpg	| On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took pla
-3024x4032	CC BY-SA 4.0	File:Bundesglasfaser 0037.jpg	| On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took pla
-1920x1080	CC BY-SA 4.0	File:Bundesglasfaser 0042 (cropped).jpg	| On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took pla
-1920x1440	CC BY-SA 4.0	File:Bundesglasfaser 0045 (cropped).jpg	| On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took pla
-1280x720	CC BY-SA 4.0	File:Bundesglasfaser 0037 (cropped) (cropped).jpg	| On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took pla
-1241x1754	Public domain	File:Batok Bolu Isi Madu.pdf	| Batok Bolu Isi Madu (Semar Kuning)
-3543x4724	CC0	File:Parler la Lune - an abstract colorful painting, made by the Dutch artist duo BenFo = Ben Vollers & Fons Heijnsbroek.tif	| Image of a large abstract painting on canvas, created together by artist duo BenFo (Dutch artist friends Ben Vollers &amp; Fons Heijnsbroek)
-3189x3780	CC0	File:Abstract modern collage art in white and red contrasting shapes, created on canvas and oil paint - title, 'no. 5.094' - painted in 1999 by Dutch artist Fons Heijnsbroek - free download art image in high resolution.tif	| Abstract modern collage art in white and red contrasting shapes, created with oil paint on canvas - title 'no. 5.094' - painted in 2000 by D
-2761x3189	CC0	File:Abstract modern collage art in composition of contrasting color shapes, created with oil paint on canvas. Title 'no. 5.103' - painted in 2000 by Dutch artist Fons Heijnsbroek - free download art image CC0 in high resolution TIFF.tif	| Abstract modern collage art in a visual composition of contrasting color shapes, created with oil paint on canvas. Title 'no. 5.103' - paint
-### Rembrandt Daniel Cyrus Bel
-3000x2292	Public domain	File:Rembrandt - Daniel and Cyrus before the Idol Bel, 1633.jpg	| 
-1972x2433	Public domain	File:Strobel Daniel and Cyrus.jpg	| 
-7232x5530	Public domain	File:Rembrandt Harmensz. van Rijn (Dutch - Daniel and Cyrus before the Idol Bel - Google Art Project.jpg	| Der Perserkönig Kyros fragt den jüdischen Propheten Daniel, warum er nicht auch das Kultbild des Gottes Bel verehre. Daniel antwortete, er h
-1536x2048	Public domain	File:Strobel Daniel and Cyrus (detail) 01.jpg	| 
-1536x2048	Public domain	File:Strobel Daniel and Cyrus (detail) 02.jpg	| 
-1968x1416	Public domain	File:Strobel Daniel and Cyrus (detail) 03.jpg	| 
-2068x1596	Public domain	File:Strobel Daniel and Cyrus (detail) 04.jpg	| 
-1024x768	Public domain	File:Attributed to Peeter Neeffs the Elder (Antwerp active 1605 - Antwerp 1656-61) - Daniel and Cyrus before the Idol Bel - RCIN 402887 - Royal Collection.jpg	| 
-1816x2691	Public domain	File:New, rare, and good old irises and peonies - retail price list 1933 - Treholme Gardens ; Earl Wooddell Sheets. (IA CAT31341880).pdf	| 36 pages ; 23 cm Cover title Subjects: Nursery stock Prices Washington (D; C; ) Irises (Plants) Varieties Prices; Peonies Varieties Prices
-4000x3180	Public domain	File:Bartholomaus Strobel - Daniel and king Cyrus before Bel (Daniel 14-1-2) - M.Ob.1284 - National Museum in Warsaw.jpg	| 
-5440x4288	CC0	File:Daniël vertelt Cyrus dat hij alleen de levende God en geen door mensen gemaakte afgodsbeelden kan aanbidden, RP-T-1879-A-16.jpg	| IdentificatieTitel(s): Daniël vertelt Cyrus dat hij alleen de levende God en geen door mensen gemaakte afgodsbeelden kan aanbidden Geschiede
-### Rembrandt vision of Daniel
-1723x2413	Public domain	File:Rembrandt 227.jpg	| Part of the series Four illustrations for a Spanish book.
-2404x2088	CC BY 3.0	File:Willem drost (attr.), visione di daniele, 1650-52 ca. 01.JPG	| 
-3284x2304	CC BY 3.0	File:Willem drost (attr.), visione di daniele, 1650-52 ca. 02.JPG	| 
-2021x1809	No restrictions	File:A partial bibliography of Dutch painters and their works - covering Cuyp, Dou, Hals, Hobbema, Rembrandt, Ruisdael and Wouwermann (1904) (14579974130).jpg	| Identifier: partialbibliogra00fost (find matches) Title: A partial bibliography of Dutch painters and their works : covering Cuyp, Dou, Hals
-1921x1586	Public domain	File:Daniel's Vision by Rembrandt Harmenszoon van Rijn.jpg	| Title: Daniel's Vision Artist: Rembrandt Harmenszoon van Rijn Date: 1650 Medium: Oil on Canvas Copyright: Public Domain
-3130x2750	CC BY-SA 4.0	File:Vision of Daniel by Joshua Reynolds (over an original Rembrandt) - Gemäldegalerie - Berlin - Germany 2017.jpg	| 
-1106x1500	Public domain	File:Rembrandt, his life, his work and his time (IA gri 33125007719145).pdf	| Plates accompanied by guard sheets with descriptive letterpress "Catalogue of Rembrandt's works": v.2, p. [227]-288 Bibliography: v.2, p. [2
-1172x1500	Public domain	File:Tableaux et dessins de Rembrandt - catalogue historique et descriptif (IA gri 33125010883888).pdf	| 114 p., [25] leaves of plates : 38 cm Subjects: Rembrandt Harmenszoon van Rijn, 1606-1669 -- Catalogs
-1083x1531	Public domain	File:Rembrandt, ein künstlerleben (IA rembrandteinkuns00muth).pdf	| 
-1575x2131	Public domain	File:Center of Vision (IA centerofvision1921unse 0).pdf	| Subjects: Massachusetts College of Art and Design; Massachusetts College of Art; Student publications
-1450x2197	Public domain	File:Centre of Vision (IA centreofvision1905unse).pdf	| Subjects: Massachusetts College of Art and Design; Massachusetts College of Art; Student publications
-1506x2306	Public domain	File:Centre of Vision (IA centreofvision1908unse).pdf	| Subjects: Massachusetts College of Art and Design; Massachusetts College of Art; Student publications
-1485x2239	Public domain	File:Centre of Vision (IA centreofvision1908unse 0).pdf	| Subjects: Massachusetts College of Art and Design; Massachusetts College of Art; Student publications
-1481x2218	Public domain	File:Centre of Vision (IA centreofvision1908unse 1).pdf	| Subjects: Massachusetts College of Art and Design; Massachusetts College of Art; Student publications
-1481x2266	Public domain	File:Centre of Vision (IA centreofvision1908unse 5).pdf	| Subjects: Massachusetts College of Art and Design; Massachusetts College of Art; Student publications
-1475x2245	Public domain	File:Centre of Vision (IA centreofvision1908unse 7).pdf	| Subjects: Massachusetts College of Art and Design; Massachusetts College of Art; Student publications
-1175x1660	Public domain	File:The great painter-etchers from Rembrandt to Whistler (IA greatpainteretch00sala 0).pdf	| x, 264 p. : bill. ; c30 cm. Subjects: Rembrandt Harmenszoon van Rijn, 1606-1669; Whistler, James McNeill, 1834-1903; Etchers; Etching
-1896x2681	Public domain	File:La vision de Daniel - (estampe) (2e état) - Rembrandt. f. 1655 - btv1b10521815p.jpg	| Sujet : Daniel (personnage biblique) Scènes bibliques -- 17e siècle Référence bibliographique : Bartsch, 36 Référence bibliographique : Whit
-1907x2703	Public domain	File:La vision de Daniel - estampe - Rembrandt. f. 1655 - btv1b10521978w.jpg	| Sujet : Daniel (personnage biblique) Scènes bibliques -- 17e siècle Référence bibliographique : Bartsch, 36 Référence bibliographique : Whit
-1904x2755	Public domain	File:La vision de Daniel - (estampe) (3e état) - Rembrandt. f. 1655 - btv1b105218399.jpg	| Sujet : Daniel (personnage biblique) Scènes bibliques -- 17e siècle Référence bibliographique : Bartsch, 36 Référence bibliographique : Whit
-### Daniel prophet painting Google Art Project
-7232x5530	Public domain	File:Rembrandt Harmensz. van Rijn (Dutch - Daniel and Cyrus before the Idol Bel - Google Art Project.jpg	| Der Perserkönig Kyros fragt den jüdischen Propheten Daniel, warum er nicht auch das Kultbild des Gottes Bel verehre. Daniel antwortete, er h
-### Judas Machabée Rubens Nantes
-### Maccabees painting
-1024x712	Public domain	File:Stattler-Machabeusze.jpg	| 
-3888x2592	CC BY-SA 4.0	File:Plafond de la chapelle des Maccabées 3.jpg	| Ceiling of the Maccabees Chapel, Saint-Pierre cathedral, Geneva, Switzerland.
-1920x2560	GFDL	File:Maccabees Shrine Detail02.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail04.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail05.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail06.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail09.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail10.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail12.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail13.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail14.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail15.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail16.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail18.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail19.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail20.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail21.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail24.JPG	| Maccabees Shrine (Cologne).
-1920x2560	GFDL	File:Maccabees Shrine Detail25.JPG	| Maccabees Shrine (Cologne).
-2560x1920	GFDL	File:Maccabees Shrine Detail28.JPG	| Maccabees Shrine (Cologne).
-2560x1920	GFDL	File:Maccabees Shrine Detail29.JPG	| Maccabees Shrine (Cologne).
-2560x1920	GFDL	File:Maccabees Shrine Detail31.JPG	| Maccabees Shrine (Cologne).
-2560x1920	GFDL	File:Maccabees Shrine Detail32.JPG	| Maccabees Shrine (Cologne).
-2560x1920	GFDL	File:Maccabees Shrine Detail34.JPG	| Maccabees Shrine (Cologne).
-1200x901	CC0	File:The Maccabees 1.jpg	| Британские музыканты The Maccabees
-4000x2783	Public domain	File:Wojciech Korneli Stattler - The Maccabees - MNK II-a-562 - National Museum Kraków.jpg	| 
-1037x691	CC BY 2.0	File:The Maccabees 01 (19163671901).jpg	| The Maccabees at Gentlemen of the Road Waverly, IA 6/20/15
-4000x2990	Public domain	File:Stattler, Wojciech Korneli - The Maccabees (1842) (framed, 4k).jpg	| An 19th century Polish oil painting about the Maccabean Uprising
+OK	fr/at_sof2	1812x3870	CC BY-SA 4.0	Phillip Medhurst	File:Sophonie (Zephaniah 1 1) • invenit James Tissot • pinxit Charles Hoffbauer • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg
+   DESC: Printed reproduction M. de Brunoff &amp; Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last were painted after his death in 1902 by other artists.
+   CATS: Book of Zephaniah | CC-BY-SA-4.0 | Old Testament by James Tissot | Self-published work | Zephaniah
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/at_age2	1479x3652	CC BY-SA 4.0	Phillip Medhurst	File:Aggée (Haggai 1 3-4) • invenit James Tissot • pinxit Charles Hoffbauer • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg
+   DESC: Printed reproduction M. de Brunoff &amp; Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last were painted after his death in 1902 by other artists.
+   CATS: Book of Haggai | CC-BY-SA-4.0 | Haggai | Self-published work
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+OK	fr/at_cro2	2676x3652	CC BY-SA 4.0	Phillip Medhurst	File:La dédicace par Salomon du temple (1 Kings 10 2) • invenit James Tissot • pinxit Michel Simonidy • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg
+   DESC: Printed reproduction M. de Brunoff &amp; Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last were painted after his death in 1902 by other artists.
+   CATS: CC-BY-SA-4.0 | Construction of Temple of Solomon | Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license | Creative Commons Attribution-Share Alike missing SDC copyright status | Dedications | First Book of Kings | Old Testament by James Tissot | Self-published work | Self-published work missing SDC copyright license
+   LICURL: https://creativecommons.org/licenses/by-sa/4.0 USAGE: Creative Commons Attribution-Share Alike 4.0
+### Rubens Judas Maccabeus
+1041x1470	Public domain	File:The twentieth century chronology of the world, being a digest of universal history from earliest times to 1903 A. D (IA twentiethcentury00horw).pdf	| Subjects: Chronology, Historical
+1102x1845	Public domain	File:Supplement to $15,000 Catalogue, No. 53 (IA supplementto15000053stei).pdf	| Subjects: Numismatics; Fixed Price Lists
+1050x1500	Public domain	File:The Great Handel Festival at the Crystal Palace (IA jstor-3370489).pdf	| "The Great Handel Festival at the Crystal Palace" is an article from &lt;a href="/search.php?query=collection%3Ajstor_musitimesingclas%20AND
+### Judas Maccabeus Nine Worthies
+1500x649	CC BY-SA 3.0	File:Neun gute helden rathaus koeln.jpg	| Nine Worthies – from the left to right the figures presented are Charlemagne, King Arthur, Godfrey of Bouillon, Julius Caesar, Hector, Alexa
+2912x4368	CC BY-SA 3.0	File:Schoener Brunnen detail 0050.jpg	| Schöner Brunnen in Nürnberg
+1500x2112	Public domain	File:Wernigeroder Wappenbuch 020.jpg	| "The Three Judges": Attributed arms of King David, Joshua, and Judas Maccabeus, three of the "Nine Worthies"
+1150x714	Public domain	File:Lucas van Leyden 053.jpg	| De helden Jozua, David en Judas de Makkabeeër (uit de serie De negen helden). woodcut print. 38,5 × 54,2 cm. Rotterdam, Museum Boijmans Van 
+2607x1423	Public domain	File:Die neun Helden - Drei juedische Helden.jpg	| Einblattholzschnitte der 9 Helden, eingeklebt in Cod. Bern A 45. Aus: Robert L. Wyß: Die neun Helden. Eine ikonographische Studie. In: Zeits
+2591x1807	Public domain	File:Die neun Helden - Drei juedische Helden 2.jpg	| Einblattholzschnitte der 9 Helden, eingeklebt in Cod. Bern A 45. Aus: Robert L. Wyß: Die neun Helden. Eine ikonographische Studie. In: Zeits
+2150x2928	Public domain	File:Fl- 2 Thesouro de Nobreza, Armas dos Nove da Fama.jpg	| Thesouro de Nobreza, Armas dos Nove da Fama (fl 2)
+1000x1316	Public domain	File:LDAM (f. 002) Judas Macabeu Duque.jpg	| Judas Maccabeus
+4222x6294	CC0	File:Judas de Makkabeeër Judas Machabeus (titel op object) Negen besten (serietitel), RP-P-1983-45-41.jpg	| IdentificatieTitel(s): Judas de Makkabeeër. Judas Machabeus (titel op object). Negen besten (serietitel)Objecttype: prent albumblad Serienum
+3494x5690	CC0	File:Judas de Makkabeër als legeraanvoerder Judas Machabeus (titel op object) De negen besten (serietitel), RP-P-BI-5049.jpg	| IdentificatieTitel(s): Judas de Makkabeër als legeraanvoerder. Judas Machabeus (titel op object). De negen besten (serietitel)Objecttype: pr
+3572x4930	CC0	File:Portret van Judas de Makkabeër in medaillon binnen rechthoekige omlijsting met ornamenten Judas Machabeus (titel op object) De negen besten (serietitel), RP-P-BI-5037.jpg	| IdentificatieTitel(s): Portret van Judas de Makkabeër in medaillon binnen rechthoekige omlijsting met ornamenten. Judas Machabeus (titel op 
+3728x5078	CC0	File:Portret van Judas de Makkabeër in medaillon binnen rechthoekige omlijsting met ornamenten Judas Machabeus (titel op object) De negen besten (serietitel), RP-P-BI-5038.jpg	| IdentificatieTitel(s): Portret van Judas de Makkabeër in medaillon binnen rechthoekige omlijsting met ornamenten. Judas Machabeus (titel op 
+4180x5418	CC0	File:Portret van Judas de Makkabeër in medaillon binnen rechthoekige omlijsting met ornamenten Judas Machabeus (titel op object) De negen besten (serietitel), RP-P-1937-59.jpg	| IdentificatieTitel(s): Portret van Judas de Makkabeër in medaillon binnen rechthoekige omlijsting met ornamenten. Judas Machabeus (titel op 
+3878x5106	CC0	File:Portret van Judas de Makkabeër in medaillon binnen rechthoekige omlijsting met ornamenten Judas Machabeus (titel op object) De negen besten (serietitel), RP-P-1890-A-15490.jpg	| IdentificatieTitel(s): Portret van Judas de Makkabeër in medaillon binnen rechthoekige omlijsting met ornamenten. Judas Machabeus (titel op 
+2997x3997	CC BY-SA 4.0	File:Judas Macabeo, Palacio de los Condes de Alba y Aliste (Zamora).jpg	| Patio del Palacio de los Condes de Alba y Aliste, Zamora. Tondo laureado de Judas Macabeo talla en piedra atribuida a Gil de Ronza.
+1948x4347	CC BY-SA 4.0	File:9 gute Helden im Hansasaal des Rathauses Köln - 6. von links-6247.jpg	| 9 gute Helden im Hansasaal des Rathauses Köln - 6. von links: Judas Makkabäus
+6720x2688	CC BY-SA 4.0	File:9 gute Helden im Hansasaal des Rathauses Köln - Gesamtansicht, crop-6243.jpg	| 9 gute Helden im Hansasaal des Rathauses Köln - Gesamtansicht. Von links nach rechts: Karl der Große, König Artus, Gottfried von Bouillon, J
+2014x2545	CC BY-SA 4.0	File:19-do Duque Judas Macabeu.jpg	| Duque Judas Macabeu
+4542x3185	CC BY-SA 4.0	File:Manta Castello della Manta Interno Sala Baronale 08.jpg	| Baronal Hall of Manta Castle, Manta, Province of Cuneo, Region of Piedmont, Italy
+4475x3143	CC BY-SA 4.0	File:Manta Castello della Manta Interno Sala Baronale 13.jpg	| Baronal Hall of Manta Castle, Manta, Province of Cuneo, Region of Piedmont, Italy
+4582x3211	CC BY-SA 4.0	File:Manta Castello della Manta Interno Sala Baronale 15.jpg	| Baronal Hall of Manta Castle, Manta, Province of Cuneo, Region of Piedmont, Italy
+4592x2876	CC BY-SA 4.0	File:Manta Castello della Manta Interno Sala Baronale 16.jpg	| Baronal Hall of Manta Castle, Manta, Province of Cuneo, Region of Piedmont, Italy
+4584x3141	CC BY-SA 4.0	File:Manta Castello della Manta Interno Sala Baronale 14.jpg	| Baronal Hall of Manta Castle, Manta, Province of Cuneo, Region of Piedmont, Italy
+1147x1781	Public domain	File:Feuillet 7 de l'Armorial Le Breton.jpg	| 5 rows, left to right: Top row: 1: Hector de Troyes. Hector of Troy 2: Julius Cesar. Julius Caesar 3: Alixandre le grant. Alexander the Grea
+### Ciseri Maccabei
+2736x3648	CC BY 2.5	File:Antonio ciseri, santa felicita e il martirio dei maccabei, 1860 circa.JPG	| 
+2350x3558	Public domain	File:Il Baretti - Anno II, n. 1, Torino, 1925.djvu	| Il Baretti, Anno II, n. 1, a cura di Pietro Gobetti, Unitipografica Pinerolese, Pinerolo 1925
+1884x3096	CC BY-SA 4.0	File:Antonio ciseri, i maccabei, 1857-63 (fi, s. felicita) 01.jpg	| "Bellezza divina", 2015 exhibition in Palazzo Strozzi, Florence
+3332x2172	CC BY-SA 4.0	File:Antonio ciseri, i maccabei, 1857-63 (fi, s. felicita) 02.jpg	| "Bellezza divina", 2015 exhibition in Palazzo Strozzi, Florence
+### mother of the Maccabees painting
+1000x1677	Public domain	File:Fabiola; or, The church of the catacombs (IA fabiolaorchurcho00wise 0).pdf	| Subjects: Church history
+1145x1725	Public domain	File:Fabiola; or, The church of the catacombs (IA fabiolaorchurcho00wise 1).pdf	| Subjects: Church history
+1441x1916	Public domain	File:The Century dictionary - an encyclopedic lexicon of the English language- prepared under the superintendence of William Dwight Whitney (IA centurydictipt1300whituoft).pdf	| SCAR set donated by Professor Peter A. Reich 26 41 Subjects: English language
+1210x1906	Public domain	File:A dictionary of Christian antiquities - being a continuation of the 'Dictionary of the Bible' (IA b2901007x 0002).pdf	| gr Subjects: Christian antiquities; Christianity; Christian antiquities
 4000x2783	Public domain	File:Stattler, Wojciech Korneli - The Maccabees (1842) (4k).jpg	| Measurements: height: 262 cm, width: 371 cm; with frame: height: 311.5 cm, width: 423 cm, depth: 21.5 cm "Wojciech Korneli Stattler's work o
-### Mattathias
-2288x2871	Public domain	File:141.Mattathias and the Apostate.jpg	| Mattathias and the Apostate (1 Macc. 2:1-25)
-3168x4808	Public domain	File:Grandes Heures Anne de Bretagne Saint Matthieu.jpg	| Matthew the Evangelist, miniature from the Grandes Heures of Anne of Brittany, Queen consort of France (1477-1514).
-1536x2048	CC BY-SA 3.0	File:Boris Schatz tel aviv 001.jpeg	| פסל
-5481x6421	CC0	File:Mattathias doorsteekt een Jood, RP-P-OB-44.706.jpg	| IdentificatieTitel(s): Mattathias doorsteekt een JoodObjecttype: prent Objectnummer: RP-P-OB-44.706Catalogusreferentie: Van Eeghen 1897-1(2)
-1576x1643	CC0	File:Mattatias en zijn vrouw Mathathias habuit guique filios conjuges (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-21-1.jpg	| IdentificatieTitel(s): Mattatias en zijn vrouw[][ue] filios conjuges&amp;#x5. D; (titel op object). Liber Chronicarum (serietitel)Objecttype
-1280x960	CC BY-SA 2.0	File:Effigy of Mattathia St Paul - geograph.org.uk - 2625610.jpg	| Effigy of Mattathia St Paul
-4032x3024	CC BY-SA 3.0	File:Mattathias refuse de sacrifier aux idoles Leroy Paul Alexandre Alfred.jpg	| tableau : Mattathias refuse de sacrifier aux idoles - Leroy Paul Alexandre Alfred - 1882
-2517x2398	Public domain	File:Monnaie - 8 prutah, bronze, Jérusalem, Judée, Mattathias II Antigonos - btv1b8498480f (1 of 2).jpg	| Sujet : Judée Appartient à l’ensemble documentaire : MonnGre Langue : grec ancien
-2517x2398	Public domain	File:Monnaie - 8 prutah, bronze, Jérusalem, Judée, Mattathias II Antigonos - btv1b8498480f (2 of 2).jpg	| Sujet : Judée Appartient à l’ensemble documentaire : MonnGre Langue : grec ancien
-2029x2048	Public domain	File:Monnaie - 4 prutah, bronze, Jérusalem, Judée, Mattathias II Antigonos - btv1b8498487b (2 of 2).jpg	| Sujet : Judée Appartient à l’ensemble documentaire : MonnGre Langue : grec ancien
-1894x1894	Public domain	File:Monnaie - 4 prutah, bronze, Jérusalem, Judée, Mattathias Antigonos - btv1b8480198b (1 of 2).jpg	| Sujet : Judée Ancien possesseur : Vogüé, Melchior (1829-1916 ; marquis de). Ancien possesseur Appartient à l’ensemble documentaire : MonnGre
-1894x1894	Public domain	File:Monnaie - 4 prutah, bronze, Jérusalem, Judée, Mattathias Antigonos - btv1b8480198b (2 of 2).jpg	| Sujet : Judée Ancien possesseur : Vogüé, Melchior (1829-1916 ; marquis de). Ancien possesseur Appartient à l’ensemble documentaire : MonnGre
-1453x1453	Public domain	File:Monnaie - Prutah, bronze, Jérusalem, Judée, Mattathias Antigonos - btv1b8480202s (1 of 2).jpg	| Sujet : Judée Ancien possesseur : Vogüé, Melchior (1829-1916 ; marquis de). Ancien possesseur Appartient à l’ensemble documentaire : MonnGre
-1453x1453	Public domain	File:Monnaie - Prutah, bronze, Jérusalem, Judée, Mattathias Antigonos - btv1b8480202s (2 of 2).jpg	| Sujet : Judée Ancien possesseur : Vogüé, Melchior (1829-1916 ; marquis de). Ancien possesseur Appartient à l’ensemble documentaire : MonnGre
-2517x2484	Public domain	File:Monnaie - 8 prutah, bronze, Jérusalem, Judée, Mattathias II Antigonos - btv1b8498479s (2 of 2).jpg	| Sujet : Judée Appartient à l’ensemble documentaire : MonnGre Langue : grec ancien
-1976x1976	Public domain	File:Monnaie - 4 prutah, bronze, Jérusalem, Judée, Mattathias Antigonos - btv1b8480199r (1 of 2).jpg	| Sujet : Judée Ancien possesseur : Vogüé, Melchior (1829-1916 ; marquis de). Ancien possesseur Appartient à l’ensemble documentaire : MonnGre
-2341x2375	Public domain	File:Monnaie - 8 prutah, bronze, Jérusalem, Judée, Mattathias II Antigonos - btv1b8498483p (2 of 2).jpg	| Sujet : Judée Appartient à l’ensemble documentaire : MonnGre Langue : grec ancien
-2441x2398	Public domain	File:Monnaie - 8 prutah, bronze, Jérusalem, Judée, Mattathias II Antigonos - btv1b8498481v (1 of 2).jpg	| Sujet : Judée Appartient à l’ensemble documentaire : MonnGre Langue : grec ancien
-1270x920	CC BY 4.0	File:FlorenceBaptistery Matathias.png	| mosaic of prophet Matathias in the Florence Baptistery
-### Aaron painting priest Google Art Project
-1195x1988	Public domain	File:Chemical Essays (4th ed.) - Watson - Volume 1.djvu	| 
-### Blake Job daughters
-1035x1365	Public domain	File:Book of Job Plate 20.jpg	| The twentieth plate of William Blake's illustrations to the Book of Job, titled There were not found Women as fair as the Daughters of Job i
-10128x7055	Public domain	File:Job and His Daughters(tempera).jpg	| Illustrating the Book of Job.
-1375x1800	Public domain	File:Blake Job 3.jpg	| 3rd print from William Blake's Illustrations of the Book of Job, "Thy Sons &amp; thy Daughters were eating &amp; drinking Wine... "
-2950x3720	Public domain	File:William Blake - Job's Sons and Daughters Overwhelmed by Satan.jpg	| Job's Sons and Daughters Overwhelmed by Satan, by William Blake.
-3673x2983	Public domain	File:Job and His Daughters Butts set.jpg	| Job and His Daughters, from the Butts set. Pen and black ink, gray wash, and watercolour, over traces of graphite
-2028x2976	Public domain	File:William Blake, 1910 Chesterton Biography.djvu	| A scan of a biography of William Blake by Chesterton, G. K. (Gilbert Keith), 1874-1936 William Blake 1910 London: Duckworth; New York: Dutto
-1292x1692	Public domain	File:William Blake, painter and poet (page 67).png	| An illustration extracted from page 67 of William Blake, painter and poet by Richard Garnett Publisher: London, Seeley. The work is captione
-1958x3128	Public domain	File:William Blake (Symons).djvu	| Scan of William Blake 1907., Symons, Arthur, 1865-1945; Biographical extracts of Henry Crabb Robinson, , 1775-1867; Benjamin Heath Malkin , 
-1066x815	Public domain	File:William Blake - Job and his Daughters - WGA2229.jpg	| 
-1611x2100	Public domain	File:Satan Bringing Destruction on the Sons and Daughters of Job LACMA M.48.5.2.4.jpg	| England, 1825 Edition: Second edition Book: The Book of Job Prints; engravings Engraving on laid India (or China) paper Sheet: 7 3/4 x 5 7/8
-1609x2100	Public domain	File:Job Recounting his Experiences to his Daughters LACMA M.48.5.2.21.jpg	| England, 1825 Edition: Second edition Book: The Book of Job Prints; engravings Engraving on laid India (or China) paper Sheet: 7 3/4 x 5 7/8
-1846x2401	Public domain	File:William Blake - Job's Sons and Daughters Overwhelmed by Satan - Google Art Project.jpg	| 
-2006x3284	Public domain	File:Blake - The poetical works of William Blake, 1905.djvu	| 26
-2020x3072	Public domain	File:William Blake (Chesterton).djvu	| A scan of a biography of William Blake by Chesterton, G. K. (Gilbert Keith), 1874-1936 William Blake 1920 2nd ed. London: Duckworth.
-2904x3629	CC0	File:Job and his Daughters, from Illustrations of the Book of Job MET DP816559.jpg	| Print; Prints
-2598x4340	Public domain	File:Works of William Blake Volume 2.djvu	| The works of William Blake, Volume 2
-4854x6130	CC0	File:William Blake - The Book of Job- Pl. 20, There were not found Women fair as the Daughters - 1963.303.21 - Cleveland Museum of Art.tif	| 
-4530x5698	CC0	File:William Blake - The Book of Job- Pl. 3, Thy Sons and thy Daughters were eating and drinkin - 1968.260.d - Cleveland Museum of Art.tif	| 
-4566x5674	CC0	File:William Blake - The Book of Job- Pl. 20, There were not found Women fair as the Daughters - 1968.260.u - Cleveland Museum of Art.tif	| 
-4000x2786	CC0	File:William Blake, Job and His Daughters, 1799-1800, NGA 30221.jpg	| 
-4000x3175	CC0	File:William Blake, Job and His Daughters, c. 1821, NGA 11521.jpg	| 
-3142x4000	CC0	File:William Blake, Job and His Daughters, 1825, NGA 4980.jpg	| 
-3134x4000	CC0	File:William Blake, Job and His Daughters, 1825, NGA 824.jpg	| 
-2674x3400	CC0	File:William Blake (British, 1757-1827) - The Book of Job, Pl. 3, Thy Sons and thy Daughters were eating and drinking Wine in their - eldest Brothers house - 1963.303.4 - Cleveland Museum of Art.jpg	| 
-1920x1509	CC0	File:John Linnell - Job and His Daughters - B1992.8.7(21) - Yale Center for British Art.jpg	| 
-1540x1920	CC0	File:William Blake - Book of Job, Plate 20, Job and His Daughters - B1978.43.1522 - Yale Center for British Art.jpg	| 
-1522x1920	CC0	File:William Blake - Book of Job, Plate 3, Jacob's Sons and Daughters Overwhelmed by Satan - B1978.43.1505 - Yale Center for British Art.jpg	| 
-3933x5000	Public domain	File:The Book of Job- Pl. 3, Thy Sons and thy Daughters were eating and drinking Wine in their - eldest Brothers house (IA clevelandart-1963.303.4-the-book-of-job-pl-3).tif	| The Book of Job: Pl. 3, Thy Sons and thy Daughters were eating and drinking Wine in their / eldest Brothers house, 1825. William Blake (Brit
-### Job friends painting
-1685x1200	Public domain	File:Job and his friends.jpg	| Job and His Friendslabel QS:Les,"Job y sus amigos"label QS:Len,"Job and His Friends"label QS:Lru,"Иов и его друзья"
-5649x4000	Public domain	File:Pieter Brueghel the Elder - The Dutch Proverbs - Google Art Project.jpg	| 
-2685x2848	Public domain	File:Job.jpg	| Middeleeuwse wandschildering kerk Hattem, Job en zijn vrienden
-6493x9078	Public domain	File:Alexandre-Gabriel Decamps - Job and His Friends - 39.48 - Minneapolis Institute of Arts.jpg	| Job discussing with his friends
-4134x2563	Public domain	File:Kristian Zahrtmann - Job and His Friends - KMS1661 - Statens Museum for Kunst.jpg	| 
-1195x756	Public domain	File:Giobbe visitato dagli amici - M. Preti.jpg	| Giobbe visitato dagli amici - Olio su tela, cm. 243 x 378
-1100x685	Public domain	File:Job og hans venner.jpg	| 
-2000x1391	Public domain	File:Giulia Lama - Eliphaz, Bildad and Zophar consoling Job 191N10007 B2D4F.jpg	| 
-3000x2097	CC0	File:SAAM-XX105 1.jpg	| Job and His Comforters, Luca Giordano c.a. 1700.
-1920x1459	CC0	File:John Linnell - Job Rebuked by His Friends - B1992.8.7(11) - Yale Center for British Art.jpg	| 
-1530x1920	CC0	File:William Blake - Book of Job, Plate 10, Job Rebuked by His Friends - B1978.43.1512 - Yale Center for British Art.jpg	| 
-4353x3124	Public domain	File:Naar Peter Paul Rubens - Job op de mestvaalt - MMB.0066 - Museum Mayer van den Bergh.tiff	| 
-1251x1024	Public domain	File:Job and his Three Friends, by Henry Ossawa Tanner.jpg	| Job and his Three Friends, by Henry Ossawa Tanner
-4134x2563	Public domain	File:Kristian Zahrtmann, Job og hans venner, 1887, KMS1661, Statens Museum for Kunst.jpg	| Job og hans venner
-1200x585	Public domain	File:Job s prijatelji (panjska končnica).jpg	| 
-1247x1779	Public domain	File:Friends intelligencer (IA friendsintellige5658unse).pdf	| "Established 1844." CLICK ON WEB ADDRESS TO REACH SELECTED VOLUMES Has double numbering through 1905 (that of Friends' intelligencer and Fri
-1225x1722	Public domain	File:Friends intelligencer (IA friendsintellige70unse).pdf	| "Established 1844." CLICK ON WEB ADDRESS TO REACH SELECTED VOLUMES Has double numbering through 1905 (that of Friends' intelligencer and Fri
-3218x2313	CC BY-SA 4.0	File:Job et ses trois amis (Job 2 13) • invenit James Tissot • pinxit James Tissot • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg	| Printed reproduction M. de Brunoff &amp; Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by h
-### Ezra reading law painting
-1275x1650	Public domain	File:Civil War Journal of Acting Assistant Surgeon Ezra Pray (IA PrayJournalsmaller).pdf	| Civil War Journal of Acting Assistant Surgeon Ezra Pray "With his appointment effective 21 October 1861, Ezra Pray was designated an “acting
-1016x1458	Public domain	File:Courses of reading and study in the New International Encyclopædia (IA coursesofreading00newi).pdf	| Subjects: Encyclopedias and dictionaries
-1085x1668	Public domain	File:Charter, constitution, by-laws, membership list, annual report for the year ending October 31, 1909 (IA charterconstitutchic).pdf	| Bound in printed paper wrappers, with the society's seal on cover p. [1]; frontispiece Bears handwritten inscription in ink on cover p. [1]:
-### Esdras prophet painting
-1433x2545	Public domain	File:The history of Persia, from the most early period to the present time. Containing an account of the religion, government, usages, and character of the inhabitants of that kingdom (IA b30455200 0001).pdf	| 2 volumes : (4to) Subjects: Iran
-1591x2225	Public domain	File:Liste des principaux objets de sciences et d'arts recueillis en Italie par les commissaires du gouvernement Français (IA listedesprincipa00unse 0).pdf	| 27, [1] p. ; 37 cm. (fol.) Final page blank "Extrait des Procès verbaux restés à la Commission, et imprimé par son ordre à Venise le Ier. jo
-1347x1964	Public domain	File:An exposition of the Gospel of St. Luke - consisting of an analysis of each chapter and of a commentary, critical, exegetical, doctrinal, and moral (IA ofgospexposition00macerich).pdf	| Subjects: Bible
-1200x1537	Public domain	File:The History of Persia, from the Most Early Period to Present Time; containing an Account of the Religion, Government, Usages and Character of the Inhabitants of that Kingdom, in Two Volumes (IA dli.granth.112220).pdf	| Source: Asiatic Society of MumbaiIdentifier: BK_00045946Digitization Sponsor: Special Collection Original Source: &lt;a href="https://granth
-1387x2255	Public domain	File:Windsor Forest - Pope (1720).djvu	| Windsor Forest, by Alexander Pope, fourth edition published in 1720
-### Prophet Daniel painting Rubens
-1177x1581	Public domain	File:An illustrative supplement to Pilkington's Dictionary of painters ... principally taken from the Anecdotes of painting, etc (IA b22006667).pdf	| Subjects: Painters
-1591x2225	Public domain	File:Liste des principaux objets de sciences et d'arts recueillis en Italie par les commissaires du gouvernement Français (IA listedesprincipa00unse 0).pdf	| 27, [1] p. ; 37 cm. (fol.) Final page blank "Extrait des Procès verbaux restés à la Commission, et imprimé par son ordre à Venise le Ier. jo
+1366x2129	Public domain	File:Epigrams upon the paintings of the most eminent masters, ... 1700 (IA bim early-english-books-1641-1700 epigrams-upon-the-painti ezsun-john 1700).pdf	| Epigrams upon the paintings of the most eminent masters, ... 1700..Digitized from IA40313003-38.Previous issue: bim_early-english-books-1641
+### Judith praying painting
+1241x1608	Public domain	File:The papers of Charles Valentine Riley - a register of his papers in the National Agricultural Library (IA CAT10408282).pdf	| "June 1990." Subjects: agricultural history auto-assigned by category code plant pests auto-assigned by category code plant health auto-assi
+1137x1908	Public domain	File:Letters from Italy, describing the manners, customs, antiquities, paintings, etc. of that country, in the years MDCCLXX and MDCCLXXI, to a friend residing in France (IA b30532899 0002).pdf	| 3 volumes ; (8vo) "Descrizzione orittograffica del ponte Naturale di Veja ne' Monti Veronesi, e d' un tratto di paese all'intorno. Al chiari
+1168x1866	Public domain	File:The ambition of Judith (IA ambitionofjudith00birr).pdf	| 307 p. ; 20 cm Murray file copy no. 530 Subjects:
+1166x1529	Public domain	File:The practice of painting and perspective made easy in which is contained, the art of painting in oil, with the method of colouring ... and a new, short (IA practiceofpainti00bard).pdf	| Signatures: pi1 A⁴(-A4) B-I⁴ Errata on separate leaf tipped in at end Head-pieces; decorative initials With initial leaf at front containing
+1085x1441	Public domain	File:Cyclopedia of painters and paintings (IA cu31924061775882).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
 1058x1579	Public domain	File:Cyclopedia of painters and paintings (IA cu31924061775890).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
-1125x1947	Public domain	File:Catalog of Valuable Antique Furniture, Paintings, Engravings and Books, Articles of Vertu, and Curiosities, and also a few Coins, Seals, Watches ... (IA catalogofvaluabl0000leav).pdf	| Subjects: Rossiter, Thomas Prichard; Auction catalogs
-1397x2270	Public domain	File:Catalogue of valuable antique furniture, paintings, engravings, and books, articles of vertu, and curiosities, also a few coins, seals, and watches, etc., etc., etc. (IA catalogueofvalua00leav 1).pdf	| Lots: 693 Priced and named Feb. 5-8, 1873 Subjects: Rossiter, Thomas Prichard
-1179x1702	Public domain	File:A collection of paintings ... 1689-11-06 (IA bim early-english-books-1641-1700 a-collection-of-painting 1689-11-06).pdf	| A collection of paintings ... 1689-11-06..Digitized from IA40310711-06.Previous issue: bim_early-english-books-1641-1700_a-collection-of-pai
-1054x1645	Public domain	File:The study of modern painting (IA studyofmodernpai00ande).pdf	| [7], 369 p. : 22 cm Subjects: Painting; Painters
-### Leviticus Aaron painting
-2043x1597	CC0	File:FirtsOfferingAaron.JPG	| "The First Offering of Aaron" (1864) by Simeon Solomon. Pen and black carbon ink on paper. Illustrating the ninth chapter of Leviticus. On d
-1181x2129	Public domain	File:Encyclopedia of Religion and Ethics Volume 1.pdf	| Volume 1 of the Hastings Encyclopedia of Religion and Ethics
-1275x1954	Public domain	File:New century reference library of the world's most important knowledge … (Vol. 1, A-CODE) (IA newcenturyrefere01unse).pdf	| 8 v. 21 cm Subjects: Encyclopedias and dictionaries
-1039x1937	Public domain	File:The New imperial encyclopedia and dictionary;a library of universal knowledge and an unabridged dictionary of the English language under one alphabet;(Vol. 18, HAMM-HOME) (IA newimperialencyc18unse).pdf	| 40 v. 21 cm Subjects: Encyclopedias and dictionaries
-1243x1858	Public domain	File:People's cyclopedia;a complete library of reference containing the exact knowledge of the world condensed to the plainest terms consistent with accuracy and clearness, (Vol. 1, A-Cons) (IA peoplescyclopedi01unse).pdf	| 5 v. 20 cm Subjects: Encyclopedias and dictionaries. [
-1091x1447	Public domain	File:The cyclopædia; or, Universal dictionary of arts, sciences, and literature (IA cyclopaediaoruni01rees).pdf	| fAE5.R329 plates --- --------Plates ... London, Longman, Hurst, Rees, Orme &amp; Brown [etc.] 1820. 6 v. plates (part col.; incl. music) map
-1518x1906	Public domain	File:A complete view of the dress and habits of the people of England from the establishment of the Saxons in Britain to the present time (IA gri 33125010892962).pdf	| Imprint of vol. 2 omits R. Edwards Each vol. includes engraved frontipiece Plates numbered I-CXLIII, excluding frontispieces Includes biblio
-1212x1920	Public domain	File:Harper's New Monthly Magazine, Volume 53.pdf	| 
-1712x2093	Public domain	File:A complete view of the dress and habits of the people of England. From the establishment of the Saxons in Britain to the present time ... To which is prefixed an introduction, conta (IA b30454499 0001).pdf	| 2 volumes, 151 color plates : (4to) Plates are not bound in the order in which they are numbered Subjects: Costume; Costume; Great Britain
-1425x1879	Public domain	File:Catalogue of the Ethiopic manuscripts in the British museum acquired since the year 1847 (IA catalogueofethio00brituoft).pdf	| 26 Subjects: Manuscripts, Ethiopic -- Bibliography
-1235x1856	Public domain	File:Banking through the ages (IA bankingthroughag00hogg).pdf	| 128 p. : 25 cm Subjects: Banks and banking
+### Judith banquet Holofernes painting
+4500x4186	Public domain	File:Rembrandt Harmensz. van Rijn 014.jpg	| Judith and Holofernes
+2018x2265	Public domain	File:Rembrandt - Judith at the Banquet of Holofernes (previously known as Artemisia).jpg	| Judith and Holofernes
+4000x2600	Public domain	File:Rembrandt - Judith at the Banquet of Holofernes (previously known as Artemisia) - Detail Judith.jpg	| Judith and Holofernes
+5000x5429	Public domain	File:Rembrandt - Judith at the Banquet of Holofernes (previously known as Artemisia) - Detail Judith (Kopf).jpg	| Judith and Holofernes
+1297x1200	Public domain	File:Rembrandt - Judith at the Banquet of Holofernes (previously known as Artemisia) - WGA19234.jpg	| Judith and Holofernes
+1237x1800	Public domain	File:Elisabetta Sirani - Judith with the Head of Holofernes - Walters 37253.jpg	| According to the Book of Judith, the Jewish widow Judith saved the Israelites from the Assyrians by decapitating their general Holofernes, w
+4320x3240	CC BY-SA 2.0	File:Artemisia campestris (left) and Artemisia bigelovii (right) — Matt Lavin 004.jpg	| In sandy soils covering rocky substrate, shrubby Artemisia bigelovii with tridentate leaves (right) converges on the growth form of Artemisi
+4320x3240	CC BY-SA 2.0	File:Artemisia pygmaea — Matt Lavin 007.jpg	| The inflorescences are distinctively spicate.
+6946x4368	Public domain	File:Artemisia, by Rembrandt, from Prado in Google Earth-x1-y0.jpg	| Judith and Holofernes
+29952x4368	Public domain	File:Artemisia, by Rembrandt, from Prado in Google Earth-x0-y0.jpg	| Judith and Holofernes
+6946x29952	Public domain	File:Artemisia, by Rembrandt, from Prado in Google Earth-x1-y1.jpg	| Judith and Holofernes
+29952x29952	Public domain	File:Artemisia, by Rembrandt, from Prado in Google Earth-x0-y1.jpg	| Judith and Holofernes
+30000x27904	Public domain	File:Judith at the Banquet of Holofernes (previously known as Artemisia), by Rembrandt, from Prado in Google Earth.jpg	| Judith and Holofernes
+4320x3240	CC BY-SA 2.0	File:Artemisia nova (left) and Artemisia tridentata (right) (7283745880).jpg	| Black sagebrush, Artemisia nova is the common short-statured sagebrush in this area that is distinctly greener and darker than Wyoming big s
+3240x4320	CC BY-SA 2.0	File:Artemisia cana (5033868323).jpg	| The inflorescences of Artemisia cana include well developed bracts.
+2462x3283	CC BY-SA 3.0	File:Artemisia lactiflora.JPG	| The small flowers of Artemisia lactiflora after rain.
+1761x1181	Public domain	File:Artemisia Absinthium L..png	| Artemisia_Absinthium_L
+3767x5088	Public domain	File:Self-portrait as the Allegory of Painting (La Pittura) - Artemisia Gentileschi.jpg	| Depicted person: Artemisia Gentileschi
+1498x2000	Public domain	File:Self-portrait as the Allegory of Painting (La Pittura) - Artemisia GentileschiFXD.jpg	| Depicted person: Artemisia Gentileschi
+3264x2448	CC BY-SA 4.0	File:Artemisia sp. glacialis.jpg	| Genepi
+1721x861	Public domain	File:Paolo Fiammingo - Judith at the Banquet of Holofernes.jpg	| 
+2842x3441	CC BY-SA 4.0	File:2020 year. Herbarium. Artemisia vulgaris. img-002.jpg	| Artemisia vulgaris. Leaf abaxial side. Herbarium of the city Elektrostal Moscow Oblast, 2020 year. Created by scanography. Collection D.Make
+2583x4392	CC BY-SA 4.0	File:2020 year. Herbarium. Artemisia vulgaris. img-004.jpg	| Artemisia vulgaris. Leaf abaxial side. Herbarium of the city Elektrostal Moscow Oblast, 2020 year. Created by scanography. Collection D.Make
+1066x1000	CC BY-SA 4.0	File:Artemisia Rembrandt figures.jpg	| Szkic ukazujący zamalowane postacie i elementy na obrazie "Artemizja" Rembrandta
+1237x1800	Public domain	File:Elisabetta Sirani - Judith with the Head of Holofernes - Walters 37253FXD.jpg	| According to the Book of Judith, the Jewish widow Judith saved the Israelites from the Assyrians by decapitating their general Holofernes, w
+3440x2540	CC BY 4.0	File:Artemisia vulgaris RF.jpg	| Dried common mugwort (Artemisia vulgaris) covered by snow, "Birke" forest northeast of Dreieich-Offenthal, Germany
+1500x1500	CC BY 4.0	File:Artemisia glacialis RF.jpg	| Glacier wormwood (Artemisia glacialis) between Flue and Unterrothorn near Zermatt, Valais, Switzerland
+2142x2178	CC BY 4.0	File:Artemisia genipi 2 RF.jpg	| Artemisia genipi between Furgg and Trockener Steg above Zermatt, Valais, Switzerland
+4474x4484	CC BY-SA 4.0	File:(MHNT) Artemisia ludoviciana - Serres du Museum de Toulouse.jpg	| Artemisia ludoviciana 'Valerie Finnis' - a young shoot
+### Judith Horace Vernet
+1307x1562	Public domain	File:OlympePélissierStudy.jpg	| Study of Olympe Pélissier for Judith and Holofernes
+1851x2401	Public domain	File:Horace Vernet - Judith and Holofernes - Google Art Project.jpg	| Judith and Holofernes
+1556x2183	Public domain	File:L'Illustration, no. 1831, 1878.pdf	| L'Illustration, no. 1831, 1878.
+2466x3200	Public domain	File:Horace Vernet - Judith and Holofernes - 79.3 - Museum of Fine Arts.jpg	| Judith and Holofernes
+1631x2385	Public domain	File:Horace Vernet - Judith et Holopherne 01.jpg	| Judith et Holopherne par Horace Vernet, 1831
+2601x3852	Public domain	File:Horace Vernet - Judith et Holopherne 02.jpg	| Judith et Holopherne par Horace Vernet, 1831
+1339x1881	Public domain	File:Die Kunst unserer Zeit (IA diekunstunsererz2019unse).pdf	| 23 v. : 35 cm "Eine Chronik des modernen Kunstlebens" (varies) Vols. for 1890-1893 lack volume designation but constitute 1.-4. Jahrg Subjec
+1243x1804	Public domain	File:Jahrbuch der Königlich Preussischen Kunstsammlungen (IA jahrbuchderkonig23unse 0).pdf	| "Amtliche Berichte aus den Königlichen Kunstsammlungen" is included in v. 1-28; since Oct. 1907 issued separately as a monthly supplement Vo
+1354x1672	Public domain	File:Lettres autographes composant la collection de M. Alfred Bovet (IA lettresautograph00char).pdf	| Subjects:
+1204x1920	Public domain	File:Salon de .. (IA salonde 1883mont).pdf	| Description based on: 1883 "Societe des artistes français et Societe des beaux-arts"--T.p. 1890 ed Authored 1883 by Ph. Burty; 1884 by Arman
+1662x1969	CC BY 4.0	File:Judith, PK-1891-P-2.jpg	| Title: JudithSubtitle: Judith putting Holofernes\' head in a bag, while holding the sword PK-P-126.307Author/creator: Jazet, Jean-Pierre-Mar
+3385x4336	Public domain	File:Edvard Fortling, Judith og Holofernes, 1844, Kks16162, Statens Museum for Kunst.jpg	| Judith og Holofernes
+1353x2078	Public domain	File:Horace Vernet - Judith et Holopherne 01 (cropped).jpg	| Judith et Holopherne par Horace Vernet, 1831
+10613x15253	Public domain	File:Judith - (estampe) (État avec la lettre) - Gravé par Jazet ; Peint par Horace Vernet - btv1b53290632z.jpg	| Sujet : Judith (personnage biblique) Holopherne (personnage biblique) Décapitation Scènes bibliques -- Antiquité Référence bibliographique :
+### Song of Solomon painting
+3200x2177	Public domain	File:Simeon Solomon - A prelude by Bach (1868).jpg	| 
+3000x2987	Public domain	File:(Aus dem hohen Lied) II. Fassung, 1921 - Paul Klee.jpg	| This file was provided to Wikimedia Commons by the Solomon R. Guggenheim Museum as part of a cooperation project. The Solomon R. Guggenheim 
+1280x955	CC BY-SA 4.0	File:Aharon April Song of Songs-Last.jpg	| 
+9000x7563	CC BY-SA 2.0	File:"Die Bibel - Salomo - Hoheslied 8 6-7" von Christiaan Tonnis .jpg	| "The Bible – Solomon – Song of Songs 8, 6–7". Acrylic, rich pale gold and cloth on linen, 66.9 x 76.7 inches, 1997, by Christiaan Tonnis. "S
+2040x2775	Public domain	File:Dance You Monster to My Soft Song! by Paul Klee.JPG	| Dance You Monster to My Soft Song! by Paul Klee, 1922, watercolor and oil transfer drawing on plaster-primed gauze, with watercolor and ink,
+2464x3280	CC BY-SA 4.0	File:Fuzine Castle, ceiling painting in castle chapel.jpg	| Ceiling painting (depicting four evangelists) in the castle chapel of the Fužine Castle. Inscription [Tota pulchra est a]mica [mea, et macu]
+2400x2400	Public domain	File:Gregory of Narek ; Origen of Alexandria ; Arewelts'i, Vardan ; Gregory of Tat'ew. Four commentaries on King Solomon’s Song of Songs. Ejmiadzin, Armenia, 1787 CE.jpg	| Gregory of Narek / Origen of Alexandria / Arewelts'i, Vardan / Gregory of Tat'ew. Four commentaries on King Solomon’s Song of Songs. Ejmiadz
+### Cantique des cantiques peinture
+2538x4275	Public domain	File:Revue des Deux Mondes - 1837 - tome 9.djvu	| 
+4267x6400	Public domain	File:Encyclopédie des gens du monde, T21.djvu	| Encyclopédie
+1159x1500	Public domain	File:Dubos - Réflexions critiques sur la poésie et sur la peinture, Tome 3,1733.djvu	| Books from Hathitrust (https://catalog.hathitrust.org/Record/009331225) for french Wikisource.
+1377x1683	Public domain	File:La peinture au chateau de Chantilly (IA lapeintureauchat02gruy).pdf	| 50 copies; No. 26 v. 1. Écoles étrangères.--v.2. École française Subjects: Painting
+1227x1425	Public domain	File:Cantiques de Marseilles accommodés à des airs vulgaires (microforme) (IA cihm 34859).pdf	| "Implemini Spiritu Sancto, loquentes vobismetipsis ..." Sans musique; airs indiqués par les titres Microfiche de l'exemplaire de l'édition o
+1150x1406	Public domain	File:Recueil de cantiques (microforme) - à l'usage des missions, des retraites et des catechismes (IA cihm 41696).pdf	| "Tome second, ou troisième partie, contenant les suppléments de la seconde édition aux deux premieres parties, avec quelques extraits du Poe
+1197x1425	Public domain	File:Cantiques de l'ame devote (microforme) - divisés en XII. livres, où l'on représente d'une maniere nette & facile les principaux mysteres de la foi (IA cihm 44077).pdf	| "Premiere partie." "Implemini Spiritu Sancto ..." Microfiche de l'exemplaire de l'édition originale se trouvant à la McLennan Library, McGil
+1168x1435	Public domain	File:Cantiques de Marseilles accommodés à des airs vulgaires (microforme) (IA cihm 44858).pdf	| "Implemini Spiritu Sancto ..." Hymnes sans musique: airs indiqués sous chaque titre Microfiche de l'exemplaire de l'édition originale se tro
+1254x2202	Public domain	File:Almanach des muses - 1796.djvu	| Almanach des Muses
+2828x5122	Public domain	File:Octave Fidière - Les femmes artistes à l'Académie royale de peinture et de sculpture, 1885.djvu	| 
+5061x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (01 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9462x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (02 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9478x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (03 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9478x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (04 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9478x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (05 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9478x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (06 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9462x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (07 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9430x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (08 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9478x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (09 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9478x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (10 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+9462x4129	Public domain	File:14 préludes ou pièces d'orgue avec pédale obligée - composés sur des cantiques de Denizot (au 16e siècle) - op. 15 - par A. P. F. Boëly - btv1b10860163x (11 of 11).jpg	| Titre uniforme : Boëly, Alexandre Pierre François (1785-1858). Compositeur. [Quatorze préludes sur des cantiques de Denizot. Op. 15] Compren
+### Hohelied Gemälde
+2080x1560	CC BY-SA 3.0	File:Hintersee und Hoher Göll.jpg	| Der Hohe Göll vom Hintersee bei Ramsau aus
+2000x1500	CC BY-SA 3.0	File:Hoher Göll von der Kneifelspitze.jpg	| Der Hohe Göll von der Kneifelspitze aus
+1944x2592	CC BY-SA 4.0	File:Evangelische Kirche (Fauerbach vor der Höhe) Gemälde 01.JPG	| Evangelische Kirche (Fauerbach vor der Höhe)
+1570x2884	No restrictions	File:Sammlung ausgewählter Gemälde (1888) (14594242388).jpg	| Identifier: sammlungaus00jmhe (find matches) Title: Sammlung ausgewählter Gemälde Year: 1888 (1880s) Authors: J.M. Heberle (Firm) Subjects: 
+2912x1792	No restrictions	File:Ausgewählter Gemälde (1889) (14775942882).jpg	| Identifier: ausgewhl00jmhe (find matches) Title: Ausgewählter Gemälde Year: 1889 (1880s) Authors: J.M. Heberle (Firm) Subjects: Freiherr von
+3616x2472	No restrictions	File:Ausgewählter Gemälde (1889) (14589576730).jpg	| Identifier: ausgewhl00jmhe (find matches) Title: Ausgewählter Gemälde Year: 1889 (1880s) Authors: J.M. Heberle (Firm) Subjects: Freiherr von
+3968x2630	No restrictions	File:Ausgewählter Gemälde (1889) (14775926452).jpg	| Identifier: ausgewhl00jmhe (find matches) Title: Ausgewählter Gemälde Year: 1889 (1880s) Authors: J.M. Heberle (Firm) Subjects: Freiherr von
+1702x1902	No restrictions	File:Sammlung ausgewählter Gemälde (1888) (14594175040).jpg	| Identifier: sammlungaus00jmhe (find matches) Title: Sammlung ausgewählter Gemälde Year: 1888 (1880s) Authors: J.M. Heberle (Firm) Subjects: 
+1952x2546	No restrictions	File:Ausgewählter Gemälde (1889) (14589571310).jpg	| Identifier: ausgewhl00jmhe (find matches) Title: Ausgewählter Gemälde Year: 1889 (1880s) Authors: J.M. Heberle (Firm) Subjects: Freiherr von
+3508x2659	Public domain	File:Josef Holzer - Der Hohe Göll - 4810 - Österreichische Galerie Belvedere.jpg	| 
+2500x1820	Public domain	File:Königlich Baierischer Gemälde-Saal zu München und Schleissheim in Steindruck (BM 1854,1020.1486).jpg	| Fishmongers on a shore; with man and woman sitting outside a shed at right, fish scattered before them, and a kneeling man checking the catc
+1008x1504	Public domain	File:Beschreibendes Verzeichniss der Gemälde (IA beschreibendesve00suer).pdf	| Subjects: Suermondt-Museum; Art museums
+1587x2154	Public domain	File:Gemälde Gallerie (IA gemaldegallerie00jmhe).pdf	| Lugt: 44720 No price list Lot nos.1-179 Place of auction: Cologne 58 p., 13 unnumbered leaves of plates : Subjects: Freiherrn von Friesen; G
+1150x1500	Public domain	File:Die Grossherzogliche Gemälde-Galerie zu Oldenburg (IA gri 33125011189731).pdf	| "Die Gemäldesammlung des Herrn Johannes Wesselhoeft in Hamburg": 62, [2] p. at end Library's copy 2 lacks "Die Gemäldesammlung des Herrn Joh
+1772x2527	CC BY-SA 4.0	File:R. Kutra - Ohne Titel (Zykl. Hohelied) Gou 1958 44x31 cm.jpg	| Gemälde von Radislav Kutra - Ohne Titel (aus dem Zyklus Hohelied), Gouache, 1958, 44x31 cm
+2065x1360	Public domain	File:Carl Goebel Der hohe Göll.jpg	| Der hohe Göll von der Ramsau gesehen, betitelt, signiert Goebel, Bleistift, Aquarell auf Papier, 20 x 31 cm
+1364x1793	Public domain	File:Ausgewählter Gemälde (IA ausgewhl00jmhe).pdf	| Lugt: 48326 Place of auction: Cologne Date of sale: May 29, 1889 Bound as part of O 42 Subjects: Freiherr von Fechenbach
+3392x2348	CC BY-SA 4.0	File:Wuppertal, rechtes Wupperufer Höhe Opernhaus, Gemälde einer Möwe.jpg	| Wuppertal, rechtes Wupperufer Höhe Opernhaus, Gemälde einer Möwe von der naiven Malerin Erika Nagel
+1058x1452	CC BY-SA 4.0	File:1990 Bernd Schälicke (Red.), Regine Timm (Bearb.), Ludwig Schreiner Die Gemälde des neunzehnten und zwanzigsten Jahrhunderts Katalog der Niedersächsischen Landesgalerie, Textband.pdf	| Textband des 1990 vom Niedersächsischen Landesmuseum Hannover in der Reihe Kataloge der Niedersächsischen Landesgalerie herausgegebenen Kata
+4369x3166	Public domain	File:LMW Gemälde Pfarrer 115736.jpg	| Gemälde: "Empfang eines neuen Pfarrers durch seine Gemeinde im Schwarzwald"
+### Sulamith
+2024x2195	Public domain	File:Franz Pforr 004.jpg	| 
+3000x2539	Public domain	File:SulamithMaria1811.jpg	| scetch for Sulamith and Maria, aka Italia and Germania
+1239x1752	Public domain	File:Das Buch Sulamith und Maria.pdf	| "Das Buch Sulamith und Maria"
+2623x4929	Public domain	File:Gustave Moreau - Song of Songs (Cantique des Cantiques) - Google Art Project.jpg	| 
+2322x2274	CC BY-SA 3.0	File:Stolperstein Dillstraße 15 (Sulamith Streim) in Hamburg-Rotherbaum.JPG	| Stolperstein für Sulamith Streim
+2349x4272	CC BY-SA 4.0	File:Dein aschenes Haar Sulamith 2014.jpg	| 2014 - Dein aschenes Haar Sulamith
+2177x2885	Public domain	File:Sulamith's Freund.jpg	| Sulamith's Friend.
+3769x2938	CC BY-SA 3.0	File:DEU-BB-LOS-Erkner Stolpersteine Siedlerweg 14 (1).jpg	| Stolpersteine in Erkner, Siedlerweg 14: Egon, Ruth, Sulamith und Gabriele Hönigsberg
+2487x2418	CC BY-SA 3.0	File:DEU-BB-LOS-Erkner Stolpersteine Siedlerweg 14 (5).jpg	| Stolpersteine in Erkner, Siedlerweg 14: Sulamith Hönigsberg
+1035x1049	CC BY-SA 4.0	File:Stolperstein für Hannah Sulamith Rothschild (Leuven).jpg	| Stolperstein für Hannah Sulamith Rothschild
+1280x829	Public domain	File:Liebigbilder 1912, Serie 848. Die Königin von Saba. Oper von Carl Goldmark - 5 Die Wüste. Assad, dem die abziehende Königin in einer Fata Morgana erscheint. »Segen über Sulamith !«.jpg	| 5: Die Wüste. Assad, dem die abziehende Königin in einer Fata Morgana erscheint: »Segen über Sulamith !« Assad, von der Todesstrafe begnadig
+1280x830	Public domain	File:Liebigbilder 1912, Serie 848. Die Königin von Saba. Oper von Carl Goldmark - 6 Erlösung. Assad und Sulamith, Duett. »Im lichten Schoß der ew'gen Freuden wird ich mit dir vereinigt sein !« Chor. »Im Reich der Liebe !«.jpg	| 6: Erlösung. Assad und Sulamith, Duett: »Im lichten Schoß der ew'gen Freuden wird ich mit dir vereinigt sein !« Chor: »Im Reich der Liebe !«
+3264x2448	CC BY-SA 4.0	File:Stolperstein Sulamith Simon, 1, Liebigstraße 20, Marburg, Landkreis Marburg-Biedenkopf.jpg	| der Stolperstein für Sulamith Simon vor dem Haus Liebigstraße 20 in Marburg
+1033x1375	Public domain	File:Sulamith - ein Opernakt in sechs Bildern (IA sulamitheinopern00klen).pdf	| Subjects: Operas; Song of Solomon (Music)
+2592x4608	CC BY-SA 4.0	File:Salo landau holocaust namenmonument amsterdam.jpg	| 
+2106x1958	CC BY-SA 4.0	File:Friedrich Overbeck Vorstudie zu "Italia und Germania".jpg	| Friedrich Overbeck (1789–1869): Vorstudie zu "Italia und Germania" (Regula und Lisette Hottinger, "Die zwei Bräute", "Sulamith und Maria"). 
+3818x3833	CC BY-SA 4.0	File:Stolperstein für Sulamith Hönigsberg (Erkner).jpg	| Stolperstein für Sulamith Hönigsberg
+3000x4000	CC BY-SA 4.0	File:Anselm Kiefer, Sulamith, 1983, SFMOMA 04.jpg	| Sulamith, 1983, obra de Anselm Kiefer apresentada na exposição "German art after 1960" no SFMOMA
+### Sponsa Song of Songs miniature
+1012x1547	Public domain	File:Ornithologist and oist (IA ornithologistois14pawt).pdf	| Subjects: Birds; Birds
+1256x1433	Public domain	File:The Windsor magazine - an illustrated monthly for men and women (IA acd6136.0037.001.umich.edu).pdf	| Mode of access: Internet SPEC: In the Parker Family Sir Arthur Conan Doyle Collection. Gift of Dr. Philip Parker Subjects:
+1050x1585	Public domain	File:The Huth library. A catalogue of the printed books, manuscripts , autograph letters, and engravings (IA huthlibrarycatal05huth).pdf	| Paged continuously Large paper edition "130 copies only printed for sale." Includes index In 1871, Mr. Huth engaged W. C. Hazlitt and F. S. 
+### Solomon prayer wisdom painting
+1800x721	Public domain	File:Russian - Great Deesis with Prophets - Walters 37625.jpg	| These panels reproduce the upper two tiers of the screen (known as the iconostasis) that separates the nave from the altar in Orthodox churc
+1081x1841	Public domain	File:The prayer life of Jesus, (IA prayerlifeofjesu00dodd).pdf	| xii p. 1 l, 15-173 p. 20 cm Subjects: Jesus Christ -- Prayers; Prayer
+6372x4319	PDM-owner	File:Triptych with the Adoration of the Magi and Old Testament Scenes (SM 2253).png	| altarpiece · Biblical portrayal · historical narration · depiction of a saint · worship · Holy Family · family · Christ Child · Mary · Life 
+1406x1795	Public domain	File:The Catholic church alone - the one true church of Christ, sumptuously illustrated with famous paintings by the great masters (IA catholicchurchal00dodrrich).pdf	| Subjects: Catholic Church; Catholic Church; Catholic Church; Catholic Church
+1041x1433	Public domain	File:A new history of painting in Italy, from the II to the XVI century; (IA gri 33125002699102).pdf	| Includes bibliographical references and index 1. Early Christian art; Giotto &amp; his followers.--II. The Sienese school of the XIV century
+1100x1941	Public domain	File:Hebrew poetry - Sunday afternoon lectures before the Greensboro Law School (IA hebrewpoetrysund00dick).pdf	| Lecture 1. The influence of poetry on national development ; The influence of the Bible on modern civilization -- lecture 2. Education, char
+### Solomon old painting
+1280x883	Public domain	File:Luca Giordano - Dream of Solomon - WGA09004.jpg	| 
+2352x2100	Public domain	File:Wooded Landscape with a Waterfall by Jacob Van Ruisdael, San Diego Museum of Art.JPG	| 
+4224x2829	Public domain	File:Solomon J Solomon - Samson - Google Art Project.jpg	| 
+2000x1670	Public domain	File:Jacob van Ruisdael - Waterfall in a Hilly Wooded Landscape.jpg	| 
+2253x3200	Public domain	File:Solomon Joseph Solomon - The Judgement of Paris.jpg	| 
+3810x2924	CC0	File:The Judgment of Solomon MET DP145897.jpg	| Judgment of Solomon
+5000x3786	Public domain	File:Francúzsky maliar - Old Testament Scene (Solomon and King David) - O 253 - Slovak National Gallery.jpg	| 
+2390x3200	Public domain	File:Self-portrait, by Solomon Joseph Solomon.jpg	| Self-portrait oil on canvas 101.6 x 76.2 cm signed b.r. circa 1896
+2550x2845	Public domain	File:Arent de Gelder - Old Testament Figure, Probably King Solomon - AG-104 - Leiden Collection.jpg	| 
+3640x3855	Public domain	File:Gertrud Bock-Schnirlin Solomon and the Queen of Sheba 1930.jpg	| Gertrud Bock-Schnirlin, Solomon and the Queen of Sheba, 1930
+1509x1881	Public domain	File:Jacob van Ruisdael - A wooded landscape with a waterfall, n11168-cchxj-03.jpg	| 
+2048x2501	Public domain	File:A wooded landscape with a waterfall).jpg	| 
+6491x7417	Public domain	File:Portrait painting of Solomon Jacobs by Thomas Sully from 1810.tif	| Portrait painting of Solomon Jacobs by Thomas Sully from 1810
+2880x1847	Public domain	File:A rocky, wooded landscape with a waterfall and figures.webp	| 
+1200x1110	Public domain	File:Solomon Joseph Solomon (1860-1927) - A Family Group, The Artist's Wife and Children, 'Papa Painting^' - NG4916 - National Gallery.jpg	| 
+1176x726	Public domain	File:Evangelismos Solomon Dionysiou.jpg	| Fresco of Archangel Gabriel and Prophet Solomon from Dionysiou Monastery
+### Joshua angel painting
+1956x2902	Public domain	File:Stratz Körper des Kindes 3 007.jpg	| This is a scan of the historical document
+1080x908	Public domain	File:Schnorr von Carolsfeld Bibel in Bildern 1860 068.png	| Woodcut for "Die Bibel in Bildern", 1860.
+2166x2560	Public domain	File:Heads of Angels - Miss Frances (Gordon) by Sir Joshua Reynolds, PRA.jpg	| 
+1287x1536	Public domain	File:A Cherub Head in Different Views (Miss Frances Gordon, by Sir Joshua Reynolds.jpg	| 
+6490x4266	CC0	File:Fotoreproductie van een schilderij van vijf engelenhoofden door Joshua Reynolds Angels' Head. Miss Frances Isabella Ker Gordon, in five Positions (titel op object), RP-F-2001-7-40-6.jpg	| IdentificatieTitel(s): Fotoreproductie van een schilderij van vijf engelenhoofden door Joshua Reynolds. Angels' Head. Miss Frances Isabella 
+1012x1518	Public domain	File:Fair women in painting and poetry (IA fairwomeninpaint00shar 0).pdf	| On cover: The Portfolio... no. 7, July, 1894 Subjects: Beauty, Personal; Women in art; Women in literature; Women
+1231x1500	Public domain	File:Sir Joshua Reynolds, first president of the Royal Academy (IA gri 33125001456835).pdf	| Title vignette "The paper of the text is of English make; that of the plates, French. The copper plates in and out of the text were made by 
+1087x1500	Public domain	File:Engravings from the works of Sir Joshua Reynolds, P.R.A. (IA gri 33125008471258).pdf	| Mounted mezzotint engravings after portraits by Sir Joshua Reynolds, executed mainly by Samuel William Reynolds and by numerous other engrav
+1052x1462	Public domain	File:The history of modern painting - Richard Muther - revised ed. 1907, vol. 1 (IA historyofmodernp01muth).pdf	| "Index of artists": v. 4, p. 403-444 Bibliography at end of each volume Subjects: Painting
+1014x1372	Public domain	File:Sir Joshua Reynolds (IA sirjoshuareynold00bald).pdf	| Sir Joshua Reynolds, by A. L. Baldry.--List of the principal works of Sir Joshua Reynolds (p. xiii-xliv) Subjects: Reynolds, Joshua, Sir, 17
+1161x1804	CC BY-SA 4.0	File:Natividad - Joshua Reynolds.jpg	| Print depicting the painting "The Nativity" (or "The Adoration of the Shepherds") by Joshua Reynolds. The original painting was destroyed in
+1014x1589	Public domain	File:Sir Joshua Reynolds (IA jstor-20537925).pdf	| "Sir Joshua Reynolds" is an article from &lt;a href="/search.php?query=collection%3Ajstor_illumagaart%20AND%20volume%3A1" rel="nofollow"&gt;
+1255x1576	Public domain	File:Ansichtkaart op de plaatjeswand in de kamer van Anne Frank van het schilderij A Child's Portrait in Different Views- Angel Heads door Joshua Reynolds, ca. 1900.jpg	| Ansichtkaart op de plaatjeswand in de kamer van Anne Frank van het schilderij A Child's Portrait in Different Views: Angel Heads door Joshua
+1863x3232	CC BY-SA 4.0	File:L'ange et Josué devant Jéricho (Joshua 5 13) • invenit James Tissot • pinxit James Tissot • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg	| Printed reproduction M. de Brunoff &amp; Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by h
+### Joshua Israelites painting
+3000x2554	Public domain	File:Tissot Moses and Joshua in the Tabernacle.jpg	| Moses and Joshua in the Tabernacle, c. 1896-1902, by James Jacques Joseph Tissot (French, 1836-1902) or follower, gouache on board, 7 3/8 x 
+1024x749	Public domain	File:Poussin - Josué et les Amorites Moscou.jpg	| Pendant to The Victory of Joshua over the Amalekites in St. Petersburg.
+1006x1381	Public domain	File:Jewish Encyclopedia Volume 2.pdf	| 
+2803x3383	No restrictions	File:Bible primer, Old Testament, for use in the primary department of Sunday schools (1919) (14595374530).jpg	| Identifier: bibleprimeroldte00hult (find matches) Title: Bible primer, Old Testament, for use in the primary department of Sunday schools Ye
+1200x880	Public domain	File:The Victory of Joshua over Amorites. Nicolas Poussin - 1624-1626.jpg	| The Victory of Joshua over Amorites, as in the Book of Joshua. Oil on canvas by Nicolas Poussin; ca. 1624-1626. 97 cm (38.19 in.) x 134 cm (
+1200x875	Public domain	File:Nicolas Poussin - The Victory of Joshua over Amorites - Pushkin museum.jpg	| Pendant to The Victory of Joshua over the Amalekites in St. Petersburg.
+1375x2414	Public domain	File:The history of ancient America, anterior to the time of Columbus; proving the identity of the aborigines with the Tyrians and Israelites (IA b29349941).pdf	| Added t.-p., engr.: An original history of ancient America. Founded upon the ruins of antiquity "No more published"--Brit. Mus. Catalogue v.
+1462x1891	Public domain	File:A catalogue of a select and singularly valuable collection of paintings the property of a gentleman of fortune (IA catalogueofselec1218coxe).pdf	| 16 pages ; 26 cm Date of auction: June 12, 1812 Place of auction: London Subjects: Brogden
+1037x1441	Public domain	File:A new history of painting in Italy, from the II to the XVI century; (IA gri 33125002699086).pdf	| Includes bibliographical references and index 1. Early Christian art; Giotto &amp; his followers.--II. The Sienese school of the XIV century
+1195x1814	Public domain	File:Roman art - some of its principles and their application to early Christian painting (IA romanartsomeofit00wick).pdf	| Includes bibliographical references and index Subjects: Art, Roman; Christian art and symbolism
+1191x1743	Public domain	File:Roman art; some of its principles and their application to early Christian painting; (IA romanartsomeofit00wickrich).pdf	| Title in red and black Subjects: Art, Roman; Christian art and symbolism
+1012x1447	Public domain	File:Illustrated Catalogue of the Early English Portraits and Other Paintings Collected by the Late F. A. G. Hood... (1915) (IA earlyenglish00amer).pdf	| 
+1262x1825	Public domain	File:Roman art; some of its principles and their application to early Christian painting; (IA cu31924030650992).pdf	| The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML file
+1200x890	Public domain	File:Пуссен Н. Картина. Битва израильтян с аммореями. Около 1624 - 1625, Ж-1046.jpg	| 
+1420x1045	Public domain	File:Le partage de la Terre promise - Licherie ou Bonnet - MM 1938F905.jpg	| Le partage de la Terre promise, peint par Louis Licherie ou l'atelier de Sylvain Bonnet
+3808x2486	CC BY 4.0	File:Dresden, Gemäldegalerie Alte Meister, Jan Bruegel d.Ä., die Schlacht der Israeliten gegen die Amalekiter.jpg	| 
+4800x3552	Public domain	File:Pauwels Casteels - The Battle between the Israelites and the Amalekites.jpg	| 
+### Aaron Moses painting
+2244x2088	Public domain	File:Master of the Dinteville Family - Moses and Aaron before Pharaoh-An Allegory of the Dinteville Family', oil on wood, mid 16th century.jpg	| Moses and Aaron before Pharaoh: An Allegory of the Dinteville Family, oil on wood painting by the Master of the Dinteville Family, mid 16th 
+1746x2423	Public domain	File:Mose Aaron Hur.jpg	| Moses, supported by Aaron and Hur, is praying for victory (Painting by J.E. Millais, 1923?)
+1100x869	Public domain	File:Sandro Botticelli - The Punishment of Korah and the Stoning of Moses and Aaron - WGA2747.jpg	| 
+1084x770	Public domain	File:Sandro Botticelli - The Punishment of Korah and the Stoning of Moses and Aaron (detail) - WGA2750.jpg	| 
+1108x770	Public domain	File:Sandro Botticelli - The Punishment of Korah and the Stoning of Moses and Aaron (detail) - WGA2752.jpg	| 
+2112x2816	CC BY-SA 3.0	File:Cranach il vecchio, mosé e aronne con due profeti, 1532.JPG	| 
+4001x3092	Public domain	File:Moses and Aaron with the Tablets of the Law - Google Art Project.jpg	| 
+5100x4001	Public domain	File:Alexander Heubel - Moses, Aaron and Hur - Google Art Project.jpg	| 
+4426x3157	Public domain	File:Bartholomeus Breenbergh - Moses and Aaron Changing the Rivers of Egypt to Blood - 70.PB.14 - J. Paul Getty Museum.jpg	| 
+2488x1669	Public domain	File:Moses and Aaron with the 10 Commandments 1674.jpg	| Moses and Aaron with the 10 Commandments
+3783x3494	CC0	File:Moses and Aaron before Pharaoh- An Allegory of the Dinteville Family MET DT1462.jpg	| 
+1200x828	Public domain	File:Pieter Mulier the younger (c.1637-1701) - Landscape with Moses and Aaron Calling Down the Plague of Hail upon Egypt - 1298257 - National Trust.jpg	| 
+1552x1199	Public domain	File:Moses and Aaron with the Tablets of the Law - Google Art Project— clean.jpg	| A cleaned-up version of https://commons.wikimedia.org/wiki/File:Moses_and_Aaron_with_the_Tablets_of_the_Law_-_Google_Art_Project.jpg
+3516x1951	CC0	File:Berghausen St. Cyriakus Aaron Stamm Ausschlag.jpg	| Berghausen St. Cyriakus Aaron - Moses verlangt von allen Stammesführern Israels einen Reise und steckt diese in die Erde. Am nächsten Tag ha
+1723x1199	CC BY-SA 3.0 de	File:Dekalogtafel der Wallonisch-Niederländischen Kirche in Hanau mit Moses und Aaron.jpg	| Dekalogtafel der Wallonisch-Niederländischen Kirche in Hanau mit Moses und Aaron
+1600x1067	CC BY 4.0	File:Prophets Moses and Aaron CRKOLEZ 1 IMG 7756.jpg	| Narthex, fresco painting
+1600x1067	CC BY 4.0	File:Prophets Aaron Moses and Solomon - St Nicholas church Velika Hoca 282N3436.jpg	| St Nicholas Church, Velika Hoča, wall painting
+4491x2525	CC BY-SA 4.0	File:Vorau Moses u Aaron.jpg	| Augustinerchorherrenstift Vorau: Stiftskirche, Moses und Aaron
+2436x3117	Public domain	File:Moses and Aaron at the Ark, by Hyacinthe Collin de Vermont, about 1738, from the Hood Museum of Art - P.993.5.tif	| Moses and Aaron at the Ark, by Hyacinthe Collin de Vermont, about 1738, from the Hood Museum of Art - P.993.5.
+1200x848	Public domain	File:Unknown artist - Moses and Aaron with the Tablets of the Law - C 1983.8.8.1 - Jewish Museum, London.jpg	| 
+3714x3051	CC BY 4.0	File:Kassel, Gemäldegalerie Alte Meister, Jacob Pynas, Landschaft mit der Begegnung von Moses und Aaron am Berg Horeb.jpg	| Kassel, Old Masters Picture Gallery, Jacob Pynas, landscape with the meeting of Moses and Aaron on Mount Horeb, 1625-26
+### Zephaniah prophet
+3072x2304	CC BY-SA 3.0	File:Zephaniah (GRM).jpg	| Пророк Софрония. 1408 или 1410-е. Даниил, Андрей Рублев и мастерская (?). Из иконостаса Успенского собора Владимира. ГРМ
+2953x3823	Public domain	File:Portrait of the Prophet Muhammad riding the buraq steed - Google Art Project.jpg	| 
+2388x4108	CC BY-SA 4.0	File:Dome of the Prophet (Temple Mount, 2008).jpg	| The Dome of the Prophet (Arabic: فبة النبي‎), also known as the Dome of Gabriel, is located on the Temple Mount in the Old City of Jerusalem
+1018x1967	Public domain	File:Zephaniah from Yaroslavl (18 c, priv.coll).jpg	| THE PROPHET SAFONIY 12,000-15,000 GBP YAROSLAVL, SECOND HALF OF THE 18TH CENTURY. 89 by 46 cm. The icon comes from the Prophets' row of a ch
+1908x2420	No restrictions	File:Stained glass of the middle ages in England and France (1913) (14756783736).jpg	| Identifier: stainedglassofmi00arno (find matches) Title: Stained glass of the middle ages in England &amp; France Year: 1913 (1910s) Authors
+2694x2088	No restrictions	File:Erasmus Grasser - Die Apostel Philippus und Sophonias.jpg	| Erasmus Grasser - Apostel Philippus (li.) und Prophet Sophonias (re.). Vom Chorgestühl der Frauenkirche Münnchen. Ende des 15. Jahrhunderts 
+4608x3456	CC BY 2.5	File:PikiWiki Israel 47504 Zephaniah lookout in Barkan.JPG	| Zephaniah lookout in Barkan
+3818x2549	CC BY-SA 4.0	File:Yaroslavl ElijahProphetChurchInterior 7302.jpg	| Interior of the church of Elijah the Prophet in Yaroslavl, Russia
+3383x2266	CC BY 2.0	File:Holme (Notts), St Giles church, Stained glass window detail (39076801610).jpg	| Figures of Sophonias( Zephaniah), Amos and Isiah in the traceries of the Lady Chapel window with glass dating from the 15th century. Origina
+4256x2832	CC BY-SA 4.0	File:Pammakaristos Church Main dome mosaic Sophonias - Mica - Jo'el - Zacharias in 2010 11 9610.jpg	| "From left to right: prophets Sophonias - Mica - Jo'el - Zacharias" The Enc. Brit. has Zephania, adding " also spelled Sophonias Israelite p
+1500x1167	CC0	File:Fethiye Camii, parekklesion, dome, mosaics, Istanbul, Turkey - Zephaniah, detail of head - MSBZ004 BF T F 007 2 - Dumbarton Oaks.jpg	| 
+1042x1500	CC0	File:Fethiye Camii, parekklesion, dome, mosaics, Istanbul, Turkey - Zephaniah, detail of bust - MSBZ004 BF T F 007 B - Dumbarton Oaks.jpg	| 
+1042x1500	CC0	File:Fethiye Camii, parekklesion, dome, mosaics, Istanbul, Turkey - Zephaniah, detail of head - MSBZ004 BF T F 007 C - Dumbarton Oaks.jpg	| 
+1042x1500	CC0	File:Fethiye Camii, parekklesion, dome, mosaics, Istanbul, Turkey - Zephaniah and Micah - MSBZ004 BF T F 007 D - Dumbarton Oaks.jpg	| 
+2766x2766	CC BY-SA 4.0	File:Mural depicting the Prophet Zephaniah (Sophonias) at the Cathedral of Athens on June 4, 2022.jpg	| Mural depicting the Prophet Zephaniah (Sophonias) at the Cathedral of Athens.
+1498x1241	Public domain	File:The Prophets - Zephaniah, Joel, Gradiah, Hosea (The Story of the Masterpieces).png	| Illustration from "The Story of the Masterpieces" (https://archive.org/details/the-story-of-the-masterpieces)
+1067x1600	CC BY 4.0	File:Prophet Sophonias (Zephaniah)? PRIZREN 2 IMG 4776-2.jpg	| Chruch of Theotokos of Ljeviš, Prizren, Fresco painting
+1067x1600	CC BY 4.0	File:Prophet Zephaniah, main dome, GRACANICA 4 IMG 7948.jpg	| Prophet Zephaniah, main dome, Gracanica monastery
+1176x832	CC BY 4.0	File:FlorenceBaptistery Zephaniah.png	| mosaic of prophet Zephaniah in the Florence Baptistery
+3648x5472	CC BY-SA 2.5 it	File:3031 - Mosaic of a prophet, in the church of the Monastery of Daphni (Athens) - Photo by Giovanni Dall'Orto - April 5 2025.jpg	| Byzantine mosaic of a prophet, in the dome of the church of the Monastery of Daphni (Athens). Picture by Giovanni Dall'Orto, April 5, 2025.
+3120x4160	Public domain	File:Tissot Drawing 412 Zephaniah Zephaniah 1 14 for Brunoff 399 Sophonie.jpg	| Pen and ink sketch by James Tissot for his painted illustrations of the Old Testament; one of 200 worked up by other artists after his death
+### Haggai prophet
+1486x2007	CC BY-SA 3.0	File:Giovanni pisano, il profeta haggai, frammento da facciata duomo siena, 1285-97 ca.JPG	| Giovanni pisano, il profeta haggai, frammento da facciata duomo siena, 1285-97 ca
+2090x3135	Public domain	File:A Critical and Exegetical Commentary on Haggai, Zechariah, Malachi and Jonah.djvu	| djvu of book
+3072x2304	CC BY 2.0	File:Duomo, portale principale, dettaglio santi.JPG	| Verona ( Italy ). Cathedral: Romanesque reliefs of prophets at the main portal ( 1139 ).
+2590x4000	Public domain	File:Chronique Cockerell 8v - NationalGalleryofArt Washington.jpg	| Brutus, Peisistratus, Cambyses, King of Persia and a View of Babylon, Judith with the Head of Holofernes, Pythagoras, King Darius and the Pr
+2388x4108	CC BY-SA 4.0	File:Dome of the Prophet (Temple Mount, 2008).jpg	| The Dome of the Prophet (Arabic: فبة النبي‎), also known as the Dome of Gabriel, is located on the Temple Mount in the Old City of Jerusalem
+1056x739	Public domain	File:Haggai (Menologion of Basil II).jpg	| Константинополь. 985 г. Миниатюра Минология Василия II. Ватиканская библиотека. Рим.
+2613x3644	CC0	File:The Prophet Haggai, from Prophets and Sibyls MET DP835426.jpg	| Print; Prints
+3818x2549	CC BY-SA 4.0	File:Yaroslavl ElijahProphetChurchInterior 7302.jpg	| Interior of the church of Elijah the Prophet in Yaroslavl, Russia
+4608x3456	CC BY-SA 4.0	File:Haggai lookout.jpg	| מצפור חגי
+4608x3456	CC BY-SA 4.0	File:Haggai lookout (3).jpg	| מצפור חגי
+3072x4608	CC BY-SA 4.0	File:Tomb of the prophets Haggai and Malachi1138.JPG	| Tomb of the prophets Haggai and Malachi
+4096x3262	Public domain	File:Right wing of frieze (of the prophets) LCCN2003689377.jpg	| Title: Right wing of frieze [of the prophets] Abstract/medium: 1 photographic print.
+4096x3262	Public domain	File:Right wing of frieze (of the prophets) LCCN2003689377.tif	| Title: Right wing of frieze [of the prophets] Abstract/medium: 1 photographic print.
+3885x5090	CC0	File:Haggai Icones Prophetarum Veteris Testamenti (serietitel), RP-P-1963-223.jpg	| IdentificatieTitel(s): Haggai. Icones Prophetarum Veteris Testamenti (serietitel)Objecttype: prent Serienummer: 18/27Objectnummer: RP-P-1963
+4040x5062	CC0	File:Haggai Icones Prophetarum Veteris Testamenti (serietitel), RP-P-1906-2199.jpg	| IdentificatieTitel(s): Haggai. Icones Prophetarum Veteris Testamenti (serietitel)Objecttype: prent Serienummer: 18/27Objectnummer: RP-P-1906
+1187x1200	Public domain	File:British (English) School - The Prophet Haggai - 1430496.20 - National Trust.jpg	| 
+1580x1326	Public domain	File:The Prophets - Micah, Haggai, Malachi, Zechariah (The Story of the Masterpieces).png	| Illustration from "The Story of the Masterpieces" (https://archive.org/details/the-story-of-the-masterpieces)
+2086x2498	CC BY-SA 3.0	File:Haggai Misgav.jpg	| חגי משגב (מושקוביץ) (נולד ב-25 באפריל 1958) הוא פרופסור ומרצה למקרא וללימודי ארץ ישראל באוניברסיטה העברית, במכללת הרצוג ובגבעת וושינגטון.
+4406x3769	CC BY-SA 4.0	File:Cathedral of Verona (7).jpg	| Sculptures of the Old Testament prophets at the archivolts of the portal of the Cathedral of Verona, Veneto, Italy
+1256x792	CC BY 4.0	File:FlorenceBaptistery Haggai.png	| mosaic of prophet Haggai in the Florence Baptistery
+3456x4608	Public domain	File:Tissot Drawing 413 Haggai Haggai 1 3-4 for Brunoff 400 Aggée.jpg	| Pen and ink sketch by James Tissot for his painted illustrations of the Old Testament; one of 200 worked up by other artists after his death
+### Sistine Chapel lunette Solomon
+1250x730	Public domain	File:Michelangelo david solomon.jpg	| 
+1250x730	Public domain	File:Michelangelo, lunetta, Jesse - David - Solomon 01.jpg	| 
+3426x1880	CC BY-SA 3.0	File:Sistine Chapel ceiling diagram overlay composite.png	| Sistine Chapel, diagram of the scheme of Michelangelo's frescoes. Vectorised and redrawn, superimposed upon bitmap photography. This is a co
+1250x730	Public domain	File:Jesse - David - Solomon.jpg	| fresco painted by Michelangelo at the Sistine Chapel in the Vatican between 1508 to 1512
+3441x1904	CC BY-SA 3.0	File:Sistine Chapel Ceiling - Português.png	| Sistine Chapel, diagram of the scheme of Michelangelo's frescoes. Vectorised and redrawn, superimposed upon bitmap photography.
+3645x2896	CC0	File:Portion of the Ceiling of the Sistine Chapel with the Libyan Sibyl, Prophet Daniel, Jesse, David, and Solomon, from Sibyls and Prophets from the Sistine Chapel Vaults MET DP836965.jpg	| Print; Prints
+3708x2536	CC0	File:The ancestors of Christ flanking an inscribed tablet, an arched top composition MET DP812457.jpg	| Print; Prints
+1100x1818	Public domain	File:Lives of the most eminent painters, sculptors, and architects (IA b29350323 0003).pdf	| Vol. vi is 'Commentary containing notes and emendations from the Italian ed. of Milanesi ... by J.P. Richter' Subjects:
+1002x1497	Public domain	File:Stanford memorial church, the mosaics, the windows, the inscriptions (IA stanfordmemorial02hall).pdf	| Subjects: Stanford University
+1193x2058	Public domain	File:Catalogue of the genuine and entire collection of prints, books of prints, &c., the property of William Roscoe, Esq., which will be sold by auction, by Mr. Winstanley (IA catalogueofgenui9181wins).pdf	| [4], 170 pages ; 23 cm 1394 lots "... Catalogues may be had of Messrs. Cadell and Davis, Strand; ... at the place of sale, and of Mr. Winsta
+1262x1629	Public domain	File:The great works of Raphael Sanzio of Urbino - a series of thirty photographs from the best engravings of his most celebrated paintings (IA greatworksofraph00cund).pdf	| "With descriptions, translated from Passavant's 'Raphael von Urbino und sein Vater', Vasari's life of Raphael, translated by Mrs. Jonathan F
+1016x1427	Public domain	File:The great works of Raphael Sanzio of Urbino - a series of twenty photographs from the best engravings of his most celebrated paintings (IA greatworksofraph00raph).pdf	| viii, 88 p., [20] leaves of plates : 25 cm Appendix: A catalogue of the principal paintings by Raphael, classified according to their subjec
+1279x1818	Public domain	File:The Magazine of art (IA magazineofart4188unse).pdf	| No more published Subjects: Art; Art
+1056x1572	Public domain	File:Raphael Santi (IA raphaelsanti00mccurich).pdf	| Subjects: Raphael, 1483-1520
+1012x1477	Public domain	File:Stanford memorial church - the mosaics, the windows, the inscriptions (IA stanfordmemorial00hallrich).pdf	| Subjects: Stanford University. Stanford memorial church
+1072x1577	Public domain	File:The work of Michelangelo (IA workofmichelange00knap).pdf	| Translated from the German Subjects: Michelangelo Buonarroti, 1475-1564
+1356x2158	Public domain	File:Harper's New Monthly Magazine, Volume 62.pdf	| 
+### Jeremias Congonhas
+1894x2525	CC BY-SA 4.0	File:Congonhas sanctuary of Bom Jesus statues 2.jpg	| Four of the twelve Prophets sculpted by Aleijadinho in front of the church of the sanctuary of Bom Jesus of Matosinhos at Congonhas, Minas G
+2272x1704	CC BY-SA 3.0	File:12 Profetas - Congonhas - Minas Gerais - Brazil 02.jpg	| Congonhas is a formerly wealthy, today rather scruffy mining town in Minas Girais, renowned for one magnificent work: the "12 Profetas" of B
+1817x1228	CC BY-SA 4.0	File:Santuário de Bom Jesus de Matozinhos, Congonhas, Minas Gerais, Brasil 7.JPG	| This is a photo of a monument in Brazil identified by the ID
+1817x1228	CC BY-SA 4.0	File:Santuário de Bom Jesus de Matozinhos, Congonhas, Minas Gerais, Brasil 8.JPG	| This is a photo of a monument in Brazil identified by the ID
+1280x1888	CC BY-SA 4.0	File:OS PROFETAS.jpg	| This is a photo of a monument in Brazil identified by the ID
+1875x2500	CC BY-SA 4.0	File:Aleijadinho - Detalhe do rosto do profeta Jeremias - Santuário do Bom Jesus de Matosinhos - Congonhas.jpg	| This is a photo of a monument in Brazil identified by the ID
+3456x4608	CC BY 2.0	File:Profetas - Aleijadinho (26394899660).jpg	| Os Profetas - Aleijadinho Congonhas do Campo - MG
+3456x4608	CC BY 2.0	File:Profetas - Aleijadinho (26064023543).jpg	| Os Profetas - Aleijadinho Congonhas do Campo - MG
+3456x5184	CC BY-SA 2.0	File:Congonhas, MG IMG 2994 (28626039601).jpg	| IMG_2994
+3456x5184	CC BY-SA 2.0	File:Congonhas, MG IMG 2993 (28419477520).jpg	| IMG_2993
+2472x3296	CC BY-SA 3.0	File:Congonhas MG Brasil - Profeta Jeremias em pedra sabão, de Aleijadinho - panoramio.jpg	| Congonhas MG Brasil - Profeta Jeremias em pedra sabão, de Aleijadinho
+1836x3264	CC BY-SA 4.0	File:Profeta Jeremias, de Aleijadinho.jpg	| Cultural propertySanctuary of Bom Jesus de Matosinhos, Minas Gerais, BrazilQ1595417, VIAF cluster ID: 154799781, Library of Congress Authori
+2908x1938	CC BY-SA 4.0	File:Congonhas do Campo Bom Jesus de Matosinhos Santuário do Bom Jesus de Matosinhos.jpg	| This is a photo of a monument in Brazil identified by the ID
+2304x3456	Public domain	File:Aleijadinho Santuario Jeremias 01.jpg	| Jeremiah is one of the twelve prophets that line the parapet of the staircase to the Basilica of Our Good Lord Jesus of Matosinhos in Congon
+1290x1962	Public domain	File:O seminarista (1875).djvu	| 
+### Ezequiel Congonhas
+1200x1600	Public domain	File:EzequielProfeta.jpg	| Profeta Ezequiel - Doze profetas de Aleijadinho Congonhas Minas Gerais
+2472x3296	CC BY-SA 3.0	File:Congonhas MG Brasil - Profeta Ezequiel em pedra sabão, de Aleijadinho - panoramio.jpg	| Congonhas MG Brasil - Profeta Ezequiel em pedra sabão, de Aleijadinho
+### Daniel Congonhas
+1944x2592	CC BY-SA 4.0	File:Congonhas sanctuary of Bom Jesus prophet Daniel.jpg	| Statue of the prophet Daniel sculpted by Aleijadinho in front of the church of the sanctuary of Bom Jesus of Matosinhos at Congonhas, Minas 
+1704x2272	CC BY-SA 3.0	File:12 Profetas - Congonhas - Minas Gerais - Brazil 03.jpg	| Congonhas is a formerly wealthy, today rather scruffy mining town in Minas Girais, renowned for one magnificent work: the "12 Profetas" of B
+1228x1817	CC BY-SA 4.0	File:Santuário de Bom Jesus de Matozinhos, Congonhas, Minas Gerais, Brasil 11.JPG	| This is a photo of a monument in Brazil identified by the ID
+1840x3264	CC BY-SA 4.0	File:Profeta Daniel.jpg	| This is a photo of a monument in Brazil identified by the ID
+2736x3648	CC BY-SA 4.0	File:Santuario BomJesus Matosinhos Congonhas profeta.JPG	| This is a photo of a monument in Brazil identified by the ID
+3264x2448	CC BY-SA 4.0	File:Congonhas-MG.JPG	| This is a photo of a monument in Brazil identified by the ID
+2048x1536	CC BY 2.0	File:A imponência dos profetas (1512407696).jpg	| Santuário do Bom Jesus de Matozinhos, em Congonhas/MG
+3280x4920	CC BY 2.0	File:Inauguração do Museu de Congonhas (23166833003).jpg	| A Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO no Brasil), o Instituto do Patrimônio Histórico e Artístico N
+5616x3744	CC BY 2.0	File:Inauguração do Museu de Congonhas (23425565469).jpg	| A Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO no Brasil), o Instituto do Patrimônio Histórico e Artístico N
+3456x4608	CC BY 2.0	File:Profetas - Aleijadinho (26668077995).jpg	| Os Profetas - Aleijadinho Congonhas do Campo - MG
+3456x5184	CC BY-SA 2.0	File:Congonhas, MG IMG 3002 (28088159433).jpg	| IMG_3002
+1704x2304	CC BY 3.0	File:Untitled - panoramio - gite le paradis (7).jpg	| Congonhas
+2472x3296	CC BY 3.0	File:Congonhas MG Brasil - Profeta Daniel em pedra sabão - panoramio.jpg	| Congonhas MG Brasil - Profeta Daniel em pedra sabão
+3648x2736	CC BY 3.0	File:Congonhas MG Brasil - Basílica Bom Jesus de Matosinhos - panoramio.jpg	| Congonhas MG Brasil - Basílica Bom Jesus de Matosinhos
+2836x1982	Public domain	File:Congonhas, Fundo Correio da Manhã.tif	| Imagem do Fundo Correio da Manhã.
+2908x1938	CC BY-SA 4.0	File:Congonhas do Campo Bom Jesus de Matosinhos Santuário do Bom Jesus de Matosinhos.jpg	| This is a photo of a monument in Brazil identified by the ID
+2304x3456	Public domain	File:Aleijadinho Santuario Isaias 01.jpg	| Isaiah is one of the twelve prophets that line the parapet of the staircase to the Basilica of Our Good Lord Jesus of Matosinhos in Congonha
+2304x3456	Public domain	File:Aleijadinho Santuario Jeremias 01.jpg	| Jeremiah is one of the twelve prophets that line the parapet of the staircase to the Basilica of Our Good Lord Jesus of Matosinhos in Congon
+2193x3291	Public domain	File:Aleijadinho Santuario Oseias 01.jpg	| Hosea is one of the twelve prophets that line the parapet of the staircase to the Basilica of Our Good Lord Jesus of Matosinhos in Congonhas
+2304x3456	Public domain	File:Aleijadinho Santuario Jonas 01.jpg	| Jonah is one of the twelve prophets that line the parapet of the staircase to the Basilica of Our Good Lord Jesus of Matosinhos in Congonhas
+4032x2268	CC BY-SA 4.0	File:Portões de embarque Congonhas.jpg	| Ponte de embarque do aeroporto de Congonhas
+1080x1920	CC BY-SA 4.0	File:Painel de controle finger.jpg	| Painel de controle da ponte / finger do aeroporto de Congonhas.
+1296x1844	CC BY-SA 4.0	File:Profeta Daniel - Congonhas do Campo.jpg	| Profeta Daniel, escultura do mestre Aleijadinho no Santuário do Senhor Bom Jesus de Matosinhos, Congonhas do Campo.
+1239x1752	CC BY 4.0	File:Type mineralogy of Brazil - a book in progress.pdf	| Livro sobre New minerals, Type minerals, Brazilian minerals. DOI: 10.11606/9786586403015
+2000x3000	CC BY 2.0	File:Basílica do Senhor Bom Jesus de Matosinhos (54590694586).jpg	| The Basílica do Senhor Bom Jesus de Matosinhos, located in Congonhas, Brazil, is an 18th-century Roman Catholic basilica and UNESCO World He
