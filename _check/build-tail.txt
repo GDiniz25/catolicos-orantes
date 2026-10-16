@@ -1,0 +1,80 @@
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-filogonio-bispo-de-antioquia.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-miqueias-profeta.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-pedro-canisio-presbitero-jesuita-e-doutor-da-igreja.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-francisca-xavier-cabrini-virgem-fundadora-do-instituto-das-missionarias-do-sagrado-coracao-de-jesus.html[22m [2m(+8ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-joao-de-kenty-sacerdote.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-irmina-abadessa.html[22m [2m(+5ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-tarsila-virgem-romana-tia-de-s-gregorio-magno.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/b-maria-dos-apostolos-virgem-fundadora-das-irmas-salvatorianas.html[22m [2m(+8ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/natal-do-senhor.html[22m [2m(+5ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-anastasia-martir-de-sirmium.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-dionisio-papa.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-estevao-primeiro-martir.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/santo-estevao.html[22m [2m(+8ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-fabiola-viuva-romana-discipula-de-s-jeronimo.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-joao-apostolo-e-evangelista.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/sao-joao-evangelista.html[22m [2m(+5ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/ss-inocentes-martires.html[22m [2m(+8ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-tomas-becket-bispo-de-cantuaria-martir.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-felix-i-papa.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m├─[39m [2m/santos/s-melania-matrona-romana.html[22m [2m(+6ms)[22m 
+[2m21:01:39[22m   [34m└─[39m [2m/santos/s-silvestre-i-papa.html[22m [2m(+9ms)[22m 
+[2m21:01:39[22m [35mλ[39m src/pages/search-index.json.ts
+[2m21:01:39[22m   [34m└─[39m [2m/search-index.json[22m [2m(+2ms)[22m 
+[2m21:01:39[22m [35mλ[39m src/pages/sitemap-[name].xml.ts
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-pages.xml[22m [2m(+2ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-ferramentas.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-biblia.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-como-rezar-o-terco.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-santos-e-oracoes.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-milagres-eucaristicos.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-catecismo.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-liturgia-das-horas.xml[22m [2m(+0ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-novenas.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-sacramentos.xml[22m [2m(+0ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-devocoes-marianas.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-calendario-liturgico.xml[22m [2m(+0ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-exame-de-consciencia.xml[22m [2m(+0ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-oracoes-do-dia-a-dia.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-documentos-da-igreja.xml[22m [2m(+0ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-ladainhas.xml[22m [2m(+0ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-duvidas-da-fe.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-vida-espiritual.xml[22m [2m(+0ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-primeiros-passos.xml[22m [2m(+0ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-casamento.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-santos.xml[22m [2m(+2ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-liturgia.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-evangelho.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m   [34m├─[39m [2m/sitemap-liturgia-das-horas-do-dia.xml[22m [2m(+0ms)[22m 
+[2m21:01:40[22m   [34m└─[39m [2m/sitemap-santo-do-dia.xml[22m [2m(+1ms)[22m 
+[2m21:01:40[22m [35mλ[39m src/pages/sitemap.xml.ts
+[2m21:01:40[22m   [34m└─[39m [2m/sitemap.xml[22m [31m(+751ms)[39m 
+[2m21:01:41[22m [32m▶[39m src/pages/sugestoes.astro
+[2m21:01:41[22m   [34m└─[39m [2m/sugestoes.html[22m [2m(+6ms)[22m 
+[2m21:01:41[22m [32m▶[39m src/pages/terco-da-misericordia.astro
+[2m21:01:41[22m   [34m└─[39m [2m/terco-da-misericordia.html[22m [2m(+6ms)[22m 
+[2m21:01:41[22m [32m▶[39m src/pages/terco-de-hoje.astro
+[2m21:01:41[22m   [34m└─[39m [2m/terco-de-hoje.html[22m [2m(+5ms)[22m 
+[2m21:01:41[22m [32m▶[39m src/pages/terco-guiado.astro
+[2m21:01:41[22m   [34m└─[39m [2m/terco-guiado.html[22m [2m(+5ms)[22m 
+[2m21:01:41[22m [32m▶[39m src/pages/termos-de-uso.astro
+[2m21:01:41[22m   [34m└─[39m [2m/termos-de-uso.html[22m [2m(+4ms)[22m 
+[2m21:01:41[22m [32m▶[39m src/pages/teste-de-temperamento.astro
+[2m21:01:41[22m   [34m└─[39m [2m/teste-de-temperamento.html[22m [2m(+8ms)[22m 
+[2m21:01:41[22m [32m▶[39m src/pages/versiculo-do-dia.astro
+[2m21:01:41[22m   [34m└─[39m [2m/versiculo-do-dia.html[22m [2m(+5ms)[22m 
+[2m21:01:41[22m [32m▶[39m src/pages/vesperas-de-hoje.astro
+[2m21:01:41[22m   [34m└─[39m [2m/vesperas-de-hoje.html[22m [2m(+6ms)[22m 
+[2m21:01:41[22m [32m▶[39m src/pages/via-sacra.astro
+[2m21:01:41[22m   [34m└─[39m [2m/via-sacra.html[22m [2m(+5ms)[22m 
+[2m21:01:41[22m [35mλ[39m src/pages/widget/hoje.json.ts
+[2m21:01:41[22m   [34m└─[39m [2m/widget/hoje.json[22m [2m(+2ms)[22m 
+[2m21:01:41[22m [32m✓ Completed in 53.81s.
+[39m
+[42m[30m generating optimized images [39m[49m
+[2m21:01:41[22m   [32m▶[39m /_astro/logo.C4PDV62m_Z1TGpNa.webp [2m(before: 140kB, after: 6kB)[22m [2m(+40ms)[22m [2m(1/2)[22m
+[2m21:01:41[22m   [32m▶[39m /_astro/logo.C4PDV62m_Z1U8FMc.webp [2m(before: 140kB, after: 3kB)[22m [2m(+15ms)[22m [2m(2/2)[22m
+[2m21:01:41[22m [32m✓ Completed in 56ms.
+[39m
+[2m21:01:41[22m [34m[build][39m 2211 page(s) built in [1m65.95s[22m
+[2m21:01:41[22m [34m[build][39m [1mComplete![22m
