@@ -55,15 +55,15 @@
   "credito": "Google Arts &amp; Culture — NQFzOOBLRBwK8Q"
  },
  "romanos": {
-  "arquivo": "File:Rembrandt van Rijn (and Workshop?), The Apostle Paul, c. 1657, NGA 1198.jpg",
-  "original": "3191x4000",
-  "saida": "1600x2006",
-  "bytes": 371508,
-  "licenca": "CC0",
-  "autor": "Rembrandt van Rijn (and Workshop?)",
-  "data": "circa 1657date QS:P571,+1657-00-00T00:00:00Z/9,P1480,Q5727902",
-  "titulo": "The Apostle Paul",
-  "credito": "This file was donated to Wikimedia Commons as part of a project by the National Gallery of Art. Please see the Gallery's Open Access Policy."
+  "arquivo": "File:Jan Lievens, Painting of St Paul, ca. 1627-29. Oil on canvas. Nationalmuseum Sweden.jpg",
+  "original": "2675x3016",
+  "saida": "1600x1804",
+  "bytes": 411125,
+  "licenca": "Public domain",
+  "autor": "Jan Lievens",
+  "data": "circa 1627-1629",
+  "titulo": "Swedish: Aposteln Paulus Apostle Paultitle QS:P1476,sv:\"Aposteln Paulus \"label QS:Lsv,\"Aposteln Paulus \"label QS:Len,\"Ap",
+  "credito": "Nationalmuseum Sweden"
  },
  "1-corintios": {
   "arquivo": "File:El Greco - St. Paul - Google Art Project.jpg",
@@ -132,15 +132,15 @@
   "credito": "https://www.museodelprado.es/en/the-collection/art-work/saint-paul/d618fb21-e5a1-4a20-9e53-d77ec9046de5?searchid=72a4a51b-e0eb-4b2c-5929-47dc03aedb7a"
  },
  "1-tessalonicenses": {
-  "arquivo": "File:Raphael - St Paul Preaching at Athens c.1515-6.jpg",
-  "original": "2250x1741",
-  "saida": "1600x1238",
-  "bytes": 375953,
+  "arquivo": "File:(Albi) Saint Paul (copie) - Georges de La Tour - MTL inv.165.jpg",
+  "original": "3556x4443",
+  "saida": "1600x1999",
+  "bytes": 682841,
   "licenca": "Public domain",
-  "autor": "Raphael",
-  "data": "",
-  "titulo": "Raphael - St Paul Preaching at Athens c.1515-6",
-  "credito": "https://www.rct.uk/collection/"
+  "autor": "Didier Descouens",
+  "data": "Taken on 21 May 2021",
+  "titulo": "(Albi) Saint Paul (copie) - Georges de La Tour - MTL inv.165",
+  "credito": "Own work"
  },
  "2-tessalonicenses": {
   "arquivo": "File:Saint Paul, by Jusepe de Ribera (1591 – 1652).jpg",
@@ -198,15 +198,15 @@
   "credito": "Walters Art Museum: Home page Info about artwork"
  },
  "hebreus": {
-  "arquivo": "File:Sir Peter Paul Rubens, The Meeting of Abraham and Melchizedek, c. 1626, NGA 45640.jpg",
-  "original": "4000x3193",
-  "saida": "1600x1278",
-  "bytes": 468377,
-  "licenca": "CC0",
-  "autor": "Sir Peter Paul Rubens",
-  "data": "circa 1626date QS:P571,+1626-00-00T00:00:00Z/9,P1480,Q5727902",
+  "arquivo": "File:Dieric Bouts - The Meeting of Abraham and Melchizedek.jpg",
+  "original": "3350x4163",
+  "saida": "1600x1988",
+  "bytes": 619909,
+  "licenca": "Public domain",
+  "autor": "Dieric Bouts",
+  "data": "between 1464 and 1467date QS:P571,+1464-00-00T00:00:00Z/8,P1319,+1464-00-00T00:0",
   "titulo": "The Meeting of Abraham and Melchizedek",
-  "credito": "This file was donated to Wikimedia Commons as part of a project by the National Gallery of Art. Please see the Gallery's Open Access Policy."
+  "credito": "https://artinflanders.be/en/artwork/last-supper-upper-left-panel"
  },
  "tiago": {
   "arquivo": "File:El Greco - St. James the Less - Google Art Project.jpg",
