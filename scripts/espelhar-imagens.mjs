@@ -64,6 +64,7 @@ async function trabalhador() {
             fs.mkdirSync(path.dirname(cache), { recursive: true });
             fs.writeFileSync(cache, buf);
             baixadas++;
+            await new Promise((s) => setTimeout(s, 150));
             erro = null;
             break;
           } catch (e) {
@@ -82,7 +83,8 @@ async function trabalhador() {
     }
   }
 }
-await Promise.all(Array.from({ length: 6 }, trabalhador));
+// Poucas conexões e uma pausa entre downloads: não sobrecarregar o Supabase (banco do plano gratuito)
+await Promise.all(Array.from({ length: 2 }, trabalhador));
 console.log(`${ok.size} imagens servidas pelo site (${baixadas} baixadas agora, o resto do cache); ${falhas.length} falhas`);
 falhas.slice(0, 20).forEach((f) => console.log('  - ' + f));
 
