@@ -63,6 +63,7 @@ const POR_CATEGORIA: Record<string, PonteFerramenta> = {
   'duvidas-da-fe': p('Aprenda a fé passo a passo', 'Lições curtas sobre a doutrina, com teste de nível, e um glossário com as palavras da fé.', F.aprender, F.glossario),
   'vida-espiritual': p('Reze agora, com calma', 'Medite o Evangelho do dia em quatro passos ou reze o terço guiado, conta por conta, no seu ritmo.', F.lectio, F.terco),
   casamento: p('Rezem juntos pelo casamento', 'Rezem o terço guiado como casal ou deixem um pedido para a comunidade rezar pela vida a dois.', F.terco, F.pedido),
+  'parabolas-de-jesus': p('Reze com a Palavra de Deus', 'Medite o Evangelho do dia em quatro passos ou siga um plano de leitura da Bíblia.', F.lectio, F.plano),
   'primeiros-passos': p('Aprenda a fé no seu ritmo', 'O Caminho da Fé ensina o essencial em lições curtas, e as leituras da Missa de hoje ajudam a acompanhar a celebração.', F.aprender, F.liturgia),
 };
 

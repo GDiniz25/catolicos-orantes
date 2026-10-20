@@ -1,6 +1,6 @@
 ---
 import { focoDe } from '@/lib/foco';
-import { Heart } from 'lucide-react';
+import { Heart, Printer } from 'lucide-react';
 import CapaArtigo from '@/components/astro/CapaArtigo.astro';
 import { visualDe } from '@/config/categoryVisual';
 import { sectionIconByHref } from '@/data/sections';
@@ -88,6 +88,8 @@ for (const parte of comPonte.split(/(\u0000PONTE\u0000|<div data-guia-novena><\/
   else if (parte.trim()) pedacos.push({ tipo: 'html', html: parte });
 }
 const faq = extractFaq(clean);
+// Artigos com atividade ou calendário para imprimir ganham o botão Imprimir
+const imprimivel = /<h2[^>]*>[^<]*imprimir/i.test(clean);
 const sources = extractSources(clean);
 
 const description = clampText(article.meta_description || article.excerpt || plain, 158);
@@ -153,7 +155,7 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
     <header class="relative overflow-hidden border-b border-co-warm-sand-dark" style={`background:${tom.fundo}`}>
       <span class="pointer-events-none absolute -right-10 -top-8 hidden opacity-[0.07] md:block" style={`color:${tom.tinta}`} aria-hidden="true"><CatIcon className="h-72 w-72" strokeWidth={1.1} /></span>
       <div class="container relative mx-auto max-w-6xl px-4 pb-8 pt-6 md:pb-12 md:pt-8">
-        <Breadcrumbs crumbs={crumbs.slice(0, 2)} class="mb-5" />
+        <div data-print-hide><Breadcrumbs crumbs={crumbs.slice(0, 2)} class="mb-5" /></div>
         <div class="max-w-[46rem]">
           <a href={`/${article.category}`} class="inline-flex items-center gap-2 rounded-full bg-white/70 px-3 py-1 text-sm font-semibold hover:bg-white" style={`color:${tom.tinta}`}>
             <CatIcon className="h-4 w-4" strokeWidth={1.8} aria-hidden="true" />{catLabel}
@@ -164,7 +166,8 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
             {published && <time datetime={published}>{fmt(published)}</time>}
             {wasUpdated && <span>Atualizado em <time datetime={modified}>{fmt(modified)}</time></span>}
             <span>{readingTime} min de leitura</span>
-            <span class="ml-auto inline-flex items-center gap-1" role="group" aria-label="Tamanho do texto">
+            <span class="ml-auto inline-flex items-center gap-1" role="group" aria-label="Tamanho do texto" data-print-hide>
+              {imprimivel && <button type="button" data-imprimir class="mr-1 inline-flex h-10 items-center gap-1.5 rounded-md border border-co-warm-brown/20 bg-white/70 px-3 text-[15px] font-semibold text-co-warm-brown hover:bg-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta"><Printer className="h-4 w-4" aria-hidden="true" />Imprimir</button>}
               <button type="button" data-fonte="-1" class="h-10 w-10 rounded-md border border-co-warm-brown/20 bg-white/70 text-[15px] font-bold text-co-warm-brown hover:bg-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta" aria-label="Diminuir o texto">A−</button>
               <button type="button" data-fonte="1" class="h-10 w-10 rounded-md border border-co-warm-brown/20 bg-white/70 text-[19px] font-bold text-co-warm-brown hover:bg-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta" aria-label="Aumentar o texto">A+</button>
             </span>
@@ -176,7 +179,7 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
     <div class="container mx-auto grid max-w-6xl gap-10 px-4 pt-8 md:pt-10 lg:grid-cols-[minmax(0,46rem)_minmax(0,1fr)] lg:gap-14">
       <article class="min-w-0">
         {article.image_url && (
-          <figure class="mb-10">
+          <figure class="mb-10" data-print-hide>
             <img
               src={capa?.src ?? article.image_url}
               srcset={capa?.srcset}
@@ -195,7 +198,7 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
         )}
 
         {toc.length >= 3 && (
-          <nav aria-label="Nesta página" class="mb-10 rounded-lg border border-co-warm-sand-dark bg-white p-5 lg:hidden">
+          <nav data-print-hide aria-label="Nesta página" class="mb-10 rounded-lg border border-co-warm-sand-dark bg-white p-5 lg:hidden">
             <p class="mb-2 text-sm font-semibold text-co-warm-brown/80">Nesta página</p>
             <ol class="space-y-1.5 text-[15px]">
               {toc.map((t) => (
@@ -216,7 +219,7 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
       </article>
 
       {toc.length >= 3 && (
-        <aside class="hidden lg:block">
+        <aside class="hidden lg:block" data-print-hide>
           <nav aria-label="Nesta página (lateral)" class="sticky top-24 rounded-lg border border-co-warm-sand-dark bg-white p-5" data-toc>
             <p class="mb-3 text-sm font-semibold text-co-warm-brown/80">Nesta página</p>
             <ol class="space-y-0.5 text-[15px]">
@@ -229,7 +232,7 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
       )}
     </div>
 
-    <div class="container mx-auto max-w-6xl px-4">
+    <div class="container mx-auto max-w-6xl px-4" data-print-hide>
       <div class="max-w-[46rem]">
         <hr class="my-12 border-co-warm-sand-dark" />
 
@@ -309,6 +312,15 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
   };
   window.addEventListener('scroll', onScroll, { passive: true });
   if (!reduz && barra) barra.style.transition = 'transform 80ms linear';
+
+  document.querySelector('[data-imprimir]')?.addEventListener('click', () => {
+    try {
+      (window as unknown as { track?: (e: string, p: object) => void }).track?.('imprimir_artigo', { origem: location.pathname });
+    } catch {
+      /* sem GA */
+    }
+    window.print();
+  });
 
   // Tamanho do texto (fica salvo para os próximos artigos)
   const ESCALAS = [0.9, 1, 1.1, 1.2, 1.3];

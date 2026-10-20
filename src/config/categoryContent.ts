@@ -190,6 +190,17 @@ export const CATEGORY_CONTENT: Record<string, CategoryContent> = {
       { q: 'Posso escolher qualquer música para o casamento na igreja?', a: 'Não. A música faz parte da liturgia e deve servir à oração. Muitas dioceses proíbem trilhas de filmes, novelas e canções populares dentro do rito. Combine a lista com a paróquia.' },
     ],
   },
+  'parabolas-de-jesus': {
+    lead: 'Parábolas são histórias curtas que Jesus contava, tiradas da vida comum, para revelar como é o Reino de Deus. Aqui cada parábola é explicada com o contexto, o sentido de cada detalhe e o que ela pede de nós hoje.',
+    intro: `<p>Jesus ensinava em parábolas: um pai que espera o filho, um samaritano que para na estrada, um semeador que lança a semente. Cada uma é simples de contar e funda de entender. Nesta seção as <strong>parábolas de Jesus</strong> são explicadas a partir do texto do Evangelho, do ensinamento da Igreja e da tradição dos santos.</p>
+<p>Cada página traz o resumo da história, o contexto em que Jesus a contou, a explicação parte por parte, perguntas para reflexão e uma sugestão de oração.</p>
+<p>Para ler o capítulo inteiro com explicação, veja a <a href="/biblia">Bíblia explicada</a>, capítulo por capítulo.</p>`,
+    faq: [
+      { q: 'O que é uma parábola?', a: 'É uma comparação em forma de história, tirada da vida cotidiana, que Jesus usava para ensinar sobre Deus e o Reino. O ouvinte é convidado a se reconhecer na história e a mudar de vida.' },
+      { q: 'Por que Jesus falava em parábolas?', a: 'Os Evangelhos mostram que as parábolas abrem o mistério do Reino a quem acolhe a palavra com fé e deixam a decisão para cada ouvinte (Mt 13,10-17).' },
+      { q: 'Quantas parábolas Jesus contou?', a: 'Os Evangelhos de Mateus, Marcos e Lucas trazem cerca de quarenta parábolas. O número varia conforme se contam as comparações mais curtas.' },
+    ],
+  },
   'primeiros-passos': {
     lead: 'Primeiros passos na fé é o guia para quem quer se tornar católico ou voltar à Igreja: o que fazer, por onde começar e as respostas para as dúvidas de quem está chegando.',
     intro: `<p>Quem está chegando à Igreja, ou voltando depois de anos, costuma ter as mesmas perguntas: como me batizar adulto, posso comungar, o que faço na Missa, por onde começo a ler a Bíblia, como me confessar depois de tanto tempo. Nesta seção cada pergunta recebe uma <strong>resposta direta e acolhedora</strong>, fiel ao Catecismo e ao Direito Canônico.</p>

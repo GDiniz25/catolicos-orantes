@@ -710,3 +710,17 @@ input[type='time']::-webkit-date-and-time-value {
 .article-prose .ponte a.btn-primario:hover { color: #fff; }
 .article-prose .ponte a.btn-contorno { color: hsl(var(--co-warm-brown)); }
 .article-prose .ponte a.btn-contorno:hover { color: #fff; }
+
+/* Impressão: só o texto do artigo (atividades, calendários e roteiros para imprimir) */
+@media print {
+  [data-header], footer, .skip-link, [data-print-hide], [data-faixa-liturgica], .ponte, [data-progresso], .guia-novena nav, .guia-novena button { display: none !important; }
+  body { background: #fff !important; }
+  header { background: #fff !important; border: 0 !important; }
+  .article-prose { font-size: 11.5pt !important; line-height: 1.5; }
+  .article-prose p { text-align: left; }
+  .article-prose a { color: inherit; text-decoration: none; }
+  .article-prose h2, .article-prose h3 { break-after: avoid; }
+  .article-prose table, .article-prose tr, .article-prose blockquote { break-inside: avoid; }
+  .article-prose table { width: 100%; border-collapse: collapse; }
+  .article-prose th, .article-prose td { border: 1px solid #999 !important; background: #fff !important; }
+}

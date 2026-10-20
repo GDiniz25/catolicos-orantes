@@ -153,6 +153,13 @@ export const CATEGORIES: CategoryConfig[] = [
     description: 'Guia do casamento católico: rito do matrimônio, leituras e salmos, músicas para cada momento, alianças e símbolos, documentos, curso de noivos e padrinhos.',
     keywords: 'casamento católico, casamento na igreja, músicas para casamento, leituras para casamento, padrinhos de casamento, documentos para casar na igreja',
   },
+  {
+    slug: 'parabolas-de-jesus',
+    title: 'Parábolas de Jesus',
+    subtitle: 'Cada parábola explicada: contexto, significado, o que a Igreja ensina e como viver hoje.',
+    description: 'Parábolas de Jesus explicadas: filho pródigo, bom samaritano, semeador, dez virgens, ovelha perdida e outras, com contexto, significado e aplicação.',
+    keywords: 'parábolas de Jesus, parábola explicada, significado da parábola, filho pródigo, bom samaritano, parábola do semeador',
+  },
 ];
 
 export const CATEGORY_SLUGS = CATEGORIES.map((c) => c.slug);

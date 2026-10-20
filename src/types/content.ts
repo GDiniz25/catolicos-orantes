@@ -32,4 +32,5 @@ export type CategorySlug =
   | 'duvidas-da-fe'
   | 'vida-espiritual'
   | 'primeiros-passos'
-  | 'casamento';
+  | 'casamento'
+  | 'parabolas-de-jesus';

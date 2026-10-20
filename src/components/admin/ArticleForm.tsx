@@ -37,6 +37,7 @@ const categories: { value: CategorySlug; label: string }[] = [
   { value: 'vida-espiritual', label: 'Vida Espiritual' },
   { value: 'primeiros-passos', label: 'Primeiros Passos na Fé' },
   { value: 'casamento', label: 'Casamento Católico' },
+  { value: 'parabolas-de-jesus', label: 'Parábolas de Jesus' },
 ];
 
 interface ArticleFormProps {

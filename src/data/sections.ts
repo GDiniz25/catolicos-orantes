@@ -1,4 +1,4 @@
-import { BookOpen, Cross, Heart, Church, Calendar, Star, HandHeart, ScrollText, Sun, Moon, FileText, Search, ListOrdered, HelpCircle, Flame, Footprints, HeartHandshake } from "lucide-react";
+import { BookOpen, Cross, Heart, Church, Calendar, Star, HandHeart, ScrollText, Sun, Moon, FileText, Search, ListOrdered, HelpCircle, Flame, Footprints, HeartHandshake, Sprout } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 
 export interface Section {
@@ -26,6 +26,7 @@ export const sections: Section[] = [
   { title: "Vida Espiritual", description: "Como rezar de verdade, aridez, distrações, discernimento e a presença de Deus no dia a dia.", icon: Flame, href: "/vida-espiritual" },
   { title: "Primeiros Passos na Fé", description: "Para quem está chegando ou voltando à Igreja: conversão, sacramentos, Missa e as primeiras dúvidas.", icon: Footprints, href: "/primeiros-passos" },
   { title: "Casamento Católico", description: "Rito do matrimônio, leituras, músicas por momento, símbolos, documentos e padrinhos para casar na Igreja.", icon: HeartHandshake, href: "/casamento" },
+  { title: "Parábolas de Jesus", description: "As parábolas explicadas: contexto, significado e como viver cada uma hoje.", icon: Sprout, href: "/parabolas-de-jesus" },
 ];
 
 export const sectionIconByHref = (href: string): LucideIcon =>
