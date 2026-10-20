@@ -1,0 +1,646 @@
+{
+ "calendario-liturgico/calendario-do-advento-catolico-para-familias": [
+  {
+   "arquivo": "File:The Holy Family - Rafael.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Holy_Family_-_Rafael.jpg/500px-The_Holy_Family_-_Rafael.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1600,
+   "h": 2308
+  },
+  {
+   "arquivo": "File:Andrea del Sarto - Holy Family - WGA0385.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Andrea_del_Sarto_-_Holy_Family_-_WGA0385.jpg/500px-Andrea_del_Sarto_-_Holy_Family_-_WGA0385.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 850,
+   "h": 1076
+  },
+  {
+   "arquivo": "File:A Meat Stall with the Holy Family Giving Alms - Pieter Aertsen - Google Cultural Institute.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/A_Meat_Stall_with_the_Holy_Family_Giving_Alms_-_Pieter_Aertsen_-_Google_Cultural_Institute.jpg/500px-A_Meat_Stall_with_the_Holy_Family_Giving_Alms_-_Pieter_Aertsen_-_Google_Cultural_Institute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 6480,
+   "h": 4512
+  },
+  {
+   "arquivo": "File:Simone Cantarini - The Madonna and Child Holding A Rosary Crucifix and a Rose (Madonna Della Rosa).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Simone_Cantarini_-_The_Madonna_and_Child_Holding_A_Rosary_Crucifix_and_a_Rose_%28Madonna_Della_Rosa%29.jpg/500px-Simone_Cantarini_-_The_Madonna_and_Child_Holding_A_Rosary_Crucifix_and_a_Rose_%28Madonna_Della_Rosa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2000,
+   "h": 2000
+  },
+  {
+   "arquivo": "File:Jan Brueghel the Younger and Hendrik van Balen the Elder - The Holy Family Within a Garland of Fruit, Flowers and Vegetables Held by Angels.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Jan_Brueghel_the_Younger_and_Hendrik_van_Balen_the_Elder_-_The_Holy_Family_Within_a_Garland_of_Fruit%2C_Flowers_and_Vegetables_Held_by_Angels.jpg/500px-Jan_Brueghel_the_Younger_and_Hendrik_van_Balen_the_Elder_-_The_Holy_Family_Within_a_Garland_of_Fruit%2C_Flowers_and_Vegetables_Held_by_Angels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1394,
+   "h": 2000
+  },
+  {
+   "arquivo": "File:Vasari - The Holy Family.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Vasari_-_The_Holy_Family.jpg/500px-Vasari_-_The_Holy_Family.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2000,
+   "h": 2000
+  },
+  {
+   "arquivo": "File:Denys Calvaert - De Heilige Familie met de H. Stephanus (ca. 1595).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Denys_Calvaert_-_De_Heilige_Familie_met_de_H._Stephanus_%28ca._1595%29.jpg/500px-Denys_Calvaert_-_De_Heilige_Familie_met_de_H._Stephanus_%28ca._1595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3498,
+   "h": 4948
+  },
+  {
+   "arquivo": "File:Vasari - The Holy Family (cropped).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Vasari_-_The_Holy_Family_%28cropped%29.jpg/500px-Vasari_-_The_Holy_Family_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1317,
+   "h": 1991
+  }
+ ],
+ "calendario-liturgico/advento-em-familia-roteiro-dos-domingos": [
+  {
+   "arquivo": "File:Bartolomé Esteban Perez Murillo 023.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bartolom%C3%A9_Esteban_Perez_Murillo_023.jpg/500px-Bartolom%C3%A9_Esteban_Perez_Murillo_023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1115,
+   "h": 1476
+  },
+  {
+   "arquivo": "File:Angelico Annunciation (Cortona).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Angelico_Annunciation_%28Cortona%29.jpg/500px-Angelico_Annunciation_%28Cortona%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1069,
+   "h": 1105
+  },
+  {
+   "arquivo": "File:Bartolomé Esteban Murillo The Annunciation.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bartolom%C3%A9_Esteban_Murillo_The_Annunciation.jpg/500px-Bartolom%C3%A9_Esteban_Murillo_The_Annunciation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 963,
+   "h": 960
+  },
+  {
+   "arquivo": "File:Bartolome murillo-anunciacion.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bartolome_murillo-anunciacion.jpg/500px-Bartolome_murillo-anunciacion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2524,
+   "h": 3051
+  },
+  {
+   "arquivo": "File:Leonardo da Vinci - Annunciazione - Google Art Project.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg/500px-Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 4057,
+   "h": 1840
+  },
+  {
+   "arquivo": "File:Fra Angelico - The Annunciation - WGA0455.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Fra_Angelico_-_The_Annunciation_-_WGA0455.jpg/500px-Fra_Angelico_-_The_Annunciation_-_WGA0455.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1200,
+   "h": 950
+  },
+  {
+   "arquivo": "File:Fra Angelico - Annunciation - WGA0474.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Fra_Angelico_-_Annunciation_-_WGA0474.jpg/500px-Fra_Angelico_-_Annunciation_-_WGA0474.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1100,
+   "h": 930
+  },
+  {
+   "arquivo": "File:Fra Angelico - The Annunciation - WGA00555.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Fra_Angelico_-_The_Annunciation_-_WGA00555.jpg/500px-Fra_Angelico_-_The_Annunciation_-_WGA00555.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1275,
+   "h": 900
+  }
+ ],
+ "sacramentos/padrinho-de-crisma-como-escolher": [
+  {
+   "arquivo": "File:Giotto di Bondone 088.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Giotto_di_Bondone_088.jpg/500px-Giotto_di_Bondone_088.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2024,
+   "h": 2108
+  },
+  {
+   "arquivo": "File:El Greco 006.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/El_Greco_006.jpg/500px-El_Greco_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1428,
+   "h": 3126
+  },
+  {
+   "arquivo": "File:Pentecostés (El Greco, c. 1600) Prado.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Pentecost%C3%A9s_%28El_Greco%2C_c._1600%29_Prado.jpg/500px-Pentecost%C3%A9s_%28El_Greco%2C_c._1600%29_Prado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1365,
+   "h": 2964
+  },
+  {
+   "arquivo": "File:Juan de Flandes - Pentecost - WGA12042.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Juan_de_Flandes_-_Pentecost_-_WGA12042.jpg/500px-Juan_de_Flandes_-_Pentecost_-_WGA12042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1380,
+   "h": 1920
+  },
+  {
+   "arquivo": "File:Pentecostes - Museu de Alberto Sampaio.png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pentecostes_-_Museu_de_Alberto_Sampaio.png/500px-Pentecostes_-_Museu_de_Alberto_Sampaio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 908,
+   "h": 962
+  },
+  {
+   "arquivo": "File:Église de Kalkar - Pentecôte.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/%C3%89glise_de_Kalkar_-_Pentec%C3%B4te.jpg/500px-%C3%89glise_de_Kalkar_-_Pentec%C3%B4te.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1312,
+   "h": 1600
+  },
+  {
+   "arquivo": "File:Santa Maria della Salute (Venice) - Discesa dello Spirito Santo di Tiziano (1555).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Santa_Maria_della_Salute_%28Venice%29_-_Discesa_dello_Spirito_Santo_di_Tiziano_%281555%29.jpg/500px-Santa_Maria_della_Salute_%28Venice%29_-_Discesa_dello_Spirito_Santo_di_Tiziano_%281555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3943,
+   "h": 6222
+  },
+  {
+   "arquivo": "File:Tiziano Pentecostés.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Tiziano_Pentecost%C3%A9s.jpg/500px-Tiziano_Pentecost%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1237,
+   "h": 1738
+  }
+ ],
+ "sacramentos/nome-de-crisma-como-escolher": [
+  {
+   "arquivo": "File:Rogier van der Weyden- Seven Sacraments Altarpiece - Baptism, Confirmation, and Penance; detail, left wing.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Rogier_van_der_Weyden-_Seven_Sacraments_Altarpiece_-_Baptism%2C_Confirmation%2C_and_Penance%3B_detail%2C_left_wing.JPG/500px-Rogier_van_der_Weyden-_Seven_Sacraments_Altarpiece_-_Baptism%2C_Confirmation%2C_and_Penance%3B_detail%2C_left_wing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1112,
+   "h": 966
+  },
+  {
+   "arquivo": "File:Hinterglasbild Die Sieben Sakramente Slowenien.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Hinterglasbild_Die_Sieben_Sakramente_Slowenien.jpg/500px-Hinterglasbild_Die_Sieben_Sakramente_Slowenien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1586,
+   "h": 2083
+  },
+  {
+   "arquivo": "File:2--confirmation.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2--confirmation.jpg/500px-2--confirmation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3559,
+   "h": 2739
+  },
+  {
+   "arquivo": "File:Pietro Longhi, Confirmationis Sacramentum.png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Pietro_Longhi%2C_Confirmationis_Sacramentum.png/500px-Pietro_Longhi%2C_Confirmationis_Sacramentum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 877,
+   "h": 1080
+  },
+  {
+   "arquivo": "File:Rogier van der Weyden - Baptism, Confirmation and Confession, 1440-1445, 394.tif",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Rogier_van_der_Weyden_-_Baptism%2C_Confirmation_and_Confession%2C_1440-1445%2C_394.tif/lossy-page1-500px-Rogier_van_der_Weyden_-_Baptism%2C_Confirmation_and_Confession%2C_1440-1445%2C_394.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 4141,
+   "h": 7226
+  },
+  {
+   "arquivo": "File:Vormsel (rechter deel), RP-P-OB-63.417.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Vormsel_%28rechter_deel%29%2C_RP-P-OB-63.417.jpg/500px-Vormsel_%28rechter_deel%29%2C_RP-P-OB-63.417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 5078,
+   "h": 7486
+  },
+  {
+   "arquivo": "File:Vormsel (linker deel), RP-P-OB-63.416.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Vormsel_%28linker_deel%29%2C_RP-P-OB-63.416.jpg/500px-Vormsel_%28linker_deel%29%2C_RP-P-OB-63.416.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 5118,
+   "h": 7508
+  },
+  {
+   "arquivo": "File:Vormsel (rechter deel), RP-P-OB-63.415.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Vormsel_%28rechter_deel%29%2C_RP-P-OB-63.415.jpg/500px-Vormsel_%28rechter_deel%29%2C_RP-P-OB-63.415.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 4616,
+   "h": 6286
+  }
+ ],
+ "duvidas-da-fe/como-fazer-a-leitura-na-missa": [
+  {
+   "arquivo": "File:Antonello da Messina - St Jerome in his study - National Gallery London.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_London.jpg/500px-Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 4731,
+   "h": 6000
+  },
+  {
+   "arquivo": "File:Michelangelo Caravaggio - Saint Jerome in his study (Hand detail).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Michelangelo_Caravaggio_-_Saint_Jerome_in_his_study_%28Hand_detail%29.jpg/500px-Michelangelo_Caravaggio_-_Saint_Jerome_in_his_study_%28Hand_detail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2048,
+   "h": 945
+  },
+  {
+   "arquivo": "File:Saint Jerome Writing-Caravaggio (c. 1607).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Saint_Jerome_Writing-Caravaggio_%28c._1607%29.jpg/500px-Saint_Jerome_Writing-Caravaggio_%28c._1607%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 9864,
+   "h": 6744
+  },
+  {
+   "arquivo": "File:Saint Jerome Writing-Caravaggio (1605-6).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Saint_Jerome_Writing-Caravaggio_%281605-6%29.jpg/500px-Saint_Jerome_Writing-Caravaggio_%281605-6%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 8708,
+   "h": 6212
+  },
+  {
+   "arquivo": "File:Giovanni Bellini - St Jerome Reading in the Countryside - WGA1687.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Giovanni_Bellini_-_St_Jerome_Reading_in_the_Countryside_-_WGA1687.jpg/500px-Giovanni_Bellini_-_St_Jerome_Reading_in_the_Countryside_-_WGA1687.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 851,
+   "h": 1200
+  },
+  {
+   "arquivo": "File:Workshop of Pieter Coecke van Aelst, the elder - Saint Jerome in His Study - Walters 37256.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Workshop_of_Pieter_Coecke_van_Aelst%2C_the_elder_-_Saint_Jerome_in_His_Study_-_Walters_37256.jpg/500px-Workshop_of_Pieter_Coecke_van_Aelst%2C_the_elder_-_Saint_Jerome_in_His_Study_-_Walters_37256.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1800,
+   "h": 1320
+  },
+  {
+   "arquivo": "File:San Gerolamo (Caravaggio) September 2015-1a.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/San_Gerolamo_%28Caravaggio%29_September_2015-1a.jpg/500px-San_Gerolamo_%28Caravaggio%29_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 4757,
+   "h": 3399
+  },
+  {
+   "arquivo": "File:St Jerome by Michelangelo Merisi da Caravaggio.jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/St_Jerome_by_Michelangelo_Merisi_da_Caravaggio.jpeg/500px-St_Jerome_by_Michelangelo_Merisi_da_Caravaggio.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2362,
+   "h": 1629
+  }
+ ],
+ "duvidas-da-fe/como-escolher-os-cantos-da-missa": [
+  {
+   "arquivo": "File:Blanchard, Jacques - Saint Cecilia - 17th c.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Blanchard%2C_Jacques_-_Saint_Cecilia_-_17th_c.jpg/500px-Blanchard%2C_Jacques_-_Saint_Cecilia_-_17th_c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1255,
+   "h": 932
+  },
+  {
+   "arquivo": "File:Memling Angel Musicians 02.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Memling_Angel_Musicians_02.jpg/500px-Memling_Angel_Musicians_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1116,
+   "h": 801
+  },
+  {
+   "arquivo": "File:Memling Christ Surrounded by Musician Angels 02.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Memling_Christ_Surrounded_by_Musician_Angels_02.jpg/500px-Memling_Christ_Surrounded_by_Musician_Angels_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 800,
+   "h": 1098
+  },
+  {
+   "arquivo": "File:Hans Memling - Christ Surrounded by Musician Angels - WGA14935.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hans_Memling_-_Christ_Surrounded_by_Musician_Angels_-_WGA14935.jpg/500px-Hans_Memling_-_Christ_Surrounded_by_Musician_Angels_-_WGA14935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1030,
+   "h": 821
+  },
+  {
+   "arquivo": "File:Hans Memling - Angel Musicians (left panel) - WGA14937.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Hans_Memling_-_Angel_Musicians_%28left_panel%29_-_WGA14937.jpg/500px-Hans_Memling_-_Angel_Musicians_%28left_panel%29_-_WGA14937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1116,
+   "h": 801
+  },
+  {
+   "arquivo": "File:Carlo Dolci - St Cecilia at the Organ - WGA06373.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Carlo_Dolci_-_St_Cecilia_at_the_Organ_-_WGA06373.jpg/500px-Carlo_Dolci_-_St_Cecilia_at_the_Organ_-_WGA06373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 804,
+   "h": 997
+  },
+  {
+   "arquivo": "File:Saint Cecilia (Florence 17th century).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Saint_Cecilia_%28Florence_17th_century%29.jpg/500px-Saint_Cecilia_%28Florence_17th_century%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2726,
+   "h": 3661
+  },
+  {
+   "arquivo": "File:Santa Cecilia by Raphael reproduction.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Santa_Cecilia_by_Raphael_reproduction.jpg/500px-Santa_Cecilia_by_Raphael_reproduction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1548,
+   "h": 2248
+  }
+ ],
+ "catecismo/dez-mandamentos-para-criancas": [
+  {
+   "arquivo": "File:Rembrandt Harmensz. van Rijn 079.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg/500px-Rembrandt_Harmensz._van_Rijn_079.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2024,
+   "h": 2659
+  },
+  {
+   "arquivo": "File:Rembrandt - Moses with the Ten Commandments - Google Art Project.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Rembrandt_-_Moses_with_the_Ten_Commandments_-_Google_Art_Project.jpg/500px-Rembrandt_-_Moses_with_the_Ten_Commandments_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 4000,
+   "h": 4990
+  },
+  {
+   "arquivo": "File:Rembrandt - Moses Smashing the Tablets of the Law - WGA19132.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Rembrandt_-_Moses_Smashing_the_Tablets_of_the_Law_-_WGA19132.jpg/500px-Rembrandt_-_Moses_Smashing_the_Tablets_of_the_Law_-_WGA19132.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1000,
+   "h": 1230
+  },
+  {
+   "arquivo": "File:Jacopo Tintoretto - The Worship of the Golden Calf (detail) - WGA22464.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Jacopo_Tintoretto_-_The_Worship_of_the_Golden_Calf_%28detail%29_-_WGA22464.jpg/500px-Jacopo_Tintoretto_-_The_Worship_of_the_Golden_Calf_%28detail%29_-_WGA22464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 900,
+   "h": 1060
+  },
+  {
+   "arquivo": "File:Jacopo Tintoretto - The Worship of the Golden Calf (detail) - WGA22465.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Jacopo_Tintoretto_-_The_Worship_of_the_Golden_Calf_%28detail%29_-_WGA22465.jpg/500px-Jacopo_Tintoretto_-_The_Worship_of_the_Golden_Calf_%28detail%29_-_WGA22465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1000,
+   "h": 1200
+  },
+  {
+   "arquivo": "File:Philippe de Champaigne - Moses with the Ten Commandments - WGA04717.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Philippe_de_Champaigne_-_Moses_with_the_Ten_Commandments_-_WGA04717.jpg/500px-Philippe_de_Champaigne_-_Moses_with_the_Ten_Commandments_-_WGA04717.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1540,
+   "h": 1920
+  },
+  {
+   "arquivo": "File:Ferdinand Bol - Moses descends from Mount Siniai with the Ten Commandments - Google Art Project.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ferdinand_Bol_-_Moses_descends_from_Mount_Siniai_with_the_Ten_Commandments_-_Google_Art_Project.jpg/500px-Ferdinand_Bol_-_Moses_descends_from_Mount_Siniai_with_the_Ten_Commandments_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2832,
+   "h": 4045
+  },
+  {
+   "arquivo": "File:Moses and Aaron with the 10 Commandments 1674.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Moses_and_Aaron_with_the_10_Commandments_1674.jpg/500px-Moses_and_Aaron_with_the_10_Commandments_1674.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2488,
+   "h": 1669
+  }
+ ],
+ "sacramentos/os-sete-sacramentos-para-criancas": [
+  {
+   "arquivo": "File:Rogier van der Weyden- Seven Sacraments Altarpiece - Baptism, Confirmation, and Penance; detail, left wing.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Rogier_van_der_Weyden-_Seven_Sacraments_Altarpiece_-_Baptism%2C_Confirmation%2C_and_Penance%3B_detail%2C_left_wing.JPG/500px-Rogier_van_der_Weyden-_Seven_Sacraments_Altarpiece_-_Baptism%2C_Confirmation%2C_and_Penance%3B_detail%2C_left_wing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1112,
+   "h": 966
+  },
+  {
+   "arquivo": "File:Seven Sacraments Rogier.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Seven_Sacraments_Rogier.jpg/500px-Seven_Sacraments_Rogier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 6059,
+   "h": 5296
+  },
+  {
+   "arquivo": "File:Seven Sacraments - Baptism (I) 1642 Nicolas Poussin.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Seven_Sacraments_-_Baptism_%28I%29_1642_Nicolas_Poussin.jpg/500px-Seven_Sacraments_-_Baptism_%28I%29_1642_Nicolas_Poussin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1030,
+   "h": 832
+  },
+  {
+   "arquivo": "File:Rogier van der Weyden - Seven Sacraments Altarpiece - WGA25602.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Rogier_van_der_Weyden_-_Seven_Sacraments_Altarpiece_-_WGA25602.jpg/500px-Rogier_van_der_Weyden_-_Seven_Sacraments_Altarpiece_-_WGA25602.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1177,
+   "h": 980
+  },
+  {
+   "arquivo": "File:Rogier van der Weyden - Seven Sacraments Altarpiece (detail) - WGA25605.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Rogier_van_der_Weyden_-_Seven_Sacraments_Altarpiece_%28detail%29_-_WGA25605.jpg/500px-Rogier_van_der_Weyden_-_Seven_Sacraments_Altarpiece_%28detail%29_-_WGA25605.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1112,
+   "h": 966
+  },
+  {
+   "arquivo": "File:Rogier van der Weyden - Seven Sacraments Altarpiece (detail) - WGA25611.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Rogier_van_der_Weyden_-_Seven_Sacraments_Altarpiece_%28detail%29_-_WGA25611.jpg/500px-Rogier_van_der_Weyden_-_Seven_Sacraments_Altarpiece_%28detail%29_-_WGA25611.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 940,
+   "h": 1113
+  },
+  {
+   "arquivo": "File:The Seven Sacraments by Rogier van der Weyden, c. 1440-1445, view 1 - Museum M - Leuven, Belgium - DSC05141.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Seven_Sacraments_by_Rogier_van_der_Weyden%2C_c._1440-1445%2C_view_1_-_Museum_M_-_Leuven%2C_Belgium_-_DSC05141.JPG/500px-The_Seven_Sacraments_by_Rogier_van_der_Weyden%2C_c._1440-1445%2C_view_1_-_Museum_M_-_Leuven%2C_Belgium_-_DSC05141.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3886,
+   "h": 3347
+  },
+  {
+   "arquivo": "File:The Seven Sacraments by Rogier van der Weyden, c. 1440-1445, view 5 - Museum M - Leuven, Belgium - DSC05157.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Seven_Sacraments_by_Rogier_van_der_Weyden%2C_c._1440-1445%2C_view_5_-_Museum_M_-_Leuven%2C_Belgium_-_DSC05157.JPG/500px-The_Seven_Sacraments_by_Rogier_van_der_Weyden%2C_c._1440-1445%2C_view_5_-_Museum_M_-_Leuven%2C_Belgium_-_DSC05157.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3648,
+   "h": 5472
+  }
+ ],
+ "parabolas-de-jesus/parabola-do-filho-prodigo": [
+  {
+   "arquivo": "File:Return of the Prodigal Son 1667-1670 Murillo.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Return_of_the_Prodigal_Son_1667-1670_Murillo.jpg/500px-Return_of_the_Prodigal_Son_1667-1670_Murillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 4000,
+   "h": 3611
+  },
+  {
+   "arquivo": "File:Rembrandt Harmensz. van Rijn - The Return of the Prodigal Son.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg/500px-Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 6347,
+   "h": 8140
+  },
+  {
+   "arquivo": "File:Rembrandt - The Return of the Prodigal Son - WGA19133.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Rembrandt_-_The_Return_of_the_Prodigal_Son_-_WGA19133.jpg/500px-Rembrandt_-_The_Return_of_the_Prodigal_Son_-_WGA19133.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 961,
+   "h": 1255
+  },
+  {
+   "arquivo": "File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg/500px-Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 22991,
+   "h": 30000
+  },
+  {
+   "arquivo": "File:David Teniers II - The Prodigal Son (Minneapolis).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/David_Teniers_II_-_The_Prodigal_Son_%28Minneapolis%29.jpg/500px-David_Teniers_II_-_The_Prodigal_Son_%28Minneapolis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 6000,
+   "h": 4388
+  },
+  {
+   "arquivo": "File:John Macallan Swan - The Prodigal Son, 1888.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/John_Macallan_Swan_-_The_Prodigal_Son%2C_1888.jpg/500px-John_Macallan_Swan_-_The_Prodigal_Son%2C_1888.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1536,
+   "h": 1092
+  },
+  {
+   "arquivo": "File:The Soviet Union 1970 CPA 3959 stamp ('The Return of the Prodigal Son' (Rembrandt)).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_Soviet_Union_1970_CPA_3959_stamp_%28%27The_Return_of_the_Prodigal_Son%27_%28Rembrandt%29%29.jpg/500px-The_Soviet_Union_1970_CPA_3959_stamp_%28%27The_Return_of_the_Prodigal_Son%27_%28Rembrandt%29%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 897,
+   "h": 1260
+  },
+  {
+   "arquivo": "File:The Soviet Union 1970 CPA 3959 stamp ('The Return of the Prodigal Son' (Rembrandt)).png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/The_Soviet_Union_1970_CPA_3959_stamp_%28%27The_Return_of_the_Prodigal_Son%27_%28Rembrandt%29%29.png/500px-The_Soviet_Union_1970_CPA_3959_stamp_%28%27The_Return_of_the_Prodigal_Son%27_%28Rembrandt%29%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 897,
+   "h": 1260
+  }
+ ],
+ "parabolas-de-jesus/parabola-do-bom-samaritano": [
+  {
+   "arquivo": "File:Vincent Willem van Gogh 022.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_Willem_van_Gogh_022.jpg/500px-Vincent_Willem_van_Gogh_022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2024,
+   "h": 2499
+  },
+  {
+   "arquivo": "File:The good samaritan (after Delacroix).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/The_good_samaritan_%28after_Delacroix%29.jpg/500px-The_good_samaritan_%28after_Delacroix%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1496,
+   "h": 1834
+  },
+  {
+   "arquivo": "File:Van Gogh - Der barmherzige Samariter.jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Van_Gogh_-_Der_barmherzige_Samariter.jpeg/500px-Van_Gogh_-_Der_barmherzige_Samariter.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3876,
+   "h": 5082
+  },
+  {
+   "arquivo": "File:Rembrandt - Landscape with the Good Samaritan - WGA19228.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Rembrandt_-_Landscape_with_the_Good_Samaritan_-_WGA19228.jpg/500px-Rembrandt_-_Landscape_with_the_Good_Samaritan_-_WGA19228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1200,
+   "h": 855
+  },
+  {
+   "arquivo": "File:Vincent Willem van Gogh 022-2.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Vincent_Willem_van_Gogh_022-2.jpg/500px-Vincent_Willem_van_Gogh_022-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2024,
+   "h": 2499
+  },
+  {
+   "arquivo": "File:Rembrandt - The Good Samaritan - Berlin.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Rembrandt_-_The_Good_Samaritan_-_Berlin.jpg/500px-Rembrandt_-_The_Good_Samaritan_-_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 829,
+   "h": 819
+  },
+  {
+   "arquivo": "File:Landscape with the Good Samaritan, Rembrandt, 1638, Kraków, Muzeum Narodowe w Krakowie.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Landscape_with_the_Good_Samaritan%2C_Rembrandt%2C_1638%2C_Krak%C3%B3w%2C_Muzeum_Narodowe_w_Krakowie.jpg/500px-Landscape_with_the_Good_Samaritan%2C_Rembrandt%2C_1638%2C_Krak%C3%B3w%2C_Muzeum_Narodowe_w_Krakowie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1500,
+   "h": 1059
+  },
+  {
+   "arquivo": "File:Joseph Highmore (1692-1780) - The Good Samaritan - T00076 - Tate.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Joseph_Highmore_%281692-1780%29_-_The_Good_Samaritan_-_T00076_-_Tate.jpg/500px-Joseph_Highmore_%281692-1780%29_-_The_Good_Samaritan_-_T00076_-_Tate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 918,
+   "h": 1018
+  }
+ ],
+ "parabolas-de-jesus/parabola-do-semeador": [
+  {
+   "arquivo": "File:Vincent Willem van Gogh 025.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Vincent_Willem_van_Gogh_025.jpg/500px-Vincent_Willem_van_Gogh_025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1256,
+   "h": 1556
+  },
+  {
+   "arquivo": "File:Parable Sower.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Parable_Sower.jpg/500px-Parable_Sower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2272,
+   "h": 1661
+  },
+  {
+   "arquivo": "File:Van Gogh - Der Sämann (nach Millet).jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Van_Gogh_-_Der_S%C3%A4mann_%28nach_Millet%29.jpeg/500px-Van_Gogh_-_Der_S%C3%A4mann_%28nach_Millet%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1944,
+   "h": 2322
+  },
+  {
+   "arquivo": "File:Copies van gogh echantillon.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Copies_van_gogh_echantillon.jpg/500px-Copies_van_gogh_echantillon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2512,
+   "h": 1565
+  },
+  {
+   "arquivo": "File:Jean-François Millet - The Sower - Walters 37905.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Walters_37905.jpg/500px-Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Walters_37905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1799,
+   "h": 1488
+  },
+  {
+   "arquivo": "File:Jean-François Millet - The Sower - Google Art Project.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Google_Art_Project.jpg/500px-Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3990,
+   "h": 4913
+  },
+  {
+   "arquivo": "File:Pieter Bruegel de Oude - Gelijkenis van de zaaier, 1557, Timken Museum of Art.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Pieter_Bruegel_de_Oude_-_Gelijkenis_van_de_zaaier%2C_1557%2C_Timken_Museum_of_Art.jpg/500px-Pieter_Bruegel_de_Oude_-_Gelijkenis_van_de_zaaier%2C_1557%2C_Timken_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2000,
+   "h": 1430
+  },
+  {
+   "arquivo": "File:Sower (after Millet, 1889) - My Dream.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Sower_%28after_Millet%2C_1889%29_-_My_Dream.jpg/500px-Sower_%28after_Millet%2C_1889%29_-_My_Dream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1282,
+   "h": 1624
+  }
+ ],
+ "parabolas-de-jesus/parabola-das-dez-virgens": [
+  {
+   "arquivo": "File:Francken, Hieronymus the Younger - Parable of the Wise and Foolish Virgins - c. 1616.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Francken%2C_Hieronymus_the_Younger_-_Parable_of_the_Wise_and_Foolish_Virgins_-_c._1616.jpg/500px-Francken%2C_Hieronymus_the_Younger_-_Parable_of_the_Wise_and_Foolish_Virgins_-_c._1616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2401,
+   "h": 1556
+  },
+  {
+   "arquivo": "File:Hieronymus Francken (II) - Parable of the Wise and Foolish Virgins - WGA08217.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Hieronymus_Francken_%28II%29_-_Parable_of_the_Wise_and_Foolish_Virgins_-_WGA08217.jpg/500px-Hieronymus_Francken_%28II%29_-_Parable_of_the_Wise_and_Foolish_Virgins_-_WGA08217.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1244,
+   "h": 807
+  },
+  {
+   "arquivo": "File:Peter von Cornelius - The Parable of Wise and Foolish Virgins (unfinished) - Google Art Project.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Peter_von_Cornelius_-_The_Parable_of_Wise_and_Foolish_Virgins_%28unfinished%29_-_Google_Art_Project.jpg/500px-Peter_von_Cornelius_-_The_Parable_of_Wise_and_Foolish_Virgins_%28unfinished%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3466,
+   "h": 2573
+  },
+  {
+   "arquivo": "File:William Blake - The Parable of the Wise and Foolish Virgins - Google Art Project.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/William_Blake_-_The_Parable_of_the_Wise_and_Foolish_Virgins_-_Google_Art_Project.jpg/500px-William_Blake_-_The_Parable_of_the_Wise_and_Foolish_Virgins_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 4933,
+   "h": 5885
+  },
+  {
+   "arquivo": "File:Blake Wise And Foolish Virgins 1826.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Blake_Wise_And_Foolish_Virgins_1826.jpg/500px-Blake_Wise_And_Foolish_Virgins_1826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1200,
+   "h": 1452
+  },
+  {
+   "arquivo": "File:The Parable of the Wise and Foolish Virgins MET DP805379.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_Parable_of_the_Wise_and_Foolish_Virgins_MET_DP805379.jpg/500px-The_Parable_of_the_Wise_and_Foolish_Virgins_MET_DP805379.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3198,
+   "h": 3475
+  },
+  {
+   "arquivo": "File:The Parable of the Wise and Foolish Virgins MET 23107.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/The_Parable_of_the_Wise_and_Foolish_Virgins_MET_23107.jpg/500px-The_Parable_of_the_Wise_and_Foolish_Virgins_MET_23107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3517,
+   "h": 4000
+  },
+  {
+   "arquivo": "File:The Parable of the Wise and Foolish Virgins MET DT995.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Parable_of_the_Wise_and_Foolish_Virgins_MET_DT995.jpg/500px-The_Parable_of_the_Wise_and_Foolish_Virgins_MET_DT995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3430,
+   "h": 3722
+  }
+ ],
+ "parabolas-de-jesus/parabola-da-ovelha-perdida": [
+  {
+   "arquivo": "File:BuenPastorMurillo1660.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/BuenPastorMurillo1660.jpg/500px-BuenPastorMurillo1660.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2181,
+   "h": 2717
+  },
+  {
+   "arquivo": "File:The Lord is my Good Shepherd.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/The_Lord_is_my_Good_Shepherd.jpg/500px-The_Lord_is_my_Good_Shepherd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3938,
+   "h": 5501
+  },
+  {
+   "arquivo": "File:Murillo, Bartolomé Estéban - The Infant Christ as the Good Shepherd - Google Art Project.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Murillo%2C_Bartolom%C3%A9_Est%C3%A9ban_-_The_Infant_Christ_as_the_Good_Shepherd_-_Google_Art_Project.jpg/500px-Murillo%2C_Bartolom%C3%A9_Est%C3%A9ban_-_The_Infant_Christ_as_the_Good_Shepherd_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2755,
+   "h": 3739
+  },
+  {
+   "arquivo": "File:Two Falcons and a Goshawk Attacking a Heron - Nationalmuseum - 127330.tif",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Two_Falcons_and_a_Goshawk_Attacking_a_Heron_-_Nationalmuseum_-_127330.tif/lossy-page1-500px-Two_Falcons_and_a_Goshawk_Attacking_a_Heron_-_Nationalmuseum_-_127330.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2032,
+   "h": 3327
+  },
+  {
+   "arquivo": "File:The Good Shepherd MET DP876066.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Good_Shepherd_MET_DP876066.jpg/500px-The_Good_Shepherd_MET_DP876066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 1698,
+   "h": 2502
+  },
+  {
+   "arquivo": "File:The Good Shepherd (SM 2053).png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_Good_Shepherd_%28SM_2053%29.png/500px-The_Good_Shepherd_%28SM_2053%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 3294,
+   "h": 5757
+  },
+  {
+   "arquivo": "File:John Atkinson Grimshaw - The Parable of the Lost Sheep - y1990-77 - Princeton University Art Museum.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/John_Atkinson_Grimshaw_-_The_Parable_of_the_Lost_Sheep_-_y1990-77_-_Princeton_University_Art_Museum.jpg/500px-John_Atkinson_Grimshaw_-_The_Parable_of_the_Lost_Sheep_-_y1990-77_-_Princeton_University_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 4220,
+   "h": 3286
+  }
+ ]
+}
