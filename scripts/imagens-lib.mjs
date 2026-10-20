@@ -412,10 +412,16 @@ export async function enviarPintura(db, info, nome) {
   const BUCKET = 'article-images';
   const res = await fetch(info.url, { headers: { 'User-Agent': UA } });
   if (!res.ok) throw new Error(`download ${res.status}`);
-  const tipo = res.headers.get('content-type') || 'image/jpeg';
+  let tipo = res.headers.get('content-type') || 'image/jpeg';
+  let buf = Buffer.from(await res.arrayBuffer());
+  // PNG grande passa do limite de 5 MB do bucket: converte para JPEG (fundo branco se tiver transparência)
+  if (tipo.includes('png') || buf.length > 4_500_000) {
+    const { default: sharp } = await import('sharp');
+    buf = await sharp(buf).flatten({ background: '#ffffff' }).resize({ width: 1600, withoutEnlargement: true }).jpeg({ quality: 85, mozjpeg: true }).toBuffer();
+    tipo = 'image/jpeg';
+  }
   const ext = tipo.includes('png') ? 'png' : 'jpg';
   const caminho = `arte/${nome}.${ext}`;
-  const buf = Buffer.from(await res.arrayBuffer());
   const up = await db.storage.from(BUCKET).upload(caminho, buf, { contentType: tipo, upsert: true, cacheControl: '31536000' });
   if (up.error) throw new Error(`upload: ${up.error.message}`);
   const velhas = ['240', '480', '640', '960'].map((w) => `arte/${nome}-q60-${w}.webp`);
