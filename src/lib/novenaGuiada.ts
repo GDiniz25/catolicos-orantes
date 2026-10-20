@@ -146,12 +146,23 @@ export function montarNovena(slug: string, html: string, ladainhas: Map<string, 
     const n = numeroDoDia(t.texto);
     if (n && n === dias.length + 1) dias.push(t);
   }
-  const temDias = dias.length === 9;
+  // dias escritos como parágrafo: <p><strong>1º Dia: título</strong><br>texto</p>
+  const diasP: { titulo: string; html: string; ini: number; fim: number }[] = [];
+  if (dias.length !== 9) {
+    const reP = /<p[^>]*>\s*<strong>([\s\S]*?)<\/strong>\s*(?:<br\s*\/?>)?([\s\S]*?)<\/p>/gi;
+    let m: RegExpExecArray | null;
+    while ((m = reP.exec(html))) {
+      const titulo = limpar(m[1]).replace(/[:.]\s*$/, '');
+      if (faq && m.index > faq.ini) break;
+      if (numeroDoDia(titulo) === diasP.length + 1) diasP.push({ titulo, html: `<p>${m[2].trim()}</p>`, ini: m.index, fim: m.index + m[0].length });
+    }
+  }
+  const temDias = dias.length === 9 || diasP.length === 9;
   if (!inicial && !final && !temDias && !suplica) return null;
 
   // título que só introduz os nove dias ("Meditações diárias", "Novena de X: os 9 dias")
   const remover: { ini: number; fim: number }[] = [];
-  if (temDias) {
+  if (dias.length === 9) {
     const pai = [...ts].reverse().find((t) => t.nivel < dias[0].nivel && t.ini < dias[0].ini);
     if (pai && pai.fim <= dias[0].ini && limpar(corpo(html, pai)).length < 400) {
       const filhos = ts.filter((t) => t.ini > pai.ini && t.ini < pai.fimArvore);
@@ -161,8 +172,17 @@ export function montarNovena(slug: string, html: string, ladainhas: Map<string, 
   }
 
   const parte = (t: Titulo | undefined): ParteNovena | null => (t ? { titulo: t.texto, html: rebaixar(corpo(html, t)) } : null);
-  const partes = [roteiro, inicial, suplica, final, ...(temDias ? dias : [])].filter(Boolean) as Titulo[];
+  const partes = [roteiro, inicial, suplica, final, ...(dias.length === 9 ? dias : [])].filter(Boolean) as Titulo[];
   for (const t of partes) remover.push({ ini: t.ini, fim: t.fim });
+  if (diasP.length === 9) {
+    for (const d of diasP) remover.push({ ini: d.ini, fim: d.fim });
+    // o título "Meditações diárias" que só tinha os parágrafos dos dias também sai
+    const pai = [...ts].reverse().find((t) => t.ini < diasP[0].ini);
+    if (pai && pai.fim >= diasP[8].fim && limpar(html.slice(diasP[8].fim, pai.fim)).length === 0 && limpar(corpo(html, pai, diasP[0].ini)).length < 400) {
+      remover.push({ ini: pai.ini, fim: diasP[0].ini });
+      remover.push({ ini: diasP[8].fim, fim: pai.fim });
+    }
+  }
   remover.sort((a, b) => a.ini - b.ini);
 
   let artigo = '';
@@ -180,7 +200,7 @@ export function montarNovena(slug: string, html: string, ladainhas: Map<string, 
     roteiro: parte(roteiro),
     inicial: parte(inicial),
     suplica: parte(suplica),
-    dias: temDias ? dias.map((d) => parte(d)!) : [],
+    dias: dias.length === 9 ? dias.map((d) => parte(d)!) : diasP.length === 9 ? diasP.map((d) => ({ titulo: d.titulo, html: d.html })) : [],
     final: parte(final),
     ladainha: l ? { ...l, href: `/ladainhas/${lad}` } : null,
   };
