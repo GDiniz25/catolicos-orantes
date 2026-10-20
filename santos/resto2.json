@@ -1,0 +1,2871 @@
+[
+{
+"id": "82a7af43-8070-42bb-9d73-cb8530feb0e1",
+"nome": "Epifania do Senhor",
+"data": "6/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Adoration of the Magi painting"
+]
+},
+{
+"id": "daabf4fa-0ac2-4e32-b882-ad36bfc87c54",
+"nome": "Apresentação do Senhor",
+"data": "2/2",
+"item": null,
+"rotulos": "",
+"q": [
+"Presentation of Jesus at the Temple painting"
+]
+},
+{
+"id": "acf7d231-a469-434d-9654-a29c6c7f645b",
+"nome": "Visitação de Nossa Senhora",
+"data": "31/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Visitation Mary Elizabeth painting"
+]
+},
+{
+"id": "a260b235-3f82-4a2a-92fd-78512bc2b090",
+"nome": "São Pedro e São Paulo",
+"data": "29/6",
+"item": "Q153043",
+"rotulos": "Peter und Paul / Feast of Saints Peter and Paul / San Pedro y San Pablo / solennité des saints Pierre et Paul",
+"q": [
+"Saints Peter and Paul painting"
+]
+},
+{
+"id": "f85726f7-cf4a-454a-bce4-3a77a474dad3",
+"nome": "Sant'Ana e São Joaquim",
+"data": "26/7",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Joachim and Saint Anne painting"
+]
+},
+{
+"id": "6e901b32-4195-4def-9b9c-532fb2444111",
+"nome": "Transfiguração do Senhor",
+"data": "6/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Transfiguration of Jesus painting"
+]
+},
+{
+"id": "36fbe3a6-4642-421d-a317-371ef39516d3",
+"nome": "Exaltação da Santa Cruz",
+"data": "14/9",
+"item": null,
+"rotulos": "",
+"q": [
+"Exaltation of the Holy Cross painting"
+]
+},
+{
+"id": "f9dd71d6-12aa-442e-8806-a35e962c9a4a",
+"nome": "S. Coleta Boylet, virgem franciscana, fundadora das Clarissas pobres",
+"data": "6/3",
+"item": "Q768098",
+"rotulos": "Colette / Santa Coleta / Sainte Colette / Colette of Corbie",
+"q": [
+"Colette of Corbie"
+]
+},
+{
+"id": "4c860c25-4ff9-4278-a6b6-3be35f4289bc",
+"nome": "S. João José da Cruz, presbítero franciscano",
+"data": "5/3",
+"item": "Q1093725",
+"rotulos": "Santo Juan José de la Cruz / Carlo Gaetano Calosirto / Giovan Giuseppe della, Saint Croce / Saint Giovan Giuseppe della Croce",
+"q": [
+"John Joseph of the Cross"
+]
+},
+{
+"id": "07478b12-3b5d-4645-a62d-dfc1e1d08a9b",
+"nome": "Finados",
+"data": "2/11",
+"item": null,
+"rotulos": "",
+"q": [
+"All Souls Day painting"
+]
+},
+{
+"id": "6c5f0029-5a67-406c-a3d7-7016591b0231",
+"nome": "Natal do Senhor",
+"data": "25/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Nativity of Jesus painting"
+]
+},
+{
+"id": "0cb1880c-df7e-4421-bc49-66d4b10b9ac9",
+"nome": "B. Plácido Riccardi, monge de S. Paulo fora dos muros",
+"data": "14/3",
+"item": null,
+"rotulos": "",
+"q": [
+"Placido Riccardi"
+]
+},
+{
+"id": "23d9eb56-a1cc-45e0-a077-df064331cd1f",
+"nome": "S. Lia, viúva romana",
+"data": "22/3",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "78e15bb2-04e9-48f8-9a80-70718efdc39b",
+"nome": "S. Cristina, mártir",
+"data": "13/3",
+"item": "Q7401109",
+"rotulos": "Cristina de Persia / Cristina de Pèrsia / Cristina dalla Persia / Cristina di Persia",
+"q": [
+"Christina of Persia"
+]
+},
+{
+"id": "186a76ed-276a-450f-ba0f-8cd08af4cf24",
+"nome": "S. Maximiliano, mártir na África",
+"data": "12/3",
+"item": "Q1737567",
+"rotulos": "Maximilianus / Fabius Maximilianus / Maximilian of Numidia / Maximiliano de Tebessa",
+"q": []
+},
+{
+"id": "121d09c8-d2a3-400e-bffc-2957abdcae01",
+"nome": "SS. Hilário e Taciano, mártires de Aquileia",
+"data": "16/3",
+"item": null,
+"rotulos": "",
+"q": [
+"Hilarius and Tatianus"
+]
+},
+{
+"id": "0a40ff73-75c6-454e-bcc1-ba0f493ec7ea",
+"nome": "S. João Ogilvie, sacerdote jesuíta e mártir",
+"data": "10/3",
+"item": "Q918414",
+"rotulos": "John Ogilvie / Juan Ogilvie / João Ogilvie / Heiliger John Ogilvie",
+"q": [
+"John Ogilvie"
+]
+},
+{
+"id": "cc860394-e0ef-4308-bc21-3018c882946d",
+"nome": "S. Bom Ladrão",
+"data": "25/3",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Dismas painting",
+"Good Thief Dismas"
+]
+},
+{
+"id": "94542372-5c96-4051-bf01-cb00a12c97ef",
+"nome": "S. Lúcia Filippíni, virgem, fundadora das  Piedosas Mestras",
+"data": "25/3",
+"item": "Q450999",
+"rotulos": "Lucia Filippini / Lucy Filippini / Lucía Filippini / Lúcia Filippini",
+"q": [
+"Lucia Filippini"
+]
+},
+{
+"id": "5f23a2f5-ed49-4fdd-85c1-efb8d666fe1a",
+"nome": "S. Paulo, bispo de Narbonne e mártir",
+"data": "22/3",
+"item": "Q1379816",
+"rotulos": "Saint Paul de Narbonne / San Pablo de Narbona / Saint Paul-Serge / San Paolo di Narbona",
+"q": []
+},
+{
+"id": "257ab1a6-1868-4708-b173-97441ed5fb11",
+"nome": "S. Castor, mártir de Tarso",
+"data": "28/3",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "4d637aee-7ce0-43e7-bd3e-3edf025824c4",
+"nome": "S. Ruperto, bispo de Salzburgo",
+"data": "27/3",
+"item": "Q44947",
+"rotulos": "Rupert von Salzburg / Rupert of Salzburg / Ruperto de Salzburgo / Rupert de Salzbourg",
+"q": [
+"Saint Rupert of Salzburg painting"
+]
+},
+{
+"id": "a0a47c5e-5747-427e-b524-3b3ec415adbf",
+"nome": "S. Eustásio, bispo de Nápoles",
+"data": "29/3",
+"item": "Q52593619",
+"rotulos": "Eustasio di Napoli / Eustasio de Nápoles / Eustachio di Napoli",
+"q": []
+},
+{
+"id": "bfd02cbe-0afb-4483-a2e8-19bab351931c",
+"nome": "S. Vicente Maria Strámbi, bispo passionista",
+"data": "1/1",
+"item": "Q966615",
+"rotulos": "Strambi / Vinzenz Maria Strambi / Vincent Strambi / Vicente Strambi",
+"q": [
+"Vincenzo Maria Strambi"
+]
+},
+{
+"id": "67677371-3e1b-4796-ae43-f949194ffc70",
+"nome": "S. José M. Tomasi, presbítero teatino, cardeal",
+"data": "3/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Giuseppe Maria Tomasi"
+]
+},
+{
+"id": "2b696710-4a88-4107-ad3d-ea47d327472d",
+"nome": "S. Telésforo, papa e mártir",
+"data": "3/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Telesphorus"
+]
+},
+{
+"id": "d6cd27de-74a6-405a-a8ef-cf8c3a009177",
+"nome": "S. Quirino, mártir, na via Portuense",
+"data": "25/3",
+"item": "Q30691241",
+"rotulos": "Cyrinus / Quirinus of Rome / Quirinus von Rom / Quirinus von Tegernsee",
+"q": []
+},
+{
+"id": "958eb14e-a172-4307-8042-4edd7bed3b32",
+"nome": "S. João Clímaco, abade no Monte Sinai",
+"data": "30/3",
+"item": "Q317072",
+"rotulos": "São João Clímaco / John Scholasticus / Ioannes Scholasticus / La escalera del divino ascenso",
+"q": [
+"John Climacus"
+]
+},
+{
+"id": "0676ea06-29dc-4850-9c19-5f7fcad4b445",
+"nome": "S. Arcádio, mártir",
+"data": "12/1",
+"item": "Q959019",
+"rotulos": "Arcadius / Arcadius von Cäsarea / Arcadius von Mauretanien / Arkadius von Caesarea",
+"q": []
+},
+{
+"id": "0cfed98e-8071-4056-912a-e3b67e42fa08",
+"nome": "S. Priscila, matrona romana, fundadora do cemitério homônimo na via Salária",
+"data": "16/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Priscilla"
+]
+},
+{
+"id": "2177ebfb-0ef5-4f6a-96e3-4be08430a13d",
+"nome": "S. Milcíades, papa",
+"data": "10/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Miltiades"
+]
+},
+{
+"id": "51656a27-939b-4147-9cce-3f647b26c908",
+"nome": "S. Lourenço Justiniano, patriarca de Veneza",
+"data": "8/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Lorenzo Giustiniani"
+]
+},
+{
+"id": "d7c0c2b0-c73e-4643-862d-ff491e2f6868",
+"nome": "B. Antônio Fatati, bispo de Ancona",
+"data": "9/1",
+"item": "Q28183766",
+"rotulos": "Antonio Fatati / Antonius Fatati",
+"q": []
+},
+{
+"id": "fa50b965-ddf1-4201-afc1-a1ccef4dd192",
+"nome": "S. Pedro de Cesareia, mártir",
+"data": "11/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Peter Balsam"
+]
+},
+{
+"id": "55681b53-e03a-448c-96ab-0bc9baa3720a",
+"nome": "S. Remígio, bispo de Reims",
+"data": "13/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Remigius"
+]
+},
+{
+"id": "7d472a7b-180f-4996-afd3-bc4393caea18",
+"nome": "S. Germânico, mártir de Filadélfia",
+"data": "19/1",
+"item": "Q1514158",
+"rotulos": "Germanicus / Germanico de Esmirna / San Germanico / San Germánico",
+"q": []
+},
+{
+"id": "ac31329c-4b35-479f-a0bb-279bc1a74318",
+"nome": "S. João, bispo de Ravena",
+"data": "19/1",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "c169bab7-6bfb-4948-92b6-8cbd27d6cb5d",
+"nome": "B. Timóteo Giacardo, presbítero",
+"data": "24/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Timoteo Giaccardo"
+]
+},
+{
+"id": "cac47c87-ce92-49a6-a99b-d82b7a48ac5d",
+"nome": "S. Vicente Pallotti, presbítero, fundador da Sociedade do Apostolado Católico",
+"data": "22/1",
+"item": "Q505937",
+"rotulos": "San Vincenzo / Pallotti / Vinzenz Pallotti / San Vicente Pallotti",
+"q": [
+"Vincent Pallotti"
+]
+},
+{
+"id": "da8e3c35-8e75-443e-9264-059d53aa9ea5",
+"nome": "S. Nicolau de Longobardi, leigo, ordem dos mínimos",
+"data": "2/2",
+"item": "Q3876344",
+"rotulos": "Nicolas Saggio / Beato Nicola da Longobardi / Beato Nicola di Longobardi / Nicola da Longobardi",
+"q": []
+},
+{
+"id": "e8be19eb-3e0f-4894-8a97-e8ad0f98afc8",
+"nome": "S. Sotera, virgem e mártir, na via Ápia",
+"data": "11/2",
+"item": "Q3949254",
+"rotulos": "Santa Sotere / Soteris / Sotere",
+"q": []
+},
+{
+"id": "f984d984-a8b4-4e48-b7be-49875779936a",
+"nome": "SS. Papías e Amaro, soldados, mártires, na via Nomentana",
+"data": "29/1",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "b6a35213-11cf-4431-a943-bf55d4300b7e",
+"nome": "S. Martinha, mártir",
+"data": "30/1",
+"item": null,
+"rotulos": "Carolus I / Carlos I de Inglaterra / Charles I of England / Carlo I d'Inghilterra",
+"q": [
+"Saint Martina of Rome"
+]
+},
+{
+"id": "ce34613f-01f0-458f-977c-1307cc1d340f",
+"nome": "S. Marcela, romana, discípula de S. Jerônimo",
+"data": "31/1",
+"item": "Q267211",
+"rotulos": "Marcella / Marcela / Saint Marcella / Santa Marcela",
+"q": [
+"Saint Marcella"
+]
+},
+{
+"id": "c27f008b-b2dd-4011-8bde-fd8c49e8cdc3",
+"nome": "S. Brígida, abadessa na Irlanda",
+"data": "1/2",
+"item": null,
+"rotulos": "Bridget’s Well / St Brigid’s Well / Toberbride",
+"q": [
+"Saint Brigid of Kildare"
+]
+},
+{
+"id": "9b6141bf-beef-4880-9905-f94b289578c2",
+"nome": "S. Catarina de Ricci, virgem dominicana de Prato na Itália",
+"data": "2/2",
+"item": null,
+"rotulos": "",
+"q": [
+"Catherine de' Ricci"
+]
+},
+{
+"id": "c378da62-b0d7-4353-80e0-ebae45d7cb63",
+"nome": "B. Isabel Canóri Mora, mãe de família",
+"data": "5/2",
+"item": "Q1771432",
+"rotulos": "Isabel Canori Mora / Beata Elisabetta Canori Mora / Elisabetta Canori Mora",
+"q": []
+},
+{
+"id": "6832ceee-203b-45e0-866f-14dc9cd01552",
+"nome": "S. Águeda, virgem e mártir de Catânia",
+"data": "5/2",
+"item": "Q200895",
+"rotulos": "Águeda da Catânia / Santa Ágata / Santa Águeda / Ágatha de Sicilia",
+"q": [
+"Saint Agatha painting"
+]
+},
+{
+"id": "4274101c-9031-453a-b99c-199499c0d888",
+"nome": "SS. Saturnino e Companheiros, mártires de Abissínia, África",
+"data": "12/2",
+"item": null,
+"rotulos": "",
+"q": [
+"Martyrs of Abitinae"
+]
+},
+{
+"id": "97e6f107-b784-4270-8a61-6515023758c9",
+"nome": "Nossa Senhora de Lourdes",
+"data": "11/2",
+"item": "Q21532387",
+"rotulos": "Our Lady of Lourdes / Unsere Liebe Frau von Lourdes / Nossa Senhora de Lourdes / Nuestra Señora de Lourdes",
+"q": [
+"Our Lady of Lourdes apparition Bernadette"
+]
+},
+{
+"id": "d2716d2f-9696-4963-943f-d48b6020972b",
+"nome": "S. Gregório II, papa",
+"data": "11/2",
+"item": "Q103321",
+"rotulos": "Gregor II. / Gregorius II. Papa / Gregorius Sabellus / Pope Gregory II",
+"q": [
+"Pope Gregory II"
+]
+},
+{
+"id": "f086e227-1d65-4c0d-8a2f-179d7216f3b8",
+"nome": "SS. Zótico, Jacinto e Amâncio, mártires, na via Labicana",
+"data": "10/2",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "dcc2eb2e-572f-44fd-a99b-4dde46abb1ec",
+"nome": "S. Margarida de Cortona",
+"data": "22/2",
+"item": "Q254632",
+"rotulos": "Margherita da Cortona / Santa Margarida de Cortona / Margareta von Cortona / Margaret of Cortona",
+"q": [
+"Margaret of Cortona"
+]
+},
+{
+"id": "4c211a05-c18b-45b4-9b45-bbd60573bf7d",
+"nome": "SS. Evécio e Pedro, mártires",
+"data": "24/2",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "2b15a44d-69ef-4f16-8510-6b11881c063e",
+"nome": "S. Faustiniano, bispo de Bolonha",
+"data": "26/2",
+"item": "Q4480411",
+"rotulos": "Faustinianus von Bologna / Faustinian of Bologna / San Faustiniano / Faustinus",
+"q": []
+},
+{
+"id": "c94d029b-95e2-426e-9d05-5b90d8dd1797",
+"nome": "S. Romão, abade",
+"data": "28/2",
+"item": "Q1405987",
+"rotulos": "Saint Romain du Jura / Roman de Condat / Romano de Condat / Romanus of Condat",
+"q": []
+},
+{
+"id": "95087385-a39f-42ab-b1df-75f08835a242",
+"nome": "S. Maria do Egito, penitente",
+"data": "2/4",
+"item": null,
+"rotulos": "",
+"q": [
+"Mary of Egypt"
+]
+},
+{
+"id": "ab2f1602-7164-40dc-9828-ec6f97f9b034",
+"nome": "S. João, bispo de Nápoles",
+"data": "3/4",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "e4ee19aa-857d-46f9-89bc-b9cfad856e06",
+"nome": "S. Bento Massarári, o Negro, franciscano",
+"data": "4/4",
+"item": null,
+"rotulos": "",
+"q": [
+"Benedict the Moor"
+]
+},
+{
+"id": "770fceb8-c8ac-4022-a2d6-857634fde182",
+"nome": "S. Irene, virgem e mártir",
+"data": "5/4",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Irene of Thessalonica"
+]
+},
+{
+"id": "cf7ab330-b3ec-4098-a48f-5306ae7de50a",
+"nome": "S. Gala, viúva romana",
+"data": "6/4",
+"item": null,
+"rotulos": "Galindo / Prudentius von Troyes / Prudentius of Troyes / Prudencio de Troyes",
+"q": [
+"Saint Galla of Rome"
+]
+},
+{
+"id": "dacb2a97-b267-4f8b-937f-8a78b844f133",
+"nome": "S. Venâncio, bispo de Salona na Dalmácia e mártir",
+"data": "1/4",
+"item": "Q9371947",
+"rotulos": "Venantius of Salona / Venancio de Salona / Venantius de Delminium / Venantius von Delminium",
+"q": []
+},
+{
+"id": "8c471633-9c34-4473-8c39-5f3bcc35c4c2",
+"nome": "S. Abúndio, mansionário vaticano",
+"data": "15/4",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "b0694ccb-1d75-460a-8d59-72be41bab35b",
+"nome": "S. Roberto, abade de Cìteaux",
+"data": "17/4",
+"item": null,
+"rotulos": "",
+"q": [
+"Robert of Molesme"
+]
+},
+{
+"id": "8ed6ac20-a2f0-4e7d-856f-63cebd5bd347",
+"nome": "S. Galdino, arcebispo de Milão e cardeal",
+"data": "18/4",
+"item": "Q3094561",
+"rotulos": "Galdinus von Mailand / Saint Galdino della Sala / Galdino della Sala / Galdino Valvassi della Sala",
+"q": []
+},
+{
+"id": "5614e781-0ce1-4497-8566-369df652ede2",
+"nome": "S. José Moscati, médico de Nápoles",
+"data": "12/4",
+"item": null,
+"rotulos": "",
+"q": [
+"Giuseppe Moscati"
+]
+},
+{
+"id": "2d0e0732-79e0-4dad-999c-9f8fa689cd80",
+"nome": "SS. Tibúrcio, Valeriano e Máximo, mártires, na via Ápia",
+"data": "14/4",
+"item": null,
+"rotulos": "",
+"q": [
+"Valerian and Tiburtius"
+]
+},
+{
+"id": "98a4a586-0a42-4d4b-96b3-b1fd887dabf1",
+"nome": "S. Apolônio, filósofo e mártir romano",
+"data": "21/4",
+"item": null,
+"rotulos": "Apollonio / Apollonius / Apollonios / Saint Apollonius of Rome",
+"q": [
+"Apollonius the Apologist"
+]
+},
+{
+"id": "92fb307b-e8c2-4374-9298-b242fd152dd5",
+"nome": "S. Dionísio, bispo de Corinto",
+"data": "8/4",
+"item": null,
+"rotulos": "Dionisio de Alejandría / Dionisio di Alessandria / Dionysius Alexandrinus / Denys d'Alexandrie",
+"q": [
+"Dionysius of Corinth"
+]
+},
+{
+"id": "03b25291-538c-4b8d-a509-8b340328b0de",
+"nome": "S. Zita, virgem de Lucca",
+"data": "27/4",
+"item": "Q744884",
+"rotulos": "Sitha / Zita of Lucca / Sainte Zita / Santa Zita di Lucca",
+"q": [
+"Saint Zita"
+]
+},
+{
+"id": "d5bcda01-1523-4456-818e-8b1f94dc1f8f",
+"nome": "S. Antonina, mártir de Niceia",
+"data": "4/5",
+"item": "Q9157868",
+"rotulos": "Antonina of Nicea / Antonina de Nicea / Antonina di Nicea / Santa Antonina",
+"q": []
+},
+{
+"id": "754e1ef3-55fe-48d1-a504-3458b28ebf6b",
+"nome": "S. Flávia Domitila, mártir romana",
+"data": "7/5",
+"item": "Q292219",
+"rotulos": "Flavia Domitilla / Flavia Domitila / Flávia Domitila / Flavia Petillia Domitilla",
+"q": []
+},
+{
+"id": "336c1ccc-f240-409f-bed5-9e51ccd52b28",
+"nome": "S. Agapito I, papa",
+"data": "22/4",
+"item": "Q160900",
+"rotulos": "Agapitus I. / Agapetus I / Agapito I / Agapet Ier",
+"q": [
+"Pope Agapetus I"
+]
+},
+{
+"id": "891c7963-d7fc-453e-95b7-9e1692ff618e",
+"nome": "S. Pedro Levita, diácono",
+"data": "30/4",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "b51b0262-de65-4fbd-ba7d-1b19324efcc6",
+"nome": "S. Franca, abadessa de Piacenza",
+"data": "25/4",
+"item": "Q5478244",
+"rotulos": "Franka / Santa Franca Visalta / Franca of Piacenza / Franca Visalta",
+"q": []
+},
+{
+"id": "3a8a7b64-6cc6-4b27-9d28-c5725d2bfe72",
+"nome": "SS. Evêncio, Alexandre e Teódulo, mártires, na via Nomentana",
+"data": "3/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Eventius Alexander Theodulus"
+]
+},
+{
+"id": "112eaae4-ddeb-4199-9f72-1e3fb7e67a53",
+"nome": "SS. Mariano e Tiago mártires",
+"data": "6/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Marianus and James martyrs"
+]
+},
+{
+"id": "0ab939b5-cb71-44b0-b790-fd70d06a49f9",
+"nome": "S. Rosa Venerini, virgem, fundadora das Piedosas Mestras",
+"data": "7/5",
+"item": "Q434886",
+"rotulos": "Venerini / Rose Venerini / Santa Rosa Venerini / Rosa Venerini",
+"q": [
+"Rosa Venerini"
+]
+},
+{
+"id": "1e0e29fb-90d4-4938-91e1-63407ceb9c0c",
+"nome": "S. Maria Isabel Hesselblad, fundadora das Brigidinas",
+"data": "24/4",
+"item": null,
+"rotulos": "",
+"q": [
+"Elisabeth Hesselblad"
+]
+},
+{
+"id": "147d8dbb-7ca5-4e65-9c4b-4cfc71429051",
+"nome": "S. André Humberto Fournet, presbítero",
+"data": "13/5",
+"item": null,
+"rotulos": "",
+"q": [
+"André-Hubert Fournet"
+]
+},
+{
+"id": "61922be3-c54c-49b5-a995-5ee8b8d61f9f",
+"nome": "S. Torquato, bispo de  Guádix",
+"data": "15/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Torquatus of Acci"
+]
+},
+{
+"id": "b368e2a9-3008-484d-b77c-b0c7a75f49fa",
+"nome": "S. Vítor, mártir, na via Salária Antiga",
+"data": "17/5",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "9b837da7-7193-4545-b046-5533a657da99",
+"nome": "SS. Quarto e Quinto, mártires, na via Latina",
+"data": "10/5",
+"item": "Q141415042",
+"rotulos": "Quarto e Quinto / Quartus and Quintus",
+"q": []
+},
+{
+"id": "560c2138-e314-4c8c-b1d1-a01fa1e02aae",
+"nome": "S. Isidro, lavrador",
+"data": "15/5",
+"item": "Q379685",
+"rotulos": "San Isidro / Isidro / Saint Isidore / Isidore the Laborer",
+"q": [
+"Isidore the Laborer painting"
+]
+},
+{
+"id": "897cc47a-aa40-4509-8635-7e0081004b74",
+"nome": "SS. Partênio e Colágero, mártires, na via Ápia",
+"data": "19/5",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "c74e1b6d-215d-4332-8c8e-0dbffbafffef",
+"nome": "S. Áurea, mártir de Óstia",
+"data": "20/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Aurea of Ostia"
+]
+},
+{
+"id": "d3f67966-99f3-4805-8126-0ecd275cf40f",
+"nome": "S. Pedro Celestino V, papa (Pietro del Murrone)",
+"data": "19/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Celestine V"
+]
+},
+{
+"id": "605fed8f-0abf-46ab-93d2-a45dc7072cfe",
+"nome": "SS. Cristóvão de Magalhães, sac., e Companheiros, mártires no México",
+"data": "21/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Cristóbal Magallanes Jara"
+]
+},
+{
+"id": "21bb13f2-f54d-4c15-b56a-26330b1ba358",
+"nome": "S. Maria Madalena de Pazzi, virgem",
+"data": "25/5",
+"item": "Q242040",
+"rotulos": "María Magdalena / Maria Maddalena / Maria Maddalena de' Pazzi / Maria Maddalena de’ Pazzi",
+"q": [
+"Mary Magdalene de Pazzi"
+]
+},
+{
+"id": "b9d567e7-acef-46ef-adfd-b0674f60d487",
+"nome": "S. Gregório VII, papa",
+"data": "25/5",
+"item": "Q133063",
+"rotulos": "Gregor VII. / Grégoire VII / papa Gregorio VII / Gregorius VII",
+"q": [
+"Pope Gregory VII"
+]
+},
+{
+"id": "2945f560-ff70-47a7-9805-208d06fbd787",
+"nome": "S. Simétrio, mártir, na via Salária Nova",
+"data": "26/5",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "e9dd9242-a1ba-4ddc-a7d0-25dcc8cb26c9",
+"nome": "S. Isabel Ana Seton, fundadora das Irmãs da Caridade de S. José",
+"data": "4/1",
+"item": "Q459032",
+"rotulos": "Elizabeth Seton / Bayley Seton / Elizabeth Ann Seton / Elizabeth Ann Bayley",
+"q": [
+"Elizabeth Ann Seton"
+]
+},
+{
+"id": "89ed8491-6975-451f-95a6-a43bdda2a4ea",
+"nome": "S. Rafaela do Sagrado Coração, virgem, fundadora das Escravas do S. Coração de Jesus",
+"data": "6/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Rafaela Porras y Ayllón"
+]
+},
+{
+"id": "3070b12a-0d33-4e52-9856-22c91a761bf7",
+"nome": "SS. Mário, Marta, Audifaz e Ábaco, mártires na via Cornélia",
+"data": "19/1",
+"item": null,
+"rotulos": "Marcelo Spínola y Maestre / Marcelo Spinola y Maestre / Marcelo Spínola / Marcello Spínola y Maestre",
+"q": [
+"Saints Marius and Martha"
+]
+},
+{
+"id": "2341337c-40b4-47ed-9627-21b6869284c6",
+"nome": "S. Ângela Mérici, virgem, fundadora das Ursulinas",
+"data": "27/1",
+"item": "Q236216",
+"rotulos": "Sant'Angela Merici / Merici / Angela von Brescia / Αγγελική της Μπρέσια",
+"q": [
+"Angela Merici"
+]
+},
+{
+"id": "a3a55b95-494c-4729-b62c-cfe4d8d1a169",
+"nome": "S. Quirino, mártir: seu corpo repousa nas catacumbas de S. Sebastião",
+"data": "4/6",
+"item": null,
+"rotulos": "Quirinus / Patrono di Correggio / Quirinus von Siscia / Quirinus of Sescia",
+"q": [
+"Quirinus of Sescia",
+"Quirinus of Siscia"
+]
+},
+{
+"id": "06d87280-2888-4dc7-a244-34a620f015af",
+"nome": "S. Félix III, papa",
+"data": "1/3",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Felix III"
+]
+},
+{
+"id": "49594f51-cfa8-42c1-878c-046b0ec1a4c8",
+"nome": "S. Restituto, mártir, na via Nomentana",
+"data": "11/6",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Restitutus"
+]
+},
+{
+"id": "1763c595-63f3-4824-b696-09a1e2c0b515",
+"nome": "SS. Blasto e Diógenes, mártires, na via Salária Antiga",
+"data": "17/6",
+"item": "Q97253450",
+"rotulos": "Blastus und Diogenes / Blastus and Diogenes / Blaste et Diogène / Blasto e Diogene",
+"q": []
+},
+{
+"id": "536c46ea-baa2-4b21-8fcf-909b644e23e6",
+"nome": "S. Medardo, bispo de Noyon",
+"data": "8/6",
+"item": "Q733308",
+"rotulos": "St. Medardus / Saint Medard / Saint Méard / Saint Médard",
+"q": [
+"Saint Medard"
+]
+},
+{
+"id": "919ddc48-6ee1-43a4-86d7-be002beb5efe",
+"nome": "B. Ana Maria Taigi, mãe de família",
+"data": "9/6",
+"item": "Q290012",
+"rotulos": "Anna Maria Taigi / Ana María Taigi / Anne-Marie Taigi / Ana Maria Taigi",
+"q": [
+"Anna Maria Taigi portrait"
+]
+},
+{
+"id": "005480e4-81f3-4d67-8dfa-fac9ccef7d70",
+"nome": "S. Paula Frassinetti, virgem, fundadora das Irmãs de S. Doroteia",
+"data": "11/6",
+"item": "Q288906",
+"rotulos": "Paula Frassinetti / Paola Frassinetti / Santa Paola Frassinetti / Paule Frassinetti",
+"q": [
+"Paola Frassinetti"
+]
+},
+{
+"id": "82f66cce-b688-42f1-866a-ce44ae266b1a",
+"nome": "S. João de S. Facundo, sacerdote agostiniano",
+"data": "11/6",
+"item": null,
+"rotulos": "",
+"q": [
+"John of Sahagún"
+]
+},
+{
+"id": "bd4c9cb7-7a78-4ebe-94ec-23b0c30a77fe",
+"nome": "S. Bento II, papa",
+"data": "8/5",
+"item": "Q163787",
+"rotulos": "Benedict II / Benedikt II. / Benedicto II / Benoît II",
+"q": [
+"Pope Benedict II"
+]
+},
+{
+"id": "406e403b-cfea-4af2-bc3e-8c6a84946f98",
+"nome": "SS. Artêmio e Paulina, mártires, na via Aurélia",
+"data": "6/6",
+"item": "Q16171193",
+"rotulos": "Arthemius, Candida and Paulina / Artemio, Cándida y Paulina / Artème, Candide et Pauline / Artemio, Candida e Paolina",
+"q": []
+},
+{
+"id": "c89691cb-83e8-4461-b7a1-885685fe0a6d",
+"nome": "São Silvério, Papa e mártir",
+"data": "20/6",
+"item": "Q149315",
+"rotulos": "Silverius / Papa Silvério / Silverio / Silvère",
+"q": [
+"Pope Silverius"
+]
+},
+{
+"id": "e51728fd-cc8e-4c82-a378-49a1a44b495b",
+"nome": "S. Flávio Clemente, cônsul romano, mártir",
+"data": "22/6",
+"item": "Q280869",
+"rotulos": "Titus Flavius Clemens / Tito Flavio Clemente / Tito Flávio Clemente",
+"q": []
+},
+{
+"id": "5a3298f8-268b-4b15-919a-2f635828ec08",
+"nome": "S. Miqueias, profeta",
+"data": "21/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Prophet Micah"
+]
+},
+{
+"id": "c8949336-fea2-410a-bdde-129a4bbfd77d",
+"nome": "S. Leão II, papa",
+"data": "3/7",
+"item": "Q103328",
+"rotulos": "Leo Maneius / Pope Leo II / Pope Saint Leo II / St. Leo II",
+"q": [
+"Pope Leo II"
+]
+},
+{
+"id": "932f05de-34e4-4fe7-a025-f037d4a06646",
+"nome": "S. Maria Goretti, virgem e mártir",
+"data": "6/7",
+"item": "Q234697",
+"rotulos": "Santa Maria Goretti / St. Maria Goretti / Maria Goretti / Maria Teresa Goretti",
+"q": [
+"Maria Goretti"
+]
+},
+{
+"id": "34d81d1d-b0f6-49a8-ba5a-27684523d17e",
+"nome": "Beata Maria Mastena",
+"data": "27/6",
+"item": "Q2682944",
+"rotulos": "Maria Pia Mastena / Maria Teresa Mastena",
+"q": []
+},
+{
+"id": "256edeb6-38ac-4337-9805-4a3f9f170c4e",
+"nome": "Santo Eutíquio",
+"data": "3/7",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Eutychius martyr"
+]
+},
+{
+"id": "29e4e293-8ea3-4d46-9a6f-6df32dbc24e6",
+"nome": "S. Antônio Maria Zacarias, presbítero, fundador dos Barnabitas",
+"data": "5/7",
+"item": "Q380099",
+"rotulos": "Antonio Maria Zaccaria / Anthony Maria Zaccaria / Antonio María Zaccaria / Antoine-Marie Zaccaria",
+"q": [
+"Antonio Maria Zaccaria"
+]
+},
+{
+"id": "81b3a9ad-e36c-4052-ac59-2516c5bffb0b",
+"nome": "SS. João e Festo, mártires, na via Salária Antiga",
+"data": "24/6",
+"item": null,
+"rotulos": "",
+"q": [
+"John and Festus martyrs"
+]
+},
+{
+"id": "628e3910-566a-4b6f-9fdd-9f9d4a1b4fb1",
+"nome": "SS. Protomártires da Santa Igreja Romana",
+"data": "30/6",
+"item": "Q640666",
+"rotulos": "Erste Märtyrer von Rom / First Martyrs of the Church of Rome / Primeros Mártires de la Iglesia de Roma / Premiers martyrs de l'Église de Rome",
+"q": [
+"Martyrs of Rome Nero"
+]
+},
+{
+"id": "5905eafd-e796-45e2-948d-fb4dc96c803d",
+"nome": "S. Guilherme, abade, fundador  do Mosteiro de Montevergine",
+"data": "25/6",
+"item": null,
+"rotulos": "",
+"q": [
+"William of Montevergine"
+]
+},
+{
+"id": "a8cde68c-07a2-402c-9aa0-d4370e799cae",
+"nome": "SS. Rufina e Segunda, mártires, na via Cornelia",
+"data": "10/7",
+"item": null,
+"rotulos": "",
+"q": [
+"Rufina and Secunda"
+]
+},
+{
+"id": "3b6d4473-2b63-41d9-ac25-0b5d6b45ba13",
+"nome": "S. Adriano III, papa",
+"data": "9/7",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Adrian III"
+]
+},
+{
+"id": "461d7073-6f9e-434c-8396-2f0db5d363cc",
+"nome": "S. Silas, discípulo dos Apóstolos",
+"data": "13/7",
+"item": "Q312376",
+"rotulos": "St Silas / Silvanus / Silvano / San Silvano",
+"q": [
+"Saint Silas"
+]
+},
+{
+"id": "29b329c5-a790-4cbe-bdb2-5935d9945f68",
+"nome": "SS. Nabor e Félix, mártires milaneses",
+"data": "12/7",
+"item": "Q261275",
+"rotulos": "Nabor y Felix / Naborre e Felice / santi Nabore e Felice / santi Naborre e Felice",
+"q": []
+},
+{
+"id": "58ea003c-f1f6-41e1-9b73-91173aa5ee2a",
+"nome": "S. Esdra, escriba",
+"data": "13/7",
+"item": "Q191787",
+"rotulos": "Esdras / Azaryahu / Ezra ha-Sofer / Ezra the Priest",
+"q": [
+"Ezra scribe"
+]
+},
+{
+"id": "a874f15f-0156-44c6-bc5b-bb5218c065a5",
+"nome": "S. Aleixo",
+"data": "17/7",
+"item": "Q137947",
+"rotulos": "Alexis of Rome / Alexius Romanus / St. Alexis / Alexis d'Édesse",
+"q": [
+"Saint Alexius of Rome"
+]
+},
+{
+"id": "d50866a5-120d-4f85-aedd-53cecfff88cf",
+"nome": "S. Emiliano, mártir na Mésia (Bulgária)",
+"data": "18/7",
+"item": "Q1115957",
+"rotulos": "Aemilianus / Aemilianus of Durostoro / Emiliano de Durostoro / Emiliano di Durostoro",
+"q": []
+},
+{
+"id": "5c583119-a16e-4ee8-a74f-6f03145e2de6",
+"nome": "SS. Anatólia e Vitória, mártires",
+"data": "10/7",
+"item": null,
+"rotulos": "",
+"q": [
+"Anatolia and Victoria"
+]
+},
+{
+"id": "028fd6a5-f0c9-4cec-a8b0-1d8531e660b4",
+"nome": "S. Ezequiel, profeta",
+"data": "21/7",
+"item": null,
+"rotulos": "",
+"q": [
+"Prophet Ezekiel painting"
+]
+},
+{
+"id": "6db5d6d5-9ecd-4375-af70-40db6ebbf34b",
+"nome": "São Charles de Foucauld",
+"data": "1/12",
+"item": "Q51880",
+"rotulos": "Carolus de Foucauld / Carlos de Foucauld / Saint Charles Eugene de Foucauld / Saint Charles Eugène de Foucauld",
+"q": [
+"Charles de Foucauld"
+]
+},
+{
+"id": "1bde5e89-b046-48f4-99b3-1d30369b1659",
+"nome": "S. Pimênio, mártir, na via Portuense",
+"data": "2/12",
+"item": "Q113388669",
+"rotulos": "Pimenius / Pigmène / Pigmenius / Pigmentius",
+"q": []
+},
+{
+"id": "e7fcdbb2-b2de-452d-8ec2-57e9b18cd833",
+"nome": "S. Asela, virgem romana",
+"data": "6/12",
+"item": "Q1296256",
+"rotulos": "Santa Asella / Santa Asella di Roma / Ocella / Asella von Roma",
+"q": []
+},
+{
+"id": "b023ba6f-12a4-4a73-8ece-daefadeaa6c4",
+"nome": "S. Aurélio, bispo de Cartago",
+"data": "20/7",
+"item": "Q598727",
+"rotulos": "Aurelius von Karthago / Saint Aurelius / Aurelio de Cartago / Aurèle de Carthage",
+"q": []
+},
+{
+"id": "3cb326b8-5752-477c-8c93-c3311b582b8b",
+"nome": "S. Mauro mártir, na via Salária",
+"data": "10/12",
+"item": null,
+"rotulos": "San Tommaso di Farfa / San Tommaso di Moriana / Tommaso di Maurienne / Tommaso di Moriana",
+"q": [
+"Saint Maurus martyr Rome"
+]
+},
+{
+"id": "1d3546cb-d170-4348-a6bc-b2d650e7b63d",
+"nome": "Beato Bártolo Buonpedoni",
+"data": "12/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Bartolo Buonpedoni"
+]
+},
+{
+"id": "64e778e1-5c07-42b8-917a-0267406060ca",
+"nome": "Beato Pio Bartosik,  sacerdote da Ordem dos Conventuais e mártir",
+"data": "12/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Pius Bartosik"
+]
+},
+{
+"id": "9a7e2b7e-b3e1-4569-8ba6-1a0e96fe0eaa",
+"nome": "S. Silvério, papa",
+"data": "2/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Silverius"
+]
+},
+{
+"id": "87ac0395-ec73-4bac-bfa1-51050f12e5cd",
+"nome": "São Simão Phan Dàc Hòa, mártir",
+"data": "12/12",
+"item": "Q9352701",
+"rotulos": "Simon Phan Đắc Hòa / Simon Phan Đắc Hoà / Simone Phan Đắc Hòa / Simon Phan Dac Hoa",
+"q": []
+},
+{
+"id": "655b27e8-2eed-4315-b98a-819cd3e57f1b",
+"nome": "S. Aristão, mártir de Porto Romano",
+"data": "13/12",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "78ef2c97-ae5f-4de0-a37c-e224d6a93bcb",
+"nome": "S. Valeriano, bispo na África e mártir",
+"data": "15/12",
+"item": "Q1262408",
+"rotulos": "Valerian of Abbenza / Valeriano de Abbensa / Valeriano de Abbenza / Valeriano di Abbenza",
+"q": []
+},
+{
+"id": "313c1c1d-42a5-45df-9772-8c80fe8426c4",
+"nome": "S. João Diogo Cuauhtlatoatzin",
+"data": "9/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Juan Diego"
+]
+},
+{
+"id": "696c2007-279f-47f3-af1b-072ac9f0b2cd",
+"nome": "S. João da Mata, sacerdote, fundator dos Trinitários",
+"data": "17/12",
+"item": null,
+"rotulos": "",
+"q": [
+"John of Matha"
+]
+},
+{
+"id": "cf3b580f-fa6a-4eaa-bc2e-565e9a3404f5",
+"nome": "B. Jacinto Cormier, presbítero dominicano",
+"data": "17/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Hyacinthe-Marie Cormier"
+]
+},
+{
+"id": "f844cdd2-ba8d-42db-b5fa-529a6836ac40",
+"nome": "S. Tarsila, virgem romana, tia de S. Gregório Magno",
+"data": "24/12",
+"item": "Q3515812",
+"rotulos": "Tarsille / Tarsille de Rome / Tarsilia de Roma / Tarsilia di Roma",
+"q": []
+},
+{
+"id": "e03c0c4c-2645-4a02-9d7e-7e96fa2d84c2",
+"nome": "B. Maria dos Apóstolos, virgem, fundadora das Irmãs Salvatorianas",
+"data": "25/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Maria von den Aposteln"
+]
+},
+{
+"id": "3bcfa7f0-7780-42e1-85b9-e4058e1c3e5c",
+"nome": "TODOS OS SANTOS",
+"data": "1/11",
+"item": null,
+"rotulos": "",
+"q": [
+"All Saints Day painting"
+]
+},
+{
+"id": "689402a5-6e86-4d62-a19d-3465dfa79358",
+"nome": "COMEMORAÇÃO DE TODOS OS FIÉIS DEFUNTOS",
+"data": "2/11",
+"item": null,
+"rotulos": "",
+"q": [
+"Souls in Purgatory painting"
+]
+},
+{
+"id": "70a83f49-b564-4b7b-af93-97af1313fe4f",
+"nome": "SS. Vital e Agrícola, mártires de Bolonha",
+"data": "4/11",
+"item": "Q203177",
+"rotulos": "Saints Vitalis and Agricola / Agricola und Vitalis / Agricola and Vitalis / Saints Agricola and Vitalis",
+"q": []
+},
+{
+"id": "20dd9fa9-6c34-48a3-a9bb-951c5e870a20",
+"nome": "SS. Donino, Teótimo e Companheiros, mártires",
+"data": "5/11",
+"item": null,
+"rotulos": "",
+"q": [
+"Domninus Theotimus"
+]
+},
+{
+"id": "0d3241fb-8e5c-47b0-985a-605a0c54b9f2",
+"nome": "S. Vilibrordo, bispo na Europa do Norte",
+"data": "7/11",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Willibrord"
+]
+},
+{
+"id": "217352d3-e49c-412d-b09c-1afe833abdb6",
+"nome": "S. Félix I, papa",
+"data": "30/12",
+"item": "Q134687",
+"rotulos": "Felix / San Félix / Papst Felix I. / Pope Felix I",
+"q": [
+"Pope Felix I"
+]
+},
+{
+"id": "ee47d50e-2c37-4d6d-aaec-6948e6e884ff",
+"nome": "S. Maria e Néon, mártires, no cemitério de Calisto na via Ápia",
+"data": "9/11",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "9215fef3-7131-4772-a07a-b3a235506ec4",
+"nome": "S. Inês de Assis, irmã de S. Clara, virgem",
+"data": "16/11",
+"item": null,
+"rotulos": "",
+"q": [
+"Agnes of Assisi"
+]
+},
+{
+"id": "8bef6b36-3257-4fb0-88ac-21af3f0eb1b0",
+"nome": "B. Maria de Jesus do Bom Pastor, fundadora das Irmãs da Sagrada Família de Nazaré",
+"data": "21/11",
+"item": "Q1094869",
+"rotulos": "Franciszka Siedliska / Françoise Siedliska / Maria Franciszka Siedliska / Mary of Jesus the Good Shepherd,",
+"q": [
+"Franciszka Siedliska"
+]
+},
+{
+"id": "279d507b-8594-458a-8606-cb4a630987a8",
+"nome": "BB. Luís e Maria Beltrame Quattrocchi, cônjuges",
+"data": "25/11",
+"item": "Q2271829",
+"rotulos": "Luigi Beltrame Quattrocchi / Luigi et Maria Beltrame Quattocchi / Maria Corsini / Luigi Beltrame Quattrocchi und Maria Corsini",
+"q": []
+},
+{
+"id": "6134e815-b8b9-42fb-a220-36bbfa06ccec",
+"nome": "SS. Plácido e Mauro, discípulos de S. Bento",
+"data": "5/10",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Placidus Saint Maurus"
+]
+},
+{
+"id": "f2048c8d-9b38-4aeb-be26-603963d505bf",
+"nome": "S. Moisés, mártir em Roma",
+"data": "25/11",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "5b1ad935-6975-4368-a028-d3d7da53a21b",
+"nome": "S. Nicolau I, papa",
+"data": "13/11",
+"item": "Q170503",
+"rotulos": "Nicholas / Pope Nicholas / Pope Nicholas I / Pope Saint Nicholas",
+"q": [
+"Pope Nicholas I"
+]
+},
+{
+"id": "0026650b-19ac-4744-8627-dc6b0a3a5434",
+"nome": "S. Margarida da Escócia",
+"data": "16/11",
+"item": "Q230507",
+"rotulos": "St. Margaret / Santa Margarita / Margaret of Scotland / Margarida da Escócia",
+"q": [
+"Saint Margaret of Scotland"
+]
+},
+{
+"id": "48f79f34-07e8-4d2e-9f3f-110315532b55",
+"nome": "S. Diego, leigo franciscano",
+"data": "12/11",
+"item": null,
+"rotulos": "",
+"q": [
+"Didacus of Alcalá"
+]
+},
+{
+"id": "ad58d79f-ea74-4bb0-a94e-43235872db96",
+"nome": "S. Agostinha Pietrantoni, virgem",
+"data": "13/11",
+"item": "Q439840",
+"rotulos": "Schwester Augustina / Augustina Pietrantoni / Agostina Livia Picapiedra / Agustina Livia Picapiedra",
+"q": [
+"Agostina Pietrantoni"
+]
+},
+{
+"id": "934181d8-2ba3-49e6-b1af-1d3429d7700a",
+"nome": "S. Gregório Taumaturgo, bispo de Neocesarea",
+"data": "17/11",
+"item": "Q337537",
+"rotulos": "Theodor / Gregor Thaumaturgos / Gregor von Neocäsarea / Gregorios Thaumaturgos",
+"q": [
+"Gregory Thaumaturgus"
+]
+},
+{
+"id": "ae288cc4-0ba0-42a2-a76f-391c6175edc7",
+"nome": "Santo Odão, abade de Cluny",
+"data": "18/11",
+"item": null,
+"rotulos": "",
+"q": [
+"Odo of Cluny"
+]
+},
+{
+"id": "2c213a9d-b9e0-4a7e-9d6b-ec3e4cd69309",
+"nome": "S. Gelásio I, papa",
+"data": "20/11",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Gelasius I"
+]
+},
+{
+"id": "301fd029-87fd-4407-b1a4-3b9086e60379",
+"nome": "S. Sirício, papa",
+"data": "26/11",
+"item": "Q161443",
+"rotulos": "Siricius / Siricio / Sirice / papa Siricio",
+"q": [
+"Pope Siricius"
+]
+},
+{
+"id": "04242670-a6e1-4f62-9ffa-44d59b7899c4",
+"nome": "S. Tiago da Marca, sacerdote franciscano",
+"data": "28/11",
+"item": null,
+"rotulos": "",
+"q": [
+"James of the Marches"
+]
+},
+{
+"id": "b0761c9f-0766-42b7-b0d1-09e3ab92195a",
+"nome": "SS. Daniel, Samuel e Companheiros, primeiros mártires franciscanos",
+"data": "10/10",
+"item": null,
+"rotulos": "Comboni / Daniel Comboni / Heiliger Daniel Comboni / Hl. Daniel Comboni",
+"q": [
+"Daniel Fasanella martyrs Ceuta",
+"Franciscan martyrs of Ceuta"
+]
+},
+{
+"id": "901f6b94-a1e1-4b68-9f67-65361cb76d03",
+"nome": "S. Serafim de Monte Granaro, leigo capuchinho",
+"data": "12/10",
+"item": null,
+"rotulos": "",
+"q": [
+"Seraphin of Montegranaro"
+]
+},
+{
+"id": "fe9b065c-5f49-476e-a54e-018c98433d5d",
+"nome": "S. Pelágia, virgem e mártir da Antioquia",
+"data": "8/10",
+"item": null,
+"rotulos": "Pelagia of Tarsus / Pelagia de Tarso / Pélagie de Tarse / Pelagia di Tarso",
+"q": [
+"Pelagia of Antioch"
+]
+},
+{
+"id": "03a4d051-f520-4d0c-aadc-690bcfb06805",
+"nome": "S. Saturnino, mártir na via Salária Nova",
+"data": "29/11",
+"item": null,
+"rotulos": "Saturninus of Carthage / Saturnino di Cartagine / Saturninus Carthaginiensis / Saturnino de Cartago",
+"q": [
+"Saint Saturninus Rome martyr"
+]
+},
+{
+"id": "043ae978-1dba-4811-9702-f5362c014411",
+"nome": "S. Marcos, papa",
+"data": "7/10",
+"item": null,
+"rotulos": "Marcello / Marcellus / Marcellus of Capua / Marcelo de Capua",
+"q": [
+"Pope Mark",
+"Marcus papa"
+]
+},
+{
+"id": "a20110ae-2713-452c-bc5b-f1ad16bbd27a",
+"nome": "S. Cândida, mártir na via Portuense",
+"data": "3/10",
+"item": "Q4212312",
+"rotulos": "Candida of Rome / sainte Bianca / Candida di Roma / Cándida",
+"q": []
+},
+{
+"id": "17d37dff-13d9-42d7-9a7e-7fdf75459d42",
+"nome": "SS. João de Brébeuf e Isaac Jogues presbíteros, e Companheiros jesuítas, mártires canadenses",
+"data": "19/10",
+"item": null,
+"rotulos": "",
+"q": [
+"Jean de Brébeuf"
+]
+},
+{
+"id": "146bb3d9-ad33-4098-83a4-c2fb740e6da3",
+"nome": "S. Gaspar del Búfalo, presbítero, fundador dos Missionários do Preciosíssimo Sangue de Cristo",
+"data": "21/10",
+"item": "Q641988",
+"rotulos": "Gaspare del Bufalo / Gaspar del Bufalo / Kaspar del Bufalo / Gaspar Alonso Contreras Moreno, creador de la Sociedad de gorilones y búfalos mojados",
+"q": [
+"Gaspare del Bufalo"
+]
+},
+{
+"id": "8b51fb23-e298-4fdf-8a72-a1e66a9281f0",
+"nome": "S. Marcos, bispo de Jerusalém",
+"data": "22/10",
+"item": null,
+"rotulos": "Abercio / Abercius / Abercius of Hieropolis / Abercius d'Hiérapolis",
+"q": [
+"Mark bishop of Jerusalem"
+]
+},
+{
+"id": "9ffc8bf9-81d5-428e-ad01-406600f271e1",
+"nome": "SS. Dinís, bispo, e Companheiros, mártires de Paris",
+"data": "9/10",
+"item": "Q244380",
+"rotulos": "St. Dionysius / Sankt Dionysius / Saint Denis / saint Denis",
+"q": [
+"Saint Denis"
+]
+},
+{
+"id": "f555e3c9-1032-4b31-85ed-666c67e83c01",
+"nome": "S. Paulino, bispo de York, discípulo de S. Gregório Magno",
+"data": "10/10",
+"item": "Q506645",
+"rotulos": "Paulinus / St. Paulinus of York / Paulinus de York / Paulin d’York",
+"q": [
+"Paulinus of York"
+]
+},
+{
+"id": "fb21fb89-8351-4d31-a67b-23f2f3910f60",
+"nome": "S. Hedisto, mártir, na via Ardeatina",
+"data": "12/10",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "c60e2d63-6477-4df4-9a4f-0dae8e62f372",
+"nome": "B. Pedro Casani, sacerdote escolápio",
+"data": "17/10",
+"item": "Q11817360",
+"rotulos": "Pietro della Natività di Maria / Pedro Casani / Pietro della Natività della Beata Vergine Maria / Pietro Casani",
+"q": []
+},
+{
+"id": "873d3626-63ae-4674-9d0e-b45d4ede12d5",
+"nome": "S. Hilarião, abade",
+"data": "21/10",
+"item": "Q468685",
+"rotulos": "Hilarion / Hilarión / Hilarion von Gaza / Hilarion de Gaza",
+"q": [
+"Hilarion"
+]
+},
+{
+"id": "6db0d0de-ea53-469e-91f5-bda493b95a69",
+"nome": "São Ceda, bispo",
+"data": "26/10",
+"item": "Q1052577",
+"rotulos": "Cedda / Cedd / Cédric / San Cedda",
+"q": [
+"Cedd"
+]
+},
+{
+"id": "17767636-5054-44c8-95cd-d370ad3fae91",
+"nome": "SS. Aconto, Nono, Herculano e Taurino, mártires de Porto Romano",
+"data": "5/9",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "997286d9-9222-4fb9-af96-549ffa4df0e2",
+"nome": "S. Guido de Brabante",
+"data": "12/9",
+"item": null,
+"rotulos": "",
+"q": [
+"Guy of Anderlecht"
+]
+},
+{
+"id": "feb34346-d931-475b-8a57-5129fb35a158",
+"nome": "S. Nicomedes, mártir, na via Nomentana",
+"data": "15/9",
+"item": "Q647400",
+"rotulos": "Nikomedes / Nicomède / Saint Nicomedes / Nicomedes",
+"q": []
+},
+{
+"id": "368e63e2-c7f0-4048-b2ae-569c045b9053",
+"nome": "São Beano, Bispo",
+"data": "26/10",
+"item": null,
+"rotulos": "Bonaventura de Potenza / Boaventura de Potenza / da Potenza Bonaventura / beato Bonaventura, da Potenza",
+"q": [
+"Saint Beanus"
+]
+},
+{
+"id": "3df13ee4-4b53-4623-a3a0-98ee35008ecb",
+"nome": "S. Germano, bispo de Cápua",
+"data": "30/10",
+"item": "Q3761141",
+"rotulos": "Jermaine of Capua / Germán de Capua / Germain de Capoue / Germano di Capua",
+"q": []
+},
+{
+"id": "0b9f1df4-85c2-42b4-9446-53aec20c4ef4",
+"nome": "S. Marino, eremita",
+"data": "4/9",
+"item": null,
+"rotulos": "Maria von der heiligen Cäcilia von Rom / Dina Belanger / Marie Sainte-Cécile de Rome / Dina Bélanger",
+"q": [
+"Saint Marinus San Marino"
+]
+},
+{
+"id": "12f31386-a0a6-4999-8ef8-03d65a4c5006",
+"nome": "B. Boaventura de Barcelona, religioso franciscano",
+"data": "11/9",
+"item": null,
+"rotulos": "",
+"q": [
+"Bonaventure of Barcelona"
+]
+},
+{
+"id": "667314ae-fde0-405c-ae8a-bea4d069b157",
+"nome": "S. Evaristo, papa",
+"data": "27/10",
+"item": "Q47746",
+"rotulos": "Evaristus / Evaristo / Évariste / papa Evaristo",
+"q": [
+"Pope Evaristus"
+]
+},
+{
+"id": "a31a650d-2004-4e97-a21f-ffb112aa93d4",
+"nome": "S. Feliciano, mártir de Cartago",
+"data": "29/10",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "25fd8095-8f9a-499e-befc-828e9883a55b",
+"nome": "S. Bonifácio I, papa",
+"data": "4/9",
+"item": "Q160907",
+"rotulos": "Boniface / Bonifacius I / Pope Boniface I / Papa Bonifacio I",
+"q": [
+"Pope Boniface I"
+]
+},
+{
+"id": "71354eaf-838b-4e50-8964-6a8d95fdcb0e",
+"nome": "S. Audomar de Thérouanne",
+"data": "9/9",
+"item": "Q758962",
+"rotulos": "Audomar / Audomaro di Thérouanne / Audomarus / Audomar de Thérouanne",
+"q": []
+},
+{
+"id": "004cd0e7-0251-4469-8807-12bd6187ad6a",
+"nome": "B. Vítor III, papa",
+"data": "16/9",
+"item": "Q227724",
+"rotulos": "Victor III / Viktor III. / Víctor III / papa Vittore III",
+"q": [
+"Pope Victor III"
+]
+},
+{
+"id": "8f8c2464-2d79-4bdc-bee6-2cf6f323a57c",
+"nome": "S. José de Cupertino",
+"data": "18/9",
+"item": "Q313807",
+"rotulos": "Josef von Copertino / Joseph of Cupertino / José de Cupertino / Joseph de Cupertino",
+"q": [
+"Joseph of Cupertino"
+]
+},
+{
+"id": "e0b72c62-a366-45b6-a5bd-d784ce6126bd",
+"nome": "S. Efigênia",
+"data": "21/9",
+"item": "Q5382216",
+"rotulos": "Iphigénie / Efigenie von Ethiopien / Ephigenia of Ethiopia / Efigenia de Etiopía",
+"q": [
+"Saint Iphigenia"
+]
+},
+{
+"id": "eb2416dd-f19a-41a3-9928-0eab2ab541ca",
+"nome": "S. Emérita, mártir, na via Ostiense",
+"data": "22/9",
+"item": "Q54573704",
+"rotulos": "Emerita / Emerita de Roma / Emérita / Émérite (sainte)",
+"q": []
+},
+{
+"id": "7e8f218b-c7ce-4edb-92fa-05201fd93ede",
+"nome": "S. Basila, mártir, na via Salária Antiga",
+"data": "22/9",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "362e3bc5-b0fb-4cfa-b7b0-db832366863e",
+"nome": "SS. Adolfo e João, mártires em Córdova",
+"data": "27/9",
+"item": null,
+"rotulos": "",
+"q": [
+"Adolphus and John of Cordoba"
+]
+},
+{
+"id": "c7ac64f9-0be1-433e-868a-a9b46cd70a88",
+"nome": "S. Nilo, abade, fundador do mosteiro de Grottaferrata",
+"data": "26/9",
+"item": "Q171807",
+"rotulos": "Nilus der Jüngere / Nilus of Rossano / Saint Nilus the Younger / San Nilo",
+"q": [
+"Nilus the Younger"
+]
+},
+{
+"id": "04b2af96-2199-4cbe-ae12-28c4327ddedf",
+"nome": "S. Pedro Julião Eymard, sacerdote Fundador dos Sacramentinos",
+"data": "2/8",
+"item": "Q560994",
+"rotulos": "Pierre Eymard / Pierre-Julien Eymard / Saint Peter Julian Eymard, SSS / Pierre Julien Eymard",
+"q": [
+"Peter Julian Eymard"
+]
+},
+{
+"id": "fc81358f-afba-4b20-81a3-0922202e5711",
+"nome": "SS. Sete irmãos mártires Macabeus",
+"data": "1/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Maccabean martyrs",
+"Seven Maccabees"
+]
+},
+{
+"id": "ad04a82e-76e2-4e18-9532-caa4f6f02cc1",
+"nome": "S. Pedro Fabro, presbítero jesuíta",
+"data": "1/8",
+"item": "Q454814",
+"rotulos": "San Pedro Fabro / Saint Pierre Favre / Piero Faber / Peter Faber",
+"q": [
+"Peter Faber"
+]
+},
+{
+"id": "b3cbe4d6-4e64-4a45-a162-84d60e14587f",
+"nome": "B. Nicolau de Furca Palena, presbítero da Ordem de S. Jerônimo",
+"data": "29/9",
+"item": null,
+"rotulos": "",
+"q": [
+"Nicola da Forca Palena"
+]
+},
+{
+"id": "981854d2-b925-4c8f-8c21-ed6e4f7851df",
+"nome": "S. Simão, conde de Crépy",
+"data": "30/9",
+"item": "Q176550",
+"rotulos": "Simon von Crépy / Simon de Crépy / San Simone di Crépy / Simon comes Crespeiensis",
+"q": [
+"Simon de Crépy"
+]
+},
+{
+"id": "bab8ce91-ea20-418e-8923-1f03d48daa2c",
+"nome": "S. Lídia, discípula de S. Paulo",
+"data": "3/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Lydia of Thyatira"
+]
+},
+{
+"id": "a3e59bd6-cbc3-4fd8-b1e2-4cd3875adf2e",
+"nome": "S. Senador, mártir de Albano",
+"data": "26/9",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "98cb216b-6ea7-459a-8a5e-fd26dca7f872",
+"nome": "SS. Lourenço e Companheiros, mártires",
+"data": "28/9",
+"item": null,
+"rotulos": "",
+"q": [
+"Lorenzo Ruiz"
+]
+},
+{
+"id": "47f382b3-4b58-4ba4-b067-86fe10ad41bf",
+"nome": "SS. Justino e Crescenciano, mártires, na via Tiburtina",
+"data": "4/8",
+"item": "Q21208893",
+"rotulos": "Crescentianus, Iustinus et socii / Crescentius och Justinus / Justino y Crescencio / Giustino e Crescenzione",
+"q": []
+},
+{
+"id": "226fe940-eb19-4bc4-949a-48c81332d63b",
+"nome": "S. Maria de Mattias, virgem, fund. das Irmãs da Adoração do Preciosíssimo Sangue",
+"data": "20/8",
+"item": "Q290866",
+"rotulos": "De Mattias / Maria Matilda De Mattias / Maria de Mattias / Maria De Mattias",
+"q": [
+"Maria De Mattias"
+]
+},
+{
+"id": "df7aa4b2-841f-4d0d-beaa-6df0d9d174e1",
+"nome": "S. Cassiano, mártir",
+"data": "13/8",
+"item": "Q45182",
+"rotulos": "Cassianus / San Cassiano / Cassian von Imola / Cassianus von Imola",
+"q": [
+"Cassian of Imola"
+]
+},
+{
+"id": "3648e92c-8dbe-4d0e-822f-69f34e0ddc16",
+"nome": "Santo Alfredo, Bispo",
+"data": "14/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Altfrid of Hildesheim"
+]
+},
+{
+"id": "de63f7bf-c1ec-4fd3-87a1-c786586d26d6",
+"nome": "S. Filipe Benício, presbítero dos Servos de Maria",
+"data": "22/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Philip Benizi"
+]
+},
+{
+"id": "0a4f31ff-3cc7-44e8-85e7-0740c4539c7d",
+"nome": "SS. Abúndio e Ireneu, mártires, na via Tiburtina",
+"data": "23/8",
+"item": "Q4670633",
+"rotulos": "Abundius und Irenaeus / Abundius and Irenaeus / Abundio y Ireneo / Abundius et Irénée",
+"q": []
+},
+{
+"id": "de3d3f6a-2d89-43b2-8c0d-746485a0462d",
+"nome": "S. Sisto III, papa",
+"data": "19/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Sixtus III"
+]
+},
+{
+"id": "40f9bcad-fe54-4650-a21c-0308f5d52970",
+"nome": "S. Timóteo, mártir romano, na via Ostiense",
+"data": "22/8",
+"item": null,
+"rotulos": "Symphorian und Timotheos / Symphorian and Timotheus / Sinforiano y Timoteo / Symphorien et Timothée",
+"q": [
+"Saint Timothy martyr Rome"
+]
+},
+{
+"id": "89867b33-4aa8-408c-8c43-ebec8df9482a",
+"nome": "SS. Ciríaco e Arquelau, mártires de Óstia",
+"data": "23/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Cyriacus Ostia"
+]
+},
+{
+"id": "ab8ef396-6353-4345-bf7f-f5a7daee830c",
+"nome": "S. Maximiliano mártir, na via Salária Antiga",
+"data": "26/8",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "41c303e4-2f5f-4c49-893e-2aaecb9ed465",
+"nome": "S. Hermes, mártir, na via Salária Antiga",
+"data": "28/8",
+"item": "Q1285522",
+"rotulos": "Hermes / Saint Hermes / Hermes de Grecia / Hermès de Rome",
+"q": []
+},
+{
+"id": "2d0b0b65-ade7-4034-8500-fdb6af20af5d",
+"nome": "SS. Júlio e Aarão, mártires da Bretanha",
+"data": "1/7",
+"item": "Q302972",
+"rotulos": "Aaron and Julius / Saints Julius and Aaron / Aarón y Julio / Santos Julio y Aarón",
+"q": []
+},
+{
+"id": "243cc2c8-3e84-473f-8ed2-6b23a26b48dd",
+"nome": "Festa de todos os Pontífices Romanos",
+"data": "7/7",
+"item": null,
+"rotulos": "",
+"q": []
+},
+{
+"id": "325836e6-01de-4486-adff-c205c49b5a7a",
+"nome": "S. Félix, mártir, na via Portuense",
+"data": "29/7",
+"item": "Q19999860",
+"rotulos": "Félix de Roma / Felix of Rome / San Félix",
+"q": []
+},
+{
+"id": "4dfe2e1c-9729-4579-a5ab-75fa9ab02d11",
+"nome": "S. Pamáquio, senador romano",
+"data": "30/8",
+"item": "Q940860",
+"rotulos": "Pammachius / St Pammachius / Saint Pammachius / Pamaquio",
+"q": [
+"Pammachius"
+]
+},
+{
+"id": "12a3d87a-fe94-42ba-bc5d-fe804f583576",
+"nome": "S. Símaco, papa",
+"data": "19/7",
+"item": "Q160935",
+"rotulos": "Pope Symmachus / Papa Simaco / Papa Símaco / San Simaco",
+"q": [
+"Pope Symmachus"
+]
+},
+{
+"id": "72f12ffd-7d20-4337-9092-a183ec81b160",
+"nome": "SS. Joaquim e Ana, pais da Imaculada Virgem Mãe de Deus",
+"data": "26/7",
+"item": null,
+"rotulos": "",
+"q": [
+"Meeting at the Golden Gate painting"
+]
+},
+{
+"id": "1049d530-a8d5-4956-983e-1161e7b8471c",
+"nome": "São José Operário",
+"data": "1/5",
+"item": "Q128267",
+"rotulos": "Giuseppe / Saint Joseph / Iosephus / São José",
+"q": [
+"Saint Joseph carpenter painting"
+]
+},
+{
+"id": "4c757a0d-34e7-495a-beda-c287c59a593e",
+"nome": "Nossa Senhora do Carmo",
+"data": "16/7",
+"item": "Q1065053",
+"rotulos": "Santa Maria del Carmine / Nuestra Señora del Carmen / Nuestra Senora del Carmen / Nuestra Senora del Monte Carmelo",
+"q": [
+"Our Lady of Mount Carmel painting"
+]
+},
+{
+"id": "2aa76777-cd17-4556-9e31-5ecc55fdd84a",
+"nome": "Todos os Santos",
+"data": "1/11",
+"item": null,
+"rotulos": "",
+"q": [
+"All Saints Day painting"
+]
+},
+{
+"id": "82bafd65-9f87-4d3f-b611-c69b320eb212",
+"nome": "S. Pascoal Bailão, leigo franciscano, padroeiro das Associações Eucarísticas",
+"data": "17/5",
+"item": "Q534691",
+"rotulos": "Pascoal Bailão / Paschal Baylon / Paschalis Baylon / Pascual Bailón",
+"q": [
+"Paschal Baylon"
+]
+},
+{
+"id": "a305a8eb-c52b-4ea0-ba58-9ebcc6623237",
+"nome": "S. Antônio Maria Gianelli, bispo de Bobbio, fundador das Filhas de Maria Santíssima do Horto",
+"data": "7/6",
+"item": "Q521405",
+"rotulos": "Antonius Maria Gianelli / Antonio Maria Gianelli / Sant'Antonio Maria Gianelli / Antony Gianelli",
+"q": [
+"Antonio Maria Gianelli"
+]
+},
+{
+"id": "b6ce857d-beb6-43dd-97c0-1723a58c6181",
+"nome": "Nossa Senhora Aparecida",
+"data": "12/10",
+"item": "Q2469225",
+"rotulos": "Nossa Senhora Aparecida / Nuestra Senora Aparecida / Nuestra Señora Aparecida / Nuestra Senora de la Concepcion Aparecida",
+"q": [
+"Nossa Senhora Aparecida"
+]
+},
+{
+"id": "e63dade6-ee95-43a4-99a1-5207933769d0",
+"nome": "S. Antônio Maria Pucci, presbítero",
+"data": "12/1",
+"item": "Q603294",
+"rotulos": "Antony Mary Pucci / Eustachio Pucci / Sant'Antonio Maria Pucci / Antonio Maria Pucci",
+"q": [
+"Antonio Maria Pucci"
+]
+},
+{
+"id": "9308dd27-c16b-44d8-b911-d189db3e60df",
+"nome": "S. João de Kenty, sacerdote",
+"data": "23/12",
+"item": null,
+"rotulos": "",
+"q": [
+"John Cantius"
+]
+},
+{
+"id": "e66d74e1-7cb5-4c08-b727-8c2a5dbe76df",
+"nome": "S. Bruno da Calábria, presbítero, fundador da Ordem dos Cartuxos",
+"data": "6/10",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Bruno of Cologne painting"
+]
+},
+{
+"id": "f603aac1-0b63-45eb-84e1-577d33250ff7",
+"nome": "S. Lino, papa",
+"data": "23/9",
+"item": "Q47144",
+"rotulos": "Linu / San Lino / Papst Linus / Paus Linus",
+"q": [
+"Pope Linus"
+]
+},
+{
+"id": "bbee9aee-4d25-4a25-b973-8ec282dccad1",
+"nome": "S. Casimiro, padroeiro da Lituânia",
+"data": "4/3",
+"item": "Q312057",
+"rotulos": "Kasimir / Saint Casimir / Casimiro / Heiliger Kasimir",
+"q": [
+"Saint Casimir painting"
+]
+},
+{
+"id": "97fd789a-d103-4728-b9c3-0702e57890a1",
+"nome": "S. Simplício, papa",
+"data": "10/3",
+"item": "Q168741",
+"rotulos": "Simplicio / Simplicius / Simplice / papa Simplicio",
+"q": [
+"Pope Simplicius"
+]
+},
+{
+"id": "2db62ad0-aba3-49cd-b96f-2891ba14cd40",
+"nome": "S. Nicolau de Flüe, padroeiro da Suíça",
+"data": "21/3",
+"item": "Q115550",
+"rotulos": "Niklaus von Flüe / Nicholas of Flüe / Nicolás de Flüe / Nicolas de Flue",
+"q": [
+"Niklaus von Flüe"
+]
+},
+{
+"id": "76e3025c-0db9-4cc9-b2fd-b98473c9984a",
+"nome": "S. Patrício bispo, apóstolo da Irlanda",
+"data": "17/3",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Patrick stained glass"
+]
+},
+{
+"id": "e1dd25eb-c5e5-4280-af9b-4c674d85fa99",
+"nome": "SS. Basílio Magno e Gregório Nazianzeno, bispos e doutores da Igreja",
+"data": "2/1",
+"item": "Q44258",
+"rotulos": "Saint Basil the Great / San Basilio / Basil the Great / Basileios der Große",
+"q": [
+"Basil the Great",
+"Gregory of Nazianzus"
+]
+},
+{
+"id": "99f5b7e7-ab12-4fca-884e-4dca37c0a36f",
+"nome": "S. Ângela de Folinho, religiosa franciscana",
+"data": "4/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Angela of Foligno"
+]
+},
+{
+"id": "33471f59-91ac-4fbd-91cb-74aa453c476c",
+"nome": "S. Marcelo I, papa e mártir",
+"data": "16/1",
+"item": "Q102131",
+"rotulos": "Marcellus / Pope Marcel I / Pope Marcellus I / san Marcelo I",
+"q": [
+"Pope Marcellus I"
+]
+},
+{
+"id": "116f9478-1f4e-40cb-b39f-94125515c2a6",
+"nome": "Conversão do apóstolo Paulo",
+"data": "25/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Conversion of Saint Paul painting"
+]
+},
+{
+"id": "f6bc0158-5b7f-49be-a906-fec926f0b97d",
+"nome": "SS. Timóteo e Tito, bispos, discípulos de S. Paulo",
+"data": "26/1",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Timothy",
+"Saint Titus bishop"
+]
+},
+{
+"id": "225c7285-3152-4328-9e6d-686d279e4289",
+"nome": "S. Anscário (Oscar), bispo de Hamburgo e Brema, apóstolo da Escandinávia",
+"data": "3/2",
+"item": "Q110299",
+"rotulos": "Ansgar / Ascario de Amiens / Anschaire de Brême / Oscar di Brema",
+"q": [
+"Ansgar"
+]
+},
+{
+"id": "aa41ee44-12ea-4b63-a73c-108fb0228150",
+"nome": "SS. Paulo Miki presbítero e Companheiros, mártires japoneses",
+"data": "6/2",
+"item": "Q578963",
+"rotulos": "Märtyrer von Nagasaki / Twenty-six Martyrs of Japan / 26 mártires de Japón / martyrs du Japon",
+"q": [
+"Paulo Miki",
+"Twenty-six Martyrs of Japan"
+]
+},
+{
+"id": "688d6758-135e-45bb-a52a-94647b5c38c8",
+"nome": "S. Josefina Bakhita, virgem",
+"data": "8/2",
+"item": "Q236030",
+"rotulos": "Josephine Bakhita / Josefina Bakhita / Joséphine Bakhita / Giuseppina Bakhita",
+"q": [
+"Josephine Bakhita"
+]
+},
+{
+"id": "d9cd5bab-f830-4223-ab7a-cd63ce7e7b22",
+"nome": "S. Escolástica virgem, irmã de S. Bento",
+"data": "10/2",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Scholastica painting"
+]
+},
+{
+"id": "20ee84a2-7ef4-47d3-a841-00c416e68de2",
+"nome": "S. Leão de Catânia, bispo",
+"data": "20/2",
+"item": null,
+"rotulos": "",
+"q": [
+"Leo of Catania"
+]
+},
+{
+"id": "59843fba-97bc-4a51-a81d-ddc4ad23924d",
+"nome": "S. Zenão, mártir, na via Ápia",
+"data": "14/2",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Zeno martyr"
+]
+},
+{
+"id": "c834627d-836b-47ac-95ba-4bcf81648da1",
+"nome": "B. João de Fiesole (Fra Angélico), sacerdote dominicano",
+"data": "18/2",
+"item": null,
+"rotulos": "",
+"q": [
+"Fra Angelico self portrait",
+"Fra Angelico portrait"
+]
+},
+{
+"id": "9a983d87-ba7a-42bb-a5d8-f388fd373d49",
+"nome": "S. Hilário, papa",
+"data": "28/2",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Hilarius"
+]
+},
+{
+"id": "a3558e2a-d8bd-4317-a353-4605f7b3d27d",
+"nome": "S. Vicente Ferrer, presbítero dominicano",
+"data": "5/4",
+"item": "Q317131",
+"rotulos": "Vincent Ferrier / Vicente Ferrer / Vincent Ferrer / Saint Vincent Ferrer",
+"q": [
+"Vincent Ferrer painting"
+]
+},
+{
+"id": "3a8eda0a-ccd8-4d2e-9e4d-9426301c73cc",
+"nome": "S. Júlio I, papa",
+"data": "12/4",
+"item": "Q103101",
+"rotulos": "Julius / Iulius I / Ivlivs / Pope Julius I",
+"q": [
+"Pope Julius I"
+]
+},
+{
+"id": "f3cfd4a0-b919-4815-83ff-5b8898cb1833",
+"nome": "S. Martinho I, papa e mártir",
+"data": "13/4",
+"item": "Q172390",
+"rotulos": "Pope Martin / Papst Martin I. / St. Martin der Bekenner / Pope Martin I",
+"q": [
+"Pope Martin I"
+]
+},
+{
+"id": "bc8e7eb1-4ea5-4583-8d77-08f512817855",
+"nome": "S. Leão IX, papa",
+"data": "19/4",
+"item": "Q58559",
+"rotulos": "Leo IX. / Leo IX / León IX / Léon IX",
+"q": [
+"Pope Leo IX"
+]
+},
+{
+"id": "d4bc86d8-9854-49fb-85b8-aec04d4054ce",
+"nome": "S. Núncio Sulprício, jovem operário de Nápoles",
+"data": "5/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Nunzio Sulprizio"
+]
+},
+{
+"id": "e80b9f31-3552-4d32-96c8-62e0baffa62e",
+"nome": "S. Alexandre, bispo de Jerusalém e mártir",
+"data": "16/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Alexander of Jerusalem"
+]
+},
+{
+"id": "3f6918a6-9902-42a9-84ee-c8fe79ac993a",
+"nome": "s. Petronila",
+"data": "30/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Saint Petronilla"
+]
+},
+{
+"id": "fbc21981-61af-467c-81ca-6f7ef5c3d110",
+"nome": "S. João I, papa e mártir",
+"data": "18/5",
+"item": "Q160916",
+"rotulos": "John I / Johannes I. / Juan I / Jean 1er",
+"q": [
+"Pope John I"
+]
+},
+{
+"id": "ac48657c-18ab-4597-8154-1b24f6cceff6",
+"nome": "S. Urbano I, papa",
+"data": "19/5",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Urban I"
+]
+},
+{
+"id": "a978beb9-1cd0-432f-add9-d7bdff238b7a",
+"nome": "S. Vitaliano, papa",
+"data": "27/1",
+"item": "Q199612",
+"rotulos": "Vitalianus / Vitaliano / Pope Vitalian / San Vitaliano",
+"q": [
+"Pope Vitalian"
+]
+},
+{
+"id": "bc1dd5f9-3aee-45f2-ac08-7decc2b6b8e6",
+"nome": "SS. Carlos Lwanga e Companheiros, mártires de Uganda",
+"data": "3/6",
+"item": "Q1094107",
+"rotulos": "Märtyrer von Uganda / Uganda Martyrs / Mártires de Uganda / martyrs de l'Ouganda",
+"q": [
+"Uganda Martyrs"
+]
+},
+{
+"id": "516df414-c00e-4832-a5a7-6ea4a86e3092",
+"nome": "S. Pascoal I, papa",
+"data": "11/2",
+"item": "Q103308",
+"rotulos": "Paschalis I. / Paschal I / Pascual I / Pascal Ier",
+"q": [
+"Pope Paschal I"
+]
+},
+{
+"id": "7b2c8724-3e76-4411-a296-2c1b835b5e9f",
+"nome": "S. Leão III, papa",
+"data": "12/6",
+"item": "Q132086",
+"rotulos": "Leo III / Leo III. / León III / Léon III",
+"q": [
+"Pope Leo III"
+]
+},
+{
+"id": "84fdad1a-d7b5-4cd4-bf60-0ce6b8a9ea71",
+"nome": "SS. Ciríaco e Julita, mártires",
+"data": "16/6",
+"item": null,
+"rotulos": "",
+"q": [
+"Quiricus and Julietta"
+]
+},
+{
+"id": "393778b0-3509-4615-bcda-9d30132894be",
+"nome": "S. Bonifácio IV, papa",
+"data": "8/5",
+"item": "Q170505",
+"rotulos": "Boniface IV / Bonifatius IV. / Bonifacio IV / papa Bonifacio IV",
+"q": [
+"Pope Boniface IV"
+]
+},
+{
+"id": "aaffae5b-3305-4ca2-93c1-3d710b2db627",
+"nome": "S. João Fisher, bispo de Rochester, mártir inglês",
+"data": "22/6",
+"item": null,
+"rotulos": "",
+"q": [
+"John Fisher Holbein"
+]
+},
+{
+"id": "877ab87d-6f16-463a-a009-87b4c1324f24",
+"nome": "S. Inocêncio V, papa",
+"data": "22/6",
+"item": "Q170871",
+"rotulos": "Innozenz V. / Innocent V / Inocencio V / papa Innocenzo V",
+"q": [
+"Pope Innocent V"
+]
+},
+{
+"id": "4a075c06-335e-4603-bf71-3d241e659323",
+"nome": "SS. Zacarias e Isabel, pais de S. João Batista",
+"data": "23/6",
+"item": null,
+"rotulos": "",
+"q": [
+"Zechariah and Elizabeth"
+]
+},
+{
+"id": "c05c7153-dd28-4a15-9866-e8b061cc4190",
+"nome": "B. Eugênio III, papa",
+"data": "8/7",
+"item": "Q167610",
+"rotulos": "Eugen III. / Eugene III / Eugenio III / Eugène III",
+"q": [
+"Pope Eugene III"
+]
+},
+{
+"id": "36d1b5fe-0a56-4e85-8b7e-a6748dcd68b9",
+"nome": "S. Cirilo de Alexandria, bispo e doutor da Igreja",
+"data": "27/6",
+"item": "Q44079",
+"rotulos": "Kyrill von Alexandria / Cyril of Alexandria / Cirilo de Alejandría / Cyrille d'Alexandrie",
+"q": [
+"Cyril of Alexandria"
+]
+},
+{
+"id": "f3945aca-ceac-441b-be9b-c0bbc1b2ad92",
+"nome": "S. Cristina, virgem e mártir",
+"data": "24/7",
+"item": "Q193507",
+"rotulos": "Christophorus / São Cristóvão / Saint Christopher / Cristóbal de Licia",
+"q": [
+"Saint Christina of Bolsena"
+]
+},
+{
+"id": "c7bf422e-e4b3-4dd4-9b1b-c537bed355f4",
+"nome": "S. Cristóvão, mártir",
+"data": "25/7",
+"item": "Q193507",
+"rotulos": "São Cristovão / Christophorus / São Cristóvão / Saint Christopher",
+"q": [
+"Saint Christopher painting"
+]
+},
+{
+"id": "2380edef-a08a-4635-9d65-62dadad4fe29",
+"nome": "S. Eutiquiano papa, no cemitério de Calisto",
+"data": "8/12",
+"item": "Q162972",
+"rotulos": "Eutychianus / Eutychian / Eutiquiano / Eutychien",
+"q": [
+"Pope Eutychian"
+]
+},
+{
+"id": "50e58fd1-73a7-410d-8c2e-8f2eadc57b31",
+"nome": "S. Celestino I, papa",
+"data": "27/7",
+"item": "Q160922",
+"rotulos": "Caelestin I. / Cölestin I. / Caelestinus I / Pope Celestine I",
+"q": [
+"Pope Celestine I"
+]
+},
+{
+"id": "b6d663a2-a1a7-4116-bae7-76b64fd316cd",
+"nome": "S. Gregório III, papa",
+"data": "10/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Gregory III"
+]
+},
+{
+"id": "d8d91853-8e95-413b-907a-661de95a33f2",
+"nome": "S. Malaquias, profeta",
+"data": "18/12",
+"item": null,
+"rotulos": "",
+"q": [
+"Prophet Malachi"
+]
+},
+{
+"id": "df923b31-6220-4739-8680-95fc01ef6149",
+"nome": "S. Anastásio, papa",
+"data": "19/12",
+"item": "Q134682",
+"rotulos": "Anastasius I. / Anastasius I / Anastasio I / Anastase Ier",
+"q": [
+"Pope Anastasius I"
+]
+},
+{
+"id": "c07f726c-c89d-4c16-9d66-8c4ca029a80f",
+"nome": "S. Dionísio, papa",
+"data": "26/12",
+"item": "Q131162",
+"rotulos": "Dionysius / Denys / Dionisio / papa Dionisio",
+"q": [
+"Pope Dionysius"
+]
+},
+{
+"id": "d718602c-3182-4ed6-ac8b-125dad6e50e2",
+"nome": "S. Tomás Becket, bispo de Cantuária, mártir",
+"data": "29/12",
+"item": "Q192236",
+"rotulos": "Thomas of Canterbury / Saint Thomas Becket / Thomas Becket / Thomas Cantuariensis",
+"q": [
+"Thomas Becket"
+]
+},
+{
+"id": "ce9e88dd-3750-4fcc-9850-b5841ab8a194",
+"nome": "S. Macuto",
+"data": "15/11",
+"item": "Q468195",
+"rotulos": "Saint Maclou / Saint Malo / San Macuto / Malo",
+"q": [
+"Saint Malo bishop"
+]
+},
+{
+"id": "9eb158f1-7e9f-4b28-a69d-34d02f7115c6",
+"nome": "S. Matilde (Mechtilde), virgem",
+"data": "19/11",
+"item": "Q68598",
+"rotulos": "Mechthild von Hackeborn / Mechtilde / Matilde de Hackeborn / Mechtilde de Hackeborn",
+"q": [
+"Mechthild of Hackeborn"
+]
+},
+{
+"id": "e41ba08d-5ab8-4409-9799-cc5e842a1fdc",
+"nome": "S. Virgílio, bispo de Salzburgo",
+"data": "27/11",
+"item": "Q561251",
+"rotulos": "Vergilius of Salzburg / Virgil von Salzburg / Virgilio de Salzburgo / Virgile de Salzbourg",
+"q": [
+"Virgil of Salzburg"
+]
+},
+{
+"id": "ea41d9e4-2a34-48e7-b699-ffe928ceedc7",
+"nome": "S. Zenão, mártir de Nicomédia",
+"data": "2/9",
+"item": "Q101704362",
+"rotulos": "Zenon von Nikomedia / Zénon de Bithynie / Zenon von Nikomedien / Zenon of Nicomedia",
+"q": []
+},
+{
+"id": "ca2ab250-614c-4d51-9c7f-38c8620b08a3",
+"nome": "San Rafael Arcanjo",
+"data": "29/9",
+"item": "Q98782976",
+"rotulos": "Michael, Gabriel and Raphael, archangels / Miguel, Gabriel y Rafael, arcángeles / santi Michele, Gabriele e Raffaele Arcangeli",
+"q": [
+"Archangel Raphael painting",
+"Tobias and the Angel painting"
+]
+},
+{
+"id": "4daa24ae-171b-4811-90d6-aa2afae091f4",
+"nome": "S. Estêvão I, papa",
+"data": "2/8",
+"item": "Q134666",
+"rotulos": "Stephen I / Stephan I. / Étienne Ier / Esteban I",
+"q": [
+"Pope Stephen I"
+]
+},
+{
+"id": "4c1ab206-7be0-496f-a25f-84cd27173abb",
+"nome": "S. Hormisdas, papa",
+"data": "6/8",
+"item": "Q160931",
+"rotulos": "Hormisdas / papa Ormisda / Papa Hormisdas / Pope Hormisdas",
+"q": [
+"Pope Hormisdas"
+]
+},
+{
+"id": "a46de623-3834-4a35-8088-98814c346448",
+"nome": "S. Eusébio, papa e mártir",
+"data": "17/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Pope Eusebius"
+]
+},
+{
+"id": "39fd00f3-f6a6-41ba-b23d-d3e8f34b1b30",
+"nome": "S. Tarcísio, romano, mártir da Eucaristia",
+"data": "15/8",
+"item": "Q370210",
+"rotulos": "yo / Tarcisius / Tarcísio / Tarzisius",
+"q": [
+"Saint Tarcisius"
+]
+},
+{
+"id": "105ba651-518f-415c-bb24-247bf421d60c",
+"nome": "S. Helena, imperatriz",
+"data": "18/8",
+"item": "Q170164",
+"rotulos": "Elena / Flavia Iulia Helena / Heilige Helena / Saint Helena",
+"q": [
+"Saint Helena painting"
+]
+},
+{
+"id": "2045842f-13f4-441b-8e66-c3104837fdd4",
+"nome": "S. Emilìa de Vialar",
+"data": "24/8",
+"item": "Q440056",
+"rotulos": "Vialar / Anne Marguerite Adelaide Emilie de Vialar / Emilie de Vialar / Émilie de Vialar",
+"q": [
+"Emily de Vialar"
+]
+},
+{
+"id": "01132a6b-345f-4d2c-ad77-b50d9b480cd6",
+"nome": "SS. Félix sacerdote, e Adauto, mártires, na via Ostiense",
+"data": "30/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Felix and Adauctus"
+]
+},
+{
+"id": "f6cf251b-1951-4d7f-b226-bbf01f0a6a1f",
+"nome": "SS. José de Arimateia e Nicodemos, discípulos do Senhor",
+"data": "31/8",
+"item": null,
+"rotulos": "",
+"q": [
+"Joseph of Arimathea",
+"Nicodemus"
+]
+},
+{
+"id": "7dcc273a-6f84-4303-87bb-7245ad8f2ad8",
+"nome": "S. Marta, discípula do Senhor",
+"data": "29/7",
+"item": "Q232453",
+"rotulos": "santa Marta / santa Marta di Betania / Marta de Betânia / Marta, irmã de Lázaro",
+"q": [
+"Saint Martha painting"
+]
+},
+{
+"id": "782141f2-20ce-4d85-afb0-a45439e7831f",
+"nome": "S. Lázaro",
+"data": "29/7",
+"item": "Q232453",
+"rotulos": "santa Marta / santa Marta di Betania / Marta de Betânia / Marta, irmã de Lázaro",
+"q": [
+"Raising of Lazarus painting"
+]
+},
+{
+"id": "b02af849-b236-4c90-a4e1-7ebf93e6b527",
+"nome": "S. Beatriz",
+"data": "29/7",
+"item": "Q19202889",
+"rotulos": "Beatrix / Beatriz de Roma / Béatrice de Rome / Viatrice di Roma",
+"q": [
+"Saint Beatrix martyr"
+]
+},
+{
+"id": "d62e6b51-1516-4b8a-a1de-06278d2eb336",
+"nome": "S. Eugênio I, papa",
+"data": "2/6",
+"item": "Q199498",
+"rotulos": "Eugene / San Eugenio / Pope Eugene / Pope Eugene I",
+"q": [
+"Pope Eugene I"
+]
+},
+{
+"id": "c9ae8b26-d6c4-46f7-8b34-6d6303b601ba",
+"nome": "S. José operário, esposo da Santíssima Virgem Maria, protetor dos trabalhadores",
+"data": "1/5",
+"item": "Q128267",
+"rotulos": "Giuseppe / Saint Joseph / Iosephus / São José",
+"q": [
+"Joseph the carpenter workshop painting"
+]
+},
+{
+"id": "df9cd478-7916-4732-9e95-99c3d7569ca5",
+"nome": "SS. Sete Fundadores da Ordem dos Servitas de Nossa Senhora, entre os quais S. Aleixo Falconieri",
+"data": "17/2",
+"item": "Q1057218",
+"rotulos": "Sieben heilige Gründer des Servitenordens / Seven Holy Founders of the Servite Order / Siete Santos Fundadores / Sette santi fondatori",
+"q": [
+"Seven Holy Founders Servites"
+]
+},
+{
+"id": "ac1c368b-69c0-45cb-baab-74edcbc7f4dd",
+"nome": "S. José Pignatelli, presbítero jesuíta",
+"data": "15/11",
+"item": null,
+"rotulos": "",
+"q": [
+"Joseph Pignatelli"
+]
+},
+{
+"id": "70b9258b-b0d9-4241-a44c-6bfacdb46fae",
+"nome": "S. Leonardo de Porto Maurício, sacerdote franciscano",
+"data": "26/11",
+"item": "Q119289",
+"rotulos": "Leonhard von Porto Maurizio / Leonard of Port Maurice / Leonardo de Porto Maurizio / Léonard de Port-Maurice",
+"q": [
+"Leonard of Port Maurice"
+]
+},
+{
+"id": "5ae998cb-ba00-46cb-a0cc-b820973c91aa",
+"nome": "S. Maria Bertila Boscardin, virgem de Treviso",
+"data": "20/10",
+"item": "Q461646",
+"rotulos": "Boscardin / Anna Francesca Boscardin / Saint Maria Bertilla Boscardin / María Bertila Boscardin",
+"q": [
+"Maria Bertilla Boscardin"
+]
+},
+{
+"id": "493d313b-c725-4f64-88f2-6c894d34e4e1",
+"nome": "S. Silvestre, abade, fundador dos Silvestrinos",
+"data": "26/11",
+"item": "Q771520",
+"rotulos": "Silvestro Guzzolini / Sylvester Gozzolini / Silvestre Guzzolini / Sylvestre Guzzolini",
+"q": [
+"Sylvester Gozzolini"
+]
+}
+]

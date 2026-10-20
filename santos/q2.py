@@ -1,0 +1,86 @@
+import json,re
+r=json.load(open('santos/resto.json'))
+ERRADO={'Q81506','Q2578734','Q710764','Q559236','Q3028232','Q2754114','Q6756480','Q319319','Q3992876','Q328736','Q2562473','Q3950853','Q18729316','Q122222699','Q776193','Q619457'}
+# consultas em inglês/latim por início do nome (pt)
+Q={
+'Epifania':['Adoration of the Magi painting'],'Apresentação do Senhor':['Presentation of Jesus at the Temple painting'],
+'Visitação':['Visitation Mary Elizabeth painting'],'São Pedro e São Paulo':['Saints Peter and Paul painting'],
+"Sant'Ana e São Joaquim":['Saint Joachim and Saint Anne painting'],'SS. Joaquim e Ana':['Meeting at the Golden Gate painting'],
+'Transfiguração':['Transfiguration of Jesus painting'],'Exaltação da Santa Cruz':['Exaltation of the Holy Cross painting'],
+'Finados':['All Souls Day painting'],'COMEMORAÇÃO DE TODOS OS FIÉIS':['Souls in Purgatory painting'],'Natal do Senhor':['Nativity of Jesus painting'],
+'TODOS OS SANTOS':['All Saints Day painting'],'Todos os Santos':['Adoration of the Trinity Dürer'],
+'S. Bom Ladrão':['Saint Dismas painting','Good Thief Dismas'],'Conversão do apóstolo Paulo':['Conversion of Saint Paul painting'],
+'SS. Timóteo e Tito':['Saint Timothy','Saint Titus bishop'],'S. Escolástica':['Saint Scholastica painting'],
+'S. Patrício':['Saint Patrick stained glass'],'Nossa Senhora de Lourdes':['Our Lady of Lourdes apparition Bernadette'],
+'Nossa Senhora do Carmo':['Our Lady of Mount Carmel painting'],'Nossa Senhora Aparecida':['Nossa Senhora Aparecida'],
+'São José Operário':['Saint Joseph carpenter painting'],'S. José operário':['Joseph the carpenter workshop painting'],
+'San Rafael':['Archangel Raphael painting','Tobias and the Angel painting'],'S. Cristina, virgem':['Saint Christina of Bolsena'],
+'S. Cristóvão':['Saint Christopher painting'],'S. Lázaro':['Raising of Lazarus painting'],'S. Marta':['Saint Martha painting'],
+'Festa de todos os Pontífices':[],'SS. Protomártires':['Martyrs of Rome Nero'],
+'SS. Sete irmãos':['Maccabean martyrs','Seven Maccabees'],'S. Martinha':['Saint Martina of Rome'],'S. Gala':['Saint Galla of Rome'],
+'SS. Mário, Marta':['Saints Marius and Martha'],'SS. Daniel, Samuel':['Daniel Fasanella martyrs Ceuta','Franciscan martyrs of Ceuta'],
+'S. Marino':['Saint Marinus San Marino'],'São Beano':['Saint Beanus'],'S. Cristina, mártir':['Christina of Persia'],
+'S. Marcos, papa':['Pope Mark','Marcus papa'],'S. Marcos, bispo':['Mark bishop of Jerusalem'],'S. Mauro mártir':['Saint Maurus martyr Rome'],
+'S. Dionísio, bispo':['Dionysius of Corinth'],'S. Apolônio':['Apollonius the Apologist'],'S. Pelágia':['Pelagia of Antioch'],
+'S. Saturnino, mártir na via':['Saint Saturninus Rome martyr'],'S. Timóteo, mártir':['Saint Timothy martyr Rome'],
+'S. Brígida':['Saint Brigid of Kildare'],'S. Quirino, mártir: seu':['Quirinus of Sescia','Quirinus of Siscia'],
+'S. Ruperto':['Saint Rupert of Salzburg painting'],'S. Águeda':['Saint Agatha painting'],'S. Isidro':['Isidore the Laborer painting'],
+'S. Telésforo':['Pope Telesphorus'],'S. Milcíades':['Pope Miltiades'],'S. Félix III':['Pope Felix III'],'S. Adriano III':['Pope Adrian III'],
+'S. Sisto III':['Pope Sixtus III'],'S. Gregório III':['Pope Gregory III'],'S. Gelásio':['Pope Gelasius I'],'S. Urbano I':['Pope Urban I'],
+'S. Hilário, papa':['Pope Hilarius'],'S. Eusébio, papa':['Pope Eusebius'],'S. Silvério':['Pope Silverius'],'São Silvério':['Pope Silverius'],
+'S. Pedro Celestino':['Pope Celestine V'],'S. Remígio':['Saint Remigius'],'S. Lourenço Justiniano':['Lorenzo Giustiniani'],
+'S. Catarina de Ricci':["Catherine de' Ricci"],'S. Maria do Egito':['Mary of Egypt'],'S. Roberto':['Robert of Molesme'],
+'S. José Moscati':['Giuseppe Moscati'],'S. Irene':['Saint Irene of Thessalonica'],'S. Maria Isabel Hesselblad':['Elisabeth Hesselblad'],
+'S. André Humberto':['André-Hubert Fournet'],'SS. Cristóvão de Magalhães':['Cristóbal Magallanes Jara'],
+'S. Rafaela':['Rafaela Porras y Ayllón'],'S. João de S. Facundo':['John of Sahagún'],'S. Miqueias':['Prophet Micah'],
+'S. Ezequiel':['Prophet Ezekiel painting'],'S. Malaquias':['Prophet Malachi'],'S. Guilherme':['William of Montevergine'],
+'S. João Diogo':['Juan Diego'],'S. João da Mata':['John of Matha'],'B. Jacinto Cormier':['Hyacinthe-Marie Cormier'],
+'S. Vilibrordo':['Saint Willibrord'],'S. Inês de Assis':['Agnes of Assisi'],'SS. Plácido e Mauro':['Saint Placidus Saint Maurus'],
+'S. Diego':['Didacus of Alcalá'],'Santo Odão':['Odo of Cluny'],'S. Tiago da Marca':['James of the Marches'],
+'S. Serafim':['Seraphin of Montegranaro'],'SS. João de Brébeuf':['Jean de Brébeuf'],'S. Guido':['Guy of Anderlecht'],
+'B. Boaventura de Barcelona':['Bonaventure of Barcelona'],'S. Lídia':['Lydia of Thyatira'],'SS. Lourenço e Companheiros':['Lorenzo Ruiz'],
+'Santo Alfredo':['Altfrid of Hildesheim'],'S. Filipe Benício':['Philip Benizi'],'S. José Pignatelli':['Joseph Pignatelli'],
+'S. João de Kenty':['John Cantius'],'S. Bruno da Calábria':['Saint Bruno of Cologne painting'],'S. Ângela de Folinho':['Angela of Foligno'],
+'S. Leão de Catânia':['Leo of Catania'],'S. Zenão, mártir, na via':['Saint Zeno martyr'],'B. João de Fiesole':['Fra Angelico self portrait','Fra Angelico portrait'],
+'S. Núncio':['Nunzio Sulprizio'],'S. Alexandre, bispo':['Alexander of Jerusalem'],'s. Petronila':['Saint Petronilla'],
+'SS. Ciríaco e Julita':['Quiricus and Julietta'],'S. João Fisher':['John Fisher Holbein'],'SS. Zacarias e Isabel':['Zechariah and Elizabeth'],
+'S. Cirilo de Alexandria':['Cyril of Alexandria'],'SS. José de Arimateia':['Joseph of Arimathea','Nicodemus'],
+'S. Pascoal Bailão':['Paschal Baylon'],'S. Antônio Maria Gianelli':['Antonio Maria Gianelli'],'S. Antônio Maria Pucci':['Antonio Maria Pucci'],
+'S. Casimiro':['Saint Casimir painting'],'S. Nicolau de Flüe':['Niklaus von Flüe'],'SS. Basílio':['Basil the Great','Gregory of Nazianzus'],
+'S. Anscário':['Ansgar'],'SS. Paulo Miki':['Paulo Miki','Twenty-six Martyrs of Japan'],'S. Josefina Bakhita':['Josephine Bakhita'],
+'S. Vicente Ferrer':['Vincent Ferrer painting'],'S. Leão IX':['Pope Leo IX'],'SS. Carlos Lwanga':['Uganda Martyrs'],
+'S. Tomás Becket':['Thomas Becket'],'S. Macuto':['Saint Malo bishop'],'S. Matilde (Mechtilde)':['Mechthild of Hackeborn'],
+'S. Virgílio':['Virgil of Salzburg'],'S. Helena':['Saint Helena painting'],'S. Beatriz':['Saint Beatrix martyr'],
+'SS. Sete Fundadores':['Seven Holy Founders Servites'],'S. Leonardo de Porto':['Leonard of Port Maurice'],'S. Maria Bertila':['Maria Bertilla Boscardin'],
+'S. Silvestre, abade':['Sylvester Gozzolini'],'S. Margarida da Escócia':['Saint Margaret of Scotland'],'S. Gregório Taumaturgo':['Gregory Thaumaturgus'],
+'S. Sirício':['Pope Siricius'],'S. Nicolau I':['Pope Nicholas I'],'SS. Dinís':['Saint Denis'],'S. Paulino, bispo de York':['Paulinus of York'],
+'S. Hilarião':['Hilarion'],'São Ceda':['Cedd'],'S. José de Cupertino':['Joseph of Cupertino'],'S. Efigênia':['Saint Iphigenia'],
+'S. Nilo':['Nilus the Younger'],'S. Pedro Julião Eymard':['Peter Julian Eymard'],'S. Pedro Fabro':['Peter Faber'],
+'S. Simão, conde':['Simon de Crépy'],'S. Cassiano':['Cassian of Imola'],'S. Pamáquio':['Pammachius'],'S. Símaco':['Pope Symmachus'],
+'S. Lino':['Pope Linus'],'S. Simplício':['Pope Simplicius'],'S. Marcelo I':['Pope Marcellus I'],'S. Júlio I':['Pope Julius I'],
+'S. Martinho I':['Pope Martin I'],'S. João I, papa':['Pope John I'],'S. Vitaliano':['Pope Vitalian'],'S. Pascoal I':['Pope Paschal I'],
+'S. Leão III':['Pope Leo III'],'S. Bonifácio IV':['Pope Boniface IV'],'S. Inocêncio V':['Pope Innocent V'],'B. Eugênio III':['Pope Eugene III'],
+'S. Eutiquiano':['Pope Eutychian'],'S. Celestino I':['Pope Celestine I'],'S. Anastásio, papa':['Pope Anastasius I'],'S. Dionísio, papa':['Pope Dionysius'],
+'S. Estêvão I':['Pope Stephen I'],'S. Hormisdas':['Pope Hormisdas'],'S. Tarcísio':['Saint Tarcisius'],'S. Eugênio I':['Pope Eugene I'],
+'S. Bento II':['Pope Benedict II'],'S. Leão II':['Pope Leo II'],'S. Gregório II':['Pope Gregory II'],'S. Gregório VII':['Pope Gregory VII'],
+'S. Agapito I':['Pope Agapetus I'],'S. Evaristo':['Pope Evaristus'],'S. Bonifácio I':['Pope Boniface I'],'B. Vítor III':['Pope Victor III'],
+'S. Félix I':['Pope Felix I'],'S. Maria Goretti':['Maria Goretti'],'S. Antônio Maria Zacarias':['Antonio Maria Zaccaria'],
+'S. Aleixo':['Saint Alexius of Rome'],'São Charles de Foucauld':['Charles de Foucauld'],'S. Isabel Ana Seton':['Elizabeth Ann Seton'],
+'S. Ângela Mérici':['Angela Merici'],'S. Maria Madalena de Pazzi':['Mary Magdalene de Pazzi'],'S. Margarida de Cortona':['Margaret of Cortona'],
+'S. Zita':['Saint Zita'],'S. Coleta':['Colette of Corbie'],'S. João Clímaco':['John Climacus'],'S. Vicente Pallotti':['Vincent Pallotti'],
+'S. Medardo':['Saint Medard'],'S. Gaspar':['Gaspare del Bufalo'],'S. Rosa Venerini':['Rosa Venerini'],'S. Paula Frassinetti':['Paola Frassinetti'],
+'B. Ana Maria Taigi':['Anna Maria Taigi portrait'],'S. Silas':['Saint Silas'],'S. Esdra':['Ezra scribe'],'S. Marcela':['Saint Marcella'],
+'S. João Ogilvie':['John Ogilvie'],'S. Lúcia Filippíni':['Lucia Filippini'],'S. Vicente Maria Strámbi':['Vincenzo Maria Strambi'],
+'S. João José da Cruz':['John Joseph of the Cross'],'S. Maria de Mattias':['Maria De Mattias'],'S. Emilìa':['Emily de Vialar'],
+'B. Maria de Jesus do Bom Pastor':['Franciszka Siedliska'],'S. Agostinha':['Agostina Pietrantoni'],'S. Bento Massarári':['Benedict the Moor'],
+}
+out=[]
+for x in r:
+    item=x['item'] if x['item'] not in ERRADO else None
+    qs=[]
+    for k,v in Q.items():
+        if x['nome'].startswith(k) or x['nome'].upper().startswith(k.upper()): qs=v; break
+    if not qs and item: qs=[]
+    out.append({**x,'item':item,'q':qs})
+json.dump(out,open('santos/resto2.json','w'),ensure_ascii=False,indent=0)
+print(sum(1 for o in out if o['q'] or o['item']), 'com busca;', [o['nome'][:40] for o in out if not o['q'] and not o['item']])
