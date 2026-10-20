@@ -29,6 +29,8 @@ function resumo(): Item[] {
   itens.push({ icone: Heart, titulo: "Consagração a Nossa Senhora", texto: dc ? `${dc} de 33 dias rezados` : "Ainda não começou", href: "/consagracao-a-nossa-senhora", cta: dc ? "Continuar" : "Conhecer" });
 
   const novenas: string[] = [];
+  // novenas rezadas pelo roteiro do artigo usam o endereço da página como nome
+  const nomeDoSlug = (id: string) => { const t = id.replace(/^novena-(a-|ao-|da-|de-|das-|pelas-)?/, "").split("-").slice(0, 5).join(" "); return t.charAt(0).toUpperCase() + t.slice(1); };
   let lectio = 0;
   try {
     for (const k of Object.keys(localStorage)) {
@@ -39,7 +41,7 @@ function resumo(): Item[] {
         const resto = k.slice("co-novena-".length);
         const id = resto.slice(0, -11);
         const n = NOVENAS.find((x) => x.id === id);
-        novenas.push(`${n ? n.nome.replace(/^Novena (a|ao|à|de) /, "") : "Novena"}: ${feitos} de 9 dias`);
+        novenas.push(`${n ? n.nome.replace(/^Novena (a|ao|à|de) /, "") : nomeDoSlug(id)}: ${feitos} de 9 dias`);
       } else if (k.startsWith("co-lectio-") && localStorage.getItem(k)) lectio++;
     }
   } catch {

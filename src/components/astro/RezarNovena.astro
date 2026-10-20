@@ -1,0 +1,246 @@
+---
+/**
+ * Roteiro da novena numa página só: escolhe o dia, reza na sequência
+ * (oração inicial, oração do dia, oração final e ladainha) e marca o dia como rezado.
+ * O dia fica salvo no aparelho (e na conta, se houver login) e a página já abre no próximo.
+ */
+import type { NovenaGuiada } from '@/lib/novenaGuiada';
+interface Props { guia: NovenaGuiada; id: string; nome: string }
+const { guia, id, nome } = Astro.props;
+const temDias = guia.dias.length === 9;
+const passos: { ancora: string; rotulo: string }[] = [];
+if (guia.roteiro) passos.push({ ancora: 'guia-roteiro', rotulo: 'Como rezar' });
+if (guia.inicial) passos.push({ ancora: 'guia-inicial', rotulo: 'Oração inicial' });
+if (temDias) passos.push({ ancora: 'guia-dia', rotulo: 'Oração do dia' });
+if (guia.suplica) passos.push({ ancora: 'guia-suplica', rotulo: 'Oração da novena' });
+if (guia.final) passos.push({ ancora: 'guia-final', rotulo: 'Oração final' });
+if (guia.ladainha) passos.push({ ancora: 'guia-ladainha', rotulo: 'Ladainha' });
+let n = 0;
+const num = () => ++n;
+---
+<section id="reze-a-novena" class="guia-novena not-prose my-10 overflow-hidden rounded-xl border border-co-warm-sand-dark bg-white" data-guia={id} aria-labelledby="reze-a-novena-titulo">
+  <div class="border-b border-co-warm-sand-dark bg-co-warm-cream/70 p-5 md:p-7">
+    <h2 id="reze-a-novena-titulo" class="font-display text-2xl font-semibold leading-snug text-co-warm-brown md:text-[1.75rem]">Reze a novena dia a dia</h2>
+    <p class="mt-2 text-[16px] leading-relaxed text-co-warm-brown/85" data-guia-status>
+      Escolha o dia e reze tudo em sequência, nesta mesma página. Ao terminar, marque o dia como rezado: na próxima visita a novena já abre no dia seguinte.
+    </p>
+
+    <div class="mt-5" role="group" aria-label="Dia da novena">
+      <p class="mb-2 text-[15px] font-semibold text-co-warm-brown">Dia da novena</p>
+      <div class="grid grid-cols-9 gap-1 sm:gap-2">
+        {Array.from({ length: 9 }, (_, i) => (
+          <button type="button" data-guia-escolher={i} aria-label={`${i + 1}º dia`} aria-pressed={i === 0 ? 'true' : 'false'}
+            class="dia-btn relative flex h-11 min-w-0 items-center justify-center rounded-md border border-co-warm-sand-dark bg-white text-[16px] font-semibold text-co-warm-brown hover:border-co-warm-brown/40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-co-warm-terracotta focus-visible:ring-offset-1 sm:h-12 sm:text-[17px]">
+            {i + 1}
+            <span class="dia-feito absolute right-0.5 top-0.5 hidden h-3.5 w-3.5 items-center justify-center rounded-full bg-co-warm-brown text-white sm:right-1 sm:top-1" aria-hidden="true">
+              <svg viewBox="0 0 12 12" class="h-2.5 w-2.5" fill="none" stroke="currentColor" stroke-width="2"><path d="M2.5 6.2l2.3 2.3 4.7-5" /></svg>
+            </span>
+          </button>
+        ))}
+      </div>
+    </div>
+
+    {passos.length > 2 && (
+      <nav class="mt-5" aria-label="Partes da oração">
+        <ul class="flex flex-wrap gap-2">
+          {passos.map((p) => (
+            <li><a href={`#${p.ancora}`} class="inline-flex min-h-10 items-center rounded-full border border-co-warm-brown/20 bg-white px-3.5 text-[15px] font-medium text-co-warm-brown no-underline hover:border-co-warm-terracotta hover:text-co-warm-terracotta">{p.rotulo}</a></li>
+          ))}
+        </ul>
+      </nav>
+    )}
+  </div>
+
+  <div class="guia-corpo article-prose px-5 pb-2 md:px-7">
+    {guia.roteiro && (
+      <details id="guia-roteiro" class="guia-passo">
+        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>Como rezar cada dia</span></summary>
+        <div class="guia-texto"><Fragment set:html={guia.roteiro.html} /></div>
+      </details>
+    )}
+    {guia.inicial && (
+      <details id="guia-inicial" class="guia-passo" open>
+        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>Oração inicial</span></summary>
+        <div class="guia-texto"><Fragment set:html={guia.inicial.html} /></div>
+      </details>
+    )}
+    {temDias && (
+      <div id="guia-dia" class="guia-passo guia-passo-dia">
+        <p class="guia-rotulo"><span class="guia-num" aria-hidden="true">{num()}</span><span>Oração do dia</span></p>
+        {guia.dias.map((d, i) => (
+          <div class="guia-texto" data-guia-dia={i} hidden={i !== 0}>
+            <h3>{d.titulo}</h3>
+            <Fragment set:html={d.html} />
+          </div>
+        ))}
+      </div>
+    )}
+    {guia.suplica && (
+      <details id="guia-suplica" class="guia-passo" open>
+        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>{guia.suplica.titulo}</span></summary>
+        <div class="guia-texto"><Fragment set:html={guia.suplica.html} /></div>
+      </details>
+    )}
+    {guia.final && (
+      <details id="guia-final" class="guia-passo" open>
+        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>{/^oração final$/i.test(guia.final.titulo) ? 'Oração final' : guia.final.titulo}</span></summary>
+        <div class="guia-texto"><Fragment set:html={guia.final.html} /></div>
+      </details>
+    )}
+    {guia.ladainha && (
+      <details id="guia-ladainha" class="guia-passo" open>
+        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>{guia.ladainha.titulo}</span></summary>
+        <div class="guia-texto">
+          <Fragment set:html={guia.ladainha.html} />
+          <p class="guia-nota">A ladainha também tem página própria, com a explicação das invocações: <a href={guia.ladainha.href}>{guia.ladainha.titulo}</a>.</p>
+        </div>
+      </details>
+    )}
+  </div>
+
+  <div class="border-t border-co-warm-sand-dark bg-co-warm-cream/70 p-5 md:p-7">
+    <button type="button" class="btn btn-primario w-full" data-guia-marcar aria-pressed="false">Marcar o 1º dia como rezado</button>
+    <div class="mt-2.5 grid grid-cols-2 gap-2.5">
+      <button type="button" class="btn btn-secundario w-full" data-guia-passo="-1">Dia anterior</button>
+      <button type="button" class="btn btn-secundario w-full" data-guia-passo="1">Próximo dia</button>
+    </div>
+    <p class="mt-3 text-[14px] leading-snug text-co-warm-brown/75" data-guia-aviso>O progresso fica salvo neste aparelho. Com login, acompanha você em qualquer aparelho. Veja todas as suas novenas em <a href="/minha-conta" class="font-medium text-co-warm-terracotta underline underline-offset-4">Minha conta</a>.</p>
+  </div>
+</section>
+
+<script define:vars={{ id, nome }}>
+  window.__novenaGuia = { id, nome };
+</script>
+<script>
+  import { EVENTO, gravar, ler } from '@/lib/progresso';
+
+  const raiz = document.querySelector<HTMLElement>('[data-guia]');
+  if (raiz) iniciar(raiz);
+
+  function iniciar(raiz: HTMLElement) {
+    const { id } = (window as unknown as { __novenaGuia: { id: string; nome: string } }).__novenaGuia;
+    const prefixo = `co-novena-${id}-`;
+    const hoje = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo' }).format(new Date());
+    const somar = (s: string, n: number) => new Date(Date.parse(`${s}T12:00:00Z`) + n * 86400000).toISOString().slice(0, 10);
+    const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+    const porExtenso = (s: string) => `${Number(s.slice(8, 10))} de ${MESES[Number(s.slice(5, 7)) - 1]}`;
+
+    const botoes = Array.from(raiz.querySelectorAll<HTMLButtonElement>('[data-guia-escolher]'));
+    const paineis = Array.from(raiz.querySelectorAll<HTMLElement>('[data-guia-dia]'));
+    const marcarBtn = raiz.querySelector<HTMLButtonElement>('[data-guia-marcar]')!;
+    const status = raiz.querySelector<HTMLElement>('[data-guia-status]')!;
+    const passoBtns = Array.from(raiz.querySelectorAll<HTMLButtonElement>('[data-guia-passo]'));
+
+    let chave: string | null = null;
+    let feitos: boolean[] = Array(9).fill(false);
+    let dia = 0;
+
+    /** A novena em andamento: a mais recente que ainda não terminou (ou a mais recente de todas) */
+    function carregar() {
+      const chaves: string[] = [];
+      try {
+        for (const k of Object.keys(localStorage)) if (k.startsWith(prefixo) && /^\d{4}-\d{2}-\d{2}$/.test(k.slice(prefixo.length))) chaves.push(k);
+      } catch {
+        /* sem armazenamento */
+      }
+      chaves.sort().reverse();
+      const valores = chaves.map((k) => {
+        const v = ler<unknown>(k, null);
+        return { k, v: Array.isArray(v) && v.length === 9 ? v.map(Boolean) : Array(9).fill(false) };
+      }).filter((x) => x.v.some(Boolean));
+      const atual = valores.find((x) => x.v.some((b) => !b)) ?? valores[0];
+      chave = atual?.k ?? null;
+      feitos = atual?.v ?? Array(9).fill(false);
+      const prox = feitos.findIndex((b) => !b);
+      dia = prox === -1 ? 8 : prox;
+      mostrar();
+    }
+
+    function mostrar() {
+      botoes.forEach((b, i) => {
+        b.setAttribute('aria-pressed', String(i === dia));
+        b.classList.toggle('dia-atual', i === dia);
+        b.classList.toggle('dia-rezado', feitos[i]);
+        b.querySelector('.dia-feito')?.classList.toggle('hidden', !feitos[i]);
+        b.querySelector('.dia-feito')?.classList.toggle('flex', feitos[i]);
+        b.setAttribute('aria-label', `${i + 1}º dia${feitos[i] ? ', rezado' : ''}`);
+      });
+      paineis.forEach((p, i) => (p.hidden = i !== dia));
+      marcarBtn.textContent = feitos[dia] ? `${dia + 1}º dia rezado. Toque para desmarcar` : `Marcar o ${dia + 1}º dia como rezado`;
+      marcarBtn.setAttribute('aria-pressed', String(feitos[dia]));
+      marcarBtn.classList.toggle('btn-primario', !feitos[dia]);
+      marcarBtn.classList.toggle('btn-secundario', feitos[dia]);
+      passoBtns[0].disabled = dia === 0;
+      passoBtns[1].disabled = dia === 8;
+      const total = feitos.filter(Boolean).length;
+      const inicio = chave?.slice(prefixo.length);
+      if (!total) status.textContent = 'Escolha o dia e reze tudo em sequência, nesta mesma página. Ao terminar, marque o dia como rezado: na próxima visita a novena já abre no dia seguinte.';
+      else if (total === 9) status.textContent = 'Você rezou os nove dias desta novena. Para rezar de novo, desmarque os dias ou escolha um dia para recomeçar.';
+      else status.textContent = `Você já rezou ${total} de 9 dias${inicio ? ` (começou em ${porExtenso(inicio)})` : ''}. ${feitos[dia] ? `O ${dia + 1}º dia já está marcado.` : `Agora é o ${dia + 1}º dia.`}`;
+    }
+
+    function escolher(i: number) {
+      dia = Math.max(0, Math.min(8, i));
+      mostrar();
+    }
+
+    botoes.forEach((b, i) => b.addEventListener('click', () => escolher(i)));
+    passoBtns.forEach((b) => b.addEventListener('click', () => {
+      escolher(dia + Number(b.dataset.guiaPasso));
+      document.getElementById('reze-a-novena')?.scrollIntoView({ block: 'start', behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    }));
+    marcarBtn.addEventListener('click', () => {
+      // novena nova: o 1º dia é contado a partir de hoje
+      if (!chave) {
+        chave = `${prefixo}${somar(hoje(), -dia)}`;
+        feitos = Array(9).fill(false);
+      }
+      feitos = feitos.map((x, k) => (k === dia ? !x : x));
+      gravar(chave, feitos);
+      if (feitos[dia]) {
+        try {
+          (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag?.('event', 'novena_dia', { novena: id, dia: dia + 1 });
+        } catch {
+          /* sem GA */
+        }
+      }
+      mostrar();
+      if (feitos[dia] && dia < 8 && !feitos[dia + 1]) status.textContent += ` Na próxima visita, a página abre no ${dia + 2}º dia.`;
+    });
+    addEventListener(EVENTO, carregar);
+    carregar();
+  }
+</script>
+
+<style>
+  .guia-novena .dia-atual { background: hsl(var(--co-warm-terracotta)); border-color: hsl(var(--co-warm-terracotta)); color: #fff; }
+  .guia-novena .dia-atual .dia-feito { background: #fff; color: hsl(var(--co-warm-terracotta)); }
+  .guia-novena .dia-rezado:not(.dia-atual) { background: hsl(var(--co-warm-cream)); }
+  .guia-novena :global(.guia-passo) { border-top: 1px solid hsl(var(--co-warm-sand-dark)); padding: 1.25rem 0; margin: 0; }
+  .guia-novena :global(.guia-passo:first-child) { border-top: 0; }
+  .guia-novena :global(summary), .guia-novena :global(.guia-rotulo) {
+    display: flex; align-items: center; gap: 0.75rem; margin: 0; cursor: pointer; list-style: none;
+    font-family: 'Source Serif 4 Variable', 'Source Serif 4', Georgia, serif; font-weight: 600;
+    font-size: calc(1.3rem * var(--prose-escala, 1)); line-height: 1.35; text-align: left; color: hsl(var(--co-warm-brown));
+  }
+  .guia-novena :global(.guia-rotulo) { cursor: default; }
+  .guia-novena :global(summary::-webkit-details-marker) { display: none; }
+  .guia-novena :global(summary)::after {
+    content: ''; margin-left: auto; width: 0.6rem; height: 0.6rem; flex-shrink: 0;
+    border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(45deg) translateY(-2px); opacity: 0.6;
+  }
+  .guia-novena :global(details[open] > summary)::after { transform: rotate(-135deg) translateY(-2px); }
+  .guia-novena :global(summary:focus-visible) { outline: 2px solid hsl(var(--co-warm-terracotta)); outline-offset: 4px; border-radius: 4px; }
+  .guia-novena :global(.guia-num) {
+    display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; width: 1.9rem; height: 1.9rem; border-radius: 999px;
+    font-family: 'DM Sans Variable', 'DM Sans', system-ui, sans-serif; font-size: 0.95rem; font-weight: 700;
+    background: hsl(var(--co-warm-cream)); color: hsl(var(--co-warm-terracotta));
+  }
+  .guia-novena :global(.guia-texto) { margin-top: 0.75rem; }
+  .guia-novena :global(.guia-texto > :first-child) { margin-top: 0; }
+  .guia-novena :global(.guia-passo-dia .guia-texto h3) { margin-top: 0.75rem; color: hsl(var(--co-warm-terracotta)); }
+  .guia-novena :global(.guia-nota) { font-size: 0.9em; color: hsl(var(--co-warm-brown) / 0.8); text-align: left; }
+  .guia-novena :global(.guia-texto p) { text-align: left; }
+  .guia-novena button:disabled { opacity: 0.45; cursor: not-allowed; }
+  :global(html) { scroll-padding-top: 5.5rem; }
+</style>
