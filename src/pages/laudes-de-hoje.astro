@@ -2,6 +2,7 @@
 import HojeNav from '@/components/astro/HojeNav.astro';
 import { Sunrise } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import DiaAtual from '@/components/astro/DiaAtual.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import { CATEGORY_VISUAL } from '@/config/categoryVisual';
 import { getLiturgia } from '@/lib/data';
@@ -73,6 +74,7 @@ const leituras = [
   ogType="article"
   jsonLd={jsonLd}
 >
+  <DiaAtual tipo="laudes" />
   <PageHeader title="Laudes de hoje" subtitle={`${dataExtenso}. ${semanaTxt}. Os salmos de Laudes, Vésperas e Completas e o roteiro para rezar.`} icon={Sunrise} crumbs={crumbs} tom={CATEGORY_VISUAL['liturgia-das-horas']} />
   <main id="conteudo" class="py-8 md:py-12">
     <div class="container mx-auto max-w-3xl space-y-12 px-4">

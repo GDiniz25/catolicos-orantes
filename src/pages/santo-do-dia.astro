@@ -5,6 +5,7 @@ import HojeNav from '@/components/astro/HojeNav.astro';
 import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { Star, Calendar } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import DiaAtual from '@/components/astro/DiaAtual.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import Faq from '@/components/astro/Faq.astro';
 import FaixaDias from '@/components/astro/FaixaDias.astro';
@@ -80,6 +81,7 @@ const jsonLd = [
   jsonLd={jsonLd}
   ctaMaxWidth="max-w-3xl"
 >
+  <DiaAtual tipo="santo" />
   <PageHeader title="Santo do Dia" subtitle={`Hoje, ${formattedDate}`} icon={Star} crumbs={crumbs} tom={tom}>
     <div class="mt-6"><FaixaDias month={month} day={day} /></div>
   </PageHeader>

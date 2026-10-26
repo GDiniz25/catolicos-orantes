@@ -4,6 +4,7 @@ import HojeNav from '@/components/astro/HojeNav.astro';
 import LeiturasDaFerramenta from '@/components/astro/LeiturasDaFerramenta.astro';
 import { BookOpen } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import DiaAtual from '@/components/astro/DiaAtual.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import LiturgiaViewer, { type LiturgiaView } from '@/components/islands/LiturgiaViewer';
 import { getLiturgia, getLiturgiaJanela } from '@/lib/data';
@@ -66,6 +67,7 @@ const jsonLd = [
   jsonLd={jsonLd}
   ctaMaxWidth="max-w-3xl"
 >
+  <DiaAtual tipo="liturgia" />
   <PageHeader title="Liturgia Diária" subtitle="Leituras e orações do dia segundo o calendário litúrgico." icon={BookOpen} crumbs={crumbs} tom={tom} />
   <main id="conteudo" class="py-8 md:py-12">
     <div class="container mx-auto px-4">

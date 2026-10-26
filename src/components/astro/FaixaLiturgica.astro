@@ -42,4 +42,11 @@ const cor = CORES[info.tempo.cor];
     t.dateTime = hoje;
     t.textContent = new Date(y, m - 1, d).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' });
   });
+  // Blocos "Hoje" da página inicial gerados em outro dia: troca o específico (santo, leituras) pelo genérico
+  document.querySelectorAll<HTMLElement>('[data-hoje-build]').forEach((b) => {
+    if (b.dataset.hojeBuild === hoje) return;
+    b.querySelectorAll<HTMLElement>('[data-hoje-especifico]').forEach((e) => (e.hidden = true));
+    b.querySelectorAll<HTMLElement>('[data-hoje-generico]').forEach((e) => (e.textContent = e.dataset.hojeGenerico ?? ''));
+    b.querySelectorAll<HTMLAnchorElement>('[data-hoje-href]').forEach((a) => (a.href = a.dataset.hojeHref ?? a.href));
+  });
 </script>

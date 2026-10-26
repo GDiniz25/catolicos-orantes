@@ -1,6 +1,7 @@
 ---
 import { Moon } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import DiaAtual from '@/components/astro/DiaAtual.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import HojeNav from '@/components/astro/HojeNav.astro';
 import { CATEGORY_VISUAL } from '@/config/categoryVisual';
@@ -107,6 +108,7 @@ const nunc = [
   ogType="article"
   jsonLd={jsonLd}
 >
+  <DiaAtual tipo="completas" />
   <PageHeader title="Completas de hoje" subtitle={`${dataExtenso}. A oração da noite da Igreja: ${umSalmo ? 'o salmo' : 'os salmos'} de hoje, o Nunc dimittis e o roteiro para rezar antes de dormir.`} icon={Moon} crumbs={crumbs} tom={CATEGORY_VISUAL['liturgia-das-horas']} />
   <main id="conteudo" class="py-8 md:py-12">
     <div class="container mx-auto max-w-3xl space-y-12 px-4">

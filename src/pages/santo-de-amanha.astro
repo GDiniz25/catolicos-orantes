@@ -5,6 +5,7 @@
  */
 import { Star } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import DiaAtual from '@/components/astro/DiaAtual.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import Faq from '@/components/astro/Faq.astro';
 import FaixaDias from '@/components/astro/FaixaDias.astro';
@@ -86,6 +87,7 @@ const jsonLd = [
   jsonLd={jsonLd}
   ctaMaxWidth="max-w-3xl"
 >
+  <DiaAtual tipo="santo-amanha" />
   <PageHeader title="Santo de amanhã" subtitle={saints.length ? `${cap(semana)}. ${saints.length === 1 ? 'Santo lembrado' : 'Santos lembrados'} pela Igreja.` : `${cap(semana)}.`} icon={Star} crumbs={crumbs} tom={tom}>
     <div class="mt-6"><FaixaDias month={month} day={day} /></div>
   </PageHeader>

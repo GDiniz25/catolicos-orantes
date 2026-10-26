@@ -6,6 +6,7 @@
  */
 import { CircleDot, ChevronRight } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import DiaAtual from '@/components/astro/DiaAtual.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import Faq from '@/components/astro/Faq.astro';
 import HojeNav from '@/components/astro/HojeNav.astro';
@@ -80,6 +81,7 @@ const jsonLd = [
   jsonLd={jsonLd}
   ctaMaxWidth="max-w-3xl"
 >
+  <DiaAtual tipo="terco" />
   <PageHeader title="Terço de hoje" subtitle={`${cap(semana)}. Hoje se rezam os ${nomeMinusculo}.`} icon={CircleDot} crumbs={crumbs} tom={tom} />
   <main id="conteudo" class="py-8 md:py-12">
     <div class="container mx-auto max-w-3xl space-y-12 px-4">

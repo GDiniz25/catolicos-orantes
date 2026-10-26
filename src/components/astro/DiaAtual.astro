@@ -1,0 +1,46 @@
+---
+/**
+ * Garante o dia certo nas páginas "de hoje" mesmo quando o site não foi reconstruído no dia.
+ * A página é gerada no build com a data daquele dia. Se a pessoa abre num dia seguinte,
+ * o navegador leva para a página permanente do dia certo (que já existe: as páginas com data
+ * são geradas com 30 dias de antecedência; as do santo, para o ano todo).
+ */
+import { getTodayStr } from '@/lib/dateUtils';
+
+type Tipo = 'liturgia' | 'evangelho' | 'santo' | 'liturgia-amanha' | 'santo-amanha' | 'evangelho-domingo' | 'laudes' | 'vesperas' | 'completas' | 'terco';
+interface Props { tipo: Tipo }
+const { tipo } = Astro.props;
+---
+<span hidden data-dia-atual={tipo} data-build={getTodayStr()}></span>
+<script>
+  import { hojeBrasilia, MISTERIO_DA_SEMANA } from '@/lib/anoLiturgico';
+  import { dataSlug, diaMesSlug, offsetDate, parseDate } from '@/lib/dateUtils';
+
+  const el = document.querySelector<HTMLElement>('[data-dia-atual]');
+  const hoje = hojeBrasilia();
+  if (el && el.dataset.build && el.dataset.build !== hoje) {
+    const tipo = el.dataset.diaAtual;
+    const santo = (d: string) => { const [, m, dd] = d.split('-').map(Number); return `/santo-do-dia/${diaMesSlug(m, dd)}`; };
+    const domingo = () => { const dow = parseDate(hoje).getDay(); return offsetDate(hoje, dow === 0 ? 0 : 7 - dow); };
+    let alvo: string | null = null;
+    if (tipo === 'liturgia') alvo = `/liturgia-diaria/${dataSlug(hoje)}`;
+    else if (tipo === 'evangelho') alvo = `/evangelho-do-dia/${dataSlug(hoje)}`;
+    else if (tipo === 'santo') alvo = santo(hoje);
+    else if (tipo === 'liturgia-amanha') alvo = `/liturgia-diaria/${dataSlug(offsetDate(hoje, 1))}`;
+    else if (tipo === 'santo-amanha') alvo = santo(offsetDate(hoje, 1));
+    else if (tipo === 'evangelho-domingo') alvo = `/evangelho-do-dia/${dataSlug(domingo())}`;
+    else if (tipo === 'laudes' || tipo === 'vesperas' || tipo === 'completas') alvo = `/liturgia-das-horas-do-dia/${dataSlug(hoje)}#${tipo}`;
+    else if (tipo === 'terco') {
+      // Terço: só muda a página se o dia da semana pede outros mistérios
+      const antes = MISTERIO_DA_SEMANA[parseDate(el.dataset.build).getDay()];
+      const agora = MISTERIO_DA_SEMANA[parseDate(hoje).getDay()];
+      if (antes !== agora) alvo = `/como-rezar-o-terco/os-misterios-${agora}-do-rosario-e-suas-meditacoes`;
+    }
+    if (alvo) {
+      const destino = alvo;
+      fetch(destino.split('#')[0], { method: 'HEAD' })
+        .then((r) => { if (r.ok) location.replace(destino); })
+        .catch(() => { /* sem rede: fica na página */ });
+    }
+  }
+</script>

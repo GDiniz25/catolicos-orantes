@@ -5,6 +5,7 @@
  */
 import { BookOpen } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import DiaAtual from '@/components/astro/DiaAtual.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import Faq from '@/components/astro/Faq.astro';
 import HojeNav from '@/components/astro/HojeNav.astro';
@@ -102,6 +103,7 @@ const jsonLd = [
   jsonLd={jsonLd}
   ctaMaxWidth="max-w-3xl"
 >
+  <DiaAtual tipo="liturgia-amanha" />
   <PageHeader title="Liturgia de amanhã" subtitle={`${cap(semana)}.${celebracao ? ` ${celebracao}.` : ''}`} icon={BookOpen} crumbs={crumbs} tom={tom}>
     <p class="mt-5 inline-flex flex-wrap items-center gap-x-3 gap-y-1 rounded-full bg-white/70 px-4 py-1.5 text-[15px]">
       <span class="h-3 w-3 rounded-full" style={`background:${CORES[corKey].forte}`} aria-hidden="true"></span>

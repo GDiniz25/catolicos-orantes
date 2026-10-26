@@ -88,17 +88,17 @@ const jsonLd = [
     </section>
 
     <!-- Hoje -->
-    <section aria-labelledby="hoje-titulo" class="border-b border-co-warm-sand-dark">
+    <section aria-labelledby="hoje-titulo" class="border-b border-co-warm-sand-dark" data-hoje-build={today}>
       <div class="container mx-auto max-w-6xl px-4 py-10 md:py-14">
         <h2 id="hoje-titulo" class="font-display text-3xl font-semibold md:text-4xl">Hoje</h2>
         <div class="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-5">
-          <a href={linkLiturgiaHoje} class="group flex flex-col overflow-hidden rounded-xl border border-co-warm-sand-dark bg-white transition-shadow hover:shadow-[0_10px_28px_rgba(62,56,56,0.10)]">
+          <a href={linkLiturgiaHoje} data-hoje-href="/liturgia-diaria" class="group flex flex-col overflow-hidden rounded-xl border border-co-warm-sand-dark bg-white transition-shadow hover:shadow-[0_10px_28px_rgba(62,56,56,0.10)]">
             <span class="h-2" style={`background:${corHoje.forte}`} aria-hidden="true"></span>
             <span class="flex flex-1 flex-col p-5 md:p-6">
-              <span class="text-sm font-semibold" style={`color:${corHoje.forte === '#D9BE78' ? '#7A5820' : corHoje.forte}`}>Liturgia diária, cor {corHoje.nome}</span>
-              <span class="mt-2 font-display text-xl font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta">{liturgia ? (celebracaoDaLiturgia(liturgia) ?? liturgia.title) : 'Leituras, salmo e evangelho de hoje'}</span>
+              <span class="text-sm font-semibold" style={`color:${corHoje.forte === '#D9BE78' ? '#7A5820' : corHoje.forte}`} data-hoje-generico="Liturgia diária">Liturgia diária, cor {corHoje.nome}</span>
+              <span class="mt-2 font-display text-xl font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta" data-hoje-generico="Leituras, salmo e evangelho de hoje">{liturgia ? (celebracaoDaLiturgia(liturgia) ?? liturgia.title) : 'Leituras, salmo e evangelho de hoje'}</span>
               {leituras.length > 0 && (
-                <span class="mt-3 flex flex-wrap gap-1.5">
+                <span class="mt-3 flex flex-wrap gap-1.5" data-hoje-especifico>
                   {leituras.map((l) => <span class="rounded-full bg-co-warm-cream px-2.5 py-1 text-[13px] text-co-warm-brown/80">{l}</span>)}
                 </span>
               )}
@@ -110,14 +110,14 @@ const jsonLd = [
             <span class="h-2 bg-[#D9BE78]" aria-hidden="true"></span>
             <span class="flex flex-1 gap-4 p-5 md:p-6">
               {todaySaints.length > 0 && (
-                <Medalhao nome={todaySaints[0].saint_name} imagem={imgSanto(todaySaints[0])} />
+                <span data-hoje-especifico><Medalhao nome={todaySaints[0].saint_name} imagem={imgSanto(todaySaints[0])} /></span>
               )}
               <span class="flex min-w-0 flex-col">
                 <span class="text-sm font-semibold text-[#7A5820]">Santo do dia</span>
-                <span class="mt-2 font-display text-xl font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta">
+                <span class="mt-2 font-display text-xl font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta" data-hoje-generico="Quem a Igreja celebra hoje">
                   {todaySaints.length ? todaySaints.map((s) => getShortName(s.saint_name)).join(', ') : 'Quem a Igreja celebra hoje'}
                 </span>
-                {todaySaints[0]?.description && <span class="mt-2 line-clamp-3 text-[15px] leading-relaxed text-co-warm-brown/80">{todaySaints[0].description}</span>}
+                {todaySaints[0]?.description && <span class="mt-2 line-clamp-3 text-[15px] leading-relaxed text-co-warm-brown/80" data-hoje-especifico>{todaySaints[0].description}</span>}
                 <span class="mt-auto pt-4 text-[15px] font-semibold text-co-warm-terracotta">Conhecer a história</span>
               </span>
             </span>

@@ -5,6 +5,7 @@
  */
 import { BookOpen } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import DiaAtual from '@/components/astro/DiaAtual.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import Compartilhar from '@/components/astro/Compartilhar.astro';
 import { imagemDoEvangelista } from '@/lib/imagemDoDia';
@@ -85,6 +86,7 @@ const jsonLd = [
   publishedTime={`${today}T00:00:00-03:00`}
   ctaMaxWidth="max-w-3xl"
 >
+  <DiaAtual tipo="evangelho-domingo" />
   <PageHeader title="Evangelho de domingo" subtitle={maiuscula(dataLonga)} icon={BookOpen} crumbs={crumbs} tom={tom}>
     {celebracao && <p class="mt-2 max-w-2xl text-lg font-medium text-co-warm-brown">{celebracao}</p>}
     <div class="mt-5 flex flex-wrap gap-2 text-[15px]">

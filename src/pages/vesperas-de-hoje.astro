@@ -1,6 +1,7 @@
 ---
 import { Sunset } from 'lucide-react';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import DiaAtual from '@/components/astro/DiaAtual.astro';
 import PageHeader from '@/components/astro/PageHeader.astro';
 import HojeNav from '@/components/astro/HojeNav.astro';
 import { CATEGORY_VISUAL } from '@/config/categoryVisual';
@@ -113,6 +114,7 @@ const magnificat = [
   ogType="article"
   jsonLd={jsonLd}
 >
+  <DiaAtual tipo="vesperas" />
   <PageHeader title="Vésperas de hoje" subtitle={`${dataExtenso}. ${semanaTxt}. Os salmos, o cântico e o Magnificat da oração da tarde, com o roteiro para rezar.`} icon={Sunset} crumbs={crumbs} tom={CATEGORY_VISUAL['liturgia-das-horas']} />
   <main id="conteudo" class="py-8 md:py-12">
     <div class="container mx-auto max-w-3xl space-y-12 px-4">
