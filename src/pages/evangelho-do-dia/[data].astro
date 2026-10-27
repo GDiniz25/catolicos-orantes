@@ -64,7 +64,7 @@ const tom = tomLiturgico(corKey);
 const celebracao = celebracaoDaLiturgia(liturgia) ?? liturgia.title;
 const curta = (d: string) => formatDateFull(d).replace(/ de \d{4}$/, '');
 
-const title = ref ? `Evangelho de ${extenso}: ${ref}` : `Evangelho de ${extenso}`;
+const title = ref ? `Evangelho do dia ${extenso}: ${ref}` : `Evangelho do dia ${extenso}`;
 const description = clampText(
   `Evangelho de ${dataLonga}${ref ? `: ${ref}` : ''}${nomeEvangelista ? `, segundo ${nomeEvangelista}` : ''}. ${celebracao}. Texto da liturgia (CNBB)${reflexao ? ' e reflexão' : ''} para ler e rezar.`,
   158,

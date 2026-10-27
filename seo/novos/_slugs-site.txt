@@ -1280,3 +1280,7 @@
 /vida-espiritual/por-que-deus-permite-o-sofrimento
 /vida-espiritual/por-que-nao-sinto-nada-quando-rezo
 /vida-espiritual/tipos-de-oracao-vocal-meditacao-contemplacao
+/sacramentos/rito-da-crisma-passo-a-passo
+/sacramentos/missa-de-primeira-comunhao-passo-a-passo
+/sacramentos/rito-da-uncao-dos-enfermos-passo-a-passo
+/sacramentos/como-se-confessar-passo-a-passo
