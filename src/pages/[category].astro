@@ -48,7 +48,7 @@ const jsonLd = [
   ...(content?.faq?.length ? [faqSchema(content.faq)] : []),
 ];
 ---
-<BaseLayout title={cat.title} description={cat.description} path={path} keywords={cat.keywords} jsonLd={jsonLd}>
+<BaseLayout title={cat.seoTitle ?? cat.title} description={cat.description} path={path} keywords={cat.keywords} jsonLd={jsonLd}>
   <PageHeader title={cat.title} subtitle={content?.lead || cat.subtitle} icon={Icon} crumbs={crumbs} tom={tom}>
     <div class="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3 text-[15px]">
       <span class="font-semibold" style={`color:${tom.tinta}`}>{articles.length} {articles.length === 1 ? 'guia' : 'guias'} nesta seção</span>

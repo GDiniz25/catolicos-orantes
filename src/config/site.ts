@@ -29,12 +29,15 @@ export interface CategoryConfig {
   /** Meta description */
   description: string;
   keywords: string;
+  /** Título para o Google (aba e resultado de busca), quando deve ser diferente do título da página */
+  seoTitle?: string;
 }
 
 export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'como-rezar-o-terco',
     title: 'Como Rezar o Terço',
+    seoTitle: 'Como rezar o terço: passo a passo e mistérios do dia',
     subtitle: 'Guia completo com os Mistérios Gozosos, Dolorosos, Gloriosos e Luminosos.',
     description: 'Aprenda a rezar o Santo Terço com guia completo dos Mistérios Gozosos, Dolorosos, Gloriosos e Luminosos.',
     keywords: 'como rezar o terço, santo terço católico, mistérios do terço, oração do terço',
@@ -49,6 +52,7 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'milagres-eucaristicos',
     title: 'Milagres Eucarísticos',
+    seoTitle: 'Milagres eucarísticos: lista com a história de cada um',
     subtitle: 'Relatos históricos de milagres eucarísticos reconhecidos pela Igreja.',
     description: 'Relatos históricos de milagres eucarísticos reconhecidos pela Igreja Católica ao longo dos séculos.',
     keywords: 'milagres eucarísticos, eucaristia, presença real de Jesus, igreja católica',
@@ -63,6 +67,7 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'liturgia-das-horas',
     title: 'Liturgia das Horas',
+    seoTitle: 'Liturgia das Horas: como rezar Laudes, Vésperas e Completas',
     subtitle: 'Guia de como rezar as horas canônicas ao longo do dia.',
     description: 'Guia completo de como rezar as horas canônicas: Laudes, Vésperas, Completas e mais.',
     keywords: 'liturgia das horas, laudes, vésperas, completas, breviário',
@@ -70,6 +75,7 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'novenas',
     title: 'Novenas',
+    seoTitle: 'Novenas católicas: orações dos 9 dias para rezar',
     subtitle: 'Coleção de novenas populares organizadas por intenção e devoção.',
     description: 'Coleção de novenas católicas populares organizadas por intenção e devoção.',
     keywords: 'novenas católicas, oração de novena, novena poderosa, devoções católicas',
@@ -77,6 +83,7 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'sacramentos',
     title: 'Sacramentos',
+    seoTitle: 'Os 7 sacramentos da Igreja Católica: guia completo',
     subtitle: 'Explicação dos 7 sacramentos com fundamentação bíblica e doutrinária.',
     description: 'Explicação dos 7 sacramentos da Igreja Católica com fundamentação bíblica e doutrinária.',
     keywords: 'sete sacramentos, sacramentos da igreja católica, batismo, eucaristia, crisma',
@@ -84,6 +91,7 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'devocoes-marianas',
     title: 'Devoções Marianas',
+    seoTitle: 'Devoções marianas: títulos e aparições de Nossa Senhora',
     subtitle: 'Consagração, Escapulário, Medalha Milagrosa, aparições e outras devoções a Nossa Senhora.',
     description: 'Consagração a Nossa Senhora, Escapulário, Medalha Milagrosa, aparições e devoções marianas.',
     keywords: 'devoções marianas, nossa senhora, consagração mariana, escapulário',
@@ -107,6 +115,7 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'oracoes-do-dia-a-dia',
     title: 'Orações do Dia a Dia',
+    seoTitle: 'Orações católicas do dia a dia: manhã, noite e família',
     subtitle: 'Pai Nosso, Ave Maria, Salve Rainha, Angelus e outras orações essenciais.',
     description: 'Pai Nosso, Ave Maria, Salve Rainha, Angelus e outras orações essenciais do católico.',
     keywords: 'orações católicas, pai nosso, ave maria, salve rainha, angelus',
@@ -114,6 +123,7 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'documentos-da-igreja',
     title: 'Documentos da Igreja',
+    seoTitle: 'Documentos da Igreja: resumos de encíclicas e concílios',
     subtitle: 'Encíclicas e documentos importantes do Magistério resumidos.',
     description: 'Encíclicas e documentos importantes do Magistério da Igreja Católica resumidos.',
     keywords: 'documentos da igreja, encíclicas, magistério da igreja, doutrina católica',
@@ -121,13 +131,15 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'ladainhas',
     title: 'Ladainhas',
+    seoTitle: 'Ladainhas católicas: lista completa para rezar',
     subtitle: 'Coleção completa de ladainhas católicas: de santos, de Nossa Senhora, do Sagrado Coração e mais.',
-    description: 'Ladainhas católicas tradicionais: de Nossa Senhora, dos santos e do Sagrado Coração.',
+    description: 'Ladainhas católicas para rezar, com o texto completo: de Nossa Senhora (Lauretana), de Todos os Santos, do Sagrado Coração, de São José e muitas outras.',
     keywords: 'ladainhas católicas, ladainha de nossa senhora, ladainha dos santos',
   },
   {
     slug: 'duvidas-da-fe',
     title: 'Dúvidas da Fé',
+    seoTitle: 'Dúvidas da fé católica: respostas claras e simples',
     subtitle: 'Respostas claras para as principais dúvidas sobre a fé católica, liturgia, tradições e costumes da Igreja.',
     description: 'Respostas claras para dúvidas sobre fé católica, liturgia, tradições e ensinamentos da Igreja.',
     keywords: 'dúvidas da fé católica, perguntas católicas, ensinamentos da igreja',
@@ -149,6 +161,7 @@ export const CATEGORIES: CategoryConfig[] = [
   {
     slug: 'casamento',
     title: 'Casamento Católico',
+    seoTitle: 'Casamento católico: documentos, cerimônia e preparação',
     subtitle: 'Tudo para casar na Igreja: o rito parte por parte, leituras, músicas por momento, símbolos, documentos e padrinhos.',
     description: 'Guia do casamento católico: rito do matrimônio, leituras e salmos, músicas para cada momento, alianças e símbolos, documentos, curso de noivos e padrinhos.',
     keywords: 'casamento católico, casamento na igreja, músicas para casamento, leituras para casamento, padrinhos de casamento, documentos para casar na igreja',

@@ -1,6 +1,6 @@
 ---
 import { focoDe } from '@/lib/foco';
-import { Heart, Printer } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Heart, Printer } from 'lucide-react';
 import CapaArtigo from '@/components/astro/CapaArtigo.astro';
 import { visualDe } from '@/config/categoryVisual';
 import { sectionIconByHref } from '@/data/sections';
@@ -39,6 +39,11 @@ const tom = visualDe(article.category);
 const CatIcon = sectionIconByHref(`/${article.category}`);
 
 const related = findRelated(article, all, 6);
+// Anterior e próximo na mesma seção: garante que todo artigo receba links de outros artigos
+const irmaos = all.filter((a) => a.category === article.category).sort((a, b) => a.title.localeCompare(b.title, 'pt-BR'));
+const pos = irmaos.findIndex((a) => a.slug === article.slug);
+const anterior = irmaos.length > 1 ? irmaos[(pos - 1 + irmaos.length) % irmaos.length] : null;
+const proximo = irmaos.length > 2 ? irmaos[(pos + 1) % irmaos.length] : null;
 const clean = cleanArticleHtml(article.content);
 const plain = htmlToText(clean);
 const wordCount = plain.split(/\s+/).filter(Boolean).length;
@@ -267,6 +272,27 @@ const capaSizes = '(min-width: 1024px) 736px, 100vw';
             </div>
           </div>
         </section>
+
+        {anterior && (
+          <nav class="mb-10 grid gap-3 sm:grid-cols-2" aria-label={`Outros artigos em ${catLabel}`}>
+            <a href={`/${anterior.category}/${anterior.slug}`} class="group flex h-full items-center gap-3 rounded-lg border border-co-warm-sand-dark bg-white p-4 transition-colors hover:border-co-warm-brown/35">
+              <ChevronLeft className="h-5 w-5 shrink-0 text-co-warm-terracotta" aria-hidden="true" />
+              <span class="min-w-0">
+                <span class="block text-[13px] text-co-warm-brown/75">Anterior em {catLabel}</span>
+                <span class="mt-0.5 block font-display text-[16px] font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta">{anterior.title}</span>
+              </span>
+            </a>
+            {proximo && (
+              <a href={`/${proximo.category}/${proximo.slug}`} class="group flex h-full items-center justify-end gap-3 rounded-lg border border-co-warm-sand-dark bg-white p-4 text-right transition-colors hover:border-co-warm-brown/35">
+                <span class="min-w-0">
+                  <span class="block text-[13px] text-co-warm-brown/75">Próximo em {catLabel}</span>
+                  <span class="mt-0.5 block font-display text-[16px] font-semibold leading-snug text-co-warm-brown group-hover:text-co-warm-terracotta">{proximo.title}</span>
+                </span>
+                <ChevronRight className="h-5 w-5 shrink-0 text-co-warm-terracotta" aria-hidden="true" />
+              </a>
+            )}
+          </nav>
+        )}
 
         <nav class="mb-16 flex flex-wrap gap-x-6 gap-y-2 text-[15px]" aria-label="Continuar navegando">
           <a href={`/${article.category}`} class="font-medium text-co-warm-terracotta underline-offset-4 hover:underline">Mais em {catLabel}</a>

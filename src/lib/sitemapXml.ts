@@ -2,7 +2,7 @@ import { imagemDoLivro, livrosComReflexao, todasReflexoes } from '@/lib/bibliaRe
 import { SITE_URL, CATEGORIES, STATIC_PAGES } from '@/config/site';
 import { getAllArticles, getSaintsWithSlug, getSaintsByDate, getLiturgiaJanela } from '@/lib/data';
 import { saintIndexavel } from '@/lib/saints';
-import { getTodayStr, dataSlug, diaMesSlug, todosOsDias } from '@/lib/dateUtils';
+import { getTodayStr, dataSlug, diaMesSlug, todosOsDias, offsetDate } from '@/lib/dateUtils';
 import { evangelhoDoCorpo } from '@/lib/hoje';
 import { sanitizeLiturgyServer } from '@/lib/sanitize';
 import { tidyLiturgyHtml } from '@/lib/liturgy';
@@ -106,7 +106,10 @@ export async function buildSitemaps(): Promise<Record<string, SitemapUrl[]>> {
     }));
   }
   // Liturgia por data (janela em volta de hoje)
-  const janela = await getLiturgiaJanela();
+  // Só a semana em volta de hoje (7 dias antes, 3 depois): as outras datas continuam no ar,
+  // mas fora do sitemap, para o Google gastar o rastreamento com os artigos
+  const hojeJ = getTodayStr();
+  const janela = (await getLiturgiaJanela()).filter((j) => j.date >= offsetDate(hojeJ, -7) && j.date <= offsetDate(hojeJ, 3));
   if (janela.length) {
     // lastmod = o próprio dia (passado) ou hoje (futuro): o Google prioriza o que é do dia
     const hojeDia = getTodayStr();
