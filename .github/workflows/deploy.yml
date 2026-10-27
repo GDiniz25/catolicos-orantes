@@ -23,8 +23,8 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    # Publicação normal leva de 3 a 6 minutos: um envio travado não pode gastar horas de minutos do GitHub
-    timeout-minutes: 35
+    # Publicação normal leva poucos minutos; a primeira com a lista de envio vazia manda o site todo
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
 
@@ -90,24 +90,47 @@ jobs:
             echo "Tentativa $tentativa falhou; tentando de novo em 20 s"; sleep 20
           done
 
-      - name: Enviar para a Hostinger (FTP)
-        timeout-minutes: 15
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      # Páginas e arquivos do site (sem as imagens), com lftp em paralelo.
+      # Só vai o que mudou desde a última publicação que deu certo (lista de hashes guardada em cache).
+      - name: Recuperar lista do que já está no ar
+        uses: actions/cache/restore@v4
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./dist/
-          log-level: minimal
-          timeout: 120000
-          # A conta FTP da Hostinger já abre dentro de public_html: enviar para a raiz dela
-          server-dir: ./
-          # As imagens vão pelo lftp no passo anterior
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/node_modules/**
-            img/**
+          path: .cache/enviados.txt
+          key: enviados-${{ github.run_id }}
+          restore-keys: enviados-
+
+      - name: Separar o que mudou
+        run: |
+          mkdir -p .cache envio
+          (cd dist && find . -type f ! -path './img/*' -print0 | sort -z | xargs -0 sha1sum) > .cache/agora.txt
+          touch .cache/enviados.txt
+          # linhas novas ou alteradas = arquivos a enviar
+          comm -13 <(sort .cache/enviados.txt) <(sort .cache/agora.txt) | cut -c43- > .cache/mudou.txt
+          echo "Arquivos a enviar: $(wc -l < .cache/mudou.txt) de $(wc -l < .cache/agora.txt)"
+          (cd dist && tr '\n' '\0' < ../.cache/mudou.txt | xargs -0 -r cp --parents -t ../envio)
+
+      - name: Enviar para a Hostinger (lftp, em paralelo)
+        timeout-minutes: 25
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          which lftp > /dev/null || sudo apt-get install -y -qq lftp > /dev/null
+          if [ -z "$(ls -A envio)" ]; then echo "Nada mudou"; exit 0; fi
+          ok=0
+          for tentativa in 1 2 3; do
+            lftp -u "$FTP_USERNAME","$FTP_PASSWORD" "$FTP_SERVER" -e "set ftp:ssl-allow no; set net:max-retries 4; set net:reconnect-interval-base 5; set net:timeout 60; mirror -R --parallel=8 --no-perms --no-empty-dirs envio/ ./; quit" && { ok=1; break; }
+            echo "Tentativa $tentativa falhou; tentando de novo em 20 s"; sleep 20
+          done
+          [ "$ok" = 1 ]
+          cp .cache/agora.txt .cache/enviados.txt
+
+      - name: Guardar lista do que está no ar
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/enviados.txt
+          key: enviados-${{ github.run_id }}
 
       - name: Avisar buscadores (IndexNow)
         continue-on-error: true
