@@ -12,7 +12,10 @@ import { sanitizeLiturgyServer } from '@/lib/sanitize';
 import { extractLeituras, tidyLiturgyHtml } from '@/lib/liturgy';
 import { getTodayStr, formatDateFull, formatDateSimple, dataSlug } from '@/lib/dateUtils';
 import { CORES, corDaCnbb, corDaLiturgia, celebracaoDaLiturgia, infoDoDia, tomLiturgico } from '@/lib/anoLiturgico';
-import { absUrl, breadcrumbSchema, publisherRef } from '@/lib/seo';
+import { absUrl, breadcrumbSchema, faqSchema, publisherRef } from '@/lib/seo';
+import DiaNaLiturgia from '@/components/astro/DiaNaLiturgia.astro';
+import Faq from '@/components/astro/Faq.astro';
+import { diaLiturgico, faqDoDia } from '@/lib/diaLiturgico';
 
 const today = getTodayStr();
 const formattedDate = formatDateFull(today);
@@ -35,6 +38,9 @@ const title = `Liturgia diária de hoje, ${dataTitulo}: ${celebracaoHoje ? celeb
 const leiturasTxt = initial?.leituras.length ? ` ${initial.leituras.slice(0, 3).join('; ')}.` : '';
 const description = `Leituras da liturgia católica de ${dataTitulo}: primeira leitura, salmo e evangelho (CNBB).${leiturasTxt}`.slice(0, 160);
 
+const dia = raw ? await diaLiturgico(today, raw) : null;
+const FAQ = dia ? faqDoDia(dia, 'liturgia') : [];
+
 const crumbs = [
   { name: 'Início', path: '/' },
   { name: 'Liturgia Diária', path: '/liturgia-diaria' },
@@ -55,6 +61,7 @@ const jsonLd = [
     ...(initial ? { alternativeHeadline: initial.title } : {}),
   },
   breadcrumbSchema(crumbs),
+  ...(FAQ.length ? [faqSchema(FAQ)] : []),
 ];
 ---
 <BaseLayout
@@ -79,6 +86,8 @@ const jsonLd = [
           <a href={`/liturgia-diaria/${dataSlug(today)}`} class="font-semibold text-co-warm-terracotta underline underline-offset-4 hover:no-underline">Liturgia diária de {formatDateSimple(today)}</a>
         </p>
       )}
+
+      {dia && <div class="mx-auto mt-10 max-w-3xl"><DiaNaLiturgia dia={dia} atual="liturgia" /></div>}
 
       {janela.length > 0 && (
         <section class="mx-auto mt-14 max-w-3xl border-t border-co-warm-sand-dark pt-8" aria-labelledby="outros-dias">
@@ -108,5 +117,6 @@ const jsonLd = [
       <LeiturasDaFerramenta chaves={['duvidas-da-fe/como-a-missa-e-dividida-estrutura-e-partes-explicadas', 'duvidas-da-fe/liturgia-da-palavra-na-missa', 'duvidas-da-fe/o-que-sao-os-anos-a-b-e-c-no-ciclo-liturgico-catolico', 'calendario-liturgico/as-cores-liturgicas-e-seus-significados']} class="mt-14" />
     </div>
     <div class="container mx-auto mt-12 max-w-3xl px-4"><HojeNav atual="liturgia" /></div>
+    {FAQ.length > 0 && <div class="container mx-auto mt-12 max-w-3xl px-4"><Faq title="Perguntas frequentes" items={FAQ} /></div>}
   </main>
 </BaseLayout>

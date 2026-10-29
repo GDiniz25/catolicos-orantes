@@ -13,7 +13,10 @@ import Faq from '@/components/astro/Faq.astro';
 import FaixaDias from '@/components/astro/FaixaDias.astro';
 import Medalhao from '@/components/astro/Medalhao.astro';
 import { CATEGORY_VISUAL } from '@/config/categoryVisual';
-import { getSaintsByDate, articleExists, getAllArticles } from '@/lib/data';
+import { getSaintsByDate, articleExists, getAllArticles, getLiturgiaJanela } from '@/lib/data';
+import DiaNaLiturgia from '@/components/astro/DiaNaLiturgia.astro';
+import { diaLiturgico } from '@/lib/diaLiturgico';
+import { getTodayStr } from '@/lib/dateUtils';
 import { getShortName, saintHasContent } from '@/lib/saints';
 import { diaMesSlug, diaMesTexto, todosOsDias, MONTHS } from '@/lib/dateUtils';
 import { absUrl, breadcrumbSchema, clampText, faqSchema, itemListSchema } from '@/lib/seo';
@@ -49,13 +52,23 @@ const description = saints.length
   ? clampText(`Santos celebrados em ${dataTxt}: ${nomes.join(', ')}. Conheça a história de cada um e peça sua intercessão.`, 158)
   : `Santos e beatos lembrados pela Igreja em ${dataTxt}.`;
 
-const FAQ = saints.length
+// A data deste ano (ou a mais próxima) que já tem liturgia publicada no site
+const hojeIso = getTodayStr();
+const mmdd = `-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+const naJanela = (await getLiturgiaJanela()).filter((j) => j.date.endsWith(mmdd));
+const itemLit = naJanela.find((j) => j.date >= hojeIso) ?? naJanela[naJanela.length - 1] ?? null;
+const diaLit = itemLit ? await diaLiturgico(itemLit.date, itemLit.liturgia) : null;
+
+const FAQ_SANTO = saints.length
   ? [
       { q: `Qual santo é celebrado em ${dataTxt}?`, a: `Em ${dataTxt}, a Igreja celebra ${nomes.join(', ')}.` },
       { q: 'Como é definido o santo do dia?', a: 'Pelo calendário litúrgico e pelo Martirológio Romano, que indicam a memória de santos e beatos em cada data do ano.' },
       { q: 'Posso pedir a intercessão do santo do dia?', a: 'Sim. A Igreja incentiva a devoção aos santos e o pedido de sua intercessão, sempre dirigindo a oração a Deus.' },
     ]
   : [];
+const FAQ = diaLit && saints.length
+  ? [...FAQ_SANTO, { q: `Qual é a liturgia de ${diaLit.dataSemSemana}?`, a: `${diaLit.dataLonga.charAt(0).toUpperCase()}${diaLit.dataLonga.slice(1)}: cor litúrgica ${diaLit.corNome}${diaLit.evangelho ? `, com o Evangelho ${diaLit.evangelho}` : ''}. As leituras completas estão na página da liturgia diária desta data.` }]
+  : FAQ_SANTO;
 
 const crumbs = [
   { name: 'Início', path: '/' },
@@ -123,6 +136,8 @@ if (FAQ.length) jsonLd.push(faqSchema(FAQ));
           {diaMesTexto(proximo.month, proximo.day)} <ChevronRight className="h-4 w-4" aria-hidden="true" />
         </a>
       </nav>
+
+      {diaLit && saints.length > 0 && <DiaNaLiturgia dia={diaLit} atual="santo" titulo={`A liturgia de ${diaLit.dataSemSemana}`} class="mt-12" />}
 
       {FAQ.length > 0 && <div class="mt-12"><Faq title="Perguntas frequentes" items={FAQ} /></div>}
     </div>

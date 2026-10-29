@@ -11,6 +11,8 @@ import Compartilhar from '@/components/astro/Compartilhar.astro';
 import { imagemDoEvangelista } from '@/lib/imagemDoDia';
 import HojeNav from '@/components/astro/HojeNav.astro';
 import Faq from '@/components/astro/Faq.astro';
+import DiaNaLiturgia from '@/components/astro/DiaNaLiturgia.astro';
+import { diaLiturgico, faqDoDia } from '@/lib/diaLiturgico';
 import { getLiturgia, getLiturgiaJanela, type LiturgiaData } from '@/lib/data';
 import { getReflexao } from '@/lib/reflexoes';
 import { sanitizeLiturgyServer } from '@/lib/sanitize';
@@ -61,7 +63,8 @@ const description = clampText(
   158,
 );
 
-const FAQ = [
+const dia = raw ? await diaLiturgico(today, raw) : null;
+const FAQ_BASE = [
   {
     q: 'Qual é o Evangelho de hoje?',
     a: ref
@@ -77,6 +80,8 @@ const FAQ = [
     a: 'Leia o texto devagar e em silêncio. Depois, faça a Lectio Divina: leitura, meditação, oração e contemplação. A Lectio Divina guiada do site conduz cada passo com o Evangelho do dia.',
   },
 ];
+
+const FAQ = [...FAQ_BASE, ...(dia ? faqDoDia(dia, 'evangelho') : [])];
 
 const crumbs = [
   { name: 'Início', path: '/' },
@@ -168,6 +173,8 @@ const jsonLd = [
           <a href="/liturgia-diaria" class="btn btn-secundario">Liturgia completa</a>
         </div>
       </section>
+
+      {dia && <DiaNaLiturgia dia={dia} atual="evangelho" class="mt-12" />}
 
       <HojeNav atual="evangelho" class="mt-12" />
 

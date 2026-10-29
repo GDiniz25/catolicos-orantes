@@ -15,7 +15,11 @@ import { sanitizeLiturgyServer } from '@/lib/sanitize';
 import { extractLeituras, tidyLiturgyHtml } from '@/lib/liturgy';
 import { dataSlug, formatDateFull, getTodayStr } from '@/lib/dateUtils';
 import { corDaCnbb, corDaLiturgia, celebracaoDaLiturgia, infoDoDia, tomLiturgico, CORES } from '@/lib/anoLiturgico';
-import { absUrl, breadcrumbSchema, clampText, publisherRef } from '@/lib/seo';
+import { absUrl, breadcrumbSchema, clampText, faqSchema, publisherRef } from '@/lib/seo';
+import DiaNaLiturgia from '@/components/astro/DiaNaLiturgia.astro';
+import Faq from '@/components/astro/Faq.astro';
+import { diaLiturgico, faqDoDia } from '@/lib/diaLiturgico';
+import { getReflexao } from '@/lib/reflexoes';
 
 export async function getStaticPaths() {
   const janela = await getLiturgiaJanela();
@@ -41,6 +45,11 @@ const dataSemSemana = dataLonga.replace(/^\S+, /, '').replace(/ de ([A-ZÇ])/g, 
 const title = `Liturgia diária ${dataSemSemana}: ${celebracaoDia ? celebracaoDia.split(',')[0] : 'leituras e Evangelho'}`;
 const description = clampText(`Leituras da Missa de ${dataSemSemana}: ${leituras.join('; ') || liturgia.title}.`, 158);
 
+const dia = await diaLiturgico(date, liturgia);
+const FAQ = faqDoDia(dia, 'liturgia');
+const reflexao = await getReflexao(date);
+const resumoReflexao = reflexao ? (reflexao.texto_html.match(/<p[^>]*>([\s\S]*?)<\/p>/)?.[1] ?? '').replace(/<[^>]+>/g, '').trim() : '';
+
 const crumbs = [
   { name: 'Início', path: '/' },
   { name: 'Liturgia Diária', path: '/liturgia-diaria' },
@@ -63,6 +72,7 @@ const jsonLd = [
     citation: 'Liturgia Diária, Conferência Nacional dos Bispos do Brasil (CNBB)',
   },
   breadcrumbSchema(crumbs),
+  faqSchema(FAQ),
 ];
 ---
 <BaseLayout title={title} description={description} path={path} image={imagemEv} ogType="article" jsonLd={jsonLd} publishedTime={`${date}T00:00:00-03:00`} ctaMaxWidth="max-w-3xl"
@@ -91,6 +101,16 @@ const jsonLd = [
 
       <p class="mt-8 text-center text-xs italic text-co-warm-brown/75">Texto litúrgico: Conferência Nacional dos Bispos do Brasil. © Todos os direitos reservados.</p>
 
+      {reflexao && resumoReflexao && (
+        <section class="mt-10 rounded-xl bg-co-warm-cream p-5 md:p-7" aria-labelledby="reflexao-dia">
+          <h2 id="reflexao-dia" class="font-display text-2xl font-semibold">Reflexão do Evangelho{reflexao.titulo ? `: ${reflexao.titulo}` : ''}</h2>
+          <p class="mt-3 text-[16px] leading-relaxed text-co-warm-brown/85">{clampText(resumoReflexao, 320)}</p>
+          <p class="mt-3 text-[15px]"><a href={`/evangelho-do-dia/${dataSlug(date)}#reflexao`} class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Ler a reflexão completa</a></p>
+        </section>
+      )}
+
+      <DiaNaLiturgia dia={dia} atual="liturgia" class="mt-10" />
+
       <nav class="mt-10 flex items-center justify-between gap-4 border-t border-co-warm-sand-dark pt-6 text-[15px]" aria-label="Outros dias">
         {anterior ? (
           <a href={`/liturgia-diaria/${dataSlug(anterior)}`} class="inline-flex items-center gap-1 underline-offset-4 hover:text-co-warm-terracotta hover:underline">
@@ -106,5 +126,6 @@ const jsonLd = [
       </nav>
     </div>
     <div class="container mx-auto mt-12 max-w-3xl px-4"><HojeNav atual="liturgia" /></div>
+    <div class="container mx-auto mt-12 max-w-3xl px-4"><Faq title="Perguntas frequentes" items={FAQ} /></div>
   </main>
 </BaseLayout>

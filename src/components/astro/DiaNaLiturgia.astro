@@ -1,0 +1,58 @@
+---
+/**
+ * "Este dia na liturgia": resumo próprio de cada data (tempo, celebração, cor, ano, saltério, terço, santos)
+ * e links para as outras páginas do mesmo dia. Usado nas páginas com data de liturgia, Evangelho e Liturgia das Horas.
+ */
+import { CORES } from '@/lib/anoLiturgico';
+import { dataSlug } from '@/lib/dateUtils';
+import { celebracaoEmFrase, resumoEmTexto, tempoEmFrase, type DiaLiturgico } from '@/lib/diaLiturgico';
+
+interface Props {
+  dia: DiaLiturgico;
+  atual: 'liturgia' | 'evangelho' | 'horas' | 'santo';
+  titulo?: string;
+  class?: string;
+}
+const { dia, atual, titulo = 'Este dia na liturgia', class: classe } = Astro.props;
+const slug = dataSlug(dia.data);
+const maiuscula = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const cel = celebracaoEmFrase(dia.celebracao) ?? (dia.celebracao && !/semana/i.test(dia.celebracao) ? dia.celebracao : null);
+
+type Linha = { rotulo: string; valor: string; href?: string; cor?: string };
+const linhas: Linha[] = [
+  { rotulo: 'Tempo litúrgico', valor: maiuscula(tempoEmFrase(dia.rotulo).replace(/^(a|o) /, '')) },
+  ...(cel ? [{ rotulo: 'Celebração', valor: maiuscula(cel.replace(/^(a|o) /, '')) }] : []),
+  { rotulo: 'Cor litúrgica', valor: maiuscula(dia.corNome), cor: CORES[dia.cor].forte },
+  { rotulo: 'Ano litúrgico', valor: `Ano ${dia.anoDominical} nos domingos, Ano ${dia.anoFerial} nos dias de semana` },
+  ...(dia.salterio ? [{ rotulo: 'Liturgia das Horas', valor: dia.salterio, href: atual === 'horas' ? undefined : `/liturgia-das-horas-do-dia/${slug}` }] : []),
+  ...(dia.evangelho ? [{ rotulo: 'Evangelho', valor: dia.evangelho, href: atual === 'evangelho' ? undefined : `/evangelho-do-dia/${slug}` }] : []),
+  { rotulo: 'Terço do dia', valor: dia.misterioNome, href: `/como-rezar-o-terco/os-misterios-${dia.misterio}-do-rosario-e-suas-meditacoes` },
+];
+const santos = atual === 'santo' ? [] : dia.santos.slice(0, 4);
+---
+<section class:list={['rounded-xl border border-co-warm-sand-dark bg-white p-5 md:p-7', classe]} aria-labelledby="dia-na-liturgia">
+  <h2 id="dia-na-liturgia" class="font-display text-2xl font-semibold">{titulo}</h2>
+  <p class="mt-3 text-[16px] leading-relaxed text-co-warm-brown/85">{resumoEmTexto(dia, atual === 'santo' ? 'evangelho' : atual)}</p>
+  <dl class="mt-5 divide-y divide-co-warm-sand-dark border-y border-co-warm-sand-dark text-[15px]">
+    {linhas.map((l) => (
+      <div class="grid gap-1 py-2.5 sm:grid-cols-[11rem_minmax(0,1fr)] sm:gap-4">
+        <dt class="text-co-warm-brown/70">{l.rotulo}</dt>
+        <dd class="flex min-w-0 items-center gap-2 font-medium">
+          {l.cor && <span class="h-3 w-3 shrink-0 rounded-full" style={`background:${l.cor}`} aria-hidden="true"></span>}
+          {l.href ? <a href={l.href} class="text-co-warm-terracotta underline-offset-4 hover:underline">{l.valor}</a> : <span>{l.valor}</span>}
+        </dd>
+      </div>
+    ))}
+    {santos.length > 0 && (
+      <div class="grid gap-1 py-2.5 sm:grid-cols-[11rem_minmax(0,1fr)] sm:gap-4">
+        <dt class="text-co-warm-brown/70">{santos.length > 1 ? 'Santos do dia' : 'Santo do dia'}</dt>
+        <dd class="min-w-0 font-medium">
+          <a href={dia.santoHref} class="text-co-warm-terracotta underline-offset-4 hover:underline">{santos.map((s) => s.nome).join(', ')}</a>
+        </dd>
+      </div>
+    )}
+  </dl>
+  {atual !== 'liturgia' && (
+    <p class="mt-4 text-[15px]"><a href={`/liturgia-diaria/${slug}`} class="font-semibold text-co-warm-terracotta underline-offset-4 hover:underline">Ver todas as leituras da Missa deste dia</a></p>
+  )}
+</section>

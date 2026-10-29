@@ -14,7 +14,10 @@ import { celebracaoDaLiturgia } from '@/lib/anoLiturgico';
 import { dataSlug, getTodayStr, offsetDate, WEEKDAYS_FULL } from '@/lib/dateUtils';
 import { dataBarra, dataComSemana, dataPorExtenso } from '@/lib/hoje';
 import { oficioDoDia, grauDaCelebracao, ROMANO, BENEDICTUS, MAGNIFICAT, NUNC_DIMITTIS, COMPLETAS, type OficioDoDia } from '@/lib/salterio';
-import { absUrl, breadcrumbSchema, clampText, publisherRef } from '@/lib/seo';
+import { absUrl, breadcrumbSchema, clampText, faqSchema, publisherRef } from '@/lib/seo';
+import DiaNaLiturgia from '@/components/astro/DiaNaLiturgia.astro';
+import Faq from '@/components/astro/Faq.astro';
+import { diaLiturgico, faqDoDia } from '@/lib/diaLiturgico';
 
 export async function getStaticPaths() {
   const janela = await getLiturgiaJanela();
@@ -70,6 +73,9 @@ const nomeDia = celebracao ?? o.rotulo;
 const tituloLongo = `Liturgia das Horas de ${extenso}: Laudes, Vésperas e Completas`;
 const title = tituloLongo.length > 70 ? `Liturgia das Horas, ${dataBarra(date)}/${date.slice(0, 4)}: Laudes, Vésperas e Completas` : tituloLongo;
 const description = clampText(`Liturgia das Horas de ${dataComSemana(date)}: ${semanaTxt.charAt(0).toLowerCase() + semanaTxt.slice(1)}, salmos de Laudes, Vésperas e Completas e a celebração do dia.`);
+const dia = await diaLiturgico(date, liturgia);
+const FAQ = faqDoDia(dia, 'horas');
+
 const crumbs = [
   { name: 'Início', path: '/' },
   { name: 'Liturgia das Horas', path: '/liturgia-das-horas' },
@@ -90,6 +96,7 @@ const jsonLd = [
     mainEntityOfPage: { '@type': 'WebPage', '@id': absUrl(path) },
   },
   breadcrumbSchema(crumbs),
+  faqSchema(FAQ),
 ];
 const curto = (d: string) => maiuscula(dataComSemana(d).replace(/ de \d{4}$/, ''));
 ---
@@ -174,6 +181,8 @@ const curto = (d: string) => maiuscula(dataComSemana(d).replace(/ de \d{4}$/, ''
         <p class="mt-4 text-[15px] text-co-warm-brown/80">A semana do saltério é calculada pelo calendário litúrgico. Em festas de santos com ofício próprio, em celebrações locais e no Tempo do Natal, siga sempre a indicação do breviário.</p>
       </section>
 
+      <DiaNaLiturgia dia={dia} atual="horas" />
+
       <nav aria-label="Outros dias" class="border-t border-co-warm-sand-dark pt-6">
         <div class="acoes-2">
           {anterior ? (
@@ -192,6 +201,8 @@ const curto = (d: string) => maiuscula(dataComSemana(d).replace(/ de \d{4}$/, ''
       </nav>
 
       <HojeNav />
+
+      <Faq title="Perguntas frequentes" items={FAQ} />
     </div>
   </main>
 </BaseLayout>
