@@ -24,6 +24,8 @@ if (!achouNoRoteiro) {
   const texto = `${guia.roteiro?.html ?? ''} ${guia.artigo}`.replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ');
   const frase = texto.split(/(?<=[.;])\s/).find((f) => lerOracoesBasicas(f));
   basicas = frase ? lerOracoesBasicas(frase) : null;
+  // "…, Pai-Nosso, Ave-Maria e Glória, …" sem número: um de cada
+  if (!basicas && /pai[- ]nosso,\s*ave[- ]maria\s+e\s+glória/i.test(texto)) basicas = { pai: 1, ave: 1, gloria: 1 };
 }
 const nomesBasicas = basicas ? [basicas.pai && 'Pai-Nosso', basicas.ave && 'Ave-Maria', basicas.gloria && 'Glória'].filter(Boolean) as string[] : [];
 const rotuloBasicas = nomesBasicas.length > 1 ? `${nomesBasicas.slice(0, -1).join(', ')} e ${nomesBasicas[nomesBasicas.length - 1]}` : nomesBasicas[0] ?? '';
