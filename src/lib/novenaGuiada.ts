@@ -205,3 +205,53 @@ export function montarNovena(slug: string, html: string, ladainhas: Map<string, 
     ladainha: l ? { ...l, href: `/ladainhas/${lad}` } : null,
   };
 }
+
+// ───────── Orações que a novena manda rezar sem escrever o texto ─────────
+
+export const SINAL_DA_CRUZ = 'Pelo sinal da Santa Cruz, livrai-nos, Deus, nosso Senhor, dos nossos inimigos. Em nome do Pai e do Filho e do Espírito Santo. Amém.';
+export const SINAL_FINAL = 'Em nome do Pai e do Filho e do Espírito Santo. Amém.';
+const PAI_NOSSO = 'Pai nosso, que estais nos céus, santificado seja o vosso nome; venha a nós o vosso reino; seja feita a vossa vontade, assim na terra como no céu. O pão nosso de cada dia nos dai hoje; perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido; e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.';
+const AVE_MARIA = 'Ave Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém.';
+const GLORIA = 'Glória ao Pai e ao Filho e ao Espírito Santo. Como era no princípio, agora e sempre. Amém.';
+
+const NUMEROS: Record<string, number> = { um: 1, uma: 1, dois: 2, duas: 2, três: 3, tres: 3, quatro: 4, cinco: 5, seis: 6, sete: 7, oito: 8, nove: 9, dez: 10 };
+const quantos = (s?: string) => (s ? NUMEROS[s.toLowerCase()] ?? (Number(s) || 1) : 1);
+const NUM = '(um|uma|dois|duas|três|tres|quatro|cinco|seis|sete|oito|nove|dez|\\d+)';
+const RE_PAI = new RegExp(`\\b${NUM}\\s+pai[- ]nossos?\\b`, 'i');
+const RE_AVE = new RegExp(`\\b${NUM}\\s+ave[- ]marias?\\b`, 'i');
+const RE_GLORIA = new RegExp(`\\b${NUM}\\s+glória\\b`, 'i');
+
+export interface OracoesBasicas { pai: number; ave: number; gloria: number }
+
+/** Lê "um Pai-Nosso, três Ave-Marias e um Glória" de um trecho de texto */
+export function lerOracoesBasicas(texto: string): OracoesBasicas | null {
+  const p = texto.match(RE_PAI);
+  const a = texto.match(RE_AVE);
+  const g = texto.match(RE_GLORIA);
+  if (!p && !a) return null;
+  return { pai: p ? quantos(p[1]) : 0, ave: a ? quantos(a[1]) : 0, gloria: g ? quantos(g[1]) : /glória/i.test(texto) ? 1 : 0 };
+}
+
+const vezes = (n: number) => (n > 1 ? ` (reze ${n} vezes)` : '');
+/** Bloco com o texto completo das orações pedidas */
+export function blocoOracoesBasicas(o: OracoesBasicas): string {
+  const item = (nome: string, texto: string, n: number) => (n ? `<div class="ob-item"><p class="ob-nome">${nome}${vezes(n)}</p><blockquote><p>${texto}</p></blockquote></div>` : '');
+  return `<div class="oracoes-basicas">${item('Pai-Nosso', PAI_NOSSO, o.pai)}${item('Ave-Maria', AVE_MARIA, o.ave)}${item('Glória', GLORIA, o.gloria)}</div>`;
+}
+
+/** Depois de cada instrução curta ("Reze um Pai-Nosso, uma Ave-Maria e um Glória"), coloca o texto das orações */
+export function comOracoesBasicas(html: string): { html: string; achou: boolean } {
+  let achou = false;
+  const saida = html.replace(/<(p|li)([^>]*)>([\s\S]*?)<\/\1>/gi, (m, tag: string, _attrs, dentro) => {
+    const texto = limpar(dentro);
+    if (texto.length > 260 || /santificado seja|cheia de graça/i.test(texto)) return m;
+    // "Pai-Nosso, Ave-Maria e Glória." sozinho num parágrafo também é instrução (um de cada)
+    const lista = texto.length < 60 && /pai[- ]nosso/i.test(texto) && /ave[- ]maria/i.test(texto) ? { pai: 1, ave: 1, gloria: /glória/i.test(texto) ? 1 : 0 } : null;
+    const o = lerOracoesBasicas(texto) ?? lista;
+    if (!o) return m;
+    achou = true;
+    // dentro de uma lista o bloco fica no próprio item, para o HTML continuar válido
+    return tag.toLowerCase() === 'li' ? m.replace(/<\/li>$/i, `${blocoOracoesBasicas(o)}</li>`) : m + blocoOracoesBasicas(o);
+  });
+  return { html: saida, achou };
+}

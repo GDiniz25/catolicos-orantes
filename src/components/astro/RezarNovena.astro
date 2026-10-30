@@ -6,15 +6,33 @@
  * O dia rezado fica salvo no aparelho (e na conta, se houver login) e a página já abre no próximo.
  * Sem JavaScript, todas as etapas aparecem em sequência.
  */
-import type { NovenaGuiada } from '@/lib/novenaGuiada';
+import { blocoOracoesBasicas, comOracoesBasicas, lerOracoesBasicas, SINAL_DA_CRUZ, SINAL_FINAL, type NovenaGuiada, type OracoesBasicas } from '@/lib/novenaGuiada';
 interface Props { guia: NovenaGuiada; id: string; nome: string }
 const { guia, id, nome } = Astro.props;
 const temDias = guia.dias.length === 9;
+
+// Onde a novena manda rezar Pai-Nosso, Ave-Maria e Glória, o texto completo aparece logo abaixo
+const proc = (h?: string | null) => (h ? comOracoesBasicas(h) : null);
+const inicialP = proc(guia.inicial?.html);
+const diasP = guia.dias.map((d) => proc(d.html)!);
+const suplicaP = proc(guia.suplica?.html);
+const finalP = proc(guia.final?.html);
+const achouNoRoteiro = [inicialP, suplicaP, finalP, ...diasP].some((x) => x?.achou);
+// Se a instrução só aparece na explicação do artigo, essas orações ganham uma etapa própria
+let basicas: OracoesBasicas | null = null;
+if (!achouNoRoteiro) {
+  const texto = `${guia.roteiro?.html ?? ''} ${guia.artigo}`.replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ');
+  const frase = texto.split(/(?<=[.;])\s/).find((f) => lerOracoesBasicas(f));
+  basicas = frase ? lerOracoesBasicas(frase) : null;
+}
+const nomesBasicas = basicas ? [basicas.pai && 'Pai-Nosso', basicas.ave && 'Ave-Maria', basicas.gloria && 'Glória'].filter(Boolean) as string[] : [];
+const rotuloBasicas = nomesBasicas.length > 1 ? `${nomesBasicas.slice(0, -1).join(', ')} e ${nomesBasicas[nomesBasicas.length - 1]}` : nomesBasicas[0] ?? '';
 
 type Etapa = { chave: string; rotulo: string };
 const etapas: Etapa[] = [{ chave: 'inicio', rotulo: 'Início' }];
 if (guia.inicial) etapas.push({ chave: 'inicial', rotulo: 'Oração inicial' });
 if (temDias) etapas.push({ chave: 'dia', rotulo: 'Oração do dia' });
+if (basicas) etapas.push({ chave: 'basicas', rotulo: rotuloBasicas });
 if (guia.suplica) etapas.push({ chave: 'suplica', rotulo: 'Oração da novena' });
 if (guia.final) etapas.push({ chave: 'final', rotulo: /^oração final/i.test(guia.final.titulo) ? 'Oração final' : guia.final.titulo.split(/[:(]/)[0].trim() });
 if (guia.ladainha) etapas.push({ chave: 'ladainha', rotulo: 'Ladainha' });
@@ -56,7 +74,9 @@ const nomeCurto = nome.split(/[:|]/)[0].trim();
     <div class="etapa" data-guia-etapa={idx('inicio')}>
       <p class="etapa-sobre">Etapa 1 de {etapas.length}</p>
       <h3 class="etapa-titulo" data-guia-dia-titulo>1º dia da novena</h3>
-      <p>Reserve alguns minutos em silêncio. Faça o sinal da cruz e apresente a Deus a sua intenção. Depois, siga as etapas na ordem:</p>
+      <p>Reserve alguns minutos em silêncio. Comece com o sinal da cruz:</p>
+      <blockquote><p>{SINAL_DA_CRUZ}</p></blockquote>
+      <p>Apresente a Deus a sua intenção. Depois, siga as etapas na ordem:</p>
       <ol class="etapa-lista">
         {etapas.slice(1, -1).map((e) => <li>{e.chave === 'dia' ? 'Oração e meditação do dia' : e.rotulo}</li>)}
       </ol>
@@ -72,7 +92,7 @@ const nomeCurto = nome.split(/[:|]/)[0].trim();
       <div class="etapa" data-guia-etapa={idx('inicial')}>
         <p class="etapa-sobre">Etapa {idx('inicial') + 1} de {etapas.length}</p>
         <h3 class="etapa-titulo">Oração inicial</h3>
-        <Fragment set:html={guia.inicial.html} />
+        <Fragment set:html={inicialP!.html} />
       </div>
     )}
 
@@ -82,9 +102,18 @@ const nomeCurto = nome.split(/[:|]/)[0].trim();
         {guia.dias.map((d, i) => (
           <div data-guia-dia={i} hidden={i !== 0}>
             <h3 class="etapa-titulo">{d.titulo}</h3>
-            <Fragment set:html={d.html} />
+            <Fragment set:html={diasP[i].html} />
           </div>
         ))}
+      </div>
+    )}
+
+    {basicas && (
+      <div class="etapa" data-guia-etapa={idx('basicas')}>
+        <p class="etapa-sobre">Etapa {idx('basicas') + 1} de {etapas.length}</p>
+        <h3 class="etapa-titulo">{rotuloBasicas}</h3>
+        <p>Reze agora {[basicas.pai && `${basicas.pai > 1 ? basicas.pai : 'um'} Pai-Nosso`, basicas.ave && `${basicas.ave > 1 ? `${basicas.ave} Ave-Marias` : 'uma Ave-Maria'}`, basicas.gloria && 'um Glória'].filter(Boolean).join(', ').replace(/, ([^,]*)$/, ' e $1')}:</p>
+        <Fragment set:html={blocoOracoesBasicas(basicas)} />
       </div>
     )}
 
@@ -92,7 +121,7 @@ const nomeCurto = nome.split(/[:|]/)[0].trim();
       <div class="etapa" data-guia-etapa={idx('suplica')}>
         <p class="etapa-sobre">Etapa {idx('suplica') + 1} de {etapas.length}</p>
         <h3 class="etapa-titulo">{guia.suplica.titulo}</h3>
-        <Fragment set:html={guia.suplica.html} />
+        <Fragment set:html={suplicaP!.html} />
       </div>
     )}
 
@@ -100,7 +129,7 @@ const nomeCurto = nome.split(/[:|]/)[0].trim();
       <div class="etapa" data-guia-etapa={idx('final')}>
         <p class="etapa-sobre">Etapa {idx('final') + 1} de {etapas.length}</p>
         <h3 class="etapa-titulo">{etapas[idx('final')].rotulo}</h3>
-        <Fragment set:html={guia.final.html} />
+        <Fragment set:html={finalP!.html} />
       </div>
     )}
 
@@ -116,7 +145,9 @@ const nomeCurto = nome.split(/[:|]/)[0].trim();
     <div class="etapa" data-guia-etapa={idx('fim')}>
       <p class="etapa-sobre">Etapa {etapas.length} de {etapas.length}</p>
       <h3 class="etapa-titulo" data-guia-fim-titulo>Você terminou o 1º dia</h3>
-      <p>Termine com o sinal da cruz. Marque o dia como rezado para a novena abrir no dia seguinte na sua próxima visita.</p>
+      <p>Termine com o sinal da cruz:</p>
+      <blockquote><p>{SINAL_FINAL}</p></blockquote>
+      <p>Marque o dia como rezado para a novena abrir no dia seguinte na sua próxima visita.</p>
       <button type="button" class="btn btn-primario mt-2 w-full" data-guia-marcar aria-pressed="false">Marcar o 1º dia como rezado</button>
       <p class="guia-nota mt-4" data-guia-aviso>O progresso fica salvo neste aparelho. Com login, acompanha você em qualquer aparelho. Veja todas as suas novenas em <a href="/minha-conta">Minha conta</a>.</p>
     </div>
@@ -325,6 +356,9 @@ const nomeCurto = nome.split(/[:|]/)[0].trim();
   .guia-novena :global(.etapa-lista) { margin: 0.5rem 0 0; padding-left: 1.4em; }
   .guia-novena :global(.etapa-detalhe) { margin-top: 1.25rem; border-top: 1px solid hsl(var(--co-warm-sand-dark)); padding-top: 1rem; }
   .guia-novena :global(.etapa-detalhe summary) { cursor: pointer; font-weight: 600; color: hsl(var(--co-warm-terracotta)); }
+  .guia-novena :global(.oracoes-basicas) { margin: 1rem 0 1.25rem; padding: 1rem 1.1rem; border-radius: 0.6rem; background: hsl(var(--co-warm-cream)); display: grid; gap: 0.9rem; }
+  .guia-novena :global(.oracoes-basicas blockquote) { margin: 0.25rem 0 0; }
+  .guia-novena :global(.ob-nome) { margin: 0; font-weight: 700; font-size: 0.95em; color: hsl(var(--co-warm-terracotta)); }
   .guia-novena :global(.guia-nota) { font-size: 0.9em; color: hsl(var(--co-warm-brown) / 0.8); text-align: left; }
   .guia-novena :global(.entra-dir) { animation: entraDir 0.22s ease-out; }
   .guia-novena :global(.entra-esq) { animation: entraEsq 0.22s ease-out; }
