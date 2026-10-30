@@ -16,7 +16,7 @@ const etapas: Etapa[] = [{ chave: 'inicio', rotulo: 'Início' }];
 if (guia.inicial) etapas.push({ chave: 'inicial', rotulo: 'Oração inicial' });
 if (temDias) etapas.push({ chave: 'dia', rotulo: 'Oração do dia' });
 if (guia.suplica) etapas.push({ chave: 'suplica', rotulo: 'Oração da novena' });
-if (guia.final) etapas.push({ chave: 'final', rotulo: /^oração final$/i.test(guia.final.titulo) ? 'Oração final' : guia.final.titulo });
+if (guia.final) etapas.push({ chave: 'final', rotulo: /^oração final/i.test(guia.final.titulo) ? 'Oração final' : guia.final.titulo.split(/[:(]/)[0].trim() });
 if (guia.ladainha) etapas.push({ chave: 'ladainha', rotulo: 'Ladainha' });
 etapas.push({ chave: 'fim', rotulo: 'Concluir' });
 const idx = (c: string) => etapas.findIndex((e) => e.chave === c);
