@@ -1,32 +1,34 @@
 ---
 /**
- * Roteiro da novena numa página só: escolhe o dia, reza na sequência
- * (oração inicial, oração do dia, oração final e ladainha) e marca o dia como rezado.
- * O dia fica salvo no aparelho (e na conta, se houver login) e a página já abre no próximo.
+ * Roteiro da novena em etapas: uma oração por vez, na ordem certa, avançando para o lado
+ * (botões Anterior e Próximo, toque deslizando ou setas do teclado).
+ * Início (escolha do dia) → oração inicial → oração do dia → oração da novena → oração final → ladainha → concluir.
+ * O dia rezado fica salvo no aparelho (e na conta, se houver login) e a página já abre no próximo.
+ * Sem JavaScript, todas as etapas aparecem em sequência.
  */
 import type { NovenaGuiada } from '@/lib/novenaGuiada';
 interface Props { guia: NovenaGuiada; id: string; nome: string }
 const { guia, id, nome } = Astro.props;
 const temDias = guia.dias.length === 9;
-const passos: { ancora: string; rotulo: string }[] = [];
-if (guia.roteiro) passos.push({ ancora: 'guia-roteiro', rotulo: 'Como rezar' });
-if (guia.inicial) passos.push({ ancora: 'guia-inicial', rotulo: 'Oração inicial' });
-if (temDias) passos.push({ ancora: 'guia-dia', rotulo: 'Oração do dia' });
-if (guia.suplica) passos.push({ ancora: 'guia-suplica', rotulo: 'Oração da novena' });
-if (guia.final) passos.push({ ancora: 'guia-final', rotulo: 'Oração final' });
-if (guia.ladainha) passos.push({ ancora: 'guia-ladainha', rotulo: 'Ladainha' });
-let n = 0;
-const num = () => ++n;
----
-<section id="reze-a-novena" class="guia-novena not-prose my-10 overflow-hidden rounded-xl border border-co-warm-sand-dark bg-white" data-guia={id} aria-labelledby="reze-a-novena-titulo">
-  <div class="border-b border-co-warm-sand-dark bg-co-warm-cream/70 p-5 md:p-7">
-    <h2 id="reze-a-novena-titulo" class="font-display text-2xl font-semibold leading-snug text-co-warm-brown md:text-[1.75rem]">Reze a novena dia a dia</h2>
-    <p class="mt-2 text-[16px] leading-relaxed text-co-warm-brown/85" data-guia-status>
-      Escolha o dia e reze tudo em sequência, nesta mesma página. Ao terminar, marque o dia como rezado: na próxima visita a novena já abre no dia seguinte.
-    </p>
 
-    <div class="mt-5" role="group" aria-label="Dia da novena">
-      <p class="mb-2 text-[15px] font-semibold text-co-warm-brown">Dia da novena</p>
+type Etapa = { chave: string; rotulo: string };
+const etapas: Etapa[] = [{ chave: 'inicio', rotulo: 'Início' }];
+if (guia.inicial) etapas.push({ chave: 'inicial', rotulo: 'Oração inicial' });
+if (temDias) etapas.push({ chave: 'dia', rotulo: 'Oração do dia' });
+if (guia.suplica) etapas.push({ chave: 'suplica', rotulo: 'Oração da novena' });
+if (guia.final) etapas.push({ chave: 'final', rotulo: /^oração final$/i.test(guia.final.titulo) ? 'Oração final' : guia.final.titulo });
+if (guia.ladainha) etapas.push({ chave: 'ladainha', rotulo: 'Ladainha' });
+etapas.push({ chave: 'fim', rotulo: 'Concluir' });
+const idx = (c: string) => etapas.findIndex((e) => e.chave === c);
+const nomeCurto = nome.split(/[:|]/)[0].trim();
+---
+<section id="reze-a-novena" class="guia-novena not-prose my-10 rounded-xl border border-co-warm-sand-dark bg-white" data-guia={id} aria-labelledby="reze-a-novena-titulo">
+  <div class="rounded-t-xl border-b border-co-warm-sand-dark bg-co-warm-cream/70 p-5 md:p-7">
+    <h2 id="reze-a-novena-titulo" class="font-display text-2xl font-semibold leading-snug text-co-warm-brown md:text-[1.75rem]">Reze a novena</h2>
+    <p class="mt-2 text-[16px] leading-relaxed text-co-warm-brown/85" data-guia-status>
+      Escolha o dia e siga as orações uma de cada vez, na ordem. Ao terminar, marque o dia como rezado.
+    </p>
+    <div class="mt-4" role="group" aria-label="Dia da novena">
       <div class="grid grid-cols-9 gap-1 sm:gap-2">
         {Array.from({ length: 9 }, (_, i) => (
           <button type="button" data-guia-escolher={i} aria-label={`${i + 1}º dia`} aria-pressed={i === 0 ? 'true' : 'false'}
@@ -39,77 +41,97 @@ const num = () => ++n;
         ))}
       </div>
     </div>
-
-    {passos.length > 2 && (
-      <nav class="mt-5" aria-label="Partes da oração">
-        <ul class="flex flex-wrap gap-2">
-          {passos.map((p) => (
-            <li><a href={`#${p.ancora}`} class="inline-flex min-h-10 items-center rounded-full border border-co-warm-brown/20 bg-white px-3.5 text-[15px] font-medium text-co-warm-brown no-underline hover:border-co-warm-terracotta hover:text-co-warm-terracotta">{p.rotulo}</a></li>
-          ))}
-        </ul>
-      </nav>
-    )}
   </div>
 
-  <div class="guia-corpo article-prose px-5 pb-2 md:px-7">
-    {guia.roteiro && (
-      <details id="guia-roteiro" class="guia-passo">
-        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>Como rezar cada dia</span></summary>
-        <div class="guia-texto"><Fragment set:html={guia.roteiro.html} /></div>
-      </details>
-    )}
+  <!-- Trilha das etapas: mostra onde a pessoa está e permite pular para uma etapa -->
+  <nav class="trilha border-b border-co-warm-sand-dark" aria-label="Etapas da oração" data-guia-trilha hidden>
+    <ol>
+      {etapas.map((e, i) => (
+        <li><button type="button" data-guia-ir={i}><span class="trilha-num" aria-hidden="true">{i + 1}</span><span class="trilha-rotulo">{e.rotulo}</span></button></li>
+      ))}
+    </ol>
+  </nav>
+
+  <div class="guia-corpo article-prose px-5 py-6 md:px-7" data-guia-palco aria-live="polite">
+    <div class="etapa" data-guia-etapa={idx('inicio')}>
+      <p class="etapa-sobre">Etapa 1 de {etapas.length}</p>
+      <h3 class="etapa-titulo" data-guia-dia-titulo>1º dia da novena</h3>
+      <p>Reserve alguns minutos em silêncio. Faça o sinal da cruz e apresente a Deus a sua intenção. Depois, siga as etapas na ordem:</p>
+      <ol class="etapa-lista">
+        {etapas.slice(1, -1).map((e) => <li>{e.chave === 'dia' ? 'Oração e meditação do dia' : e.rotulo}</li>)}
+      </ol>
+      {guia.roteiro && (
+        <details class="etapa-detalhe">
+          <summary>Como esta novena é rezada</summary>
+          <Fragment set:html={guia.roteiro.html} />
+        </details>
+      )}
+    </div>
+
     {guia.inicial && (
-      <details id="guia-inicial" class="guia-passo" open>
-        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>Oração inicial</span></summary>
-        <div class="guia-texto"><Fragment set:html={guia.inicial.html} /></div>
-      </details>
+      <div class="etapa" data-guia-etapa={idx('inicial')}>
+        <p class="etapa-sobre">Etapa {idx('inicial') + 1} de {etapas.length}</p>
+        <h3 class="etapa-titulo">Oração inicial</h3>
+        <Fragment set:html={guia.inicial.html} />
+      </div>
     )}
+
     {temDias && (
-      <div id="guia-dia" class="guia-passo guia-passo-dia">
-        <p class="guia-rotulo"><span class="guia-num" aria-hidden="true">{num()}</span><span>Oração do dia</span></p>
+      <div class="etapa" data-guia-etapa={idx('dia')}>
+        <p class="etapa-sobre">Etapa {idx('dia') + 1} de {etapas.length}</p>
         {guia.dias.map((d, i) => (
-          <div class="guia-texto" data-guia-dia={i} hidden={i !== 0}>
-            <h3>{d.titulo}</h3>
+          <div data-guia-dia={i} hidden={i !== 0}>
+            <h3 class="etapa-titulo">{d.titulo}</h3>
             <Fragment set:html={d.html} />
           </div>
         ))}
       </div>
     )}
+
     {guia.suplica && (
-      <details id="guia-suplica" class="guia-passo" open>
-        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>{guia.suplica.titulo}</span></summary>
-        <div class="guia-texto"><Fragment set:html={guia.suplica.html} /></div>
-      </details>
+      <div class="etapa" data-guia-etapa={idx('suplica')}>
+        <p class="etapa-sobre">Etapa {idx('suplica') + 1} de {etapas.length}</p>
+        <h3 class="etapa-titulo">{guia.suplica.titulo}</h3>
+        <Fragment set:html={guia.suplica.html} />
+      </div>
     )}
+
     {guia.final && (
-      <details id="guia-final" class="guia-passo" open>
-        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>{/^oração final$/i.test(guia.final.titulo) ? 'Oração final' : guia.final.titulo}</span></summary>
-        <div class="guia-texto"><Fragment set:html={guia.final.html} /></div>
-      </details>
+      <div class="etapa" data-guia-etapa={idx('final')}>
+        <p class="etapa-sobre">Etapa {idx('final') + 1} de {etapas.length}</p>
+        <h3 class="etapa-titulo">{etapas[idx('final')].rotulo}</h3>
+        <Fragment set:html={guia.final.html} />
+      </div>
     )}
+
     {guia.ladainha && (
-      <details id="guia-ladainha" class="guia-passo" open>
-        <summary><span class="guia-num" aria-hidden="true">{num()}</span><span>{guia.ladainha.titulo}</span></summary>
-        <div class="guia-texto">
-          <Fragment set:html={guia.ladainha.html} />
-          <p class="guia-nota">A ladainha também tem página própria, com a explicação das invocações: <a href={guia.ladainha.href}>{guia.ladainha.titulo}</a>.</p>
-        </div>
-      </details>
+      <div class="etapa" data-guia-etapa={idx('ladainha')}>
+        <p class="etapa-sobre">Etapa {idx('ladainha') + 1} de {etapas.length}</p>
+        <h3 class="etapa-titulo">{guia.ladainha.titulo}</h3>
+        <Fragment set:html={guia.ladainha.html} />
+        <p class="guia-nota">A ladainha também tem página própria, com a explicação das invocações: <a href={guia.ladainha.href}>{guia.ladainha.titulo}</a>.</p>
+      </div>
     )}
+
+    <div class="etapa" data-guia-etapa={idx('fim')}>
+      <p class="etapa-sobre">Etapa {etapas.length} de {etapas.length}</p>
+      <h3 class="etapa-titulo" data-guia-fim-titulo>Você terminou o 1º dia</h3>
+      <p>Termine com o sinal da cruz. Marque o dia como rezado para a novena abrir no dia seguinte na sua próxima visita.</p>
+      <button type="button" class="btn btn-primario mt-2 w-full" data-guia-marcar aria-pressed="false">Marcar o 1º dia como rezado</button>
+      <p class="guia-nota mt-4" data-guia-aviso>O progresso fica salvo neste aparelho. Com login, acompanha você em qualquer aparelho. Veja todas as suas novenas em <a href="/minha-conta">Minha conta</a>.</p>
+    </div>
   </div>
 
-  <div class="border-t border-co-warm-sand-dark bg-co-warm-cream/70 p-5 md:p-7">
-    <button type="button" class="btn btn-primario w-full" data-guia-marcar aria-pressed="false">Marcar o 1º dia como rezado</button>
-    <div class="mt-2.5 grid grid-cols-2 gap-2.5">
-      <button type="button" class="btn btn-secundario w-full" data-guia-passo="-1">Dia anterior</button>
-      <button type="button" class="btn btn-secundario w-full" data-guia-passo="1">Próximo dia</button>
-    </div>
-    <p class="mt-3 text-[14px] leading-snug text-co-warm-brown/75" data-guia-aviso>O progresso fica salvo neste aparelho. Com login, acompanha você em qualquer aparelho. Veja todas as suas novenas em <a href="/minha-conta" class="font-medium text-co-warm-terracotta underline underline-offset-4">Minha conta</a>.</p>
+  <!-- Barra fixa de navegação entre as etapas -->
+  <div class="barra rounded-b-xl border-t border-co-warm-sand-dark bg-white px-3 py-3 md:px-5" data-guia-barra hidden>
+    <button type="button" class="btn btn-secundario" data-guia-mover="-1">Anterior</button>
+    <p class="barra-meio" data-guia-contador>1 de {etapas.length}</p>
+    <button type="button" class="btn btn-primario" data-guia-mover="1"><span data-guia-proximo>Começar</span></button>
   </div>
 </section>
 
-<script define:vars={{ id, nome }}>
-  window.__novenaGuia = { id, nome };
+<script define:vars={{ id, nome: nomeCurto, rotulos: etapas.map((e) => e.rotulo), iDia: idx('dia') }}>
+  window.__novenaGuia = { id, nome, rotulos, iDia };
 </script>
 <script>
   import { EVENTO, gravar, ler } from '@/lib/progresso';
@@ -118,24 +140,39 @@ const num = () => ++n;
   if (raiz) iniciar(raiz);
 
   function iniciar(raiz: HTMLElement) {
-    const { id } = (window as unknown as { __novenaGuia: { id: string; nome: string } }).__novenaGuia;
+    const { id, rotulos } = (window as unknown as { __novenaGuia: { id: string; nome: string; rotulos: string[]; iDia: number } }).__novenaGuia;
     const prefixo = `co-novena-${id}-`;
     const hoje = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo' }).format(new Date());
     const somar = (s: string, n: number) => new Date(Date.parse(`${s}T12:00:00Z`) + n * 86400000).toISOString().slice(0, 10);
     const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
     const porExtenso = (s: string) => `${Number(s.slice(8, 10))} de ${MESES[Number(s.slice(5, 7)) - 1]}`;
+    const reduzir = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    const botoes = Array.from(raiz.querySelectorAll<HTMLButtonElement>('[data-guia-escolher]'));
-    const paineis = Array.from(raiz.querySelectorAll<HTMLElement>('[data-guia-dia]'));
+    const botoesDia = Array.from(raiz.querySelectorAll<HTMLButtonElement>('[data-guia-escolher]'));
+    const paineisDia = Array.from(raiz.querySelectorAll<HTMLElement>('[data-guia-dia]'));
+    const etapas = Array.from(raiz.querySelectorAll<HTMLElement>('[data-guia-etapa]'));
+    const trilha = raiz.querySelector<HTMLElement>('[data-guia-trilha]')!;
+    const irBtns = Array.from(raiz.querySelectorAll<HTMLButtonElement>('[data-guia-ir]'));
+    const barra = raiz.querySelector<HTMLElement>('[data-guia-barra]')!;
+    const [antBtn, proxBtn] = Array.from(raiz.querySelectorAll<HTMLButtonElement>('[data-guia-mover]'));
+    const proxTxt = raiz.querySelector<HTMLElement>('[data-guia-proximo]')!;
+    const contador = raiz.querySelector<HTMLElement>('[data-guia-contador]')!;
     const marcarBtn = raiz.querySelector<HTMLButtonElement>('[data-guia-marcar]')!;
     const status = raiz.querySelector<HTMLElement>('[data-guia-status]')!;
-    const passoBtns = Array.from(raiz.querySelectorAll<HTMLButtonElement>('[data-guia-passo]'));
+    const diaTitulo = raiz.querySelector<HTMLElement>('[data-guia-dia-titulo]')!;
+    const fimTitulo = raiz.querySelector<HTMLElement>('[data-guia-fim-titulo]')!;
+    const palco = raiz.querySelector<HTMLElement>('[data-guia-palco]')!;
 
     let chave: string | null = null;
     let feitos: boolean[] = Array(9).fill(false);
     let dia = 0;
+    let etapa = 0;
 
-    /** A novena em andamento: a mais recente que ainda não terminou (ou a mais recente de todas) */
+    // Com JavaScript: uma etapa por vez, com trilha e barra de navegação
+    raiz.classList.add('guia-ativa');
+    trilha.hidden = false;
+    barra.hidden = false;
+
     function carregar() {
       const chaves: string[] = [];
       try {
@@ -153,11 +190,12 @@ const num = () => ++n;
       feitos = atual?.v ?? Array(9).fill(false);
       const prox = feitos.findIndex((b) => !b);
       dia = prox === -1 ? 8 : prox;
-      mostrar();
+      mostrarDia();
+      mostrarEtapa(0, false);
     }
 
-    function mostrar() {
-      botoes.forEach((b, i) => {
+    function mostrarDia() {
+      botoesDia.forEach((b, i) => {
         b.setAttribute('aria-pressed', String(i === dia));
         b.classList.toggle('dia-atual', i === dia);
         b.classList.toggle('dia-rezado', feitos[i]);
@@ -165,30 +203,69 @@ const num = () => ++n;
         b.querySelector('.dia-feito')?.classList.toggle('flex', feitos[i]);
         b.setAttribute('aria-label', `${i + 1}º dia${feitos[i] ? ', rezado' : ''}`);
       });
-      paineis.forEach((p, i) => (p.hidden = i !== dia));
-      marcarBtn.textContent = feitos[dia] ? `${dia + 1}º dia rezado. Toque para desmarcar` : `Marcar o ${dia + 1}º dia como rezado`;
+      paineisDia.forEach((p, i) => (p.hidden = i !== dia));
+      diaTitulo.textContent = `${dia + 1}º dia da novena`;
+      fimTitulo.textContent = feitos[dia] ? `${dia + 1}º dia rezado` : `Você terminou o ${dia + 1}º dia`;
+      marcarBtn.textContent = feitos[dia] ? `${dia + 1}º dia marcado. Toque para desmarcar` : `Marcar o ${dia + 1}º dia como rezado`;
       marcarBtn.setAttribute('aria-pressed', String(feitos[dia]));
       marcarBtn.classList.toggle('btn-primario', !feitos[dia]);
       marcarBtn.classList.toggle('btn-secundario', feitos[dia]);
-      passoBtns[0].disabled = dia === 0;
-      passoBtns[1].disabled = dia === 8;
       const total = feitos.filter(Boolean).length;
       const inicio = chave?.slice(prefixo.length);
-      if (!total) status.textContent = 'Escolha o dia e reze tudo em sequência, nesta mesma página. Ao terminar, marque o dia como rezado: na próxima visita a novena já abre no dia seguinte.';
-      else if (total === 9) status.textContent = 'Você rezou os nove dias desta novena. Para rezar de novo, desmarque os dias ou escolha um dia para recomeçar.';
+      if (!total) status.textContent = 'Escolha o dia e siga as orações uma de cada vez, na ordem. Ao terminar, marque o dia como rezado.';
+      else if (total === 9) status.textContent = 'Você rezou os nove dias desta novena. Para rezar de novo, escolha um dia e desmarque-o no fim.';
       else status.textContent = `Você já rezou ${total} de 9 dias${inicio ? ` (começou em ${porExtenso(inicio)})` : ''}. ${feitos[dia] ? `O ${dia + 1}º dia já está marcado.` : `Agora é o ${dia + 1}º dia.`}`;
     }
 
-    function escolher(i: number) {
-      dia = Math.max(0, Math.min(8, i));
-      mostrar();
+    function mostrarEtapa(i: number, rolar = true, direcao = 0) {
+      etapa = Math.max(0, Math.min(etapas.length - 1, i));
+      etapas.forEach((e, k) => {
+        e.hidden = k !== etapa;
+        e.classList.remove('entra-dir', 'entra-esq');
+        if (k === etapa && direcao && !reduzir) e.classList.add(direcao > 0 ? 'entra-dir' : 'entra-esq');
+      });
+      irBtns.forEach((b, k) => {
+        b.setAttribute('aria-current', k === etapa ? 'step' : 'false');
+        b.classList.toggle('feita', k < etapa);
+      });
+      irBtns[etapa]?.scrollIntoView({ block: 'nearest', inline: 'center', behavior: reduzir ? 'auto' : 'smooth' });
+      contador.textContent = `${etapa + 1} de ${etapas.length}`;
+      antBtn.disabled = etapa === 0;
+      const ultima = etapa === etapas.length - 1;
+      proxBtn.hidden = ultima;
+      proxTxt.textContent = etapa === 0 ? `Começar o ${dia + 1}º dia` : `Próximo: ${rotulos[etapa + 1] ?? ''}`;
+      if (rolar) {
+        const topo = trilha.getBoundingClientRect().top;
+        if (topo < 0 || topo > window.innerHeight * 0.4) trilha.scrollIntoView({ block: 'start', behavior: reduzir ? 'auto' : 'smooth' });
+      }
     }
 
-    botoes.forEach((b, i) => b.addEventListener('click', () => escolher(i)));
-    passoBtns.forEach((b) => b.addEventListener('click', () => {
-      escolher(dia + Number(b.dataset.guiaPasso));
-      document.getElementById('reze-a-novena')?.scrollIntoView({ block: 'start', behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    botoesDia.forEach((b, i) => b.addEventListener('click', () => {
+      dia = i;
+      mostrarDia();
+      mostrarEtapa(etapa === etapas.length - 1 ? 0 : etapa, false);
     }));
+    irBtns.forEach((b, i) => b.addEventListener('click', () => mostrarEtapa(i, true, i > etapa ? 1 : -1)));
+    antBtn.addEventListener('click', () => mostrarEtapa(etapa - 1, true, -1));
+    proxBtn.addEventListener('click', () => mostrarEtapa(etapa + 1, true, 1));
+
+    // Deslizar para o lado no celular
+    let x0 = 0;
+    let y0 = 0;
+    palco.addEventListener('touchstart', (e) => { x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; }, { passive: true });
+    palco.addEventListener('touchend', (e) => {
+      const dx = e.changedTouches[0].clientX - x0;
+      const dy = e.changedTouches[0].clientY - y0;
+      if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 1.5) mostrarEtapa(etapa + (dx < 0 ? 1 : -1), true, dx < 0 ? 1 : -1);
+    }, { passive: true });
+    // Setas do teclado quando o foco está no roteiro
+    raiz.addEventListener('keydown', (e) => {
+      const alvo = e.target as HTMLElement;
+      if (alvo.closest('input, textarea, summary')) return;
+      if (e.key === 'ArrowRight') mostrarEtapa(etapa + 1, true, 1);
+      if (e.key === 'ArrowLeft') mostrarEtapa(etapa - 1, true, -1);
+    });
+
     marcarBtn.addEventListener('click', () => {
       // novena nova: o 1º dia é contado a partir de hoje
       if (!chave) {
@@ -204,8 +281,8 @@ const num = () => ++n;
           /* sem GA */
         }
       }
-      mostrar();
-      if (feitos[dia] && dia < 8 && !feitos[dia + 1]) status.textContent += ` Na próxima visita, a página abre no ${dia + 2}º dia.`;
+      mostrarDia();
+      if (feitos[dia] && dia < 8 && !feitos[dia + 1]) status.textContent += ` Na próxima visita, a novena abre no ${dia + 2}º dia.`;
     });
     addEventListener(EVENTO, carregar);
     carregar();
@@ -216,31 +293,59 @@ const num = () => ++n;
   .guia-novena .dia-atual { background: hsl(var(--co-warm-terracotta)); border-color: hsl(var(--co-warm-terracotta)); color: #fff; }
   .guia-novena .dia-atual .dia-feito { background: #fff; color: hsl(var(--co-warm-terracotta)); }
   .guia-novena .dia-rezado:not(.dia-atual) { background: hsl(var(--co-warm-cream)); }
-  .guia-novena :global(.guia-passo) { border-top: 1px solid hsl(var(--co-warm-sand-dark)); padding: 1.25rem 0; margin: 0; }
-  .guia-novena :global(.guia-passo:first-child) { border-top: 0; }
-  .guia-novena :global(summary), .guia-novena :global(.guia-rotulo) {
-    display: flex; align-items: center; gap: 0.75rem; margin: 0; cursor: pointer; list-style: none;
-    font-family: 'Source Serif 4 Variable', 'Source Serif 4', Georgia, serif; font-weight: 600;
-    font-size: calc(1.3rem * var(--prose-escala, 1)); line-height: 1.35; text-align: left; color: hsl(var(--co-warm-brown));
+
+  /* Trilha das etapas */
+  .trilha { overflow-x: auto; scrollbar-width: none; background: #fff; }
+  .trilha::-webkit-scrollbar { display: none; }
+  .trilha ol { display: flex; gap: 0.25rem; margin: 0; padding: 0.6rem 0.75rem; list-style: none; min-width: max-content; }
+  .trilha button {
+    display: inline-flex; align-items: center; gap: 0.45rem; min-height: 2.5rem; padding: 0 0.75rem; border-radius: 999px;
+    font-size: 14px; font-weight: 500; color: hsl(var(--co-warm-brown) / 0.75); white-space: nowrap;
   }
-  .guia-novena :global(.guia-rotulo) { cursor: default; }
-  .guia-novena :global(summary::-webkit-details-marker) { display: none; }
-  .guia-novena :global(summary)::after {
-    content: ''; margin-left: auto; width: 0.6rem; height: 0.6rem; flex-shrink: 0;
-    border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(45deg) translateY(-2px); opacity: 0.6;
+  .trilha button:hover { color: hsl(var(--co-warm-brown)); background: hsl(var(--co-warm-cream)); }
+  .trilha button:focus-visible { outline: 2px solid hsl(var(--co-warm-terracotta)); outline-offset: 2px; }
+  .trilha-num {
+    display: inline-flex; align-items: center; justify-content: center; width: 1.5rem; height: 1.5rem; border-radius: 999px;
+    border: 1.5px solid currentColor; font-size: 12px; font-weight: 700;
   }
-  .guia-novena :global(details[open] > summary)::after { transform: rotate(-135deg) translateY(-2px); }
-  .guia-novena :global(summary:focus-visible) { outline: 2px solid hsl(var(--co-warm-terracotta)); outline-offset: 4px; border-radius: 4px; }
-  .guia-novena :global(.guia-num) {
-    display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; width: 1.9rem; height: 1.9rem; border-radius: 999px;
-    font-family: 'DM Sans Variable', 'DM Sans', system-ui, sans-serif; font-size: 0.95rem; font-weight: 700;
-    background: hsl(var(--co-warm-cream)); color: hsl(var(--co-warm-terracotta));
+  .trilha button.feita { color: hsl(var(--co-warm-brown)); }
+  .trilha button.feita .trilha-num { background: hsl(var(--co-warm-brown)); border-color: hsl(var(--co-warm-brown)); color: #fff; }
+  .trilha button[aria-current='step'] { background: hsl(var(--co-warm-terracotta)); color: #fff; font-weight: 700; }
+  .trilha button[aria-current='step'] .trilha-num { border-color: #fff; }
+
+  /* Etapas: sem JavaScript, todas aparecem em sequência; com ele, uma por vez */
+  .guia-novena :global(.etapa + .etapa) { margin-top: 2rem; padding-top: 2rem; border-top: 1px solid hsl(var(--co-warm-sand-dark)); }
+  .guia-ativa :global(.etapa + .etapa) { margin-top: 0; padding-top: 0; border-top: 0; }
+  .guia-novena :global(.etapa-sobre) { margin: 0 0 0.25rem; font-size: 14px; font-weight: 600; color: hsl(var(--co-warm-terracotta)); text-align: left; }
+  .guia-novena :global(.etapa-titulo) {
+    margin: 0 0 1rem; font-family: 'Source Serif 4 Variable', 'Source Serif 4', Georgia, serif; font-weight: 600;
+    font-size: calc(1.45rem * var(--prose-escala, 1)); line-height: 1.3; color: hsl(var(--co-warm-brown));
   }
-  .guia-novena :global(.guia-texto) { margin-top: 0.75rem; }
-  .guia-novena :global(.guia-texto > :first-child) { margin-top: 0; }
-  .guia-novena :global(.guia-passo-dia .guia-texto h3) { margin-top: 0.75rem; color: hsl(var(--co-warm-terracotta)); }
+  .guia-novena :global(.etapa p) { text-align: left; }
+  .guia-novena :global(.etapa-lista) { margin: 0.5rem 0 0; padding-left: 1.4em; }
+  .guia-novena :global(.etapa-detalhe) { margin-top: 1.25rem; border-top: 1px solid hsl(var(--co-warm-sand-dark)); padding-top: 1rem; }
+  .guia-novena :global(.etapa-detalhe summary) { cursor: pointer; font-weight: 600; color: hsl(var(--co-warm-terracotta)); }
   .guia-novena :global(.guia-nota) { font-size: 0.9em; color: hsl(var(--co-warm-brown) / 0.8); text-align: left; }
-  .guia-novena :global(.guia-texto p) { text-align: left; }
-  .guia-novena button:disabled { opacity: 0.45; cursor: not-allowed; }
+  .guia-novena :global(.entra-dir) { animation: entraDir 0.22s ease-out; }
+  .guia-novena :global(.entra-esq) { animation: entraEsq 0.22s ease-out; }
+  @keyframes entraDir { from { opacity: 0.2; transform: translateX(24px); } to { opacity: 1; transform: none; } }
+  @keyframes entraEsq { from { opacity: 0.2; transform: translateX(-24px); } to { opacity: 1; transform: none; } }
+
+  /* Barra de navegação: fica presa no rodapé da tela enquanto o roteiro está visível */
+  .barra {
+    position: sticky; bottom: 0; z-index: 5; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 0.6rem;
+    padding-bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
+    box-shadow: 0 -6px 16px -12px hsl(var(--co-warm-brown) / 0.35);
+  }
+  .barra .btn { min-height: 2.75rem; padding-inline: 1rem; font-size: 15px; }
+  .barra [data-guia-mover='1'] { max-width: 15rem; }
+  .barra [data-guia-mover='1'] span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .barra-meio { margin: 0; text-align: center; font-size: 14px; color: hsl(var(--co-warm-brown) / 0.75); font-variant-numeric: tabular-nums; }
+  .guia-novena button:disabled { opacity: 0.4; cursor: not-allowed; }
+  @media (max-width: 420px) {
+    .barra { grid-template-columns: auto minmax(0, 1fr); }
+    .barra-meio { display: none; }
+    .barra [data-guia-mover='1'] { max-width: none; justify-self: stretch; }
+  }
   :global(html) { scroll-padding-top: 5.5rem; }
 </style>

@@ -48,7 +48,7 @@ const clean = cleanArticleHtml(article.content);
 const plain = htmlToText(clean);
 const wordCount = plain.split(/\s+/).filter(Boolean).length;
 const readingTime = Math.max(1, Math.ceil(wordCount / 200));
-// Novenas: as orações de cada dia saem do meio do texto e vão para o roteiro "Reze a novena dia a dia"
+// Novenas: as orações de cada dia saem do meio do texto e vão para o roteiro "Reze a novena"
 const ladainhas = new Map<string, { titulo: string; html: string }>();
 if (article.category === 'novenas') {
   for (const a of all) {
@@ -59,12 +59,20 @@ if (article.category === 'novenas') {
 }
 const guia = article.category === 'novenas' ? montarNovena(article.slug, clean, ladainhas) : null;
 const guiaId = NOVENAS.find((x) => x.artigo === `/novenas/${article.slug}`)?.id ?? article.slug;
-const comLinks = injectInlineLinks(guia ? guia.artigo : clean, related);
+// O roteiro da novena vem logo depois da introdução (antes do primeiro título): quem chega quer rezar
+const artigoNovena = guia
+  ? (() => {
+      const sem = guia.artigo.replace(MARCADOR_GUIA, '');
+      const h2 = sem.search(/<h2[\s>]/i);
+      return h2 > 0 ? sem.slice(0, h2) + MARCADOR_GUIA + sem.slice(h2) : MARCADOR_GUIA + sem;
+    })()
+  : null;
+const comLinks = injectInlineLinks(artigoNovena ?? clean, related);
 const { html: htmlComIds, toc: tocArtigo } = addHeadingIds(
-  guia ? comLinks.replace(MARCADOR_GUIA, '<h2 id="reze-a-novena-marca">Reze a novena dia a dia</h2>' + MARCADOR_GUIA) : comLinks,
+  guia ? comLinks.replace(MARCADOR_GUIA, '<h2 id="reze-a-novena-marca">Reze a novena</h2>' + MARCADOR_GUIA) : comLinks,
 );
 // o título do roteiro entra no sumário, mas é desenhado pelo componente
-const toc = tocArtigo.map((t) => (t.text === 'Reze a novena dia a dia' ? { ...t, id: 'reze-a-novena' } : t));
+const toc = tocArtigo.map((t) => (t.text === 'Reze a novena' ? { ...t, id: 'reze-a-novena' } : t));
 // Ponte para o app: autoconhecimento leva ao quiz; namoro, matrimônio e vocação levam à comunidade
 const chaveArtigo = `${article.category}/${article.slug}`;
 const CONVITE_QUIZ = /^duvidas-da-fe\/(temperamento-|os-quatro-temperamentos|estilos-de-apego|apego-|linguagens-do-amor)/;
