@@ -65,6 +65,8 @@ export const LADAINHA_DA_NOVENA: Record<string, string> = {
 /** Títulos que fogem do padrão em alguma novena */
 const FINAL_EXTRA: Record<string, RegExp> = {
   'novena-ao-divino-pai-eterno': /^consagração ao divino pai eterno/,
+  // sem oração final própria: encerra com o Responsório (Si Quaeris), que o artigo já traz
+  'novena-a-santo-antonio-de-padua': /^o responsório de santo antônio/,
 };
 
 interface Titulo {
