@@ -9,3 +9,10 @@
 - Numeração: use a da Bíblia da CNBB. Atenção a Daniel (3,24-90 é a parte grega com o cântico; capítulos 13 e 14), Ester (partes gregas), Malaquias (3 capítulos), Joel (4 capítulos). Se não tiver certeza da numeração de um versículo, use blocos temáticos.
 - Cântico dos Cânticos: sentido literal do amor humano e leitura tradicional (Deus e Israel, Cristo e a Igreja, a alma), com pudor e beleza.
 - Profetas: contexto histórico do profeta, mensagem, ecos no NT e na liturgia (Advento, Quaresma) só com certeza.
+
+## SEO e GEO (buscadores e assistentes de IA)
+- O primeiro parágrafo deve se sustentar sozinho, como resposta citável: quem, onde, o quê e o sentido do capítulo, com nomes próprios (personagens, lugares, reis, profetas) e "{Livro} {cap}" em <strong>.
+- Cada <h3> nomeia o fato ou tema do bloco com as palavras que as pessoas buscam (ex.: "Versículos 1 a 13: Davi e Golias", e não "Versículos 1 a 13: o confronto").
+- FAQ: perguntas como as pessoas digitam no Google ou fazem a um assistente ("Quem foi...", "O que significa...", "Por que Deus..."), respostas autônomas que façam sentido sem ler a página.
+- Título: o tema mais buscado do capítulo (o episódio ou personagem conhecido), não um rótulo genérico.
+- Links: ligue ao capítulo anterior e ao seguinte quando natural, e aos paralelos (ex.: Reis com Crônicas, profetas com Reis).
