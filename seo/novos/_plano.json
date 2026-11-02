@@ -2359,5 +2359,74 @@
    "category": "sacramentos",
    "foco": "como se confessar passo a passo: exame de consciência, o que dizer ao padre ao chegar, como contar os pecados, penitência, ato de contrição, absolvição, o que fazer depois; para quem está voltando à Igreja"
   }
+ ],
+ "SEO2": [
+  {
+   "slug": "oracao-da-coroa-do-advento-para-cada-domingo",
+   "category": "calendario-liturgico",
+   "foco": "oração para acender cada vela da coroa do Advento nos 4 domingos (1º ao 4º), roteiro curto em família: sinal da cruz, leitura bíblica breve indicada por referência, acender a vela, oração (sugestão de oração), canto opcional; cores das velas; Advento 2026 começa em 29/11/2026 (domingos 29/11, 6/12, 13/12, 20/12)"
+  },
+  {
+   "slug": "missa-do-galo-o-que-e-e-origem",
+   "category": "calendario-liturgico",
+   "foco": "o que é a Missa do Galo, origem do nome (tradição), Missa da noite de Natal no Missal (Missa da Noite), horário (varia por paróquia; tradicionalmente meia-noite), se vale para o preceito do Natal, as três Missas do Natal"
+  },
+  {
+   "slug": "bencao-do-presepio-em-familia",
+   "category": "calendario-liturgico",
+   "foco": "como abençoar o presépio em casa: quando montar, quem pode conduzir (pai ou mãe, leigos podem fazer bênção em família, o Ritual de Bênçãos prevê), roteiro simples com leitura Lc 2, oração (sugestão), quando colocar o Menino Jesus (noite de Natal) e os Reis Magos (Epifania)"
+  },
+  {
+   "slug": "confissao-antes-do-natal-como-se-preparar",
+   "category": "sacramentos",
+   "foco": "por que confessar no Advento, mutirões de confissão nas paróquias, exame de consciência, como se confessar, ato de contrição; ligar com /sacramentos/como-se-confessar-passo-a-passo e /exame-de-consciencia/ato-de-contricao-diferentes-versoes-e-como-rezar"
+  },
+  {
+   "slug": "comentarios-para-missa-de-casamento",
+   "category": "casamento",
+   "foco": "roteiro do comentarista na Missa de casamento: comentários de entrada, antes das leituras, consentimento, alianças, ofertório, comunhão e final, todos como sugestões de texto curtas e originais; dicas de quem lê, tom, duração; quando é celebração sem Missa"
+  },
+  {
+   "slug": "bodas-de-prata-e-de-ouro-na-igreja",
+   "category": "casamento",
+   "foco": "como celebrar bodas (25, 50 anos) na Igreja: Missa em ação de graças, renovação das promessas (o Ritual do Matrimônio tem bênção para aniversários de casamento), como pedir na paróquia, leituras, padrinhos, alianças, lista de nomes das bodas mais comuns sem inventar"
+  },
+  {
+   "slug": "leituras-para-bodas-e-renovacao-de-votos",
+   "category": "casamento",
+   "foco": "sugestões de leituras bíblicas para Missa de bodas e renovação de votos, apenas com referência (sem copiar texto longo): Tobias, Cântico dos Cânticos, Eclesiástico, 1Cor 13, Cl 3, Ef 5, salmos 127(128), 33(34), evangelhos Mt 19, Jo 2, Jo 15; o sentido de cada; quem escolhe"
+  }
+ ],
+ "SEO3": [
+  {
+   "slug": "comentarios-para-missa-de-batizado",
+   "category": "sacramentos",
+   "foco": "roteiro do comentarista na celebração do batismo (dentro ou fora da Missa): acolhida, liturgia da palavra, unção, renúncia e profissão de fé, batismo, veste branca, vela, final; textos como sugestões curtas e originais"
+  },
+  {
+   "slug": "o-que-os-padrinhos-fazem-no-batismo",
+   "category": "sacramentos",
+   "foco": "o papel dos padrinhos durante a cerimônia: sinal da cruz na fronte, profissão de fé, segurar a criança, acender a vela no círio pascal, veste branca; e depois do batismo; requisitos em resumo com link para /sacramentos/como-escolher-padrinhos-de-batismo-requisitos-da-igreja"
+  },
+  {
+   "slug": "roupa-de-batizado-cor-vela-e-veste-branca",
+   "category": "sacramentos",
+   "foco": "roupa do bebê e da família no batizado: veste branca e seu sentido (rito), cor da roupa, vela do batismo (acesa no círio pascal, guardar e reacender), o que levar no dia; costumes variam"
+  },
+  {
+   "slug": "lembrancinhas-de-batizado-ideias-e-sentido-cristao",
+   "category": "sacramentos",
+   "foco": "ideias de lembrancinhas de batizado com sentido cristão (terço, santinho com data, vela pequena, medalha, água benta não), o que escrever no cartão (sugestões originais), quantidade, orçamento; sem citar marcas"
+  },
+  {
+   "slug": "guia-do-batismo-na-igreja",
+   "category": "sacramentos",
+   "foco": "guia em ordem para quem vai batizar: decidir, procurar a paróquia, documentos, curso, escolher padrinhos, nome, roupa e vela, a cerimônia (rito passo a passo), depois do batismo; cada etapa com 2 a 4 frases e link para o artigo do site daquele assunto (use os slugs de batismo e padrinhos existentes em _slugs-site.txt)"
+  },
+  {
+   "slug": "guia-do-casamento-na-igreja",
+   "category": "casamento",
+   "foco": "guia em ordem para quem vai casar na Igreja: primeiros passos e prazos, marcar na paróquia, documentos, habilitação e proclamas, curso de noivos, padrinhos, leituras, músicas, ordem de entrada, rito passo a passo, depois do casamento; cada etapa com 2 a 4 frases e link para o artigo do site (use os slugs /casamento/ existentes em _slugs-site.txt)"
+  }
  ]
 }

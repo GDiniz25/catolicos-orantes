@@ -45,11 +45,23 @@ const nomes = saints.map((s) => getShortName(s.saint_name));
 const nomesUnicos = nomes.filter((n, i) => nomes.findIndex((m) => m.toLowerCase() === n.toLowerCase()) === i);
 const tom = CATEGORY_VISUAL['santos-e-oracoes'];
 const inicial = (nome: string) => (getShortName(nome).replace(/^(São|Santa|Santo|S\.|Sto\.|Sta\.|Beato|Beata|Bem-aventurad[oa]|Nossa Senhora d[aeo]s?)\s*/i, '').trim()[0] || '+').toUpperCase();
-const nomesSeo = nomesUnicos.length === 1 ? nomesUnicos[0] : `${nomesUnicos[0]} e outros`;
+// Dois nomes no título quando cabem (o Google corta perto de 60 caracteres)
+const doisNomes = nomesUnicos.length >= 2 ? `${nomesUnicos[0]} e ${nomesUnicos[1]}` : null;
+const nomesSeo = nomesUnicos.length === 1
+  ? nomesUnicos[0]
+  : doisNomes && `Santo do dia ${dataTxt}: ${doisNomes}`.length <= 60 && nomesUnicos.length === 2
+    ? doisNomes
+    : `${nomesUnicos[0]} e outros`;
+const listaNomes = (xs: string[]) => (xs.length <= 1 ? xs.join('') : `${xs.slice(0, -1).join(', ')} e ${xs[xs.length - 1]}`);
+// Resposta direta para "dia X é dia de qual santo?"
+const resposta = saints.length
+  ? `Dia ${dataTxt} é dia de ${listaNomes(nomesUnicos.slice(0, 3))}${nomesUnicos.length > 3 ? `, entre outros ${nomesUnicos.length - 3} santos e beatos lembrados pela Igreja` : ''}.`
+  : '';
+const primeiraFrase = (saints.find((x) => x.description)?.description ?? '').split(/(?<=[.!?])\s/)[0] ?? '';
 
 const title = saints.length ? `Santo do dia ${dataTxt}: ${nomesSeo}` : `Santo do dia ${dataTxt}`;
 const description = saints.length
-  ? clampText(`Santos celebrados em ${dataTxt}: ${nomes.join(', ')}. Conheça a história de cada um e peça sua intercessão.`, 158)
+  ? clampText(`${resposta} ${primeiraFrase}`.trim(), 158)
   : `Santos e beatos lembrados pela Igreja em ${dataTxt}.`;
 
 // A data deste ano (ou a mais próxima) que já tem liturgia publicada no site
@@ -61,7 +73,7 @@ const diaLit = itemLit ? await diaLiturgico(itemLit.date, itemLit.liturgia) : nu
 
 const FAQ_SANTO = saints.length
   ? [
-      { q: `Qual santo é celebrado em ${dataTxt}?`, a: `Em ${dataTxt}, a Igreja celebra ${nomes.join(', ')}.` },
+      { q: `Dia ${dataTxt} é dia de qual santo?`, a: `Em ${dataTxt}, a Igreja celebra ${nomes.join(', ')}.` },
       { q: 'Como é definido o santo do dia?', a: 'Pelo calendário litúrgico e pelo Martirológio Romano, que indicam a memória de santos e beatos em cada data do ano.' },
       { q: 'Posso pedir a intercessão do santo do dia?', a: 'Sim. A Igreja incentiva a devoção aos santos e o pedido de sua intercessão, sempre dirigindo a oração a Deus.' },
     ]
@@ -105,6 +117,7 @@ if (FAQ.length) jsonLd.push(faqSchema(FAQ));
   </PageHeader>
   <main id="conteudo" class="py-8 md:py-12">
     <div class="container mx-auto max-w-3xl px-4">
+      {saints.length > 0 && <p class="mb-6 text-[17px] leading-relaxed">{resposta}</p>}
       {saints.length ? (
         <ul class="space-y-4">
           {saints.map((s) => (
