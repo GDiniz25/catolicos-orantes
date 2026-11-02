@@ -16,6 +16,10 @@ on:
     - cron: '5 3 * * *'   # 00:05 em Brasília: liturgia, santo e versículo do novo dia
     - cron: '0 10 * * *'  # 07:00 em Brasília: reforço
 
+# O token do GitHub neste fluxo só lê o código: nada aqui precisa escrever no repositório
+permissions:
+  contents: read
+
 concurrency:
   group: deploy-site
   cancel-in-progress: false
